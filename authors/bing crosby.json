@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/bing_crosby_121119",
+        "quote": "Unless we make Christmas an occasion to share our blessings, all the snow in Alaska won't make it 'white'.",
+        "author": {
+            "name": "Bing Crosby",
+            "url": "/quotes/bing_crosby_121119"
+        },
+        "topics": [
+            {
+                "name": "White",
+                "url": "/topics/white"
+            },
+            {
+                "name": "Christmas",
+                "url": "/topics/christmas"
+            },
+            {
+                "name": "Occasion",
+                "url": "/topics/occasion"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bing_crosby_362205",
+        "quote": "My golf is woeful but I will never surrender.",
+        "author": {
+            "name": "Bing Crosby",
+            "url": "/quotes/bing_crosby_362205"
+        },
+        "topics": [
+            {
+                "name": "Golf",
+                "url": "/topics/golf"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bing_crosby_362203",
+        "quote": "I think popular music in this country is one of the few things in the twentieth century that have made giant strides in reverse.",
+        "author": {
+            "name": "Bing Crosby",
+            "url": "/quotes/bing_crosby_362203"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bing_crosby_315990",
+        "quote": "We'd dub the one that came off best into the final transcription. It gave us a chance to ad lib as much as we wanted, knowing that excess ad libbing could be sliced from the final product.",
+        "author": {
+            "name": "Bing Crosby",
+            "url": "/quotes/bing_crosby_315990"
+        },
+        "topics": [
+            {
+                "name": "Chance",
+                "url": "/topics/chance"
+            },
+            {
+                "name": "Product",
+                "url": "/topics/product"
+            },
+            {
+                "name": "Ad",
+                "url": "/topics/ad"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bing_crosby_362207",
+        "quote": "There is nothing in the world I wouldn't do for Hope, and there is nothing he wouldn't do for me... We spend our lives doing nothing for each other.",
+        "author": {
+            "name": "Bing Crosby",
+            "url": "/quotes/bing_crosby_362207"
+        },
+        "topics": [
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Lives",
+                "url": "/topics/lives"
+            }
+        ]
+    }
+]

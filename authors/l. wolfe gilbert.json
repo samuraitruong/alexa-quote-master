@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/l_wolfe_gilbert_404405",
+        "quote": "Those who find beauty in all of nature will find themselves at one with the secrets of life itself.",
+        "author": {
+            "name": "L. Wolfe Gilbert",
+            "url": "/quotes/l_wolfe_gilbert_404405"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "Beauty",
+                "url": "/topics/beauty"
+            },
+            {
+                "name": "Itself",
+                "url": "/topics/itself"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/l_wolfe_gilbert_222022",
+        "quote": "Perchance the chemist is already damned and the guardian the blackest.",
+        "author": {
+            "name": "L. Wolfe Gilbert",
+            "url": "/quotes/l_wolfe_gilbert_222022"
+        },
+        "topics": [
+            {
+                "name": "Chemist",
+                "url": "/topics/chemist"
+            },
+            {
+                "name": "Perchance",
+                "url": "/topics/perchance"
+            },
+            {
+                "name": "Blackest",
+                "url": "/topics/blackest"
+            }
+        ]
+    }
+]

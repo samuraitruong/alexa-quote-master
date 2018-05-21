@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/william_mcilvanney_400820",
+        "quote": "Who thinks the law has anything to do with justice? It's what we have because we can't have justice.",
+        "author": {
+            "name": "William McIlvanney",
+            "url": "/quotes/william_mcilvanney_400820"
+        },
+        "topics": [
+            {
+                "name": "Justice",
+                "url": "/topics/justice"
+            },
+            {
+                "name": "Law",
+                "url": "/topics/law"
+            },
+            {
+                "name": "Because",
+                "url": "/topics/because"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_mcilvanney_401763",
+        "quote": "Good lies need a leavening of truth to make them palatable.",
+        "author": {
+            "name": "William McIlvanney",
+            "url": "/quotes/william_mcilvanney_401763"
+        },
+        "topics": [
+            {
+                "name": "Truth",
+                "url": "/topics/truth"
+            },
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            },
+            {
+                "name": "Lies",
+                "url": "/topics/lies"
+            }
+        ]
+    }
+]

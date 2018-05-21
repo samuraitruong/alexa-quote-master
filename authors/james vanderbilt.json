@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/james_vanderbilt_520545",
+        "quote": "I've done well because I'm lucky and I'm willing to be collaborative with the one thing you don't want to be collaborative with: your writing.",
+        "author": {
+            "name": "James Vanderbilt",
+            "url": "/quotes/james_vanderbilt_520545"
+        },
+        "topics": [
+            {
+                "name": "Lucky",
+                "url": "/topics/lucky"
+            },
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Willing",
+                "url": "/topics/willing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_vanderbilt_651714",
+        "quote": "Sometimes, you'll watch the news and you'll see two-year-old boys in South Africa, wearing 'Spider-Man' t-shirts. It's such a global phenomenon.",
+        "author": {
+            "name": "James Vanderbilt",
+            "url": "/quotes/james_vanderbilt_651714"
+        },
+        "topics": [
+            {
+                "name": "Africa",
+                "url": "/topics/africa"
+            },
+            {
+                "name": "News",
+                "url": "/topics/news"
+            },
+            {
+                "name": "South Africa",
+                "url": "/topics/south_africa"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/cynthia_watros_562850",
+        "quote": "It's always fun to make people laugh, and then make them afraid or cry at the same time.",
+        "author": {
+            "name": "Cynthia Watros",
+            "url": "/quotes/cynthia_watros_562850"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Same Time",
+                "url": "/topics/same_time"
+            },
+            {
+                "name": "Them",
+                "url": "/topics/them"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/cynthia_watros_562851",
+        "quote": "I love playing characters that have secrets.",
+        "author": {
+            "name": "Cynthia Watros",
+            "url": "/quotes/cynthia_watros_562851"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Characters",
+                "url": "/topics/characters"
+            },
+            {
+                "name": "I Love",
+                "url": "/topics/i_love"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/cynthia_watros_655570",
+        "quote": "Before college, I was Cyndi, and then I think I went to college and I was like, 'You know what? Now I'm Cynthia.'",
+        "author": {
+            "name": "Cynthia Watros",
+            "url": "/quotes/cynthia_watros_655570"
+        },
+        "topics": [
+            {
+                "name": "College",
+                "url": "/topics/college"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    }
+]

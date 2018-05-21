@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/sam_walter_foss_392114",
+        "quote": "Let me live in a house by the side of the road and be a friend to man.",
+        "author": {
+            "name": "Sam Walter Foss",
+            "url": "/quotes/sam_walter_foss_392114"
+        },
+        "topics": [
+            {
+                "name": "Road",
+                "url": "/topics/road"
+            },
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Side",
+                "url": "/topics/side"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sam_walter_foss_137553",
+        "quote": "Seek not for fresher founts afar, just drop you bucket where you are.",
+        "author": {
+            "name": "Sam Walter Foss",
+            "url": "/quotes/sam_walter_foss_137553"
+        },
+        "topics": [
+            {
+                "name": "Drop",
+                "url": "/topics/drop"
+            },
+            {
+                "name": "Bucket",
+                "url": "/topics/bucket"
+            },
+            {
+                "name": "Fresher",
+                "url": "/topics/fresher"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sam_walter_foss_393043",
+        "quote": "Bring me men to match my mountains: Bring me men to match my plains: Men with empires in their purpose and new eras in their brains.",
+        "author": {
+            "name": "Sam Walter Foss",
+            "url": "/quotes/sam_walter_foss_393043"
+        },
+        "topics": [
+            {
+                "name": "Mountains",
+                "url": "/topics/mountains"
+            },
+            {
+                "name": "Purpose",
+                "url": "/topics/purpose"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            }
+        ]
+    }
+]

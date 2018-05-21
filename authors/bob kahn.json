@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/bob_kahn_621297",
+        "quote": "You can't gaze in the crystal ball and see the future. What the Internet is going to be in the future is what society makes it.",
+        "author": {
+            "name": "Bob Kahn",
+            "url": "/quotes/bob_kahn_621297"
+        },
+        "topics": [
+            {
+                "name": "Society",
+                "url": "/topics/society"
+            },
+            {
+                "name": "See",
+                "url": "/topics/see"
+            },
+            {
+                "name": "Ball",
+                "url": "/topics/ball"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bob_kahn_621299",
+        "quote": "In terms of dangers, such as viruses, fraud or identity theft, I don't think we were thinking about that at all when we got started. If we had been worried about that, the net might have been better today, but we might not have even got there.",
+        "author": {
+            "name": "Bob Kahn",
+            "url": "/quotes/bob_kahn_621299"
+        },
+        "topics": [
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Dangers",
+                "url": "/topics/dangers"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bob_kahn_621298",
+        "quote": "For computer communications, computers talk in little bursts. They're not continuous like speech.",
+        "author": {
+            "name": "Bob Kahn",
+            "url": "/quotes/bob_kahn_621298"
+        },
+        "topics": [
+            {
+                "name": "Computer",
+                "url": "/topics/computer"
+            },
+            {
+                "name": "Communications",
+                "url": "/topics/communications"
+            }
+        ]
+    }
+]

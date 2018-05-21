@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/halston_113776",
+        "quote": "You are only as good as the people you dress.",
+        "author": {
+            "name": "Halston",
+            "url": "/quotes/halston_113776"
+        },
+        "topics": [
+            {
+                "name": "Good",
+                "url": "/topics/good"
+            },
+            {
+                "name": "Dress",
+                "url": "/topics/dress"
+            },
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/halston_400441",
+        "quote": "Buzz and the right publicist are not only important but crucial in show business.",
+        "author": {
+            "name": "Halston",
+            "url": "/quotes/halston_400441"
+        },
+        "topics": [
+            {
+                "name": "Business",
+                "url": "/topics/business"
+            },
+            {
+                "name": "Important",
+                "url": "/topics/important"
+            },
+            {
+                "name": "Crucial",
+                "url": "/topics/crucial"
+            }
+        ]
+    }
+]

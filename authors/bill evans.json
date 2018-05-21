@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/bill_evans_394381",
+        "quote": "Words are the children of reason and, therefore, can't explain it. They really can't translate feeling because they're not part of it. That's why it bugs me when people try to analyze jazz as an intellectual theorem. It's not. It's feeling.",
+        "author": {
+            "name": "Bill Evans",
+            "url": "/quotes/bill_evans_394381"
+        },
+        "topics": [
+            {
+                "name": "Jazz",
+                "url": "/topics/jazz"
+            },
+            {
+                "name": "Reason",
+                "url": "/topics/reason"
+            },
+            {
+                "name": "Explain",
+                "url": "/topics/explain"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_evans_112151",
+        "quote": "We use the people who are in the bullpen producing.",
+        "author": {
+            "name": "Bill Evans",
+            "url": "/quotes/bill_evans_112151"
+        },
+        "topics": [
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            },
+            {
+                "name": "Producing",
+                "url": "/topics/producing"
+            },
+            {
+                "name": "Bullpen",
+                "url": "/topics/bullpen"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_evans_378103",
+        "quote": "I dance because it makes me want to explode.",
+        "author": {
+            "name": "Bill Evans",
+            "url": "/quotes/bill_evans_378103"
+        },
+        "topics": [
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Explode",
+                "url": "/topics/explode"
+            },
+            {
+                "name": "Makes",
+                "url": "/topics/makes"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_evans_382137",
+        "quote": "Casey was the better team and the better team won.",
+        "author": {
+            "name": "Bill Evans",
+            "url": "/quotes/bill_evans_382137"
+        },
+        "topics": [
+            {
+                "name": "Better",
+                "url": "/topics/better"
+            },
+            {
+                "name": "Won",
+                "url": "/topics/won"
+            },
+            {
+                "name": "Casey",
+                "url": "/topics/casey"
+            }
+        ]
+    }
+]

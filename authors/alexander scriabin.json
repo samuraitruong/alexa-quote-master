@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/alexander_scriabin_182201",
+        "quote": "My 10th Sonata is a sonata of insects. Insects are born from the sun... they are the sun's kisses.",
+        "author": {
+            "name": "Alexander Scriabin",
+            "url": "/quotes/alexander_scriabin_182201"
+        },
+        "topics": [
+            {
+                "name": "Born",
+                "url": "/topics/born"
+            },
+            {
+                "name": "Kisses",
+                "url": "/topics/kisses"
+            },
+            {
+                "name": "Sonata",
+                "url": "/topics/sonata"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alexander_scriabin_183493",
+        "quote": "In love's godlike breathing, there's the innermost aspect of the universe.",
+        "author": {
+            "name": "Alexander Scriabin",
+            "url": "/quotes/alexander_scriabin_183493"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Breathing",
+                "url": "/topics/breathing"
+            },
+            {
+                "name": "Aspect",
+                "url": "/topics/aspect"
+            }
+        ]
+    }
+]

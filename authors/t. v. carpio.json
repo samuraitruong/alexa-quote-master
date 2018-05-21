@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/t_v_carpio_573782",
+        "quote": "I actually have an ice-skating background. I skated until I was 15, for about eight years. It was hardcore skating for about eight hours a day.",
+        "author": {
+            "name": "T. V. Carpio",
+            "url": "/quotes/t_v_carpio_573782"
+        },
+        "topics": [
+            {
+                "name": "Hours",
+                "url": "/topics/hours"
+            },
+            {
+                "name": "Skated",
+                "url": "/topics/skated"
+            },
+            {
+                "name": "Hardcore",
+                "url": "/topics/hardcore"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/t_v_carpio_573783",
+        "quote": "As an actor, I'm always up for exploring and trying new things.",
+        "author": {
+            "name": "T. V. Carpio",
+            "url": "/quotes/t_v_carpio_573783"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Actor",
+                "url": "/topics/actor"
+            }
+        ]
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "url": "/quotes/jeanmarc_ayrault_470388",
+        "quote": "I'm not dogmatic.",
+        "author": {
+            "name": "Jean-Marc Ayrault",
+            "url": "/quotes/jeanmarc_ayrault_470388"
+        },
+        "topics": [
+            {
+                "name": "Dogmatic",
+                "url": "/topics/dogmatic"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jeanmarc_ayrault_470389",
+        "quote": "The only thing that preoccupies me is that France has broken down, and we need to start up the engine again - all the way. But not so as to run into a wall.",
+        "author": {
+            "name": "Jean-Marc Ayrault",
+            "url": "/quotes/jeanmarc_ayrault_470389"
+        },
+        "topics": [
+            {
+                "name": "Broken",
+                "url": "/topics/broken"
+            },
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            },
+            {
+                "name": "The Only Thing",
+                "url": "/topics/the_only_thing"
+            }
+        ]
+    }
+]

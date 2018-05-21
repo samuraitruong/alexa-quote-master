@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/andrew_bernstein_133031",
+        "quote": "A hero has faced it all: he need not be undefeated, but he must be undaunted.",
+        "author": {
+            "name": "Andrew Bernstein",
+            "url": "/quotes/andrew_bernstein_133031"
+        },
+        "topics": [
+            {
+                "name": "Hero",
+                "url": "/topics/hero"
+            },
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            },
+            {
+                "name": "Undefeated",
+                "url": "/topics/undefeated"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/andrew_bernstein_163847",
+        "quote": "Nothing is given to man on earth - struggle is built into the nature of life, and conflict is possible - the hero is the man who lets no obstacle prevent him from pursuing the values he has chosen.",
+        "author": {
+            "name": "Andrew Bernstein",
+            "url": "/quotes/andrew_bernstein_163847"
+        },
+        "topics": [
+            {
+                "name": "Pursuing",
+                "url": "/topics/pursuing"
+            },
+            {
+                "name": "Built",
+                "url": "/topics/built"
+            },
+            {
+                "name": "Given",
+                "url": "/topics/given"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/andrew_bernstein_133028",
+        "quote": "A hero holds purposes appropriate to man and is, therefore, a thinker.",
+        "author": {
+            "name": "Andrew Bernstein",
+            "url": "/quotes/andrew_bernstein_133028"
+        },
+        "topics": [
+            {
+                "name": "Appropriate",
+                "url": "/topics/appropriate"
+            },
+            {
+                "name": "Purposes",
+                "url": "/topics/purposes"
+            },
+            {
+                "name": "Holds",
+                "url": "/topics/holds"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/andrew_bernstein_133026",
+        "quote": "First, he must hold rational values, and to do this he must be a thinker.",
+        "author": {
+            "name": "Andrew Bernstein",
+            "url": "/quotes/andrew_bernstein_133026"
+        },
+        "topics": [
+            {
+                "name": "Values",
+                "url": "/topics/values"
+            },
+            {
+                "name": "Thinker",
+                "url": "/topics/thinker"
+            },
+            {
+                "name": "Must",
+                "url": "/topics/must"
+            }
+        ]
+    }
+]

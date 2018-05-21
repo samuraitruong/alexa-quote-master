@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/yaphet_kotto_184947",
+        "quote": "I'm afraid that I'm either going to have to write myself something or direct something if I'm going to get somewhere.",
+        "author": {
+            "name": "Yaphet Kotto",
+            "url": "/quotes/yaphet_kotto_184947"
+        },
+        "topics": [
+            {
+                "name": "Afraid",
+                "url": "/topics/afraid"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Either",
+                "url": "/topics/either"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/yaphet_kotto_184948",
+        "quote": "I like doing business in a black city.",
+        "author": {
+            "name": "Yaphet Kotto",
+            "url": "/quotes/yaphet_kotto_184948"
+        },
+        "topics": [
+            {
+                "name": "Business",
+                "url": "/topics/business"
+            },
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    }
+]

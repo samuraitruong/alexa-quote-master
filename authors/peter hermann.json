@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/peter_hermann_565025",
+        "quote": "Some days, I just love the physical space of the theater. I love theaters; they are heartbreakingly beautiful to me.",
+        "author": {
+            "name": "Peter Hermann",
+            "url": "/quotes/peter_hermann_565025"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Space",
+                "url": "/topics/space"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/peter_hermann_565022",
+        "quote": "I was born in New York, but I was only here for two months. My parents are German, and I grew up in Germany for my first 10 years.",
+        "author": {
+            "name": "Peter Hermann",
+            "url": "/quotes/peter_hermann_565022"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            },
+            {
+                "name": "German",
+                "url": "/topics/german"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/peter_hermann_565023",
+        "quote": "Language patterns solidify at 10, 11, 12, so I was able to learn English fairly easily, with no accent. I didn't do speech or vocal work to get rid of the German accent; I was just lucky.",
+        "author": {
+            "name": "Peter Hermann",
+            "url": "/quotes/peter_hermann_565023"
+        },
+        "topics": [
+            {
+                "name": "Lucky",
+                "url": "/topics/lucky"
+            },
+            {
+                "name": "Learn",
+                "url": "/topics/learn"
+            },
+            {
+                "name": "German",
+                "url": "/topics/german"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/peter_hermann_565024",
+        "quote": "I still speak to my parents only in German, and I have endless family over there.",
+        "author": {
+            "name": "Peter Hermann",
+            "url": "/quotes/peter_hermann_565024"
+        },
+        "topics": [
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            },
+            {
+                "name": "German",
+                "url": "/topics/german"
+            }
+        ]
+    }
+]

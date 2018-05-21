@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/kid_president_533537",
+        "quote": "Call me crazy, but I still believe in you grownups!",
+        "author": {
+            "name": "Kid President",
+            "url": "/quotes/kid_president_533537"
+        },
+        "topics": [
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            },
+            {
+                "name": "Call",
+                "url": "/topics/call"
+            },
+            {
+                "name": "Grownups",
+                "url": "/topics/grownups"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kid_president_533536",
+        "quote": "I'm not in a party. I am a party.",
+        "author": {
+            "name": "Kid President",
+            "url": "/quotes/kid_president_533536"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Party",
+                "url": "/topics/party"
+            },
+            {
+                "name": "Am",
+                "url": "/topics/am"
+            }
+        ]
+    }
+]

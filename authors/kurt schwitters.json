@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/kurt_schwitters_198914",
+        "quote": "The picture is a self-sufficient work of art. It is not connected to anything outside.",
+        "author": {
+            "name": "Kurt Schwitters",
+            "url": "/quotes/kurt_schwitters_198914"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Connected",
+                "url": "/topics/connected"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kurt_schwitters_198916",
+        "quote": "My name is Kurt Schwitters... I am an artist and I nail my pictures together.",
+        "author": {
+            "name": "Kurt Schwitters",
+            "url": "/quotes/kurt_schwitters_198916"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Artist",
+                "url": "/topics/artist"
+            },
+            {
+                "name": "Nail",
+                "url": "/topics/nail"
+            }
+        ]
+    }
+]

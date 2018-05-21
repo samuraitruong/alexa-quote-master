@@ -1,0 +1,104 @@
+[
+    {
+        "url": "/quotes/john_bardeen_308845",
+        "quote": "The combined results of several people working together is often much more effective than could be that of an individual scientist working alone.",
+        "author": {
+            "name": "John Bardeen",
+            "url": "/quotes/john_bardeen_308845"
+        },
+        "topics": [
+            {
+                "name": "Individual",
+                "url": "/topics/individual"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_bardeen_310553",
+        "quote": "Science is a field which grows continuously with ever expanding frontiers.",
+        "author": {
+            "name": "John Bardeen",
+            "url": "/quotes/john_bardeen_310553"
+        },
+        "topics": [
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Grows",
+                "url": "/topics/grows"
+            },
+            {
+                "name": "Frontiers",
+                "url": "/topics/frontiers"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_bardeen_308847",
+        "quote": "Further, science is a collaborative effort.",
+        "author": {
+            "name": "John Bardeen",
+            "url": "/quotes/john_bardeen_308847"
+        },
+        "topics": [
+            {
+                "name": "Science",
+                "url": "/topics/science"
+            },
+            {
+                "name": "Collaborative",
+                "url": "/topics/collaborative"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_bardeen_308844",
+        "quote": "The Nobel awards should be regarded as giving recognition to this general scientific progress as well as to the individuals involved.",
+        "author": {
+            "name": "John Bardeen",
+            "url": "/quotes/john_bardeen_308844"
+        },
+        "topics": [
+            {
+                "name": "Scientific Progress",
+                "url": "/topics/scientific_progress"
+            },
+            {
+                "name": "Nobel",
+                "url": "/topics/nobel"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_bardeen_310552",
+        "quote": "My earlier award was also based on a close collaborative effort.",
+        "author": {
+            "name": "John Bardeen",
+            "url": "/quotes/john_bardeen_310552"
+        },
+        "topics": [
+            {
+                "name": "Award",
+                "url": "/topics/award"
+            },
+            {
+                "name": "Based",
+                "url": "/topics/based"
+            },
+            {
+                "name": "Earlier",
+                "url": "/topics/earlier"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/nelson_goodman_197524",
+        "quote": "Coming to understand a painting or a symphony in an unfamiliar style, to recognize the work of an artist or school, to see or hear in new ways, is as cognitive an achievement as learning to read or write or add.",
+        "author": {
+            "name": "Nelson Goodman",
+            "url": "/quotes/nelson_goodman_197524"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Read",
+                "url": "/topics/read"
+            },
+            {
+                "name": "Add",
+                "url": "/topics/add"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nelson_goodman_197525",
+        "quote": "I am concerned, rather, that there should not be more things dreamt of in my philosophy than there actually are in heaven and earth.",
+        "author": {
+            "name": "Nelson Goodman",
+            "url": "/quotes/nelson_goodman_197525"
+        },
+        "topics": [
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Concerned",
+                "url": "/topics/concerned"
+            },
+            {
+                "name": "Rather",
+                "url": "/topics/rather"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nelson_goodman_197523",
+        "quote": "Truth cannot be defined or tested by agreement with 'the world'; for not only do truths differ for different worlds but the nature of agreement between a world apart from it is notoriously nebulous.",
+        "author": {
+            "name": "Nelson Goodman",
+            "url": "/quotes/nelson_goodman_197523"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "Worlds",
+                "url": "/topics/worlds"
+            },
+            {
+                "name": "Agreement",
+                "url": "/topics/agreement"
+            }
+        ]
+    }
+]

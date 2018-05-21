@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/babe_didrikson_zaharias_401118",
+        "quote": "It's not just enough to swing at the ball. You've got to loosen your girdle and really let the ball have it.",
+        "author": {
+            "name": "Babe Didrikson Zaharias",
+            "url": "/quotes/babe_didrikson_zaharias_401118"
+        },
+        "topics": [
+            {
+                "name": "Swing",
+                "url": "/topics/swing"
+            },
+            {
+                "name": "Enough",
+                "url": "/topics/enough"
+            },
+            {
+                "name": "Ball",
+                "url": "/topics/ball"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/babe_didrikson_zaharias_388069",
+        "quote": "I couldn't hit an elephant's ass with a bull fiddle.",
+        "author": {
+            "name": "Babe Didrikson Zaharias",
+            "url": "/quotes/babe_didrikson_zaharias_388069"
+        },
+        "topics": [
+            {
+                "name": "Elephant",
+                "url": "/topics/elephant"
+            },
+            {
+                "name": "Hit",
+                "url": "/topics/hit"
+            },
+            {
+                "name": "Fiddle",
+                "url": "/topics/fiddle"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/babe_didrikson_zaharias_399106",
+        "quote": "Loosen your girdle and let er fly!",
+        "author": {
+            "name": "Babe Didrikson Zaharias",
+            "url": "/quotes/babe_didrikson_zaharias_399106"
+        },
+        "topics": [
+            {
+                "name": "Fly",
+                "url": "/topics/fly"
+            },
+            {
+                "name": "Your",
+                "url": "/topics/your"
+            },
+            {
+                "name": "Loosen",
+                "url": "/topics/loosen"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/meg_myers_521005",
+        "quote": "There's a fine line between comedy and the darkest place ever.",
+        "author": {
+            "name": "Meg Myers",
+            "url": "/quotes/meg_myers_521005"
+        },
+        "topics": [
+            {
+                "name": "Line",
+                "url": "/topics/line"
+            },
+            {
+                "name": "Fine",
+                "url": "/topics/fine"
+            },
+            {
+                "name": "Ever",
+                "url": "/topics/ever"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/meg_myers_521006",
+        "quote": "I'd rather be in my house crying than be sitting with someone talking about shoes, y'know?",
+        "author": {
+            "name": "Meg Myers",
+            "url": "/quotes/meg_myers_521006"
+        },
+        "topics": [
+            {
+                "name": "Someone",
+                "url": "/topics/someone"
+            },
+            {
+                "name": "Crying",
+                "url": "/topics/crying"
+            },
+            {
+                "name": "Rather",
+                "url": "/topics/rather"
+            }
+        ]
+    }
+]

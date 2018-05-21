@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/peter_fraser_199980",
+        "quote": "The images attempt to capture scientific thought. They represent the physical manifestation of the thought process. Everything in the laboratory is a product of a stream of conscious or unconscious thought.",
+        "author": {
+            "name": "Peter Fraser",
+            "url": "/quotes/peter_fraser_199980"
+        },
+        "topics": [
+            {
+                "name": "Process",
+                "url": "/topics/process"
+            },
+            {
+                "name": "Images",
+                "url": "/topics/images"
+            },
+            {
+                "name": "Unconscious",
+                "url": "/topics/unconscious"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/peter_fraser_199979",
+        "quote": "The government's objective, broadly expressed, is that all persons, whatever their level of ability, whether they live in town or country, have a right as citizens to a free education of the kind for which they are best fitted and to the fullest extent of their powers.",
+        "author": {
+            "name": "Peter Fraser",
+            "url": "/quotes/peter_fraser_199979"
+        },
+        "topics": [
+            {
+                "name": "Education",
+                "url": "/topics/education"
+            },
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Extent",
+                "url": "/topics/extent"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/peter_fraser_199978",
+        "quote": "Schools that are to cater for the whole population must offer courses that are as rich and varied as are the needs and abilities of the children who enter them.",
+        "author": {
+            "name": "Peter Fraser",
+            "url": "/quotes/peter_fraser_199978"
+        },
+        "topics": [
+            {
+                "name": "Needs",
+                "url": "/topics/needs"
+            },
+            {
+                "name": "Courses",
+                "url": "/topics/courses"
+            },
+            {
+                "name": "Cater",
+                "url": "/topics/cater"
+            }
+        ]
+    }
+]

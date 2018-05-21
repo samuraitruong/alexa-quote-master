@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/peter_snell_219310",
+        "quote": "As a teenager I had no idea that I had the potential to win an Olympic gold medal and my athletic career developed only by lucky circumstances.",
+        "author": {
+            "name": "Peter Snell",
+            "url": "/quotes/peter_snell_219310"
+        },
+        "topics": [
+            {
+                "name": "Career",
+                "url": "/topics/career"
+            },
+            {
+                "name": "Lucky",
+                "url": "/topics/lucky"
+            },
+            {
+                "name": "Olympic",
+                "url": "/topics/olympic"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/peter_snell_219312",
+        "quote": "Running became boring because it's so predictable. I got to a point where I knew what my competition could do.",
+        "author": {
+            "name": "Peter Snell",
+            "url": "/quotes/peter_snell_219312"
+        },
+        "topics": [
+            {
+                "name": "Knew",
+                "url": "/topics/knew"
+            },
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            },
+            {
+                "name": "Became",
+                "url": "/topics/became"
+            }
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/eason_jordan_177582",
+        "quote": "Withholding information that would get innocent people killed was the right thing to do, not a journalistic sin.",
+        "author": {
+            "name": "Eason Jordan",
+            "url": "/quotes/eason_jordan_177582"
+        },
+        "topics": [
+            {
+                "name": "Journalistic",
+                "url": "/topics/journalistic"
+            },
+            {
+                "name": "Withholding",
+                "url": "/topics/withholding"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eason_jordan_177581",
+        "quote": "It's a war zone. Terrible things happen.",
+        "author": {
+            "name": "Eason Jordan",
+            "url": "/quotes/eason_jordan_177581"
+        },
+        "topics": [
+            {
+                "name": "Things Happen",
+                "url": "/topics/things_happen"
+            },
+            {
+                "name": "Happen",
+                "url": "/topics/happen"
+            },
+            {
+                "name": "Zone",
+                "url": "/topics/zone"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/mike_conaway_404394",
+        "quote": "We live in an instant-coffee world. Sometimes real-world solutions take a little longer.",
+        "author": {
+            "name": "Mike Conaway",
+            "url": "/quotes/mike_conaway_404394"
+        },
+        "topics": [
+            {
+                "name": "Take",
+                "url": "/topics/take"
+            },
+            {
+                "name": "Longer",
+                "url": "/topics/longer"
+            },
+            {
+                "name": "Real-World",
+                "url": "/topics/real-world"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mike_conaway_510356",
+        "quote": "The Constitution does not demand that you or I buy anything.",
+        "author": {
+            "name": "Mike Conaway",
+            "url": "/quotes/mike_conaway_510356"
+        },
+        "topics": [
+            {
+                "name": "Constitution",
+                "url": "/topics/constitution"
+            },
+            {
+                "name": "Buy",
+                "url": "/topics/buy"
+            },
+            {
+                "name": "Does",
+                "url": "/topics/does"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mike_conaway_510357",
+        "quote": "People don't trust the federal government as it relates to health care.",
+        "author": {
+            "name": "Mike Conaway",
+            "url": "/quotes/mike_conaway_510357"
+        },
+        "topics": [
+            {
+                "name": "Trust",
+                "url": "/topics/trust"
+            },
+            {
+                "name": "Government",
+                "url": "/topics/government"
+            },
+            {
+                "name": "Relates",
+                "url": "/topics/relates"
+            }
+        ]
+    }
+]

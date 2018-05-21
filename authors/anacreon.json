@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/anacreon_183138",
+        "quote": "Cursed be he above all others Who's enslaved by love of money. Money takes the place of brothers, Money takes the place of parents, Money brings us war and slaughter.",
+        "author": {
+            "name": "Anacreon",
+            "url": "/quotes/anacreon_183138"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Brothers",
+                "url": "/topics/brothers"
+            },
+            {
+                "name": "Cursed",
+                "url": "/topics/cursed"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/anacreon_183139",
+        "quote": "I both love and do not love; and am mad and not mad.",
+        "author": {
+            "name": "Anacreon",
+            "url": "/quotes/anacreon_183139"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Mad",
+                "url": "/topics/mad"
+            },
+            {
+                "name": "Am",
+                "url": "/topics/am"
+            }
+        ]
+    }
+]

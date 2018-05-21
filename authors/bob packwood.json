@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/bob_packwood_307753",
+        "quote": "Judgment comes from experience and great judgment comes from bad experience.",
+        "author": {
+            "name": "Bob Packwood",
+            "url": "/quotes/bob_packwood_307753"
+        },
+        "topics": [
+            {
+                "name": "Experience",
+                "url": "/topics/experience"
+            },
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            },
+            {
+                "name": "Judgment",
+                "url": "/topics/judgment"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bob_packwood_479592",
+        "quote": "You can tax the rich all you want. The problem is there aren't enough of the rich.",
+        "author": {
+            "name": "Bob Packwood",
+            "url": "/quotes/bob_packwood_479592"
+        },
+        "topics": [
+            {
+                "name": "Problem",
+                "url": "/topics/problem"
+            },
+            {
+                "name": "Rich",
+                "url": "/topics/rich"
+            },
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bob_packwood_479593",
+        "quote": "Historically, the Republicans have been geniuses at throwing away advantages.",
+        "author": {
+            "name": "Bob Packwood",
+            "url": "/quotes/bob_packwood_479593"
+        },
+        "topics": [
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Throwing",
+                "url": "/topics/throwing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bob_packwood_479594",
+        "quote": "I don't trade my vote for money.",
+        "author": {
+            "name": "Bob Packwood",
+            "url": "/quotes/bob_packwood_479594"
+        },
+        "topics": [
+            {
+                "name": "Money",
+                "url": "/topics/money"
+            },
+            {
+                "name": "Vote",
+                "url": "/topics/vote"
+            },
+            {
+                "name": "Trade",
+                "url": "/topics/trade"
+            }
+        ]
+    }
+]

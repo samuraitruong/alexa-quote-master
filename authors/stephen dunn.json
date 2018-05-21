@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/stephen_dunn_193165",
+        "quote": "Although I know it's unfair I reveal myself one mask at a time.",
+        "author": {
+            "name": "Stephen Dunn",
+            "url": "/quotes/stephen_dunn_193165"
+        },
+        "topics": [
+            {
+                "name": "Myself",
+                "url": "/topics/myself"
+            },
+            {
+                "name": "Reveal",
+                "url": "/topics/reveal"
+            },
+            {
+                "name": "Although",
+                "url": "/topics/although"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/stephen_dunn_193167",
+        "quote": "I think because my parents died in their early 50s, mid 50s, I always thought I would die young. And that's been both a useful thing and I suspect something that's haunted me a little bit.",
+        "author": {
+            "name": "Stephen Dunn",
+            "url": "/quotes/stephen_dunn_193167"
+        },
+        "topics": [
+            {
+                "name": "Die",
+                "url": "/topics/die"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    }
+]

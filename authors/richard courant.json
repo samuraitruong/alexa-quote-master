@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/richard_courant_205929",
+        "quote": "Mathematics as an expression of the human mind reflects the active will, the contemplative reason, and the desire for aesthetic perfection. Its basic elements are logic and intuition, analysis and construction, generality and individuality.",
+        "author": {
+            "name": "Richard Courant",
+            "url": "/quotes/richard_courant_205929"
+        },
+        "topics": [
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Aesthetic",
+                "url": "/topics/aesthetic"
+            },
+            {
+                "name": "Reason",
+                "url": "/topics/reason"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/richard_courant_395277",
+        "quote": "For scholars and laymen alike it is not philosophy but active experience in mathematics itself that can alone answer the question: What is mathematics?",
+        "author": {
+            "name": "Richard Courant",
+            "url": "/quotes/richard_courant_395277"
+        },
+        "topics": [
+            {
+                "name": "Alone",
+                "url": "/topics/alone"
+            },
+            {
+                "name": "Alike",
+                "url": "/topics/alike"
+            },
+            {
+                "name": "Itself",
+                "url": "/topics/itself"
+            }
+        ]
+    }
+]

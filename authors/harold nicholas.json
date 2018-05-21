@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/harold_nicholas_192983",
+        "quote": "I copied my brother. He was a natural dancer. Graceful. People always asked did we study ballet. We never did.",
+        "author": {
+            "name": "Harold Nicholas",
+            "url": "/quotes/harold_nicholas_192983"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Study",
+                "url": "/topics/study"
+            },
+            {
+                "name": "Copied",
+                "url": "/topics/copied"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/harold_nicholas_192984",
+        "quote": "If you were black, you experienced prejudice. It wasn't a real horrible thing for us; we went through it. We noticed it mostly in the South and in Las Vegas, where we couldn't stay in the hotels where we entertained. But that began to change.",
+        "author": {
+            "name": "Harold Nicholas",
+            "url": "/quotes/harold_nicholas_192984"
+        },
+        "topics": [
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Las Vegas",
+                "url": "/topics/las_vegas"
+            },
+            {
+                "name": "Mostly",
+                "url": "/topics/mostly"
+            }
+        ]
+    }
+]

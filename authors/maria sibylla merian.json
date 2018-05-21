@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/maria_sibylla_merian_520904",
+        "quote": "Art and nature shall always be wrestling until they eventually conquer one another so that the victory is the same stroke and line: that which is conquered, conquers at the same time.",
+        "author": {
+            "name": "Maria Sibylla Merian",
+            "url": "/quotes/maria_sibylla_merian_520904"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/maria_sibylla_merian_520905",
+        "quote": "In my youth, I spent my time investigating insects.",
+        "author": {
+            "name": "Maria Sibylla Merian",
+            "url": "/quotes/maria_sibylla_merian_520905"
+        },
+        "topics": [
+            {
+                "name": "Time",
+                "url": "/topics/time"
+            },
+            {
+                "name": "My Time",
+                "url": "/topics/my_time"
+            },
+            {
+                "name": "Spent",
+                "url": "/topics/spent"
+            }
+        ]
+    }
+]

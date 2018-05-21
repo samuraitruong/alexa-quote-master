@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/dorothy_corkille_briggs_403925",
+        "quote": "The surest route to breeding jealousy is to compare. Since jealousy comes from feeling less than another, comparisons only fan the fires.",
+        "author": {
+            "name": "Dorothy Corkille Briggs",
+            "url": "/quotes/dorothy_corkille_briggs_403925"
+        },
+        "topics": [
+            {
+                "name": "Feeling",
+                "url": "/topics/feeling"
+            },
+            {
+                "name": "Compare",
+                "url": "/topics/compare"
+            },
+            {
+                "name": "Another",
+                "url": "/topics/another"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dorothy_corkille_briggs_403915",
+        "quote": "The toddler craves independence, but he fears desertion.",
+        "author": {
+            "name": "Dorothy Corkille Briggs",
+            "url": "/quotes/dorothy_corkille_briggs_403915"
+        },
+        "topics": [
+            {
+                "name": "Toddler",
+                "url": "/topics/toddler"
+            },
+            {
+                "name": "Desertion",
+                "url": "/topics/desertion"
+            },
+            {
+                "name": "Craves",
+                "url": "/topics/craves"
+            }
+        ]
+    }
+]

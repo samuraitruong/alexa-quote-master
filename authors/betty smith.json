@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/betty_smith_101001",
+        "quote": "Look at everything as though you were seeing it for the first time or the last time. Then your time on earth will be filled with glory.",
+        "author": {
+            "name": "Betty Smith",
+            "url": "/quotes/betty_smith_101001"
+        },
+        "topics": [
+            {
+                "name": "Last",
+                "url": "/topics/last"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Though",
+                "url": "/topics/though"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/betty_smith_113238",
+        "quote": "I wrote about people who liked fake fireplaces in their parlor, who thought a brass horse with a clock embedded in its flank was wonderful.",
+        "author": {
+            "name": "Betty Smith",
+            "url": "/quotes/betty_smith_113238"
+        },
+        "topics": [
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Wrote",
+                "url": "/topics/wrote"
+            },
+            {
+                "name": "Parlor",
+                "url": "/topics/parlor"
+            }
+        ]
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "url": "/quotes/percy_bysshe_shelley_155919?src=t_thoughtlessness",
+        "quote": "Government is an evil; it is only the thoughtlessness and vices of men that make it a necessary evil. When all men are good and wise, government will of itself decay.",
+        "author": {
+            "name": "Percy Bysshe Shelley",
+            "url": "/authors/percy_bysshe_shelley"
+        },
+        "topics": [
+            {
+                "name": "Necessary",
+                "url": "/topics/necessary"
+            },
+            {
+                "name": "Necessary Evil",
+                "url": "/topics/necessary_evil"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bodhidharma_267286?src=t_thoughtlessness",
+        "quote": "People who don't see their nature and imagine they can practice thoughtlessness all the time are lairs and fools.",
+        "author": {
+            "name": "Bodhidharma",
+            "url": "/authors/bodhidharma"
+        },
+        "topics": [
+            {
+                "name": "Imagination",
+                "url": "/topics/imagination"
+            },
+            {
+                "name": "Practice",
+                "url": "/topics/practice"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/cyril_connolly_156842?src=t_thoughtlessness",
+        "quote": "In the sex war, thoughtlessness is the weapon of the male, vindictiveness of the female.",
+        "author": {
+            "name": "Cyril Connolly",
+            "url": "/authors/cyril_connolly"
+        },
+        "topics": [
+            {
+                "name": "Sex",
+                "url": "/topics/sex"
+            },
+            {
+                "name": "Weapon",
+                "url": "/topics/weapon"
+            },
+            {
+                "name": "Vindictiveness",
+                "url": "/topics/vindictiveness"
+            }
+        ]
+    }
+]

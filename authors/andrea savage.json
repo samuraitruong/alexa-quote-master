@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/andrea_savage_741535",
+        "quote": "Wedding rings need to be sparkly to remind us not to have sex with other people.",
+        "author": {
+            "name": "Andrea Savage",
+            "url": "/quotes/andrea_savage_741535"
+        },
+        "topics": [
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            },
+            {
+                "name": "Rings",
+                "url": "/topics/rings"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/andrea_savage_741534",
+        "quote": "After being married, hearing 'You're hot!' from a total stranger means a hundred times more than hearing it from your husband.",
+        "author": {
+            "name": "Andrea Savage",
+            "url": "/quotes/andrea_savage_741534"
+        },
+        "topics": [
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Means",
+                "url": "/topics/means"
+            },
+            {
+                "name": "Hundred",
+                "url": "/topics/hundred"
+            }
+        ]
+    }
+]

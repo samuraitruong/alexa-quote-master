@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/john_francis_556871",
+        "quote": "I began observing, making paintings of my surroundings, taking a vow of silence, listening, composing music, writing, and making time for formal education. Then I started telling stories.",
+        "author": {
+            "name": "John Francis",
+            "url": "/quotes/john_francis_556871"
+        },
+        "topics": [
+            {
+                "name": "Listening",
+                "url": "/topics/listening"
+            },
+            {
+                "name": "Making",
+                "url": "/topics/making"
+            },
+            {
+                "name": "Telling",
+                "url": "/topics/telling"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_francis_556870",
+        "quote": "I say I am a Planetwalker. Then I have to explain that a Planetwalker is anyone who walks the planet as a lifestyle choice, as part of an education in the spirit and hope of using the journey to benefit the world.",
+        "author": {
+            "name": "John Francis",
+            "url": "/quotes/john_francis_556870"
+        },
+        "topics": [
+            {
+                "name": "Education",
+                "url": "/topics/education"
+            },
+            {
+                "name": "Explain",
+                "url": "/topics/explain"
+            },
+            {
+                "name": "Using",
+                "url": "/topics/using"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_francis_556872",
+        "quote": "Ultimately when I gave up the use of motorized vehicles, I walked everywhere, from town to town, across states and two continents. When I stopped talking, I mean literally I stopped speaking. I took a complete vow of silence.",
+        "author": {
+            "name": "John Francis",
+            "url": "/quotes/john_francis_556872"
+        },
+        "topics": [
+            {
+                "name": "Talking",
+                "url": "/topics/talking"
+            },
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            },
+            {
+                "name": "Vehicles",
+                "url": "/topics/vehicles"
+            }
+        ]
+    }
+]

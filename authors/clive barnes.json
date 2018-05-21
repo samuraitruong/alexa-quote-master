@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/clive_barnes_102503",
+        "quote": "Television is the first truly democratic culture - the first culture available to everybody and entirely governed by what the people want. The most terrifying thing is what people do want.",
+        "author": {
+            "name": "Clive Barnes",
+            "url": "/quotes/clive_barnes_102503"
+        },
+        "topics": [
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Everybody",
+                "url": "/topics/everybody"
+            },
+            {
+                "name": "Terrifying",
+                "url": "/topics/terrifying"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/clive_barnes_131527",
+        "quote": "One of the few things in dance to match the Royal Ballet's curtain calls is the Royal Ballet's dancing.",
+        "author": {
+            "name": "Clive Barnes",
+            "url": "/quotes/clive_barnes_131527"
+        },
+        "topics": [
+            {
+                "name": "Dancing",
+                "url": "/topics/dancing"
+            },
+            {
+                "name": "Calls",
+                "url": "/topics/calls"
+            },
+            {
+                "name": "Few Things",
+                "url": "/topics/few_things"
+            }
+        ]
+    }
+]

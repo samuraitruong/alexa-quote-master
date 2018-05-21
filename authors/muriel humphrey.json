@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/muriel_humphrey_370623",
+        "quote": "There's something I've been wanting to say for a long time. I'm a liberal, and I'm proud of it. In fact, I was probably a little more liberal than Hubert was. I just wanted to say that.",
+        "author": {
+            "name": "Muriel Humphrey",
+            "url": "/quotes/muriel_humphrey_370623"
+        },
+        "topics": [
+            {
+                "name": "Proud",
+                "url": "/topics/proud"
+            },
+            {
+                "name": "Wanting",
+                "url": "/topics/wanting"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/muriel_humphrey_370624",
+        "quote": "Hubert, a speech doesn't have to be eternal to be immortal.",
+        "author": {
+            "name": "Muriel Humphrey",
+            "url": "/quotes/muriel_humphrey_370624"
+        },
+        "topics": [
+            {
+                "name": "Speech",
+                "url": "/topics/speech"
+            },
+            {
+                "name": "Eternal",
+                "url": "/topics/eternal"
+            },
+            {
+                "name": "Immortal",
+                "url": "/topics/immortal"
+            }
+        ]
+    }
+]

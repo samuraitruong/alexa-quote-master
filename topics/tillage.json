@@ -1,0 +1,82 @@
+[
+    {
+        "url": "/quotes/daniel_webster_118542?src=t_tillage",
+        "quote": "Let us not forget that the cultivation of the earth is the most important labor of man. When tillage begins, other arts will follow. The farmers, therefore, are the founders of civilization.",
+        "author": {
+            "name": "Daniel Webster",
+            "url": "/authors/daniel_webster"
+        },
+        "topics": [
+            {
+                "name": "Gardening",
+                "url": "/topics/gardening"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/daniel_webster_403349?src=t_tillage",
+        "quote": "When tillage begins, other arts follow. The farmers, therefore, are the founders of human civilization.",
+        "author": {
+            "name": "Daniel Webster",
+            "url": "/authors/daniel_webster"
+        },
+        "topics": [
+            {
+                "name": "Civilization",
+                "url": "/topics/civilization"
+            },
+            {
+                "name": "Farmers",
+                "url": "/topics/farmers"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_edward_woodberry_533208?src=t_tillage",
+        "quote": "The world is a multiplicity, a harvest-field, a battle-ground; and thence arises through human contact ways of numbering, or mathematics, ways of tillage, or agriculture, ways of fighting, or military tactics and strategy, and these are incorporated in individuals as habits of life.",
+        "author": {
+            "name": "George Edward Woodberry",
+            "url": "/authors/george_edward_woodberry"
+        },
+        "topics": [
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Multiplicity",
+                "url": "/topics/multiplicity"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joseph_barber_lightfoot_284480?src=t_tillage",
+        "quote": "The tillage of the soil occupies the vast majority of those who work for their own bread.",
+        "author": {
+            "name": "Joseph Barber Lightfoot",
+            "url": "/authors/joseph_barber_lightfoot"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Bread",
+                "url": "/topics/bread"
+            },
+            {
+                "name": "Vast Majority",
+                "url": "/topics/vast_majority"
+            }
+        ]
+    }
+]

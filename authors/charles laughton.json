@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/charles_laughton_134724",
+        "quote": "They can't censor the gleam in my eye.",
+        "author": {
+            "name": "Charles Laughton",
+            "url": "/quotes/charles_laughton_134724"
+        },
+        "topics": [
+            {
+                "name": "Eye",
+                "url": "/topics/eye"
+            },
+            {
+                "name": "Gleam",
+                "url": "/topics/gleam"
+            },
+            {
+                "name": "Censor",
+                "url": "/topics/censor"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charles_laughton_143358",
+        "quote": "I have a face like the behind of an elephant.",
+        "author": {
+            "name": "Charles Laughton",
+            "url": "/quotes/charles_laughton_143358"
+        },
+        "topics": [
+            {
+                "name": "Face",
+                "url": "/topics/face"
+            },
+            {
+                "name": "Behind",
+                "url": "/topics/behind"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    }
+]

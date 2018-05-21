@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/chill_wills_234738",
+        "quote": "Win, lose or draw, you're all my cousins and I love you.",
+        "author": {
+            "name": "Chill Wills",
+            "url": "/quotes/chill_wills_234738"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Lose",
+                "url": "/topics/lose"
+            },
+            {
+                "name": "I Love",
+                "url": "/topics/i_love"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/chill_wills_234740",
+        "quote": "You shoulda shot that fella a long time ago. Now he's too rich to kill.",
+        "author": {
+            "name": "Chill Wills",
+            "url": "/quotes/chill_wills_234740"
+        },
+        "topics": [
+            {
+                "name": "Rich",
+                "url": "/topics/rich"
+            },
+            {
+                "name": "Fella",
+                "url": "/topics/fella"
+            },
+            {
+                "name": "Long Time Ago",
+                "url": "/topics/long_time_ago"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/chill_wills_234739",
+        "quote": "I want every man on the force to try his best, his level best, to try to avoid arresting anyone. I know that this going to take great will power but try.",
+        "author": {
+            "name": "Chill Wills",
+            "url": "/quotes/chill_wills_234739"
+        },
+        "topics": [
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Level",
+                "url": "/topics/level"
+            },
+            {
+                "name": "Arresting",
+                "url": "/topics/arresting"
+            }
+        ]
+    }
+]

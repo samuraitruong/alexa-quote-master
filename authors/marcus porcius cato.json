@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/marcus_porcius_cato_137595",
+        "quote": "It is a hard matter, my fellow citizens, to argue with the belly, since it has no ears.",
+        "author": {
+            "name": "Marcus Porcius Cato",
+            "url": "/quotes/marcus_porcius_cato_137595"
+        },
+        "topics": [
+            {
+                "name": "Ears",
+                "url": "/topics/ears"
+            },
+            {
+                "name": "Belly",
+                "url": "/topics/belly"
+            },
+            {
+                "name": "Fellow",
+                "url": "/topics/fellow"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marcus_porcius_cato_137594",
+        "quote": "I would much rather have men ask why I have no statue than why I have one.",
+        "author": {
+            "name": "Marcus Porcius Cato",
+            "url": "/quotes/marcus_porcius_cato_137594"
+        },
+        "topics": [
+            {
+                "name": "Men",
+                "url": "/topics/men"
+            },
+            {
+                "name": "Rather",
+                "url": "/topics/rather"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            }
+        ]
+    }
+]

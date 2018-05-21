@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/simon_ammann_666501",
+        "quote": "I'm afraid Eddie the Eagle was before my time. All I know is that his glasses were three times thicker than mine, but I can jump three times further than he did.",
+        "author": {
+            "name": "Simon Ammann",
+            "url": "/quotes/simon_ammann_666501"
+        },
+        "topics": [
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            },
+            {
+                "name": "Mine",
+                "url": "/topics/mine"
+            },
+            {
+                "name": "Thicker",
+                "url": "/topics/thicker"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/simon_ammann_666502",
+        "quote": "When I was younger, I did not have the strength to jump well enough, but over the years I have gained that, worked on it. But the sensibility you simply have to have.",
+        "author": {
+            "name": "Simon Ammann",
+            "url": "/quotes/simon_ammann_666502"
+        },
+        "topics": [
+            {
+                "name": "Strength",
+                "url": "/topics/strength"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Younger",
+                "url": "/topics/younger"
+            }
+        ]
+    }
+]

@@ -1,0 +1,200 @@
+[
+    {
+        "url": "/quotes/gil_penchina_851240?src=t_crypto",
+        "quote": "Mobile was Internet 2.0. It changed everything. Crypto is Internet 3.0.",
+        "author": {
+            "name": "Gil Penchina",
+            "url": "/authors/gil_penchina"
+        },
+        "topics": [
+            {
+                "name": "Internet",
+                "url": "/topics/internet"
+            },
+            {
+                "name": "Everything",
+                "url": "/topics/everything"
+            },
+            {
+                "name": "Mobile",
+                "url": "/topics/mobile"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/max_keiser_850672?src=t_crypto",
+        "quote": "MaxCoin is competing for the crypto buck, if you will. So is Bitcoin, so is Dogecoin. Alt-coins are proving to be formidable because there's a solid community behind it, there's a use for it, and it's got a great market capitalisation. I think that's going to be a winner.",
+        "author": {
+            "name": "Max Keiser",
+            "url": "/authors/max_keiser"
+        },
+        "topics": [
+            {
+                "name": "Behind",
+                "url": "/topics/behind"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/erik_voorhees_847107?src=t_crypto",
+        "quote": "I'm much more confident with crypto than with banks or fiat currency because I can actually control it, and the money supply is transparent, stated up front. It makes online shopping a lot easier and a lot safer.",
+        "author": {
+            "name": "Erik Voorhees",
+            "url": "/authors/erik_voorhees"
+        },
+        "topics": [
+            {
+                "name": "Confident",
+                "url": "/topics/confident"
+            },
+            {
+                "name": "Supply",
+                "url": "/topics/supply"
+            },
+            {
+                "name": "Safer",
+                "url": "/topics/safer"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nick_tomaino_851402?src=t_crypto",
+        "quote": "The crypto market has set the bar shockingly low for entrepreneurs to raise money, and this is dangerous for everyone involved.",
+        "author": {
+            "name": "Nick Tomaino",
+            "url": "/authors/nick_tomaino"
+        },
+        "topics": [
+            {
+                "name": "Everyone",
+                "url": "/topics/everyone"
+            },
+            {
+                "name": "Set",
+                "url": "/topics/set"
+            },
+            {
+                "name": "Entrepreneurs",
+                "url": "/topics/entrepreneurs"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gil_penchina_851245?src=t_crypto",
+        "quote": "Crypto today is a libertarian paradise. If you send your money to the wrong place, it's gone. If you send it to a merchant and don't receive the goods, you have no recourse. This is cash. Treat it as such.",
+        "author": {
+            "name": "Gil Penchina",
+            "url": "/authors/gil_penchina"
+        },
+        "topics": [
+            {
+                "name": "Treat",
+                "url": "/topics/treat"
+            },
+            {
+                "name": "Merchant",
+                "url": "/topics/merchant"
+            },
+            {
+                "name": "Receive",
+                "url": "/topics/receive"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/max_keiser_850681?src=t_crypto",
+        "quote": "Activists need to educate themselves about the power of crypto currencies like Bitcoin, invented in 2009, and use crypto to leverage the success of their independent media gains to tip the balance of power away from the troika in ways that could never happen by backing a political candidate.",
+        "author": {
+            "name": "Max Keiser",
+            "url": "/authors/max_keiser"
+        },
+        "topics": [
+            {
+                "name": "Independent",
+                "url": "/topics/independent"
+            },
+            {
+                "name": "Leverage",
+                "url": "/topics/leverage"
+            },
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_mougayar_851409?src=t_crypto",
+        "quote": "As much as one would like to think that what China does doesn't matter, the reality is that when China sneezes at crypto, the rest of the world catches the cold.",
+        "author": {
+            "name": "William Mougayar",
+            "url": "/authors/william_mougayar"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Rest",
+                "url": "/topics/rest"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gil_penchina_851236?src=t_crypto",
+        "quote": "For merchants, it is an amazing opportunity. Compared to Paypal, crypto has no credit card fees, no charge backs, no 'Oops, we decided to hold your cash for 3-12 months while we investigate something we can't disclose.'",
+        "author": {
+            "name": "Gil Penchina",
+            "url": "/authors/gil_penchina"
+        },
+        "topics": [
+            {
+                "name": "Charge",
+                "url": "/topics/charge"
+            },
+            {
+                "name": "Months",
+                "url": "/topics/months"
+            },
+            {
+                "name": "Fees",
+                "url": "/topics/fees"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alex_stamos_894479?src=t_crypto",
+        "quote": "I think... all of the best public cryptographers in the world would agree that you can't really build back doors in crypto. That it's like drilling a hole in the windshield.",
+        "author": {
+            "name": "Alex Stamos",
+            "url": "/authors/alex_stamos"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    }
+]

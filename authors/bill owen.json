@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/bill_owen_404554",
+        "quote": "Give a man a beer, waste an hour. Teach a man to brew, and waste a lifetime!",
+        "author": {
+            "name": "Bill Owen",
+            "url": "/quotes/bill_owen_404554"
+        },
+        "topics": [
+            {
+                "name": "Waste",
+                "url": "/topics/waste"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            },
+            {
+                "name": "Hour",
+                "url": "/topics/hour"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_owen_404551",
+        "quote": "I know if I was a woman I wouldn't want to be a member of an organization that's mostly men.",
+        "author": {
+            "name": "Bill Owen",
+            "url": "/quotes/bill_owen_404551"
+        },
+        "topics": [
+            {
+                "name": "Woman",
+                "url": "/topics/woman"
+            },
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Mostly",
+                "url": "/topics/mostly"
+            }
+        ]
+    }
+]

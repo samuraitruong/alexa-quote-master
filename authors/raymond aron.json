@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/raymond_aron_130306",
+        "quote": "Foreknowledge of the future makes it possible to manipulate both enemies and supporters.",
+        "author": {
+            "name": "Raymond Aron",
+            "url": "/quotes/raymond_aron_130306"
+        },
+        "topics": [
+            {
+                "name": "Future",
+                "url": "/topics/future"
+            },
+            {
+                "name": "Enemies",
+                "url": "/topics/enemies"
+            },
+            {
+                "name": "Makes",
+                "url": "/topics/makes"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/raymond_aron_130139",
+        "quote": "What passes for optimism is most often the effect of an intellectual error.",
+        "author": {
+            "name": "Raymond Aron",
+            "url": "/quotes/raymond_aron_130139"
+        },
+        "topics": [
+            {
+                "name": "Optimism",
+                "url": "/topics/optimism"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "Passes",
+                "url": "/topics/passes"
+            }
+        ]
+    }
+]

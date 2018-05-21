@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/emma_bull_137581",
+        "quote": "Coincidence is the word we use when we can't see the levers and pulleys.",
+        "author": {
+            "name": "Emma Bull",
+            "url": "/quotes/emma_bull_137581"
+        },
+        "topics": [
+            {
+                "name": "See",
+                "url": "/topics/see"
+            },
+            {
+                "name": "Coincidence",
+                "url": "/topics/coincidence"
+            },
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/emma_bull_137582",
+        "quote": "They don't know how the world is shaped. And so they give it a shape, and try to make everything fit it. They separate the right from the left, the man from the woman, the plant from the animal, the sun from the moon. They only want to count to two.",
+        "author": {
+            "name": "Emma Bull",
+            "url": "/quotes/emma_bull_137582"
+        },
+        "topics": [
+            {
+                "name": "Woman",
+                "url": "/topics/woman"
+            },
+            {
+                "name": "Shaped",
+                "url": "/topics/shaped"
+            },
+            {
+                "name": "Separate",
+                "url": "/topics/separate"
+            }
+        ]
+    }
+]

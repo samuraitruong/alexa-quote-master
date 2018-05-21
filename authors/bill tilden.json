@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/bill_tilden_309649",
+        "quote": "Never change a winning game; always change a losing one.",
+        "author": {
+            "name": "Bill Tilden",
+            "url": "/quotes/bill_tilden_309649"
+        },
+        "topics": [
+            {
+                "name": "Game",
+                "url": "/topics/game"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_tilden_309648",
+        "quote": "In these days of modern tennis a player is as strong as his weakest stroke.",
+        "author": {
+            "name": "Bill Tilden",
+            "url": "/quotes/bill_tilden_309648"
+        },
+        "topics": [
+            {
+                "name": "Strong",
+                "url": "/topics/strong"
+            },
+            {
+                "name": "Modern",
+                "url": "/topics/modern"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            }
+        ]
+    }
+]

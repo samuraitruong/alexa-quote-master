@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/juliet_aubrey_566413",
+        "quote": "I don't want to be the next anyone. I'm just me.",
+        "author": {
+            "name": "Juliet Aubrey",
+            "url": "/quotes/juliet_aubrey_566413"
+        },
+        "topics": [
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            },
+            {
+                "name": "Anyone",
+                "url": "/topics/anyone"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/juliet_aubrey_566414",
+        "quote": "I knew I never wanted to become an archaeologist. But at school I became intrigued by what people were doing on an everyday basis in the past.",
+        "author": {
+            "name": "Juliet Aubrey",
+            "url": "/quotes/juliet_aubrey_566414"
+        },
+        "topics": [
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "In The Past",
+                "url": "/topics/in_the_past"
+            },
+            {
+                "name": "Became",
+                "url": "/topics/became"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/juliet_aubrey_654432",
+        "quote": "As you age, you have this vast cauldron of experience to draw from. Some of the experiences are great; some of them you wish you'd never had. But all of them shape the work that you do and the person you become. It's just inevitable.",
+        "author": {
+            "name": "Juliet Aubrey",
+            "url": "/quotes/juliet_aubrey_654432"
+        },
+        "topics": [
+            {
+                "name": "Inevitable",
+                "url": "/topics/inevitable"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Shape",
+                "url": "/topics/shape"
+            }
+        ]
+    }
+]

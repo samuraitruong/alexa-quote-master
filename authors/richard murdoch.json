@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/richard_murdoch_197663",
+        "quote": "Well there are those that you wield and those that you join.",
+        "author": {
+            "name": "Richard Murdoch",
+            "url": "/quotes/richard_murdoch_197663"
+        },
+        "topics": [
+            {
+                "name": "Join",
+                "url": "/topics/join"
+            },
+            {
+                "name": "Well",
+                "url": "/topics/well"
+            },
+            {
+                "name": "Wield",
+                "url": "/topics/wield"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/richard_murdoch_197665",
+        "quote": "I'm not a bad driver. And I never will be because I took lessons when I was quite a boy. I never had to pass a test because there wasn't such a thing when I first started driving a motor car. So I didn't have to pass one.",
+        "author": {
+            "name": "Richard Murdoch",
+            "url": "/quotes/richard_murdoch_197665"
+        },
+        "topics": [
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            },
+            {
+                "name": "Had",
+                "url": "/topics/had"
+            },
+            {
+                "name": "Motor",
+                "url": "/topics/motor"
+            }
+        ]
+    }
+]

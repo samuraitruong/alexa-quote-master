@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/john_hines_116847",
+        "quote": "Preaching is effective as long as the preacher expects something to happen-not because of the sermon, not even because of the preacher, but because of God.",
+        "author": {
+            "name": "John Hines",
+            "url": "/quotes/john_hines_116847"
+        },
+        "topics": [
+            {
+                "name": "Effective",
+                "url": "/topics/effective"
+            },
+            {
+                "name": "Preacher",
+                "url": "/topics/preacher"
+            },
+            {
+                "name": "Even",
+                "url": "/topics/even"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_hines_116846",
+        "quote": "It is only in the light of the inescapable fact of death that a person can adequately engage and enter upon the mysterious fact of life.",
+        "author": {
+            "name": "John Hines",
+            "url": "/quotes/john_hines_116846"
+        },
+        "topics": [
+            {
+                "name": "Death",
+                "url": "/topics/death"
+            },
+            {
+                "name": "Fact",
+                "url": "/topics/fact"
+            },
+            {
+                "name": "Inescapable",
+                "url": "/topics/inescapable"
+            }
+        ]
+    }
+]

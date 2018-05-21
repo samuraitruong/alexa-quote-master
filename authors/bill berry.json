@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/bill_berry_511922",
+        "quote": "I've been playing the drums since age nine.",
+        "author": {
+            "name": "Bill Berry",
+            "url": "/quotes/bill_berry_511922"
+        },
+        "topics": [
+            {
+                "name": "Playing",
+                "url": "/topics/playing"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Nine",
+                "url": "/topics/nine"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_berry_511923",
+        "quote": "Physically my brain is in great shape. My motor functions are fine, but I think going through the whole ordeal... coming pretty close to death, may have affected my priorities.",
+        "author": {
+            "name": "Bill Berry",
+            "url": "/quotes/bill_berry_511923"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Motor",
+                "url": "/topics/motor"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_berry_511924",
+        "quote": "I loved my 17 years with R.E.M., but I'm ready to reflect, assess and move on to a different phase of my life. The four of us will continue our close friendship, and I look forward to hearing their future efforts as the world's biggest R.E.M. fan.",
+        "author": {
+            "name": "Bill Berry",
+            "url": "/quotes/bill_berry_511924"
+        },
+        "topics": [
+            {
+                "name": "Friendship",
+                "url": "/topics/friendship"
+            },
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Our",
+                "url": "/topics/our"
+            }
+        ]
+    }
+]

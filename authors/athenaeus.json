@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/athenaeus_177457",
+        "quote": "Old wood best to burn, old wine to drink, old friends to trust, and old authors to read.",
+        "author": {
+            "name": "Athenaeus",
+            "url": "/quotes/athenaeus_177457"
+        },
+        "topics": [
+            {
+                "name": "Trust",
+                "url": "/topics/trust"
+            },
+            {
+                "name": "Burn",
+                "url": "/topics/burn"
+            },
+            {
+                "name": "Read",
+                "url": "/topics/read"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/athenaeus_177455",
+        "quote": "Goodness does not consist in greatness, but greatness in goodness.",
+        "author": {
+            "name": "Athenaeus",
+            "url": "/quotes/athenaeus_177455"
+        },
+        "topics": [
+            {
+                "name": "Greatness",
+                "url": "/topics/greatness"
+            },
+            {
+                "name": "Goodness",
+                "url": "/topics/goodness"
+            },
+            {
+                "name": "Does",
+                "url": "/topics/does"
+            }
+        ]
+    }
+]

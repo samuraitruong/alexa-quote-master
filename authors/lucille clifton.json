@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/lucille_clifton_395931",
+        "quote": "Poetry is a matter of life, not just a matter of language.",
+        "author": {
+            "name": "Lucille Clifton",
+            "url": "/quotes/lucille_clifton_395931"
+        },
+        "topics": [
+            {
+                "name": "Language",
+                "url": "/topics/language"
+            },
+            {
+                "name": "Matter",
+                "url": "/topics/matter"
+            },
+            {
+                "name": "Just",
+                "url": "/topics/just"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lucille_clifton_143962",
+        "quote": "People wish to be poets more than they wish to write poetry, and that's a mistake. One should wish to celebrate more than one wishes to be celebrated.",
+        "author": {
+            "name": "Lucille Clifton",
+            "url": "/quotes/lucille_clifton_143962"
+        },
+        "topics": [
+            {
+                "name": "Mistake",
+                "url": "/topics/mistake"
+            },
+            {
+                "name": "Celebrate",
+                "url": "/topics/celebrate"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            }
+        ]
+    }
+]

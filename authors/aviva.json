@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/aviva_625217",
+        "quote": "I typically take life one day at a time.",
+        "author": {
+            "name": "Aviva",
+            "url": "/quotes/aviva_625217"
+        },
+        "topics": [
+            {
+                "name": "One Day At A Time",
+                "url": "/topics/one_day_at_a_time"
+            },
+            {
+                "name": "Take",
+                "url": "/topics/take"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/aviva_625215",
+        "quote": "I love being married: you don't have to go out, you don't have to be on the prowl, and you don't have to be on the matchmaking sites.",
+        "author": {
+            "name": "Aviva",
+            "url": "/quotes/aviva_625215"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Go",
+                "url": "/topics/go"
+            },
+            {
+                "name": "I Love",
+                "url": "/topics/i_love"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/aviva_625216",
+        "quote": "I'm really only responsible for my own actions.",
+        "author": {
+            "name": "Aviva",
+            "url": "/quotes/aviva_625216"
+        },
+        "topics": [
+            {
+                "name": "My Own",
+                "url": "/topics/my_own"
+            },
+            {
+                "name": "Responsible",
+                "url": "/topics/responsible"
+            },
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/aviva_625218",
+        "quote": "I feel like if you've done something wrong, then you should keep on apologizing to that person.",
+        "author": {
+            "name": "Aviva",
+            "url": "/quotes/aviva_625218"
+        },
+        "topics": [
+            {
+                "name": "Feel",
+                "url": "/topics/feel"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Apologizing",
+                "url": "/topics/apologizing"
+            }
+        ]
+    }
+]

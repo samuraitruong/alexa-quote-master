@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/james_wong_howe_265825",
+        "quote": "I believe that the best cameraman is one who recognizes the source, the story, as the basis of his work.",
+        "author": {
+            "name": "James Wong Howe",
+            "url": "/quotes/james_wong_howe_265825"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Best",
+                "url": "/topics/best"
+            },
+            {
+                "name": "Cameraman",
+                "url": "/topics/cameraman"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_wong_howe_265826",
+        "quote": "Photography must be integrated with the story.",
+        "author": {
+            "name": "James Wong Howe",
+            "url": "/quotes/james_wong_howe_265826"
+        },
+        "topics": [
+            {
+                "name": "Photography",
+                "url": "/topics/photography"
+            },
+            {
+                "name": "Story",
+                "url": "/topics/story"
+            },
+            {
+                "name": "Must",
+                "url": "/topics/must"
+            }
+        ]
+    }
+]

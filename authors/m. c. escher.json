@@ -1,0 +1,134 @@
+[
+    {
+        "url": "/quotes/m_c_escher_121873",
+        "quote": "We adore chaos because we love to produce order.",
+        "author": {
+            "name": "M. C. Escher",
+            "url": "/quotes/m_c_escher_121873"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Chaos",
+                "url": "/topics/chaos"
+            },
+            {
+                "name": "Brainy",
+                "url": "/topics/brainy"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/m_c_escher_107480",
+        "quote": "Are you really sure that a floor can't also be a ceiling?",
+        "author": {
+            "name": "M. C. Escher",
+            "url": "/quotes/m_c_escher_107480"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Sure",
+                "url": "/topics/sure"
+            },
+            {
+                "name": "Ceiling",
+                "url": "/topics/ceiling"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/m_c_escher_107495",
+        "quote": "Only those who attempt the absurd will achieve the impossible. I think it's in my basement... let me go upstairs and check.",
+        "author": {
+            "name": "M. C. Escher",
+            "url": "/quotes/m_c_escher_107495"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Basement",
+                "url": "/topics/basement"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/m_c_escher_109035",
+        "quote": "I don't use drugs, my dreams are frightening enough.",
+        "author": {
+            "name": "M. C. Escher",
+            "url": "/quotes/m_c_escher_109035"
+        },
+        "topics": [
+            {
+                "name": "Dreams",
+                "url": "/topics/dreams"
+            },
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            },
+            {
+                "name": "Frightening",
+                "url": "/topics/frightening"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/m_c_escher_164172",
+        "quote": "He who wonders discovers that this in itself is wonder.",
+        "author": {
+            "name": "M. C. Escher",
+            "url": "/quotes/m_c_escher_164172"
+        },
+        "topics": [
+            {
+                "name": "Wonder",
+                "url": "/topics/wonder"
+            },
+            {
+                "name": "Wonders",
+                "url": "/topics/wonders"
+            },
+            {
+                "name": "Itself",
+                "url": "/topics/itself"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/m_c_escher_132383",
+        "quote": "My work is a game, a very serious game.",
+        "author": {
+            "name": "M. C. Escher",
+            "url": "/quotes/m_c_escher_132383"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Game",
+                "url": "/topics/game"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    }
+]

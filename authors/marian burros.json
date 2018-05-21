@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/marian_burros_111005",
+        "quote": "Today's restaurant is theater on a grand scale.",
+        "author": {
+            "name": "Marian Burros",
+            "url": "/quotes/marian_burros_111005"
+        },
+        "topics": [
+            {
+                "name": "Today",
+                "url": "/topics/today"
+            },
+            {
+                "name": "Restaurant",
+                "url": "/topics/restaurant"
+            },
+            {
+                "name": "Theater",
+                "url": "/topics/theater"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marian_burros_111006",
+        "quote": "If Broadway shows charge preview prices while the cast is in dress rehearsal, why should restaurants charge full price when their dining room and kitchen staffs are still practicing?",
+        "author": {
+            "name": "Marian Burros",
+            "url": "/quotes/marian_burros_111006"
+        },
+        "topics": [
+            {
+                "name": "Dress",
+                "url": "/topics/dress"
+            },
+            {
+                "name": "Broadway",
+                "url": "/topics/broadway"
+            },
+            {
+                "name": "Preview",
+                "url": "/topics/preview"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marian_burros_116997",
+        "quote": "It may not be possible to get rare roast beef but if you're willing to settle for well done, ask them to hold the sweetened library paste that passes for gravy.",
+        "author": {
+            "name": "Marian Burros",
+            "url": "/quotes/marian_burros_116997"
+        },
+        "topics": [
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Willing",
+                "url": "/topics/willing"
+            },
+            {
+                "name": "Roast Beef",
+                "url": "/topics/roast_beef"
+            }
+        ]
+    }
+]

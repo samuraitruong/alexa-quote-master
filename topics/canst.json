@@ -1,0 +1,134 @@
+[
+    {
+        "url": "/quotes/omar_khayyam_165612?src=t_canst",
+        "quote": "Living Life Tomorrow's fate, though thou be wise, Thou canst not tell nor yet surmise; Pass, therefore, not today in vain, For it will never come again.",
+        "author": {
+            "name": "Omar Khayyam",
+            "url": "/authors/omar_khayyam"
+        },
+        "topics": [
+            {
+                "name": "Fate",
+                "url": "/topics/fate"
+            },
+            {
+                "name": "Living",
+                "url": "/topics/living"
+            },
+            {
+                "name": "Though",
+                "url": "/topics/though"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_shakespeare_106104?src=t_canst",
+        "quote": "To thine own self be true, and it must follow, as the night the day, thou canst not then be false to any man.",
+        "author": {
+            "name": "William Shakespeare",
+            "url": "/authors/william_shakespeare"
+        },
+        "topics": [
+            {
+                "name": "Night",
+                "url": "/topics/night"
+            },
+            {
+                "name": "Be True",
+                "url": "/topics/be_true"
+            },
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_donne_154209?src=t_canst",
+        "quote": "Death be not proud, though some have called thee Mighty and dreadful, for thou art not so. For, those, whom thou think'st thou dost overthrow. Die not, poor death, nor yet canst thou kill me.",
+        "author": {
+            "name": "John Donne",
+            "url": "/authors/john_donne"
+        },
+        "topics": [
+            {
+                "name": "Die",
+                "url": "/topics/die"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Thee",
+                "url": "/topics/thee"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/saint_ambrose_556240?src=t_canst",
+        "quote": "Many a sin has sullied me in body and in soul because I did not restrain my thoughts nor guard my lips: nevertheless it is to Thee, O God of majesty and love, that I turn in my extremity, for Thou art the fount of mercy; to Thee, as quickly as I may, I speed: for Thou alone canst heal me; I take refuge under Thy protection.",
+        "author": {
+            "name": "Saint Ambrose",
+            "url": "/authors/saint_ambrose"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Thy",
+                "url": "/topics/thy"
+            },
+            {
+                "name": "Nevertheless",
+                "url": "/topics/nevertheless"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/francis_thompson_154829?src=t_canst",
+        "quote": "All things by immortal power. Near of far, to each other linked are, that thou canst not stir a flower without troubling of a star.",
+        "author": {
+            "name": "Francis Thompson",
+            "url": "/authors/francis_thompson"
+        },
+        "topics": [
+            {
+                "name": "Star",
+                "url": "/topics/star"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Immortal",
+                "url": "/topics/immortal"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_herbert_152895?src=t_canst",
+        "quote": "Drink not the third glass, which thou canst not tame, when once it is within thee.",
+        "author": {
+            "name": "George Herbert",
+            "url": "/authors/george_herbert"
+        },
+        "topics": [
+            {
+                "name": "Glass",
+                "url": "/topics/glass"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Thee",
+                "url": "/topics/thee"
+            }
+        ]
+    }
+]

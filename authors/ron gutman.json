@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/ron_gutman_564065",
+        "quote": "When you smile, you don't only appear to be more likable and courteous, you appear to be more competent.",
+        "author": {
+            "name": "Ron Gutman",
+            "url": "/quotes/ron_gutman_564065"
+        },
+        "topics": [
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Appear",
+                "url": "/topics/appear"
+            },
+            {
+                "name": "Likable",
+                "url": "/topics/likable"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ron_gutman_564066",
+        "quote": "Everyone knows that Silicon Valley is chock full of fabulous people who 'do good while doing well.'",
+        "author": {
+            "name": "Ron Gutman",
+            "url": "/quotes/ron_gutman_564066"
+        },
+        "topics": [
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Everyone",
+                "url": "/topics/everyone"
+            },
+            {
+                "name": "While",
+                "url": "/topics/while"
+            }
+        ]
+    }
+]

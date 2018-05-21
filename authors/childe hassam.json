@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/childe_hassam_358266",
+        "quote": "Art, to me, is the interpretation of the impression which nature makes upon the eye and brain.",
+        "author": {
+            "name": "Childe Hassam",
+            "url": "/quotes/childe_hassam_358266"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Eye",
+                "url": "/topics/eye"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/childe_hassam_358268",
+        "quote": "These small shows were decidedly a success. The exhibitions were not too large to be seen easily. It was not an effort, as larger collections of pictures usually are.",
+        "author": {
+            "name": "Childe Hassam",
+            "url": "/quotes/childe_hassam_358268"
+        },
+        "topics": [
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Large",
+                "url": "/topics/large"
+            },
+            {
+                "name": "Larger",
+                "url": "/topics/larger"
+            }
+        ]
+    }
+]

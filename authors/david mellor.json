@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/david_mellor_401984",
+        "quote": "The tabloids are like animals, with their own behavioural patterns. There's no point in complaining about them, any more than complaining that lions might eat you.",
+        "author": {
+            "name": "David Mellor",
+            "url": "/quotes/david_mellor_401984"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Tabloids",
+                "url": "/topics/tabloids"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_mellor_402655",
+        "quote": "Lawyers are like rhinoceroses: thick skinned, short-sighted, and always ready to charge.",
+        "author": {
+            "name": "David Mellor",
+            "url": "/quotes/david_mellor_402655"
+        },
+        "topics": [
+            {
+                "name": "Lawyers",
+                "url": "/topics/lawyers"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Charge",
+                "url": "/topics/charge"
+            }
+        ]
+    }
+]

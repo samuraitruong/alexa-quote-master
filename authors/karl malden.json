@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/karl_malden_205879",
+        "quote": "I'm a workaholic. I love every movie I've been in, even the bad ones, every TV series, every play, because I love to work. It's what keeps me going.",
+        "author": {
+            "name": "Karl Malden",
+            "url": "/quotes/karl_malden_205879"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/karl_malden_205878",
+        "quote": "My father was a milkman. So, I delivered milk.",
+        "author": {
+            "name": "Karl Malden",
+            "url": "/quotes/karl_malden_205878"
+        },
+        "topics": [
+            {
+                "name": "Father",
+                "url": "/topics/father"
+            },
+            {
+                "name": "Milk",
+                "url": "/topics/milk"
+            },
+            {
+                "name": "Delivered",
+                "url": "/topics/delivered"
+            }
+        ]
+    }
+]

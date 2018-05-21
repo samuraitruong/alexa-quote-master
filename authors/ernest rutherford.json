@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/ernest_rutherford_377084",
+        "quote": "All science is either physics or stamp collecting.",
+        "author": {
+            "name": "Ernest Rutherford",
+            "url": "/quotes/ernest_rutherford_377084"
+        },
+        "topics": [
+            {
+                "name": "Science",
+                "url": "/topics/science"
+            },
+            {
+                "name": "Physics",
+                "url": "/topics/physics"
+            },
+            {
+                "name": "Either",
+                "url": "/topics/either"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ernest_rutherford_212998",
+        "quote": "Of all created comforts, God is the lender; you are the borrower, not the owner.",
+        "author": {
+            "name": "Ernest Rutherford",
+            "url": "/quotes/ernest_rutherford_212998"
+        },
+        "topics": [
+            {
+                "name": "Owner",
+                "url": "/topics/owner"
+            },
+            {
+                "name": "Lender",
+                "url": "/topics/lender"
+            },
+            {
+                "name": "Created",
+                "url": "/topics/created"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ernest_rutherford_391627",
+        "quote": "If your experiment needs statistics, you ought to have done a better experiment.",
+        "author": {
+            "name": "Ernest Rutherford",
+            "url": "/quotes/ernest_rutherford_391627"
+        },
+        "topics": [
+            {
+                "name": "Better",
+                "url": "/topics/better"
+            },
+            {
+                "name": "Needs",
+                "url": "/topics/needs"
+            },
+            {
+                "name": "Experiment",
+                "url": "/topics/experiment"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ernest_rutherford_212997",
+        "quote": "You should never bet against anything in science at odds of more than about 1012 to 1.",
+        "author": {
+            "name": "Ernest Rutherford",
+            "url": "/quotes/ernest_rutherford_212997"
+        },
+        "topics": [
+            {
+                "name": "Against",
+                "url": "/topics/against"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/dorothy_hodgkin_634431",
+        "quote": "I should not like to leave an impression that all structural problems can be settled by X-ray analysis or that all crystal structures are easy to solve. I seem to have spent much more of my life not solving structures than solving them.",
+        "author": {
+            "name": "Dorothy Hodgkin",
+            "url": "/quotes/dorothy_hodgkin_634431"
+        },
+        "topics": [
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Crystal",
+                "url": "/topics/crystal"
+            },
+            {
+                "name": "Solving",
+                "url": "/topics/solving"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dorothy_hodgkin_634430",
+        "quote": "The detailed geometry of the coenzyme molecule as a whole is fascinating in its complexity.",
+        "author": {
+            "name": "Dorothy Hodgkin",
+            "url": "/quotes/dorothy_hodgkin_634430"
+        },
+        "topics": [
+            {
+                "name": "Complexity",
+                "url": "/topics/complexity"
+            },
+            {
+                "name": "Whole",
+                "url": "/topics/whole"
+            },
+            {
+                "name": "Detailed",
+                "url": "/topics/detailed"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dorothy_hodgkin_634429",
+        "quote": "I first met the subject of X-ray diffraction of crystals in the pages of the book W. H. Bragg wrote for school children in 1925, 'Concerning the Nature of Things.'",
+        "author": {
+            "name": "Dorothy Hodgkin",
+            "url": "/quotes/dorothy_hodgkin_634429"
+        },
+        "topics": [
+            {
+                "name": "School Children",
+                "url": "/topics/school_children"
+            },
+            {
+                "name": "Crystals",
+                "url": "/topics/crystals"
+            }
+        ]
+    }
+]

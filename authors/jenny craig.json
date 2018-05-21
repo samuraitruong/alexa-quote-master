@@ -1,0 +1,130 @@
+[
+    {
+        "url": "/quotes/jenny_craig_340065",
+        "quote": "A change in bad habits leads to a change in life.",
+        "author": {
+            "name": "Jenny Craig",
+            "url": "/quotes/jenny_craig_340065"
+        },
+        "topics": [
+            {
+                "name": "Habits",
+                "url": "/topics/habits"
+            },
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            },
+            {
+                "name": "Bad Habits",
+                "url": "/topics/bad_habits"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jenny_craig_129134",
+        "quote": "It's not what you do once in a while, it's what you do day in and day out that makes the difference.",
+        "author": {
+            "name": "Jenny Craig",
+            "url": "/quotes/jenny_craig_129134"
+        },
+        "topics": [
+            {
+                "name": "Difference",
+                "url": "/topics/difference"
+            },
+            {
+                "name": "Once",
+                "url": "/topics/once"
+            },
+            {
+                "name": "Makes",
+                "url": "/topics/makes"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jenny_craig_340026",
+        "quote": "Well, I think probably the main reason people overeat is stress.",
+        "author": {
+            "name": "Jenny Craig",
+            "url": "/quotes/jenny_craig_340026"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Reason",
+                "url": "/topics/reason"
+            },
+            {
+                "name": "Overeat",
+                "url": "/topics/overeat"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jenny_craig_340030",
+        "quote": "We're about moderation.",
+        "author": {
+            "name": "Jenny Craig",
+            "url": "/quotes/jenny_craig_340030"
+        },
+        "topics": [
+            {
+                "name": "Moderation",
+                "url": "/topics/moderation"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jenny_craig_340052",
+        "quote": "I don't believe in fad diets.",
+        "author": {
+            "name": "Jenny Craig",
+            "url": "/quotes/jenny_craig_340052"
+        },
+        "topics": [
+            {
+                "name": "Believe",
+                "url": "/topics/believe"
+            },
+            {
+                "name": "Diet",
+                "url": "/topics/diet"
+            },
+            {
+                "name": "Fad",
+                "url": "/topics/fad"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jenny_craig_340053",
+        "quote": "I am very tenacious.",
+        "author": {
+            "name": "Jenny Craig",
+            "url": "/quotes/jenny_craig_340053"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Tenacious",
+                "url": "/topics/tenacious"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    }
+]

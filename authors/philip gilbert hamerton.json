@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/philip_gilbert_hamerton_126429",
+        "quote": "We need society, and we need solitude also, as we need summer and winter, day and night, exercise and rest.",
+        "author": {
+            "name": "Philip Gilbert Hamerton",
+            "url": "/quotes/philip_gilbert_hamerton_126429"
+        },
+        "topics": [
+            {
+                "name": "Society",
+                "url": "/topics/society"
+            },
+            {
+                "name": "Rest",
+                "url": "/topics/rest"
+            },
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/philip_gilbert_hamerton_107458",
+        "quote": "Have you ever observed that we pay much more attention to a wise passage when it is quoted than when we read it in the original author?",
+        "author": {
+            "name": "Philip Gilbert Hamerton",
+            "url": "/quotes/philip_gilbert_hamerton_107458"
+        },
+        "topics": [
+            {
+                "name": "Passage",
+                "url": "/topics/passage"
+            },
+            {
+                "name": "Original",
+                "url": "/topics/original"
+            },
+            {
+                "name": "Read",
+                "url": "/topics/read"
+            }
+        ]
+    }
+]

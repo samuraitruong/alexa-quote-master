@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/nicole_brown_simpson_399187",
+        "quote": "I'm afraid this man will kill me some day.",
+        "author": {
+            "name": "Nicole Brown Simpson",
+            "url": "/quotes/nicole_brown_simpson_399187"
+        },
+        "topics": [
+            {
+                "name": "Afraid",
+                "url": "/topics/afraid"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    }
+]

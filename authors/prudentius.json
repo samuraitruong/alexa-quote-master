@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/prudentius_399176",
+        "quote": "Nothing is higher than the love of truth.",
+        "author": {
+            "name": "Prudentius",
+            "url": "/quotes/prudentius_399176"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Truth",
+                "url": "/topics/truth"
+            },
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/prudentius_403145",
+        "quote": "Hunger for gold is made greater as more gold is acquired.",
+        "author": {
+            "name": "Prudentius",
+            "url": "/quotes/prudentius_403145"
+        },
+        "topics": [
+            {
+                "name": "Gold",
+                "url": "/topics/gold"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Made",
+                "url": "/topics/made"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/prudentius_402698",
+        "quote": "To live is shared by all, but not to be worthy of living.",
+        "author": {
+            "name": "Prudentius",
+            "url": "/quotes/prudentius_402698"
+        },
+        "topics": [
+            {
+                "name": "Living",
+                "url": "/topics/living"
+            },
+            {
+                "name": "Worthy",
+                "url": "/topics/worthy"
+            },
+            {
+                "name": "Shared",
+                "url": "/topics/shared"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/prudentius_403319",
+        "quote": "Bright light is injurious to those who see nothing.",
+        "author": {
+            "name": "Prudentius",
+            "url": "/quotes/prudentius_403319"
+        },
+        "topics": [
+            {
+                "name": "Light",
+                "url": "/topics/light"
+            },
+            {
+                "name": "See",
+                "url": "/topics/see"
+            },
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            }
+        ]
+    }
+]

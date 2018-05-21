@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/jim_clark_102045",
+        "quote": "The Internet is not just one thing, it's a collection of things - of numerous communications networks that all speak the same digital language.",
+        "author": {
+            "name": "Jim Clark",
+            "url": "/quotes/jim_clark_102045"
+        },
+        "topics": [
+            {
+                "name": "Computers",
+                "url": "/topics/computers"
+            },
+            {
+                "name": "Digital",
+                "url": "/topics/digital"
+            },
+            {
+                "name": "Numerous",
+                "url": "/topics/numerous"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jim_clark_163681",
+        "quote": "I have a policy that I get to spend as much on myself as I give away.",
+        "author": {
+            "name": "Jim Clark",
+            "url": "/quotes/jim_clark_163681"
+        },
+        "topics": [
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            },
+            {
+                "name": "Get",
+                "url": "/topics/get"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jim_clark_406158",
+        "quote": "I'd say there was a fair amount of skepticism at the time about whether the Internet held any promise. And of course I felt that it did.",
+        "author": {
+            "name": "Jim Clark",
+            "url": "/quotes/jim_clark_406158"
+        },
+        "topics": [
+            {
+                "name": "Amount",
+                "url": "/topics/amount"
+            },
+            {
+                "name": "Held",
+                "url": "/topics/held"
+            },
+            {
+                "name": "Fair Amount",
+                "url": "/topics/fair_amount"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jim_clark_102046",
+        "quote": "No matter how much Bill Gates may claim otherwise, he missed the Internet, like a barreling freight train that he didn't hear or see coming.",
+        "author": {
+            "name": "Jim Clark",
+            "url": "/quotes/jim_clark_102046"
+        },
+        "topics": [
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Otherwise",
+                "url": "/topics/otherwise"
+            }
+        ]
+    }
+]

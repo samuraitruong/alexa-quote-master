@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/william_christopher_211256",
+        "quote": "It would be fun to do a reunion show. I hope we do it some day, but it better be soon. We're all getting on.",
+        "author": {
+            "name": "William Christopher",
+            "url": "/quotes/william_christopher_211256"
+        },
+        "topics": [
+            {
+                "name": "Hope",
+                "url": "/topics/hope"
+            },
+            {
+                "name": "Show",
+                "url": "/topics/show"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_christopher_211254",
+        "quote": "I've often wondered about people that come to the profession late in life. I've wanted to be an actor since the first grade. I watched a play being performed by the third grade class, and it was... magic.",
+        "author": {
+            "name": "William Christopher",
+            "url": "/quotes/william_christopher_211254"
+        },
+        "topics": [
+            {
+                "name": "Magic",
+                "url": "/topics/magic"
+            },
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Profession",
+                "url": "/topics/profession"
+            }
+        ]
+    }
+]

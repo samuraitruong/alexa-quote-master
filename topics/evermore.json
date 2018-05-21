@@ -1,0 +1,200 @@
+[
+    {
+        "url": "/quotes/john_webster_160622?src=t_evermore",
+        "quote": "When I go to hell, I mean to carry a bribe: for look you, good gifts evermore make way for the worst persons.",
+        "author": {
+            "name": "John Webster",
+            "url": "/authors/john_webster"
+        },
+        "topics": [
+            {
+                "name": "Hell",
+                "url": "/topics/hell"
+            },
+            {
+                "name": "Go",
+                "url": "/topics/go"
+            },
+            {
+                "name": "Bribe",
+                "url": "/topics/bribe"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/omar_khayyam_153456?src=t_evermore",
+        "quote": "Myself when young did eagerly frequent doctor and saint, and heard great argument about it and about: but evermore came out by the same door as in I went.",
+        "author": {
+            "name": "Omar Khayyam",
+            "url": "/authors/omar_khayyam"
+        },
+        "topics": [
+            {
+                "name": "Door",
+                "url": "/topics/door"
+            },
+            {
+                "name": "Argument",
+                "url": "/topics/argument"
+            },
+            {
+                "name": "Saint",
+                "url": "/topics/saint"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ralph_waldo_emerson_141051?src=t_evermore",
+        "quote": "God screens us evermore from premature ideas.",
+        "author": {
+            "name": "Ralph Waldo Emerson",
+            "url": "/authors/ralph_waldo_emerson"
+        },
+        "topics": [
+            {
+                "name": "Ideas",
+                "url": "/topics/ideas"
+            },
+            {
+                "name": "Premature",
+                "url": "/topics/premature"
+            },
+            {
+                "name": "Screens",
+                "url": "/topics/screens"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/michael_leunig_669444?src=t_evermore",
+        "quote": "Who can protest alone? Who dares rise up? It is not easy. One is all alone, and evermore shall be so.",
+        "author": {
+            "name": "Michael Leunig",
+            "url": "/authors/michael_leunig"
+        },
+        "topics": [
+            {
+                "name": "Alone",
+                "url": "/topics/alone"
+            },
+            {
+                "name": "Protest",
+                "url": "/topics/protest"
+            },
+            {
+                "name": "Shall",
+                "url": "/topics/shall"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_manchester_115679?src=t_evermore",
+        "quote": "I wondered vaguely if this was when it would end, whether I would pull up tonight's darkness like a quilt and be dead and at peace evermore.",
+        "author": {
+            "name": "William Manchester",
+            "url": "/authors/william_manchester"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Quilt",
+                "url": "/topics/quilt"
+            },
+            {
+                "name": "Tonight",
+                "url": "/topics/tonight"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/herman_melville_166004?src=t_evermore",
+        "quote": "Some dying men are the most tyrannical; and certainly, since they will shortly trouble us so little for evermore, the poor fellows ought to be indulged.",
+        "author": {
+            "name": "Herman Melville",
+            "url": "/authors/herman_melville"
+        },
+        "topics": [
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Certainly",
+                "url": "/topics/certainly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bennett_miller_883716?src=t_evermore",
+        "quote": "As a filmmaker, one tends to want to evolve evermore towards a place of independence.",
+        "author": {
+            "name": "Bennett Miller",
+            "url": "/authors/bennett_miller"
+        },
+        "topics": [
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Evolve",
+                "url": "/topics/evolve"
+            },
+            {
+                "name": "Towards",
+                "url": "/topics/towards"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/naomi_watts_777787?src=t_evermore",
+        "quote": "I'm not sure why I still think of myself as 28 - maybe that's the point where you start growing up, and then you just feel the same for evermore.",
+        "author": {
+            "name": "Naomi Watts",
+            "url": "/authors/naomi_watts"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            },
+            {
+                "name": "Sure",
+                "url": "/topics/sure"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_herrick_104712?src=t_evermore",
+        "quote": "Who covets more is evermore a slave.",
+        "author": {
+            "name": "Robert Herrick",
+            "url": "/authors/robert_herrick"
+        },
+        "topics": [
+            {
+                "name": "Money",
+                "url": "/topics/money"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Slave",
+                "url": "/topics/slave"
+            }
+        ]
+    }
+]

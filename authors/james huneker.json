@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/james_huneker_130026",
+        "quote": "All men of action are dreamers.",
+        "author": {
+            "name": "James Huneker",
+            "url": "/quotes/james_huneker_130026"
+        },
+        "topics": [
+            {
+                "name": "Dreams",
+                "url": "/topics/dreams"
+            },
+            {
+                "name": "Action",
+                "url": "/topics/action"
+            },
+            {
+                "name": "Men",
+                "url": "/topics/men"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_huneker_108491",
+        "quote": "He dares to be a fool, and that is the first step in the direction of wisdom.",
+        "author": {
+            "name": "James Huneker",
+            "url": "/quotes/james_huneker_108491"
+        },
+        "topics": [
+            {
+                "name": "Wisdom",
+                "url": "/topics/wisdom"
+            },
+            {
+                "name": "Fool",
+                "url": "/topics/fool"
+            },
+            {
+                "name": "First Step",
+                "url": "/topics/first_step"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_huneker_164675",
+        "quote": "Great art is an instant arrested in eternity.",
+        "author": {
+            "name": "James Huneker",
+            "url": "/quotes/james_huneker_164675"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Eternity",
+                "url": "/topics/eternity"
+            },
+            {
+                "name": "Arrested",
+                "url": "/topics/arrested"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_huneker_387709",
+        "quote": "Scratch an artist and you surprise a child.",
+        "author": {
+            "name": "James Huneker",
+            "url": "/quotes/james_huneker_387709"
+        },
+        "topics": [
+            {
+                "name": "Artist",
+                "url": "/topics/artist"
+            },
+            {
+                "name": "Surprise",
+                "url": "/topics/surprise"
+            },
+            {
+                "name": "Scratch",
+                "url": "/topics/scratch"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_huneker_388673",
+        "quote": "Life is like an onion: you peel off layer after layer and then you find there is nothing in it.",
+        "author": {
+            "name": "James Huneker",
+            "url": "/quotes/james_huneker_388673"
+        },
+        "topics": [
+            {
+                "name": "Find",
+                "url": "/topics/find"
+            },
+            {
+                "name": "Onion",
+                "url": "/topics/onion"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    }
+]

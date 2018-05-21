@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/bill_cobbs_573581",
+        "quote": "I tried singing. I tried playing a musical instrument. I really wanted to be a musician, but I never could quite pull that off. I liked entertaining, but I was always drawn to some kind of technical work - some kind of honest labor.",
+        "author": {
+            "name": "Bill Cobbs",
+            "url": "/quotes/bill_cobbs_573581"
+        },
+        "topics": [
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Entertaining",
+                "url": "/topics/entertaining"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_cobbs_573580",
+        "quote": "Ossie Davis was a man with great integrity, great honor and someone who I feel has done us all a great service just by being on the Earth.",
+        "author": {
+            "name": "Bill Cobbs",
+            "url": "/quotes/bill_cobbs_573580"
+        },
+        "topics": [
+            {
+                "name": "Honor",
+                "url": "/topics/honor"
+            },
+            {
+                "name": "Feel",
+                "url": "/topics/feel"
+            },
+            {
+                "name": "Being",
+                "url": "/topics/being"
+            }
+        ]
+    }
+]

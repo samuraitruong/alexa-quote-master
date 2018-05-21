@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/rick_ferrell_621437",
+        "quote": "We were brothers off the field, but there was no love lost on it. We fought like cats and dogs. Wes was always trying to strike me out, and meantime, I was always trying to hit a home run off him.",
+        "author": {
+            "name": "Rick Ferrell",
+            "url": "/quotes/rick_ferrell_621437"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Home Run",
+                "url": "/topics/home_run"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rick_ferrell_621438",
+        "quote": "Never reach for the knuckleball; I just let it come to me.",
+        "author": {
+            "name": "Rick Ferrell",
+            "url": "/quotes/rick_ferrell_621438"
+        },
+        "topics": [
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Reach",
+                "url": "/topics/reach"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            }
+        ]
+    }
+]

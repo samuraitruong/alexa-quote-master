@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/jules_romains_144437",
+        "quote": "The world is an enormous injustice.",
+        "author": {
+            "name": "Jules Romains",
+            "url": "/quotes/jules_romains_144437"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Injustice",
+                "url": "/topics/injustice"
+            },
+            {
+                "name": "Enormous",
+                "url": "/topics/enormous"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jules_romains_296842",
+        "quote": "History: the category of human phenomena which tends to catastrophe.",
+        "author": {
+            "name": "Jules Romains",
+            "url": "/quotes/jules_romains_296842"
+        },
+        "topics": [
+            {
+                "name": "History",
+                "url": "/topics/history"
+            },
+            {
+                "name": "Catastrophe",
+                "url": "/topics/catastrophe"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jules_romains_296843",
+        "quote": "Healthy people are invalids who don't know it.",
+        "author": {
+            "name": "Jules Romains",
+            "url": "/quotes/jules_romains_296843"
+        },
+        "topics": [
+            {
+                "name": "People",
+                "url": "/topics/people"
+            },
+            {
+                "name": "Know",
+                "url": "/topics/know"
+            },
+            {
+                "name": "Healthy",
+                "url": "/topics/healthy"
+            }
+        ]
+    }
+]

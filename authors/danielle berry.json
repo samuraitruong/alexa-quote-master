@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/danielle_berry_234204",
+        "quote": "No one ever said on their deathbed, 'Gee, I wish I had spent more time alone with my computer'.",
+        "author": {
+            "name": "Danielle Berry",
+            "url": "/quotes/danielle_berry_234204"
+        },
+        "topics": [
+            {
+                "name": "Computers",
+                "url": "/topics/computers"
+            },
+            {
+                "name": "I Wish",
+                "url": "/topics/i_wish"
+            },
+            {
+                "name": "Gee",
+                "url": "/topics/gee"
+            }
+        ]
+    }
+]

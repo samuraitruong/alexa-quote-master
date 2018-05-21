@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/shawna_thompson_467801",
+        "quote": "To me, goth is like really hard black lipstick, black nails, black clothes.",
+        "author": {
+            "name": "Shawna Thompson",
+            "url": "/quotes/shawna_thompson_467801"
+        },
+        "topics": [
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Nails",
+                "url": "/topics/nails"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/shawna_thompson_467800",
+        "quote": "My dad played music so I was around it at a really young age.",
+        "author": {
+            "name": "Shawna Thompson",
+            "url": "/quotes/shawna_thompson_467800"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "Young",
+                "url": "/topics/young"
+            },
+            {
+                "name": "Dad",
+                "url": "/topics/dad"
+            }
+        ]
+    }
+]

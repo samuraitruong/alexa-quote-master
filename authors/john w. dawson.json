@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/john_w_dawson_199933",
+        "quote": "Canada has two emblems - the beaver and the maple.",
+        "author": {
+            "name": "John W. Dawson",
+            "url": "/quotes/john_w_dawson_199933"
+        },
+        "topics": [
+            {
+                "name": "Canada",
+                "url": "/topics/canada"
+            },
+            {
+                "name": "Two",
+                "url": "/topics/two"
+            },
+            {
+                "name": "Maple",
+                "url": "/topics/maple"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_w_dawson_199935",
+        "quote": "Now multitudes of root words are identical in the American languages over vast areas some of them with precisely the same senses, and others with various shades of analogical meaning.",
+        "author": {
+            "name": "John W. Dawson",
+            "url": "/quotes/john_w_dawson_199935"
+        },
+        "topics": [
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Shades",
+                "url": "/topics/shades"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    }
+]

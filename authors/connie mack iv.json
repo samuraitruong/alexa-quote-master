@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/connie_mack_iv_507503",
+        "quote": "Freedom is the core of all human progress. It believes that nothing's given to us, but if you're willing to work hard. If you're willing to compete, the American dream is there for you.",
+        "author": {
+            "name": "Connie Mack IV",
+            "url": "/quotes/connie_mack_iv_507503"
+        },
+        "topics": [
+            {
+                "name": "Work Hard",
+                "url": "/topics/work_hard"
+            },
+            {
+                "name": "Compete",
+                "url": "/topics/compete"
+            },
+            {
+                "name": "Given",
+                "url": "/topics/given"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/connie_mack_iv_507504",
+        "quote": "As a dad, it's kind of exciting to see that your son follows what you believe in so strongly.",
+        "author": {
+            "name": "Connie Mack IV",
+            "url": "/quotes/connie_mack_iv_507504"
+        },
+        "topics": [
+            {
+                "name": "Son",
+                "url": "/topics/son"
+            },
+            {
+                "name": "See",
+                "url": "/topics/see"
+            },
+            {
+                "name": "Dad",
+                "url": "/topics/dad"
+            }
+        ]
+    }
+]

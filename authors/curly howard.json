@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/curly_howard_212795",
+        "quote": "I shoot an arrow into the air, where it lands I do not care: I get my arrows wholesale!",
+        "author": {
+            "name": "Curly Howard",
+            "url": "/quotes/curly_howard_212795"
+        },
+        "topics": [
+            {
+                "name": "Arrow",
+                "url": "/topics/arrow"
+            },
+            {
+                "name": "Wholesale",
+                "url": "/topics/wholesale"
+            },
+            {
+                "name": "Lands",
+                "url": "/topics/lands"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/curly_howard_212799",
+        "quote": "Are you casting asparagus on my cooking?",
+        "author": {
+            "name": "Curly Howard",
+            "url": "/quotes/curly_howard_212799"
+        },
+        "topics": [
+            {
+                "name": "Cooking",
+                "url": "/topics/cooking"
+            },
+            {
+                "name": "Asparagus",
+                "url": "/topics/asparagus"
+            },
+            {
+                "name": "Casting",
+                "url": "/topics/casting"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/curly_howard_212796",
+        "quote": "Well being as there's no other place around the place, I reckon this must be the place, I reckon.",
+        "author": {
+            "name": "Curly Howard",
+            "url": "/quotes/curly_howard_212796"
+        },
+        "topics": [
+            {
+                "name": "Well",
+                "url": "/topics/well"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Must",
+                "url": "/topics/must"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/curly_howard_212793",
+        "quote": "I had beautiful wavy hair and a waxed mustache.",
+        "author": {
+            "name": "Curly Howard",
+            "url": "/quotes/curly_howard_212793"
+        },
+        "topics": [
+            {
+                "name": "Beautiful",
+                "url": "/topics/beautiful"
+            },
+            {
+                "name": "Hair",
+                "url": "/topics/hair"
+            },
+            {
+                "name": "Waxed",
+                "url": "/topics/waxed"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/curly_howard_212794",
+        "quote": "I got sick of the dough, and thought I'd go on the loaf.",
+        "author": {
+            "name": "Curly Howard",
+            "url": "/quotes/curly_howard_212794"
+        },
+        "topics": [
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Go",
+                "url": "/topics/go"
+            },
+            {
+                "name": "Loaf",
+                "url": "/topics/loaf"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/vissarion_belinsky_190308",
+        "quote": "I am strongly convinced that the people or society is the best and the most unerring critic.",
+        "author": {
+            "name": "Vissarion Belinsky",
+            "url": "/quotes/vissarion_belinsky_190308"
+        },
+        "topics": [
+            {
+                "name": "Society",
+                "url": "/topics/society"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "Critic",
+                "url": "/topics/critic"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/vissarion_belinsky_190307",
+        "quote": "Do not worry about the incarnation of ideas. If you are a poet, your works will contain them without your knowledge'they will be both moral and national if you follow your inspiration freely.",
+        "author": {
+            "name": "Vissarion Belinsky",
+            "url": "/quotes/vissarion_belinsky_190307"
+        },
+        "topics": [
+            {
+                "name": "Worry",
+                "url": "/topics/worry"
+            },
+            {
+                "name": "Works",
+                "url": "/topics/works"
+            },
+            {
+                "name": "Contain",
+                "url": "/topics/contain"
+            }
+        ]
+    }
+]

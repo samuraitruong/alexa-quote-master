@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/lu_yu_172877",
+        "quote": "Its liquor is like the sweetest dew from Heaven.",
+        "author": {
+            "name": "Lu Yu",
+            "url": "/quotes/lu_yu_172877"
+        },
+        "topics": [
+            {
+                "name": "Dew",
+                "url": "/topics/dew"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Liquor",
+                "url": "/topics/liquor"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lu_yu_178431",
+        "quote": "Its goodness is a decision for the mouth to make.",
+        "author": {
+            "name": "Lu Yu",
+            "url": "/quotes/lu_yu_178431"
+        },
+        "topics": [
+            {
+                "name": "Decision",
+                "url": "/topics/decision"
+            },
+            {
+                "name": "Mouth",
+                "url": "/topics/mouth"
+            },
+            {
+                "name": "Make",
+                "url": "/topics/make"
+            }
+        ]
+    }
+]

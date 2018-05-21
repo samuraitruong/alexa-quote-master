@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/william_fung_644611",
+        "quote": "I'm not an Internet guy - I'm a business guy.",
+        "author": {
+            "name": "William Fung",
+            "url": "/quotes/william_fung_644611"
+        },
+        "topics": [
+            {
+                "name": "Business",
+                "url": "/topics/business"
+            },
+            {
+                "name": "Internet",
+                "url": "/topics/internet"
+            },
+            {
+                "name": "Guy",
+                "url": "/topics/guy"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_fung_644610",
+        "quote": "The way China is looking to boost consumer spending is astounding. They are going to boost the minimum wage by 13 percent a year every year for five years... I don't know if people realize how dramatic that is.",
+        "author": {
+            "name": "William Fung",
+            "url": "/quotes/william_fung_644610"
+        },
+        "topics": [
+            {
+                "name": "Year",
+                "url": "/topics/year"
+            },
+            {
+                "name": "Years",
+                "url": "/topics/years"
+            },
+            {
+                "name": "Percent",
+                "url": "/topics/percent"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_fung_644612",
+        "quote": "One of the beauties of B2B is that there is a finite number of customers. So the marketing costs are much different. You don't have to take out Super Bowl ads or plaster the New York subway system.",
+        "author": {
+            "name": "William Fung",
+            "url": "/quotes/william_fung_644612"
+        },
+        "topics": [
+            {
+                "name": "Bowl",
+                "url": "/topics/bowl"
+            },
+            {
+                "name": "Out",
+                "url": "/topics/out"
+            },
+            {
+                "name": "Finite Number",
+                "url": "/topics/finite_number"
+            }
+        ]
+    }
+]

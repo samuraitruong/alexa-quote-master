@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/allen_funt_183130",
+        "quote": "When people are smiling they are most receptive to almost anything you want to teach them.",
+        "author": {
+            "name": "Allen Funt",
+            "url": "/quotes/allen_funt_183130"
+        },
+        "topics": [
+            {
+                "name": "Smiling",
+                "url": "/topics/smiling"
+            },
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Almost",
+                "url": "/topics/almost"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/allen_funt_183127",
+        "quote": "I learned the power of radio watching Eleanor Roosevelt do her show. I used to go up to Hyde Park and hold her papers. I was just a messenger, but it planted the bug of radio in me.",
+        "author": {
+            "name": "Allen Funt",
+            "url": "/quotes/allen_funt_183127"
+        },
+        "topics": [
+            {
+                "name": "Learned",
+                "url": "/topics/learned"
+            },
+            {
+                "name": "Planted",
+                "url": "/topics/planted"
+            },
+            {
+                "name": "Hyde",
+                "url": "/topics/hyde"
+            }
+        ]
+    }
+]

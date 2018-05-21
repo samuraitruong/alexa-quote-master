@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/ron_blomberg_404420",
+        "quote": "Competing in sports has taught me that if I'm not willing to give 120 percent, somebody else will.",
+        "author": {
+            "name": "Ron Blomberg",
+            "url": "/quotes/ron_blomberg_404420"
+        },
+        "topics": [
+            {
+                "name": "Sports",
+                "url": "/topics/sports"
+            },
+            {
+                "name": "Competing",
+                "url": "/topics/competing"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ron_blomberg_510460",
+        "quote": "Watching National League pitchers trying to hit or even bunt is depressing.",
+        "author": {
+            "name": "Ron Blomberg",
+            "url": "/quotes/ron_blomberg_510460"
+        },
+        "topics": [
+            {
+                "name": "Hit",
+                "url": "/topics/hit"
+            },
+            {
+                "name": "Pitchers",
+                "url": "/topics/pitchers"
+            },
+            {
+                "name": "Even",
+                "url": "/topics/even"
+            }
+        ]
+    }
+]

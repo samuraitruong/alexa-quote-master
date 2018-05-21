@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/matthew_b_ridgway_238211",
+        "quote": "No ground gained was ever relinquished.",
+        "author": {
+            "name": "Matthew B. Ridgway",
+            "url": "/quotes/matthew_b_ridgway_238211"
+        },
+        "topics": [
+            {
+                "name": "Ever",
+                "url": "/topics/ever"
+            },
+            {
+                "name": "Relinquished",
+                "url": "/topics/relinquished"
+            },
+            {
+                "name": "Gained",
+                "url": "/topics/gained"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/matthew_b_ridgway_238210",
+        "quote": "Every mission accomplished.",
+        "author": {
+            "name": "Matthew B. Ridgway",
+            "url": "/quotes/matthew_b_ridgway_238210"
+        },
+        "topics": [
+            {
+                "name": "Mission",
+                "url": "/topics/mission"
+            },
+            {
+                "name": "Accomplished",
+                "url": "/topics/accomplished"
+            },
+            {
+                "name": "Every",
+                "url": "/topics/every"
+            }
+        ]
+    }
+]

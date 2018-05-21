@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/jean_guitton_121876",
+        "quote": "Originality exists in every individual because each of us differs from the others. We are all primary numbers divisible only by ourselves.",
+        "author": {
+            "name": "Jean Guitton",
+            "url": "/quotes/jean_guitton_121876"
+        },
+        "topics": [
+            {
+                "name": "Individual",
+                "url": "/topics/individual"
+            },
+            {
+                "name": "Divisible",
+                "url": "/topics/divisible"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jean_guitton_104295",
+        "quote": "We are all primary numbers divisible only by ourselves.",
+        "author": {
+            "name": "Jean Guitton",
+            "url": "/quotes/jean_guitton_104295"
+        },
+        "topics": [
+            {
+                "name": "Numbers",
+                "url": "/topics/numbers"
+            },
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            },
+            {
+                "name": "Divisible",
+                "url": "/topics/divisible"
+            }
+        ]
+    }
+]

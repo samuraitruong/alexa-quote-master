@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/alf_landon_303557",
+        "quote": "Wherever I have gone in this country, I have found Americans.",
+        "author": {
+            "name": "Alf Landon",
+            "url": "/quotes/alf_landon_303557"
+        },
+        "topics": [
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Wherever",
+                "url": "/topics/wherever"
+            },
+            {
+                "name": "Found",
+                "url": "/topics/found"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alf_landon_303653",
+        "quote": "I would say practical progressive, which means that the Republican party or any political party has got to recognize the problems of a growing and complex industrial civilization. And I don't think the Republican party is really wide awake to that.",
+        "author": {
+            "name": "Alf Landon",
+            "url": "/quotes/alf_landon_303653"
+        },
+        "topics": [
+            {
+                "name": "Civilization",
+                "url": "/topics/civilization"
+            },
+            {
+                "name": "Republican",
+                "url": "/topics/republican"
+            }
+        ]
+    }
+]

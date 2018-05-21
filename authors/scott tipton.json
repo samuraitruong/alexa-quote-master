@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/scott_tipton_644604",
+        "quote": "Is there climate change? I live in the shadow of some of the greatest climate change the world has ever seen. It's called the Rocky Mountains. When the glaciers went back.",
+        "author": {
+            "name": "Scott Tipton",
+            "url": "/quotes/scott_tipton_644604"
+        },
+        "topics": [
+            {
+                "name": "Mountains",
+                "url": "/topics/mountains"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Glaciers",
+                "url": "/topics/glaciers"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/scott_tipton_644605",
+        "quote": "I don't believe we ought to be discriminating against people for their private lives.",
+        "author": {
+            "name": "Scott Tipton",
+            "url": "/quotes/scott_tipton_644605"
+        },
+        "topics": [
+            {
+                "name": "Against",
+                "url": "/topics/against"
+            },
+            {
+                "name": "Private",
+                "url": "/topics/private"
+            },
+            {
+                "name": "Lives",
+                "url": "/topics/lives"
+            }
+        ]
+    }
+]

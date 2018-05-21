@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/tom_atkins_218718",
+        "quote": "Jimmy Garner is a very gracious guy, as he was then and he is still today.",
+        "author": {
+            "name": "Tom Atkins",
+            "url": "/quotes/tom_atkins_218718"
+        },
+        "topics": [
+            {
+                "name": "Today",
+                "url": "/topics/today"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tom_atkins_218720",
+        "quote": "Mel Gibson was lovely. He was on the edge of both scenes that I had with Danny Glover.",
+        "author": {
+            "name": "Tom Atkins",
+            "url": "/quotes/tom_atkins_218720"
+        },
+        "topics": [
+            {
+                "name": "Lovely",
+                "url": "/topics/lovely"
+            },
+            {
+                "name": "Edge",
+                "url": "/topics/edge"
+            },
+            {
+                "name": "Danny",
+                "url": "/topics/danny"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tom_atkins_218722",
+        "quote": "You know, they just don't make big movie stars the way they used to, maybe because the system has changed, the studio system, but it's sad to see people like Jimmy Stewart go, all the giants of the past.",
+        "author": {
+            "name": "Tom Atkins",
+            "url": "/quotes/tom_atkins_218722"
+        },
+        "topics": [
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Studio",
+                "url": "/topics/studio"
+            },
+            {
+                "name": "Movie",
+                "url": "/topics/movie"
+            }
+        ]
+    }
+]

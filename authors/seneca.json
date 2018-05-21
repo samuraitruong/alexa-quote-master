@@ -1,0 +1,200 @@
+[
+    {
+        "url": "/quotes/seneca_405078",
+        "quote": "Every new beginning comes from some other beginning's end.",
+        "author": {
+            "name": "Seneca",
+            "url": "/quotes/seneca_405078"
+        },
+        "topics": [
+            {
+                "name": "Moving On",
+                "url": "/topics/movingon"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/seneca_377999",
+        "quote": "Luck is where opportunity meets preparation.",
+        "author": {
+            "name": "Seneca",
+            "url": "/quotes/seneca_377999"
+        },
+        "topics": [
+            {
+                "name": "Opportunity",
+                "url": "/topics/opportunity"
+            },
+            {
+                "name": "Luck",
+                "url": "/topics/luck"
+            },
+            {
+                "name": "Meets",
+                "url": "/topics/meets"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/seneca_405315",
+        "quote": "While we teach, we learn.",
+        "author": {
+            "name": "Seneca",
+            "url": "/quotes/seneca_405315"
+        },
+        "topics": [
+            {
+                "name": "Teach",
+                "url": "/topics/teach"
+            },
+            {
+                "name": "Learn",
+                "url": "/topics/learn"
+            },
+            {
+                "name": "While",
+                "url": "/topics/while"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/seneca_400788",
+        "quote": "Drunkenness is nothing but voluntary madness.",
+        "author": {
+            "name": "Seneca",
+            "url": "/quotes/seneca_400788"
+        },
+        "topics": [
+            {
+                "name": "Madness",
+                "url": "/topics/madness"
+            },
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            },
+            {
+                "name": "Voluntary",
+                "url": "/topics/voluntary"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/seneca_119240",
+        "quote": "We never reflect how pleasant it is to ask for nothing.",
+        "author": {
+            "name": "Seneca",
+            "url": "/quotes/seneca_119240"
+        },
+        "topics": [
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Reflect",
+                "url": "/topics/reflect"
+            },
+            {
+                "name": "How",
+                "url": "/topics/how"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/seneca_405014",
+        "quote": "Begin at once to live, and count each separate day as a separate life.",
+        "author": {
+            "name": "Seneca",
+            "url": "/quotes/seneca_405014"
+        },
+        "topics": [
+            {
+                "name": "Life",
+                "url": "/topics/life"
+            },
+            {
+                "name": "Separate",
+                "url": "/topics/separate"
+            },
+            {
+                "name": "Once",
+                "url": "/topics/once"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/seneca_405082",
+        "quote": "Friendship always benefits; love sometimes injures.",
+        "author": {
+            "name": "Seneca",
+            "url": "/quotes/seneca_405082"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Benefits",
+                "url": "/topics/benefits"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/seneca_405092",
+        "quote": "Enjoy present pleasures in such a way as not to injure future ones.",
+        "author": {
+            "name": "Seneca",
+            "url": "/quotes/seneca_405092"
+        },
+        "topics": [
+            {
+                "name": "Future",
+                "url": "/topics/future"
+            },
+            {
+                "name": "Enjoy",
+                "url": "/topics/enjoy"
+            },
+            {
+                "name": "Pleasures",
+                "url": "/topics/pleasures"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/seneca_401532",
+        "quote": "Just as I shall select my ship when I am about to go on a voyage, or my house when I propose to take a residence, so I shall choose my death when I am about to depart from life.",
+        "author": {
+            "name": "Seneca",
+            "url": "/quotes/seneca_401532"
+        },
+        "topics": [
+            {
+                "name": "Death",
+                "url": "/topics/death"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Select",
+                "url": "/topics/select"
+            }
+        ]
+    }
+]

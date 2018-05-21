@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/jimmy_haslam_605673",
+        "quote": "There is no primer for being an NFL owner. It is learn-as-you-go.",
+        "author": {
+            "name": "Jimmy Haslam",
+            "url": "/quotes/jimmy_haslam_605673"
+        },
+        "topics": [
+            {
+                "name": "NFL",
+                "url": "/topics/nfl"
+            },
+            {
+                "name": "Being",
+                "url": "/topics/being"
+            },
+            {
+                "name": "Owner",
+                "url": "/topics/owner"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jimmy_haslam_605674",
+        "quote": "I will accept comments and criticism about change.",
+        "author": {
+            "name": "Jimmy Haslam",
+            "url": "/quotes/jimmy_haslam_605674"
+        },
+        "topics": [
+            {
+                "name": "Change",
+                "url": "/topics/change"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Comments",
+                "url": "/topics/comments"
+            }
+        ]
+    }
+]

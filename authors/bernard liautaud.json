@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/bernard_liautaud_409059",
+        "quote": "France needs to find something that makes it stand out. It's not enough for it to do almost as well as its neighbors.",
+        "author": {
+            "name": "Bernard Liautaud",
+            "url": "/quotes/bernard_liautaud_409059"
+        },
+        "topics": [
+            {
+                "name": "Find",
+                "url": "/topics/find"
+            },
+            {
+                "name": "Needs",
+                "url": "/topics/needs"
+            },
+            {
+                "name": "Almost",
+                "url": "/topics/almost"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bernard_liautaud_409060",
+        "quote": "I believe Business Objects is on the cusp of becoming a multi-billion-dollar sales company. There is tremendous growth potential for business intelligence.",
+        "author": {
+            "name": "Bernard Liautaud",
+            "url": "/quotes/bernard_liautaud_409060"
+        },
+        "topics": [
+            {
+                "name": "Business",
+                "url": "/topics/business"
+            },
+            {
+                "name": "Becoming",
+                "url": "/topics/becoming"
+            },
+            {
+                "name": "Cusp",
+                "url": "/topics/cusp"
+            }
+        ]
+    }
+]

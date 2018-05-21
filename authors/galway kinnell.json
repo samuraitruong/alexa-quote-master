@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/galway_kinnell_105757",
+        "quote": "Never mind. The self is the least of it. Let our scars fall in love.",
+        "author": {
+            "name": "Galway Kinnell",
+            "url": "/quotes/galway_kinnell_105757"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/galway_kinnell_161923",
+        "quote": "The first step... shall be to lose the way.",
+        "author": {
+            "name": "Galway Kinnell",
+            "url": "/quotes/galway_kinnell_161923"
+        },
+        "topics": [
+            {
+                "name": "First Step",
+                "url": "/topics/first_step"
+            },
+            {
+                "name": "Lose",
+                "url": "/topics/lose"
+            },
+            {
+                "name": "Shall",
+                "url": "/topics/shall"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/galway_kinnell_393720",
+        "quote": "That's the way it is with poetry: When it is incomprehensible it seems profound, and when you understand it, it is only ridiculous.",
+        "author": {
+            "name": "Galway Kinnell",
+            "url": "/quotes/galway_kinnell_393720"
+        },
+        "topics": [
+            {
+                "name": "Ridiculous",
+                "url": "/topics/ridiculous"
+            },
+            {
+                "name": "Profound",
+                "url": "/topics/profound"
+            },
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            }
+        ]
+    }
+]

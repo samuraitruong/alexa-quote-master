@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/stavros_niarchos_547506",
+        "quote": "You can never tell what ships are worth.",
+        "author": {
+            "name": "Stavros Niarchos",
+            "url": "/quotes/stavros_niarchos_547506"
+        },
+        "topics": [
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Tell",
+                "url": "/topics/tell"
+            },
+            {
+                "name": "Ships",
+                "url": "/topics/ships"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/stavros_niarchos_547505",
+        "quote": "No one wants to stoke coal if he can regulate an oil valve instead.",
+        "author": {
+            "name": "Stavros Niarchos",
+            "url": "/quotes/stavros_niarchos_547505"
+        },
+        "topics": [
+            {
+                "name": "Oil",
+                "url": "/topics/oil"
+            },
+            {
+                "name": "Stoke",
+                "url": "/topics/stoke"
+            },
+            {
+                "name": "Regulate",
+                "url": "/topics/regulate"
+            }
+        ]
+    }
+]

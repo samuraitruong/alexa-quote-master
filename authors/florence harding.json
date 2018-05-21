@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/florence_harding_241527",
+        "quote": "I have only one real hobby - my husband.",
+        "author": {
+            "name": "Florence Harding",
+            "url": "/quotes/florence_harding_241527"
+        },
+        "topics": [
+            {
+                "name": "Husband",
+                "url": "/topics/husband"
+            },
+            {
+                "name": "Real",
+                "url": "/topics/real"
+            },
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/florence_harding_241526",
+        "quote": "Well, Warren Harding, I have got you the presidency. What are you going to do with it?",
+        "author": {
+            "name": "Florence Harding",
+            "url": "/quotes/florence_harding_241526"
+        },
+        "topics": [
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Presidency",
+                "url": "/topics/presidency"
+            },
+            {
+                "name": "Well",
+                "url": "/topics/well"
+            }
+        ]
+    }
+]

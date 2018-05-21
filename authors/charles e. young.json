@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/charles_e_young_539287",
+        "quote": "Standing up and teaching is grueling, but grueling fun.",
+        "author": {
+            "name": "Charles E. Young",
+            "url": "/quotes/charles_e_young_539287"
+        },
+        "topics": [
+            {
+                "name": "Standing",
+                "url": "/topics/standing"
+            },
+            {
+                "name": "Standing Up",
+                "url": "/topics/standing_up"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charles_e_young_539286",
+        "quote": "Bowls have become network-owned, commercial enterprises, in some cases, pitting average teams in money-losing bowls for the benefit of a few.",
+        "author": {
+            "name": "Charles E. Young",
+            "url": "/quotes/charles_e_young_539286"
+        },
+        "topics": [
+            {
+                "name": "Average",
+                "url": "/topics/average"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Commercial",
+                "url": "/topics/commercial"
+            }
+        ]
+    }
+]

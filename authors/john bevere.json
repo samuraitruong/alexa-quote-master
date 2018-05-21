@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/john_bevere_526093",
+        "quote": "An offended heart is the breeding ground of deception.",
+        "author": {
+            "name": "John Bevere",
+            "url": "/quotes/john_bevere_526093"
+        },
+        "topics": [
+            {
+                "name": "Deception",
+                "url": "/topics/deception"
+            },
+            {
+                "name": "Offended",
+                "url": "/topics/offended"
+            },
+            {
+                "name": "Ground",
+                "url": "/topics/ground"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_bevere_526094",
+        "quote": "Offense cuts you off from God. We separate ourselves from the pipeline. I've never seen anything block blessings from Heaven except offense.",
+        "author": {
+            "name": "John Bevere",
+            "url": "/quotes/john_bevere_526094"
+        },
+        "topics": [
+            {
+                "name": "Blessings",
+                "url": "/topics/blessings"
+            },
+            {
+                "name": "Offense",
+                "url": "/topics/offense"
+            },
+            {
+                "name": "Separate",
+                "url": "/topics/separate"
+            }
+        ]
+    }
+]

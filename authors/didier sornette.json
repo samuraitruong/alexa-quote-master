@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/didier_sornette_550170",
+        "quote": "When herding behaviour among investors ramps up, a stock's or index's growth rate can increase faster than exponentially, leading to more herding. This positive feedback brings the system to a tipping point. About two-thirds of the time, a crash results.",
+        "author": {
+            "name": "Didier Sornette",
+            "url": "/quotes/didier_sornette_550170"
+        },
+        "topics": [
+            {
+                "name": "Leading",
+                "url": "/topics/leading"
+            },
+            {
+                "name": "Two-Thirds",
+                "url": "/topics/two-thirds"
+            },
+            {
+                "name": "Herding",
+                "url": "/topics/herding"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/didier_sornette_550171",
+        "quote": "Economic theory dictates that the value of a company is basically the present value of its future profits. To estimate Facebook's value through its future profits, we need to have a view on its user growth and how this will evolve in the next 10 to 50 years.",
+        "author": {
+            "name": "Didier Sornette",
+            "url": "/quotes/didier_sornette_550171"
+        },
+        "topics": [
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Years",
+                "url": "/topics/years"
+            }
+        ]
+    }
+]

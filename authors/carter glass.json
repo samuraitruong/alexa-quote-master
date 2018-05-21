@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/carter_glass_187232",
+        "quote": "A liberal is a man who is willing to spend somebody else's money.",
+        "author": {
+            "name": "Carter Glass",
+            "url": "/quotes/carter_glass_187232"
+        },
+        "topics": [
+            {
+                "name": "Money",
+                "url": "/topics/money"
+            },
+            {
+                "name": "Politics",
+                "url": "/topics/politics"
+            },
+            {
+                "name": "Willing",
+                "url": "/topics/willing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/carter_glass_187233",
+        "quote": "Is there any reason why the American people should be taxed to guarantee the debts of banks, any more than they should be taxed to guarantee the debts of other institutions, including merchants, the industries, and the mills of the country?",
+        "author": {
+            "name": "Carter Glass",
+            "url": "/quotes/carter_glass_187233"
+        },
+        "topics": [
+            {
+                "name": "Reason",
+                "url": "/topics/reason"
+            },
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    }
+]

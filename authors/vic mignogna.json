@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/vic_mignogna_409730",
+        "quote": "Be where the acting is. I live in Houston. Dallas is 4 1/2 hours away. I let them know there's no difference.",
+        "author": {
+            "name": "Vic Mignogna",
+            "url": "/quotes/vic_mignogna_409730"
+        },
+        "topics": [
+            {
+                "name": "Dallas",
+                "url": "/topics/dallas"
+            },
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            },
+            {
+                "name": "Hours",
+                "url": "/topics/hours"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/vic_mignogna_409731",
+        "quote": "There is no question that knowing someone in the business will get you in the door. But it is your skill that will keep you in the room.",
+        "author": {
+            "name": "Vic Mignogna",
+            "url": "/quotes/vic_mignogna_409731"
+        },
+        "topics": [
+            {
+                "name": "Door",
+                "url": "/topics/door"
+            },
+            {
+                "name": "Question",
+                "url": "/topics/question"
+            },
+            {
+                "name": "No Question",
+                "url": "/topics/no_question"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/vic_mignogna_409732",
+        "quote": "Your connections might get you in the door, but it won't keep you there. And if you haven't prepared, you'll suck.",
+        "author": {
+            "name": "Vic Mignogna",
+            "url": "/quotes/vic_mignogna_409732"
+        },
+        "topics": [
+            {
+                "name": "Door",
+                "url": "/topics/door"
+            },
+            {
+                "name": "Prepared",
+                "url": "/topics/prepared"
+            },
+            {
+                "name": "Might",
+                "url": "/topics/might"
+            }
+        ]
+    }
+]

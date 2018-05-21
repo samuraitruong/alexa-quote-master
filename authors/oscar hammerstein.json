@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/oscar_hammerstein_160542",
+        "quote": "If you don't have a dream, how are you going to make a dream come true?",
+        "author": {
+            "name": "Oscar Hammerstein",
+            "url": "/quotes/oscar_hammerstein_160542"
+        },
+        "topics": [
+            {
+                "name": "Dream",
+                "url": "/topics/dream"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "How",
+                "url": "/topics/how"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/oscar_hammerstein_160544",
+        "quote": "All the sounds of the earth are like music.",
+        "author": {
+            "name": "Oscar Hammerstein",
+            "url": "/quotes/oscar_hammerstein_160544"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Sounds",
+                "url": "/topics/sounds"
+            }
+        ]
+    }
+]

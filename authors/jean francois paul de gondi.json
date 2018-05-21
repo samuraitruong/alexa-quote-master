@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/jean_francois_paul_de_gon_142336",
+        "quote": "It is even more damaging for a minister to say foolish things than to do them.",
+        "author": {
+            "name": "Jean Francois Paul de Gondi",
+            "url": "/quotes/jean_francois_paul_de_gon_142336"
+        },
+        "topics": [
+            {
+                "name": "Minister",
+                "url": "/topics/minister"
+            },
+            {
+                "name": "Even",
+                "url": "/topics/even"
+            },
+            {
+                "name": "Damaging",
+                "url": "/topics/damaging"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jean_francois_paul_de_gon_391714",
+        "quote": "Nothing sways the stupid more than arguments they can't understand.",
+        "author": {
+            "name": "Jean Francois Paul de Gondi",
+            "url": "/quotes/jean_francois_paul_de_gon_391714"
+        },
+        "topics": [
+            {
+                "name": "Stupid",
+                "url": "/topics/stupid"
+            },
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jean_francois_paul_de_gon_392052",
+        "quote": "A man who does not trust himself will never really trust anybody.",
+        "author": {
+            "name": "Jean Francois Paul de Gondi",
+            "url": "/quotes/jean_francois_paul_de_gon_392052"
+        },
+        "topics": [
+            {
+                "name": "Trust",
+                "url": "/topics/trust"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Himself",
+                "url": "/topics/himself"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/daniel_curtis_lee_630805",
+        "quote": "I am young, and I think all young guys would love to play a superhero - any superhero - it doesn't matter. I could be a superhero that would just turn into a big blob or something like that, but I could tell all the ladies, 'Hey, I am superhero!'",
+        "author": {
+            "name": "Daniel Curtis Lee",
+            "url": "/quotes/daniel_curtis_lee_630805"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/daniel_curtis_lee_630806",
+        "quote": "Reading is a huge part of life.",
+        "author": {
+            "name": "Daniel Curtis Lee",
+            "url": "/quotes/daniel_curtis_lee_630806"
+        },
+        "topics": [
+            {
+                "name": "Reading",
+                "url": "/topics/reading"
+            },
+            {
+                "name": "Part",
+                "url": "/topics/part"
+            },
+            {
+                "name": "Huge Part",
+                "url": "/topics/huge_part"
+            }
+        ]
+    }
+]

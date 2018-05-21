@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/fanny_crosby_212182",
+        "quote": "Can ye fathom the ocean, dark and deep, where the mighty waves and the grandeur sweep?",
+        "author": {
+            "name": "Fanny Crosby",
+            "url": "/quotes/fanny_crosby_212182"
+        },
+        "topics": [
+            {
+                "name": "Deep",
+                "url": "/topics/deep"
+            },
+            {
+                "name": "Waves",
+                "url": "/topics/waves"
+            },
+            {
+                "name": "Sweep",
+                "url": "/topics/sweep"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/fanny_crosby_212183",
+        "quote": "The angel of mercy, the child of love, together had flown to the realms above.",
+        "author": {
+            "name": "Fanny Crosby",
+            "url": "/quotes/fanny_crosby_212183"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Above",
+                "url": "/topics/above"
+            },
+            {
+                "name": "Flown",
+                "url": "/topics/flown"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/fanny_crosby_212180",
+        "quote": "Chords that were broken will vibrate once more.",
+        "author": {
+            "name": "Fanny Crosby",
+            "url": "/quotes/fanny_crosby_212180"
+        },
+        "topics": [
+            {
+                "name": "Broken",
+                "url": "/topics/broken"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Once",
+                "url": "/topics/once"
+            }
+        ]
+    }
+]

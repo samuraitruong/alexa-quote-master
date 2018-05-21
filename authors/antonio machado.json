@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/antonio_machado_193858",
+        "quote": "Travelers, there is no path, paths are made by walking.",
+        "author": {
+            "name": "Antonio Machado",
+            "url": "/quotes/antonio_machado_193858"
+        },
+        "topics": [
+            {
+                "name": "Path",
+                "url": "/topics/path"
+            },
+            {
+                "name": "Paths",
+                "url": "/topics/paths"
+            },
+            {
+                "name": "Made",
+                "url": "/topics/made"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/antonio_machado_381088",
+        "quote": "Man would be otherwise. That is the essence of the specifically human.",
+        "author": {
+            "name": "Antonio Machado",
+            "url": "/quotes/antonio_machado_381088"
+        },
+        "topics": [
+            {
+                "name": "Essence",
+                "url": "/topics/essence"
+            },
+            {
+                "name": "Otherwise",
+                "url": "/topics/otherwise"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            }
+        ]
+    }
+]

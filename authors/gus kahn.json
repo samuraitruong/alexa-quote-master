@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/gus_kahn_397622",
+        "quote": "I'll see you in my dreams.",
+        "author": {
+            "name": "Gus Kahn",
+            "url": "/quotes/gus_kahn_397622"
+        },
+        "topics": [
+            {
+                "name": "Dreams",
+                "url": "/topics/dreams"
+            },
+            {
+                "name": "See",
+                "url": "/topics/see"
+            },
+            {
+                "name": "You",
+                "url": "/topics/you"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gus_kahn_398370",
+        "quote": "I'd rather be lonely than happy with somebody else.",
+        "author": {
+            "name": "Gus Kahn",
+            "url": "/quotes/gus_kahn_398370"
+        },
+        "topics": [
+            {
+                "name": "Than",
+                "url": "/topics/than"
+            },
+            {
+                "name": "Rather",
+                "url": "/topics/rather"
+            },
+            {
+                "name": "Else",
+                "url": "/topics/else"
+            }
+        ]
+    }
+]

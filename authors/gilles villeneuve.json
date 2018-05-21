@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/gilles_villeneuve_182521",
+        "quote": "If someone said to me that you can have three wishes, my first would have been to get into racing, my second to be in Formula 1, my third to drive for Ferrari.",
+        "author": {
+            "name": "Gilles Villeneuve",
+            "url": "/quotes/gilles_villeneuve_182521"
+        },
+        "topics": [
+            {
+                "name": "Racing",
+                "url": "/topics/racing"
+            },
+            {
+                "name": "Ferrari",
+                "url": "/topics/ferrari"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gilles_villeneuve_182522",
+        "quote": "I will drive flat out all the time. I love racing.",
+        "author": {
+            "name": "Gilles Villeneuve",
+            "url": "/quotes/gilles_villeneuve_182522"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Racing",
+                "url": "/topics/racing"
+            },
+            {
+                "name": "I Love",
+                "url": "/topics/i_love"
+            }
+        ]
+    }
+]

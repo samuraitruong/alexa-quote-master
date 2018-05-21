@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/henry_beston_393072",
+        "quote": "The three great elemental sounds in nature are the sound of rain, the sound of wind in a primeval wood, and the sound of outer ocean on a beach.",
+        "author": {
+            "name": "Henry Beston",
+            "url": "/quotes/henry_beston_393072"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "Rain",
+                "url": "/topics/rain"
+            },
+            {
+                "name": "Sound",
+                "url": "/topics/sound"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henry_beston_379358",
+        "quote": "The seas are the heart's blood of the earth.",
+        "author": {
+            "name": "Henry Beston",
+            "url": "/quotes/henry_beston_379358"
+        },
+        "topics": [
+            {
+                "name": "Earth",
+                "url": "/topics/earth"
+            },
+            {
+                "name": "Blood",
+                "url": "/topics/blood"
+            },
+            {
+                "name": "Seas",
+                "url": "/topics/seas"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henry_beston_171028",
+        "quote": "Learn to reverence night and to put away the vulgar fear of it, for, with the banishment of night from the experience of man, there vanishes as well a religious emotion, a poetic mood, which gives depth to the adventure of humanity.",
+        "author": {
+            "name": "Henry Beston",
+            "url": "/quotes/henry_beston_171028"
+        },
+        "topics": [
+            {
+                "name": "Religious",
+                "url": "/topics/religious"
+            },
+            {
+                "name": "Poetic",
+                "url": "/topics/poetic"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henry_beston_177124",
+        "quote": "Do no dishonour to the earth least you dishonour the spirit of man.",
+        "author": {
+            "name": "Henry Beston",
+            "url": "/quotes/henry_beston_177124"
+        },
+        "topics": [
+            {
+                "name": "Earth",
+                "url": "/topics/earth"
+            },
+            {
+                "name": "Spirit",
+                "url": "/topics/spirit"
+            },
+            {
+                "name": "Least",
+                "url": "/topics/least"
+            }
+        ]
+    }
+]

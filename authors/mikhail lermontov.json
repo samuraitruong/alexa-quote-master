@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/mikhail_lermontov_357631",
+        "quote": "Many a calm river begins as a turbulent waterfall, yet none hurtles and foams all the way to the sea.",
+        "author": {
+            "name": "Mikhail Lermontov",
+            "url": "/quotes/mikhail_lermontov_357631"
+        },
+        "topics": [
+            {
+                "name": "Way",
+                "url": "/topics/way"
+            },
+            {
+                "name": "None",
+                "url": "/topics/none"
+            },
+            {
+                "name": "Many",
+                "url": "/topics/many"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mikhail_lermontov_357630",
+        "quote": "Happy people are ignoramuses and glory is nothing else but success, and to achieve it one only has to be cunning.",
+        "author": {
+            "name": "Mikhail Lermontov",
+            "url": "/quotes/mikhail_lermontov_357630"
+        },
+        "topics": [
+            {
+                "name": "Happy",
+                "url": "/topics/happy"
+            },
+            {
+                "name": "Achieve",
+                "url": "/topics/achieve"
+            },
+            {
+                "name": "Cunning",
+                "url": "/topics/cunning"
+            }
+        ]
+    }
+]

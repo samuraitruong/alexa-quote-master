@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/james_hunt_612405",
+        "quote": "If I get into a car on a circuit, I drive as fast as I can; that's it!",
+        "author": {
+            "name": "James Hunt",
+            "url": "/quotes/james_hunt_612405"
+        },
+        "topics": [
+            {
+                "name": "Car",
+                "url": "/topics/car"
+            },
+            {
+                "name": "Fast",
+                "url": "/topics/fast"
+            },
+            {
+                "name": "Circuit",
+                "url": "/topics/circuit"
+            }
+        ]
+    }
+]

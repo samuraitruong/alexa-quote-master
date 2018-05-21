@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/pontus_hulten_539993",
+        "quote": "Paris is an ideal place to become informed, while Venice is a place to think and write.",
+        "author": {
+            "name": "Pontus Hulten",
+            "url": "/quotes/pontus_hulten_539993"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Venice",
+                "url": "/topics/venice"
+            },
+            {
+                "name": "Informed",
+                "url": "/topics/informed"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/pontus_hulten_539995",
+        "quote": "Tinguely wasn't the first artist to work with machines. But others were more interested in precision, in what machines are meant to do. What made him different was the random element. He introduced the mechanical accident. He was always interested in the immaterial, in sound, smoke, speed, light, shadows.",
+        "author": {
+            "name": "Pontus Hulten",
+            "url": "/quotes/pontus_hulten_539995"
+        },
+        "topics": [
+            {
+                "name": "Artist",
+                "url": "/topics/artist"
+            },
+            {
+                "name": "Sound",
+                "url": "/topics/sound"
+            },
+            {
+                "name": "Precision",
+                "url": "/topics/precision"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/pontus_hulten_539992",
+        "quote": "The bohemian life that reigned in Paris until the end of the '50s is gone. The artists had more time to think, to reflect; success didn't come so suddenly.",
+        "author": {
+            "name": "Pontus Hulten",
+            "url": "/quotes/pontus_hulten_539992"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Had",
+                "url": "/topics/had"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/pontus_hulten_539994",
+        "quote": "American museums have become cautious, because it is very hard to get money to do something different or controversial.",
+        "author": {
+            "name": "Pontus Hulten",
+            "url": "/quotes/pontus_hulten_539994"
+        },
+        "topics": [
+            {
+                "name": "Money",
+                "url": "/topics/money"
+            },
+            {
+                "name": "Museums",
+                "url": "/topics/museums"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    }
+]

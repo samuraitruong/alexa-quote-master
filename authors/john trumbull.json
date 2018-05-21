@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/john_trumbull_201948",
+        "quote": "But optics sharp it needs, I ween, To see what is not to be seen.",
+        "author": {
+            "name": "John Trumbull",
+            "url": "/quotes/john_trumbull_201948"
+        },
+        "topics": [
+            {
+                "name": "See",
+                "url": "/topics/see"
+            },
+            {
+                "name": "Optics",
+                "url": "/topics/optics"
+            },
+            {
+                "name": "Needs",
+                "url": "/topics/needs"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_trumbull_201947",
+        "quote": "No man e'er felt the halter draw, With good opinion of the law.",
+        "author": {
+            "name": "John Trumbull",
+            "url": "/quotes/john_trumbull_201947"
+        },
+        "topics": [
+            {
+                "name": "Law",
+                "url": "/topics/law"
+            },
+            {
+                "name": "Good Opinion",
+                "url": "/topics/good_opinion"
+            },
+            {
+                "name": "Felt",
+                "url": "/topics/felt"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_trumbull_201950",
+        "quote": "As though there were a tie And obligation to posterity. We get them, bear them, breed, and nurse: What has posterity done for us. That we, lest they their rights should lose, Should trust our necks to gripe of noose?",
+        "author": {
+            "name": "John Trumbull",
+            "url": "/quotes/john_trumbull_201950"
+        },
+        "topics": [
+            {
+                "name": "Trust",
+                "url": "/topics/trust"
+            },
+            {
+                "name": "Lose",
+                "url": "/topics/lose"
+            },
+            {
+                "name": "Though",
+                "url": "/topics/though"
+            }
+        ]
+    }
+]

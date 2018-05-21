@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/jimmy_stewart_129832",
+        "quote": "Never treat your audience as customers, always as partners.",
+        "author": {
+            "name": "Jimmy Stewart",
+            "url": "/quotes/jimmy_stewart_129832"
+        },
+        "topics": [
+            {
+                "name": "Treat",
+                "url": "/topics/treat"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jimmy_stewart_114109",
+        "quote": "It's well done if you can do a part and not have the acting show.",
+        "author": {
+            "name": "Jimmy Stewart",
+            "url": "/quotes/jimmy_stewart_114109"
+        },
+        "topics": [
+            {
+                "name": "Well",
+                "url": "/topics/well"
+            },
+            {
+                "name": "Part",
+                "url": "/topics/part"
+            },
+            {
+                "name": "Show",
+                "url": "/topics/show"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jimmy_stewart_130059",
+        "quote": "I've wrestled with reality for 35 years, and I'm happy, Doctor, I finally won out over it.",
+        "author": {
+            "name": "Jimmy Stewart",
+            "url": "/quotes/jimmy_stewart_130059"
+        },
+        "topics": [
+            {
+                "name": "Happy",
+                "url": "/topics/happy"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Over It",
+                "url": "/topics/over_it"
+            }
+        ]
+    }
+]

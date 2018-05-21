@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/pancho_villa_539980",
+        "quote": "I am not an educated man. I never had an opportunity to learn anything except how to fight.",
+        "author": {
+            "name": "Pancho Villa",
+            "url": "/quotes/pancho_villa_539980"
+        },
+        "topics": [
+            {
+                "name": "Opportunity",
+                "url": "/topics/opportunity"
+            },
+            {
+                "name": "Learn",
+                "url": "/topics/learn"
+            },
+            {
+                "name": "Had",
+                "url": "/topics/had"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/pancho_villa_539981",
+        "quote": "My sole ambition is to rid Mexico of the class that has oppressed her and given the people a chance to know what real liberty means. And if I could bring that about today by giving up my life, I would do it gladly.",
+        "author": {
+            "name": "Pancho Villa",
+            "url": "/quotes/pancho_villa_539981"
+        },
+        "topics": [
+            {
+                "name": "Giving Up",
+                "url": "/topics/giving_up"
+            },
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Bring",
+                "url": "/topics/bring"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/pancho_villa_170677",
+        "quote": "Don't let it end like this. Tell them I said something.",
+        "author": {
+            "name": "Pancho Villa",
+            "url": "/quotes/pancho_villa_170677"
+        },
+        "topics": [
+            {
+                "name": "End",
+                "url": "/topics/end"
+            },
+            {
+                "name": "Tell",
+                "url": "/topics/tell"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    }
+]

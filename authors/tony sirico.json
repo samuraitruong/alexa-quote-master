@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/tony_sirico_556551",
+        "quote": "I've done, like, 45 movies, played 40 gangsters and five crooked cops.",
+        "author": {
+            "name": "Tony Sirico",
+            "url": "/quotes/tony_sirico_556551"
+        },
+        "topics": [
+            {
+                "name": "Movies",
+                "url": "/topics/movies"
+            },
+            {
+                "name": "Gangsters",
+                "url": "/topics/gangsters"
+            },
+            {
+                "name": "Cops",
+                "url": "/topics/cops"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/paul_signac_311053",
+        "quote": "The anarchist painter is not the one who will create anarchist pictures, but the one who will fight with all his individuality against official conventions.",
+        "author": {
+            "name": "Paul Signac",
+            "url": "/quotes/paul_signac_311053"
+        },
+        "topics": [
+            {
+                "name": "Against",
+                "url": "/topics/against"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Official",
+                "url": "/topics/official"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_signac_311054",
+        "quote": "The golden age has not passed; it lies in the future.",
+        "author": {
+            "name": "Paul Signac",
+            "url": "/quotes/paul_signac_311054"
+        },
+        "topics": [
+            {
+                "name": "Future",
+                "url": "/topics/future"
+            },
+            {
+                "name": "Golden",
+                "url": "/topics/golden"
+            },
+            {
+                "name": "Golden Age",
+                "url": "/topics/golden_age"
+            }
+        ]
+    }
+]

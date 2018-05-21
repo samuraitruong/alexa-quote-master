@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/manfred_eigen_211443",
+        "quote": "Sometimes a scream is better than a thesis.",
+        "author": {
+            "name": "Manfred Eigen",
+            "url": "/quotes/manfred_eigen_211443"
+        },
+        "topics": [
+            {
+                "name": "Better",
+                "url": "/topics/better"
+            },
+            {
+                "name": "Sometimes",
+                "url": "/topics/sometimes"
+            },
+            {
+                "name": "Than",
+                "url": "/topics/than"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/manfred_eigen_211442",
+        "quote": "A theory can be proved by experiment; but no path leads from experiment to the birth of a theory.",
+        "author": {
+            "name": "Manfred Eigen",
+            "url": "/quotes/manfred_eigen_211442"
+        },
+        "topics": [
+            {
+                "name": "Path",
+                "url": "/topics/path"
+            },
+            {
+                "name": "Experiment",
+                "url": "/topics/experiment"
+            },
+            {
+                "name": "Proved",
+                "url": "/topics/proved"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/manfred_eigen_211441",
+        "quote": "A theory has only the alternative of being right or wrong. A model has a third possibility: it may be right, but irrelevant.",
+        "author": {
+            "name": "Manfred Eigen",
+            "url": "/quotes/manfred_eigen_211441"
+        },
+        "topics": [
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Irrelevant",
+                "url": "/topics/irrelevant"
+            },
+            {
+                "name": "Third",
+                "url": "/topics/third"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/manfred_eigen_211444",
+        "quote": "In theory, there is no difference between theory and practice. But, in practice, there is.",
+        "author": {
+            "name": "Manfred Eigen",
+            "url": "/quotes/manfred_eigen_211444"
+        },
+        "topics": [
+            {
+                "name": "Practice",
+                "url": "/topics/practice"
+            },
+            {
+                "name": "Difference",
+                "url": "/topics/difference"
+            },
+            {
+                "name": "Theory",
+                "url": "/topics/theory"
+            }
+        ]
+    }
+]

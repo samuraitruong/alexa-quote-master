@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/johnny_mcdaid_709560",
+        "quote": "I'm certainly no bohemian hippie, and I do love luxury.",
+        "author": {
+            "name": "Johnny McDaid",
+            "url": "/quotes/johnny_mcdaid_709560"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Bohemian",
+                "url": "/topics/bohemian"
+            },
+            {
+                "name": "Certainly",
+                "url": "/topics/certainly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/johnny_mcdaid_709561",
+        "quote": "I had a lot of songs and words and scenes stuck inside of me. So Jacknife encouraged me to bring them all out. So, in essence, 'You and Others' is my diary.",
+        "author": {
+            "name": "Johnny McDaid",
+            "url": "/quotes/johnny_mcdaid_709561"
+        },
+        "topics": [
+            {
+                "name": "Words",
+                "url": "/topics/words"
+            },
+            {
+                "name": "Bring",
+                "url": "/topics/bring"
+            },
+            {
+                "name": "Essence",
+                "url": "/topics/essence"
+            }
+        ]
+    }
+]

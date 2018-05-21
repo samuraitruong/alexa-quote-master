@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/sugar_ray_robinson_195717",
+        "quote": "To be a champ you have to believe in yourself when no one else will.",
+        "author": {
+            "name": "Sugar Ray Robinson",
+            "url": "/quotes/sugar_ray_robinson_195717"
+        },
+        "topics": [
+            {
+                "name": "Yourself",
+                "url": "/topics/yourself"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Else",
+                "url": "/topics/else"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sugar_ray_robinson_361995",
+        "quote": "I ain't never liked violence.",
+        "author": {
+            "name": "Sugar Ray Robinson",
+            "url": "/quotes/sugar_ray_robinson_361995"
+        },
+        "topics": [
+            {
+                "name": "Violence",
+                "url": "/topics/violence"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Liked",
+                "url": "/topics/liked"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sugar_ray_robinson_195720",
+        "quote": "You always say 'I'll quit when I start to slide', and then one morning you wake up and realize you've done slid.",
+        "author": {
+            "name": "Sugar Ray Robinson",
+            "url": "/quotes/sugar_ray_robinson_195720"
+        },
+        "topics": [
+            {
+                "name": "Start",
+                "url": "/topics/start"
+            },
+            {
+                "name": "Wake Up",
+                "url": "/topics/wake_up"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sugar_ray_robinson_195719",
+        "quote": "My business is hurting people.",
+        "author": {
+            "name": "Sugar Ray Robinson",
+            "url": "/quotes/sugar_ray_robinson_195719"
+        },
+        "topics": [
+            {
+                "name": "Business",
+                "url": "/topics/business"
+            },
+            {
+                "name": "People",
+                "url": "/topics/people"
+            },
+            {
+                "name": "Hurting",
+                "url": "/topics/hurting"
+            }
+        ]
+    }
+]

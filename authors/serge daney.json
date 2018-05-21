@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/serge_daney_311891",
+        "quote": "If you can't believe a little in what you see on the screen, it's not worth wasting your time on cinema.",
+        "author": {
+            "name": "Serge Daney",
+            "url": "/quotes/serge_daney_311891"
+        },
+        "topics": [
+            {
+                "name": "Believe",
+                "url": "/topics/believe"
+            },
+            {
+                "name": "Screen",
+                "url": "/topics/screen"
+            },
+            {
+                "name": "Wasting",
+                "url": "/topics/wasting"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/serge_daney_392034",
+        "quote": "In an age of synthetic images and synthetic emotions, the chances of an accidental encounter with reality are remote indeed.",
+        "author": {
+            "name": "Serge Daney",
+            "url": "/quotes/serge_daney_392034"
+        },
+        "topics": [
+            {
+                "name": "Emotions",
+                "url": "/topics/emotions"
+            },
+            {
+                "name": "Images",
+                "url": "/topics/images"
+            },
+            {
+                "name": "Synthetic",
+                "url": "/topics/synthetic"
+            }
+        ]
+    }
+]

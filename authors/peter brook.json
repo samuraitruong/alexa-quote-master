@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/peter_brook_190080",
+        "quote": "An icon painter starts not with Jesus Christ but by finding earth and rubbing. Now what is earth, what are you rubbing in directing?",
+        "author": {
+            "name": "Peter Brook",
+            "url": "/quotes/peter_brook_190080"
+        },
+        "topics": [
+            {
+                "name": "Jesus Christ",
+                "url": "/topics/jesus_christ"
+            },
+            {
+                "name": "Christ",
+                "url": "/topics/christ"
+            },
+            {
+                "name": "Icon",
+                "url": "/topics/icon"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/peter_brook_190083",
+        "quote": "I've always worked a bit like a cook in a big restaurant, where you've got lots and lots of things laid out and you go and look into one cauldron and you look into the other and you see what's coming to the boil.",
+        "author": {
+            "name": "Peter Brook",
+            "url": "/quotes/peter_brook_190083"
+        },
+        "topics": [
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Bit",
+                "url": "/topics/bit"
+            }
+        ]
+    }
+]

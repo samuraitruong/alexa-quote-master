@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/larry_burns_561624",
+        "quote": "Fuel cells create a better automobile that's 50 percent more energy-efficient overall and sustainable from energy and safety perspectives.",
+        "author": {
+            "name": "Larry Burns",
+            "url": "/quotes/larry_burns_561624"
+        },
+        "topics": [
+            {
+                "name": "Sustainable",
+                "url": "/topics/sustainable"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Fuel",
+                "url": "/topics/fuel"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/larry_burns_561625",
+        "quote": "I don't believe that a hydrogen economy depends on a carbon economy at all.",
+        "author": {
+            "name": "Larry Burns",
+            "url": "/quotes/larry_burns_561625"
+        },
+        "topics": [
+            {
+                "name": "Believe",
+                "url": "/topics/believe"
+            },
+            {
+                "name": "Carbon",
+                "url": "/topics/carbon"
+            },
+            {
+                "name": "Depends",
+                "url": "/topics/depends"
+            }
+        ]
+    }
+]

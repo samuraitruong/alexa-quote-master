@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/jean_shepherd_323854",
+        "quote": "I've met them down in the Cost and Accounting Department, clean-shaven and in white collars. They can't see a damn thing ridiculous about themselves... only about you.",
+        "author": {
+            "name": "Jean Shepherd",
+            "url": "/quotes/jean_shepherd_323854"
+        },
+        "topics": [
+            {
+                "name": "Cost",
+                "url": "/topics/cost"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Collars",
+                "url": "/topics/collars"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jean_shepherd_322827",
+        "quote": "I had been an eyewitness to a truly historic moment in American pop culture.",
+        "author": {
+            "name": "Jean Shepherd",
+            "url": "/quotes/jean_shepherd_322827"
+        },
+        "topics": [
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Pop",
+                "url": "/topics/pop"
+            },
+            {
+                "name": "Historic",
+                "url": "/topics/historic"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jean_shepherd_322834",
+        "quote": "That reminds me of something that happened to me when I was a kid.",
+        "author": {
+            "name": "Jean Shepherd",
+            "url": "/quotes/jean_shepherd_322834"
+        },
+        "topics": [
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Kid",
+                "url": "/topics/kid"
+            },
+            {
+                "name": "Something",
+                "url": "/topics/something"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jean_shepherd_326120",
+        "quote": "The hand of fate had dipped into the ragbag of humanity.",
+        "author": {
+            "name": "Jean Shepherd",
+            "url": "/quotes/jean_shepherd_326120"
+        },
+        "topics": [
+            {
+                "name": "Fate",
+                "url": "/topics/fate"
+            },
+            {
+                "name": "Hand",
+                "url": "/topics/hand"
+            },
+            {
+                "name": "Had",
+                "url": "/topics/had"
+            }
+        ]
+    }
+]

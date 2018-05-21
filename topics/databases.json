@@ -1,0 +1,452 @@
+[
+    {
+        "url": "/quotes/ken_robinson_561876?src=t_databases",
+        "quote": "Learning happens in the minds and souls, not in the databases of multiple-choice tests.",
+        "author": {
+            "name": "Ken Robinson",
+            "url": "/authors/ken_robinson"
+        },
+        "topics": [
+            {
+                "name": "Tests",
+                "url": "/topics/tests"
+            },
+            {
+                "name": "Minds",
+                "url": "/topics/minds"
+            },
+            {
+                "name": "Souls",
+                "url": "/topics/souls"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edward_snowden_523864?src=t_databases",
+        "quote": "If an NSA, FBI, CIA, DIA, etc analyst has access to query raw SIGINT databases, they can enter and get results for anything they want. Phone number, email, user id, cell phone handset id (IMEI), and so on - it's all the same.",
+        "author": {
+            "name": "Edward Snowden",
+            "url": "/authors/edward_snowden"
+        },
+        "topics": [
+            {
+                "name": "Anything",
+                "url": "/topics/anything"
+            },
+            {
+                "name": "Access",
+                "url": "/topics/access"
+            },
+            {
+                "name": "Cell",
+                "url": "/topics/cell"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charles_duhigg_663484?src=t_databases",
+        "quote": "Vast databases of names and personal information, sold to thieves by large publicly traded companies, have put almost anyone within reach of fraudulent telemarketers.",
+        "author": {
+            "name": "Charles Duhigg",
+            "url": "/authors/charles_duhigg"
+        },
+        "topics": [
+            {
+                "name": "Almost",
+                "url": "/topics/almost"
+            },
+            {
+                "name": "Sold",
+                "url": "/topics/sold"
+            },
+            {
+                "name": "Large",
+                "url": "/topics/large"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jan_koum_805748?src=t_databases",
+        "quote": "We're not advertisement-driven, so we don't need personal databases.",
+        "author": {
+            "name": "Jan Koum",
+            "url": "/authors/jan_koum"
+        },
+        "topics": [
+            {
+                "name": "Personal",
+                "url": "/topics/personal"
+            },
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/satya_nadella_760385?src=t_databases",
+        "quote": "There are always going to be people who are experts in security or end-user devices or collaboration or databases. That's not going to go away. But what's the reason all of these professions come together? To help the business transform itself.",
+        "author": {
+            "name": "Satya Nadella",
+            "url": "/authors/satya_nadella"
+        },
+        "topics": [
+            {
+                "name": "Reason",
+                "url": "/topics/reason"
+            },
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            },
+            {
+                "name": "Professions",
+                "url": "/topics/professions"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/julian_assange_412341?src=t_databases",
+        "quote": "We get information in the mail, the regular postal mail, encrypted or not, vet it like a regular news organization, format it - which is sometimes something that's quite hard to do, when you're talking about giant databases of information - release it to the public and then defend ourselves against the inevitable legal and political attacks.",
+        "author": {
+            "name": "Julian Assange",
+            "url": "/authors/julian_assange"
+        },
+        "topics": [
+            {
+                "name": "Against",
+                "url": "/topics/against"
+            },
+            {
+                "name": "Mail",
+                "url": "/topics/mail"
+            },
+            {
+                "name": "Release",
+                "url": "/topics/release"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/chelsea_manning_848546?src=t_databases",
+        "quote": "In the years preceding my imprisonment, I worked as a software programmer, designing and developing web interfaces, secure databases, and communication software; later, I was employed as an intelligence analyst for the U.S. Army. Throughout each of these jobs, we used different kinds of encryption to keep prying eyes out of information we handled.",
+        "author": {
+            "name": "Chelsea Manning",
+            "url": "/authors/chelsea_manning"
+        },
+        "topics": [
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "Imprisonment",
+                "url": "/topics/imprisonment"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tim_bernerslee_373122?src=t_databases",
+        "quote": "Web pages are designed for people. For the Semantic Web, we need to look at existing databases.",
+        "author": {
+            "name": "Tim Berners-Lee",
+            "url": "/authors/tim_bernerslee"
+        },
+        "topics": [
+            {
+                "name": "Web",
+                "url": "/topics/web"
+            },
+            {
+                "name": "Existing",
+                "url": "/topics/existing"
+            },
+            {
+                "name": "Pages",
+                "url": "/topics/pages"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/billy_beane_718623?src=t_databases",
+        "quote": "In baseball, you can do something poorly and still get credit. A pitcher could throw a bad ball, the batter hit a screaming line drive, and an outfielder make a fantastic diving catch. Yet, when you look at historical databases, 80% of the time when a ball is struck with that trajectory and velocity, it is a hit.",
+        "author": {
+            "name": "Billy Beane",
+            "url": "/authors/billy_beane"
+        },
+        "topics": [
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            },
+            {
+                "name": "Line",
+                "url": "/topics/line"
+            },
+            {
+                "name": "Poorly",
+                "url": "/topics/poorly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mary_roach_694675?src=t_databases",
+        "quote": "Because there are now online databases of federally funded research, and these databases are searchable by keyword, sex researchers have to be careful how they title their projects. It's become a simple matter, for those who are so inclined, to find and target researchers whose work they object to on religious grounds.",
+        "author": {
+            "name": "Mary Roach",
+            "url": "/authors/mary_roach"
+        },
+        "topics": [
+            {
+                "name": "Religious",
+                "url": "/topics/religious"
+            },
+            {
+                "name": "Projects",
+                "url": "/topics/projects"
+            },
+            {
+                "name": "Careful",
+                "url": "/topics/careful"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/safra_a_catz_798151?src=t_databases",
+        "quote": "SAP is a great company, but they have their work cut out for them if they want to compete in databases.",
+        "author": {
+            "name": "Safra A. Catz",
+            "url": "/authors/safra_a_catz"
+        },
+        "topics": [
+            {
+                "name": "Cut",
+                "url": "/topics/cut"
+            },
+            {
+                "name": "Compete",
+                "url": "/topics/compete"
+            },
+            {
+                "name": "Sap",
+                "url": "/topics/sap"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/evgeny_morozov_554929?src=t_databases",
+        "quote": "The reason why there is more pessimism about technology in Europe has to do with history, the use of databases to keep track of people in the camps, ecological disasters.",
+        "author": {
+            "name": "Evgeny Morozov",
+            "url": "/authors/evgeny_morozov"
+        },
+        "topics": [
+            {
+                "name": "Reason",
+                "url": "/topics/reason"
+            },
+            {
+                "name": "Pessimism",
+                "url": "/topics/pessimism"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/valerie_plame_841149?src=t_databases",
+        "quote": "I can tell you, all the intelligence services in the world were running my name through their databases to see did anyone by this name come in the country? When? Do we know anything about it? Where did she stay? Who did she see?",
+        "author": {
+            "name": "Valerie Plame",
+            "url": "/authors/valerie_plame"
+        },
+        "topics": [
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Tell",
+                "url": "/topics/tell"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/franklin_foer_855742?src=t_databases",
+        "quote": "Computer scientists have built a set of massive DNS databases, which provide fragmentary histories of communications flows, in part to create an archive of malware: a kind of catalog of the tricks bad actors have tried to pull, which often involve masquerading as legitimate actors.",
+        "author": {
+            "name": "Franklin Foer",
+            "url": "/authors/franklin_foer"
+        },
+        "topics": [
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            },
+            {
+                "name": "Catalog",
+                "url": "/topics/catalog"
+            },
+            {
+                "name": "Part",
+                "url": "/topics/part"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/russell_baker_468398?src=t_databases",
+        "quote": "It is fitting that yesteryear's swashbuckling newspaper reporter has turned into today's solemn young sobersides nursing a glass of watered white wine after a day of toiling over computer databases in a smoke-free, noise-free newsroom.",
+        "author": {
+            "name": "Russell Baker",
+            "url": "/authors/russell_baker"
+        },
+        "topics": [
+            {
+                "name": "Young",
+                "url": "/topics/young"
+            },
+            {
+                "name": "Newspaper",
+                "url": "/topics/newspaper"
+            },
+            {
+                "name": "Turned",
+                "url": "/topics/turned"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_perry_barlow_660963?src=t_databases",
+        "quote": "The 'Total Information Awareness' project is truly diabolical - mostly because of the legal changes which have made it possible in the first place. As a consequence of the Patriot Act, government now has access to all sorts of private and commercial databases that were previously off limits.",
+        "author": {
+            "name": "John Perry Barlow",
+            "url": "/authors/john_perry_barlow"
+        },
+        "topics": [
+            {
+                "name": "Commercial",
+                "url": "/topics/commercial"
+            },
+            {
+                "name": "Private",
+                "url": "/topics/private"
+            },
+            {
+                "name": "Mostly",
+                "url": "/topics/mostly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_o_brennan_524820?src=t_databases",
+        "quote": "U.S. computer networks and databases are under daily cyber attack by nation states, international crime organizations, subnational groups, and individual hackers.",
+        "author": {
+            "name": "John O. Brennan",
+            "url": "/authors/john_o_brennan"
+        },
+        "topics": [
+            {
+                "name": "Nation",
+                "url": "/topics/nation"
+            },
+            {
+                "name": "Individual",
+                "url": "/topics/individual"
+            },
+            {
+                "name": "Groups",
+                "url": "/topics/groups"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_sulston_734403?src=t_databases",
+        "quote": "The fact is that proprietary databases don't work for such basic and broadly needed information as the sequence of the human genome.",
+        "author": {
+            "name": "John Sulston",
+            "url": "/authors/john_sulston"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Fact",
+                "url": "/topics/fact"
+            },
+            {
+                "name": "Needed",
+                "url": "/topics/needed"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jay_chiat_295383?src=t_databases",
+        "quote": "Second, we're spending a huge amount of money on technology so that everyone can check out laptops and portable phones. We're spending more money to write our existing information into databases or onto CD-ROM.",
+        "author": {
+            "name": "Jay Chiat",
+            "url": "/authors/jay_chiat"
+        },
+        "topics": [
+            {
+                "name": "Everyone",
+                "url": "/topics/everyone"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Amount",
+                "url": "/topics/amount"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/stephen_cambone_342517?src=t_databases",
+        "quote": "That is really not much different from the search engines that are being constructed today for users throughout the entire world to allow them to search through databases to access the information that they require.",
+        "author": {
+            "name": "Stephen Cambone",
+            "url": "/authors/stephen_cambone"
+        },
+        "topics": [
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Access",
+                "url": "/topics/access"
+            },
+            {
+                "name": "Allow",
+                "url": "/topics/allow"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joe_mansueto_624705?src=t_databases",
+        "quote": "I thought a company that provides mutual-fund information could be a great business, because you could construct an effective moat by building large financial databases and customer lists and a strong brand name.",
+        "author": {
+            "name": "Joe Mansueto",
+            "url": "/authors/joe_mansueto"
+        },
+        "topics": [
+            {
+                "name": "Business",
+                "url": "/topics/business"
+            },
+            {
+                "name": "Strong",
+                "url": "/topics/strong"
+            },
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            }
+        ]
+    }
+]

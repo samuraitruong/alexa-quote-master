@@ -1,0 +1,134 @@
+[
+    {
+        "url": "/quotes/john_cheever_162155?src=t_literary_men",
+        "quote": "All literary men are Red Sox fans - to be a Yankee fan in a literate society is to endanger your life.",
+        "author": {
+            "name": "John Cheever",
+            "url": "/authors/john_cheever"
+        },
+        "topics": [
+            {
+                "name": "Red Sox",
+                "url": "/topics/red_sox"
+            },
+            {
+                "name": "Yankee",
+                "url": "/topics/yankee"
+            },
+            {
+                "name": "Literary",
+                "url": "/topics/literary"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/samuel_johnson_164185?src=t_literary_men",
+        "quote": "Classical quotation is the parole of literary men all over the world.",
+        "author": {
+            "name": "Samuel Johnson",
+            "url": "/authors/samuel_johnson"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Literary",
+                "url": "/topics/literary"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/voltaire_145539?src=t_literary_men",
+        "quote": "Satire lies about literary men while they live and eulogy lies about them when they die.",
+        "author": {
+            "name": "Voltaire",
+            "url": "/authors/voltaire"
+        },
+        "topics": [
+            {
+                "name": "Men",
+                "url": "/topics/men"
+            },
+            {
+                "name": "Die",
+                "url": "/topics/die"
+            },
+            {
+                "name": "Literary",
+                "url": "/topics/literary"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_carlyle_156168?src=t_literary_men",
+        "quote": "There is a great discovery still to be made in literature, that of paying literary men by the quantity they do not write.",
+        "author": {
+            "name": "Thomas Carlyle",
+            "url": "/authors/thomas_carlyle"
+        },
+        "topics": [
+            {
+                "name": "Literature",
+                "url": "/topics/literature"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            },
+            {
+                "name": "Quantity",
+                "url": "/topics/quantity"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_payn_351376?src=t_literary_men",
+        "quote": "One would think that in writing about literary men and matters there would be no difficulty in finding a title for one's essay, or that any embarrassment which might arise would be from excess of material. I find this, however, far from being the case.",
+        "author": {
+            "name": "James Payn",
+            "url": "/authors/james_payn"
+        },
+        "topics": [
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "However",
+                "url": "/topics/however"
+            },
+            {
+                "name": "Literary",
+                "url": "/topics/literary"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_w_s_trow_620498?src=t_literary_men",
+        "quote": "Literary men now routinely tell their readers about their divorces. One literary man who reviews books wrote, in reviewing a study of Ruskin, that he had never read a book by Ruskin but that the study confirmed him in his belief that he didn't want to read a book by Ruskin. This man very often writes about his family life.",
+        "author": {
+            "name": "George W. S. Trow",
+            "url": "/authors/george_w_s_trow"
+        },
+        "topics": [
+            {
+                "name": "Study",
+                "url": "/topics/study"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Literary",
+                "url": "/topics/literary"
+            }
+        ]
+    }
+]

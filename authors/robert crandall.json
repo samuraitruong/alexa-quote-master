@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/robert_crandall_205848",
+        "quote": "If the Wright Brothers were alive today, Orville would have to lay off Wilbur.",
+        "author": {
+            "name": "Robert Crandall",
+            "url": "/quotes/robert_crandall_205848"
+        },
+        "topics": [
+            {
+                "name": "Alive",
+                "url": "/topics/alive"
+            },
+            {
+                "name": "Brothers",
+                "url": "/topics/brothers"
+            },
+            {
+                "name": "Lay",
+                "url": "/topics/lay"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_crandall_390658",
+        "quote": "I did not deal well with the politicians. I tend to tell people that when they are full of crap, that they are full of crap.",
+        "author": {
+            "name": "Robert Crandall",
+            "url": "/quotes/robert_crandall_390658"
+        },
+        "topics": [
+            {
+                "name": "Deal",
+                "url": "/topics/deal"
+            },
+            {
+                "name": "Crap",
+                "url": "/topics/crap"
+            },
+            {
+                "name": "Tend",
+                "url": "/topics/tend"
+            }
+        ]
+    }
+]

@@ -1,0 +1,130 @@
+[
+    {
+        "url": "/quotes/seymour_cray_184191",
+        "quote": "The trouble with programmers is that you can never tell what a programmer is doing until it's too late.",
+        "author": {
+            "name": "Seymour Cray",
+            "url": "/quotes/seymour_cray_184191"
+        },
+        "topics": [
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Too Late",
+                "url": "/topics/too_late"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/seymour_cray_103779",
+        "quote": "If you were plowing a field, which would you rather use? Two strong oxen or 1024 chickens?",
+        "author": {
+            "name": "Seymour Cray",
+            "url": "/quotes/seymour_cray_103779"
+        },
+        "topics": [
+            {
+                "name": "Strong",
+                "url": "/topics/strong"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Rather",
+                "url": "/topics/rather"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/seymour_cray_184115",
+        "quote": "Anyone can build a fast CPU. The trick is to build a fast system.",
+        "author": {
+            "name": "Seymour Cray",
+            "url": "/quotes/seymour_cray_184115"
+        },
+        "topics": [
+            {
+                "name": "Fast",
+                "url": "/topics/fast"
+            },
+            {
+                "name": "Build",
+                "url": "/topics/build"
+            },
+            {
+                "name": "System",
+                "url": "/topics/system"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/seymour_cray_161552",
+        "quote": "I just bought a Mac to help me design the next Cray.",
+        "author": {
+            "name": "Seymour Cray",
+            "url": "/quotes/seymour_cray_161552"
+        },
+        "topics": [
+            {
+                "name": "Computers",
+                "url": "/topics/computers"
+            },
+            {
+                "name": "Help",
+                "url": "/topics/help"
+            },
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/seymour_cray_184116",
+        "quote": "As long as we can make them smaller, we can make them faster.",
+        "author": {
+            "name": "Seymour Cray",
+            "url": "/quotes/seymour_cray_184116"
+        },
+        "topics": [
+            {
+                "name": "Faster",
+                "url": "/topics/faster"
+            },
+            {
+                "name": "Smaller",
+                "url": "/topics/smaller"
+            },
+            {
+                "name": "Them",
+                "url": "/topics/them"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/seymour_cray_184117",
+        "quote": "Parity is for farmers.",
+        "author": {
+            "name": "Seymour Cray",
+            "url": "/quotes/seymour_cray_184117"
+        },
+        "topics": [
+            {
+                "name": "Farmers",
+                "url": "/topics/farmers"
+            },
+            {
+                "name": "Parity",
+                "url": "/topics/parity"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/fairfax_cone_103009",
+        "quote": "The inventory goes down the elevator every night.",
+        "author": {
+            "name": "Fairfax Cone",
+            "url": "/quotes/fairfax_cone_103009"
+        },
+        "topics": [
+            {
+                "name": "Night",
+                "url": "/topics/night"
+            },
+            {
+                "name": "Elevator",
+                "url": "/topics/elevator"
+            },
+            {
+                "name": "Goes",
+                "url": "/topics/goes"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/fairfax_cone_102976",
+        "quote": "Advertising is what you do when you can't go see somebody. That's all it is.",
+        "author": {
+            "name": "Fairfax Cone",
+            "url": "/quotes/fairfax_cone_102976"
+        },
+        "topics": [
+            {
+                "name": "Advertising",
+                "url": "/topics/advertising"
+            },
+            {
+                "name": "See",
+                "url": "/topics/see"
+            },
+            {
+                "name": "Go",
+                "url": "/topics/go"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/fairfax_cone_103359",
+        "quote": "There is no such thing as a Mass Mind. The Mass Audience is made up of individuals, and good advertising is written always from one person to another. When it is aimed at millions it rarely moves anyone.",
+        "author": {
+            "name": "Fairfax Cone",
+            "url": "/quotes/fairfax_cone_103359"
+        },
+        "topics": [
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Audience",
+                "url": "/topics/audience"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/william_camden_187458",
+        "quote": "The sea hath fish for every man.",
+        "author": {
+            "name": "William Camden",
+            "url": "/quotes/william_camden_187458"
+        },
+        "topics": [
+            {
+                "name": "Dating",
+                "url": "/topics/dating"
+            },
+            {
+                "name": "Fish",
+                "url": "/topics/fish"
+            },
+            {
+                "name": "Every Man",
+                "url": "/topics/every_man"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_camden_380821",
+        "quote": "The early bird catches the worm.",
+        "author": {
+            "name": "William Camden",
+            "url": "/quotes/william_camden_380821"
+        },
+        "topics": [
+            {
+                "name": "Bird",
+                "url": "/topics/bird"
+            },
+            {
+                "name": "Early Bird",
+                "url": "/topics/early_bird"
+            },
+            {
+                "name": "Worm",
+                "url": "/topics/worm"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_camden_187454",
+        "quote": "Better a bad excuse, than none at all.",
+        "author": {
+            "name": "William Camden",
+            "url": "/quotes/william_camden_187454"
+        },
+        "topics": [
+            {
+                "name": "Better",
+                "url": "/topics/better"
+            },
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            },
+            {
+                "name": "Excuse",
+                "url": "/topics/excuse"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/dewitt_clinton_207399",
+        "quote": "Pleasure is a shadow, wealth is vanity, and power a pageant; but knowledge is ecstatic in enjoyment, perennial in frame, unlimited in space and indefinite in duration.",
+        "author": {
+            "name": "DeWitt Clinton",
+            "url": "/quotes/dewitt_clinton_207399"
+        },
+        "topics": [
+            {
+                "name": "Wealth",
+                "url": "/topics/wealth"
+            },
+            {
+                "name": "Pageant",
+                "url": "/topics/pageant"
+            },
+            {
+                "name": "Ecstatic",
+                "url": "/topics/ecstatic"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dewitt_clinton_207400",
+        "quote": "The sinner will not confess, nor will the priest receive his confession, if the veil of secrecy is removed.",
+        "author": {
+            "name": "DeWitt Clinton",
+            "url": "/quotes/dewitt_clinton_207400"
+        },
+        "topics": [
+            {
+                "name": "Nor",
+                "url": "/topics/nor"
+            },
+            {
+                "name": "Confess",
+                "url": "/topics/confess"
+            },
+            {
+                "name": "Receive",
+                "url": "/topics/receive"
+            }
+        ]
+    }
+]

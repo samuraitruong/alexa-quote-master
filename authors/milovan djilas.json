@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/milovan_djilas_182676",
+        "quote": "The strongest are those who renounce their own times and become a living part of those yet to come. The strongest and the rarest.",
+        "author": {
+            "name": "Milovan Djilas",
+            "url": "/quotes/milovan_djilas_182676"
+        },
+        "topics": [
+            {
+                "name": "Living",
+                "url": "/topics/living"
+            },
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            },
+            {
+                "name": "Part",
+                "url": "/topics/part"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/milovan_djilas_182675",
+        "quote": "Normal life cannot sustain revolutionary attitudes for long.",
+        "author": {
+            "name": "Milovan Djilas",
+            "url": "/quotes/milovan_djilas_182675"
+        },
+        "topics": [
+            {
+                "name": "Normal",
+                "url": "/topics/normal"
+            },
+            {
+                "name": "Revolutionary",
+                "url": "/topics/revolutionary"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/pattie_maes_731145",
+        "quote": "I try to eat healthy, but being Belgian, I'm also addicted to chocolate.",
+        "author": {
+            "name": "Pattie Maes",
+            "url": "/quotes/pattie_maes_731145"
+        },
+        "topics": [
+            {
+                "name": "Healthy",
+                "url": "/topics/healthy"
+            },
+            {
+                "name": "Eat",
+                "url": "/topics/eat"
+            },
+            {
+                "name": "Addicted",
+                "url": "/topics/addicted"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/pattie_maes_731143",
+        "quote": "I've been intrigued by this question of whether we could evolve or develop a sixth sense - a sense that would give us seamless access and easy access to meta-information or information that may exist somewhere that may be relevant to help us make the right decision about whatever it is that we're coming across.",
+        "author": {
+            "name": "Pattie Maes",
+            "url": "/quotes/pattie_maes_731143"
+        },
+        "topics": [
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Access",
+                "url": "/topics/access"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/pattie_maes_731144",
+        "quote": "I am not one of those people who lives for work. I enjoy sculpting and photography and tennis and swimming. I simply do not have enough time. My life is not in control.",
+        "author": {
+            "name": "Pattie Maes",
+            "url": "/quotes/pattie_maes_731144"
+        },
+        "topics": [
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Lives",
+                "url": "/topics/lives"
+            },
+            {
+                "name": "Sculpting",
+                "url": "/topics/sculpting"
+            }
+        ]
+    }
+]

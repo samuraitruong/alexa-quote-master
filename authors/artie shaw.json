@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/artie_shaw_347393",
+        "quote": "Shoot for the moon - if you miss you'll end up in the stars.",
+        "author": {
+            "name": "Artie Shaw",
+            "url": "/quotes/artie_shaw_347393"
+        },
+        "topics": [
+            {
+                "name": "End",
+                "url": "/topics/end"
+            },
+            {
+                "name": "Moon",
+                "url": "/topics/moon"
+            },
+            {
+                "name": "Shoot",
+                "url": "/topics/shoot"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/artie_shaw_170390",
+        "quote": "You have no idea of the people I didn't marry.",
+        "author": {
+            "name": "Artie Shaw",
+            "url": "/quotes/artie_shaw_170390"
+        },
+        "topics": [
+            {
+                "name": "No Idea",
+                "url": "/topics/no_idea"
+            },
+            {
+                "name": "Marry",
+                "url": "/topics/marry"
+            },
+            {
+                "name": "Idea",
+                "url": "/topics/idea"
+            }
+        ]
+    }
+]

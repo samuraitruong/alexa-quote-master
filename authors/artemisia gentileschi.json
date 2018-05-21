@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/artemisia_gentileschi_211297",
+        "quote": "My illustrious lordship, I'll show you what a woman can do.",
+        "author": {
+            "name": "Artemisia Gentileschi",
+            "url": "/quotes/artemisia_gentileschi_211297"
+        },
+        "topics": [
+            {
+                "name": "Woman",
+                "url": "/topics/woman"
+            },
+            {
+                "name": "Illustrious",
+                "url": "/topics/illustrious"
+            },
+            {
+                "name": "Lordship",
+                "url": "/topics/lordship"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/artemisia_gentileschi_211296",
+        "quote": "As long as I live I will have control over my being.",
+        "author": {
+            "name": "Artemisia Gentileschi",
+            "url": "/quotes/artemisia_gentileschi_211296"
+        },
+        "topics": [
+            {
+                "name": "Control",
+                "url": "/topics/control"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    }
+]

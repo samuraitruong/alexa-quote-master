@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/leon_blum_130101",
+        "quote": "The free man is he who does not fear to go to the end of his thought.",
+        "author": {
+            "name": "Leon Blum",
+            "url": "/quotes/leon_blum_130101"
+        },
+        "topics": [
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            },
+            {
+                "name": "Free Man",
+                "url": "/topics/free_man"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/leon_blum_178408",
+        "quote": "Morality may consist solely in the courage of making a choice.",
+        "author": {
+            "name": "Leon Blum",
+            "url": "/quotes/leon_blum_178408"
+        },
+        "topics": [
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Morality",
+                "url": "/topics/morality"
+            },
+            {
+                "name": "Making",
+                "url": "/topics/making"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/leon_blum_139027",
+        "quote": "When a woman is twenty, a child deforms her; when she is thirty, he preserves her; and when forty, he makes her young again.",
+        "author": {
+            "name": "Leon Blum",
+            "url": "/quotes/leon_blum_139027"
+        },
+        "topics": [
+            {
+                "name": "Woman",
+                "url": "/topics/woman"
+            },
+            {
+                "name": "Young",
+                "url": "/topics/young"
+            },
+            {
+                "name": "Again",
+                "url": "/topics/again"
+            }
+        ]
+    }
+]

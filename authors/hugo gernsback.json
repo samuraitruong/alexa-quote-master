@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/hugo_gernsback_195357",
+        "quote": "Let it be understood, in the first place, that a science fiction story must be an exposition of a scientific theme and it must be also a story.",
+        "author": {
+            "name": "Hugo Gernsback",
+            "url": "/quotes/hugo_gernsback_195357"
+        },
+        "topics": [
+            {
+                "name": "Fiction",
+                "url": "/topics/fiction"
+            },
+            {
+                "name": "Scientific",
+                "url": "/topics/scientific"
+            },
+            {
+                "name": "Also",
+                "url": "/topics/also"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/hugo_gernsback_195359",
+        "quote": "What description of clouds and sunsets was to the old novelist, description of scientific apparatus and methods is to the modern Scientific Detective writer.",
+        "author": {
+            "name": "Hugo Gernsback",
+            "url": "/quotes/hugo_gernsback_195359"
+        },
+        "topics": [
+            {
+                "name": "Detective",
+                "url": "/topics/detective"
+            },
+            {
+                "name": "Modern",
+                "url": "/topics/modern"
+            },
+            {
+                "name": "Apparatus",
+                "url": "/topics/apparatus"
+            }
+        ]
+    }
+]

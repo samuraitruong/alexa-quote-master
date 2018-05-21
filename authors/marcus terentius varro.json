@@ -1,0 +1,130 @@
+[
+    {
+        "url": "/quotes/marcus_terentius_varro_164889",
+        "quote": "Divine Nature gave the fields, human art built the cities.",
+        "author": {
+            "name": "Marcus Terentius Varro",
+            "url": "/quotes/marcus_terentius_varro_164889"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Divine Nature",
+                "url": "/topics/divine_nature"
+            },
+            {
+                "name": "Cities",
+                "url": "/topics/cities"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marcus_terentius_varro_145358",
+        "quote": "What is sauce for the goose is sauce for the gander.",
+        "author": {
+            "name": "Marcus Terentius Varro",
+            "url": "/quotes/marcus_terentius_varro_145358"
+        },
+        "topics": [
+            {
+                "name": "Goose",
+                "url": "/topics/goose"
+            },
+            {
+                "name": "Sauce",
+                "url": "/topics/sauce"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marcus_terentius_varro_145362",
+        "quote": "What, if as said, man is a bubble.",
+        "author": {
+            "name": "Marcus Terentius Varro",
+            "url": "/quotes/marcus_terentius_varro_145362"
+        },
+        "topics": [
+            {
+                "name": "Man",
+                "url": "/topics/man"
+            },
+            {
+                "name": "Bubble",
+                "url": "/topics/bubble"
+            },
+            {
+                "name": "What If",
+                "url": "/topics/what_if"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marcus_terentius_varro_145357",
+        "quote": "Nature made the fields and man the cities.",
+        "author": {
+            "name": "Marcus Terentius Varro",
+            "url": "/quotes/marcus_terentius_varro_145357"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "Made",
+                "url": "/topics/made"
+            },
+            {
+                "name": "Cities",
+                "url": "/topics/cities"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marcus_terentius_varro_144745",
+        "quote": "The number of guests at dinner should not be less than the number of the Graces nor exceed that of the Muses, i.e., it should begin with three and stop at nine.",
+        "author": {
+            "name": "Marcus Terentius Varro",
+            "url": "/quotes/marcus_terentius_varro_144745"
+        },
+        "topics": [
+            {
+                "name": "Less",
+                "url": "/topics/less"
+            },
+            {
+                "name": "Nine",
+                "url": "/topics/nine"
+            },
+            {
+                "name": "Graces",
+                "url": "/topics/graces"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marcus_terentius_varro_145359",
+        "quote": "For my eightieth year warns me to pack up my baggage before I leave life.",
+        "author": {
+            "name": "Marcus Terentius Varro",
+            "url": "/quotes/marcus_terentius_varro_145359"
+        },
+        "topics": [
+            {
+                "name": "Year",
+                "url": "/topics/year"
+            },
+            {
+                "name": "Baggage",
+                "url": "/topics/baggage"
+            },
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            }
+        ]
+    }
+]

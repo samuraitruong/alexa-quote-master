@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/john_tuley_205208",
+        "quote": "An approximate answer to the right question is worth far more than a precise answer to the wrong one.",
+        "author": {
+            "name": "John Tuley",
+            "url": "/quotes/john_tuley_205208"
+        },
+        "topics": [
+            {
+                "name": "Question",
+                "url": "/topics/question"
+            },
+            {
+                "name": "Answer",
+                "url": "/topics/answer"
+            },
+            {
+                "name": "Far",
+                "url": "/topics/far"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_tuley_205209",
+        "quote": "In rating ease of description as very important, we are essentially asserting a belief in quantitative knowledge - a belief that most of the key questions in our world sooner or later demand answers to 'by how much?' rather than merely to 'in which direction?'",
+        "author": {
+            "name": "John Tuley",
+            "url": "/quotes/john_tuley_205209"
+        },
+        "topics": [
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Ease",
+                "url": "/topics/ease"
+            },
+            {
+                "name": "Asserting",
+                "url": "/topics/asserting"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_tuley_205211",
+        "quote": "The greatest value of a picture is when it forces us to notice what we never expected to see.",
+        "author": {
+            "name": "John Tuley",
+            "url": "/quotes/john_tuley_205211"
+        },
+        "topics": [
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "See",
+                "url": "/topics/see"
+            },
+            {
+                "name": "Forces",
+                "url": "/topics/forces"
+            }
+        ]
+    }
+]

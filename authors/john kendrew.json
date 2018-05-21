@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/john_kendrew_743995",
+        "quote": "I appreciated being rich because it allowed me to study in Paris and Geneva.",
+        "author": {
+            "name": "John Kendrew",
+            "url": "/quotes/john_kendrew_743995"
+        },
+        "topics": [
+            {
+                "name": "Paris",
+                "url": "/topics/paris"
+            },
+            {
+                "name": "Study",
+                "url": "/topics/study"
+            },
+            {
+                "name": "Geneva",
+                "url": "/topics/geneva"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_kendrew_743994",
+        "quote": "You should always use your Nobel prize money to buy property.",
+        "author": {
+            "name": "John Kendrew",
+            "url": "/quotes/john_kendrew_743994"
+        },
+        "topics": [
+            {
+                "name": "Money",
+                "url": "/topics/money"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_kendrew_743996",
+        "quote": "I think I've succeeded more by learning what needed to be done next and getting help in getting it done. I was just very focused and impatient.",
+        "author": {
+            "name": "John Kendrew",
+            "url": "/quotes/john_kendrew_743996"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_kendrew_743997",
+        "quote": "Unfair discrimination exists whether we like it or not; I wouldn't have married a gum-chewing vegetarian. Ultimately, we'll help the people we discriminate against if we try to understand more about them; genetics will lead to a world where there is a sympathy for the underdog.",
+        "author": {
+            "name": "John Kendrew",
+            "url": "/quotes/john_kendrew_743997"
+        },
+        "topics": [
+            {
+                "name": "Genetics",
+                "url": "/topics/genetics"
+            },
+            {
+                "name": "Against",
+                "url": "/topics/against"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    }
+]

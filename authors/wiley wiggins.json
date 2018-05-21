@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/wiley_wiggins_722718",
+        "quote": "I'm ready to deal with somebody else's baggage. I'm sick of mine.",
+        "author": {
+            "name": "Wiley Wiggins",
+            "url": "/quotes/wiley_wiggins_722718"
+        },
+        "topics": [
+            {
+                "name": "Deal",
+                "url": "/topics/deal"
+            },
+            {
+                "name": "Baggage",
+                "url": "/topics/baggage"
+            },
+            {
+                "name": "Mine",
+                "url": "/topics/mine"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/wiley_wiggins_722719",
+        "quote": "If I had a job pitching for the Giants, I probably wouldn't be manning my own Twitter account.",
+        "author": {
+            "name": "Wiley Wiggins",
+            "url": "/quotes/wiley_wiggins_722719"
+        },
+        "topics": [
+            {
+                "name": "My Own",
+                "url": "/topics/my_own"
+            },
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            },
+            {
+                "name": "Had",
+                "url": "/topics/had"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/wiley_wiggins_722720",
+        "quote": "My pitching in 'Dazed and Confused' was so bad that they had to use cut-ins with a stunt double, and I spent most of that filming night being ruthlessly mocked by a team of Little League extras.",
+        "author": {
+            "name": "Wiley Wiggins",
+            "url": "/quotes/wiley_wiggins_722720"
+        },
+        "topics": [
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            },
+            {
+                "name": "Little League",
+                "url": "/topics/little_league"
+            },
+            {
+                "name": "Mocked",
+                "url": "/topics/mocked"
+            }
+        ]
+    }
+]

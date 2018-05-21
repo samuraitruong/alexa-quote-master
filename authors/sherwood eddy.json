@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/sherwood_eddy_105072",
+        "quote": "Faith is reason grown courageous.",
+        "author": {
+            "name": "Sherwood Eddy",
+            "url": "/quotes/sherwood_eddy_105072"
+        },
+        "topics": [
+            {
+                "name": "Faith",
+                "url": "/topics/faith"
+            },
+            {
+                "name": "Reason",
+                "url": "/topics/reason"
+            },
+            {
+                "name": "Courageous",
+                "url": "/topics/courageous"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sherwood_eddy_121128",
+        "quote": "Faith is not trying to believe something regardless of the evidence. Faith is daring to do something regardless of the consequences.",
+        "author": {
+            "name": "Sherwood Eddy",
+            "url": "/quotes/sherwood_eddy_121128"
+        },
+        "topics": [
+            {
+                "name": "Faith",
+                "url": "/topics/faith"
+            },
+            {
+                "name": "Trying",
+                "url": "/topics/trying"
+            },
+            {
+                "name": "Evidence",
+                "url": "/topics/evidence"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sherwood_eddy_132824",
+        "quote": "Faith is not contrary to reason.",
+        "author": {
+            "name": "Sherwood Eddy",
+            "url": "/quotes/sherwood_eddy_132824"
+        },
+        "topics": [
+            {
+                "name": "Faith",
+                "url": "/topics/faith"
+            },
+            {
+                "name": "Reason",
+                "url": "/topics/reason"
+            },
+            {
+                "name": "Contrary",
+                "url": "/topics/contrary"
+            }
+        ]
+    }
+]

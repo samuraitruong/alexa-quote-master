@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/f_e_smith_160999",
+        "quote": "The world continues to offer glittering prizes to those who have stout hearts and sharp swords.",
+        "author": {
+            "name": "F. E. Smith",
+            "url": "/quotes/f_e_smith_160999"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Offer",
+                "url": "/topics/offer"
+            },
+            {
+                "name": "Glittering",
+                "url": "/topics/glittering"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/f_e_smith_166424",
+        "quote": "Good God, do you mean to say this place is a club?",
+        "author": {
+            "name": "F. E. Smith",
+            "url": "/quotes/f_e_smith_166424"
+        },
+        "topics": [
+            {
+                "name": "Say",
+                "url": "/topics/say"
+            },
+            {
+                "name": "Mean",
+                "url": "/topics/mean"
+            },
+            {
+                "name": "Club",
+                "url": "/topics/club"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/elio_di_rupo_507774",
+        "quote": "My life is a fairy tale. You could not make it up.",
+        "author": {
+            "name": "Elio Di Rupo",
+            "url": "/quotes/elio_di_rupo_507774"
+        },
+        "topics": [
+            {
+                "name": "Life Is A",
+                "url": "/topics/life_is_a"
+            },
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Tale",
+                "url": "/topics/tale"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/elio_di_rupo_507775",
+        "quote": "Being the chief minister of a regional government is just a pastime compared with the hellish job of being prime minister of two different communities brought together.",
+        "author": {
+            "name": "Elio Di Rupo",
+            "url": "/quotes/elio_di_rupo_507775"
+        },
+        "topics": [
+            {
+                "name": "Minister",
+                "url": "/topics/minister"
+            },
+            {
+                "name": "Prime",
+                "url": "/topics/prime"
+            },
+            {
+                "name": "Brought",
+                "url": "/topics/brought"
+            }
+        ]
+    }
+]

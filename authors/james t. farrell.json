@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/james_t_farrell_101288",
+        "quote": "There's one good kind of writer - a dead one.",
+        "author": {
+            "name": "James T. Farrell",
+            "url": "/quotes/james_t_farrell_101288"
+        },
+        "topics": [
+            {
+                "name": "Dead",
+                "url": "/topics/dead"
+            },
+            {
+                "name": "Writer",
+                "url": "/topics/writer"
+            },
+            {
+                "name": "Kind",
+                "url": "/topics/kind"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_t_farrell_138427",
+        "quote": "America is so vast that almost everything said about it is likely to be true, and the opposite is probably equally true.",
+        "author": {
+            "name": "James T. Farrell",
+            "url": "/quotes/james_t_farrell_138427"
+        },
+        "topics": [
+            {
+                "name": "Likely",
+                "url": "/topics/likely"
+            },
+            {
+                "name": "Almost Everything",
+                "url": "/topics/almost_everything"
+            }
+        ]
+    }
+]

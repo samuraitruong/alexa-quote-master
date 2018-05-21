@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/george_cole_212466",
+        "quote": "I was always in plays at school and in school concerts - you could say I liked to show off.",
+        "author": {
+            "name": "George Cole",
+            "url": "/quotes/george_cole_212466"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Concerts",
+                "url": "/topics/concerts"
+            },
+            {
+                "name": "Plays",
+                "url": "/topics/plays"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_cole_212467",
+        "quote": "I was paid to be cheeky and people clapped me for it.",
+        "author": {
+            "name": "George Cole",
+            "url": "/quotes/george_cole_212467"
+        },
+        "topics": [
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Cheeky",
+                "url": "/topics/cheeky"
+            },
+            {
+                "name": "Paid",
+                "url": "/topics/paid"
+            }
+        ]
+    }
+]

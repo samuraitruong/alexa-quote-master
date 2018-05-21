@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/matsuo_basho_382096",
+        "quote": "Every day is a journey, and the journey itself is home.",
+        "author": {
+            "name": "Matsuo Basho",
+            "url": "/quotes/matsuo_basho_382096"
+        },
+        "topics": [
+            {
+                "name": "Journey",
+                "url": "/topics/journey"
+            },
+            {
+                "name": "Travel",
+                "url": "/topics/travel"
+            },
+            {
+                "name": "Itself",
+                "url": "/topics/itself"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/matsuo_basho_105201",
+        "quote": "The temple bell stops but I still hear the sound coming out of the flowers.",
+        "author": {
+            "name": "Matsuo Basho",
+            "url": "/quotes/matsuo_basho_105201"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "Flowers",
+                "url": "/topics/flowers"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/matsuo_basho_107176",
+        "quote": "Do not seek to follow in the footsteps of the wise. Seek what they sought.",
+        "author": {
+            "name": "Matsuo Basho",
+            "url": "/quotes/matsuo_basho_107176"
+        },
+        "topics": [
+            {
+                "name": "Wise",
+                "url": "/topics/wise"
+            },
+            {
+                "name": "Brainy",
+                "url": "/topics/brainy"
+            },
+            {
+                "name": "Sought",
+                "url": "/topics/sought"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/matsuo_basho_390970",
+        "quote": "There is nothing you can see that is not a Bashoflower; there is nothing you can think that is not the moon.",
+        "author": {
+            "name": "Matsuo Basho",
+            "url": "/quotes/matsuo_basho_390970"
+        },
+        "topics": [
+            {
+                "name": "Moon",
+                "url": "/topics/moon"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "See",
+                "url": "/topics/see"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/matsuo_basho_379039",
+        "quote": "The moon is brighter since the barn burned.",
+        "author": {
+            "name": "Matsuo Basho",
+            "url": "/quotes/matsuo_basho_379039"
+        },
+        "topics": [
+            {
+                "name": "Moon",
+                "url": "/topics/moon"
+            },
+            {
+                "name": "Barn",
+                "url": "/topics/barn"
+            },
+            {
+                "name": "Brighter",
+                "url": "/topics/brighter"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/dee_dee_warwick_234743",
+        "quote": "They told me I should be making my own records. So I figured, 'why not?",
+        "author": {
+            "name": "Dee Dee Warwick",
+            "url": "/quotes/dee_dee_warwick_234743"
+        },
+        "topics": [
+            {
+                "name": "My Own",
+                "url": "/topics/my_own"
+            },
+            {
+                "name": "Records",
+                "url": "/topics/records"
+            },
+            {
+                "name": "Making",
+                "url": "/topics/making"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dee_dee_warwick_234744",
+        "quote": "At the time, I was making good money doing background work and demos.",
+        "author": {
+            "name": "Dee Dee Warwick",
+            "url": "/quotes/dee_dee_warwick_234744"
+        },
+        "topics": [
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Making",
+                "url": "/topics/making"
+            },
+            {
+                "name": "Demos",
+                "url": "/topics/demos"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dee_dee_warwick_234745",
+        "quote": "Around New York, our group had become known as 'Dee Dee and her girls' because we were used on everything, so going out on a solo career wasn't as much a big deal to me.",
+        "author": {
+            "name": "Dee Dee Warwick",
+            "url": "/quotes/dee_dee_warwick_234745"
+        },
+        "topics": [
+            {
+                "name": "Career",
+                "url": "/topics/career"
+            },
+            {
+                "name": "Deal",
+                "url": "/topics/deal"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            }
+        ]
+    }
+]

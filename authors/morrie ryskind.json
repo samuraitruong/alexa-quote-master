@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/morrie_ryskind_400704",
+        "quote": "Money will never make you happy and happy will never make you money.",
+        "author": {
+            "name": "Morrie Ryskind",
+            "url": "/quotes/morrie_ryskind_400704"
+        },
+        "topics": [
+            {
+                "name": "Money",
+                "url": "/topics/money"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/morrie_ryskind_403102",
+        "quote": "Say, the next time I see you, remind me not to talk to you, will you?",
+        "author": {
+            "name": "Morrie Ryskind",
+            "url": "/quotes/morrie_ryskind_403102"
+        },
+        "topics": [
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            },
+            {
+                "name": "See",
+                "url": "/topics/see"
+            },
+            {
+                "name": "Next Time",
+                "url": "/topics/next_time"
+            }
+        ]
+    }
+]

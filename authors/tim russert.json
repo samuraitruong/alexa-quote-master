@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/tim_russert_202703",
+        "quote": "Looking at the high cost of occupation in Iraq and the needs we have in this country, would it not have been better to have smaller tax cuts in order to keep down the deficits.",
+        "author": {
+            "name": "Tim Russert",
+            "url": "/quotes/tim_russert_202703"
+        },
+        "topics": [
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Needs",
+                "url": "/topics/needs"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tim_russert_202704",
+        "quote": "Should we freeze or postpone prospective tax cuts and avoid any new tax cuts until we are sure we have the money to pay for the war on terrorism and the war in Iraq.",
+        "author": {
+            "name": "Tim Russert",
+            "url": "/quotes/tim_russert_202704"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Sure",
+                "url": "/topics/sure"
+            },
+            {
+                "name": "Iraq",
+                "url": "/topics/iraq"
+            }
+        ]
+    }
+]

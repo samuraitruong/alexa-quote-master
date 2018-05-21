@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/william_floyd_394587",
+        "quote": "The one thing you can't do when you're highly ranked is relax.",
+        "author": {
+            "name": "William Floyd",
+            "url": "/quotes/william_floyd_394587"
+        },
+        "topics": [
+            {
+                "name": "Relax",
+                "url": "/topics/relax"
+            },
+            {
+                "name": "One Thing",
+                "url": "/topics/one_thing"
+            },
+            {
+                "name": "Ranked",
+                "url": "/topics/ranked"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_floyd_200143",
+        "quote": "Have any of our friends got off the Island with their families, or what must they submit to? Despotism or destruction, I fear, is their fate.",
+        "author": {
+            "name": "William Floyd",
+            "url": "/quotes/william_floyd_200143"
+        },
+        "topics": [
+            {
+                "name": "Fate",
+                "url": "/topics/fate"
+            },
+            {
+                "name": "Island",
+                "url": "/topics/island"
+            },
+            {
+                "name": "Submit",
+                "url": "/topics/submit"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_floyd_395110",
+        "quote": "The Bible has done more harm than any other book in the world.",
+        "author": {
+            "name": "William Floyd",
+            "url": "/quotes/william_floyd_395110"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Bible",
+                "url": "/topics/bible"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    }
+]

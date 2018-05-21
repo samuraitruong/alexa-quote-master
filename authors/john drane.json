@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/john_drane_627408",
+        "quote": "The Gospels were written to present the life and teachings of Jesus in ways that would be appropriate to different readerships, and for that reason are not all the same. They were not intended to be biographies of Jesus, but selective accounts that would demonstrate his significance for different cultures.",
+        "author": {
+            "name": "John Drane",
+            "url": "/quotes/john_drane_627408"
+        },
+        "topics": [
+            {
+                "name": "Reason",
+                "url": "/topics/reason"
+            },
+            {
+                "name": "Appropriate",
+                "url": "/topics/appropriate"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_drane_627407",
+        "quote": "The Bible is not just one book, but an entire library, with stories, songs, poetry, letters and history, as well as literature that might more obviously qualify as 'religious.'",
+        "author": {
+            "name": "John Drane",
+            "url": "/quotes/john_drane_627407"
+        },
+        "topics": [
+            {
+                "name": "Bible",
+                "url": "/topics/bible"
+            },
+            {
+                "name": "Religious",
+                "url": "/topics/religious"
+            },
+            {
+                "name": "Stories",
+                "url": "/topics/stories"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_drane_627409",
+        "quote": "The sheer diversity of literature in the Bible is one of the secrets of its continuing popularity through the centuries. There is something for all moods and many different cultures. Its message is not buried in religious jargon only accessible to either believers or scholars, but reflects the issues that people struggle with in daily life.",
+        "author": {
+            "name": "John Drane",
+            "url": "/quotes/john_drane_627409"
+        },
+        "topics": [
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Religious",
+                "url": "/topics/religious"
+            },
+            {
+                "name": "Buried",
+                "url": "/topics/buried"
+            }
+        ]
+    }
+]

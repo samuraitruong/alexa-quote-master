@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/big_bill_broonzy_265009",
+        "quote": "I guess all songs is folk songs. I never heard no horse sing 'em.",
+        "author": {
+            "name": "Big Bill Broonzy",
+            "url": "/quotes/big_bill_broonzy_265009"
+        },
+        "topics": [
+            {
+                "name": "Horse",
+                "url": "/topics/horse"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Guess",
+                "url": "/topics/guess"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/big_bill_broonzy_265008",
+        "quote": "Blues is a natural fact, is something that a fellow lives. If you don't live it you don't have it. Young people have forgotten to cry the blues. Now they talk and get lawyers and things.",
+        "author": {
+            "name": "Big Bill Broonzy",
+            "url": "/quotes/big_bill_broonzy_265008"
+        },
+        "topics": [
+            {
+                "name": "Lawyers",
+                "url": "/topics/lawyers"
+            },
+            {
+                "name": "Natural",
+                "url": "/topics/natural"
+            },
+            {
+                "name": "Fact",
+                "url": "/topics/fact"
+            }
+        ]
+    }
+]

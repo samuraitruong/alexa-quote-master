@@ -1,0 +1,434 @@
+[
+    {
+        "url": "/quotes/francis_collins_555147?src=t_differential",
+        "quote": "I became an atheist because, as a graduate student studying quantum physics, life seemed to be reducible to second-order differential equations. Mathematics, chemistry and physics had it all. And I didn't see any need to go beyond that.",
+        "author": {
+            "name": "Francis Collins",
+            "url": "/authors/francis_collins"
+        },
+        "topics": [
+            {
+                "name": "Became",
+                "url": "/topics/became"
+            },
+            {
+                "name": "Quantum Physics",
+                "url": "/topics/quantum_physics"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alan_turing_164574?src=t_differential",
+        "quote": "Science is a differential equation. Religion is a boundary condition.",
+        "author": {
+            "name": "Alan Turing",
+            "url": "/authors/alan_turing"
+        },
+        "topics": [
+            {
+                "name": "Science",
+                "url": "/topics/science"
+            },
+            {
+                "name": "Boundary",
+                "url": "/topics/boundary"
+            },
+            {
+                "name": "Condition",
+                "url": "/topics/condition"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/richard_dawkins_626811?src=t_differential",
+        "quote": "As Darwin himself was at pains to point out, natural selection is all about differential survival within species, not between them.",
+        "author": {
+            "name": "Richard Dawkins",
+            "url": "/authors/richard_dawkins"
+        },
+        "topics": [
+            {
+                "name": "Survival",
+                "url": "/topics/survival"
+            },
+            {
+                "name": "Within",
+                "url": "/topics/within"
+            },
+            {
+                "name": "Natural",
+                "url": "/topics/natural"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lev_vygotsky_700803?src=t_differential",
+        "quote": "Love can reach the same level of talent, and even genius, as the discovery of differential calculus.",
+        "author": {
+            "name": "Lev Vygotsky",
+            "url": "/authors/lev_vygotsky"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Genius",
+                "url": "/topics/genius"
+            },
+            {
+                "name": "Same",
+                "url": "/topics/same"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/richard_p_feynman_719029?src=t_differential",
+        "quote": "It is a curious historical fact that modern quantum mechanics began with two quite different mathematical formulations: the differential equation of Schroedinger and the matrix algebra of Heisenberg. The two apparently dissimilar approaches were proved to be mathematically equivalent.",
+        "author": {
+            "name": "Richard P. Feynman",
+            "url": "/authors/richard_p_feynman"
+        },
+        "topics": [
+            {
+                "name": "Fact",
+                "url": "/topics/fact"
+            },
+            {
+                "name": "Quantum Mechanics",
+                "url": "/topics/quantum_mechanics"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gilbert_newton_lewis_692125?src=t_differential",
+        "quote": "It must be admitted that science has its castes. The man whose chief apparatus is the differential equation looks down upon one who uses a galvanometer, and he in turn upon those who putter about with sticky and smelly things in test tubes.",
+        "author": {
+            "name": "Gilbert Newton Lewis",
+            "url": "/authors/gilbert_newton_lewis"
+        },
+        "topics": [
+            {
+                "name": "Turn",
+                "url": "/topics/turn"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Apparatus",
+                "url": "/topics/apparatus"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dick_york_249765?src=t_differential",
+        "quote": "There was a three hour differential in performances because the sponsor insisted it be done live for California. You would go on at 8 pm in New York but you would also have to go on at 8 p.m. in California. That meant coming back in to do the show at 11 p.m.",
+        "author": {
+            "name": "Dick York",
+            "url": "/authors/dick_york"
+        },
+        "topics": [
+            {
+                "name": "Back",
+                "url": "/topics/back"
+            },
+            {
+                "name": "Show",
+                "url": "/topics/show"
+            },
+            {
+                "name": "Sponsor",
+                "url": "/topics/sponsor"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_a_forbes_560463?src=t_differential",
+        "quote": "Given the historical power differential between blacks and whites, blacks are required to be attentive to the way their white counterparts see themselves in relation to people of color if they want to survive and even thrive.",
+        "author": {
+            "name": "James A. Forbes",
+            "url": "/authors/james_a_forbes"
+        },
+        "topics": [
+            {
+                "name": "Color",
+                "url": "/topics/color"
+            },
+            {
+                "name": "Historical",
+                "url": "/topics/historical"
+            },
+            {
+                "name": "Attentive",
+                "url": "/topics/attentive"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/max_born_194186?src=t_differential",
+        "quote": "If God has made the world a perfect mechanism, He has at least conceded so much to our imperfect intellect that in order to predict little parts of it, we need not solve innumerable differential equations, but can use dice with fair success.",
+        "author": {
+            "name": "Max Born",
+            "url": "/authors/max_born"
+        },
+        "topics": [
+            {
+                "name": "Perfect",
+                "url": "/topics/perfect"
+            },
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            },
+            {
+                "name": "Least",
+                "url": "/topics/least"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/leroy_hood_652777?src=t_differential",
+        "quote": "What you need to learn how to do is analyze situations and do differential diagnoses and understand the principle and the concepts rather than learn all the details, and medical school doesn't begin to do that.",
+        "author": {
+            "name": "Leroy Hood",
+            "url": "/authors/leroy_hood"
+        },
+        "topics": [
+            {
+                "name": "Medical",
+                "url": "/topics/medical"
+            },
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            },
+            {
+                "name": "Principle",
+                "url": "/topics/principle"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nathan_myhrvold_541292?src=t_differential",
+        "quote": "We have the only cookbook in the world that has partial differential equations in it.",
+        "author": {
+            "name": "Nathan Myhrvold",
+            "url": "/authors/nathan_myhrvold"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Equations",
+                "url": "/topics/equations"
+            },
+            {
+                "name": "Cookbook",
+                "url": "/topics/cookbook"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/oscar_munoz_876399?src=t_differential",
+        "quote": "At the end of the day, the differential, I believe, on the airline space has got to be about the product and the service that you provide. And again, I can't express that enough. That comes from people. It is a people business, and my primary focus is to get our 84,000-plus people back aligned, back engaged, and back focused on our customer.",
+        "author": {
+            "name": "Oscar Munoz",
+            "url": "/authors/oscar_munoz"
+        },
+        "topics": [
+            {
+                "name": "Focus",
+                "url": "/topics/focus"
+            },
+            {
+                "name": "Engaged",
+                "url": "/topics/engaged"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_souter_720022?src=t_differential",
+        "quote": "Millions of statements are made about the president every day on every subject and from every standpoint; threats of violence are not an integral feature of any one subject or viewpoint as distinct from others. Differential treatment of threats against the president, then, selects nothing but special risks, not special messages.",
+        "author": {
+            "name": "David Souter",
+            "url": "/authors/david_souter"
+        },
+        "topics": [
+            {
+                "name": "Against",
+                "url": "/topics/against"
+            },
+            {
+                "name": "Treatment",
+                "url": "/topics/treatment"
+            },
+            {
+                "name": "Subject",
+                "url": "/topics/subject"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/whitfield_diffie_675942?src=t_differential",
+        "quote": "I thought of computers as very low class. I thought of myself as a pure mathematician and was interested in partial differential equations and topology and things like that.",
+        "author": {
+            "name": "Whitfield Diffie",
+            "url": "/authors/whitfield_diffie"
+        },
+        "topics": [
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kelly_mcgillis_233997?src=t_differential",
+        "quote": "Tom and I didn't have a problem with the height differential but Paramount did, so we tried to hide it.",
+        "author": {
+            "name": "Kelly McGillis",
+            "url": "/authors/kelly_mcgillis"
+        },
+        "topics": [
+            {
+                "name": "Hide",
+                "url": "/topics/hide"
+            },
+            {
+                "name": "Tried",
+                "url": "/topics/tried"
+            },
+            {
+                "name": "Tom",
+                "url": "/topics/tom"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_brin_330429?src=t_differential",
+        "quote": "There's no doubt that scientific training helps many authors to write better science fiction. And yet, several of the very best were English majors who could not parse a differential equation to save their lives.",
+        "author": {
+            "name": "David Brin",
+            "url": "/authors/david_brin"
+        },
+        "topics": [
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Fiction",
+                "url": "/topics/fiction"
+            },
+            {
+                "name": "Scientific",
+                "url": "/topics/scientific"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kit_williams_275985?src=t_differential",
+        "quote": "Newton, of course, was the inventor of differential calculus so his place in the tale is quite special.",
+        "author": {
+            "name": "Kit Williams",
+            "url": "/authors/kit_williams"
+        },
+        "topics": [
+            {
+                "name": "Special",
+                "url": "/topics/special"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            },
+            {
+                "name": "Tale",
+                "url": "/topics/tale"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kit_williams_276002?src=t_differential",
+        "quote": "As I was working I noticed that the way I designed the differential gearing actually created a spare drive that sat directly below the emperor's feet, or where they would be if he were to sit in the chariot.",
+        "author": {
+            "name": "Kit Williams",
+            "url": "/authors/kit_williams"
+        },
+        "topics": [
+            {
+                "name": "Feet",
+                "url": "/topics/feet"
+            },
+            {
+                "name": "Created",
+                "url": "/topics/created"
+            },
+            {
+                "name": "Below",
+                "url": "/topics/below"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/aaron_ciechanover_732587?src=t_differential",
+        "quote": "The development of methods to monitor protein dynamics in cells together with the discovery of specific and general lysosomal inhibitors have resulted in the identification of different classes of cellular proteins, long- and short-lived, and the findings of the differential effects of the inhibitors on these groups.",
+        "author": {
+            "name": "Aaron Ciechanover",
+            "url": "/authors/aaron_ciechanover"
+        },
+        "topics": [
+            {
+                "name": "Methods",
+                "url": "/topics/methods"
+            },
+            {
+                "name": "Classes",
+                "url": "/topics/classes"
+            },
+            {
+                "name": "Resulted",
+                "url": "/topics/resulted"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_gamow_827554?src=t_differential",
+        "quote": "When, in school, they were teaching algebra, I was studying differential equations at home.",
+        "author": {
+            "name": "George Gamow",
+            "url": "/authors/george_gamow"
+        },
+        "topics": [
+            {
+                "name": "School",
+                "url": "/topics/school"
+            },
+            {
+                "name": "Studying",
+                "url": "/topics/studying"
+            },
+            {
+                "name": "Equations",
+                "url": "/topics/equations"
+            }
+        ]
+    }
+]

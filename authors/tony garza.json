@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/tony_garza_405695",
+        "quote": "In the name of the United States and President Bush, I want to thank the Mexican people, President Fox and his government for their friendship.",
+        "author": {
+            "name": "Tony Garza",
+            "url": "/quotes/tony_garza_405695"
+        },
+        "topics": [
+            {
+                "name": "Friendship",
+                "url": "/topics/friendship"
+            },
+            {
+                "name": "United States",
+                "url": "/topics/united_states"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tony_garza_405696",
+        "quote": "Look at Mexico. We need to make that government better and end the corruption. If people have a better life in their country, they won't come over here.",
+        "author": {
+            "name": "Tony Garza",
+            "url": "/quotes/tony_garza_405696"
+        },
+        "topics": [
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            }
+        ]
+    }
+]

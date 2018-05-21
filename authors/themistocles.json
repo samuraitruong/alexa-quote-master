@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/themistocles_190358",
+        "quote": "I choose the likely man in preference to the rich man; I want a man without money rather than money without a man.",
+        "author": {
+            "name": "Themistocles",
+            "url": "/quotes/themistocles_190358"
+        },
+        "topics": [
+            {
+                "name": "Money",
+                "url": "/topics/money"
+            },
+            {
+                "name": "Rather",
+                "url": "/topics/rather"
+            },
+            {
+                "name": "Likely",
+                "url": "/topics/likely"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/themistocles_190359",
+        "quote": "I have with me two gods, Persuasion and Compulsion.",
+        "author": {
+            "name": "Themistocles",
+            "url": "/quotes/themistocles_190359"
+        },
+        "topics": [
+            {
+                "name": "Persuasion",
+                "url": "/topics/persuasion"
+            },
+            {
+                "name": "Gods",
+                "url": "/topics/gods"
+            },
+            {
+                "name": "Compulsion",
+                "url": "/topics/compulsion"
+            }
+        ]
+    }
+]

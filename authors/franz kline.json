@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/franz_kline_198755",
+        "quote": "If you're a painter, you're not alone. There's no way to be alone.",
+        "author": {
+            "name": "Franz Kline",
+            "url": "/quotes/franz_kline_198755"
+        },
+        "topics": [
+            {
+                "name": "Alone",
+                "url": "/topics/alone"
+            },
+            {
+                "name": "You",
+                "url": "/topics/you"
+            },
+            {
+                "name": "Painter",
+                "url": "/topics/painter"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/franz_kline_198757",
+        "quote": "The final test of a painting, theirs, mine, any other, is: does the painter's emotions come across?",
+        "author": {
+            "name": "Franz Kline",
+            "url": "/quotes/franz_kline_198757"
+        },
+        "topics": [
+            {
+                "name": "Painter",
+                "url": "/topics/painter"
+            },
+            {
+                "name": "Mine",
+                "url": "/topics/mine"
+            },
+            {
+                "name": "Across",
+                "url": "/topics/across"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/franz_kline_198754",
+        "quote": "The nature of anguish is translated into different forms.",
+        "author": {
+            "name": "Franz Kline",
+            "url": "/quotes/franz_kline_198754"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "Anguish",
+                "url": "/topics/anguish"
+            },
+            {
+                "name": "Translated",
+                "url": "/topics/translated"
+            }
+        ]
+    }
+]

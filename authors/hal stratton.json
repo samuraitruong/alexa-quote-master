@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/hal_stratton_405453",
+        "quote": "Back in the 1960s, the number of deaths each year from unintentional poisoning was 15 times greater than it is today.",
+        "author": {
+            "name": "Hal Stratton",
+            "url": "/quotes/hal_stratton_405453"
+        },
+        "topics": [
+            {
+                "name": "Back",
+                "url": "/topics/back"
+            },
+            {
+                "name": "Year",
+                "url": "/topics/year"
+            },
+            {
+                "name": "Each",
+                "url": "/topics/each"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/hal_stratton_405454",
+        "quote": "Companies need to understand that the quicker they report product safety problems to CPSC, the quicker we can take action together and protect consumers from injuries.",
+        "author": {
+            "name": "Hal Stratton",
+            "url": "/quotes/hal_stratton_405454"
+        },
+        "topics": [
+            {
+                "name": "Injuries",
+                "url": "/topics/injuries"
+            },
+            {
+                "name": "Product",
+                "url": "/topics/product"
+            },
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            }
+        ]
+    }
+]

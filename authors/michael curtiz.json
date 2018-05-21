@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/michael_curtiz_622676",
+        "quote": "So many times, I have a speech ready but no dice. Always a bridesmaid, never a mother.",
+        "author": {
+            "name": "Michael Curtiz",
+            "url": "/quotes/michael_curtiz_622676"
+        },
+        "topics": [
+            {
+                "name": "Mother",
+                "url": "/topics/mother"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/michael_curtiz_303561",
+        "quote": "The only things you regret are the things you don't do.",
+        "author": {
+            "name": "Michael Curtiz",
+            "url": "/quotes/michael_curtiz_303561"
+        },
+        "topics": [
+            {
+                "name": "Regret",
+                "url": "/topics/regret"
+            },
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            },
+            {
+                "name": "Things",
+                "url": "/topics/things"
+            }
+        ]
+    }
+]

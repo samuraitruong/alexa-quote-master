@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/laura_z_hobson_546740",
+        "quote": "I grew up in an agnostic broad-minded family.",
+        "author": {
+            "name": "Laura Z. Hobson",
+            "url": "/quotes/laura_z_hobson_546740"
+        },
+        "topics": [
+            {
+                "name": "Family",
+                "url": "/topics/family"
+            },
+            {
+                "name": "Agnostic",
+                "url": "/topics/agnostic"
+            },
+            {
+                "name": "Up",
+                "url": "/topics/up"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/laura_z_hobson_546741",
+        "quote": "I think of myself as a plain human being who happens to be an American.",
+        "author": {
+            "name": "Laura Z. Hobson",
+            "url": "/quotes/laura_z_hobson_546741"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Human Being",
+                "url": "/topics/human_being"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    }
+]

@@ -1,0 +1,156 @@
+[
+    {
+        "url": "/quotes/leonardo_da_vinci_154282?src=t_well-spent",
+        "quote": "As a well-spent day brings happy sleep, so a life well spent brings happy death.",
+        "author": {
+            "name": "Leonardo da Vinci",
+            "url": "/authors/leonardo_da_vinci"
+        },
+        "topics": [
+            {
+                "name": "Life",
+                "url": "/topics/life"
+            },
+            {
+                "name": "Sleep",
+                "url": "/topics/sleep"
+            },
+            {
+                "name": "Brings",
+                "url": "/topics/brings"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_carlyle_161117?src=t_well-spent",
+        "quote": "A well-written life is almost as rare as a well-spent one.",
+        "author": {
+            "name": "Thomas Carlyle",
+            "url": "/authors/thomas_carlyle"
+        },
+        "topics": [
+            {
+                "name": "Rare",
+                "url": "/topics/rare"
+            },
+            {
+                "name": "Almost",
+                "url": "/topics/almost"
+            },
+            {
+                "name": "Well-Written",
+                "url": "/topics/well-written"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/garry_trudeau_505083?src=t_well-spent",
+        "quote": "I'm still passionately interested in what my fellow humans are up to. For me, a day spent monitoring the passing parade is a day well-spent.",
+        "author": {
+            "name": "Garry Trudeau",
+            "url": "/authors/garry_trudeau"
+        },
+        "topics": [
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            },
+            {
+                "name": "Passionately",
+                "url": "/topics/passionately"
+            },
+            {
+                "name": "Spent",
+                "url": "/topics/spent"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/hugh_hefner_855396?src=t_well-spent",
+        "quote": "To pursue your dreams, to have them come true, to have made a difference, to have changed society, to have fought against powerful forces... that's a life well-spent.",
+        "author": {
+            "name": "Hugh Hefner",
+            "url": "/authors/hugh_hefner"
+        },
+        "topics": [
+            {
+                "name": "Against",
+                "url": "/topics/against"
+            },
+            {
+                "name": "Made",
+                "url": "/topics/made"
+            },
+            {
+                "name": "Fought",
+                "url": "/topics/fought"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_gates_626042?src=t_well-spent",
+        "quote": "Well-spent aid money is saving lives for a few thousand dollars per life saved.",
+        "author": {
+            "name": "Bill Gates",
+            "url": "/authors/bill_gates"
+        },
+        "topics": [
+            {
+                "name": "Money",
+                "url": "/topics/money"
+            },
+            {
+                "name": "Lives",
+                "url": "/topics/lives"
+            },
+            {
+                "name": "Saving",
+                "url": "/topics/saving"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/donna_tartt_233365?src=t_well-spent",
+        "quote": "Taking on challenging projects is the way that one grows and extends one's range as a writer, one's technical command, so I consider the time well-spent.",
+        "author": {
+            "name": "Donna Tartt",
+            "url": "/authors/donna_tartt"
+        },
+        "topics": [
+            {
+                "name": "Technical",
+                "url": "/topics/technical"
+            },
+            {
+                "name": "Grows",
+                "url": "/topics/grows"
+            },
+            {
+                "name": "Projects",
+                "url": "/topics/projects"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/maurice_chevalier_120188?src=t_well-spent",
+        "quote": "A comfortable old age is the reward of a well-spent youth. Instead of its bringing sad and melancholy prospects of decay, it would give us hopes of eternal youth in a better world.",
+        "author": {
+            "name": "Maurice Chevalier",
+            "url": "/authors/maurice_chevalier"
+        },
+        "topics": [
+            {
+                "name": "Age",
+                "url": "/topics/age"
+            },
+            {
+                "name": "Reward",
+                "url": "/topics/reward"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/joe_orton_161146",
+        "quote": "I'd the upbringing a nun would envy. Until I was fifteen I was more familiar with Africa than my own body.",
+        "author": {
+            "name": "Joe Orton",
+            "url": "/quotes/joe_orton_161146"
+        },
+        "topics": [
+            {
+                "name": "Envy",
+                "url": "/topics/envy"
+            },
+            {
+                "name": "Africa",
+                "url": "/topics/africa"
+            },
+            {
+                "name": "Fifteen",
+                "url": "/topics/fifteen"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joe_orton_178427",
+        "quote": "The humble and meek are thirsting for blood.",
+        "author": {
+            "name": "Joe Orton",
+            "url": "/quotes/joe_orton_178427"
+        },
+        "topics": [
+            {
+                "name": "Humble",
+                "url": "/topics/humble"
+            },
+            {
+                "name": "Blood",
+                "url": "/topics/blood"
+            },
+            {
+                "name": "Meek",
+                "url": "/topics/meek"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joe_orton_178428",
+        "quote": "The kind of people who always go on about whether a thing is in good taste invariably have very bad taste.",
+        "author": {
+            "name": "Joe Orton",
+            "url": "/quotes/joe_orton_178428"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Good Taste",
+                "url": "/topics/good_taste"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    }
+]

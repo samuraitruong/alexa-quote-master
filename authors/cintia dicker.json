@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/cintia_dicker_513104",
+        "quote": "Having balanced nutrition is also very important to keep my body in shape and healthy.",
+        "author": {
+            "name": "Cintia Dicker",
+            "url": "/quotes/cintia_dicker_513104"
+        },
+        "topics": [
+            {
+                "name": "Important",
+                "url": "/topics/important"
+            },
+            {
+                "name": "Nutrition",
+                "url": "/topics/nutrition"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/cintia_dicker_513105",
+        "quote": "I always have to pay attention to exercise and nutrition.",
+        "author": {
+            "name": "Cintia Dicker",
+            "url": "/quotes/cintia_dicker_513105"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Nutrition",
+                "url": "/topics/nutrition"
+            },
+            {
+                "name": "Pay",
+                "url": "/topics/pay"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/cintia_dicker_649849",
+        "quote": "Different is better. I get more jobs being different.",
+        "author": {
+            "name": "Cintia Dicker",
+            "url": "/quotes/cintia_dicker_649849"
+        },
+        "topics": [
+            {
+                "name": "Better",
+                "url": "/topics/better"
+            },
+            {
+                "name": "Being Different",
+                "url": "/topics/being_different"
+            },
+            {
+                "name": "Get",
+                "url": "/topics/get"
+            }
+        ]
+    }
+]

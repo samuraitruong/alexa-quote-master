@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/george_phillips_bond_199335",
+        "quote": "Madam: If you discover any more comets, can you not wait until they are announced by the proper authorities?",
+        "author": {
+            "name": "George Phillips Bond",
+            "url": "/quotes/george_phillips_bond_199335"
+        },
+        "topics": [
+            {
+                "name": "Wait",
+                "url": "/topics/wait"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Discover",
+                "url": "/topics/discover"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_phillips_bond_199334",
+        "quote": "I had planned to accomplish something considerable, and this is the end.",
+        "author": {
+            "name": "George Phillips Bond",
+            "url": "/quotes/george_phillips_bond_199334"
+        },
+        "topics": [
+            {
+                "name": "Accomplish",
+                "url": "/topics/accomplish"
+            },
+            {
+                "name": "Considerable",
+                "url": "/topics/considerable"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_phillips_bond_199339",
+        "quote": "Until very recently, the heavenly bodies have been investigated only with reference to their position and their laws of motion, and a quarter of a century ago astronomy was little more than celestial topography.",
+        "author": {
+            "name": "George Phillips Bond",
+            "url": "/quotes/george_phillips_bond_199339"
+        },
+        "topics": [
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Heavenly Bodies",
+                "url": "/topics/heavenly_bodies"
+            }
+        ]
+    }
+]

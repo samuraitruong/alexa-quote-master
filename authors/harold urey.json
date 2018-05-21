@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/harold_urey_731757",
+        "quote": "Nature can always be more complicated than we imagine.",
+        "author": {
+            "name": "Harold Urey",
+            "url": "/quotes/harold_urey_731757"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Imagine",
+                "url": "/topics/imagine"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/harold_urey_731756",
+        "quote": "The space program is not only scientific in purpose but also is an expression of man's insistent determination to do the nearly impossible - to explore the unknown, even at great risk.",
+        "author": {
+            "name": "Harold Urey",
+            "url": "/quotes/harold_urey_731756"
+        },
+        "topics": [
+            {
+                "name": "Purpose",
+                "url": "/topics/purpose"
+            },
+            {
+                "name": "Explore",
+                "url": "/topics/explore"
+            },
+            {
+                "name": "Expression",
+                "url": "/topics/expression"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/harold_urey_731754",
+        "quote": "In general, exchange reactions for the lighter isotopes have equilibrium constants sufficiently different from unity, so that the ratios of concentrations of the isotopes in two compounds which are in equilibrium differ by a few per cents in nearly all cases.",
+        "author": {
+            "name": "Harold Urey",
+            "url": "/quotes/harold_urey_731754"
+        },
+        "topics": [
+            {
+                "name": "Two",
+                "url": "/topics/two"
+            },
+            {
+                "name": "Sufficiently",
+                "url": "/topics/sufficiently"
+            },
+            {
+                "name": "Nearly",
+                "url": "/topics/nearly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/harold_urey_731755",
+        "quote": "The discovery of deuterium and the marked differences in the physical and chemical properties of hydrogen and deuterium, together with an efficient method for the separation of these isotopes, have opened an interesting field of research in several of the major branches of science.",
+        "author": {
+            "name": "Harold Urey",
+            "url": "/quotes/harold_urey_731755"
+        },
+        "topics": [
+            {
+                "name": "Marked",
+                "url": "/topics/marked"
+            },
+            {
+                "name": "Method",
+                "url": "/topics/method"
+            },
+            {
+                "name": "Efficient",
+                "url": "/topics/efficient"
+            }
+        ]
+    }
+]

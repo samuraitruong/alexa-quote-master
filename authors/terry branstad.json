@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/terry_branstad_450601",
+        "quote": "You can't borrow your way to prosperity.",
+        "author": {
+            "name": "Terry Branstad",
+            "url": "/quotes/terry_branstad_450601"
+        },
+        "topics": [
+            {
+                "name": "Prosperity",
+                "url": "/topics/prosperity"
+            },
+            {
+                "name": "Borrow",
+                "url": "/topics/borrow"
+            },
+            {
+                "name": "Your",
+                "url": "/topics/your"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/terry_branstad_450603",
+        "quote": "Iowa voters are intelligent enough to make up their minds.",
+        "author": {
+            "name": "Terry Branstad",
+            "url": "/quotes/terry_branstad_450603"
+        },
+        "topics": [
+            {
+                "name": "Minds",
+                "url": "/topics/minds"
+            },
+            {
+                "name": "Iowa",
+                "url": "/topics/iowa"
+            },
+            {
+                "name": "Voters",
+                "url": "/topics/voters"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/terry_branstad_450600",
+        "quote": "I'm going to announce in the very near future, I'm going to lead by example and start paying 20 percent of my health insurance.",
+        "author": {
+            "name": "Terry Branstad",
+            "url": "/quotes/terry_branstad_450600"
+        },
+        "topics": [
+            {
+                "name": "Insurance",
+                "url": "/topics/insurance"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/terry_branstad_450602",
+        "quote": "Iowans do understand the importance of breaking down barriers and increasing international trade.",
+        "author": {
+            "name": "Terry Branstad",
+            "url": "/quotes/terry_branstad_450602"
+        },
+        "topics": [
+            {
+                "name": "Trade",
+                "url": "/topics/trade"
+            },
+            {
+                "name": "International Trade",
+                "url": "/topics/international_trade"
+            }
+        ]
+    }
+]

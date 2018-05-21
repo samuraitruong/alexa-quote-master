@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/richard_marquand_610006",
+        "quote": "I was a great admirer of George Lucas' work.",
+        "author": {
+            "name": "Richard Marquand",
+            "url": "/quotes/richard_marquand_610006"
+        },
+        "topics": [
+            {
+                "name": "George Lucas",
+                "url": "/topics/george_lucas"
+            },
+            {
+                "name": "Admirer",
+                "url": "/topics/admirer"
+            },
+            {
+                "name": "Lucas",
+                "url": "/topics/lucas"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/richard_marquand_610007",
+        "quote": "I am a tremendous 'Star Wars' fan; I know the story means an enormous love to me. I love the characters.",
+        "author": {
+            "name": "Richard Marquand",
+            "url": "/quotes/richard_marquand_610007"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Star",
+                "url": "/topics/star"
+            },
+            {
+                "name": "Means",
+                "url": "/topics/means"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/richard_marquand_610008",
+        "quote": "I'm very interested in directing actors - many directors direct cameras.",
+        "author": {
+            "name": "Richard Marquand",
+            "url": "/quotes/richard_marquand_610008"
+        },
+        "topics": [
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Cameras",
+                "url": "/topics/cameras"
+            },
+            {
+                "name": "Directors",
+                "url": "/topics/directors"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/richard_marquand_610009",
+        "quote": "It's my life. I only got one, and it's very short. You don't get long.",
+        "author": {
+            "name": "Richard Marquand",
+            "url": "/quotes/richard_marquand_610009"
+        },
+        "topics": [
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Got",
+                "url": "/topics/got"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    }
+]

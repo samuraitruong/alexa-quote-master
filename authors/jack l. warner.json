@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/jack_l_warner_207417",
+        "quote": "Some ticket buyers think they don't like Jews.",
+        "author": {
+            "name": "Jack L. Warner",
+            "url": "/quotes/jack_l_warner_207417"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Ticket",
+                "url": "/topics/ticket"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jack_l_warner_207418",
+        "quote": "I've got America's best writer for $300 a week.",
+        "author": {
+            "name": "Jack L. Warner",
+            "url": "/quotes/jack_l_warner_207418"
+        },
+        "topics": [
+            {
+                "name": "Best",
+                "url": "/topics/best"
+            },
+            {
+                "name": "Week",
+                "url": "/topics/week"
+            },
+            {
+                "name": "Writer",
+                "url": "/topics/writer"
+            }
+        ]
+    }
+]

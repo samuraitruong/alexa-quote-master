@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/philo_103409",
+        "quote": "Be kind, for everyone you meet is fighting a hard battle.",
+        "author": {
+            "name": "Philo",
+            "url": "/quotes/philo_103409"
+        },
+        "topics": [
+            {
+                "name": "Battle",
+                "url": "/topics/battle"
+            },
+            {
+                "name": "Meet",
+                "url": "/topics/meet"
+            },
+            {
+                "name": "Everyone",
+                "url": "/topics/everyone"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/philo_160501",
+        "quote": "Households, cities, countries, and nations have enjoyed great happiness when a single individual has taken heed of the Good and Beautiful. Such people not only liberate themselves; they fill those they meet with a free mind.",
+        "author": {
+            "name": "Philo",
+            "url": "/quotes/philo_160501"
+        },
+        "topics": [
+            {
+                "name": "Good",
+                "url": "/topics/good"
+            },
+            {
+                "name": "Nations",
+                "url": "/topics/nations"
+            },
+            {
+                "name": "Liberate",
+                "url": "/topics/liberate"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/philo_160502",
+        "quote": "Those who give hoping to be rewarded with honor are not giving, they are bargaining.",
+        "author": {
+            "name": "Philo",
+            "url": "/quotes/philo_160502"
+        },
+        "topics": [
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            },
+            {
+                "name": "Hoping",
+                "url": "/topics/hoping"
+            },
+            {
+                "name": "Bargaining",
+                "url": "/topics/bargaining"
+            }
+        ]
+    }
+]

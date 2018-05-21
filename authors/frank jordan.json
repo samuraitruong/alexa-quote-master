@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/frank_jordan_202373",
+        "quote": "We daily share emotions, our personal and shared needs and hope.",
+        "author": {
+            "name": "Frank Jordan",
+            "url": "/quotes/frank_jordan_202373"
+        },
+        "topics": [
+            {
+                "name": "Emotions",
+                "url": "/topics/emotions"
+            },
+            {
+                "name": "Needs",
+                "url": "/topics/needs"
+            },
+            {
+                "name": "Shared",
+                "url": "/topics/shared"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/frank_jordan_202374",
+        "quote": "Our extended family is an integral part of our daily lives and Connie and I welcome you with open arms.",
+        "author": {
+            "name": "Frank Jordan",
+            "url": "/quotes/frank_jordan_202374"
+        },
+        "topics": [
+            {
+                "name": "Extended Family",
+                "url": "/topics/extended_family"
+            },
+            {
+                "name": "Part",
+                "url": "/topics/part"
+            },
+            {
+                "name": "Lives",
+                "url": "/topics/lives"
+            }
+        ]
+    }
+]

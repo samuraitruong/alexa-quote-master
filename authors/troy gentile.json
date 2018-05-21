@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/troy_gentile_672589",
+        "quote": "Homemade stuffing is my favorite thing about Thanksgiving. I wish people served it more than just once a year.",
+        "author": {
+            "name": "Troy Gentile",
+            "url": "/quotes/troy_gentile_672589"
+        },
+        "topics": [
+            {
+                "name": "I Wish",
+                "url": "/topics/i_wish"
+            },
+            {
+                "name": "Homemade",
+                "url": "/topics/homemade"
+            },
+            {
+                "name": "Stuffing",
+                "url": "/topics/stuffing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/troy_gentile_672590",
+        "quote": "I am originally from Florida. So Thanksgiving was always something I really looked forward to, because I got to travel back home every year and see everyone all at once, around one big happy table.",
+        "author": {
+            "name": "Troy Gentile",
+            "url": "/quotes/troy_gentile_672590"
+        },
+        "topics": [
+            {
+                "name": "Year",
+                "url": "/topics/year"
+            },
+            {
+                "name": "Florida",
+                "url": "/topics/florida"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            }
+        ]
+    }
+]

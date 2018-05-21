@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/dave_anderson_110537",
+        "quote": "Instead of sailing off into the sunset, he hopes to sail into the next century.",
+        "author": {
+            "name": "Dave Anderson",
+            "url": "/quotes/dave_anderson_110537"
+        },
+        "topics": [
+            {
+                "name": "Sail",
+                "url": "/topics/sail"
+            },
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            },
+            {
+                "name": "Century",
+                "url": "/topics/century"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dave_anderson_162098",
+        "quote": "Dennis Conner is Pete Rose in deck shoes.",
+        "author": {
+            "name": "Dave Anderson",
+            "url": "/quotes/dave_anderson_162098"
+        },
+        "topics": [
+            {
+                "name": "Rose",
+                "url": "/topics/rose"
+            },
+            {
+                "name": "Deck",
+                "url": "/topics/deck"
+            },
+            {
+                "name": "Pete Rose",
+                "url": "/topics/pete_rose"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dave_anderson_381209",
+        "quote": "Many Americans don't have an understanding of the freedoms they regularly enjoy.",
+        "author": {
+            "name": "Dave Anderson",
+            "url": "/quotes/dave_anderson_381209"
+        },
+        "topics": [
+            {
+                "name": "Understanding",
+                "url": "/topics/understanding"
+            },
+            {
+                "name": "Regularly",
+                "url": "/topics/regularly"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/alex_karras_104204",
+        "quote": "Toughness is in the soul and spirit, not in muscles.",
+        "author": {
+            "name": "Alex Karras",
+            "url": "/quotes/alex_karras_104204"
+        },
+        "topics": [
+            {
+                "name": "Soul",
+                "url": "/topics/soul"
+            },
+            {
+                "name": "Spirit",
+                "url": "/topics/spirit"
+            },
+            {
+                "name": "Muscles",
+                "url": "/topics/muscles"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alex_karras_169790",
+        "quote": "My best score ever is 103, but I've only been playing 15 years.",
+        "author": {
+            "name": "Alex Karras",
+            "url": "/quotes/alex_karras_169790"
+        },
+        "topics": [
+            {
+                "name": "Score",
+                "url": "/topics/score"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Ever",
+                "url": "/topics/ever"
+            }
+        ]
+    }
+]

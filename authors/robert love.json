@@ -1,0 +1,244 @@
+[
+    {
+        "url": "/quotes/robert_love_732084",
+        "quote": "The interesting thing about Android's design is how little we modified the kernel.",
+        "author": {
+            "name": "Robert Love",
+            "url": "/quotes/robert_love_732084"
+        },
+        "topics": [
+            {
+                "name": "Interesting",
+                "url": "/topics/interesting"
+            },
+            {
+                "name": "How",
+                "url": "/topics/how"
+            },
+            {
+                "name": "Kernel",
+                "url": "/topics/kernel"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_love_732082",
+        "quote": "Mobile devices such as Android and the iPhone achieve their battery life largely because they can aggressively and quickly enter into and exit from sleep states. GPS prevents this.",
+        "author": {
+            "name": "Robert Love",
+            "url": "/quotes/robert_love_732082"
+        },
+        "topics": [
+            {
+                "name": "Achieve",
+                "url": "/topics/achieve"
+            },
+            {
+                "name": "Android",
+                "url": "/topics/android"
+            },
+            {
+                "name": "Devices",
+                "url": "/topics/devices"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_love_732077",
+        "quote": "Learn when and how to use different data structures and their algorithms in your own code. This is harder as a student, as the problem assignments you'll work through just won't impart this knowledge. That's fine.",
+        "author": {
+            "name": "Robert Love",
+            "url": "/quotes/robert_love_732077"
+        },
+        "topics": [
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Code",
+                "url": "/topics/code"
+            },
+            {
+                "name": "Assignments",
+                "url": "/topics/assignments"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_love_732079",
+        "quote": "Good candidates can arrive at the binary search tree as the right path in a few minutes, and then take 10-15 minutes working through the rest of the problem and the other roadblocks I toss out. But occasionally I get a candidate who 'intuitively understands' trees and can visualize the problem I'm presenting.",
+        "author": {
+            "name": "Robert Love",
+            "url": "/quotes/robert_love_732079"
+        },
+        "topics": [
+            {
+                "name": "Good",
+                "url": "/topics/good"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_love_732080",
+        "quote": "GPS's battery draining behavior is most noticeable during the initial acquisition of the satellite's navigation message: the satellite's state, ephemeris, and almanac.",
+        "author": {
+            "name": "Robert Love",
+            "url": "/quotes/robert_love_732080"
+        },
+        "topics": [
+            {
+                "name": "Battery",
+                "url": "/topics/battery"
+            },
+            {
+                "name": "Initial",
+                "url": "/topics/initial"
+            },
+            {
+                "name": "Noticeable",
+                "url": "/topics/noticeable"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_love_732076",
+        "quote": "The key to a solid foundation in data structures and algorithms is not an exhaustive survey of every conceivable data structure and its subforms, with memorization of each's Big-O value and amortized cost.",
+        "author": {
+            "name": "Robert Love",
+            "url": "/quotes/robert_love_732076"
+        },
+        "topics": [
+            {
+                "name": "Data",
+                "url": "/topics/data"
+            },
+            {
+                "name": "Cost",
+                "url": "/topics/cost"
+            },
+            {
+                "name": "Solid",
+                "url": "/topics/solid"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_love_732078",
+        "quote": "Realize you won't master data structures until you are working on a real-world problem and discover that a hash is the solution to your performance woes.",
+        "author": {
+            "name": "Robert Love",
+            "url": "/quotes/robert_love_732078"
+        },
+        "topics": [
+            {
+                "name": "Data",
+                "url": "/topics/data"
+            },
+            {
+                "name": "Structures",
+                "url": "/topics/structures"
+            },
+            {
+                "name": "Discover",
+                "url": "/topics/discover"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_love_732081",
+        "quote": "GPS is expensive because it is a very slow communication channel - you need to communicate with three or four satellites for an extended duration at 50 bits per second.",
+        "author": {
+            "name": "Robert Love",
+            "url": "/quotes/robert_love_732081"
+        },
+        "topics": [
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Satellites",
+                "url": "/topics/satellites"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_love_732083",
+        "quote": "Compounding the cost, most mapping software is processor-intense.",
+        "author": {
+            "name": "Robert Love",
+            "url": "/quotes/robert_love_732083"
+        },
+        "topics": [
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "Compounding",
+                "url": "/topics/compounding"
+            },
+            {
+                "name": "Mapping",
+                "url": "/topics/mapping"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_love_732085",
+        "quote": "Android's user-space is so different from stock Linux, you can easily say that Android is not in any way a Linux system, except for the kernel.",
+        "author": {
+            "name": "Robert Love",
+            "url": "/quotes/robert_love_732085"
+        },
+        "topics": [
+            {
+                "name": "Say",
+                "url": "/topics/say"
+            },
+            {
+                "name": "Android",
+                "url": "/topics/android"
+            },
+            {
+                "name": "Kernel",
+                "url": "/topics/kernel"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_love_732086",
+        "quote": "Zero-length arrays are useful only in cases where you have a large structure, which contains a field of dynamic length, and you need to share that structure across program or even computer boundaries.",
+        "author": {
+            "name": "Robert Love",
+            "url": "/quotes/robert_love_732086"
+        },
+        "topics": [
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Large",
+                "url": "/topics/large"
+            },
+            {
+                "name": "Cases",
+                "url": "/topics/cases"
+            }
+        ]
+    }
+]

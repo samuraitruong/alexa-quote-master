@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/jake_short_563707",
+        "quote": "Since I'm homeschooled, I don't get much kid interaction, so I started at this gym and I got to meet other kids. I actually met one of my best friends there; we hang out all the time.",
+        "author": {
+            "name": "Jake Short",
+            "url": "/quotes/jake_short_563707"
+        },
+        "topics": [
+            {
+                "name": "Kid",
+                "url": "/topics/kid"
+            },
+            {
+                "name": "Hang",
+                "url": "/topics/hang"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jake_short_563708",
+        "quote": "I play on a soccer team.",
+        "author": {
+            "name": "Jake Short",
+            "url": "/quotes/jake_short_563708"
+        },
+        "topics": [
+            {
+                "name": "Team",
+                "url": "/topics/team"
+            },
+            {
+                "name": "Soccer",
+                "url": "/topics/soccer"
+            },
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jake_short_563709",
+        "quote": "I do tumbling and flips; there's a gym I go to for that.",
+        "author": {
+            "name": "Jake Short",
+            "url": "/quotes/jake_short_563709"
+        },
+        "topics": [
+            {
+                "name": "Gym",
+                "url": "/topics/gym"
+            },
+            {
+                "name": "Go",
+                "url": "/topics/go"
+            },
+            {
+                "name": "Flips",
+                "url": "/topics/flips"
+            }
+        ]
+    }
+]

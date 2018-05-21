@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/thomas_harris_190761",
+        "quote": "Problem solving is hunting. It is savage pleasure and we are born to it.",
+        "author": {
+            "name": "Thomas Harris",
+            "url": "/quotes/thomas_harris_190761"
+        },
+        "topics": [
+            {
+                "name": "Problem",
+                "url": "/topics/problem"
+            },
+            {
+                "name": "Pleasure",
+                "url": "/topics/pleasure"
+            },
+            {
+                "name": "Solving",
+                "url": "/topics/solving"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_harris_190759",
+        "quote": "Nothing makes us more vulnerable than loneliness, except greed.",
+        "author": {
+            "name": "Thomas Harris",
+            "url": "/quotes/thomas_harris_190759"
+        },
+        "topics": [
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Vulnerable",
+                "url": "/topics/vulnerable"
+            }
+        ]
+    }
+]

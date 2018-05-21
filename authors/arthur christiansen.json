@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/arthur_christiansen_111271",
+        "quote": "News, news, news - that is what we want. You cannot beat news in a newspaper.",
+        "author": {
+            "name": "Arthur Christiansen",
+            "url": "/quotes/arthur_christiansen_111271"
+        },
+        "topics": [
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "News",
+                "url": "/topics/news"
+            },
+            {
+                "name": "Newspaper",
+                "url": "/topics/newspaper"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/arthur_christiansen_111273",
+        "quote": "Good stories flow like honey. Bad stories stick in the craw. A bad story? One that cannot be absorbed on the first time of reading.",
+        "author": {
+            "name": "Arthur Christiansen",
+            "url": "/quotes/arthur_christiansen_111273"
+        },
+        "topics": [
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Stories",
+                "url": "/topics/stories"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/arthur_christiansen_162157",
+        "quote": "We never waste space saying, 'On the one hand.' We just state an opinion in a Godlike voice.",
+        "author": {
+            "name": "Arthur Christiansen",
+            "url": "/quotes/arthur_christiansen_162157"
+        },
+        "topics": [
+            {
+                "name": "Voice",
+                "url": "/topics/voice"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Waste",
+                "url": "/topics/waste"
+            }
+        ]
+    }
+]

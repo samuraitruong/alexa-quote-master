@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/dorothy_stang_366790",
+        "quote": "The death of the forest is the end of our life.",
+        "author": {
+            "name": "Dorothy Stang",
+            "url": "/quotes/dorothy_stang_366790"
+        },
+        "topics": [
+            {
+                "name": "Death",
+                "url": "/topics/death"
+            },
+            {
+                "name": "End",
+                "url": "/topics/end"
+            },
+            {
+                "name": "Forest",
+                "url": "/topics/forest"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dorothy_stang_333032",
+        "quote": "I don't want to flee, nor do I want to abandon the battle of these farmers who live without any protection in the forest. They have the sacrosanct right to aspire to a better life on land where they can live and work with dignity while respecting the environment.",
+        "author": {
+            "name": "Dorothy Stang",
+            "url": "/quotes/dorothy_stang_333032"
+        },
+        "topics": [
+            {
+                "name": "Forest",
+                "url": "/topics/forest"
+            },
+            {
+                "name": "Respecting",
+                "url": "/topics/respecting"
+            },
+            {
+                "name": "Flee",
+                "url": "/topics/flee"
+            }
+        ]
+    }
+]

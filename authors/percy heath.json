@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/percy_heath_220493",
+        "quote": "Jazz is letting everybody do his or her thing with the music.",
+        "author": {
+            "name": "Percy Heath",
+            "url": "/quotes/percy_heath_220493"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "Everybody",
+                "url": "/topics/everybody"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/percy_heath_220496",
+        "quote": "I had to go to Europe to tour and he died on the second day of the tour.",
+        "author": {
+            "name": "Percy Heath",
+            "url": "/quotes/percy_heath_220496"
+        },
+        "topics": [
+            {
+                "name": "Go",
+                "url": "/topics/go"
+            },
+            {
+                "name": "Had",
+                "url": "/topics/had"
+            },
+            {
+                "name": "Died",
+                "url": "/topics/died"
+            }
+        ]
+    }
+]

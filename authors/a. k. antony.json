@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/a_k_antony_509077",
+        "quote": "There is no compromise when it comes to corruption. You have to fight it.",
+        "author": {
+            "name": "A. K. Antony",
+            "url": "/quotes/a_k_antony_509077"
+        },
+        "topics": [
+            {
+                "name": "Corruption",
+                "url": "/topics/corruption"
+            },
+            {
+                "name": "Compromise",
+                "url": "/topics/compromise"
+            },
+            {
+                "name": "You",
+                "url": "/topics/you"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/a_k_antony_509075",
+        "quote": "There is no conclusive proof of Unidentified Flying Objects flying over India-China border.",
+        "author": {
+            "name": "A. K. Antony",
+            "url": "/quotes/a_k_antony_509075"
+        },
+        "topics": [
+            {
+                "name": "Border",
+                "url": "/topics/border"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Conclusive",
+                "url": "/topics/conclusive"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/a_k_antony_509076",
+        "quote": "All my life I have fought corruption.",
+        "author": {
+            "name": "A. K. Antony",
+            "url": "/quotes/a_k_antony_509076"
+        },
+        "topics": [
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "All My Life",
+                "url": "/topics/all_my_life"
+            },
+            {
+                "name": "Fought",
+                "url": "/topics/fought"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/a_k_antony_509078",
+        "quote": "I don't do office work at home.",
+        "author": {
+            "name": "A. K. Antony",
+            "url": "/quotes/a_k_antony_509078"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Home",
+                "url": "/topics/home"
+            },
+            {
+                "name": "Office",
+                "url": "/topics/office"
+            }
+        ]
+    }
+]

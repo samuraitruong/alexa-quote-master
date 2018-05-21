@@ -1,0 +1,82 @@
+[
+    {
+        "url": "/quotes/francois_jacob_204381",
+        "quote": "Evolution is a tinkerer.",
+        "author": {
+            "name": "Francois Jacob",
+            "url": "/quotes/francois_jacob_204381"
+        },
+        "topics": [
+            {
+                "name": "Evolution",
+                "url": "/topics/evolution"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/francois_jacob_204379",
+        "quote": "For me, this world of questions and the provisional, this chase after an answer that was always put off to the next day, all that was euphoric. I lived in the future.",
+        "author": {
+            "name": "Francois Jacob",
+            "url": "/quotes/francois_jacob_204379"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            },
+            {
+                "name": "Provisional",
+                "url": "/topics/provisional"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/francois_jacob_204380",
+        "quote": "I had turned my anxiety into my profession.",
+        "author": {
+            "name": "Francois Jacob",
+            "url": "/quotes/francois_jacob_204380"
+        },
+        "topics": [
+            {
+                "name": "Anxiety",
+                "url": "/topics/anxiety"
+            },
+            {
+                "name": "Turned",
+                "url": "/topics/turned"
+            },
+            {
+                "name": "Profession",
+                "url": "/topics/profession"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/francois_jacob_204382",
+        "quote": "One of the deepest functions of a living organisms is to look ahead... to produce future.",
+        "author": {
+            "name": "Francois Jacob",
+            "url": "/quotes/francois_jacob_204382"
+        },
+        "topics": [
+            {
+                "name": "Living",
+                "url": "/topics/living"
+            },
+            {
+                "name": "Deepest",
+                "url": "/topics/deepest"
+            },
+            {
+                "name": "Functions",
+                "url": "/topics/functions"
+            }
+        ]
+    }
+]

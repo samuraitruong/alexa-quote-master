@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/kim_casali_676250",
+        "quote": "If you've got love you've got life, if you can love you can live.",
+        "author": {
+            "name": "Kim Casali",
+            "url": "/quotes/kim_casali_676250"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Love You",
+                "url": "/topics/love_you"
+            },
+            {
+                "name": "Got",
+                "url": "/topics/got"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kim_casali_676249",
+        "quote": "Love is... never asking for more than you are prepared to give.",
+        "author": {
+            "name": "Kim Casali",
+            "url": "/quotes/kim_casali_676249"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            }
+        ]
+    }
+]

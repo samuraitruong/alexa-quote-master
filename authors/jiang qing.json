@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/jiang_qing_346971",
+        "quote": "There cannot be peaceful coexistence in the ideological realm. Peaceful coexistence corrupts.",
+        "author": {
+            "name": "Jiang Qing",
+            "url": "/quotes/jiang_qing_346971"
+        },
+        "topics": [
+            {
+                "name": "Ideological",
+                "url": "/topics/ideological"
+            },
+            {
+                "name": "Coexistence",
+                "url": "/topics/coexistence"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jiang_qing_145098",
+        "quote": "I was Chairman Mao's dog. What he said to bite, I bit.",
+        "author": {
+            "name": "Jiang Qing",
+            "url": "/quotes/jiang_qing_145098"
+        },
+        "topics": [
+            {
+                "name": "Bite",
+                "url": "/topics/bite"
+            },
+            {
+                "name": "Chairman",
+                "url": "/topics/chairman"
+            },
+            {
+                "name": "Mao",
+                "url": "/topics/mao"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/alexandr_dolgopolov_428712",
+        "quote": "I hit the ball early and move my wrist a lot, so I get bigger angles.",
+        "author": {
+            "name": "Alexandr Dolgopolov",
+            "url": "/quotes/alexandr_dolgopolov_428712"
+        },
+        "topics": [
+            {
+                "name": "Ball",
+                "url": "/topics/ball"
+            },
+            {
+                "name": "Lot",
+                "url": "/topics/lot"
+            },
+            {
+                "name": "Hit",
+                "url": "/topics/hit"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alexandr_dolgopolov_428713",
+        "quote": "I had classic technique - one of the best techniques when I was like 10, 12, but then I changed.",
+        "author": {
+            "name": "Alexandr Dolgopolov",
+            "url": "/quotes/alexandr_dolgopolov_428713"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Technique",
+                "url": "/topics/technique"
+            },
+            {
+                "name": "Had",
+                "url": "/topics/had"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/irwin_corey_137603",
+        "quote": "If we don't change direction soon, we'll end up where we're going.",
+        "author": {
+            "name": "Irwin Corey",
+            "url": "/quotes/irwin_corey_137603"
+        },
+        "topics": [
+            {
+                "name": "Change",
+                "url": "/topics/change"
+            },
+            {
+                "name": "End",
+                "url": "/topics/end"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/irwin_corey_106650",
+        "quote": "Marriage is like a bank account. You put it in, you take it out, you lose interest.",
+        "author": {
+            "name": "Irwin Corey",
+            "url": "/quotes/irwin_corey_106650"
+        },
+        "topics": [
+            {
+                "name": "Bank",
+                "url": "/topics/bank"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Take",
+                "url": "/topics/take"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/irwin_corey_137604",
+        "quote": "When your IQ rises to 28, sell.",
+        "author": {
+            "name": "Irwin Corey",
+            "url": "/quotes/irwin_corey_137604"
+        },
+        "topics": [
+            {
+                "name": "IQ",
+                "url": "/topics/iq"
+            },
+            {
+                "name": "Sell",
+                "url": "/topics/sell"
+            },
+            {
+                "name": "Your",
+                "url": "/topics/your"
+            }
+        ]
+    }
+]

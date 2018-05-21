@@ -1,0 +1,82 @@
+[
+    {
+        "url": "/quotes/antiphanes_177446",
+        "quote": "Everything yields to diligence.",
+        "author": {
+            "name": "Antiphanes",
+            "url": "/quotes/antiphanes_177446"
+        },
+        "topics": [
+            {
+                "name": "Everything",
+                "url": "/topics/everything"
+            },
+            {
+                "name": "Yields",
+                "url": "/topics/yields"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/antiphanes_177449",
+        "quote": "The quest for riches darkens the sense of right and wrong.",
+        "author": {
+            "name": "Antiphanes",
+            "url": "/quotes/antiphanes_177449"
+        },
+        "topics": [
+            {
+                "name": "Right",
+                "url": "/topics/right"
+            },
+            {
+                "name": "Sense",
+                "url": "/topics/sense"
+            },
+            {
+                "name": "Riches",
+                "url": "/topics/riches"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/antiphanes_177447",
+        "quote": "Old age is, so to speak, the sanctuary of ills: they all take refuge in it.",
+        "author": {
+            "name": "Antiphanes",
+            "url": "/quotes/antiphanes_177447"
+        },
+        "topics": [
+            {
+                "name": "Sanctuary",
+                "url": "/topics/sanctuary"
+            },
+            {
+                "name": "Old",
+                "url": "/topics/old"
+            },
+            {
+                "name": "Take",
+                "url": "/topics/take"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/antiphanes_177448",
+        "quote": "Poverty is the schoolmaster of character.",
+        "author": {
+            "name": "Antiphanes",
+            "url": "/quotes/antiphanes_177448"
+        },
+        "topics": [
+            {
+                "name": "Character",
+                "url": "/topics/character"
+            },
+            {
+                "name": "Schoolmaster",
+                "url": "/topics/schoolmaster"
+            }
+        ]
+    }
+]

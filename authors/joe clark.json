@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/joe_clark_380944",
+        "quote": "Self-respect permeates every aspect of your life.",
+        "author": {
+            "name": "Joe Clark",
+            "url": "/quotes/joe_clark_380944"
+        },
+        "topics": [
+            {
+                "name": "Self-Respect",
+                "url": "/topics/self-respect"
+            },
+            {
+                "name": "Your",
+                "url": "/topics/your"
+            },
+            {
+                "name": "Aspect",
+                "url": "/topics/aspect"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joe_clark_187909",
+        "quote": "The issue in Web accessibility is the fact that blind and visually-impaired people need the single biggest boost to achieve equivalence, since the real-world Web is a visual medium.",
+        "author": {
+            "name": "Joe Clark",
+            "url": "/quotes/joe_clark_187909"
+        },
+        "topics": [
+            {
+                "name": "Blind",
+                "url": "/topics/blind"
+            },
+            {
+                "name": "Fact",
+                "url": "/topics/fact"
+            },
+            {
+                "name": "Issue",
+                "url": "/topics/issue"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joe_clark_388684",
+        "quote": "There's what we expect bears to do and then there's what they do. Sometimes the two don't match.",
+        "author": {
+            "name": "Joe Clark",
+            "url": "/quotes/joe_clark_388684"
+        },
+        "topics": [
+            {
+                "name": "Sometimes",
+                "url": "/topics/sometimes"
+            },
+            {
+                "name": "Expect",
+                "url": "/topics/expect"
+            },
+            {
+                "name": "Match",
+                "url": "/topics/match"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joe_clark_187915",
+        "quote": "'Authoring tools' are terrible; there is almost no software that can create closed captions for media players. And of course there is no training. TV captioning is bad enough, and this stuff is generally worse.",
+        "author": {
+            "name": "Joe Clark",
+            "url": "/quotes/joe_clark_187915"
+        },
+        "topics": [
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            },
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "TV",
+                "url": "/topics/tv"
+            }
+        ]
+    }
+]

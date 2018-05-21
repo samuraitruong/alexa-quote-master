@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/leona_helmsley_126543",
+        "quote": "We don't pay taxes. Only the little people pay taxes.",
+        "author": {
+            "name": "Leona Helmsley",
+            "url": "/quotes/leona_helmsley_126543"
+        },
+        "topics": [
+            {
+                "name": "Pay",
+                "url": "/topics/pay"
+            },
+            {
+                "name": "Taxes",
+                "url": "/topics/taxes"
+            },
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/leona_helmsley_530175",
+        "quote": "I've always wanted to be the biggest real estate man to come down the pike.",
+        "author": {
+            "name": "Leona Helmsley",
+            "url": "/quotes/leona_helmsley_530175"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Wanted",
+                "url": "/topics/wanted"
+            },
+            {
+                "name": "Biggest",
+                "url": "/topics/biggest"
+            }
+        ]
+    }
+]

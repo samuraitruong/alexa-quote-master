@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/jan_mark_758203",
+        "quote": "The beauties of the game may be lost on some of us sometimes, but many children will read about football when they will read nothing else, not for realism or glamour but for romance.",
+        "author": {
+            "name": "Jan Mark",
+            "url": "/quotes/jan_mark_758203"
+        },
+        "topics": [
+            {
+                "name": "Game",
+                "url": "/topics/game"
+            },
+            {
+                "name": "Romance",
+                "url": "/topics/romance"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jan_mark_758201",
+        "quote": "Writers don't write about people they know. They write what they know about people.",
+        "author": {
+            "name": "Jan Mark",
+            "url": "/quotes/jan_mark_758201"
+        },
+        "topics": [
+            {
+                "name": "Know",
+                "url": "/topics/know"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Writers",
+                "url": "/topics/writers"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jan_mark_758202",
+        "quote": "When writers for adults contemplate Venice, they behold decay, dereliction and death. Thomas Mann, Daphne du Maurier, L. P. Hartley and Salley Vickers have all dispatched hapless protagonists to Italy, where they see Venice - and die.",
+        "author": {
+            "name": "Jan Mark",
+            "url": "/quotes/jan_mark_758202"
+        },
+        "topics": [
+            {
+                "name": "Death",
+                "url": "/topics/death"
+            },
+            {
+                "name": "Die",
+                "url": "/topics/die"
+            },
+            {
+                "name": "Decay",
+                "url": "/topics/decay"
+            }
+        ]
+    }
+]

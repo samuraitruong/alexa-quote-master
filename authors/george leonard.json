@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/george_leonard_174905",
+        "quote": "Competition is the spice of sports; but if you make spice the whole meal you'll be sick.",
+        "author": {
+            "name": "George Leonard",
+            "url": "/quotes/george_leonard_174905"
+        },
+        "topics": [
+            {
+                "name": "Sports",
+                "url": "/topics/sports"
+            },
+            {
+                "name": "Meal",
+                "url": "/topics/meal"
+            },
+            {
+                "name": "Spice",
+                "url": "/topics/spice"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_leonard_174906",
+        "quote": "The ultimate creative capacity of the brain may be, for all practical purposes, infinite.",
+        "author": {
+            "name": "George Leonard",
+            "url": "/quotes/george_leonard_174906"
+        },
+        "topics": [
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Practical",
+                "url": "/topics/practical"
+            },
+            {
+                "name": "Ultimate",
+                "url": "/topics/ultimate"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/larry_bucshon_654074",
+        "quote": "Here in Indiana and in many states throughout the union, we rely on coal to power our homes and provide good-paying middle class jobs - like the one my family relied on when I was a kid. The coal mine helped put food on our table and helped me pursue an education and realize the American Dream.",
+        "author": {
+            "name": "Larry Bucshon",
+            "url": "/quotes/larry_bucshon_654074"
+        },
+        "topics": [
+            {
+                "name": "Education",
+                "url": "/topics/education"
+            },
+            {
+                "name": "Kid",
+                "url": "/topics/kid"
+            },
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/larry_bucshon_441109",
+        "quote": "I don't believe that employers should have access to an employee's private passwords, including Facebook.",
+        "author": {
+            "name": "Larry Bucshon",
+            "url": "/quotes/larry_bucshon_441109"
+        },
+        "topics": [
+            {
+                "name": "Private",
+                "url": "/topics/private"
+            },
+            {
+                "name": "Access",
+                "url": "/topics/access"
+            },
+            {
+                "name": "Employers",
+                "url": "/topics/employers"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/larry_bucshon_654075",
+        "quote": "I was a heart surgeon before I came to Congress, and I've worked many holidays on behalf of my patients.",
+        "author": {
+            "name": "Larry Bucshon",
+            "url": "/quotes/larry_bucshon_654075"
+        },
+        "topics": [
+            {
+                "name": "Surgeon",
+                "url": "/topics/surgeon"
+            },
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            },
+            {
+                "name": "Congress",
+                "url": "/topics/congress"
+            }
+        ]
+    }
+]

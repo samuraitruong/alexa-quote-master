@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/frederick_delius_205825",
+        "quote": "There is only one real happiness in life, and that is the happiness of creating.",
+        "author": {
+            "name": "Frederick Delius",
+            "url": "/quotes/frederick_delius_205825"
+        },
+        "topics": [
+            {
+                "name": "Happiness",
+                "url": "/topics/happiness"
+            },
+            {
+                "name": "Real Happiness",
+                "url": "/topics/real_happiness"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/frederick_delius_205824",
+        "quote": "Music is an outburst of the soul.",
+        "author": {
+            "name": "Frederick Delius",
+            "url": "/quotes/frederick_delius_205824"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "Soul",
+                "url": "/topics/soul"
+            },
+            {
+                "name": "Outburst",
+                "url": "/topics/outburst"
+            }
+        ]
+    }
+]

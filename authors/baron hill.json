@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/baron_hill_203627",
+        "quote": "I want to make lemonade out of the lemons that were dealt to me.",
+        "author": {
+            "name": "Baron Hill",
+            "url": "/quotes/baron_hill_203627"
+        },
+        "topics": [
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Dealt",
+                "url": "/topics/dealt"
+            },
+            {
+                "name": "Were",
+                "url": "/topics/were"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/baron_hill_204175",
+        "quote": "It is now clear that major irregularities did not occur.",
+        "author": {
+            "name": "Baron Hill",
+            "url": "/quotes/baron_hill_204175"
+        },
+        "topics": [
+            {
+                "name": "Now",
+                "url": "/topics/now"
+            },
+            {
+                "name": "Major",
+                "url": "/topics/major"
+            },
+            {
+                "name": "Occur",
+                "url": "/topics/occur"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/baron_hill_204177",
+        "quote": "In the final analysis this congressional race is always going to be a close race, whether there's a presidential race or governor's race or not. But is this a better year? Yes, this would probably be a better year.",
+        "author": {
+            "name": "Baron Hill",
+            "url": "/quotes/baron_hill_204177"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Race",
+                "url": "/topics/race"
+            },
+            {
+                "name": "Congressional",
+                "url": "/topics/congressional"
+            }
+        ]
+    }
+]

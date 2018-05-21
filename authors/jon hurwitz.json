@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/jon_hurwitz_650518",
+        "quote": "That's the fun of going to a high school reunion: it's seeing the people who you were close to all those years ago, and re-exploring the relationships of the past.",
+        "author": {
+            "name": "Jon Hurwitz",
+            "url": "/quotes/jon_hurwitz_650518"
+        },
+        "topics": [
+            {
+                "name": "Past",
+                "url": "/topics/past"
+            },
+            {
+                "name": "People",
+                "url": "/topics/people"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jon_hurwitz_497039",
+        "quote": "I think 'Oz' is the type of show that makes you turn away in fear and in horror, so for a television show, that's pretty intense.",
+        "author": {
+            "name": "Jon Hurwitz",
+            "url": "/quotes/jon_hurwitz_497039"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Pretty",
+                "url": "/topics/pretty"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jon_hurwitz_650519",
+        "quote": "A lot of our favorite comedies in general are usually directed by writers, whether or not they wrote the original script themselves.",
+        "author": {
+            "name": "Jon Hurwitz",
+            "url": "/quotes/jon_hurwitz_650519"
+        },
+        "topics": [
+            {
+                "name": "Original",
+                "url": "/topics/original"
+            },
+            {
+                "name": "Wrote",
+                "url": "/topics/wrote"
+            },
+            {
+                "name": "Directed",
+                "url": "/topics/directed"
+            }
+        ]
+    }
+]

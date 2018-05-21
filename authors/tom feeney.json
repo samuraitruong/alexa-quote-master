@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/tom_feeney_197754",
+        "quote": "No taxation without respiration.",
+        "author": {
+            "name": "Tom Feeney",
+            "url": "/quotes/tom_feeney_197754"
+        },
+        "topics": [
+            {
+                "name": "Taxation",
+                "url": "/topics/taxation"
+            },
+            {
+                "name": "Respiration",
+                "url": "/topics/respiration"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tom_feeney_395204",
+        "quote": "Two things Florida can teach the other 49 states: how to make a good margarita and how to deal with the aftermath of a hurricane.",
+        "author": {
+            "name": "Tom Feeney",
+            "url": "/quotes/tom_feeney_395204"
+        },
+        "topics": [
+            {
+                "name": "Deal",
+                "url": "/topics/deal"
+            },
+            {
+                "name": "Florida",
+                "url": "/topics/florida"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    }
+]

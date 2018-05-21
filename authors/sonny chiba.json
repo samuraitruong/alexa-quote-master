@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/sonny_chiba_609091",
+        "quote": "Action is drama. If we cannot make the audience laugh, smile or cry with us, we are not actors.",
+        "author": {
+            "name": "Sonny Chiba",
+            "url": "/quotes/sonny_chiba_609091"
+        },
+        "topics": [
+            {
+                "name": "Audience",
+                "url": "/topics/audience"
+            },
+            {
+                "name": "Cry",
+                "url": "/topics/cry"
+            },
+            {
+                "name": "We Cannot",
+                "url": "/topics/we_cannot"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sonny_chiba_609090",
+        "quote": "An actor's body should be full of emotions, whether it is happiness or sorrow, pain or joy, enraged or elated.",
+        "author": {
+            "name": "Sonny Chiba",
+            "url": "/quotes/sonny_chiba_609090"
+        },
+        "topics": [
+            {
+                "name": "Actor",
+                "url": "/topics/actor"
+            },
+            {
+                "name": "Enraged",
+                "url": "/topics/enraged"
+            },
+            {
+                "name": "Elated",
+                "url": "/topics/elated"
+            }
+        ]
+    }
+]

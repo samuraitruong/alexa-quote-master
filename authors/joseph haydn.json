@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/joseph_haydn_316796",
+        "quote": "I was cut off from the world. There was no one to confuse or torment me, and I was forced to become original.",
+        "author": {
+            "name": "Joseph Haydn",
+            "url": "/quotes/joseph_haydn_316796"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Cut",
+                "url": "/topics/cut"
+            },
+            {
+                "name": "Confuse",
+                "url": "/topics/confuse"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joseph_haydn_316794",
+        "quote": "I listened more than I studied... therefore little by little my knowledge and ability were developed.",
+        "author": {
+            "name": "Joseph Haydn",
+            "url": "/quotes/joseph_haydn_316794"
+        },
+        "topics": [
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Studied",
+                "url": "/topics/studied"
+            },
+            {
+                "name": "Were",
+                "url": "/topics/were"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joseph_haydn_316797",
+        "quote": "I was never a quick writer, but composed with great care and efforts.",
+        "author": {
+            "name": "Joseph Haydn",
+            "url": "/quotes/joseph_haydn_316797"
+        },
+        "topics": [
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Quick",
+                "url": "/topics/quick"
+            },
+            {
+                "name": "Efforts",
+                "url": "/topics/efforts"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joseph_haydn_316799",
+        "quote": "There was no one near to confuse me, so I was forced to become original.",
+        "author": {
+            "name": "Joseph Haydn",
+            "url": "/quotes/joseph_haydn_316799"
+        },
+        "topics": [
+            {
+                "name": "Original",
+                "url": "/topics/original"
+            },
+            {
+                "name": "Confuse",
+                "url": "/topics/confuse"
+            },
+            {
+                "name": "Forced",
+                "url": "/topics/forced"
+            }
+        ]
+    }
+]

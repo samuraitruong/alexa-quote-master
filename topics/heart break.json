@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/max_muller_326688?src=t_heart_break",
+        "quote": "Would not the child's heart break in despair when the first cold storm of the world sweeps over it, if the warm sunlight of love from the eyes of mother and father did not shine upon him like the soft reflection of divine light and love?",
+        "author": {
+            "name": "Max Muller",
+            "url": "/authors/max_muller"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Mother And Father",
+                "url": "/topics/mother_and_father"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/melissa_etheridge_381623?src=t_heart_break",
+        "quote": "I feel my heart break to see a nation ripped apart by it's own greatest strength - it's diversity.",
+        "author": {
+            "name": "Melissa Etheridge",
+            "url": "/authors/melissa_etheridge"
+        },
+        "topics": [
+            {
+                "name": "Strength",
+                "url": "/topics/strength"
+            },
+            {
+                "name": "Break",
+                "url": "/topics/break"
+            },
+            {
+                "name": "Nation",
+                "url": "/topics/nation"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sara_teasdale_378830?src=t_heart_break",
+        "quote": "Beauty, more than bitterness, makes the heart break.",
+        "author": {
+            "name": "Sara Teasdale",
+            "url": "/authors/sara_teasdale"
+        },
+        "topics": [
+            {
+                "name": "Beauty",
+                "url": "/topics/beauty"
+            },
+            {
+                "name": "Break",
+                "url": "/topics/break"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/serena_williams_444290?src=t_heart_break",
+        "quote": "Having a pulmonary embolism is definitely easier than heart break.",
+        "author": {
+            "name": "Serena Williams",
+            "url": "/authors/serena_williams"
+        },
+        "topics": [
+            {
+                "name": "Break",
+                "url": "/topics/break"
+            },
+            {
+                "name": "Having",
+                "url": "/topics/having"
+            },
+            {
+                "name": "Definitely",
+                "url": "/topics/definitely"
+            }
+        ]
+    }
+]

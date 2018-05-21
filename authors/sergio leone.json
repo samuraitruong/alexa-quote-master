@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/sergio_leone_228568",
+        "quote": "In my childhood, America was like a religion. Then, real-life Americans abruptly entered my life - in jeeps - and upset all my dreams.",
+        "author": {
+            "name": "Sergio Leone",
+            "url": "/quotes/sergio_leone_228568"
+        },
+        "topics": [
+            {
+                "name": "Childhood",
+                "url": "/topics/childhood"
+            },
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Upset",
+                "url": "/topics/upset"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sergio_leone_350509",
+        "quote": "I can't see America any other way than with a European's eyes. It fascinates me and terrifies me at the same time.",
+        "author": {
+            "name": "Sergio Leone",
+            "url": "/quotes/sergio_leone_350509"
+        },
+        "topics": [
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "European",
+                "url": "/topics/european"
+            },
+            {
+                "name": "Same Time",
+                "url": "/topics/same_time"
+            }
+        ]
+    }
+]

@@ -1,0 +1,143 @@
+[
+    {
+        "url": "/quotes/stephen_hawking_393342?src=t_predestined",
+        "quote": "I have noticed even people who claim everything is predestined, and that we can do nothing to change it, look before they cross the road.",
+        "author": {
+            "name": "Stephen Hawking",
+            "url": "/authors/stephen_hawking"
+        },
+        "topics": [
+            {
+                "name": "Change",
+                "url": "/topics/change"
+            },
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            },
+            {
+                "name": "Noticed",
+                "url": "/topics/noticed"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/friedrich_nietzsche_396558?src=t_predestined",
+        "quote": "Whoever feels predestined to see and not to believe will find all believers too noisy and pushy: he guards against them.",
+        "author": {
+            "name": "Friedrich Nietzsche",
+            "url": "/authors/friedrich_nietzsche"
+        },
+        "topics": [
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Against",
+                "url": "/topics/against"
+            },
+            {
+                "name": "Feels",
+                "url": "/topics/feels"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/amelia_barr_202838?src=t_predestined",
+        "quote": "Events that are predestined require but little management. They manage themselves. They slip into place while we sleep, and suddenly we are aware that the thing we fear to attempt, is already accomplished.",
+        "author": {
+            "name": "Amelia Barr",
+            "url": "/authors/amelia_barr"
+        },
+        "topics": [
+            {
+                "name": "Suddenly",
+                "url": "/topics/suddenly"
+            },
+            {
+                "name": "Require",
+                "url": "/topics/require"
+            },
+            {
+                "name": "While",
+                "url": "/topics/while"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henry_adams_235408?src=t_predestined",
+        "quote": "Intimates are predestined.",
+        "author": {
+            "name": "Henry Adams",
+            "url": "/authors/henry_adams"
+        },
+        "topics": []
+    },
+    {
+        "url": "/quotes/steve_blank_800262?src=t_predestined",
+        "quote": "Most people appear to live an unexamined life, cruising through the years without much reflection about what it means, and/or taking what life hands them and believing it's all predestined.",
+        "author": {
+            "name": "Steve Blank",
+            "url": "/authors/steve_blank"
+        },
+        "topics": [
+            {
+                "name": "Hands",
+                "url": "/topics/hands"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Means",
+                "url": "/topics/means"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_mooney_607277?src=t_predestined",
+        "quote": "Sometimes, what you do you have no control over because it's predestined. It's gonna happen in spite of you. There's nothing you can do about it.",
+        "author": {
+            "name": "Paul Mooney",
+            "url": "/authors/paul_mooney"
+        },
+        "topics": [
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Happen",
+                "url": "/topics/happen"
+            },
+            {
+                "name": "Gonna",
+                "url": "/topics/gonna"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/michael_gurian_530634?src=t_predestined",
+        "quote": "There is a great suspicion of saying that anyone, especially a child, is 'the product of destiny,' or 'formed by fate,' or 'predestined for a certain life.' I am suspicious, too, of efforts to cage children or adults in preconceived ideas of who they are or should be.",
+        "author": {
+            "name": "Michael Gurian",
+            "url": "/authors/michael_gurian"
+        },
+        "topics": [
+            {
+                "name": "Life",
+                "url": "/topics/life"
+            },
+            {
+                "name": "Destiny",
+                "url": "/topics/destiny"
+            },
+            {
+                "name": "Fate",
+                "url": "/topics/fate"
+            }
+        ]
+    }
+]

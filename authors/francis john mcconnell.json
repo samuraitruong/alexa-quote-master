@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/francis_john_mcconnell_174940",
+        "quote": "We must get away from the idea that America is to be the leader of the world in everything.",
+        "author": {
+            "name": "Francis John McConnell",
+            "url": "/quotes/francis_john_mcconnell_174940"
+        },
+        "topics": [
+            {
+                "name": "Leader",
+                "url": "/topics/leader"
+            },
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/francis_john_mcconnell_174941",
+        "quote": "We need a type of patriotism that recognizes the virtues of those who are opposed to us.",
+        "author": {
+            "name": "Francis John McConnell",
+            "url": "/quotes/francis_john_mcconnell_174941"
+        },
+        "topics": [
+            {
+                "name": "Virtues",
+                "url": "/topics/virtues"
+            },
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            },
+            {
+                "name": "Opposed",
+                "url": "/topics/opposed"
+            }
+        ]
+    }
+]

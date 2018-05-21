@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/ed_sullivan_130353",
+        "quote": "If you do a good job for others, you heal yourself at the same time, because a dose of joy is a spiritual cure. It transcends all barriers.",
+        "author": {
+            "name": "Ed Sullivan",
+            "url": "/quotes/ed_sullivan_130353"
+        },
+        "topics": [
+            {
+                "name": "Good",
+                "url": "/topics/good"
+            },
+            {
+                "name": "Cure",
+                "url": "/topics/cure"
+            },
+            {
+                "name": "Same Time",
+                "url": "/topics/same_time"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ed_sullivan_402818",
+        "quote": "Tell me, Connie, is your mother still dead?",
+        "author": {
+            "name": "Ed Sullivan",
+            "url": "/quotes/ed_sullivan_402818"
+        },
+        "topics": [
+            {
+                "name": "Mother",
+                "url": "/topics/mother"
+            },
+            {
+                "name": "Tell",
+                "url": "/topics/tell"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            }
+        ]
+    }
+]

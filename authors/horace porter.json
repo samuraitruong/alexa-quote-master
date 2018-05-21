@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/horace_porter_221502",
+        "quote": "Be moderate in everything, including moderation.",
+        "author": {
+            "name": "Horace Porter",
+            "url": "/quotes/horace_porter_221502"
+        },
+        "topics": [
+            {
+                "name": "Moderation",
+                "url": "/topics/moderation"
+            },
+            {
+                "name": "Including",
+                "url": "/topics/including"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/horace_porter_221503",
+        "quote": "Oh, the ignorance of us upon whom Providence did not sufficiently smile to permit us to be born in New England.",
+        "author": {
+            "name": "Horace Porter",
+            "url": "/quotes/horace_porter_221503"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "England",
+                "url": "/topics/england"
+            },
+            {
+                "name": "Sufficiently",
+                "url": "/topics/sufficiently"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/horace_porter_221537",
+        "quote": "A mugwump is a person educated beyond his intellect.",
+        "author": {
+            "name": "Horace Porter",
+            "url": "/quotes/horace_porter_221537"
+        },
+        "topics": [
+            {
+                "name": "Educated",
+                "url": "/topics/educated"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            },
+            {
+                "name": "Intellect",
+                "url": "/topics/intellect"
+            }
+        ]
+    }
+]

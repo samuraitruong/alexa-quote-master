@@ -1,0 +1,134 @@
+[
+    {
+        "url": "/quotes/ken_olsen_184013",
+        "quote": "Software comes from heaven when you have good hardware.",
+        "author": {
+            "name": "Ken Olsen",
+            "url": "/quotes/ken_olsen_184013"
+        },
+        "topics": [
+            {
+                "name": "Good",
+                "url": "/topics/good"
+            },
+            {
+                "name": "Computers",
+                "url": "/topics/computers"
+            },
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ken_olsen_184015",
+        "quote": "There is no reason for any individual to have a computer in his home.",
+        "author": {
+            "name": "Ken Olsen",
+            "url": "/quotes/ken_olsen_184015"
+        },
+        "topics": [
+            {
+                "name": "Computers",
+                "url": "/topics/computers"
+            },
+            {
+                "name": "Reason",
+                "url": "/topics/reason"
+            },
+            {
+                "name": "Computer",
+                "url": "/topics/computer"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ken_olsen_184014",
+        "quote": "The nicest thing about standards is that there are so many of them to choose from.",
+        "author": {
+            "name": "Ken Olsen",
+            "url": "/quotes/ken_olsen_184014"
+        },
+        "topics": [
+            {
+                "name": "Leadership",
+                "url": "/topics/leadership"
+            },
+            {
+                "name": "Standards",
+                "url": "/topics/standards"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ken_olsen_391108",
+        "quote": "On almost anything someone does in the computer business, you can go back in the literature and prove someone had done it earlier.",
+        "author": {
+            "name": "Ken Olsen",
+            "url": "/quotes/ken_olsen_391108"
+        },
+        "topics": [
+            {
+                "name": "Business",
+                "url": "/topics/business"
+            },
+            {
+                "name": "Prove",
+                "url": "/topics/prove"
+            },
+            {
+                "name": "Almost",
+                "url": "/topics/almost"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ken_olsen_396422",
+        "quote": "When I was a teenager in the late 30's and early 40's, electronics wasn't a word. You were interested in radio if you were interested in electronics.",
+        "author": {
+            "name": "Ken Olsen",
+            "url": "/quotes/ken_olsen_396422"
+        },
+        "topics": [
+            {
+                "name": "Late",
+                "url": "/topics/late"
+            },
+            {
+                "name": "Radio",
+                "url": "/topics/radio"
+            },
+            {
+                "name": "Electronics",
+                "url": "/topics/electronics"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ken_olsen_406354",
+        "quote": "Teamwork was more accepted 40 years ago.",
+        "author": {
+            "name": "Ken Olsen",
+            "url": "/quotes/ken_olsen_406354"
+        },
+        "topics": [
+            {
+                "name": "Teamwork",
+                "url": "/topics/teamwork"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Years Ago",
+                "url": "/topics/years_ago"
+            }
+        ]
+    }
+]

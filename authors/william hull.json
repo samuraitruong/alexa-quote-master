@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/william_hull_200150",
+        "quote": "One problem with ideas, however valid, is that they are static and impersonal, whereas a person is active and dynamic.",
+        "author": {
+            "name": "William Hull",
+            "url": "/quotes/william_hull_200150"
+        },
+        "topics": [
+            {
+                "name": "Problem",
+                "url": "/topics/problem"
+            },
+            {
+                "name": "Valid",
+                "url": "/topics/valid"
+            },
+            {
+                "name": "However",
+                "url": "/topics/however"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_hull_200147",
+        "quote": "Captain Hale, alone, without sympathy or support, save that from above, on the near approach of death asked for a clergyman to attend him. It was refused. He then requested a Bible; that too was refused by his inhuman jailer.",
+        "author": {
+            "name": "William Hull",
+            "url": "/quotes/william_hull_200147"
+        },
+        "topics": [
+            {
+                "name": "Death",
+                "url": "/topics/death"
+            },
+            {
+                "name": "Save",
+                "url": "/topics/save"
+            },
+            {
+                "name": "Attend",
+                "url": "/topics/attend"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_hull_200149",
+        "quote": "In a few days an officer came to our camp, under a flag of truce, and informed Hamilton, then a captain of artillery, but afterwards the aid of General Washington, that Captain Hale had been arrested within the British lines condemned as a spy, and executed that morning.",
+        "author": {
+            "name": "William Hull",
+            "url": "/quotes/william_hull_200149"
+        },
+        "topics": [
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Truce",
+                "url": "/topics/truce"
+            },
+            {
+                "name": "Arrested",
+                "url": "/topics/arrested"
+            }
+        ]
+    }
+]

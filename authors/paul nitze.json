@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/paul_nitze_205927",
+        "quote": "One of the most dangerous forms of human error is forgetting what one is trying to achieve.",
+        "author": {
+            "name": "Paul Nitze",
+            "url": "/quotes/paul_nitze_205927"
+        },
+        "topics": [
+            {
+                "name": "Trying",
+                "url": "/topics/trying"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "Forgetting",
+                "url": "/topics/forgetting"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_nitze_205928",
+        "quote": "We slow the progress of science today for all sorts of ethical reasons. Biomedicine could advance much faster if we abolished our rules on human experimentation in clinical trials, as Nazi researchers did.",
+        "author": {
+            "name": "Paul Nitze",
+            "url": "/quotes/paul_nitze_205928"
+        },
+        "topics": [
+            {
+                "name": "Reasons",
+                "url": "/topics/reasons"
+            },
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            },
+            {
+                "name": "Researchers",
+                "url": "/topics/researchers"
+            }
+        ]
+    }
+]

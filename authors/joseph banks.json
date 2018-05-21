@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/joseph_banks_270906",
+        "quote": "Who knows but that England may revive in New South Wales when it has sunk in Europe.",
+        "author": {
+            "name": "Joseph Banks",
+            "url": "/quotes/joseph_banks_270906"
+        },
+        "topics": [
+            {
+                "name": "England",
+                "url": "/topics/england"
+            },
+            {
+                "name": "New South Wales",
+                "url": "/topics/new_south_wales"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joseph_banks_194444",
+        "quote": "O, how glorious would it be to set my heel upon the Pole and turn myself 360 degrees in a second!",
+        "author": {
+            "name": "Joseph Banks",
+            "url": "/quotes/joseph_banks_194444"
+        },
+        "topics": [
+            {
+                "name": "Myself",
+                "url": "/topics/myself"
+            },
+            {
+                "name": "Turn",
+                "url": "/topics/turn"
+            },
+            {
+                "name": "Set",
+                "url": "/topics/set"
+            }
+        ]
+    }
+]

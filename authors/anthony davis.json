@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/anthony_davis_200930",
+        "quote": "I always tried so hard to fit in, and then I figured out that I didn't want to fit.",
+        "author": {
+            "name": "Anthony Davis",
+            "url": "/quotes/anthony_davis_200930"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Fit",
+                "url": "/topics/fit"
+            },
+            {
+                "name": "Tried",
+                "url": "/topics/tried"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/anthony_davis_408779",
+        "quote": "We worked so hard, spent so much time in weight room and in camps to be where we are today. We wanted to come out and be as good as any team in the state, to prove we could hang with any team at any time.",
+        "author": {
+            "name": "Anthony Davis",
+            "url": "/quotes/anthony_davis_408779"
+        },
+        "topics": [
+            {
+                "name": "Prove",
+                "url": "/topics/prove"
+            },
+            {
+                "name": "Hang",
+                "url": "/topics/hang"
+            },
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/anthony_davis_200929",
+        "quote": "Only one music comes out of me.",
+        "author": {
+            "name": "Anthony Davis",
+            "url": "/quotes/anthony_davis_200929"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/anthony_davis_200932",
+        "quote": "I love opera, I love writing for the voice, I love telling stories with music.",
+        "author": {
+            "name": "Anthony Davis",
+            "url": "/quotes/anthony_davis_200932"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Voice",
+                "url": "/topics/voice"
+            },
+            {
+                "name": "Telling",
+                "url": "/topics/telling"
+            }
+        ]
+    }
+]

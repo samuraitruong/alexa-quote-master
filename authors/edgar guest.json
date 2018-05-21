@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/edgar_guest_142723",
+        "quote": "I take the family shopping round. The markets of the world.",
+        "author": {
+            "name": "Edgar Guest",
+            "url": "/quotes/edgar_guest_142723"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Take",
+                "url": "/topics/take"
+            },
+            {
+                "name": "Markets",
+                "url": "/topics/markets"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edgar_guest_188506",
+        "quote": "I want to be able, as days go by, always to look myself straight in the eye.",
+        "author": {
+            "name": "Edgar Guest",
+            "url": "/quotes/edgar_guest_188506"
+        },
+        "topics": [
+            {
+                "name": "Eye",
+                "url": "/topics/eye"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Straight",
+                "url": "/topics/straight"
+            }
+        ]
+    }
+]

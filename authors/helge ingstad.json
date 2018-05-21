@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/helge_ingstad_278233",
+        "quote": "I came into the world at the right time.",
+        "author": {
+            "name": "Helge Ingstad",
+            "url": "/quotes/helge_ingstad_278233"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Came",
+                "url": "/topics/came"
+            },
+            {
+                "name": "I Came",
+                "url": "/topics/i_came"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/helge_ingstad_278236",
+        "quote": "It was very clear that this was a very, very old site. There were remains of sod walls. Fishermen assumed it was an old Indian site. Bu Indians didn't use that kind of buildings and houses.",
+        "author": {
+            "name": "Helge Ingstad",
+            "url": "/quotes/helge_ingstad_278236"
+        },
+        "topics": [
+            {
+                "name": "Old",
+                "url": "/topics/old"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            }
+        ]
+    }
+]

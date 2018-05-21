@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/henry_brooke_195356",
+        "quote": "Tyranny Absolves all faith; and who invades our rights, However his own commence, can never be But an usurper.",
+        "author": {
+            "name": "Henry Brooke",
+            "url": "/quotes/henry_brooke_195356"
+        },
+        "topics": [
+            {
+                "name": "Tyranny",
+                "url": "/topics/tyranny"
+            },
+            {
+                "name": "However",
+                "url": "/topics/however"
+            },
+            {
+                "name": "Commence",
+                "url": "/topics/commence"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henry_brooke_195354",
+        "quote": "A book may be compared to your neighbour: if it be good it cannot last too long; if bad, you cannot get rid of it too early.",
+        "author": {
+            "name": "Henry Brooke",
+            "url": "/quotes/henry_brooke_195354"
+        },
+        "topics": [
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Last",
+                "url": "/topics/last"
+            },
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            }
+        ]
+    }
+]

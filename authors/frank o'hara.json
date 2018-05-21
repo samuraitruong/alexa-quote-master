@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/frank_ohara_212447",
+        "quote": "Pain always produces logic, which is very bad for you.",
+        "author": {
+            "name": "Frank O'Hara",
+            "url": "/quotes/frank_ohara_212447"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/frank_ohara_212446",
+        "quote": "The artificial is always innocent.",
+        "author": {
+            "name": "Frank O'Hara",
+            "url": "/quotes/frank_ohara_212446"
+        },
+        "topics": [
+            {
+                "name": "Innocent",
+                "url": "/topics/innocent"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Artificial",
+                "url": "/topics/artificial"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/frank_ohara_212445",
+        "quote": "I don't think I want to win anything I think I want to die unadorned.",
+        "author": {
+            "name": "Frank O'Hara",
+            "url": "/quotes/frank_ohara_212445"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Die",
+                "url": "/topics/die"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    }
+]

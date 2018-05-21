@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/johnny_evers_621378",
+        "quote": "I am convinced that in my own career I could usually have hit 30 points higher if I had made a specialty of hitting.",
+        "author": {
+            "name": "Johnny Evers",
+            "url": "/quotes/johnny_evers_621378"
+        },
+        "topics": [
+            {
+                "name": "Career",
+                "url": "/topics/career"
+            },
+            {
+                "name": "My Own",
+                "url": "/topics/my_own"
+            },
+            {
+                "name": "Specialty",
+                "url": "/topics/specialty"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/johnny_evers_621379",
+        "quote": "In my own case I have frequently faced the pitcher when I had no desire whatever to hit. I wanted to get a base on balls.",
+        "author": {
+            "name": "Johnny Evers",
+            "url": "/quotes/johnny_evers_621379"
+        },
+        "topics": [
+            {
+                "name": "Desire",
+                "url": "/topics/desire"
+            },
+            {
+                "name": "My Own",
+                "url": "/topics/my_own"
+            },
+            {
+                "name": "Frequently",
+                "url": "/topics/frequently"
+            }
+        ]
+    }
+]

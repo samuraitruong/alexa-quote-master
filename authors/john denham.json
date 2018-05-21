@@ -1,0 +1,134 @@
+[
+    {
+        "url": "/quotes/john_denham_143955",
+        "quote": "Books should to one of these fours ends conduce, for wisdom, piety, delight, or use.",
+        "author": {
+            "name": "John Denham",
+            "url": "/quotes/john_denham_143955"
+        },
+        "topics": [
+            {
+                "name": "Books",
+                "url": "/topics/books"
+            },
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            },
+            {
+                "name": "Ends",
+                "url": "/topics/ends"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_denham_158352",
+        "quote": "Search not to find things too deeply hid; Nor try to know things whose knowledge is forbid.",
+        "author": {
+            "name": "John Denham",
+            "url": "/quotes/john_denham_158352"
+        },
+        "topics": [
+            {
+                "name": "Search",
+                "url": "/topics/search"
+            },
+            {
+                "name": "Nor",
+                "url": "/topics/nor"
+            },
+            {
+                "name": "Hid",
+                "url": "/topics/hid"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_denham_158353",
+        "quote": "Nor ought a genius less than his that writ attempt translation.",
+        "author": {
+            "name": "John Denham",
+            "url": "/quotes/john_denham_158353"
+        },
+        "topics": [
+            {
+                "name": "Genius",
+                "url": "/topics/genius"
+            },
+            {
+                "name": "Nor",
+                "url": "/topics/nor"
+            },
+            {
+                "name": "Writ",
+                "url": "/topics/writ"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_denham_158354",
+        "quote": "Youth, what man's age is like to be, doth show; We may our ends by our beginnings know.",
+        "author": {
+            "name": "John Denham",
+            "url": "/quotes/john_denham_158354"
+        },
+        "topics": [
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Doth",
+                "url": "/topics/doth"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_denham_166064",
+        "quote": "We are never like angels till our passion dies.",
+        "author": {
+            "name": "John Denham",
+            "url": "/quotes/john_denham_166064"
+        },
+        "topics": [
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Till",
+                "url": "/topics/till"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_denham_390084",
+        "quote": "Poetry is of so subtle a spirit, that in the pouring out of one language into another it will evaporate.",
+        "author": {
+            "name": "John Denham",
+            "url": "/quotes/john_denham_390084"
+        },
+        "topics": [
+            {
+                "name": "Subtle",
+                "url": "/topics/subtle"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Another",
+                "url": "/topics/another"
+            }
+        ]
+    }
+]

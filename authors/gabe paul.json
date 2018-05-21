@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/gabe_paul_192974",
+        "quote": "There is no such thing as second place. Either you're first or you're nothing.",
+        "author": {
+            "name": "Gabe Paul",
+            "url": "/quotes/gabe_paul_192974"
+        },
+        "topics": [
+            {
+                "name": "Place",
+                "url": "/topics/place"
+            },
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            },
+            {
+                "name": "Either",
+                "url": "/topics/either"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gabe_paul_192973",
+        "quote": "The great thing about baseball is there's a crisis every day.",
+        "author": {
+            "name": "Gabe Paul",
+            "url": "/quotes/gabe_paul_192973"
+        },
+        "topics": [
+            {
+                "name": "Crisis",
+                "url": "/topics/crisis"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Great Thing",
+                "url": "/topics/great_thing"
+            }
+        ]
+    }
+]

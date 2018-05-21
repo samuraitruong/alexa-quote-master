@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/george_cadbury_253904",
+        "quote": "But if each man could have his own house, a large garden to cultivate and healthy surroundings - then, I thought, there will be for them a better opportunity of a happy family life.",
+        "author": {
+            "name": "George Cadbury",
+            "url": "/quotes/george_cadbury_253904"
+        },
+        "topics": [
+            {
+                "name": "Gardening",
+                "url": "/topics/gardening"
+            },
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Large",
+                "url": "/topics/large"
+            }
+        ]
+    }
+]

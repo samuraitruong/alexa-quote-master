@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/mel_ott_242267",
+        "quote": "Yogi seemed to be doing everything wrong, yet everything came out right.",
+        "author": {
+            "name": "Mel Ott",
+            "url": "/quotes/mel_ott_242267"
+        },
+        "topics": [
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Yogi",
+                "url": "/topics/yogi"
+            },
+            {
+                "name": "Seemed",
+                "url": "/topics/seemed"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mel_ott_242266",
+        "quote": "He stopped everything behind the plate and hit everything in front of it.",
+        "author": {
+            "name": "Mel Ott",
+            "url": "/quotes/mel_ott_242266"
+        },
+        "topics": [
+            {
+                "name": "Behind",
+                "url": "/topics/behind"
+            },
+            {
+                "name": "Hit",
+                "url": "/topics/hit"
+            },
+            {
+                "name": "Stopped",
+                "url": "/topics/stopped"
+            }
+        ]
+    }
+]

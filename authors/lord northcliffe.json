@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/lord_northcliffe_164571",
+        "quote": "News is what somebody somewhere wants to suppress; all the rest is advertising.",
+        "author": {
+            "name": "Lord Northcliffe",
+            "url": "/quotes/lord_northcliffe_164571"
+        },
+        "topics": [
+            {
+                "name": "Rest",
+                "url": "/topics/rest"
+            },
+            {
+                "name": "News",
+                "url": "/topics/news"
+            },
+            {
+                "name": "Wants",
+                "url": "/topics/wants"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lord_northcliffe_140813",
+        "quote": "Journalism: A profession whose business is to explain to others what it personally does not understand.",
+        "author": {
+            "name": "Lord Northcliffe",
+            "url": "/quotes/lord_northcliffe_140813"
+        },
+        "topics": [
+            {
+                "name": "Explain",
+                "url": "/topics/explain"
+            },
+            {
+                "name": "Profession",
+                "url": "/topics/profession"
+            }
+        ]
+    }
+]

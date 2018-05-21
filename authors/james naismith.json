@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/james_naismith_205915",
+        "quote": "Be strong in body, clean in mind, lofty in ideals.",
+        "author": {
+            "name": "James Naismith",
+            "url": "/quotes/james_naismith_205915"
+        },
+        "topics": [
+            {
+                "name": "Strong",
+                "url": "/topics/strong"
+            },
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Ideals",
+                "url": "/topics/ideals"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_naismith_205916",
+        "quote": "The invention of basketball was not an accident. It was developed to meet a need. Those boys simply would not play 'Drop the Handkerchief.'",
+        "author": {
+            "name": "James Naismith",
+            "url": "/quotes/james_naismith_205916"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Drop",
+                "url": "/topics/drop"
+            },
+            {
+                "name": "Handkerchief",
+                "url": "/topics/handkerchief"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_naismith_205917",
+        "quote": "I am sure that no man can derive more pleasure from money or power than I do from seeing a pair of basketball goals in some out of the way place.",
+        "author": {
+            "name": "James Naismith",
+            "url": "/quotes/james_naismith_205917"
+        },
+        "topics": [
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Sure",
+                "url": "/topics/sure"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/ma_rainey_320599",
+        "quote": "They hear it come out, but they don't know how it got there. They don't understand that's life's way of talking. You don't sing to feel better. You sing 'cause that's a way of understanding life.",
+        "author": {
+            "name": "Ma Rainey",
+            "url": "/quotes/ma_rainey_320599"
+        },
+        "topics": [
+            {
+                "name": "Understand",
+                "url": "/topics/understand"
+            },
+            {
+                "name": "Feel",
+                "url": "/topics/feel"
+            },
+            {
+                "name": "Cause",
+                "url": "/topics/cause"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ma_rainey_320600",
+        "quote": "White folks hear the blues come out, but they don't know how it got there.",
+        "author": {
+            "name": "Ma Rainey",
+            "url": "/quotes/ma_rainey_320600"
+        },
+        "topics": [
+            {
+                "name": "Know",
+                "url": "/topics/know"
+            },
+            {
+                "name": "White",
+                "url": "/topics/white"
+            },
+            {
+                "name": "How",
+                "url": "/topics/how"
+            }
+        ]
+    }
+]

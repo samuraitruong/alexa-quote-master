@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/andrea_roth_556772",
+        "quote": "Actors tell stories and we play different characters, and not all of them are healthy.",
+        "author": {
+            "name": "Andrea Roth",
+            "url": "/quotes/andrea_roth_556772"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Different Characters",
+                "url": "/topics/different_characters"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/andrea_roth_556773",
+        "quote": "If all the shows on television were about happy, functional relationships, first of all I don't know how many role models there are out there, sadly. And secondly, who would watch? Drama is conflict.",
+        "author": {
+            "name": "Andrea Roth",
+            "url": "/quotes/andrea_roth_556773"
+        },
+        "topics": [
+            {
+                "name": "Happy",
+                "url": "/topics/happy"
+            },
+            {
+                "name": "Role",
+                "url": "/topics/role"
+            },
+            {
+                "name": "Functional",
+                "url": "/topics/functional"
+            }
+        ]
+    }
+]

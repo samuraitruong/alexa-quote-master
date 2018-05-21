@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/samuel_chase_221569",
+        "quote": "The jury has the right to determine both the law and the facts.",
+        "author": {
+            "name": "Samuel Chase",
+            "url": "/quotes/samuel_chase_221569"
+        },
+        "topics": [
+            {
+                "name": "Law",
+                "url": "/topics/law"
+            },
+            {
+                "name": "Jury",
+                "url": "/topics/jury"
+            },
+            {
+                "name": "Determine",
+                "url": "/topics/determine"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/samuel_chase_221572",
+        "quote": "Summon me, then; I will be the posse comitatus; I will take them to jail.",
+        "author": {
+            "name": "Samuel Chase",
+            "url": "/quotes/samuel_chase_221572"
+        },
+        "topics": [
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Take",
+                "url": "/topics/take"
+            },
+            {
+                "name": "Summon",
+                "url": "/topics/summon"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/samuel_chase_221570",
+        "quote": "Religion is of general and public concern, and on its support depend, in great measure, the peace and good order of government, the safety and happiness of the people.",
+        "author": {
+            "name": "Samuel Chase",
+            "url": "/quotes/samuel_chase_221570"
+        },
+        "topics": [
+            {
+                "name": "Good",
+                "url": "/topics/good"
+            },
+            {
+                "name": "Great",
+                "url": "/topics/great"
+            },
+            {
+                "name": "Depend",
+                "url": "/topics/depend"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/samuel_chase_221571",
+        "quote": "By our form of government, the Christian religion is the established religion; and all sects and denominations of Christians are placed upon the same equal footing, and are equally entitled to protection in their religious liberty.",
+        "author": {
+            "name": "Samuel Chase",
+            "url": "/quotes/samuel_chase_221571"
+        },
+        "topics": [
+            {
+                "name": "Established",
+                "url": "/topics/established"
+            },
+            {
+                "name": "Entitled",
+                "url": "/topics/entitled"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/andrew_bryniarski_556774",
+        "quote": "If you're going to be an entertainer, entertain thoroughly. If you're going to make a scary movie, scare people well.",
+        "author": {
+            "name": "Andrew Bryniarski",
+            "url": "/quotes/andrew_bryniarski_556774"
+        },
+        "topics": [
+            {
+                "name": "Entertain",
+                "url": "/topics/entertain"
+            },
+            {
+                "name": "Movie",
+                "url": "/topics/movie"
+            },
+            {
+                "name": "Thoroughly",
+                "url": "/topics/thoroughly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/andrew_bryniarski_656033",
+        "quote": "Don't set out to make a scary movie and then flinch every time you're supposed to scare somebody because you're afraid of being MPAA or you're afraid of your own demons or whatever.",
+        "author": {
+            "name": "Andrew Bryniarski",
+            "url": "/quotes/andrew_bryniarski_656033"
+        },
+        "topics": [
+            {
+                "name": "Scare",
+                "url": "/topics/scare"
+            },
+            {
+                "name": "Set",
+                "url": "/topics/set"
+            },
+            {
+                "name": "Movie",
+                "url": "/topics/movie"
+            }
+        ]
+    }
+]

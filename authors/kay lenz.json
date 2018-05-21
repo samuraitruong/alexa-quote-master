@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/kay_lenz_570132",
+        "quote": "On my 30th birthday, all the presents I got were boxes of food. That's what I needed.",
+        "author": {
+            "name": "Kay Lenz",
+            "url": "/quotes/kay_lenz_570132"
+        },
+        "topics": [
+            {
+                "name": "Birthday",
+                "url": "/topics/birthday"
+            },
+            {
+                "name": "Boxes",
+                "url": "/topics/boxes"
+            },
+            {
+                "name": "Were",
+                "url": "/topics/were"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kay_lenz_570133",
+        "quote": "I'm a loner. I like to hide a lot.",
+        "author": {
+            "name": "Kay Lenz",
+            "url": "/quotes/kay_lenz_570133"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Hide",
+                "url": "/topics/hide"
+            },
+            {
+                "name": "Lot",
+                "url": "/topics/lot"
+            }
+        ]
+    }
+]

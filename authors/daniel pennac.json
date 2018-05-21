@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/daniel_pennac_522389",
+        "quote": "The teacher is commodified, the school is a shop, the subjects are consumer goods. To read, to think, to reflect, isn't a question of want, it's a question of need.",
+        "author": {
+            "name": "Daniel Pennac",
+            "url": "/quotes/daniel_pennac_522389"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Read",
+                "url": "/topics/read"
+            },
+            {
+                "name": "Shop",
+                "url": "/topics/shop"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/daniel_pennac_522387",
+        "quote": "All it takes is one teacher - just one - to save us from ourselves and make us forget all the others.",
+        "author": {
+            "name": "Daniel Pennac",
+            "url": "/quotes/daniel_pennac_522387"
+        },
+        "topics": [
+            {
+                "name": "Just One",
+                "url": "/topics/just_one"
+            },
+            {
+                "name": "Save",
+                "url": "/topics/save"
+            },
+            {
+                "name": "Ourselves",
+                "url": "/topics/ourselves"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/daniel_pennac_522386",
+        "quote": "I master my doubts now. I have fun with them, they're my travelling companions.",
+        "author": {
+            "name": "Daniel Pennac",
+            "url": "/quotes/daniel_pennac_522386"
+        },
+        "topics": [
+            {
+                "name": "Have Fun",
+                "url": "/topics/have_fun"
+            },
+            {
+                "name": "Doubts",
+                "url": "/topics/doubts"
+            },
+            {
+                "name": "Travelling",
+                "url": "/topics/travelling"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/daniel_pennac_522388",
+        "quote": "Each country thinks its school is in a specific crisis, without ever linking the school's crisis to that of the society around it.",
+        "author": {
+            "name": "Daniel Pennac",
+            "url": "/quotes/daniel_pennac_522388"
+        },
+        "topics": [
+            {
+                "name": "Society",
+                "url": "/topics/society"
+            },
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Ever",
+                "url": "/topics/ever"
+            }
+        ]
+    }
+]

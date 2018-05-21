@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/john_white_geary_229209",
+        "quote": "In isolated or country places no man's life is safe.",
+        "author": {
+            "name": "John White Geary",
+            "url": "/quotes/john_white_geary_229209"
+        },
+        "topics": [
+            {
+                "name": "Places",
+                "url": "/topics/places"
+            },
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Isolated",
+                "url": "/topics/isolated"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_white_geary_229206",
+        "quote": "Men of authority have employed all the destructive agents around them to promote their own personal interests at the sacrifice of every just, honorable, and lawful consideration.",
+        "author": {
+            "name": "John White Geary",
+            "url": "/quotes/john_white_geary_229206"
+        },
+        "topics": [
+            {
+                "name": "Sacrifice",
+                "url": "/topics/sacrifice"
+            },
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            },
+            {
+                "name": "Lawful",
+                "url": "/topics/lawful"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_white_geary_229207",
+        "quote": "I have barely time to give you a brief statement of facts as I find them.",
+        "author": {
+            "name": "John White Geary",
+            "url": "/quotes/john_white_geary_229207"
+        },
+        "topics": [
+            {
+                "name": "Find",
+                "url": "/topics/find"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            },
+            {
+                "name": "Brief",
+                "url": "/topics/brief"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_white_geary_229210",
+        "quote": "The roads are filled with armed robbers, and murders for mere plunder are of daily occurrence.",
+        "author": {
+            "name": "John White Geary",
+            "url": "/quotes/john_white_geary_229210"
+        },
+        "topics": [
+            {
+                "name": "Daily",
+                "url": "/topics/daily"
+            },
+            {
+                "name": "Plunder",
+                "url": "/topics/plunder"
+            },
+            {
+                "name": "Armed",
+                "url": "/topics/armed"
+            }
+        ]
+    }
+]

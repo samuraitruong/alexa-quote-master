@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/douglas_engelbart_100293",
+        "quote": "The digital revolution is far more significant than the invention of writing or even of printing.",
+        "author": {
+            "name": "Douglas Engelbart",
+            "url": "/quotes/douglas_engelbart_100293"
+        },
+        "topics": [
+            {
+                "name": "Computers",
+                "url": "/topics/computers"
+            },
+            {
+                "name": "Digital",
+                "url": "/topics/digital"
+            },
+            {
+                "name": "Even",
+                "url": "/topics/even"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/douglas_engelbart_142253",
+        "quote": "The rate at which a person can mature is directly proportional to the embarrassment he can tolerate.",
+        "author": {
+            "name": "Douglas Engelbart",
+            "url": "/quotes/douglas_engelbart_142253"
+        },
+        "topics": [
+            {
+                "name": "Mature",
+                "url": "/topics/mature"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Rate",
+                "url": "/topics/rate"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/douglas_engelbart_102327",
+        "quote": "In 20 or 30 years, you'll be able to hold in your hand as much computing knowledge as exists now in the whole city, or even the whole world.",
+        "author": {
+            "name": "Douglas Engelbart",
+            "url": "/quotes/douglas_engelbart_102327"
+        },
+        "topics": [
+            {
+                "name": "City",
+                "url": "/topics/city"
+            },
+            {
+                "name": "Whole",
+                "url": "/topics/whole"
+            },
+            {
+                "name": "Your",
+                "url": "/topics/your"
+            }
+        ]
+    }
+]

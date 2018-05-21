@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/alberto_korda_183246",
+        "quote": "The beauty of women was the first expression of my photography.",
+        "author": {
+            "name": "Alberto Korda",
+            "url": "/quotes/alberto_korda_183246"
+        },
+        "topics": [
+            {
+                "name": "Beauty",
+                "url": "/topics/beauty"
+            },
+            {
+                "name": "First",
+                "url": "/topics/first"
+            },
+            {
+                "name": "Expression",
+                "url": "/topics/expression"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alberto_korda_183247",
+        "quote": "I still forgive him, because by doing what he did, he made it famous.",
+        "author": {
+            "name": "Alberto Korda",
+            "url": "/quotes/alberto_korda_183247"
+        },
+        "topics": [
+            {
+                "name": "Famous",
+                "url": "/topics/famous"
+            },
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            }
+        ]
+    }
+]

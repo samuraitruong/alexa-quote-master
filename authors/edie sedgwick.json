@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/edie_sedgwick_624499",
+        "quote": "I lived a very isolated life. When you start at 20, you have a lot of nonsense to work out of your system.",
+        "author": {
+            "name": "Edie Sedgwick",
+            "url": "/quotes/edie_sedgwick_624499"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Isolated",
+                "url": "/topics/isolated"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edie_sedgwick_624500",
+        "quote": "You care enough, that you want your life to be fulfilled in a living way, not in a painting way, not in a writing way... you really do want it to be involving in living, corresponding with other living objects, moving, changing, that kind of thing.",
+        "author": {
+            "name": "Edie Sedgwick",
+            "url": "/quotes/edie_sedgwick_624500"
+        },
+        "topics": [
+            {
+                "name": "Living",
+                "url": "/topics/living"
+            },
+            {
+                "name": "Kind",
+                "url": "/topics/kind"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/mother_teresa_108724?src=t_intense_love",
+        "quote": "Intense love does not measure, it just gives.",
+        "author": {
+            "name": "Mother Teresa",
+            "url": "/authors/mother_teresa"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Relationship",
+                "url": "/topics/relationship"
+            },
+            {
+                "name": "Measure",
+                "url": "/topics/measure"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/arianna_huffington_394508?src=t_intense_love",
+        "quote": "There's no love more intense than the love we have for our kids - and where there is intense love, there is also intense fear lurking beneath the surface.",
+        "author": {
+            "name": "Arianna Huffington",
+            "url": "/authors/arianna_huffington"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Lurking",
+                "url": "/topics/lurking"
+            },
+            {
+                "name": "Beneath",
+                "url": "/topics/beneath"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/erich_fromm_139033?src=t_intense_love",
+        "quote": "The mother-child relationship is paradoxical and, in a sense, tragic. It requires the most intense love on the mother's side, yet this very love must help the child grow away from the mother, and to become fully independent.",
+        "author": {
+            "name": "Erich Fromm",
+            "url": "/authors/erich_fromm"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Mom",
+                "url": "/topics/mom"
+            },
+            {
+                "name": "Paradoxical",
+                "url": "/topics/paradoxical"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_ives_438782?src=t_intense_love",
+        "quote": "Plays are always about intense relationships, whether they're intense love relationships or family relationships or existential relationships.",
+        "author": {
+            "name": "David Ives",
+            "url": "/authors/david_ives"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Existential",
+                "url": "/topics/existential"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/meg_cabot_541833?src=t_intense_love",
+        "quote": "Sometimes I just want to write a really intense love scene. But I can't do that in my books for teens, or parents will complain - believe me, I've tried.",
+        "author": {
+            "name": "Meg Cabot",
+            "url": "/authors/meg_cabot"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Sometimes",
+                "url": "/topics/sometimes"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    }
+]

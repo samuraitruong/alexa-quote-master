@@ -1,0 +1,130 @@
+[
+    {
+        "url": "/quotes/george_bernard_shaw_125581?src=t_pedantry",
+        "quote": "A fool's brain digests philosophy into folly, science into superstition, and art into pedantry. Hence University education.",
+        "author": {
+            "name": "George Bernard Shaw",
+            "url": "/authors/george_bernard_shaw"
+        },
+        "topics": [
+            {
+                "name": "Education",
+                "url": "/topics/education"
+            },
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Folly",
+                "url": "/topics/folly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/giordano_bruno_629096?src=t_pedantry",
+        "quote": "We see that pedantry has never been held in such esteem for the government of the world as in our times, and it offers as many paths of the true intelligible species and objects of infallible and sole truth as there are individual pedants.",
+        "author": {
+            "name": "Giordano Bruno",
+            "url": "/authors/giordano_bruno"
+        },
+        "topics": [
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Offers",
+                "url": "/topics/offers"
+            },
+            {
+                "name": "Sole",
+                "url": "/topics/sole"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/carroll_oconnor_318586?src=t_pedantry",
+        "quote": "The wages of pedantry is pain.",
+        "author": {
+            "name": "Carroll O'Connor",
+            "url": "/authors/carroll_oconnor"
+        },
+        "topics": [
+            {
+                "name": "Pain",
+                "url": "/topics/pain"
+            },
+            {
+                "name": "Wages",
+                "url": "/topics/wages"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/albert_j_nock_396390?src=t_pedantry",
+        "quote": "Diligent as one must be in learning, one must be as diligent in forgetting; otherwise the process is one of pedantry, not culture.",
+        "author": {
+            "name": "Albert J. Nock",
+            "url": "/authors/albert_j_nock"
+        },
+        "topics": [
+            {
+                "name": "Process",
+                "url": "/topics/process"
+            },
+            {
+                "name": "Diligent",
+                "url": "/topics/diligent"
+            },
+            {
+                "name": "Otherwise",
+                "url": "/topics/otherwise"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/albert_j_nock_408858?src=t_pedantry",
+        "quote": "Learning has always been made much of, but forgetting has always been deprecated; therefore pedantry has pretty well established itself throughout the modern world at the expense of culture.",
+        "author": {
+            "name": "Albert J. Nock",
+            "url": "/authors/albert_j_nock"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Established",
+                "url": "/topics/established"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/albert_j_nock_408859?src=t_pedantry",
+        "quote": "Perhaps the prevalence of pedantry may be largely accounted for by the common error of thinking that, because useful knowledge should be remembered, any kind of knowledge that is at all worth learning should be remembered too.",
+        "author": {
+            "name": "Albert J. Nock",
+            "url": "/authors/albert_j_nock"
+        },
+        "topics": [
+            {
+                "name": "Learning",
+                "url": "/topics/learning"
+            },
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Kind",
+                "url": "/topics/kind"
+            }
+        ]
+    }
+]

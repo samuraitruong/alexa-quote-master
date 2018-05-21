@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/fred_gwynne_561334",
+        "quote": "I love making puns.",
+        "author": {
+            "name": "Fred Gwynne",
+            "url": "/quotes/fred_gwynne_561334"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Making",
+                "url": "/topics/making"
+            },
+            {
+                "name": "I Love",
+                "url": "/topics/i_love"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/fred_gwynne_561335",
+        "quote": "When I was a teenager, I wanted to be a portrait painter. As I got to be older, I realized that as a portrait painter I wouldn't be able to support a goldfish.",
+        "author": {
+            "name": "Fred Gwynne",
+            "url": "/quotes/fred_gwynne_561335"
+        },
+        "topics": [
+            {
+                "name": "Painter",
+                "url": "/topics/painter"
+            },
+            {
+                "name": "Wanted",
+                "url": "/topics/wanted"
+            },
+            {
+                "name": "Goldfish",
+                "url": "/topics/goldfish"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/fred_gwynne_561336",
+        "quote": "I decided to take a stab at acting. I entered the American Academy of Dramatic Art, where one teacher told me I'd never make it - I was too tall.",
+        "author": {
+            "name": "Fred Gwynne",
+            "url": "/quotes/fred_gwynne_561336"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "American",
+                "url": "/topics/american"
+            },
+            {
+                "name": "Dramatic",
+                "url": "/topics/dramatic"
+            }
+        ]
+    }
+]

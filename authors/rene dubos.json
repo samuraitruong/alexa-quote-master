@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/rene_dubos_395752",
+        "quote": "The most important pathological effects of pollution are extremely delayed and indirect.",
+        "author": {
+            "name": "Rene Dubos",
+            "url": "/quotes/rene_dubos_395752"
+        },
+        "topics": [
+            {
+                "name": "Important",
+                "url": "/topics/important"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rene_dubos_312059",
+        "quote": "Man shapes himself through decisions that shape his environment.",
+        "author": {
+            "name": "Rene Dubos",
+            "url": "/quotes/rene_dubos_312059"
+        },
+        "topics": [
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Himself",
+                "url": "/topics/himself"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rene_dubos_388189",
+        "quote": "More can be learned from what works than from what fails.",
+        "author": {
+            "name": "Rene Dubos",
+            "url": "/quotes/rene_dubos_388189"
+        },
+        "topics": [
+            {
+                "name": "Learned",
+                "url": "/topics/learned"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Works",
+                "url": "/topics/works"
+            }
+        ]
+    }
+]

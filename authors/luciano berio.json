@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/luciano_berio_184907",
+        "quote": "In music, as I find myself forever saying, things don't get better or worse: they evolve and transform themselves.",
+        "author": {
+            "name": "Luciano Berio",
+            "url": "/quotes/luciano_berio_184907"
+        },
+        "topics": [
+            {
+                "name": "Myself",
+                "url": "/topics/myself"
+            },
+            {
+                "name": "Better",
+                "url": "/topics/better"
+            },
+            {
+                "name": "Worse",
+                "url": "/topics/worse"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/luciano_berio_184871",
+        "quote": "The relation between practical and spiritual spheres in music is obvious, if only because it demands ears, finger, consciousness and intellect.",
+        "author": {
+            "name": "Luciano Berio",
+            "url": "/quotes/luciano_berio_184871"
+        },
+        "topics": [
+            {
+                "name": "Finger",
+                "url": "/topics/finger"
+            },
+            {
+                "name": "Practical",
+                "url": "/topics/practical"
+            },
+            {
+                "name": "Intellect",
+                "url": "/topics/intellect"
+            }
+        ]
+    }
+]

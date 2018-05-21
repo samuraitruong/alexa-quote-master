@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/giorgio_morandi_257668",
+        "quote": "Everything is a mystery, ourselves, and all things both simple and humble.",
+        "author": {
+            "name": "Giorgio Morandi",
+            "url": "/quotes/giorgio_morandi_257668"
+        },
+        "topics": [
+            {
+                "name": "Humble",
+                "url": "/topics/humble"
+            },
+            {
+                "name": "Mystery",
+                "url": "/topics/mystery"
+            },
+            {
+                "name": "Things",
+                "url": "/topics/things"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/giorgio_morandi_257669",
+        "quote": "A half dozen pictures would just about be enough for the life of an artist, for my life.",
+        "author": {
+            "name": "Giorgio Morandi",
+            "url": "/quotes/giorgio_morandi_257669"
+        },
+        "topics": [
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Half",
+                "url": "/topics/half"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            }
+        ]
+    }
+]

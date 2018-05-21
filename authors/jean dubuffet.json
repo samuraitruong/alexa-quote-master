@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/jean_dubuffet_111904",
+        "quote": "For me, insanity is super sanity. The normal is psychotic. Normal means lack of imagination, lack of creativity.",
+        "author": {
+            "name": "Jean Dubuffet",
+            "url": "/quotes/jean_dubuffet_111904"
+        },
+        "topics": [
+            {
+                "name": "Normal",
+                "url": "/topics/normal"
+            },
+            {
+                "name": "Super",
+                "url": "/topics/super"
+            },
+            {
+                "name": "Means",
+                "url": "/topics/means"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jean_dubuffet_404149",
+        "quote": "Unless one says goodbye to what one loves, and unless one travels to completely new territories, one can expect merely a long wearing away of oneself and an eventual extinction.",
+        "author": {
+            "name": "Jean Dubuffet",
+            "url": "/quotes/jean_dubuffet_404149"
+        },
+        "topics": [
+            {
+                "name": "Goodbye",
+                "url": "/topics/goodbye"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            }
+        ]
+    }
+]

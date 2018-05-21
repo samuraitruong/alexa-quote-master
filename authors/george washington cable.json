@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/george_washington_cable_190200",
+        "quote": "Everybody knows the Lord loveth a cheerful giver.",
+        "author": {
+            "name": "George Washington Cable",
+            "url": "/quotes/george_washington_cable_190200"
+        },
+        "topics": [
+            {
+                "name": "Lord",
+                "url": "/topics/lord"
+            },
+            {
+                "name": "Everybody",
+                "url": "/topics/everybody"
+            },
+            {
+                "name": "Cheerful",
+                "url": "/topics/cheerful"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_washington_cable_190201",
+        "quote": "And in the afternoon they entered a land - but such a land! A land hung in mourning, darkened by gigantic cypresses, submerged; a land of reptiles, silence, shadow, decay.",
+        "author": {
+            "name": "George Washington Cable",
+            "url": "/quotes/george_washington_cable_190201"
+        },
+        "topics": [
+            {
+                "name": "Shadow",
+                "url": "/topics/shadow"
+            },
+            {
+                "name": "Reptiles",
+                "url": "/topics/reptiles"
+            },
+            {
+                "name": "Submerged",
+                "url": "/topics/submerged"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_washington_cable_190197",
+        "quote": "There came to port last Sunday night the queerest little craft, without an inch of rigging on; I looked and looked - and laughed. It seemed so curious that she should cross the unknown water, and moor herself within my room - my daughter! O my daughter!",
+        "author": {
+            "name": "George Washington Cable",
+            "url": "/quotes/george_washington_cable_190197"
+        },
+        "topics": [
+            {
+                "name": "Unknown",
+                "url": "/topics/unknown"
+            },
+            {
+                "name": "Craft",
+                "url": "/topics/craft"
+            },
+            {
+                "name": "Without",
+                "url": "/topics/without"
+            }
+        ]
+    }
+]

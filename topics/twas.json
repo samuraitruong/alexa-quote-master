@@ -1,0 +1,134 @@
+[
+    {
+        "url": "/quotes/harriet_tubman_629152?src=t_twas",
+        "quote": "Twasn't me, 'twas the Lord! I always told Him, 'I trust to you. I don't know where to go or what to do, but I expect You to lead me,' an' He always did.",
+        "author": {
+            "name": "Harriet Tubman",
+            "url": "/authors/harriet_tubman"
+        },
+        "topics": [
+            {
+                "name": "Trust",
+                "url": "/topics/trust"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Lord",
+                "url": "/topics/lord"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/euripides_149021?src=t_twas",
+        "quote": "'Twas but my tongue, 'twas not my soul that swore.",
+        "author": {
+            "name": "Euripides",
+            "url": "/authors/euripides"
+        },
+        "topics": [
+            {
+                "name": "Tongue",
+                "url": "/topics/tongue"
+            },
+            {
+                "name": "My Soul",
+                "url": "/topics/my_soul"
+            },
+            {
+                "name": "Swore",
+                "url": "/topics/swore"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/oliver_goldsmith_385955?src=t_twas",
+        "quote": "On the stage he was natural, simple, affecting, 'Twas only when he was off, he was acting.",
+        "author": {
+            "name": "Oliver Goldsmith",
+            "url": "/authors/oliver_goldsmith"
+        },
+        "topics": [
+            {
+                "name": "Stage",
+                "url": "/topics/stage"
+            },
+            {
+                "name": "Natural",
+                "url": "/topics/natural"
+            },
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/cameron_mathison_529120?src=t_twas",
+        "quote": "Christmas was always a big holiday in our family. Every Christmas Eve before we'd go to bed, my mom and dad would read to us two or three stories and they would always be 'The Happy Prince,' 'The Gift of the Magi' and 'Twas the Night Before Christmas,' and I would like to keep that alive.",
+        "author": {
+            "name": "Cameron Mathison",
+            "url": "/authors/cameron_mathison"
+        },
+        "topics": [
+            {
+                "name": "Gift",
+                "url": "/topics/gift"
+            },
+            {
+                "name": "Bed",
+                "url": "/topics/bed"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_haynes_bayly_375638?src=t_twas",
+        "quote": "We met, 'twas in a crowd, and I thought he would shun me.",
+        "author": {
+            "name": "Thomas Haynes Bayly",
+            "url": "/authors/thomas_haynes_bayly"
+        },
+        "topics": [
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            },
+            {
+                "name": "Crowd",
+                "url": "/topics/crowd"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alexander_brome_395435?src=t_twas",
+        "quote": "'Twas drink made me fall in love, And love made me run into debt, And though I have struggled and struggled and strove, I cannot get out of them yet.",
+        "author": {
+            "name": "Alexander Brome",
+            "url": "/authors/alexander_brome"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Made",
+                "url": "/topics/made"
+            },
+            {
+                "name": "Though",
+                "url": "/topics/though"
+            }
+        ]
+    }
+]

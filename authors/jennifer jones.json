@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/jennifer_jones_182865",
+        "quote": "My mother told me never explain, never complain. Even as a young actress, I determined I would never give personal interviews, since they made me so uncomfortable.",
+        "author": {
+            "name": "Jennifer Jones",
+            "url": "/quotes/jennifer_jones_182865"
+        },
+        "topics": [
+            {
+                "name": "Explain",
+                "url": "/topics/explain"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            },
+            {
+                "name": "Actress",
+                "url": "/topics/actress"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jennifer_jones_131326",
+        "quote": "If you could choose one characteristic that would get you through life, choose a sense of humor.",
+        "author": {
+            "name": "Jennifer Jones",
+            "url": "/quotes/jennifer_jones_131326"
+        },
+        "topics": [
+            {
+                "name": "Humor",
+                "url": "/topics/humor"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            }
+        ]
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/eli_biham_860321",
+        "quote": "I got many emails that brought to my attention that Mr. Ioan Mang... plagiarised a manuscript of mine, as well as papers of other people.",
+        "author": {
+            "name": "Eli Biham",
+            "url": "/quotes/eli_biham_860321"
+        },
+        "topics": [
+            {
+                "name": "Mine",
+                "url": "/topics/mine"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Brought",
+                "url": "/topics/brought"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eli_biham_860322",
+        "quote": "Using a special device, it's possible to steal calls and impersonate callers in the middle of a call as it's happening.",
+        "author": {
+            "name": "Eli Biham",
+            "url": "/quotes/eli_biham_860322"
+        },
+        "topics": [
+            {
+                "name": "Special",
+                "url": "/topics/special"
+            },
+            {
+                "name": "Call",
+                "url": "/topics/call"
+            },
+            {
+                "name": "Using",
+                "url": "/topics/using"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eli_biham_860323",
+        "quote": "We can listen in to a call while it is still at the ringing stage and within a fraction of a second know everything about the user. Then we can listen in to the call.",
+        "author": {
+            "name": "Eli Biham",
+            "url": "/quotes/eli_biham_860323"
+        },
+        "topics": [
+            {
+                "name": "Within",
+                "url": "/topics/within"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            },
+            {
+                "name": "Ringing",
+                "url": "/topics/ringing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eli_biham_860324",
+        "quote": "Some biometric methods can't be taken from a person from afar without his or her agreement.",
+        "author": {
+            "name": "Eli Biham",
+            "url": "/quotes/eli_biham_860324"
+        },
+        "topics": [
+            {
+                "name": "Agreement",
+                "url": "/topics/agreement"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            }
+        ]
+    }
+]

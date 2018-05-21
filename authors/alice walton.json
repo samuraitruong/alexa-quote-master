@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/alice_walton_477399",
+        "quote": "One of the great responsibilities that I have is to manage my assets wisely, so that they create value.",
+        "author": {
+            "name": "Alice Walton",
+            "url": "/quotes/alice_walton_477399"
+        },
+        "topics": [
+            {
+                "name": "Assets",
+                "url": "/topics/assets"
+            },
+            {
+                "name": "Responsibilities",
+                "url": "/topics/responsibilities"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alice_walton_477400",
+        "quote": "I know the price of lettuce. You need to understand price and value. You buy the best lettuce you can at the best price you can.",
+        "author": {
+            "name": "Alice Walton",
+            "url": "/quotes/alice_walton_477400"
+        },
+        "topics": [
+            {
+                "name": "Price",
+                "url": "/topics/price"
+            },
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            },
+            {
+                "name": "Buy",
+                "url": "/topics/buy"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alice_walton_477397",
+        "quote": "There is a lot that horses and art share in common. I have found that most horse people are art lovers, and vice versa.",
+        "author": {
+            "name": "Alice Walton",
+            "url": "/quotes/alice_walton_477397"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Vice",
+                "url": "/topics/vice"
+            },
+            {
+                "name": "Vice Versa",
+                "url": "/topics/vice_versa"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alice_walton_477398",
+        "quote": "I think it is more of an intuitive, circular kind of personality, for starters. And, as I say of horses, the secret to breeding great horses is the three B's: bones, brains, and balance. If you look at art, it shares some of the same qualities.",
+        "author": {
+            "name": "Alice Walton",
+            "url": "/quotes/alice_walton_477398"
+        },
+        "topics": [
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Secret",
+                "url": "/topics/secret"
+            }
+        ]
+    }
+]

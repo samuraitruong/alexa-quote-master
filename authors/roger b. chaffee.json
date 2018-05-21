@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/roger_b_chaffee_117014",
+        "quote": "Problems look mighty small from 150 miles up.",
+        "author": {
+            "name": "Roger B. Chaffee",
+            "url": "/quotes/roger_b_chaffee_117014"
+        },
+        "topics": [
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Mighty",
+                "url": "/topics/mighty"
+            },
+            {
+                "name": "Up",
+                "url": "/topics/up"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/roger_b_chaffee_175248",
+        "quote": "The world itself looks cleaner and so much more beautiful. Maybe we can make it that way - the way God intended it to be - by giving everyone, eventually, that new perspective from out in space.",
+        "author": {
+            "name": "Roger B. Chaffee",
+            "url": "/quotes/roger_b_chaffee_175248"
+        },
+        "topics": [
+            {
+                "name": "Space",
+                "url": "/topics/space"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Maybe",
+                "url": "/topics/maybe"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/isabelle_eberhardt_391623",
+        "quote": "A nomad I will remain for life, in love with distant and uncharted places.",
+        "author": {
+            "name": "Isabelle Eberhardt",
+            "url": "/quotes/isabelle_eberhardt_391623"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Places",
+                "url": "/topics/places"
+            },
+            {
+                "name": "Uncharted",
+                "url": "/topics/uncharted"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/isabelle_eberhardt_145725",
+        "quote": "One must never look for happiness: one meets it by the way.",
+        "author": {
+            "name": "Isabelle Eberhardt",
+            "url": "/quotes/isabelle_eberhardt_145725"
+        },
+        "topics": [
+            {
+                "name": "Happiness",
+                "url": "/topics/happiness"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Meets",
+                "url": "/topics/meets"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/isabelle_eberhardt_391141",
+        "quote": "I am not afraid of death, but would not want to die in some obscure or pointless way.",
+        "author": {
+            "name": "Isabelle Eberhardt",
+            "url": "/quotes/isabelle_eberhardt_391141"
+        },
+        "topics": [
+            {
+                "name": "Die",
+                "url": "/topics/die"
+            },
+            {
+                "name": "Pointless",
+                "url": "/topics/pointless"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    }
+]

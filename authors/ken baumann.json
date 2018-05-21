@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/ken_baumann_523461",
+        "quote": "I don't eat fast food often, but I love tacos. I could write prophetically about how perfect the taco is.",
+        "author": {
+            "name": "Ken Baumann",
+            "url": "/quotes/ken_baumann_523461"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Perfect",
+                "url": "/topics/perfect"
+            },
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ken_baumann_523459",
+        "quote": "Growing up, my mom would watch 'Notting Hill' a lot. She loves Hugh Grant.",
+        "author": {
+            "name": "Ken Baumann",
+            "url": "/quotes/ken_baumann_523459"
+        },
+        "topics": [
+            {
+                "name": "Mom",
+                "url": "/topics/mom"
+            },
+            {
+                "name": "Lot",
+                "url": "/topics/lot"
+            },
+            {
+                "name": "Loves",
+                "url": "/topics/loves"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ken_baumann_523460",
+        "quote": "I love art and I think I was destined to end up in some aspect of the arts.",
+        "author": {
+            "name": "Ken Baumann",
+            "url": "/quotes/ken_baumann_523460"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ken_baumann_523462",
+        "quote": "I would sleep 12 hours a day if I could.",
+        "author": {
+            "name": "Ken Baumann",
+            "url": "/quotes/ken_baumann_523462"
+        },
+        "topics": [
+            {
+                "name": "Sleep",
+                "url": "/topics/sleep"
+            },
+            {
+                "name": "Hours",
+                "url": "/topics/hours"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            }
+        ]
+    }
+]

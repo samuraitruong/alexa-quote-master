@@ -1,0 +1,200 @@
+[
+    {
+        "url": "/quotes/jack_johnson_380124",
+        "quote": "Don't let your dreams be dreams.",
+        "author": {
+            "name": "Jack Johnson",
+            "url": "/quotes/jack_johnson_380124"
+        },
+        "topics": [
+            {
+                "name": "Dreams",
+                "url": "/topics/dreams"
+            },
+            {
+                "name": "Your Dreams",
+                "url": "/topics/your_dreams"
+            },
+            {
+                "name": "Your",
+                "url": "/topics/your"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jack_johnson_381024",
+        "quote": "Slow down, everyone. You're moving too fast.",
+        "author": {
+            "name": "Jack Johnson",
+            "url": "/quotes/jack_johnson_381024"
+        },
+        "topics": [
+            {
+                "name": "Fast",
+                "url": "/topics/fast"
+            },
+            {
+                "name": "Slow",
+                "url": "/topics/slow"
+            },
+            {
+                "name": "Everyone",
+                "url": "/topics/everyone"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jack_johnson_406074",
+        "quote": "It takes a long, hard effort and sustained determination to reduce crime. We will stay the course and we are confident that the numbers will continue to go down.",
+        "author": {
+            "name": "Jack Johnson",
+            "url": "/quotes/jack_johnson_406074"
+        },
+        "topics": [
+            {
+                "name": "Confident",
+                "url": "/topics/confident"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Reduce",
+                "url": "/topics/reduce"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jack_johnson_389655",
+        "quote": "If it seems like you are playing around and not practicing, that's when you know you really love it.",
+        "author": {
+            "name": "Jack Johnson",
+            "url": "/quotes/jack_johnson_389655"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Practicing",
+                "url": "/topics/practicing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jack_johnson_391813",
+        "quote": "Our dreams are made of real things, like a shoebox full of photographs.",
+        "author": {
+            "name": "Jack Johnson",
+            "url": "/quotes/jack_johnson_391813"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Made",
+                "url": "/topics/made"
+            },
+            {
+                "name": "Photographs",
+                "url": "/topics/photographs"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jack_johnson_170171",
+        "quote": "I made a lot of mistakes out of the ring, but I never made any in it.",
+        "author": {
+            "name": "Jack Johnson",
+            "url": "/quotes/jack_johnson_170171"
+        },
+        "topics": [
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Ring",
+                "url": "/topics/ring"
+            },
+            {
+                "name": "Lot",
+                "url": "/topics/lot"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jack_johnson_379309",
+        "quote": "It's as simple as something that nobody knows.",
+        "author": {
+            "name": "Jack Johnson",
+            "url": "/quotes/jack_johnson_379309"
+        },
+        "topics": [
+            {
+                "name": "Simple",
+                "url": "/topics/simple"
+            },
+            {
+                "name": "Nobody",
+                "url": "/topics/nobody"
+            },
+            {
+                "name": "Something",
+                "url": "/topics/something"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jack_johnson_380123",
+        "quote": "We're just a bubble in a boiling pot.",
+        "author": {
+            "name": "Jack Johnson",
+            "url": "/quotes/jack_johnson_380123"
+        },
+        "topics": [
+            {
+                "name": "Bubble",
+                "url": "/topics/bubble"
+            },
+            {
+                "name": "Pot",
+                "url": "/topics/pot"
+            },
+            {
+                "name": "Boiling",
+                "url": "/topics/boiling"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jack_johnson_390453",
+        "quote": "My friend told me later he got the chicken pox. I told him I caught politics and never got over it.",
+        "author": {
+            "name": "Jack Johnson",
+            "url": "/quotes/jack_johnson_390453"
+        },
+        "topics": [
+            {
+                "name": "Politics",
+                "url": "/topics/politics"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Caught",
+                "url": "/topics/caught"
+            }
+        ]
+    }
+]

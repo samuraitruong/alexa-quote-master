@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/phoebe_cary_128842",
+        "quote": "And though hard be the task, 'Keep a stiff upper lip'.",
+        "author": {
+            "name": "Phoebe Cary",
+            "url": "/quotes/phoebe_cary_128842"
+        },
+        "topics": [
+            {
+                "name": "Task",
+                "url": "/topics/task"
+            },
+            {
+                "name": "Lip",
+                "url": "/topics/lip"
+            },
+            {
+                "name": "Stiff",
+                "url": "/topics/stiff"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/phoebe_cary_176052",
+        "quote": "One sweetly solemn thought, comes to me o'er and o'er; I am nearer home today, than I ever have been before.",
+        "author": {
+            "name": "Phoebe Cary",
+            "url": "/quotes/phoebe_cary_176052"
+        },
+        "topics": [
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Sweetly",
+                "url": "/topics/sweetly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/phoebe_cary_176053",
+        "quote": "Death comes not to the living soul, nor age to the loving heart.",
+        "author": {
+            "name": "Phoebe Cary",
+            "url": "/quotes/phoebe_cary_176053"
+        },
+        "topics": [
+            {
+                "name": "Living",
+                "url": "/topics/living"
+            },
+            {
+                "name": "Loving",
+                "url": "/topics/loving"
+            },
+            {
+                "name": "Nor",
+                "url": "/topics/nor"
+            }
+        ]
+    }
+]

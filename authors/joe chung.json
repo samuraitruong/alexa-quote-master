@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/joe_chung_110035",
+        "quote": "It always takes awfully long time to understand unbelievably simple things.",
+        "author": {
+            "name": "Joe Chung",
+            "url": "/quotes/joe_chung_110035"
+        },
+        "topics": [
+            {
+                "name": "Long Time",
+                "url": "/topics/long_time"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Things",
+                "url": "/topics/things"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joe_chung_110132",
+        "quote": "People never know how strong is their lust for being cheated.",
+        "author": {
+            "name": "Joe Chung",
+            "url": "/quotes/joe_chung_110132"
+        },
+        "topics": [
+            {
+                "name": "Strong",
+                "url": "/topics/strong"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "How",
+                "url": "/topics/how"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joe_chung_110265",
+        "quote": "Those who abhors democracy would rarely immigrate to an authoritarian state if they have to.",
+        "author": {
+            "name": "Joe Chung",
+            "url": "/quotes/joe_chung_110265"
+        },
+        "topics": [
+            {
+                "name": "Authoritarian",
+                "url": "/topics/authoritarian"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            },
+            {
+                "name": "Abhors",
+                "url": "/topics/abhors"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joe_chung_110300",
+        "quote": "We can see, so we are always blind to things deeper than skin.",
+        "author": {
+            "name": "Joe Chung",
+            "url": "/quotes/joe_chung_110300"
+        },
+        "topics": [
+            {
+                "name": "Blind",
+                "url": "/topics/blind"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "See",
+                "url": "/topics/see"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joe_chung_392255",
+        "quote": "Remember, things extremely hard to come by are not necessarily good.",
+        "author": {
+            "name": "Joe Chung",
+            "url": "/quotes/joe_chung_392255"
+        },
+        "topics": [
+            {
+                "name": "Remember",
+                "url": "/topics/remember"
+            },
+            {
+                "name": "Things",
+                "url": "/topics/things"
+            },
+            {
+                "name": "Extremely",
+                "url": "/topics/extremely"
+            }
+        ]
+    }
+]

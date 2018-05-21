@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/jerome_kern_619936",
+        "quote": "The fact that the theatregoing public likes my music is no credit to me. There are many other composers who write better music that the public doesn't like.",
+        "author": {
+            "name": "Jerome Kern",
+            "url": "/quotes/jerome_kern_619936"
+        },
+        "topics": [
+            {
+                "name": "Fact",
+                "url": "/topics/fact"
+            },
+            {
+                "name": "Composers",
+                "url": "/topics/composers"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jerome_kern_619935",
+        "quote": "I write music to both the situations and the lyrics in plays.",
+        "author": {
+            "name": "Jerome Kern",
+            "url": "/quotes/jerome_kern_619935"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "Plays",
+                "url": "/topics/plays"
+            },
+            {
+                "name": "I Write",
+                "url": "/topics/i_write"
+            }
+        ]
+    }
+]

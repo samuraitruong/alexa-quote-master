@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/francisco_franco_126590",
+        "quote": "I am responsible only to God and history.",
+        "author": {
+            "name": "Francisco Franco",
+            "url": "/quotes/francisco_franco_126590"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Responsible",
+                "url": "/topics/responsible"
+            },
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/francisco_franco_387754",
+        "quote": "There will be no communism.",
+        "author": {
+            "name": "Francisco Franco",
+            "url": "/quotes/francisco_franco_387754"
+        },
+        "topics": [
+            {
+                "name": "Communism",
+                "url": "/topics/communism"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/francisco_franco_851572",
+        "quote": "The whole secret of the campaigns unleashed against Spain can be explained in two words: masonry and communism... we have to extirpate these two evils from our land.",
+        "author": {
+            "name": "Francisco Franco",
+            "url": "/quotes/francisco_franco_851572"
+        },
+        "topics": [
+            {
+                "name": "Words",
+                "url": "/topics/words"
+            },
+            {
+                "name": "Spain",
+                "url": "/topics/spain"
+            },
+            {
+                "name": "Against",
+                "url": "/topics/against"
+            }
+        ]
+    }
+]

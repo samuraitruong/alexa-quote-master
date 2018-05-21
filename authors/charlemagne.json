@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/charlemagne_182029",
+        "quote": "To have another language is to possess a second soul.",
+        "author": {
+            "name": "Charlemagne",
+            "url": "/quotes/charlemagne_182029"
+        },
+        "topics": [
+            {
+                "name": "Soul",
+                "url": "/topics/soul"
+            },
+            {
+                "name": "Another",
+                "url": "/topics/another"
+            },
+            {
+                "name": "Possess",
+                "url": "/topics/possess"
+            }
+        ]
+    }
+]

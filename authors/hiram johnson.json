@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/hiram_johnson_108417",
+        "quote": "The first casualty when war comes is truth.",
+        "author": {
+            "name": "Hiram Johnson",
+            "url": "/quotes/hiram_johnson_108417"
+        },
+        "topics": [
+            {
+                "name": "Truth",
+                "url": "/topics/truth"
+            },
+            {
+                "name": "War",
+                "url": "/topics/war"
+            },
+            {
+                "name": "Casualty",
+                "url": "/topics/casualty"
+            }
+        ]
+    }
+]

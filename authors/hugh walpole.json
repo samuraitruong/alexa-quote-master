@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/hugh_walpole_160591",
+        "quote": "Happiness comes from... some curious adjustment to life.",
+        "author": {
+            "name": "Hugh Walpole",
+            "url": "/quotes/hugh_walpole_160591"
+        },
+        "topics": [
+            {
+                "name": "Happiness",
+                "url": "/topics/happiness"
+            },
+            {
+                "name": "Curious",
+                "url": "/topics/curious"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/hugh_walpole_160590",
+        "quote": "Don't play for safety - it's the most dangerous thing in the world.",
+        "author": {
+            "name": "Hugh Walpole",
+            "url": "/quotes/hugh_walpole_160590"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            }
+        ]
+    }
+]

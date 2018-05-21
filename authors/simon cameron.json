@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/simon_cameron_128832",
+        "quote": "An honest politician is one who, when he is bought, will stay bought.",
+        "author": {
+            "name": "Simon Cameron",
+            "url": "/quotes/simon_cameron_128832"
+        },
+        "topics": [
+            {
+                "name": "Politician",
+                "url": "/topics/politician"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Bought",
+                "url": "/topics/bought"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/simon_cameron_346233",
+        "quote": "I am tired of all this sort of thing called science here... We have spent millions in that sort of thing for the last few years, and it is time it should be stopped.",
+        "author": {
+            "name": "Simon Cameron",
+            "url": "/quotes/simon_cameron_346233"
+        },
+        "topics": [
+            {
+                "name": "Last",
+                "url": "/topics/last"
+            },
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            },
+            {
+                "name": "Stopped",
+                "url": "/topics/stopped"
+            }
+        ]
+    }
+]

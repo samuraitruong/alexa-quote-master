@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/henry_hazlitt_201858",
+        "quote": "The art of economics consists in looking not merely at the immediate but at the longer effects of any act or policy; it consists in tracing the consequences of that policy not merely for one group but for all groups.",
+        "author": {
+            "name": "Henry Hazlitt",
+            "url": "/quotes/henry_hazlitt_201858"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Tracing",
+                "url": "/topics/tracing"
+            },
+            {
+                "name": "Groups",
+                "url": "/topics/groups"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henry_hazlitt_201856",
+        "quote": "The 'private sector' of the economy is, in fact, the voluntary sector; and the 'public sector' is, in fact, the coercive sector.",
+        "author": {
+            "name": "Henry Hazlitt",
+            "url": "/quotes/henry_hazlitt_201856"
+        },
+        "topics": [
+            {
+                "name": "Fact",
+                "url": "/topics/fact"
+            },
+            {
+                "name": "Private",
+                "url": "/topics/private"
+            },
+            {
+                "name": "Public Sector",
+                "url": "/topics/public_sector"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henry_hazlitt_201857",
+        "quote": "The ideas which now pass for brilliant innovations and advances are in fact mere revivals of ancient errors, and a further proof of the dictum that those who are ignorant of the past are condemned to repeat it.",
+        "author": {
+            "name": "Henry Hazlitt",
+            "url": "/quotes/henry_hazlitt_201857"
+        },
+        "topics": [
+            {
+                "name": "Fact",
+                "url": "/topics/fact"
+            },
+            {
+                "name": "Brilliant",
+                "url": "/topics/brilliant"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henry_hazlitt_201859",
+        "quote": "The first requisite of a sound monetary system is that it put the least possible power over the quantity or quality of money in the hands of the politicians.",
+        "author": {
+            "name": "Henry Hazlitt",
+            "url": "/quotes/henry_hazlitt_201859"
+        },
+        "topics": [
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Quantity",
+                "url": "/topics/quantity"
+            },
+            {
+                "name": "Monetary",
+                "url": "/topics/monetary"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henry_hazlitt_201860",
+        "quote": "A strong passion for any object will ensure success, for the desire of the end will point out the means.",
+        "author": {
+            "name": "Henry Hazlitt",
+            "url": "/quotes/henry_hazlitt_201860"
+        },
+        "topics": [
+            {
+                "name": "Strong",
+                "url": "/topics/strong"
+            },
+            {
+                "name": "Means",
+                "url": "/topics/means"
+            },
+            {
+                "name": "Ensure",
+                "url": "/topics/ensure"
+            }
+        ]
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/dolores_ibarruri_143109",
+        "quote": "It is better to die on your feet than to live on your knees.",
+        "author": {
+            "name": "Dolores Ibarruri",
+            "url": "/quotes/dolores_ibarruri_143109"
+        },
+        "topics": [
+            {
+                "name": "Feet",
+                "url": "/topics/feet"
+            },
+            {
+                "name": "Better",
+                "url": "/topics/better"
+            },
+            {
+                "name": "Die",
+                "url": "/topics/die"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dolores_ibarruri_394962",
+        "quote": "It is better to kill one hundred innocents than to let one guilty person go.",
+        "author": {
+            "name": "Dolores Ibarruri",
+            "url": "/quotes/dolores_ibarruri_394962"
+        },
+        "topics": [
+            {
+                "name": "Better",
+                "url": "/topics/better"
+            },
+            {
+                "name": "Guilty",
+                "url": "/topics/guilty"
+            },
+            {
+                "name": "Hundred",
+                "url": "/topics/hundred"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dolores_ibarruri_126489",
+        "quote": "It is better to be the widow of a hero than the wife of a coward.",
+        "author": {
+            "name": "Dolores Ibarruri",
+            "url": "/quotes/dolores_ibarruri_126489"
+        },
+        "topics": [
+            {
+                "name": "Wife",
+                "url": "/topics/wife"
+            },
+            {
+                "name": "Better",
+                "url": "/topics/better"
+            },
+            {
+                "name": "Widow",
+                "url": "/topics/widow"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dolores_ibarruri_395746",
+        "quote": "Better to die on one's feet than to live on one's knees.",
+        "author": {
+            "name": "Dolores Ibarruri",
+            "url": "/quotes/dolores_ibarruri_395746"
+        },
+        "topics": [
+            {
+                "name": "Feet",
+                "url": "/topics/feet"
+            },
+            {
+                "name": "Better",
+                "url": "/topics/better"
+            },
+            {
+                "name": "Die",
+                "url": "/topics/die"
+            }
+        ]
+    }
+]

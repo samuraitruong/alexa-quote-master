@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/charlie_mcdermott_576776",
+        "quote": "I can be very lazy sometimes. Really lethargic!",
+        "author": {
+            "name": "Charlie McDermott",
+            "url": "/quotes/charlie_mcdermott_576776"
+        },
+        "topics": [
+            {
+                "name": "Sometimes",
+                "url": "/topics/sometimes"
+            },
+            {
+                "name": "Lazy",
+                "url": "/topics/lazy"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charlie_mcdermott_576777",
+        "quote": "I didn't like school. I was pretty much daydreaming all the time. I would be in the back of the class writing down random stories and stuff that would have nothing to do with school. I only lasted two years in high school before I moved out to L.A.",
+        "author": {
+            "name": "Charlie McDermott",
+            "url": "/quotes/charlie_mcdermott_576777"
+        },
+        "topics": [
+            {
+                "name": "Back",
+                "url": "/topics/back"
+            },
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            },
+            {
+                "name": "Moved",
+                "url": "/topics/moved"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charlie_mcdermott_576778",
+        "quote": "I was never really a child actor. I was working sporadically in indie films in Pennsylvania, but I was still living at home.",
+        "author": {
+            "name": "Charlie McDermott",
+            "url": "/quotes/charlie_mcdermott_576778"
+        },
+        "topics": [
+            {
+                "name": "Indie",
+                "url": "/topics/indie"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            },
+            {
+                "name": "Films",
+                "url": "/topics/films"
+            }
+        ]
+    }
+]

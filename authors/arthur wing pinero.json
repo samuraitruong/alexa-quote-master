@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/arthur_wing_pinero_135153",
+        "quote": "Where there's tea there's hope.",
+        "author": {
+            "name": "Arthur Wing Pinero",
+            "url": "/quotes/arthur_wing_pinero_135153"
+        },
+        "topics": [
+            {
+                "name": "Hope",
+                "url": "/topics/hope"
+            },
+            {
+                "name": "Tea",
+                "url": "/topics/tea"
+            },
+            {
+                "name": "Where",
+                "url": "/topics/where"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/arthur_wing_pinero_142635",
+        "quote": "I believe the future is only the past again, entered through another gate.",
+        "author": {
+            "name": "Arthur Wing Pinero",
+            "url": "/quotes/arthur_wing_pinero_142635"
+        },
+        "topics": [
+            {
+                "name": "Future",
+                "url": "/topics/future"
+            },
+            {
+                "name": "Past",
+                "url": "/topics/past"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/arthur_wing_pinero_129782",
+        "quote": "A financier is a pawnbroker with imagination.",
+        "author": {
+            "name": "Arthur Wing Pinero",
+            "url": "/quotes/arthur_wing_pinero_129782"
+        },
+        "topics": [
+            {
+                "name": "Imagination",
+                "url": "/topics/imagination"
+            },
+            {
+                "name": "Financier",
+                "url": "/topics/financier"
+            }
+        ]
+    }
+]

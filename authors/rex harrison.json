@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/rex_harrison_404381",
+        "quote": "I'm at the age where I've got to prove that I'm just as good as I never was.",
+        "author": {
+            "name": "Rex Harrison",
+            "url": "/quotes/rex_harrison_404381"
+        },
+        "topics": [
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Prove",
+                "url": "/topics/prove"
+            },
+            {
+                "name": "Where",
+                "url": "/topics/where"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rex_harrison_404384",
+        "quote": "Tomorrow is a thief of pleasure.",
+        "author": {
+            "name": "Rex Harrison",
+            "url": "/quotes/rex_harrison_404384"
+        },
+        "topics": [
+            {
+                "name": "Tomorrow",
+                "url": "/topics/tomorrow"
+            },
+            {
+                "name": "Pleasure",
+                "url": "/topics/pleasure"
+            },
+            {
+                "name": "Thief",
+                "url": "/topics/thief"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rex_harrison_404360",
+        "quote": "Robert Morley is a legend in his own lunchtime.",
+        "author": {
+            "name": "Rex Harrison",
+            "url": "/quotes/rex_harrison_404360"
+        },
+        "topics": [
+            {
+                "name": "His",
+                "url": "/topics/his"
+            },
+            {
+                "name": "Robert",
+                "url": "/topics/robert"
+            },
+            {
+                "name": "Lunchtime",
+                "url": "/topics/lunchtime"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rex_harrison_404343",
+        "quote": "Exhilaration is that feeling you get just after a great idea hits you, and just before you realize what's wrong with it.",
+        "author": {
+            "name": "Rex Harrison",
+            "url": "/quotes/rex_harrison_404343"
+        },
+        "topics": [
+            {
+                "name": "Feeling",
+                "url": "/topics/feeling"
+            },
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            },
+            {
+                "name": "Idea",
+                "url": "/topics/idea"
+            }
+        ]
+    }
+]

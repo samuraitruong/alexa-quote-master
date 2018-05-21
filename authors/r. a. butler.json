@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/r_a_butler_135565",
+        "quote": "Politics is largely a matter of heart.",
+        "author": {
+            "name": "R. A. Butler",
+            "url": "/quotes/r_a_butler_135565"
+        },
+        "topics": [
+            {
+                "name": "Politics",
+                "url": "/topics/politics"
+            },
+            {
+                "name": "Matter",
+                "url": "/topics/matter"
+            },
+            {
+                "name": "Largely",
+                "url": "/topics/largely"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/r_a_butler_135566",
+        "quote": "In politics you must always keep running with the pack. The moment that you falter and they sense that you are injured, the rest will turn on you like wolves.",
+        "author": {
+            "name": "R. A. Butler",
+            "url": "/quotes/r_a_butler_135566"
+        },
+        "topics": [
+            {
+                "name": "Politics",
+                "url": "/topics/politics"
+            },
+            {
+                "name": "Rest",
+                "url": "/topics/rest"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            }
+        ]
+    }
+]

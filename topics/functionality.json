@@ -1,0 +1,852 @@
+[
+    {
+        "url": "/quotes/niklaus_wirth_306070?src=t_functionality",
+        "quote": "Our ultimate goal is extensible programming (EP). By this, we mean the construction of hierarchies of modules, each module adding new functionality to the system.",
+        "author": {
+            "name": "Niklaus Wirth",
+            "url": "/authors/niklaus_wirth"
+        },
+        "topics": [
+            {
+                "name": "Goal",
+                "url": "/topics/goal"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Ultimate Goal",
+                "url": "/topics/ultimate_goal"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jens_martin_skibsted_889395?src=t_functionality",
+        "quote": "Urban planning and design are helping us to shift from a car-centric system to a bike-centric one by making bicycles and bicycle infrastructure superior in functionality and attractiveness.",
+        "author": {
+            "name": "Jens Martin Skibsted",
+            "url": "/authors/jens_martin_skibsted"
+        },
+        "topics": [
+            {
+                "name": "Bicycle",
+                "url": "/topics/bicycle"
+            },
+            {
+                "name": "Helping",
+                "url": "/topics/helping"
+            },
+            {
+                "name": "Making",
+                "url": "/topics/making"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mary_lou_jepsen_841490?src=t_functionality",
+        "quote": "I figured out how to put basically the functionality of an M.R.I. machine - a multimillion-dollar M.R.I. machine - into a wearable in the form of a ski hat.",
+        "author": {
+            "name": "Mary Lou Jepsen",
+            "url": "/authors/mary_lou_jepsen"
+        },
+        "topics": [
+            {
+                "name": "Figured",
+                "url": "/topics/figured"
+            },
+            {
+                "name": "Out",
+                "url": "/topics/out"
+            },
+            {
+                "name": "Put",
+                "url": "/topics/put"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/anne_m_mulcahy_566868?src=t_functionality",
+        "quote": "The hardware business is all about per-unit manufacturing cost and functionality. The services business is less asset-intensive and more dependent on people.",
+        "author": {
+            "name": "Anne M. Mulcahy",
+            "url": "/authors/anne_m_mulcahy"
+        },
+        "topics": [
+            {
+                "name": "Business",
+                "url": "/topics/business"
+            },
+            {
+                "name": "Cost",
+                "url": "/topics/cost"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jonathan_zittrain_655716?src=t_functionality",
+        "quote": "Facebook allows outsiders to add functionality to the site but reserves the right to change that policy at any time, to charge a fee for applications, or to de-emphasize or eliminate apps that court controversy or that they simply don't like.",
+        "author": {
+            "name": "Jonathan Zittrain",
+            "url": "/authors/jonathan_zittrain"
+        },
+        "topics": [
+            {
+                "name": "Charge",
+                "url": "/topics/charge"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Add",
+                "url": "/topics/add"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tony_scott_209430?src=t_functionality",
+        "quote": "We think of enterprise architecture as the process we use for fully describing and mapping business functionality and business requirements and relating them to information systems requirements.",
+        "author": {
+            "name": "Tony Scott",
+            "url": "/authors/tony_scott"
+        },
+        "topics": [
+            {
+                "name": "Process",
+                "url": "/topics/process"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Mapping",
+                "url": "/topics/mapping"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/aaron_patzer_687142?src=t_functionality",
+        "quote": "Before Mint.com, I was a long-time user of 'Microsoft Money' and Intuit's 'Quicken.' Both were powerful tools, loaded with features and functionality around taxes, investment, budgeting - too feature-laden, in fact. They took hours to set up, forever to learn, and an hour a week to maintain.",
+        "author": {
+            "name": "Aaron Patzer",
+            "url": "/authors/aaron_patzer"
+        },
+        "topics": [
+            {
+                "name": "Week",
+                "url": "/topics/week"
+            },
+            {
+                "name": "Fact",
+                "url": "/topics/fact"
+            },
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henry_samueli_732246?src=t_functionality",
+        "quote": "We're seeing a lot of major companies as well as startups coming up with smartwatches that replicate a lot of the functionality you might have in your smartphone. Will it be as big a market as smartphones? Probably not, but it still can be a very substantial market.",
+        "author": {
+            "name": "Henry Samueli",
+            "url": "/authors/henry_samueli"
+        },
+        "topics": [
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Replicate",
+                "url": "/topics/replicate"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/raymond_loewy_598213?src=t_functionality",
+        "quote": "American products are marvels of production and functionality, but were unnecessarily and unbearably ugly, noisy smelly and offensive.",
+        "author": {
+            "name": "Raymond Loewy",
+            "url": "/authors/raymond_loewy"
+        },
+        "topics": [
+            {
+                "name": "Ugly",
+                "url": "/topics/ugly"
+            },
+            {
+                "name": "Offensive",
+                "url": "/topics/offensive"
+            },
+            {
+                "name": "Smelly",
+                "url": "/topics/smelly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kent_beck_722331?src=t_functionality",
+        "quote": "Organizations want small changes in functionality on a more regular basis. An organization like Flickr deploys a new version of its software every half hour. This is a cycle that feeds on itself.",
+        "author": {
+            "name": "Kent Beck",
+            "url": "/authors/kent_beck"
+        },
+        "topics": [
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Half",
+                "url": "/topics/half"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/steve_mollenkopf_850387?src=t_functionality",
+        "quote": "In the chip business, our higher-tier products are actually becoming more expensive because more and more of the functionality of the phone comes into the chip itself. So we have been grabbing content on the phone at a time when the phone is becoming more and more like a PC in terms of things it can do.",
+        "author": {
+            "name": "Steve Mollenkopf",
+            "url": "/authors/steve_mollenkopf"
+        },
+        "topics": [
+            {
+                "name": "Becoming",
+                "url": "/topics/becoming"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Our",
+                "url": "/topics/our"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/wietse_venema_333662?src=t_functionality",
+        "quote": "Adding functionality is not just a matter of adding code.",
+        "author": {
+            "name": "Wietse Venema",
+            "url": "/authors/wietse_venema"
+        },
+        "topics": [
+            {
+                "name": "Matter",
+                "url": "/topics/matter"
+            },
+            {
+                "name": "Code",
+                "url": "/topics/code"
+            },
+            {
+                "name": "Adding",
+                "url": "/topics/adding"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_milne_230979?src=t_functionality",
+        "quote": "We see portability in electronics being a continuing requirement, higher functionality, better battery life, requiring lower power for the actual electronics.",
+        "author": {
+            "name": "David Milne",
+            "url": "/authors/david_milne"
+        },
+        "topics": [
+            {
+                "name": "Electronics",
+                "url": "/topics/electronics"
+            },
+            {
+                "name": "Actual",
+                "url": "/topics/actual"
+            },
+            {
+                "name": "Lower",
+                "url": "/topics/lower"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ferdinand_porsche_600690?src=t_functionality",
+        "quote": "Design must be functional, and functionality must be translated into visual aesthetics without any reliance on gimmicks that have to be explained.",
+        "author": {
+            "name": "Ferdinand Porsche",
+            "url": "/authors/ferdinand_porsche"
+        },
+        "topics": [
+            {
+                "name": "Functional",
+                "url": "/topics/functional"
+            },
+            {
+                "name": "Reliance",
+                "url": "/topics/reliance"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tadashi_yanai_693086?src=t_functionality",
+        "quote": "More than trends, consumers need functionality. Everything needs an element of fashion, but that's more like a spice.",
+        "author": {
+            "name": "Tadashi Yanai",
+            "url": "/authors/tadashi_yanai"
+        },
+        "topics": [
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            },
+            {
+                "name": "Needs",
+                "url": "/topics/needs"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/francoishenri_pinault_520354?src=t_functionality",
+        "quote": "Linguistics is a good way of defining the culture of a brand. The vocabulary used by sports and lifestyle brands - running, fitness, training, motorsports - is all about functionality, whereas the vocabulary of the luxury business - handbags, ready-to-wear - is all about the product.",
+        "author": {
+            "name": "Francois-Henri Pinault",
+            "url": "/authors/francoishenri_pinault"
+        },
+        "topics": [
+            {
+                "name": "Handbags",
+                "url": "/topics/handbags"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Linguistics",
+                "url": "/topics/linguistics"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/matthew_williamson_878886?src=t_functionality",
+        "quote": "Leather has a real durability and functionality.",
+        "author": {
+            "name": "Matthew Williamson",
+            "url": "/authors/matthew_williamson"
+        },
+        "topics": [
+            {
+                "name": "Real",
+                "url": "/topics/real"
+            },
+            {
+                "name": "Leather",
+                "url": "/topics/leather"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/clayton_christensen_671408?src=t_functionality",
+        "quote": "During the early stages of an industry, when the functionality and reliability of a product isn't yet adequate to meet customer's needs, a proprietary solution is almost always the right solution - because it allows you to knit all the pieces together in an optimized way.",
+        "author": {
+            "name": "Clayton Christensen",
+            "url": "/authors/clayton_christensen"
+        },
+        "topics": [
+            {
+                "name": "Almost",
+                "url": "/topics/almost"
+            },
+            {
+                "name": "Industry",
+                "url": "/topics/industry"
+            },
+            {
+                "name": "Adequate",
+                "url": "/topics/adequate"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/martin_jacques_630606?src=t_functionality",
+        "quote": "In its heyday, the car was an expression of technical flair and design genius: the original Mini, the Beetle, the 2CV, and the Fiat 500 were all, in their various ways, inspired incarnations of functionality.",
+        "author": {
+            "name": "Martin Jacques",
+            "url": "/authors/martin_jacques"
+        },
+        "topics": [
+            {
+                "name": "Expression",
+                "url": "/topics/expression"
+            },
+            {
+                "name": "Original",
+                "url": "/topics/original"
+            },
+            {
+                "name": "Mini",
+                "url": "/topics/mini"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/michael_graves_736098?src=t_functionality",
+        "quote": "Good design to me is both appearance and functionality together. It's the experience that makes it good design.",
+        "author": {
+            "name": "Michael Graves",
+            "url": "/authors/michael_graves"
+        },
+        "topics": [
+            {
+                "name": "Design",
+                "url": "/topics/design"
+            },
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Appearance",
+                "url": "/topics/appearance"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mark_zuckerberg_739578?src=t_functionality",
+        "quote": "People love photos. Photos originally weren't that big a part of the idea for Facebook, but we just found that people really like them, so we built out this functionality.",
+        "author": {
+            "name": "Mark Zuckerberg",
+            "url": "/authors/mark_zuckerberg"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ludwig_mies_van_der_rohe_701737?src=t_functionality",
+        "quote": "The demands of the time for objectivity and functionality must be fulfilled. If that clearly happens, then the buildings of our day will convey the greatness of which the age is capable, and only a fool will maintain that they lack it.",
+        "author": {
+            "name": "Ludwig Mies van der Rohe",
+            "url": "/authors/ludwig_mies_van_der_rohe"
+        },
+        "topics": [
+            {
+                "name": "Greatness",
+                "url": "/topics/greatness"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/diane_von_furstenberg_582592?src=t_functionality",
+        "quote": "A challenging economy is always good for design. It unites necessity and functionality. You are forced to be creative with poor materials.",
+        "author": {
+            "name": "Diane von Furstenberg",
+            "url": "/authors/diane_von_furstenberg"
+        },
+        "topics": [
+            {
+                "name": "Economy",
+                "url": "/topics/economy"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Forced",
+                "url": "/topics/forced"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/om_malik_863756?src=t_functionality",
+        "quote": "We are splintering what was the 'camera' and its functionality - lens, sensors, and processing - into distinct parts, but, instead of lenses and shutters, software and algorithms are becoming the driving force.",
+        "author": {
+            "name": "Om Malik",
+            "url": "/authors/om_malik"
+        },
+        "topics": [
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "Becoming",
+                "url": "/topics/becoming"
+            },
+            {
+                "name": "Lenses",
+                "url": "/topics/lenses"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/yves_behar_757097?src=t_functionality",
+        "quote": "The role of designers and product makers is to really become much better editors. What kind of functionality is actually needed - and truly delightful - to consumers? Remove all the extraneous stuff.",
+        "author": {
+            "name": "Yves Behar",
+            "url": "/authors/yves_behar"
+        },
+        "topics": [
+            {
+                "name": "Product",
+                "url": "/topics/product"
+            },
+            {
+                "name": "Role",
+                "url": "/topics/role"
+            },
+            {
+                "name": "Designers",
+                "url": "/topics/designers"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/franz_von_holzhausen_783129?src=t_functionality",
+        "quote": "We have an opportunity with the Model S to refine the design language, the surfacing, and all aspects of functionality.",
+        "author": {
+            "name": "Franz von Holzhausen",
+            "url": "/authors/franz_von_holzhausen"
+        },
+        "topics": [
+            {
+                "name": "Opportunity",
+                "url": "/topics/opportunity"
+            },
+            {
+                "name": "Design",
+                "url": "/topics/design"
+            },
+            {
+                "name": "Aspects",
+                "url": "/topics/aspects"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/yishan_wong_529915?src=t_functionality",
+        "quote": "I'm not looking to step in and make 'big, bold changes' - I think reddit is great, and the team has a lot of good features already in the pipeline to improve functionality for users and mods, help with subreddit discovery, improve the API, and help bring reddit to more people.",
+        "author": {
+            "name": "Yishan Wong",
+            "url": "/authors/yishan_wong"
+        },
+        "topics": [
+            {
+                "name": "Changes",
+                "url": "/topics/changes"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_gates_626193?src=t_functionality",
+        "quote": "The ability of a successful company to add functionality to its product has long been upheld.",
+        "author": {
+            "name": "Bill Gates",
+            "url": "/authors/bill_gates"
+        },
+        "topics": [
+            {
+                "name": "Product",
+                "url": "/topics/product"
+            },
+            {
+                "name": "Add",
+                "url": "/topics/add"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jonathan_ive_778895?src=t_functionality",
+        "quote": "I don't know how we can compare the old watches we know with the functionality and the capability of the Apple Watch.",
+        "author": {
+            "name": "Jonathan Ive",
+            "url": "/authors/jonathan_ive"
+        },
+        "topics": [
+            {
+                "name": "Apple",
+                "url": "/topics/apple"
+            },
+            {
+                "name": "Watches",
+                "url": "/topics/watches"
+            },
+            {
+                "name": "How",
+                "url": "/topics/how"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/astro_teller_720788?src=t_functionality",
+        "quote": "Rather than thinking of ourselves as a computer, and trying to give you computer-like functionality, it's better to start from the understanding that this is a pair of glasses, and say, 'How smart can we make these glasses for you?'",
+        "author": {
+            "name": "Astro Teller",
+            "url": "/authors/astro_teller"
+        },
+        "topics": [
+            {
+                "name": "Start",
+                "url": "/topics/start"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            },
+            {
+                "name": "Rather",
+                "url": "/topics/rather"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/douglas_rushkoff_585228?src=t_functionality",
+        "quote": "Google is in a position where it doesn't even have to strive to become a hip, conscious choice. Brands are temporary fads. Functionality is forever. Google just has to 'be,' and everyone will end up there sooner or later.",
+        "author": {
+            "name": "Douglas Rushkoff",
+            "url": "/authors/douglas_rushkoff"
+        },
+        "topics": [
+            {
+                "name": "Temporary",
+                "url": "/topics/temporary"
+            },
+            {
+                "name": "Brands",
+                "url": "/topics/brands"
+            },
+            {
+                "name": "Fads",
+                "url": "/topics/fads"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/daniel_humm_742826?src=t_functionality",
+        "quote": "It is essential for me to work with tools that are reliable and offer complete functionality, which is why I feel so confident about representing the Victorinox brand.",
+        "author": {
+            "name": "Daniel Humm",
+            "url": "/authors/daniel_humm"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Confident",
+                "url": "/topics/confident"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/matt_damon_471108?src=t_functionality",
+        "quote": "I'm becoming far more interested in just functionality and making sure my body is as strong as it can be so I can swing my kids around and not worry about aches and pains.",
+        "author": {
+            "name": "Matt Damon",
+            "url": "/authors/matt_damon"
+        },
+        "topics": [
+            {
+                "name": "Strong",
+                "url": "/topics/strong"
+            },
+            {
+                "name": "Worry",
+                "url": "/topics/worry"
+            },
+            {
+                "name": "Making",
+                "url": "/topics/making"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_heatherwick_856093?src=t_functionality",
+        "quote": "When I was little, I just was very tuned in to the functionality and aesthetics of things around me.",
+        "author": {
+            "name": "Thomas Heatherwick",
+            "url": "/authors/thomas_heatherwick"
+        },
+        "topics": [
+            {
+                "name": "Things",
+                "url": "/topics/things"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Tuned",
+                "url": "/topics/tuned"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/matt_mullenweg_652977?src=t_functionality",
+        "quote": "When you look at things like Flickr and Youtube, they are specialised blogging systems, so why hasn't blogging encompassed that ease of functionality?",
+        "author": {
+            "name": "Matt Mullenweg",
+            "url": "/authors/matt_mullenweg"
+        },
+        "topics": [
+            {
+                "name": "YouTube",
+                "url": "/topics/youtube"
+            },
+            {
+                "name": "Ease",
+                "url": "/topics/ease"
+            },
+            {
+                "name": "Blogging",
+                "url": "/topics/blogging"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gillian_tans_885794?src=t_functionality",
+        "quote": "One in five of our customers books for business. But it's scaling very fast. As a result, we have tools for medium or small-sized companies to allow them set their price and give basic reporting functionality.",
+        "author": {
+            "name": "Gillian Tans",
+            "url": "/authors/gillian_tans"
+        },
+        "topics": [
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Allow",
+                "url": "/topics/allow"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/erwin_mcmanus_709095?src=t_functionality",
+        "quote": "The Bible has been trapped in modernity. Everything has to work perfectly. And if everything doesn't fit in a Lego-oriented functionality, then we don't deal with it as Christians.",
+        "author": {
+            "name": "Erwin McManus",
+            "url": "/authors/erwin_mcmanus"
+        },
+        "topics": [
+            {
+                "name": "Bible",
+                "url": "/topics/bible"
+            },
+            {
+                "name": "Deal",
+                "url": "/topics/deal"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jochen_zeitz_720909?src=t_functionality",
+        "quote": "We decided that sports, lifestyle and fashion were three elements that could be mixed together to a very unique formula. That's what we did: make Puma a very sports-fashion brand when, at the times, everybody talked about sports and sports performance and functionality. We said, 'Well, it's about more.'",
+        "author": {
+            "name": "Jochen Zeitz",
+            "url": "/authors/jochen_zeitz"
+        },
+        "topics": [
+            {
+                "name": "Everybody",
+                "url": "/topics/everybody"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jochen_zeitz_720914?src=t_functionality",
+        "quote": "Puma was all about function and not at all about design. The founder of the company always believed functionality and performance were the only ingredients that could make Puma successful and design never mattered.",
+        "author": {
+            "name": "Jochen Zeitz",
+            "url": "/authors/jochen_zeitz"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Founder",
+                "url": "/topics/founder"
+            },
+            {
+                "name": "Mattered",
+                "url": "/topics/mattered"
+            }
+        ]
+    }
+]

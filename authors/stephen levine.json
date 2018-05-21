@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/stephen_levine_165411",
+        "quote": "Go to the truth beyond the mind. Love is the bridge.",
+        "author": {
+            "name": "Stephen Levine",
+            "url": "/quotes/stephen_levine_165411"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Truth",
+                "url": "/topics/truth"
+            },
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/stephen_levine_104443",
+        "quote": "If you were going to die soon and had only one phone call you could make, who would you call and what would you say? And why are you waiting?",
+        "author": {
+            "name": "Stephen Levine",
+            "url": "/quotes/stephen_levine_104443"
+        },
+        "topics": [
+            {
+                "name": "Waiting",
+                "url": "/topics/waiting"
+            },
+            {
+                "name": "Die",
+                "url": "/topics/die"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            }
+        ]
+    }
+]

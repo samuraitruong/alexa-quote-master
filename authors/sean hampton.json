@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/sean_hampton_428755",
+        "quote": "A dream without ambition is like a car without gas... you're not going anywhere.",
+        "author": {
+            "name": "Sean Hampton",
+            "url": "/quotes/sean_hampton_428755"
+        },
+        "topics": [
+            {
+                "name": "Ambition",
+                "url": "/topics/ambition"
+            },
+            {
+                "name": "Dream",
+                "url": "/topics/dream"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sean_hampton_428754",
+        "quote": "Victory is the child of preparation and determination.",
+        "author": {
+            "name": "Sean Hampton",
+            "url": "/quotes/sean_hampton_428754"
+        },
+        "topics": [
+            {
+                "name": "Determination",
+                "url": "/topics/determination"
+            },
+            {
+                "name": "Victory",
+                "url": "/topics/victory"
+            }
+        ]
+    }
+]

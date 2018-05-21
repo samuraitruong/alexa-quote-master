@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/john_hales_348336",
+        "quote": "As he is one, so we call Him God, the Deity, the Divine Nature, and other names of the same signification.",
+        "author": {
+            "name": "John Hales",
+            "url": "/quotes/john_hales_348336"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "Divine",
+                "url": "/topics/divine"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_hales_346881",
+        "quote": "Yet God is so one that He admits of distinction, and so admits of distinction that He still remains unity.",
+        "author": {
+            "name": "John Hales",
+            "url": "/quotes/john_hales_346881"
+        },
+        "topics": [
+            {
+                "name": "Unity",
+                "url": "/topics/unity"
+            },
+            {
+                "name": "Distinction",
+                "url": "/topics/distinction"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            }
+        ]
+    }
+]

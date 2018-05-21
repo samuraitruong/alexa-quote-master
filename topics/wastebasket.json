@@ -1,0 +1,156 @@
+[
+    {
+        "url": "/quotes/erma_bombeck_136547?src=t_wastebasket",
+        "quote": "Someone once threw me a small, brown, hairy kiwi fruit, and I threw a wastebasket over it until it was dead.",
+        "author": {
+            "name": "Erma Bombeck",
+            "url": "/authors/erma_bombeck"
+        },
+        "topics": [
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Over It",
+                "url": "/topics/over_it"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_orben_451935?src=t_wastebasket",
+        "quote": "Happiness is a very small desk and a very big wastebasket.",
+        "author": {
+            "name": "Robert Orben",
+            "url": "/authors/robert_orben"
+        },
+        "topics": [
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/donald_knuth_466267?src=t_wastebasket",
+        "quote": "My general working style is to write everything first with pencil and paper, sitting beside a big wastebasket. Then I use Emacs to enter the text into my machine.",
+        "author": {
+            "name": "Donald Knuth",
+            "url": "/authors/donald_knuth"
+        },
+        "topics": [
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Then",
+                "url": "/topics/then"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/margaret_atwood_170096?src=t_wastebasket",
+        "quote": "A ratio of failures is built into the process of writing. The wastebasket has evolved for a reason.",
+        "author": {
+            "name": "Margaret Atwood",
+            "url": "/authors/margaret_atwood"
+        },
+        "topics": [
+            {
+                "name": "Process",
+                "url": "/topics/process"
+            },
+            {
+                "name": "Reason",
+                "url": "/topics/reason"
+            },
+            {
+                "name": "Failures",
+                "url": "/topics/failures"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/imogen_cunningham_307556?src=t_wastebasket",
+        "quote": "I told the students that whatever they did in class was for the wastebasket.",
+        "author": {
+            "name": "Imogen Cunningham",
+            "url": "/authors/imogen_cunningham"
+        },
+        "topics": [
+            {
+                "name": "Class",
+                "url": "/topics/class"
+            },
+            {
+                "name": "Whatever",
+                "url": "/topics/whatever"
+            },
+            {
+                "name": "Students",
+                "url": "/topics/students"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/susan_orlean_494662?src=t_wastebasket",
+        "quote": "Everything rational and sensible abandons me when I try to throw out photographs. Time and time again, I hold one over a wastebasket, and then find it impossible to release my fingers and let the picture drop and disappear.",
+        "author": {
+            "name": "Susan Orlean",
+            "url": "/authors/susan_orlean"
+        },
+        "topics": [
+            {
+                "name": "Impossible",
+                "url": "/topics/impossible"
+            },
+            {
+                "name": "Drop",
+                "url": "/topics/drop"
+            },
+            {
+                "name": "Release",
+                "url": "/topics/release"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_pople_370382?src=t_wastebasket",
+        "quote": "I found a discarded textbook on calculus in a wastebasket and read it from cover to cover.",
+        "author": {
+            "name": "John Pople",
+            "url": "/authors/john_pople"
+        },
+        "topics": [
+            {
+                "name": "Textbook",
+                "url": "/topics/textbook"
+            },
+            {
+                "name": "Cover",
+                "url": "/topics/cover"
+            },
+            {
+                "name": "Discarded",
+                "url": "/topics/discarded"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/ellen_chenoweth_620699",
+        "quote": "I like spending a lot of time fine-tuning all the small characters. I think it really pays off.",
+        "author": {
+            "name": "Ellen Chenoweth",
+            "url": "/quotes/ellen_chenoweth_620699"
+        },
+        "topics": [
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ellen_chenoweth_620700",
+        "quote": "I go to a lot of plays. I tend to prefer the off-Broadway and off-off-Broadway more than the Broadway shows. That's where I see people that I might not know.",
+        "author": {
+            "name": "Ellen Chenoweth",
+            "url": "/quotes/ellen_chenoweth_620700"
+        },
+        "topics": [
+            {
+                "name": "Broadway",
+                "url": "/topics/broadway"
+            },
+            {
+                "name": "Plays",
+                "url": "/topics/plays"
+            },
+            {
+                "name": "Prefer",
+                "url": "/topics/prefer"
+            }
+        ]
+    }
+]

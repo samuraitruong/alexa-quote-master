@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/tom_sharpe_404572",
+        "quote": "If a little knowledge was a dangerous thing, a lot was lethal.",
+        "author": {
+            "name": "Tom Sharpe",
+            "url": "/quotes/tom_sharpe_404572"
+        },
+        "topics": [
+            {
+                "name": "Dangerous",
+                "url": "/topics/dangerous"
+            },
+            {
+                "name": "Lot",
+                "url": "/topics/lot"
+            },
+            {
+                "name": "Lethal",
+                "url": "/topics/lethal"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tom_sharpe_404518",
+        "quote": "We must not only strike the iron while it is hot, we must strike it until it is hot.",
+        "author": {
+            "name": "Tom Sharpe",
+            "url": "/quotes/tom_sharpe_404518"
+        },
+        "topics": [
+            {
+                "name": "Iron",
+                "url": "/topics/iron"
+            },
+            {
+                "name": "Strike",
+                "url": "/topics/strike"
+            },
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            }
+        ]
+    }
+]

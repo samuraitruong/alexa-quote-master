@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/lord_north_190833",
+        "quote": "Men may be popular without being ambitious, but there is hardly an ambitious man who does not try to be popular.",
+        "author": {
+            "name": "Lord North",
+            "url": "/quotes/lord_north_190833"
+        },
+        "topics": [
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Ambitious",
+                "url": "/topics/ambitious"
+            },
+            {
+                "name": "Does",
+                "url": "/topics/does"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lord_north_190834",
+        "quote": "Four or five frigates will do the business without any military force.",
+        "author": {
+            "name": "Lord North",
+            "url": "/quotes/lord_north_190834"
+        },
+        "topics": [
+            {
+                "name": "Business",
+                "url": "/topics/business"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Four",
+                "url": "/topics/four"
+            }
+        ]
+    }
+]

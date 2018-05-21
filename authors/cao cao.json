@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/cao_cao_186019",
+        "quote": "What is at a peak is certain to decline. He who shows his hand will surely be defeated. He who can prevail in battle by taking advantage of his enemy's doubts is invincible.",
+        "author": {
+            "name": "Cao Cao",
+            "url": "/quotes/cao_cao_186019"
+        },
+        "topics": [
+            {
+                "name": "Defeated",
+                "url": "/topics/defeated"
+            },
+            {
+                "name": "Doubts",
+                "url": "/topics/doubts"
+            },
+            {
+                "name": "Surely",
+                "url": "/topics/surely"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/cao_cao_186018",
+        "quote": "I'd rather betray the world than let the world betray me.",
+        "author": {
+            "name": "Cao Cao",
+            "url": "/quotes/cao_cao_186018"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Than",
+                "url": "/topics/than"
+            },
+            {
+                "name": "Rather",
+                "url": "/topics/rather"
+            }
+        ]
+    }
+]

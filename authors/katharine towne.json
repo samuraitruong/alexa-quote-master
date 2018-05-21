@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/katharine_towne_656911",
+        "quote": "If you don't flirt, you're probably dead inside.",
+        "author": {
+            "name": "Katharine Towne",
+            "url": "/quotes/katharine_towne_656911"
+        },
+        "topics": [
+            {
+                "name": "Dead",
+                "url": "/topics/dead"
+            },
+            {
+                "name": "Inside",
+                "url": "/topics/inside"
+            },
+            {
+                "name": "Flirt",
+                "url": "/topics/flirt"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/katharine_towne_570044",
+        "quote": "Yoga changed my life. I go between 4 and 6 times a week. It's incredibly grounding and an intense level of focus.",
+        "author": {
+            "name": "Katharine Towne",
+            "url": "/quotes/katharine_towne_570044"
+        },
+        "topics": [
+            {
+                "name": "Week",
+                "url": "/topics/week"
+            },
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Level",
+                "url": "/topics/level"
+            }
+        ]
+    }
+]

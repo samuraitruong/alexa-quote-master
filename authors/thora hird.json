@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/thora_hird_185014",
+        "quote": "Until I got married, when I used to go out, my mother said good bye to me as though I was emigrating.",
+        "author": {
+            "name": "Thora Hird",
+            "url": "/quotes/thora_hird_185014"
+        },
+        "topics": [
+            {
+                "name": "Go",
+                "url": "/topics/go"
+            },
+            {
+                "name": "Used",
+                "url": "/topics/used"
+            },
+            {
+                "name": "Though",
+                "url": "/topics/though"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thora_hird_185015",
+        "quote": "I'm not any good at foul language or anything like that.",
+        "author": {
+            "name": "Thora Hird",
+            "url": "/quotes/thora_hird_185015"
+        },
+        "topics": [
+            {
+                "name": "Language",
+                "url": "/topics/language"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Foul",
+                "url": "/topics/foul"
+            }
+        ]
+    }
+]

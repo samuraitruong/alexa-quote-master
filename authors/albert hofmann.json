@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/albert_hofmann_179992",
+        "quote": "After some time, with my eyes closed, I began to enjoy this wonderful play of colors and forms, which it really was a pleasure to observe. Then I went to sleep and the next day I was fine. I felt quite fresh, like a newborn.",
+        "author": {
+            "name": "Albert Hofmann",
+            "url": "/quotes/albert_hofmann_179992"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/albert_hofmann_180000",
+        "quote": "They do not know very good Latin, these botanists.",
+        "author": {
+            "name": "Albert Hofmann",
+            "url": "/quotes/albert_hofmann_180000"
+        },
+        "topics": [
+            {
+                "name": "Know",
+                "url": "/topics/know"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Latin",
+                "url": "/topics/latin"
+            }
+        ]
+    }
+]

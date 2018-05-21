@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/tom_dempsey_345977",
+        "quote": "The hurricane flooded me out of a lot of memorabilia, but it can't flood out the memories.",
+        "author": {
+            "name": "Tom Dempsey",
+            "url": "/quotes/tom_dempsey_345977"
+        },
+        "topics": [
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Lot",
+                "url": "/topics/lot"
+            },
+            {
+                "name": "Memorabilia",
+                "url": "/topics/memorabilia"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tom_dempsey_188498",
+        "quote": "The car business is a lot like football. In football, you have to win once a week. In the car business, you have to win every day.",
+        "author": {
+            "name": "Tom Dempsey",
+            "url": "/quotes/tom_dempsey_188498"
+        },
+        "topics": [
+            {
+                "name": "Business",
+                "url": "/topics/business"
+            },
+            {
+                "name": "Week",
+                "url": "/topics/week"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    }
+]

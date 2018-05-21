@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/john_holmes_105928",
+        "quote": "It is well to remember that the entire universe, with one trifling exception, is composed of others.",
+        "author": {
+            "name": "John Holmes",
+            "url": "/quotes/john_holmes_105928"
+        },
+        "topics": [
+            {
+                "name": "Remember",
+                "url": "/topics/remember"
+            },
+            {
+                "name": "Exception",
+                "url": "/topics/exception"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_holmes_101663",
+        "quote": "Yes, we love peace, but we are not willing to take wounds for it, as we are for war.",
+        "author": {
+            "name": "John Holmes",
+            "url": "/quotes/john_holmes_101663"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Peace",
+                "url": "/topics/peace"
+            },
+            {
+                "name": "Take",
+                "url": "/topics/take"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_holmes_119894",
+        "quote": "To feel most beautifully alive means to be reading something beautiful, ready always to apprehend in the flow of language the sudden flash of poetry.",
+        "author": {
+            "name": "John Holmes",
+            "url": "/quotes/john_holmes_119894"
+        },
+        "topics": [
+            {
+                "name": "Alive",
+                "url": "/topics/alive"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Means",
+                "url": "/topics/means"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_holmes_119895",
+        "quote": "Every genuine boy is a rebel and an anarch. If he were allowed to develop according to his own instincts, his own inclinations, society would undergo such a radical transformation as to make the adult revolutionary cower and cringe.",
+        "author": {
+            "name": "John Holmes",
+            "url": "/quotes/john_holmes_119895"
+        },
+        "topics": [
+            {
+                "name": "Rebel",
+                "url": "/topics/rebel"
+            },
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            },
+            {
+                "name": "Allowed",
+                "url": "/topics/allowed"
+            }
+        ]
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/caspar_david_friedrich_316070",
+        "quote": "I have to stay alone in order to fully contemplate and feel nature.",
+        "author": {
+            "name": "Caspar David Friedrich",
+            "url": "/quotes/caspar_david_friedrich_316070"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "Alone",
+                "url": "/topics/alone"
+            },
+            {
+                "name": "Contemplate",
+                "url": "/topics/contemplate"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/caspar_david_friedrich_316069",
+        "quote": "Close your bodily eye, that you may see your picture first with the eye of the spirit. Then bring to light what you have seen in the darkness, that its effect may work back, from without to within.",
+        "author": {
+            "name": "Caspar David Friedrich",
+            "url": "/quotes/caspar_david_friedrich_316069"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Within",
+                "url": "/topics/within"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/caspar_david_friedrich_316071",
+        "quote": "If he sees nothing within, then he should stop painting what is in front of him.",
+        "author": {
+            "name": "Caspar David Friedrich",
+            "url": "/quotes/caspar_david_friedrich_316071"
+        },
+        "topics": [
+            {
+                "name": "Within",
+                "url": "/topics/within"
+            },
+            {
+                "name": "Stop",
+                "url": "/topics/stop"
+            },
+            {
+                "name": "Sees",
+                "url": "/topics/sees"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/caspar_david_friedrich_316072",
+        "quote": "The painter should paint not only what he has in front of him, but also what he sees inside himself.",
+        "author": {
+            "name": "Caspar David Friedrich",
+            "url": "/quotes/caspar_david_friedrich_316072"
+        },
+        "topics": [
+            {
+                "name": "Painter",
+                "url": "/topics/painter"
+            },
+            {
+                "name": "Himself",
+                "url": "/topics/himself"
+            },
+            {
+                "name": "Sees",
+                "url": "/topics/sees"
+            }
+        ]
+    }
+]

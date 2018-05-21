@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/petra_kelly_346627",
+        "quote": "If there is a future, it will be Green.",
+        "author": {
+            "name": "Petra Kelly",
+            "url": "/quotes/petra_kelly_346627"
+        },
+        "topics": [
+            {
+                "name": "Future",
+                "url": "/topics/future"
+            },
+            {
+                "name": "Green",
+                "url": "/topics/green"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/petra_kelly_187405",
+        "quote": "We, the generation that faces the next century, can add the solemn injunction 'If we don't do the impossible, we shall be faced with the unthinkable.'",
+        "author": {
+            "name": "Petra Kelly",
+            "url": "/quotes/petra_kelly_187405"
+        },
+        "topics": [
+            {
+                "name": "Generation",
+                "url": "/topics/generation"
+            },
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            },
+            {
+                "name": "Add",
+                "url": "/topics/add"
+            }
+        ]
+    }
+]

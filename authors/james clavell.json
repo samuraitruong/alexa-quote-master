@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/james_clavell_394934",
+        "quote": "God gives us intelligence to uncover the wonders of nature. Without the gift, nothing is possible.",
+        "author": {
+            "name": "James Clavell",
+            "url": "/quotes/james_clavell_394934"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "Gift",
+                "url": "/topics/gift"
+            },
+            {
+                "name": "Wonders",
+                "url": "/topics/wonders"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_clavell_395357",
+        "quote": "The search for the truth is the most important work in the whole world, and the most dangerous.",
+        "author": {
+            "name": "James Clavell",
+            "url": "/quotes/james_clavell_395357"
+        },
+        "topics": [
+            {
+                "name": "Important",
+                "url": "/topics/important"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            }
+        ]
+    }
+]

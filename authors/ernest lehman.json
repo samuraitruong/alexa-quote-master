@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/ernest_lehman_395126",
+        "quote": "After all, the wool of a black sheep is just as warm.",
+        "author": {
+            "name": "Ernest Lehman",
+            "url": "/quotes/ernest_lehman_395126"
+        },
+        "topics": [
+            {
+                "name": "Black",
+                "url": "/topics/black"
+            },
+            {
+                "name": "Warm",
+                "url": "/topics/warm"
+            },
+            {
+                "name": "Wool",
+                "url": "/topics/wool"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ernest_lehman_397885",
+        "quote": "There's nothing more irresistible to a man than a woman who's in love with him.",
+        "author": {
+            "name": "Ernest Lehman",
+            "url": "/quotes/ernest_lehman_397885"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Woman",
+                "url": "/topics/woman"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            }
+        ]
+    }
+]

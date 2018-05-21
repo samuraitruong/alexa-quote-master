@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/howard_scott_380102",
+        "quote": "At this time, it's all still proposed.",
+        "author": {
+            "name": "Howard Scott",
+            "url": "/quotes/howard_scott_380102"
+        },
+        "topics": [
+            {
+                "name": "Time",
+                "url": "/topics/time"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            },
+            {
+                "name": "Proposed",
+                "url": "/topics/proposed"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/howard_scott_142675",
+        "quote": "A criminal is a person with predatory instincts without sufficient capital to form a corporation.",
+        "author": {
+            "name": "Howard Scott",
+            "url": "/quotes/howard_scott_142675"
+        },
+        "topics": [
+            {
+                "name": "Person",
+                "url": "/topics/person"
+            },
+            {
+                "name": "Capital",
+                "url": "/topics/capital"
+            },
+            {
+                "name": "Form",
+                "url": "/topics/form"
+            }
+        ]
+    }
+]

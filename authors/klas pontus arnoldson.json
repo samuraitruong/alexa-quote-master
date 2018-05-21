@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/klas_pontus_arnoldson_696289",
+        "quote": "Without peace, there is nothing truly human. Peace is harmony. And harmony is the highest ideal of life.",
+        "author": {
+            "name": "Klas Pontus Arnoldson",
+            "url": "/quotes/klas_pontus_arnoldson_696289"
+        },
+        "topics": [
+            {
+                "name": "Harmony",
+                "url": "/topics/harmony"
+            },
+            {
+                "name": "Ideal",
+                "url": "/topics/ideal"
+            },
+            {
+                "name": "Highest",
+                "url": "/topics/highest"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/klas_pontus_arnoldson_696288",
+        "quote": "Without peace, there is no freedom, individual or national. War and hostilities are a form of slavery.",
+        "author": {
+            "name": "Klas Pontus Arnoldson",
+            "url": "/quotes/klas_pontus_arnoldson_696288"
+        },
+        "topics": [
+            {
+                "name": "Freedom",
+                "url": "/topics/freedom"
+            },
+            {
+                "name": "Individual",
+                "url": "/topics/individual"
+            },
+            {
+                "name": "Form",
+                "url": "/topics/form"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/klas_pontus_arnoldson_696287",
+        "quote": "Man's nature is fundamentally good, or perhaps it is neither good nor evil. In any case, man is something to work on. We must hold fast to this fact - man is something to work on.",
+        "author": {
+            "name": "Klas Pontus Arnoldson",
+            "url": "/quotes/klas_pontus_arnoldson_696287"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "Fact",
+                "url": "/topics/fact"
+            }
+        ]
+    }
+]

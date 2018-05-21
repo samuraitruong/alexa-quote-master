@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/charles_wagner_190656",
+        "quote": "Simplicity is a state of mind.",
+        "author": {
+            "name": "Charles Wagner",
+            "url": "/quotes/charles_wagner_190656"
+        },
+        "topics": [
+            {
+                "name": "Simplicity",
+                "url": "/topics/simplicity"
+            },
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "State",
+                "url": "/topics/state"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charles_wagner_190655",
+        "quote": "Humanity lives and always has lived on certain elemental provisions.",
+        "author": {
+            "name": "Charles Wagner",
+            "url": "/quotes/charles_wagner_190655"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Lives",
+                "url": "/topics/lives"
+            },
+            {
+                "name": "Elemental",
+                "url": "/topics/elemental"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charles_wagner_190654",
+        "quote": "A man is simple when his chief care is the wish to be what he ought to be, that is honestly and naturally human.",
+        "author": {
+            "name": "Charles Wagner",
+            "url": "/quotes/charles_wagner_190654"
+        },
+        "topics": [
+            {
+                "name": "Wish",
+                "url": "/topics/wish"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            },
+            {
+                "name": "Naturally",
+                "url": "/topics/naturally"
+            }
+        ]
+    }
+]

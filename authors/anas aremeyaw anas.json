@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/anas_aremeyaw_anas_570296",
+        "quote": "Journalism is about results. It's about affecting your community or your society in the most progressive way.",
+        "author": {
+            "name": "Anas Aremeyaw Anas",
+            "url": "/quotes/anas_aremeyaw_anas_570296"
+        },
+        "topics": [
+            {
+                "name": "Society",
+                "url": "/topics/society"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/anas_aremeyaw_anas_553165",
+        "quote": "When evil men destroy, good men must build and bind.",
+        "author": {
+            "name": "Anas Aremeyaw Anas",
+            "url": "/quotes/anas_aremeyaw_anas_553165"
+        },
+        "topics": [
+            {
+                "name": "Good Men",
+                "url": "/topics/good_men"
+            },
+            {
+                "name": "Build",
+                "url": "/topics/build"
+            },
+            {
+                "name": "Bind",
+                "url": "/topics/bind"
+            }
+        ]
+    }
+]

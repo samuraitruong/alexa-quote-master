@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/wendell_wilkie_126516",
+        "quote": "Whenever we take away the liberties of those whom we hate we are opening the way to loss of liberty for those we love.",
+        "author": {
+            "name": "Wendell Wilkie",
+            "url": "/quotes/wendell_wilkie_126516"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            },
+            {
+                "name": "Liberties",
+                "url": "/topics/liberties"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/wendell_wilkie_126537",
+        "quote": "I would rather lose in a cause that I know some day will triumph than to triumph in a cause that I know some day will fail.",
+        "author": {
+            "name": "Wendell Wilkie",
+            "url": "/quotes/wendell_wilkie_126537"
+        },
+        "topics": [
+            {
+                "name": "Triumph",
+                "url": "/topics/triumph"
+            },
+            {
+                "name": "Fail",
+                "url": "/topics/fail"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    }
+]

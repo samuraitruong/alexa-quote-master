@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/alan_kulwicki_319678",
+        "quote": "I have a motto: Work to become, not to acquire.",
+        "author": {
+            "name": "Alan Kulwicki",
+            "url": "/quotes/alan_kulwicki_319678"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Motto",
+                "url": "/topics/motto"
+            },
+            {
+                "name": "Acquire",
+                "url": "/topics/acquire"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alan_kulwicki_319680",
+        "quote": "In every aspect of life, have a game plan, and then do your best to achieve it.",
+        "author": {
+            "name": "Alan Kulwicki",
+            "url": "/quotes/alan_kulwicki_319680"
+        },
+        "topics": [
+            {
+                "name": "Game",
+                "url": "/topics/game"
+            },
+            {
+                "name": "Achieve",
+                "url": "/topics/achieve"
+            },
+            {
+                "name": "Aspect",
+                "url": "/topics/aspect"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alan_kulwicki_319679",
+        "quote": "If you don't believe you don't belong.",
+        "author": {
+            "name": "Alan Kulwicki",
+            "url": "/quotes/alan_kulwicki_319679"
+        },
+        "topics": [
+            {
+                "name": "Believe",
+                "url": "/topics/believe"
+            },
+            {
+                "name": "You",
+                "url": "/topics/you"
+            },
+            {
+                "name": "Belong",
+                "url": "/topics/belong"
+            }
+        ]
+    }
+]

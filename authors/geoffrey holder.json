@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/geoffrey_holder_144048",
+        "quote": "Education begins at home. You can't blame the school for not putting into your child what you don't put into him.",
+        "author": {
+            "name": "Geoffrey Holder",
+            "url": "/quotes/geoffrey_holder_144048"
+        },
+        "topics": [
+            {
+                "name": "Education",
+                "url": "/topics/education"
+            },
+            {
+                "name": "Your Child",
+                "url": "/topics/your_child"
+            },
+            {
+                "name": "Your",
+                "url": "/topics/your"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/geoffrey_holder_277033",
+        "quote": "We are too quick to put labels on things. It is my profession. I get up and paint. Everyone wants to put a label on it, but I am a free spirit, so I fight against that.",
+        "author": {
+            "name": "Geoffrey Holder",
+            "url": "/quotes/geoffrey_holder_277033"
+        },
+        "topics": [
+            {
+                "name": "Quick",
+                "url": "/topics/quick"
+            },
+            {
+                "name": "Everyone",
+                "url": "/topics/everyone"
+            },
+            {
+                "name": "Profession",
+                "url": "/topics/profession"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/geoffrey_holder_277032",
+        "quote": "I paint a slice of life, whatever it is that day.",
+        "author": {
+            "name": "Geoffrey Holder",
+            "url": "/quotes/geoffrey_holder_277032"
+        },
+        "topics": [
+            {
+                "name": "Day",
+                "url": "/topics/day"
+            },
+            {
+                "name": "Paint",
+                "url": "/topics/paint"
+            },
+            {
+                "name": "Slice",
+                "url": "/topics/slice"
+            }
+        ]
+    }
+]

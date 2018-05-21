@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/kevin_harvey_732723",
+        "quote": "I started looking all over for vineyard sites. I studied the conditions that make the best pinots. In the New World, you have to find the great pieces of land. Cool climate counts, but distinctive soil matters more than anything.",
+        "author": {
+            "name": "Kevin Harvey",
+            "url": "/quotes/kevin_harvey_732723"
+        },
+        "topics": [
+            {
+                "name": "Best",
+                "url": "/topics/best"
+            },
+            {
+                "name": "Counts",
+                "url": "/topics/counts"
+            },
+            {
+                "name": "Sites",
+                "url": "/topics/sites"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kevin_harvey_732724",
+        "quote": "When we first invested in Red Hat, it was thought to be totally insane. When we funded MySQL, it was only partly insane.",
+        "author": {
+            "name": "Kevin Harvey",
+            "url": "/quotes/kevin_harvey_732724"
+        },
+        "topics": [
+            {
+                "name": "Red",
+                "url": "/topics/red"
+            },
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kevin_harvey_732725",
+        "quote": "Luxury brands are about elite access. In consumer goods, that's elite cost. In education, it's elite criteria for admission. Minerva is maintaining those high standards, but not artificially limiting the number of people who can meet it... This really may be redefining education.",
+        "author": {
+            "name": "Kevin Harvey",
+            "url": "/quotes/kevin_harvey_732725"
+        },
+        "topics": [
+            {
+                "name": "Education",
+                "url": "/topics/education"
+            },
+            {
+                "name": "Access",
+                "url": "/topics/access"
+            },
+            {
+                "name": "Criteria",
+                "url": "/topics/criteria"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/u_thant_133617",
+        "quote": "Every human being, of whatever origin, of whatever station, deserves respect. We must each respect others even as we respect ourselves.",
+        "author": {
+            "name": "U Thant",
+            "url": "/quotes/u_thant_133617"
+        },
+        "topics": [
+            {
+                "name": "Human Being",
+                "url": "/topics/human_being"
+            },
+            {
+                "name": "Origin",
+                "url": "/topics/origin"
+            },
+            {
+                "name": "Being",
+                "url": "/topics/being"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/u_thant_176212",
+        "quote": "Wars begin in the minds of men, and in those minds, love and compassion would have built the defenses of peace.",
+        "author": {
+            "name": "U Thant",
+            "url": "/quotes/u_thant_176212"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Minds",
+                "url": "/topics/minds"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/u_thant_114252",
+        "quote": "The war we have to wage today has only one goal and that is to make the world safe for diversity.",
+        "author": {
+            "name": "U Thant",
+            "url": "/quotes/u_thant_114252"
+        },
+        "topics": [
+            {
+                "name": "Diversity",
+                "url": "/topics/diversity"
+            },
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Goal",
+                "url": "/topics/goal"
+            }
+        ]
+    }
+]

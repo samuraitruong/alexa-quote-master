@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/paul_kurtz_187400",
+        "quote": "The meaning of life is not to be discovered only after death in some hidden, mysterious realm; on the contrary, it can be found by eating the succulent fruit of the Tree of Life and by living in the here and now as fully and creatively as we can.",
+        "author": {
+            "name": "Paul Kurtz",
+            "url": "/quotes/paul_kurtz_187400"
+        },
+        "topics": [
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Discovered",
+                "url": "/topics/discovered"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_kurtz_404734",
+        "quote": "The government doesn't have to solve everyone's problem here.",
+        "author": {
+            "name": "Paul Kurtz",
+            "url": "/quotes/paul_kurtz_404734"
+        },
+        "topics": [
+            {
+                "name": "Government",
+                "url": "/topics/government"
+            },
+            {
+                "name": "Problem",
+                "url": "/topics/problem"
+            },
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            }
+        ]
+    }
+]

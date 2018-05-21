@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/donald_davis_190908",
+        "quote": "I discovered that in a story I could safely dream any dream, hope any hope, go anywhere I pleased any time I pleased, fight any foe, win or lose, live or die. My stories created a safe experimental learning place.",
+        "author": {
+            "name": "Donald Davis",
+            "url": "/quotes/donald_davis_190908"
+        },
+        "topics": [
+            {
+                "name": "Learning",
+                "url": "/topics/learning"
+            },
+            {
+                "name": "Die",
+                "url": "/topics/die"
+            },
+            {
+                "name": "Discovered",
+                "url": "/topics/discovered"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/donald_davis_190907",
+        "quote": "I didn't learn stories, I just absorbed them.",
+        "author": {
+            "name": "Donald Davis",
+            "url": "/quotes/donald_davis_190907"
+        },
+        "topics": [
+            {
+                "name": "Learn",
+                "url": "/topics/learn"
+            },
+            {
+                "name": "Stories",
+                "url": "/topics/stories"
+            },
+            {
+                "name": "Them",
+                "url": "/topics/them"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/donald_davis_190909",
+        "quote": "Storytelling is not what I do for a living - it is how I do all that I do while I am living.",
+        "author": {
+            "name": "Donald Davis",
+            "url": "/quotes/donald_davis_190909"
+        },
+        "topics": [
+            {
+                "name": "Living",
+                "url": "/topics/living"
+            },
+            {
+                "name": "Storytelling",
+                "url": "/topics/storytelling"
+            },
+            {
+                "name": "How",
+                "url": "/topics/how"
+            }
+        ]
+    }
+]

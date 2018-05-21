@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/thomas_secker_190353",
+        "quote": "Some persons do first, think afterward, and then repent forever.",
+        "author": {
+            "name": "Thomas Secker",
+            "url": "/quotes/thomas_secker_190353"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Persons",
+                "url": "/topics/persons"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_secker_190355",
+        "quote": "He enjoys much who is thankful for little.",
+        "author": {
+            "name": "Thomas Secker",
+            "url": "/quotes/thomas_secker_190355"
+        },
+        "topics": [
+            {
+                "name": "Thankful",
+                "url": "/topics/thankful"
+            },
+            {
+                "name": "He",
+                "url": "/topics/he"
+            },
+            {
+                "name": "Much",
+                "url": "/topics/much"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_secker_190354",
+        "quote": "If you would not step into the harlot's house, do not go by the harlot's door.",
+        "author": {
+            "name": "Thomas Secker",
+            "url": "/quotes/thomas_secker_190354"
+        },
+        "topics": [
+            {
+                "name": "Door",
+                "url": "/topics/door"
+            },
+            {
+                "name": "Go",
+                "url": "/topics/go"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            }
+        ]
+    }
+]

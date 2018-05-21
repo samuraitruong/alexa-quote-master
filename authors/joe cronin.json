@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/joe_cronin_221400",
+        "quote": "A season is a season, regardless of the number of games.",
+        "author": {
+            "name": "Joe Cronin",
+            "url": "/quotes/joe_cronin_221400"
+        },
+        "topics": [
+            {
+                "name": "Games",
+                "url": "/topics/games"
+            },
+            {
+                "name": "Season",
+                "url": "/topics/season"
+            },
+            {
+                "name": "Number",
+                "url": "/topics/number"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joe_cronin_221401",
+        "quote": "I used to pull rank and wait until the wind was blowing out.",
+        "author": {
+            "name": "Joe Cronin",
+            "url": "/quotes/joe_cronin_221401"
+        },
+        "topics": [
+            {
+                "name": "Wait",
+                "url": "/topics/wait"
+            },
+            {
+                "name": "Pull",
+                "url": "/topics/pull"
+            },
+            {
+                "name": "Blowing",
+                "url": "/topics/blowing"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/ludi_lin_771870",
+        "quote": "You see all these movies of white men saving the world all the time.",
+        "author": {
+            "name": "Ludi Lin",
+            "url": "/quotes/ludi_lin_771870"
+        },
+        "topics": [
+            {
+                "name": "Movies",
+                "url": "/topics/movies"
+            },
+            {
+                "name": "See",
+                "url": "/topics/see"
+            },
+            {
+                "name": "Saving",
+                "url": "/topics/saving"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ludi_lin_771871",
+        "quote": "I am Chinese. I speak fluent Mandarin. And I go, 'Man, it's about time a Chinese person could step up to a Hollywood screen, and international screen, and help save the world.'",
+        "author": {
+            "name": "Ludi Lin",
+            "url": "/quotes/ludi_lin_771871"
+        },
+        "topics": [
+            {
+                "name": "Hollywood",
+                "url": "/topics/hollywood"
+            },
+            {
+                "name": "Go",
+                "url": "/topics/go"
+            },
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            }
+        ]
+    }
+]

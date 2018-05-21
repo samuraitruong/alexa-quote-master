@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/anna_magnani_267156",
+        "quote": "Please don't retouch my wrinkles. It took me so long to earn them.",
+        "author": {
+            "name": "Anna Magnani",
+            "url": "/quotes/anna_magnani_267156"
+        },
+        "topics": [
+            {
+                "name": "Wrinkles",
+                "url": "/topics/wrinkles"
+            },
+            {
+                "name": "Earn",
+                "url": "/topics/earn"
+            },
+            {
+                "name": "Took",
+                "url": "/topics/took"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/anna_magnani_267157",
+        "quote": "Great passions, my dear, don't exist: they're liars fantasies. What do exist are little loves that may last for a short or a longer while.",
+        "author": {
+            "name": "Anna Magnani",
+            "url": "/quotes/anna_magnani_267157"
+        },
+        "topics": [
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Last",
+                "url": "/topics/last"
+            },
+            {
+                "name": "Liars",
+                "url": "/topics/liars"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/anna_magnani_394804",
+        "quote": "A divorcee is a women who got married so she didn't have to work, but now works so she doesn't have to get married.",
+        "author": {
+            "name": "Anna Magnani",
+            "url": "/quotes/anna_magnani_394804"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Got",
+                "url": "/topics/got"
+            },
+            {
+                "name": "Works",
+                "url": "/topics/works"
+            }
+        ]
+    }
+]

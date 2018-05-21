@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/ruth_duccini_609857",
+        "quote": "I was a Rosie the Riveter. I'm really proud of that.",
+        "author": {
+            "name": "Ruth Duccini",
+            "url": "/quotes/ruth_duccini_609857"
+        },
+        "topics": [
+            {
+                "name": "Proud",
+                "url": "/topics/proud"
+            },
+            {
+                "name": "Rosie",
+                "url": "/topics/rosie"
+            },
+            {
+                "name": "Really",
+                "url": "/topics/really"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ruth_duccini_609856",
+        "quote": "I'm old and happy. I've had a good life.",
+        "author": {
+            "name": "Ruth Duccini",
+            "url": "/quotes/ruth_duccini_609856"
+        },
+        "topics": [
+            {
+                "name": "Happy",
+                "url": "/topics/happy"
+            },
+            {
+                "name": "Old",
+                "url": "/topics/old"
+            },
+            {
+                "name": "Had",
+                "url": "/topics/had"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ruth_duccini_609858",
+        "quote": "I live my life one day at a time.",
+        "author": {
+            "name": "Ruth Duccini",
+            "url": "/quotes/ruth_duccini_609858"
+        },
+        "topics": [
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "One Day At A Time",
+                "url": "/topics/one_day_at_a_time"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ruth_duccini_609859",
+        "quote": "The one thing that I'm most proud of, during the Second World War, I worked on airplanes in a defense plant.",
+        "author": {
+            "name": "Ruth Duccini",
+            "url": "/quotes/ruth_duccini_609859"
+        },
+        "topics": [
+            {
+                "name": "War",
+                "url": "/topics/war"
+            },
+            {
+                "name": "Proud",
+                "url": "/topics/proud"
+            },
+            {
+                "name": "World War I",
+                "url": "/topics/world_war_i"
+            }
+        ]
+    }
+]

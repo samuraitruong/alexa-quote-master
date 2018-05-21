@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/charles_simic_161765",
+        "quote": "Inside my empty bottle I was constructing a lighthouse while all the others were making ships.",
+        "author": {
+            "name": "Charles Simic",
+            "url": "/quotes/charles_simic_161765"
+        },
+        "topics": [
+            {
+                "name": "Bottle",
+                "url": "/topics/bottle"
+            },
+            {
+                "name": "Making",
+                "url": "/topics/making"
+            },
+            {
+                "name": "Constructing",
+                "url": "/topics/constructing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charles_simic_101678",
+        "quote": "Poetry is an orphan of silence. The words never quite equal the experience behind them.",
+        "author": {
+            "name": "Charles Simic",
+            "url": "/quotes/charles_simic_101678"
+        },
+        "topics": [
+            {
+                "name": "Poetry",
+                "url": "/topics/poetry"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Equal",
+                "url": "/topics/equal"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charles_simic_107252",
+        "quote": "Wanted: a needle swift enough to sew this poem into a blanket.",
+        "author": {
+            "name": "Charles Simic",
+            "url": "/quotes/charles_simic_107252"
+        },
+        "topics": [
+            {
+                "name": "Poetry",
+                "url": "/topics/poetry"
+            },
+            {
+                "name": "Poem",
+                "url": "/topics/poem"
+            },
+            {
+                "name": "Wanted",
+                "url": "/topics/wanted"
+            }
+        ]
+    }
+]

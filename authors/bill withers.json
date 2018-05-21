@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/bill_withers_198558",
+        "quote": "I feel that it is healthier to look out at the world through a window than through a mirror. Otherwise, all you see is yourself and whatever is behind you.",
+        "author": {
+            "name": "Bill Withers",
+            "url": "/quotes/bill_withers_198558"
+        },
+        "topics": [
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Behind",
+                "url": "/topics/behind"
+            },
+            {
+                "name": "Otherwise",
+                "url": "/topics/otherwise"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_withers_198557",
+        "quote": "Ain't no sunshine when she's gone, It's not warm when she's away, Ain't no sunshine when she's gone, And she's always gone too long, Anytime she goes away.",
+        "author": {
+            "name": "Bill Withers",
+            "url": "/quotes/bill_withers_198557"
+        },
+        "topics": [
+            {
+                "name": "Sunshine",
+                "url": "/topics/sunshine"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_withers_201067",
+        "quote": "I write and sing about whatever I am able to understand and feel.",
+        "author": {
+            "name": "Bill Withers",
+            "url": "/quotes/bill_withers_201067"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Able",
+                "url": "/topics/able"
+            },
+            {
+                "name": "I Write",
+                "url": "/topics/i_write"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_withers_198560",
+        "quote": "An' this house just ain't no home, Anytime she goes away.",
+        "author": {
+            "name": "Bill Withers",
+            "url": "/quotes/bill_withers_198560"
+        },
+        "topics": [
+            {
+                "name": "She",
+                "url": "/topics/she"
+            },
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            },
+            {
+                "name": "Goes",
+                "url": "/topics/goes"
+            }
+        ]
+    }
+]

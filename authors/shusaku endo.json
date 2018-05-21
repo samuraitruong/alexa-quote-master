@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/shusaku_endo_311334",
+        "quote": "Christianity, to be effective in Japan, must change.",
+        "author": {
+            "name": "Shusaku Endo",
+            "url": "/quotes/shusaku_endo_311334"
+        },
+        "topics": [
+            {
+                "name": "Change",
+                "url": "/topics/change"
+            },
+            {
+                "name": "Japan",
+                "url": "/topics/japan"
+            },
+            {
+                "name": "Effective",
+                "url": "/topics/effective"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/shusaku_endo_311335",
+        "quote": "I became a Catholic against my will.",
+        "author": {
+            "name": "Shusaku Endo",
+            "url": "/quotes/shusaku_endo_311335"
+        },
+        "topics": [
+            {
+                "name": "Against",
+                "url": "/topics/against"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Became",
+                "url": "/topics/became"
+            }
+        ]
+    }
+]

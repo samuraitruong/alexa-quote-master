@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/thomas_bernhard_531629",
+        "quote": "Only when I am by seawater can I truly breathe, to say nothing of my ability to think.",
+        "author": {
+            "name": "Thomas Bernhard",
+            "url": "/quotes/thomas_bernhard_531629"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Say",
+                "url": "/topics/say"
+            },
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_bernhard_531630",
+        "quote": "The anger and the brutality against everything can readily from one hour to the next be transformed into its opposite.",
+        "author": {
+            "name": "Thomas Bernhard",
+            "url": "/quotes/thomas_bernhard_531630"
+        },
+        "topics": [
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            },
+            {
+                "name": "Hour",
+                "url": "/topics/hour"
+            },
+            {
+                "name": "Readily",
+                "url": "/topics/readily"
+            }
+        ]
+    }
+]

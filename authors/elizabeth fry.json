@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/elizabeth_fry_170233",
+        "quote": "Punishment is not for revenge, but to lessen crime and reform the criminal.",
+        "author": {
+            "name": "Elizabeth Fry",
+            "url": "/quotes/elizabeth_fry_170233"
+        },
+        "topics": [
+            {
+                "name": "Punishment",
+                "url": "/topics/punishment"
+            },
+            {
+                "name": "Reform",
+                "url": "/topics/reform"
+            },
+            {
+                "name": "Lessen",
+                "url": "/topics/lessen"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/elizabeth_fry_178328",
+        "quote": "Oh Lord, may I be directed what to do and what to leave undone.",
+        "author": {
+            "name": "Elizabeth Fry",
+            "url": "/quotes/elizabeth_fry_178328"
+        },
+        "topics": [
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Leave",
+                "url": "/topics/leave"
+            },
+            {
+                "name": "Directed",
+                "url": "/topics/directed"
+            }
+        ]
+    }
+]

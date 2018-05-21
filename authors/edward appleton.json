@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/edward_appleton_102741",
+        "quote": "I don't mind what language an opera is sung in so long as it is a language I don't understand.",
+        "author": {
+            "name": "Edward Appleton",
+            "url": "/quotes/edward_appleton_102741"
+        },
+        "topics": [
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Opera",
+                "url": "/topics/opera"
+            },
+            {
+                "name": "Understand",
+                "url": "/topics/understand"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edward_appleton_121303",
+        "quote": "I rate enthusiasm even above professional skill.",
+        "author": {
+            "name": "Edward Appleton",
+            "url": "/quotes/edward_appleton_121303"
+        },
+        "topics": [
+            {
+                "name": "Business",
+                "url": "/topics/business"
+            },
+            {
+                "name": "Enthusiasm",
+                "url": "/topics/enthusiasm"
+            },
+            {
+                "name": "Rate",
+                "url": "/topics/rate"
+            }
+        ]
+    }
+]

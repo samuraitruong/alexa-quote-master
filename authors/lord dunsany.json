@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/lord_dunsany_137635",
+        "quote": "Logic, like whiskey, loses its beneficial effect when taken in too large quantities.",
+        "author": {
+            "name": "Lord Dunsany",
+            "url": "/quotes/lord_dunsany_137635"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Large",
+                "url": "/topics/large"
+            },
+            {
+                "name": "Too",
+                "url": "/topics/too"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lord_dunsany_137634",
+        "quote": "A man is a very small thing, and the night is very large and full of wonders.",
+        "author": {
+            "name": "Lord Dunsany",
+            "url": "/quotes/lord_dunsany_137634"
+        },
+        "topics": [
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Large",
+                "url": "/topics/large"
+            }
+        ]
+    }
+]

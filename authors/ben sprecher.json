@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/ben_sprecher_692504",
+        "quote": "I've sat in the theater for thousands and thousands of shows.",
+        "author": {
+            "name": "Ben Sprecher",
+            "url": "/quotes/ben_sprecher_692504"
+        },
+        "topics": [
+            {
+                "name": "Sat",
+                "url": "/topics/sat"
+            },
+            {
+                "name": "Theater",
+                "url": "/topics/theater"
+            },
+            {
+                "name": "Shows",
+                "url": "/topics/shows"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ben_sprecher_692505",
+        "quote": "I'm trusting. I don't assume people lie to me.",
+        "author": {
+            "name": "Ben Sprecher",
+            "url": "/quotes/ben_sprecher_692505"
+        },
+        "topics": [
+            {
+                "name": "Lie",
+                "url": "/topics/lie"
+            },
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Trusting",
+                "url": "/topics/trusting"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ben_sprecher_692506",
+        "quote": "I never made up any investor. I never made up Paul Abrams.",
+        "author": {
+            "name": "Ben Sprecher",
+            "url": "/quotes/ben_sprecher_692506"
+        },
+        "topics": [
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Made",
+                "url": "/topics/made"
+            },
+            {
+                "name": "Investor",
+                "url": "/topics/investor"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ben_sprecher_692507",
+        "quote": "Restarting a musical isn't free.",
+        "author": {
+            "name": "Ben Sprecher",
+            "url": "/quotes/ben_sprecher_692507"
+        },
+        "topics": [
+            {
+                "name": "Free",
+                "url": "/topics/free"
+            },
+            {
+                "name": "Musical",
+                "url": "/topics/musical"
+            }
+        ]
+    }
+]

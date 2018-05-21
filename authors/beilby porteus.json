@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/beilby_porteus_180995",
+        "quote": "Kill a man, and you are an assassin. Kill millions of men, and you are a conqueror. Kill everyone, and you are a god.",
+        "author": {
+            "name": "Beilby Porteus",
+            "url": "/quotes/beilby_porteus_180995"
+        },
+        "topics": [
+            {
+                "name": "Men",
+                "url": "/topics/men"
+            },
+            {
+                "name": "Everyone",
+                "url": "/topics/everyone"
+            },
+            {
+                "name": "Millions",
+                "url": "/topics/millions"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/beilby_porteus_180993",
+        "quote": "One murder made a villain, Millions a hero.",
+        "author": {
+            "name": "Beilby Porteus",
+            "url": "/quotes/beilby_porteus_180993"
+        },
+        "topics": [
+            {
+                "name": "Villain",
+                "url": "/topics/villain"
+            },
+            {
+                "name": "Made",
+                "url": "/topics/made"
+            },
+            {
+                "name": "Millions",
+                "url": "/topics/millions"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/beilby_porteus_180994",
+        "quote": "War its thousands slays, Peace its ten thousands.",
+        "author": {
+            "name": "Beilby Porteus",
+            "url": "/quotes/beilby_porteus_180994"
+        },
+        "topics": [
+            {
+                "name": "War",
+                "url": "/topics/war"
+            },
+            {
+                "name": "Peace",
+                "url": "/topics/peace"
+            },
+            {
+                "name": "Thousands",
+                "url": "/topics/thousands"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/beilby_porteus_180997",
+        "quote": "He who foresees calamities, suffers them twice over.",
+        "author": {
+            "name": "Beilby Porteus",
+            "url": "/quotes/beilby_porteus_180997"
+        },
+        "topics": [
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Twice",
+                "url": "/topics/twice"
+            },
+            {
+                "name": "Suffers",
+                "url": "/topics/suffers"
+            }
+        ]
+    }
+]

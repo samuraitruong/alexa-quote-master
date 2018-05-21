@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/carlos_saavedra_lamas_732719",
+        "quote": "Unemployment is a great tragedy. The man who goes about hopelessly seeking work in order to earn bread for his children is a living reproach to civilization.",
+        "author": {
+            "name": "Carlos Saavedra Lamas",
+            "url": "/quotes/carlos_saavedra_lamas_732719"
+        },
+        "topics": [
+            {
+                "name": "Bread",
+                "url": "/topics/bread"
+            },
+            {
+                "name": "Living",
+                "url": "/topics/living"
+            },
+            {
+                "name": "Civilization",
+                "url": "/topics/civilization"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/carlos_saavedra_lamas_732720",
+        "quote": "War of aggression, war which does not imply defense of one's country, is a collective crime.",
+        "author": {
+            "name": "Carlos Saavedra Lamas",
+            "url": "/quotes/carlos_saavedra_lamas_732720"
+        },
+        "topics": [
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Imply",
+                "url": "/topics/imply"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/carlos_saavedra_lamas_732718",
+        "quote": "America is the world of peace and must be made the continent of its definite consequence.",
+        "author": {
+            "name": "Carlos Saavedra Lamas",
+            "url": "/quotes/carlos_saavedra_lamas_732718"
+        },
+        "topics": [
+            {
+                "name": "Consequence",
+                "url": "/topics/consequence"
+            },
+            {
+                "name": "Continent",
+                "url": "/topics/continent"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/carlos_saavedra_lamas_732721",
+        "quote": "War implies a lack of comprehension of mutual national interests; it means the undermining and even the end of culture.",
+        "author": {
+            "name": "Carlos Saavedra Lamas",
+            "url": "/quotes/carlos_saavedra_lamas_732721"
+        },
+        "topics": [
+            {
+                "name": "War",
+                "url": "/topics/war"
+            },
+            {
+                "name": "Means",
+                "url": "/topics/means"
+            },
+            {
+                "name": "Undermining",
+                "url": "/topics/undermining"
+            }
+        ]
+    }
+]

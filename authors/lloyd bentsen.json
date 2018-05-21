@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/lloyd_bentsen_190325",
+        "quote": "I have never forgotten my days as an Eagle Scout. I didn't know it at the time, but what really came out of my Scouting was learning how to lead and serve the community. It has come in handy in my career in government.",
+        "author": {
+            "name": "Lloyd Bentsen",
+            "url": "/quotes/lloyd_bentsen_190325"
+        },
+        "topics": [
+            {
+                "name": "Learning",
+                "url": "/topics/learning"
+            },
+            {
+                "name": "Career",
+                "url": "/topics/career"
+            },
+            {
+                "name": "Scouting",
+                "url": "/topics/scouting"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lloyd_bentsen_394582",
+        "quote": "Senator, I served with Jack Kennedy, I knew Jack Kennedy. Jack Kennedy was a friend of mine. Senator, you're no Jack Kennedy.",
+        "author": {
+            "name": "Lloyd Bentsen",
+            "url": "/quotes/lloyd_bentsen_394582"
+        },
+        "topics": [
+            {
+                "name": "Mine",
+                "url": "/topics/mine"
+            },
+            {
+                "name": "Senator",
+                "url": "/topics/senator"
+            },
+            {
+                "name": "Kennedy",
+                "url": "/topics/kennedy"
+            }
+        ]
+    }
+]

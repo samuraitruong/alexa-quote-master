@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/paul_henreid_696735",
+        "quote": "I hate to think of the day when nobody remembers me as an actor and I can't get good tables in restaurants.",
+        "author": {
+            "name": "Paul Henreid",
+            "url": "/quotes/paul_henreid_696735"
+        },
+        "topics": [
+            {
+                "name": "Good",
+                "url": "/topics/good"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Actor",
+                "url": "/topics/actor"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_henreid_696734",
+        "quote": "I never felt Lee Strasberg could act, and I fail to see how someone who can't act can teach acting.",
+        "author": {
+            "name": "Paul Henreid",
+            "url": "/quotes/paul_henreid_696734"
+        },
+        "topics": [
+            {
+                "name": "Teach",
+                "url": "/topics/teach"
+            },
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            },
+            {
+                "name": "Felt",
+                "url": "/topics/felt"
+            }
+        ]
+    }
+]

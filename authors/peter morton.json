@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/peter_morton_555581",
+        "quote": "I can't cook a thing.",
+        "author": {
+            "name": "Peter Morton",
+            "url": "/quotes/peter_morton_555581"
+        },
+        "topics": [
+            {
+                "name": "Cook",
+                "url": "/topics/cook"
+            },
+            {
+                "name": "Thing",
+                "url": "/topics/thing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/peter_morton_555582",
+        "quote": "People come to my places to eat dinner with their friends, not with me.",
+        "author": {
+            "name": "Peter Morton",
+            "url": "/quotes/peter_morton_555582"
+        },
+        "topics": [
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Places",
+                "url": "/topics/places"
+            },
+            {
+                "name": "Eat",
+                "url": "/topics/eat"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/peter_morton_555583",
+        "quote": "When I founded the first Hard Rock, no one was serving American food in London; McDonald's wasn't there, Burger King, etc.",
+        "author": {
+            "name": "Peter Morton",
+            "url": "/quotes/peter_morton_555583"
+        },
+        "topics": [
+            {
+                "name": "King",
+                "url": "/topics/king"
+            },
+            {
+                "name": "London",
+                "url": "/topics/london"
+            },
+            {
+                "name": "Hard Rock",
+                "url": "/topics/hard_rock"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/john_lilly_104517",
+        "quote": "Our only security is our ability to change.",
+        "author": {
+            "name": "John Lilly",
+            "url": "/quotes/john_lilly_104517"
+        },
+        "topics": [
+            {
+                "name": "Change",
+                "url": "/topics/change"
+            },
+            {
+                "name": "Security",
+                "url": "/topics/security"
+            },
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_lilly_122201",
+        "quote": "In the province of the mind, what one believes to be true either is true or becomes true.",
+        "author": {
+            "name": "John Lilly",
+            "url": "/quotes/john_lilly_122201"
+        },
+        "topics": [
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Either",
+                "url": "/topics/either"
+            },
+            {
+                "name": "Province",
+                "url": "/topics/province"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/tenzing_norgay_317336",
+        "quote": "If it is a shame to be the second man on Mount Everest, then I will have to live with this shame.",
+        "author": {
+            "name": "Tenzing Norgay",
+            "url": "/quotes/tenzing_norgay_317336"
+        },
+        "topics": [
+            {
+                "name": "Man",
+                "url": "/topics/man"
+            },
+            {
+                "name": "Shame",
+                "url": "/topics/shame"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tenzing_norgay_177801",
+        "quote": "If I know I make this much trouble, I never climb Everest.",
+        "author": {
+            "name": "Tenzing Norgay",
+            "url": "/quotes/tenzing_norgay_177801"
+        },
+        "topics": [
+            {
+                "name": "Climb",
+                "url": "/topics/climb"
+            },
+            {
+                "name": "Know",
+                "url": "/topics/know"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            }
+        ]
+    }
+]

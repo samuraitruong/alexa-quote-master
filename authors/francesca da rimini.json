@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/francesca_da_rimini_229709",
+        "quote": "Come dress yourself in love, let the journey begin.",
+        "author": {
+            "name": "Francesca da Rimini",
+            "url": "/quotes/francesca_da_rimini_229709"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Journey",
+                "url": "/topics/journey"
+            },
+            {
+                "name": "Dress",
+                "url": "/topics/dress"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/francesca_da_rimini_229710",
+        "quote": "Search for beauty without features, something deeper than any signs.",
+        "author": {
+            "name": "Francesca da Rimini",
+            "url": "/quotes/francesca_da_rimini_229710"
+        },
+        "topics": [
+            {
+                "name": "Search",
+                "url": "/topics/search"
+            },
+            {
+                "name": "Signs",
+                "url": "/topics/signs"
+            },
+            {
+                "name": "Features",
+                "url": "/topics/features"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/francesca_da_rimini_229733",
+        "quote": "I do suspect that this world is hell.",
+        "author": {
+            "name": "Francesca da Rimini",
+            "url": "/quotes/francesca_da_rimini_229733"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Hell",
+                "url": "/topics/hell"
+            },
+            {
+                "name": "Suspect",
+                "url": "/topics/suspect"
+            }
+        ]
+    }
+]

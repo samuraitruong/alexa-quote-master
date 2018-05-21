@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/dick_trickle_217462",
+        "quote": "I did it for a living, made a career out of it, but now I've turned it into somewhat of a hobby.",
+        "author": {
+            "name": "Dick Trickle",
+            "url": "/quotes/dick_trickle_217462"
+        },
+        "topics": [
+            {
+                "name": "Career",
+                "url": "/topics/career"
+            },
+            {
+                "name": "Living",
+                "url": "/topics/living"
+            },
+            {
+                "name": "Turned",
+                "url": "/topics/turned"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dick_trickle_217465",
+        "quote": "Racing is in my blood, I can't quite get out of it yet.",
+        "author": {
+            "name": "Dick Trickle",
+            "url": "/quotes/dick_trickle_217465"
+        },
+        "topics": [
+            {
+                "name": "Racing",
+                "url": "/topics/racing"
+            },
+            {
+                "name": "Quite",
+                "url": "/topics/quite"
+            },
+            {
+                "name": "Get",
+                "url": "/topics/get"
+            }
+        ]
+    }
+]

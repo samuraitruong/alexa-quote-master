@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/tris_speaker_140071",
+        "quote": "If you put a baseball and other toys in front of a baby, he'll pick up a baseball in preference to the others.",
+        "author": {
+            "name": "Tris Speaker",
+            "url": "/quotes/tris_speaker_140071"
+        },
+        "topics": [
+            {
+                "name": "Toys",
+                "url": "/topics/toys"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Preference",
+                "url": "/topics/preference"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tris_speaker_140072",
+        "quote": "It would be useless for any player to attempt to explain successful batting.",
+        "author": {
+            "name": "Tris Speaker",
+            "url": "/quotes/tris_speaker_140072"
+        },
+        "topics": [
+            {
+                "name": "Explain",
+                "url": "/topics/explain"
+            },
+            {
+                "name": "Batting",
+                "url": "/topics/batting"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tris_speaker_140073",
+        "quote": "Luck is the great stabilizer in baseball.",
+        "author": {
+            "name": "Tris Speaker",
+            "url": "/quotes/tris_speaker_140073"
+        },
+        "topics": [
+            {
+                "name": "Baseball",
+                "url": "/topics/baseball"
+            },
+            {
+                "name": "Great",
+                "url": "/topics/great"
+            },
+            {
+                "name": "Luck",
+                "url": "/topics/luck"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tris_speaker_140076",
+        "quote": "The Babe was a great ballplayer, sure, but Cobb was even greater. Babe could knock your brains out, but Cobb would drive you crazy.",
+        "author": {
+            "name": "Tris Speaker",
+            "url": "/quotes/tris_speaker_140076"
+        },
+        "topics": [
+            {
+                "name": "Sure",
+                "url": "/topics/sure"
+            },
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            },
+            {
+                "name": "Knock",
+                "url": "/topics/knock"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tris_speaker_164436",
+        "quote": "The American boy starts swinging the bat about as soon as he can lift one.",
+        "author": {
+            "name": "Tris Speaker",
+            "url": "/quotes/tris_speaker_164436"
+        },
+        "topics": [
+            {
+                "name": "Lift",
+                "url": "/topics/lift"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Bat",
+                "url": "/topics/bat"
+            }
+        ]
+    }
+]

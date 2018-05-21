@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/frank_wedekind_211335",
+        "quote": "Monuments are for the living, not the dead.",
+        "author": {
+            "name": "Frank Wedekind",
+            "url": "/quotes/frank_wedekind_211335"
+        },
+        "topics": [
+            {
+                "name": "Living",
+                "url": "/topics/living"
+            },
+            {
+                "name": "Dead",
+                "url": "/topics/dead"
+            },
+            {
+                "name": "Monuments",
+                "url": "/topics/monuments"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/frank_wedekind_211337",
+        "quote": "Virtue looks good but it only suits imposing figures.",
+        "author": {
+            "name": "Frank Wedekind",
+            "url": "/quotes/frank_wedekind_211337"
+        },
+        "topics": [
+            {
+                "name": "Looks",
+                "url": "/topics/looks"
+            },
+            {
+                "name": "Imposing",
+                "url": "/topics/imposing"
+            },
+            {
+                "name": "Figures",
+                "url": "/topics/figures"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/frank_wedekind_211339",
+        "quote": "Any fool can have bad luck; the art consists in knowing how to exploit it.",
+        "author": {
+            "name": "Frank Wedekind",
+            "url": "/quotes/frank_wedekind_211339"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Luck",
+                "url": "/topics/luck"
+            },
+            {
+                "name": "How",
+                "url": "/topics/how"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/frank_wedekind_211338",
+        "quote": "God made man in his own image, and man returned the favour.",
+        "author": {
+            "name": "Frank Wedekind",
+            "url": "/quotes/frank_wedekind_211338"
+        },
+        "topics": [
+            {
+                "name": "Image",
+                "url": "/topics/image"
+            },
+            {
+                "name": "Made",
+                "url": "/topics/made"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/frank_wedekind_211336",
+        "quote": "The laws of this world are for children.",
+        "author": {
+            "name": "Frank Wedekind",
+            "url": "/quotes/frank_wedekind_211336"
+        },
+        "topics": [
+            {
+                "name": "Children",
+                "url": "/topics/children"
+            },
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Laws",
+                "url": "/topics/laws"
+            }
+        ]
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/dorothy_gilman_377797",
+        "quote": "A man from hell is not afraid of hot ashes.",
+        "author": {
+            "name": "Dorothy Gilman",
+            "url": "/quotes/dorothy_gilman_377797"
+        },
+        "topics": [
+            {
+                "name": "Afraid",
+                "url": "/topics/afraid"
+            },
+            {
+                "name": "Ashes",
+                "url": "/topics/ashes"
+            },
+            {
+                "name": "Hell Is",
+                "url": "/topics/hell_is"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dorothy_gilman_130362",
+        "quote": "People need dreams, there's as much nourishment in 'em as food.",
+        "author": {
+            "name": "Dorothy Gilman",
+            "url": "/quotes/dorothy_gilman_130362"
+        },
+        "topics": [
+            {
+                "name": "Dreams",
+                "url": "/topics/dreams"
+            },
+            {
+                "name": "People",
+                "url": "/topics/people"
+            },
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dorothy_gilman_379857",
+        "quote": "The best things arrive on time.",
+        "author": {
+            "name": "Dorothy Gilman",
+            "url": "/quotes/dorothy_gilman_379857"
+        },
+        "topics": [
+            {
+                "name": "Best",
+                "url": "/topics/best"
+            },
+            {
+                "name": "Things",
+                "url": "/topics/things"
+            },
+            {
+                "name": "Arrive",
+                "url": "/topics/arrive"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dorothy_gilman_133758",
+        "quote": "If something anticipated arrives too late it finds us numb, wrung out from waiting, and we feel - nothing at all. The best things arrive on time.",
+        "author": {
+            "name": "Dorothy Gilman",
+            "url": "/quotes/dorothy_gilman_133758"
+        },
+        "topics": [
+            {
+                "name": "Waiting",
+                "url": "/topics/waiting"
+            },
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            },
+            {
+                "name": "Too Late",
+                "url": "/topics/too_late"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/alan_gorrie_263688",
+        "quote": "If truth is the first victim of war, then read on - I've got some great lies for you this month.",
+        "author": {
+            "name": "Alan Gorrie",
+            "url": "/quotes/alan_gorrie_263688"
+        },
+        "topics": [
+            {
+                "name": "War",
+                "url": "/topics/war"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Read",
+                "url": "/topics/read"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alan_gorrie_263689",
+        "quote": "Look, I was only given a year or two to come up with tunes for this record, and when all but eight of them were thrown out for riotous behaviour, I got a bit ticked off; wouldn't you?",
+        "author": {
+            "name": "Alan Gorrie",
+            "url": "/quotes/alan_gorrie_263689"
+        },
+        "topics": [
+            {
+                "name": "Year",
+                "url": "/topics/year"
+            },
+            {
+                "name": "Two",
+                "url": "/topics/two"
+            },
+            {
+                "name": "Bit",
+                "url": "/topics/bit"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/sheri_mccoy_621286",
+        "quote": "The vision is to restore Avon to an iconic beauty brand and to our leadership position in global direct selling, as well as continuing to ensure that we live up to our mission of empowering women.",
+        "author": {
+            "name": "Sheri McCoy",
+            "url": "/quotes/sheri_mccoy_621286"
+        },
+        "topics": [
+            {
+                "name": "Beauty",
+                "url": "/topics/beauty"
+            },
+            {
+                "name": "Restore",
+                "url": "/topics/restore"
+            },
+            {
+                "name": "Ensure",
+                "url": "/topics/ensure"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sheri_mccoy_621288",
+        "quote": "I like to think I set aspirational but reasonable goals and encourage my team to achieve them.",
+        "author": {
+            "name": "Sheri McCoy",
+            "url": "/quotes/sheri_mccoy_621288"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Encourage",
+                "url": "/topics/encourage"
+            },
+            {
+                "name": "Set",
+                "url": "/topics/set"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sheri_mccoy_621287",
+        "quote": "I've got on my Avon jewelry. I have my pink Avon bag. Not one thing on my face is non-Avon.",
+        "author": {
+            "name": "Sheri McCoy",
+            "url": "/quotes/sheri_mccoy_621287"
+        },
+        "topics": [
+            {
+                "name": "Pink",
+                "url": "/topics/pink"
+            },
+            {
+                "name": "Jewelry",
+                "url": "/topics/jewelry"
+            },
+            {
+                "name": "One Thing",
+                "url": "/topics/one_thing"
+            }
+        ]
+    }
+]

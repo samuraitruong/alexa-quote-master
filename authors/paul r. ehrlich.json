@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/paul_r_ehrlich_128388",
+        "quote": "To err is human, but to really foul things up you need a computer.",
+        "author": {
+            "name": "Paul R. Ehrlich",
+            "url": "/quotes/paul_r_ehrlich_128388"
+        },
+        "topics": [
+            {
+                "name": "Computers",
+                "url": "/topics/computers"
+            },
+            {
+                "name": "Computer",
+                "url": "/topics/computer"
+            },
+            {
+                "name": "Foul",
+                "url": "/topics/foul"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_r_ehrlich_136878",
+        "quote": "The first rule of intelligent tinkering is to save all the parts.",
+        "author": {
+            "name": "Paul R. Ehrlich",
+            "url": "/quotes/paul_r_ehrlich_136878"
+        },
+        "topics": [
+            {
+                "name": "Save",
+                "url": "/topics/save"
+            },
+            {
+                "name": "Parts",
+                "url": "/topics/parts"
+            },
+            {
+                "name": "Tinkering",
+                "url": "/topics/tinkering"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_r_ehrlich_162223",
+        "quote": "The National Academy of Sciences would be unable to give a unanimous decision if asked whether the sun would rise tomorrow.",
+        "author": {
+            "name": "Paul R. Ehrlich",
+            "url": "/quotes/paul_r_ehrlich_162223"
+        },
+        "topics": [
+            {
+                "name": "Decision",
+                "url": "/topics/decision"
+            },
+            {
+                "name": "Tomorrow",
+                "url": "/topics/tomorrow"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_r_ehrlich_406613",
+        "quote": "I see harm reduction as a way of engaging people as part of that path to recovery.",
+        "author": {
+            "name": "Paul R. Ehrlich",
+            "url": "/quotes/paul_r_ehrlich_406613"
+        },
+        "topics": [
+            {
+                "name": "Path",
+                "url": "/topics/path"
+            },
+            {
+                "name": "See",
+                "url": "/topics/see"
+            },
+            {
+                "name": "Engaging",
+                "url": "/topics/engaging"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_r_ehrlich_406614",
+        "quote": "We're one of the most highly regulated industries, and we have to pay attention to what government is doing.",
+        "author": {
+            "name": "Paul R. Ehrlich",
+            "url": "/quotes/paul_r_ehrlich_406614"
+        },
+        "topics": [
+            {
+                "name": "Government",
+                "url": "/topics/government"
+            },
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            }
+        ]
+    }
+]

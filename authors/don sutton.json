@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/don_sutton_190662",
+        "quote": "Luck is the by-product of busting your fanny.",
+        "author": {
+            "name": "Don Sutton",
+            "url": "/quotes/don_sutton_190662"
+        },
+        "topics": [
+            {
+                "name": "Luck",
+                "url": "/topics/luck"
+            },
+            {
+                "name": "By-Product",
+                "url": "/topics/by-product"
+            },
+            {
+                "name": "Fanny",
+                "url": "/topics/fanny"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/don_sutton_190661",
+        "quote": "I am the most loyal player money can buy.",
+        "author": {
+            "name": "Don Sutton",
+            "url": "/quotes/don_sutton_190661"
+        },
+        "topics": [
+            {
+                "name": "Money",
+                "url": "/topics/money"
+            },
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            }
+        ]
+    }
+]

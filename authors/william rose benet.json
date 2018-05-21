@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/william_rose_benet_269028",
+        "quote": "Blue oblivion, largely lit, smiled and smiled at me.",
+        "author": {
+            "name": "William Rose Benet",
+            "url": "/quotes/william_rose_benet_269028"
+        },
+        "topics": [
+            {
+                "name": "Blue",
+                "url": "/topics/blue"
+            },
+            {
+                "name": "Smiled",
+                "url": "/topics/smiled"
+            },
+            {
+                "name": "Largely",
+                "url": "/topics/largely"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_rose_benet_269029",
+        "quote": "Who writes poetry imbibes honey from the poisoned lips of life.",
+        "author": {
+            "name": "William Rose Benet",
+            "url": "/quotes/william_rose_benet_269029"
+        },
+        "topics": [
+            {
+                "name": "Honey",
+                "url": "/topics/honey"
+            },
+            {
+                "name": "Lips",
+                "url": "/topics/lips"
+            },
+            {
+                "name": "Poisoned",
+                "url": "/topics/poisoned"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_rose_benet_269027",
+        "quote": "And now there is merely silence, silence, silence, saying all we did not know.",
+        "author": {
+            "name": "William Rose Benet",
+            "url": "/quotes/william_rose_benet_269027"
+        },
+        "topics": [
+            {
+                "name": "Silence",
+                "url": "/topics/silence"
+            },
+            {
+                "name": "Know",
+                "url": "/topics/know"
+            },
+            {
+                "name": "Now",
+                "url": "/topics/now"
+            }
+        ]
+    }
+]

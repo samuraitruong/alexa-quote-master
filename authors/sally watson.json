@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/sally_watson_757921",
+        "quote": "I was always interested in the kind of history they didn't teach you in school.",
+        "author": {
+            "name": "Sally Watson",
+            "url": "/quotes/sally_watson_757921"
+        },
+        "topics": [
+            {
+                "name": "School",
+                "url": "/topics/school"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Kind",
+                "url": "/topics/kind"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sally_watson_757922",
+        "quote": "I want to know what people thought and what they wore and what they ate for breakfast.",
+        "author": {
+            "name": "Sally Watson",
+            "url": "/quotes/sally_watson_757922"
+        },
+        "topics": [
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Ate",
+                "url": "/topics/ate"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/josef_skvorecky_117214",
+        "quote": "Lovers of literature will look for the remains of the golden treasure in that shipwreck on the bottom of the sea of criticism.",
+        "author": {
+            "name": "Josef Skvorecky",
+            "url": "/quotes/josef_skvorecky_117214"
+        },
+        "topics": [
+            {
+                "name": "Literature",
+                "url": "/topics/literature"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Shipwreck",
+                "url": "/topics/shipwreck"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/josef_skvorecky_113230",
+        "quote": "There is something that falls short of perfection in every book, without exception, something influenced by the age, even something ridiculous; just like everyone, without exception, has weaknesses.",
+        "author": {
+            "name": "Josef Skvorecky",
+            "url": "/quotes/josef_skvorecky_113230"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Everyone",
+                "url": "/topics/everyone"
+            },
+            {
+                "name": "Exception",
+                "url": "/topics/exception"
+            }
+        ]
+    }
+]

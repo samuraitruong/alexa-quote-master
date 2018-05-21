@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/michael_jeffery_178744",
+        "quote": "Collectively, we must do more than simply watch, with resignation and a feeling of powerlessness, reports on the evening news about the latest terrorist atrocity.",
+        "author": {
+            "name": "Michael Jeffery",
+            "url": "/quotes/michael_jeffery_178744"
+        },
+        "topics": [
+            {
+                "name": "News",
+                "url": "/topics/news"
+            },
+            {
+                "name": "Powerlessness",
+                "url": "/topics/powerlessness"
+            },
+            {
+                "name": "Reports",
+                "url": "/topics/reports"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/michael_jeffery_178745",
+        "quote": "For us Australians, Singapore also represents sacred soil. Almost 2000 Australians died here in the defense of your island country and our neighborhood.",
+        "author": {
+            "name": "Michael Jeffery",
+            "url": "/quotes/michael_jeffery_178745"
+        },
+        "topics": [
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            },
+            {
+                "name": "Almost",
+                "url": "/topics/almost"
+            }
+        ]
+    }
+]

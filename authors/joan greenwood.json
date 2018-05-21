@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/joan_greenwood_202474",
+        "quote": "We used to wash our hair in buckets and survive on toasted sandwiches, chocolates and soup.",
+        "author": {
+            "name": "Joan Greenwood",
+            "url": "/quotes/joan_greenwood_202474"
+        },
+        "topics": [
+            {
+                "name": "Hair",
+                "url": "/topics/hair"
+            },
+            {
+                "name": "Survive",
+                "url": "/topics/survive"
+            },
+            {
+                "name": "Soup",
+                "url": "/topics/soup"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joan_greenwood_202475",
+        "quote": "Now I am an old hag, I get to play much more interesting characters.",
+        "author": {
+            "name": "Joan Greenwood",
+            "url": "/quotes/joan_greenwood_202475"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Old",
+                "url": "/topics/old"
+            }
+        ]
+    }
+]

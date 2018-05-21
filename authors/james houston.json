@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/james_houston_408536",
+        "quote": "It's hard now to imagine that kind of travel and the daily tasks they simply took for granted. If a wagon axle broke, you had to stop and carve a new one. To cross a river, you sometimes had to build a raft.",
+        "author": {
+            "name": "James Houston",
+            "url": "/quotes/james_houston_408536"
+        },
+        "topics": [
+            {
+                "name": "Sometimes",
+                "url": "/topics/sometimes"
+            },
+            {
+                "name": "Wagon",
+                "url": "/topics/wagon"
+            },
+            {
+                "name": "New One",
+                "url": "/topics/new_one"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_houston_380913",
+        "quote": "Words are the basic tools, if you are a writer.",
+        "author": {
+            "name": "James Houston",
+            "url": "/quotes/james_houston_380913"
+        },
+        "topics": [
+            {
+                "name": "Words",
+                "url": "/topics/words"
+            },
+            {
+                "name": "Writer",
+                "url": "/topics/writer"
+            },
+            {
+                "name": "Basic",
+                "url": "/topics/basic"
+            }
+        ]
+    }
+]

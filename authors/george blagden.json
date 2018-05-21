@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/george_blagden_655675",
+        "quote": "The best characters to play are the ones who have deep internal conflict.",
+        "author": {
+            "name": "George Blagden",
+            "url": "/quotes/george_blagden_655675"
+        },
+        "topics": [
+            {
+                "name": "Deep",
+                "url": "/topics/deep"
+            },
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Characters",
+                "url": "/topics/characters"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_blagden_562029",
+        "quote": "The Vikings colonized Britain, and a lot of our modern day towns are named after Viking names that settled these big towns.",
+        "author": {
+            "name": "George Blagden",
+            "url": "/quotes/george_blagden_562029"
+        },
+        "topics": [
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Britain",
+                "url": "/topics/britain"
+            },
+            {
+                "name": "Named",
+                "url": "/topics/named"
+            }
+        ]
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/harvey_penick_405031",
+        "quote": "Go out and have fun. Golf is a game for everyone, not just for the talented few.",
+        "author": {
+            "name": "Harvey Penick",
+            "url": "/quotes/harvey_penick_405031"
+        },
+        "topics": [
+            {
+                "name": "Golf",
+                "url": "/topics/golf"
+            },
+            {
+                "name": "Game",
+                "url": "/topics/game"
+            },
+            {
+                "name": "Everyone",
+                "url": "/topics/everyone"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/harvey_penick_405060",
+        "quote": "Golf has probably kept more people sane than psychiatrists have.",
+        "author": {
+            "name": "Harvey Penick",
+            "url": "/quotes/harvey_penick_405060"
+        },
+        "topics": [
+            {
+                "name": "Golf",
+                "url": "/topics/golf"
+            },
+            {
+                "name": "Sane",
+                "url": "/topics/sane"
+            },
+            {
+                "name": "More People",
+                "url": "/topics/more_people"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/harvey_penick_143887",
+        "quote": "I don't care how good you play, you can find somebody who can beat you, and I don't care how bad you play, you can find somebody you can beat.",
+        "author": {
+            "name": "Harvey Penick",
+            "url": "/quotes/harvey_penick_143887"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            },
+            {
+                "name": "How",
+                "url": "/topics/how"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/harvey_penick_404975",
+        "quote": "Be brave if you lose and meek if you win.",
+        "author": {
+            "name": "Harvey Penick",
+            "url": "/quotes/harvey_penick_404975"
+        },
+        "topics": [
+            {
+                "name": "Brave",
+                "url": "/topics/brave"
+            },
+            {
+                "name": "Lose",
+                "url": "/topics/lose"
+            },
+            {
+                "name": "Be Brave",
+                "url": "/topics/be_brave"
+            }
+        ]
+    }
+]

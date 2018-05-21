@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/laura_ashley_187346",
+        "quote": "We don't want to push our ideas on to customers, we simply want to make what they want.",
+        "author": {
+            "name": "Laura Ashley",
+            "url": "/quotes/laura_ashley_187346"
+        },
+        "topics": [
+            {
+                "name": "Ideas",
+                "url": "/topics/ideas"
+            },
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Customers",
+                "url": "/topics/customers"
+            }
+        ]
+    }
+]

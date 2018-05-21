@@ -1,0 +1,134 @@
+[
+    {
+        "url": "/quotes/adam_draper_851275?src=t_coinbase",
+        "quote": "Coinbase is 'the' brand in the Bitcoin space. Their founder Brian Armstrong was amongst the first good entrepreneurs to emerge in this space. While others championed ideological or underground/illicit interests, Brian saw an opportunity to change the world for the better and build a big business out of it.",
+        "author": {
+            "name": "Adam Draper",
+            "url": "/authors/adam_draper"
+        },
+        "topics": [
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Entrepreneurs",
+                "url": "/topics/entrepreneurs"
+            },
+            {
+                "name": "While",
+                "url": "/topics/while"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brian_armstrong_851354?src=t_coinbase",
+        "quote": "It's important to understand how Coinbase thinks about regulation and compliance in the digital currency space. As an exchange, we view compliance as key to digital currency's success.",
+        "author": {
+            "name": "Brian Armstrong",
+            "url": "/authors/brian_armstrong"
+        },
+        "topics": [
+            {
+                "name": "Digital",
+                "url": "/topics/digital"
+            },
+            {
+                "name": "Understand",
+                "url": "/topics/understand"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brian_armstrong_851352?src=t_coinbase",
+        "quote": "At Coinbase, our mission is to create an open financial system for the world. We believe that open protocols for money will create more innovation, economic freedom, and equality of opportunity in the world, just like the Internet did for publishing information.",
+        "author": {
+            "name": "Brian Armstrong",
+            "url": "/authors/brian_armstrong"
+        },
+        "topics": [
+            {
+                "name": "Financial",
+                "url": "/topics/financial"
+            },
+            {
+                "name": "Believe",
+                "url": "/topics/believe"
+            },
+            {
+                "name": "Our",
+                "url": "/topics/our"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/fred_ehrsam_850301?src=t_coinbase",
+        "quote": "Ethereum will be a first-class citizen on Coinbase.",
+        "author": {
+            "name": "Fred Ehrsam",
+            "url": "/authors/fred_ehrsam"
+        },
+        "topics": [
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Citizen",
+                "url": "/topics/citizen"
+            },
+            {
+                "name": "Ethereum",
+                "url": "/topics/ethereum"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/fred_ehrsam_855065?src=t_coinbase",
+        "quote": "When Coinbase was starting, we thought we were seeing the birth of something that was really important - what I would almost describe as the future fabric of society - the system for who we are - our identities, what we own, our assets.",
+        "author": {
+            "name": "Fred Ehrsam",
+            "url": "/authors/fred_ehrsam"
+        },
+        "topics": [
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            },
+            {
+                "name": "Almost",
+                "url": "/topics/almost"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brian_armstrong_851360?src=t_coinbase",
+        "quote": "At Coinbase, our first priority is to ensure that we operate the most secure and compliant digital currency exchange in the world.",
+        "author": {
+            "name": "Brian Armstrong",
+            "url": "/authors/brian_armstrong"
+        },
+        "topics": [
+            {
+                "name": "Digital",
+                "url": "/topics/digital"
+            },
+            {
+                "name": "Priority",
+                "url": "/topics/priority"
+            },
+            {
+                "name": "Ensure",
+                "url": "/topics/ensure"
+            }
+        ]
+    }
+]

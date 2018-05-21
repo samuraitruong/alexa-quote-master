@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/vilfredo_pareto_405072",
+        "quote": "Give me a fruitful error anytime, full of seeds, bursting with its own corrections.",
+        "author": {
+            "name": "Vilfredo Pareto",
+            "url": "/quotes/vilfredo_pareto_405072"
+        },
+        "topics": [
+            {
+                "name": "Seeds",
+                "url": "/topics/seeds"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            },
+            {
+                "name": "Corrections",
+                "url": "/topics/corrections"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/vilfredo_pareto_106383",
+        "quote": "Give me the fruitful error any time, full of seeds, bursting with its own corrections. You can keep your sterile truth for yourself.",
+        "author": {
+            "name": "Vilfredo Pareto",
+            "url": "/quotes/vilfredo_pareto_106383"
+        },
+        "topics": [
+            {
+                "name": "Seeds",
+                "url": "/topics/seeds"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            },
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/chuck_brown_556429",
+        "quote": "When I was a young man, I shined the shoes of Louis Armstrong and Louis Jordan! Music was just everywhere like that. And in my family, everyone could play something, and if they couldn't play, they could sing.",
+        "author": {
+            "name": "Chuck Brown",
+            "url": "/quotes/chuck_brown_556429"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Young",
+                "url": "/topics/young"
+            },
+            {
+                "name": "Armstrong",
+                "url": "/topics/armstrong"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/chuck_brown_556430",
+        "quote": "My first instrument was the piano; I played in the church, and before that I sang in church. I didn't learn the guitar until I was 24 years old.",
+        "author": {
+            "name": "Chuck Brown",
+            "url": "/quotes/chuck_brown_556430"
+        },
+        "topics": [
+            {
+                "name": "Learn",
+                "url": "/topics/learn"
+            },
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            },
+            {
+                "name": "Old",
+                "url": "/topics/old"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/chuck_brown_556431",
+        "quote": "I can't lie - I love talking to the people at my shows. I'm so grateful to all my fans. I couldn't do it for this long without them. So if they want to come past to say hi and whatnot, then it's part of my job to talk to them - and you know, it might be the best part of my job, too.",
+        "author": {
+            "name": "Chuck Brown",
+            "url": "/quotes/chuck_brown_556431"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Hi",
+                "url": "/topics/hi"
+            },
+            {
+                "name": "Whatnot",
+                "url": "/topics/whatnot"
+            }
+        ]
+    }
+]

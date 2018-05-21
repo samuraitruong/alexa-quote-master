@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/charles_de_saint%C3%A9vremond_100999",
+        "quote": "The greater the difficulty, the more the glory in surmounting it.",
+        "author": {
+            "name": "Charles de Saint-�vremond",
+            "url": "/quotes/charles_de_saint%C3%A9vremond_100999"
+        },
+        "topics": [
+            {
+                "name": "Great",
+                "url": "/topics/great"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Difficulty",
+                "url": "/topics/difficulty"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charles_de_saint%C3%A9vremond_148965",
+        "quote": "Skillful pilots gain their reputation from storms and tempest.",
+        "author": {
+            "name": "Charles de Saint-�vremond",
+            "url": "/quotes/charles_de_saint%C3%A9vremond_148965"
+        },
+        "topics": [
+            {
+                "name": "Reputation",
+                "url": "/topics/reputation"
+            },
+            {
+                "name": "Pilots",
+                "url": "/topics/pilots"
+            },
+            {
+                "name": "Tempest",
+                "url": "/topics/tempest"
+            }
+        ]
+    }
+]

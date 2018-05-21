@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/weegee_318351",
+        "quote": "People are so wonderful that a photographer has only to wait for that breathless moment to capture what he wants on film.",
+        "author": {
+            "name": "Weegee",
+            "url": "/quotes/weegee_318351"
+        },
+        "topics": [
+            {
+                "name": "Capture",
+                "url": "/topics/capture"
+            },
+            {
+                "name": "Wait",
+                "url": "/topics/wait"
+            },
+            {
+                "name": "Wonderful",
+                "url": "/topics/wonderful"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/weegee_318352",
+        "quote": "This is unexposed film of Greenwich Village because nothing ever happens there.",
+        "author": {
+            "name": "Weegee",
+            "url": "/quotes/weegee_318352"
+        },
+        "topics": [
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            },
+            {
+                "name": "Greenwich",
+                "url": "/topics/greenwich"
+            },
+            {
+                "name": "Ever",
+                "url": "/topics/ever"
+            }
+        ]
+    }
+]

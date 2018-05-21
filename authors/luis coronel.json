@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/luis_coronel_701060",
+        "quote": "The reason why Millennials are inspiring is what they give: the music they give.",
+        "author": {
+            "name": "Luis Coronel",
+            "url": "/quotes/luis_coronel_701060"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "Reason",
+                "url": "/topics/reason"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/luis_coronel_701062",
+        "quote": "I promised my dad before he passed away that I would take care of the family.",
+        "author": {
+            "name": "Luis Coronel",
+            "url": "/quotes/luis_coronel_701062"
+        },
+        "topics": [
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            },
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            },
+            {
+                "name": "Dad",
+                "url": "/topics/dad"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/luis_coronel_701061",
+        "quote": "I want to thank all of the L.A. fans. You've never failed me. I live through you.",
+        "author": {
+            "name": "Luis Coronel",
+            "url": "/quotes/luis_coronel_701061"
+        },
+        "topics": [
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            }
+        ]
+    }
+]

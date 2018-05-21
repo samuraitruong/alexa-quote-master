@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/jim_thorpe_187261",
+        "quote": "I give 'em the hip, then I take it away.",
+        "author": {
+            "name": "Jim Thorpe",
+            "url": "/quotes/jim_thorpe_187261"
+        },
+        "topics": [
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            },
+            {
+                "name": "Take",
+                "url": "/topics/take"
+            }
+        ]
+    }
+]

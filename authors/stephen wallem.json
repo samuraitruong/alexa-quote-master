@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/stephen_wallem_497683",
+        "quote": "I was never into sports, and my passion was the arts as long as I could remember.",
+        "author": {
+            "name": "Stephen Wallem",
+            "url": "/quotes/stephen_wallem_497683"
+        },
+        "topics": [
+            {
+                "name": "Sports",
+                "url": "/topics/sports"
+            },
+            {
+                "name": "Remember",
+                "url": "/topics/remember"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/stephen_wallem_650549",
+        "quote": "There are life-threatening issues related to diabetes.",
+        "author": {
+            "name": "Stephen Wallem",
+            "url": "/quotes/stephen_wallem_650549"
+        },
+        "topics": [
+            {
+                "name": "Life-Threatening",
+                "url": "/topics/life-threatening"
+            },
+            {
+                "name": "Related",
+                "url": "/topics/related"
+            }
+        ]
+    }
+]

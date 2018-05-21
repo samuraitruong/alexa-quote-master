@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/washington_allston_183241",
+        "quote": "The only competition worthy of a wise man is with himself.",
+        "author": {
+            "name": "Washington Allston",
+            "url": "/quotes/washington_allston_183241"
+        },
+        "topics": [
+            {
+                "name": "Wise",
+                "url": "/topics/wise"
+            },
+            {
+                "name": "Himself",
+                "url": "/topics/himself"
+            },
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/washington_allston_183239",
+        "quote": "Distinction is the consequence, never the object of a great mind.",
+        "author": {
+            "name": "Washington Allston",
+            "url": "/quotes/washington_allston_183239"
+        },
+        "topics": [
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Consequence",
+                "url": "/topics/consequence"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/washington_allston_183240",
+        "quote": "Never judge a work of art by its defects.",
+        "author": {
+            "name": "Washington Allston",
+            "url": "/quotes/washington_allston_183240"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            }
+        ]
+    }
+]

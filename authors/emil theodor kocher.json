@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/emil_theodor_kocher_683144",
+        "quote": "The thyroid cells take up iodine with particular avidity and are able to store it up in great quantities.",
+        "author": {
+            "name": "Emil Theodor Kocher",
+            "url": "/quotes/emil_theodor_kocher_683144"
+        },
+        "topics": [
+            {
+                "name": "Cells",
+                "url": "/topics/cells"
+            },
+            {
+                "name": "Take",
+                "url": "/topics/take"
+            },
+            {
+                "name": "Thyroid",
+                "url": "/topics/thyroid"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/emil_theodor_kocher_683143",
+        "quote": "Seldom in the history of medicine has the recognition of the most effective cure followed as swiftly on the heels of the discovery of a disease as the establishment of the complete effectiveness of iodothyrin and thyroidin followed the recognition of cachexia thyreopriva.",
+        "author": {
+            "name": "Emil Theodor Kocher",
+            "url": "/quotes/emil_theodor_kocher_683143"
+        },
+        "topics": [
+            {
+                "name": "Effectiveness",
+                "url": "/topics/effectiveness"
+            },
+            {
+                "name": "Disease",
+                "url": "/topics/disease"
+            }
+        ]
+    }
+]

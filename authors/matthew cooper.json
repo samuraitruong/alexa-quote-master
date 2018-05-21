@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/matthew_cooper_171217",
+        "quote": "We're living proof that nice guys always finish last.",
+        "author": {
+            "name": "Matthew Cooper",
+            "url": "/quotes/matthew_cooper_171217"
+        },
+        "topics": [
+            {
+                "name": "Living",
+                "url": "/topics/living"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Finish Last",
+                "url": "/topics/finish_last"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/matthew_cooper_380996",
+        "quote": "It is crazy to have Judith Miller in jail.",
+        "author": {
+            "name": "Matthew Cooper",
+            "url": "/quotes/matthew_cooper_380996"
+        },
+        "topics": [
+            {
+                "name": "Crazy",
+                "url": "/topics/crazy"
+            },
+            {
+                "name": "Jail",
+                "url": "/topics/jail"
+            },
+            {
+                "name": "Miller",
+                "url": "/topics/miller"
+            }
+        ]
+    }
+]

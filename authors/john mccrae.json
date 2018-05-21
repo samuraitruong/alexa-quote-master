@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/john_mccrae_205877",
+        "quote": "In Flanders fields the poppies blow Between the crosses, row on row, That mark our place, and in the sky, The larks, still bravely singing, fly Scarce heard among the guns below.",
+        "author": {
+            "name": "John McCrae",
+            "url": "/quotes/john_mccrae_205877"
+        },
+        "topics": [
+            {
+                "name": "Sky",
+                "url": "/topics/sky"
+            },
+            {
+                "name": "Guns",
+                "url": "/topics/guns"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_mccrae_205875",
+        "quote": "Take up our quarrel with the foe: To you from falling hands we throw.",
+        "author": {
+            "name": "John McCrae",
+            "url": "/quotes/john_mccrae_205875"
+        },
+        "topics": [
+            {
+                "name": "Hands",
+                "url": "/topics/hands"
+            },
+            {
+                "name": "Falling",
+                "url": "/topics/falling"
+            },
+            {
+                "name": "Take",
+                "url": "/topics/take"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_mccrae_205876",
+        "quote": "We shall not sleep, though poppies grow: In Flanders fields.",
+        "author": {
+            "name": "John McCrae",
+            "url": "/quotes/john_mccrae_205876"
+        },
+        "topics": [
+            {
+                "name": "Sleep",
+                "url": "/topics/sleep"
+            },
+            {
+                "name": "Grow",
+                "url": "/topics/grow"
+            },
+            {
+                "name": "Though",
+                "url": "/topics/though"
+            }
+        ]
+    }
+]

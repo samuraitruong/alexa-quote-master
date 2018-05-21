@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/cara_black_533593",
+        "quote": "I once rode a motorcycle across Tunisia, Algeria and Morocco!",
+        "author": {
+            "name": "Cara Black",
+            "url": "/quotes/cara_black_533593"
+        },
+        "topics": [
+            {
+                "name": "Motorcycle",
+                "url": "/topics/motorcycle"
+            },
+            {
+                "name": "Algeria",
+                "url": "/topics/algeria"
+            },
+            {
+                "name": "Across",
+                "url": "/topics/across"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/cara_black_533592",
+        "quote": "I read French much better than I speak.",
+        "author": {
+            "name": "Cara Black",
+            "url": "/quotes/cara_black_533592"
+        },
+        "topics": [
+            {
+                "name": "Better",
+                "url": "/topics/better"
+            },
+            {
+                "name": "Read",
+                "url": "/topics/read"
+            },
+            {
+                "name": "Than",
+                "url": "/topics/than"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/cara_black_666560",
+        "quote": "One of my assets is my fitness. My fitness around the net and my movement: that's my defense to the power.",
+        "author": {
+            "name": "Cara Black",
+            "url": "/quotes/cara_black_666560"
+        },
+        "topics": [
+            {
+                "name": "Fitness",
+                "url": "/topics/fitness"
+            },
+            {
+                "name": "Defense",
+                "url": "/topics/defense"
+            },
+            {
+                "name": "Assets",
+                "url": "/topics/assets"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/cara_black_666561",
+        "quote": "Sport's always a good thing - it's healthy, and it takes your mind off other things.",
+        "author": {
+            "name": "Cara Black",
+            "url": "/quotes/cara_black_666561"
+        },
+        "topics": [
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    }
+]

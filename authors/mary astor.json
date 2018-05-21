@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/mary_astor_170219",
+        "quote": "Once you start asking questions, innocence is gone.",
+        "author": {
+            "name": "Mary Astor",
+            "url": "/quotes/mary_astor_170219"
+        },
+        "topics": [
+            {
+                "name": "Asking Questions",
+                "url": "/topics/asking_questions"
+            },
+            {
+                "name": "Once",
+                "url": "/topics/once"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mary_astor_178075",
+        "quote": "It's not good to make sentimental journeys. You see the differences instead of the sameness.",
+        "author": {
+            "name": "Mary Astor",
+            "url": "/quotes/mary_astor_178075"
+        },
+        "topics": [
+            {
+                "name": "Differences",
+                "url": "/topics/differences"
+            },
+            {
+                "name": "See",
+                "url": "/topics/see"
+            },
+            {
+                "name": "Journeys",
+                "url": "/topics/journeys"
+            }
+        ]
+    }
+]

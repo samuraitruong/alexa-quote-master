@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/john_raitt_208668",
+        "quote": "I like the work. If I upped the price, I wouldn't get the work.",
+        "author": {
+            "name": "John Raitt",
+            "url": "/quotes/john_raitt_208668"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Price",
+                "url": "/topics/price"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_raitt_208669",
+        "quote": "I'll sing as long as people want to hear me, and I'll be able to sing as long as I'm alive.",
+        "author": {
+            "name": "John Raitt",
+            "url": "/quotes/john_raitt_208669"
+        },
+        "topics": [
+            {
+                "name": "Alive",
+                "url": "/topics/alive"
+            },
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Able",
+                "url": "/topics/able"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_raitt_208670",
+        "quote": "If I can talk, I can sing.",
+        "author": {
+            "name": "John Raitt",
+            "url": "/quotes/john_raitt_208670"
+        },
+        "topics": [
+            {
+                "name": "I Can",
+                "url": "/topics/i_can"
+            },
+            {
+                "name": "Sing",
+                "url": "/topics/sing"
+            },
+            {
+                "name": "Talk",
+                "url": "/topics/talk"
+            }
+        ]
+    }
+]

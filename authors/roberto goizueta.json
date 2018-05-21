@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/roberto_goizueta_323299",
+        "quote": "Once you lose everything, what's the worst that's going to happen to you? You develop a self-assurance.",
+        "author": {
+            "name": "Roberto Goizueta",
+            "url": "/quotes/roberto_goizueta_323299"
+        },
+        "topics": [
+            {
+                "name": "Happen",
+                "url": "/topics/happen"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Once",
+                "url": "/topics/once"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/roberto_goizueta_323300",
+        "quote": "We're going to take risks. What has always been will not necessarily always be forever.",
+        "author": {
+            "name": "Roberto Goizueta",
+            "url": "/quotes/roberto_goizueta_323300"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Take",
+                "url": "/topics/take"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    }
+]

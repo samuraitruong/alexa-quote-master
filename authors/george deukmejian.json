@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/george_deukmejian_105412",
+        "quote": "The difference in golf and government is that in golf you can't improve your lie.",
+        "author": {
+            "name": "George Deukmejian",
+            "url": "/quotes/george_deukmejian_105412"
+        },
+        "topics": [
+            {
+                "name": "Sports",
+                "url": "/topics/sports"
+            },
+            {
+                "name": "Golf",
+                "url": "/topics/golf"
+            },
+            {
+                "name": "Government",
+                "url": "/topics/government"
+            }
+        ]
+    }
+]

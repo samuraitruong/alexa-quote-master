@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/fiorello_laguardia_227727",
+        "quote": "There is no Democratic or Republican way of cleaning the streets.",
+        "author": {
+            "name": "Fiorello LaGuardia",
+            "url": "/quotes/fiorello_laguardia_227727"
+        },
+        "topics": [
+            {
+                "name": "Cleaning",
+                "url": "/topics/cleaning"
+            },
+            {
+                "name": "Streets",
+                "url": "/topics/streets"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/fiorello_laguardia_227728",
+        "quote": "It makes no difference if I burn my bridges behind me - I never retreat.",
+        "author": {
+            "name": "Fiorello LaGuardia",
+            "url": "/quotes/fiorello_laguardia_227728"
+        },
+        "topics": [
+            {
+                "name": "Behind",
+                "url": "/topics/behind"
+            },
+            {
+                "name": "Burn",
+                "url": "/topics/burn"
+            },
+            {
+                "name": "Retreat",
+                "url": "/topics/retreat"
+            }
+        ]
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/terry_fox_187565",
+        "quote": "Even if I don't finish, we need others to continue. It's got to keep going without me.",
+        "author": {
+            "name": "Terry Fox",
+            "url": "/quotes/terry_fox_187565"
+        },
+        "topics": [
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Got",
+                "url": "/topics/got"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/terry_fox_187614",
+        "quote": "Even though I'm not running anymore, we still have to try to find a cure for cancer. Other people should go ahead and try to do their own thing now.",
+        "author": {
+            "name": "Terry Fox",
+            "url": "/quotes/terry_fox_187614"
+        },
+        "topics": [
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Though",
+                "url": "/topics/though"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/terry_fox_187612",
+        "quote": "I bet some of you feel sorry for me. Well don't. Having an artificial leg has its advantages. I've broken my right knee many times and it doesn't hurt a bit.",
+        "author": {
+            "name": "Terry Fox",
+            "url": "/quotes/terry_fox_187612"
+        },
+        "topics": [
+            {
+                "name": "Broken",
+                "url": "/topics/broken"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Having",
+                "url": "/topics/having"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/terry_fox_187613",
+        "quote": "It almost hurts me to walk down a road and have people grab my hand and ask for my autograph and not sit and talk. When I'm finished I'm not going to be on the front page, but I'm going to be just as happy without the publicity.",
+        "author": {
+            "name": "Terry Fox",
+            "url": "/quotes/terry_fox_187613"
+        },
+        "topics": [
+            {
+                "name": "Happy",
+                "url": "/topics/happy"
+            },
+            {
+                "name": "Almost",
+                "url": "/topics/almost"
+            },
+            {
+                "name": "Front Page",
+                "url": "/topics/front_page"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/terry_fox_187615",
+        "quote": "Our privacy is starting to be invaded and we can't get anything done. I'm happy with the fundraising but upset we don't have time to talk and meet with people.",
+        "author": {
+            "name": "Terry Fox",
+            "url": "/quotes/terry_fox_187615"
+        },
+        "topics": [
+            {
+                "name": "Happy",
+                "url": "/topics/happy"
+            },
+            {
+                "name": "Privacy",
+                "url": "/topics/privacy"
+            },
+            {
+                "name": "Upset",
+                "url": "/topics/upset"
+            }
+        ]
+    }
+]

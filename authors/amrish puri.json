@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/amrish_puri_178166",
+        "quote": "I am happy to play the bad man.",
+        "author": {
+            "name": "Amrish Puri",
+            "url": "/quotes/amrish_puri_178166"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "I Am Happy",
+                "url": "/topics/i_am_happy"
+            },
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/amrish_puri_178167",
+        "quote": "I am like a brick.",
+        "author": {
+            "name": "Amrish Puri",
+            "url": "/quotes/amrish_puri_178167"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Brick",
+                "url": "/topics/brick"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    }
+]

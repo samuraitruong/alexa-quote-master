@@ -1,0 +1,170 @@
+[
+    {
+        "url": "/quotes/steve_irwin_283446?src=t_koala",
+        "quote": "I have no fear of losing my life - if I have to save a koala or a crocodile or a kangaroo or a snake, mate, I will save it.",
+        "author": {
+            "name": "Steve Irwin",
+            "url": "/authors/steve_irwin"
+        },
+        "topics": [
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Crocodile",
+                "url": "/topics/crocodile"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/milo_ventimiglia_410519?src=t_koala",
+        "quote": "I'd love to hold a koala. They sleep 22 hours a day, eat eucalyptus leaves and just hang out. I want to spend some time with that guy.",
+        "author": {
+            "name": "Milo Ventimiglia",
+            "url": "/authors/milo_ventimiglia"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Hours",
+                "url": "/topics/hours"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/caterina_murino_576639?src=t_koala",
+        "quote": "My favourite animal is the koala, but his life would be boring. I would rather be a giraffe so that I could contemplate the beauty of Africa.",
+        "author": {
+            "name": "Caterina Murino",
+            "url": "/authors/caterina_murino"
+        },
+        "topics": [
+            {
+                "name": "Beauty",
+                "url": "/topics/beauty"
+            },
+            {
+                "name": "Africa",
+                "url": "/topics/africa"
+            },
+            {
+                "name": "Rather",
+                "url": "/topics/rather"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jessi_klein_618409?src=t_koala",
+        "quote": "I want to go to Australia and take the same goofy picture of me holding a koala that everyone else takes.",
+        "author": {
+            "name": "Jessi Klein",
+            "url": "/authors/jessi_klein"
+        },
+        "topics": [
+            {
+                "name": "Goofy",
+                "url": "/topics/goofy"
+            },
+            {
+                "name": "Everyone Else",
+                "url": "/topics/everyone_else"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/todd_barry_356192?src=t_koala",
+        "quote": "I liked the koala, wallaby, and I chilled with a kangaroo a bit. There was a wombat that I quite enjoyed also.",
+        "author": {
+            "name": "Todd Barry",
+            "url": "/authors/todd_barry"
+        },
+        "topics": [
+            {
+                "name": "Kangaroo",
+                "url": "/topics/kangaroo"
+            },
+            {
+                "name": "Quite",
+                "url": "/topics/quite"
+            },
+            {
+                "name": "Chilled",
+                "url": "/topics/chilled"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/miranda_kerr_513235?src=t_koala",
+        "quote": "I got stuck up a tree when I was about seven, and my dad had to come and get the ladder to get me down. I loved to climb all the way up to the top. I must have been a koala in my past life.",
+        "author": {
+            "name": "Miranda Kerr",
+            "url": "/authors/miranda_kerr"
+        },
+        "topics": [
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Past Life",
+                "url": "/topics/past_life"
+            },
+            {
+                "name": "Dad",
+                "url": "/topics/dad"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eric_san_220878?src=t_koala",
+        "quote": "My scratching I don't really think communicates to intelligent life forms. Anyone with more than one brain cell would think Kid Koala music is completely retarded.",
+        "author": {
+            "name": "Eric San",
+            "url": "/authors/eric_san"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Intelligent Life",
+                "url": "/topics/intelligent_life"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/todd_barry_356198?src=t_koala",
+        "quote": "I got access to a private tour of the zoo. I got to go in a cage with a koala, which I highly recommend.",
+        "author": {
+            "name": "Todd Barry",
+            "url": "/authors/todd_barry"
+        },
+        "topics": [
+            {
+                "name": "Cage",
+                "url": "/topics/cage"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Private",
+                "url": "/topics/private"
+            }
+        ]
+    }
+]

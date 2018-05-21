@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/otto_hermann_kahn_228805",
+        "quote": "The deadliest foe of democracy is not autocracy but liberty frenzied.",
+        "author": {
+            "name": "Otto Hermann Kahn",
+            "url": "/quotes/otto_hermann_kahn_228805"
+        },
+        "topics": [
+            {
+                "name": "Deadliest",
+                "url": "/topics/deadliest"
+            },
+            {
+                "name": "Foe",
+                "url": "/topics/foe"
+            },
+            {
+                "name": "Autocracy",
+                "url": "/topics/autocracy"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/otto_hermann_kahn_228807",
+        "quote": "As so often before, liberty has been wounded in the house of its friends.",
+        "author": {
+            "name": "Otto Hermann Kahn",
+            "url": "/quotes/otto_hermann_kahn_228807"
+        },
+        "topics": [
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            },
+            {
+                "name": "Wounded",
+                "url": "/topics/wounded"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/otto_hermann_kahn_228810",
+        "quote": "The appeal all too often is to the gallery, hungry for sensation.",
+        "author": {
+            "name": "Otto Hermann Kahn",
+            "url": "/quotes/otto_hermann_kahn_228810"
+        },
+        "topics": [
+            {
+                "name": "Hungry",
+                "url": "/topics/hungry"
+            },
+            {
+                "name": "Too",
+                "url": "/topics/too"
+            },
+            {
+                "name": "Sensation",
+                "url": "/topics/sensation"
+            }
+        ]
+    }
+]

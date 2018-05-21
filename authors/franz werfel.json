@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/franz_werfel_101239",
+        "quote": "Religion is the everlasting dialogue between humanity and God. Art is its soliloquy.",
+        "author": {
+            "name": "Franz Werfel",
+            "url": "/quotes/franz_werfel_101239"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Religion",
+                "url": "/topics/religion"
+            },
+            {
+                "name": "Everlasting",
+                "url": "/topics/everlasting"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/franz_werfel_175040",
+        "quote": "Yes, death is strong, but look you, the strongest, Stronger is music than death.",
+        "author": {
+            "name": "Franz Werfel",
+            "url": "/quotes/franz_werfel_175040"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "Death",
+                "url": "/topics/death"
+            },
+            {
+                "name": "Strong",
+                "url": "/topics/strong"
+            }
+        ]
+    }
+]

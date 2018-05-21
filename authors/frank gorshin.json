@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/frank_gorshin_215692",
+        "quote": "I am a man of few words, but many riddles.",
+        "author": {
+            "name": "Frank Gorshin",
+            "url": "/quotes/frank_gorshin_215692"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Words",
+                "url": "/topics/words"
+            },
+            {
+                "name": "Riddles",
+                "url": "/topics/riddles"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/frank_gorshin_215693",
+        "quote": "The finer the bait, the shorter the wait!",
+        "author": {
+            "name": "Frank Gorshin",
+            "url": "/quotes/frank_gorshin_215693"
+        },
+        "topics": [
+            {
+                "name": "Wait",
+                "url": "/topics/wait"
+            },
+            {
+                "name": "Finer",
+                "url": "/topics/finer"
+            },
+            {
+                "name": "Bait",
+                "url": "/topics/bait"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/frank_gorshin_215694",
+        "quote": "With money, who needs friends?",
+        "author": {
+            "name": "Frank Gorshin",
+            "url": "/quotes/frank_gorshin_215694"
+        },
+        "topics": [
+            {
+                "name": "Money",
+                "url": "/topics/money"
+            },
+            {
+                "name": "Friends",
+                "url": "/topics/friends"
+            },
+            {
+                "name": "Needs",
+                "url": "/topics/needs"
+            }
+        ]
+    }
+]

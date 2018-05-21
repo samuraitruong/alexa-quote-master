@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/sophie_tucker_164911",
+        "quote": "From birth to age 18 a girl needs good parents. From 18 to 35 she needs good looks. From 35 to 55 she needs a good personality. From 55 on, she needs good cash.",
+        "author": {
+            "name": "Sophie Tucker",
+            "url": "/quotes/sophie_tucker_164911"
+        },
+        "topics": [
+            {
+                "name": "Women",
+                "url": "/topics/women"
+            },
+            {
+                "name": "Birth",
+                "url": "/topics/birth"
+            },
+            {
+                "name": "Needs",
+                "url": "/topics/needs"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sophie_tucker_145824",
+        "quote": "I've been rich and I've been poor. Rich is better.",
+        "author": {
+            "name": "Sophie Tucker",
+            "url": "/quotes/sophie_tucker_145824"
+        },
+        "topics": [
+            {
+                "name": "Better",
+                "url": "/topics/better"
+            },
+            {
+                "name": "Poor",
+                "url": "/topics/poor"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sophie_tucker_391636",
+        "quote": "Success in show business depends on your ability to make and keep friends.",
+        "author": {
+            "name": "Sophie Tucker",
+            "url": "/quotes/sophie_tucker_391636"
+        },
+        "topics": [
+            {
+                "name": "Success",
+                "url": "/topics/success"
+            },
+            {
+                "name": "Business",
+                "url": "/topics/business"
+            },
+            {
+                "name": "Depends",
+                "url": "/topics/depends"
+            }
+        ]
+    }
+]

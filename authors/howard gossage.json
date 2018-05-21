@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/howard_gossage_101497",
+        "quote": "If you have a lemon, make lemonade.",
+        "author": {
+            "name": "Howard Gossage",
+            "url": "/quotes/howard_gossage_101497"
+        },
+        "topics": [
+            {
+                "name": "Lemonade",
+                "url": "/topics/lemonade"
+            },
+            {
+                "name": "Lemon",
+                "url": "/topics/lemon"
+            },
+            {
+                "name": "Make",
+                "url": "/topics/make"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/howard_gossage_103036",
+        "quote": "I long for the day when advertising will become a business for a grown man.",
+        "author": {
+            "name": "Howard Gossage",
+            "url": "/quotes/howard_gossage_103036"
+        },
+        "topics": [
+            {
+                "name": "Business",
+                "url": "/topics/business"
+            },
+            {
+                "name": "Advertising",
+                "url": "/topics/advertising"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/howard_gossage_103215",
+        "quote": "The buying of time or space is not the taking out of a hunting license on someone else's private preserve but is the renting of a stage on which we may perform.",
+        "author": {
+            "name": "Howard Gossage",
+            "url": "/quotes/howard_gossage_103215"
+        },
+        "topics": [
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Private",
+                "url": "/topics/private"
+            }
+        ]
+    }
+]

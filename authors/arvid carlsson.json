@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/arvid_carlsson_393954",
+        "quote": "In modern pharmacology it's so clear that even if you have a fixed dose of a drug, the individuals respond very differently to one and the same dose.",
+        "author": {
+            "name": "Arvid Carlsson",
+            "url": "/quotes/arvid_carlsson_393954"
+        },
+        "topics": [
+            {
+                "name": "Clear",
+                "url": "/topics/clear"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Individuals",
+                "url": "/topics/individuals"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/arvid_carlsson_393937",
+        "quote": "Well, in pharmacology, if the effect is local, it's of course absolutely awkward to use it in any other way than as a local treatment.",
+        "author": {
+            "name": "Arvid Carlsson",
+            "url": "/quotes/arvid_carlsson_393937"
+        },
+        "topics": [
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            },
+            {
+                "name": "Treatment",
+                "url": "/topics/treatment"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/arvid_carlsson_394238",
+        "quote": "Fluorine has a protecting action against caries, but this is a local effect. If you drink it, you are running the risk of all kinds of toxic actions.",
+        "author": {
+            "name": "Arvid Carlsson",
+            "url": "/quotes/arvid_carlsson_394238"
+        },
+        "topics": [
+            {
+                "name": "Against",
+                "url": "/topics/against"
+            },
+            {
+                "name": "Toxic",
+                "url": "/topics/toxic"
+            },
+            {
+                "name": "Protecting",
+                "url": "/topics/protecting"
+            }
+        ]
+    }
+]

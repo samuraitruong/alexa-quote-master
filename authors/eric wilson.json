@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/eric_wilson_182447",
+        "quote": "Even a lot of kids who are gifted can be kids who feel like wimps or nerds.",
+        "author": {
+            "name": "Eric Wilson",
+            "url": "/quotes/eric_wilson_182447"
+        },
+        "topics": [
+            {
+                "name": "Lot",
+                "url": "/topics/lot"
+            },
+            {
+                "name": "Even",
+                "url": "/topics/even"
+            },
+            {
+                "name": "Wimps",
+                "url": "/topics/wimps"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eric_wilson_182449",
+        "quote": "I'm aware of what kids like because I'm constantly in touch with them. Also, they say that a lot of people who write for children can remember their own childhoods vividly and I can remember my childhood very vividly.",
+        "author": {
+            "name": "Eric Wilson",
+            "url": "/quotes/eric_wilson_182449"
+        },
+        "topics": [
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Constantly",
+                "url": "/topics/constantly"
+            }
+        ]
+    }
+]

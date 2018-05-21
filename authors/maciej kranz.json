@@ -1,0 +1,200 @@
+[
+    {
+        "url": "/quotes/maciej_kranz_898964",
+        "quote": "Like two sides of the same coin, you can't separate IoT from underlying business processes.",
+        "author": {
+            "name": "Maciej Kranz",
+            "url": "/quotes/maciej_kranz_898964"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Separate",
+                "url": "/topics/separate"
+            },
+            {
+                "name": "Processes",
+                "url": "/topics/processes"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/maciej_kranz_898970",
+        "quote": "Lone wolves won't succeed with IoT. This is a team sport.",
+        "author": {
+            "name": "Maciej Kranz",
+            "url": "/quotes/maciej_kranz_898970"
+        },
+        "topics": [
+            {
+                "name": "Succeed",
+                "url": "/topics/succeed"
+            },
+            {
+                "name": "Team Sport",
+                "url": "/topics/team_sport"
+            },
+            {
+                "name": "Lone",
+                "url": "/topics/lone"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/maciej_kranz_898962",
+        "quote": "I have long been an advocate of starting an IoT journey with a small, low-risk project that can produce immediate benefits. But don't confuse small with non-strategic. Align each project, no matter how small, into your larger strategic vision.",
+        "author": {
+            "name": "Maciej Kranz",
+            "url": "/quotes/maciej_kranz_898962"
+        },
+        "topics": [
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Benefits",
+                "url": "/topics/benefits"
+            },
+            {
+                "name": "Larger",
+                "url": "/topics/larger"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/maciej_kranz_898963",
+        "quote": "Share your IoT experiences. Share your successes, best practices, and failures. We know that IoT doesn't work perfectly every time, but we can learn from each other's mistakes and vow not to repeat them.",
+        "author": {
+            "name": "Maciej Kranz",
+            "url": "/quotes/maciej_kranz_898963"
+        },
+        "topics": [
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Failures",
+                "url": "/topics/failures"
+            },
+            {
+                "name": "Perfectly",
+                "url": "/topics/perfectly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/maciej_kranz_898965",
+        "quote": "The primary goal of IoT is to solve business problems, not to deliver a cool project or new technology. Focus on a business-relevant problem, and work with your customer to solve it.",
+        "author": {
+            "name": "Maciej Kranz",
+            "url": "/quotes/maciej_kranz_898965"
+        },
+        "topics": [
+            {
+                "name": "Goal",
+                "url": "/topics/goal"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Primary Goal",
+                "url": "/topics/primary_goal"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/maciej_kranz_898966",
+        "quote": "Device makers, especially consumer-focused ones, have been the Achilles' heel of IoT security. These vendors have often viewed proper security implementations as extra cost, complexity, and time-to-market burdens with an unclear payoff.",
+        "author": {
+            "name": "Maciej Kranz",
+            "url": "/quotes/maciej_kranz_898966"
+        },
+        "topics": [
+            {
+                "name": "Cost",
+                "url": "/topics/cost"
+            },
+            {
+                "name": "Complexity",
+                "url": "/topics/complexity"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/maciej_kranz_898967",
+        "quote": "Traditionally, in the technology industry, companies need to re-invent themselves every 3-7 years to survive. If the company misses one transition, it can still recover, but if it misses two, it is usually fatal.",
+        "author": {
+            "name": "Maciej Kranz",
+            "url": "/quotes/maciej_kranz_898967"
+        },
+        "topics": [
+            {
+                "name": "Survive",
+                "url": "/topics/survive"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            },
+            {
+                "name": "Recover",
+                "url": "/topics/recover"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/maciej_kranz_898968",
+        "quote": "Co-innovation between a startup and an enterprise works best when each party fills a gap in the other's capabilities and when they share equitably in both the work and the rewards.",
+        "author": {
+            "name": "Maciej Kranz",
+            "url": "/quotes/maciej_kranz_898968"
+        },
+        "topics": [
+            {
+                "name": "Capabilities",
+                "url": "/topics/capabilities"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Works",
+                "url": "/topics/works"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/maciej_kranz_898969",
+        "quote": "Attracting the next generation of IoT talent will take more than money - it's just as important to nurture a team-based culture of diversity and openness in which every voice is valued. This not only appeals to younger workers but also aligns with IoT's network character.",
+        "author": {
+            "name": "Maciej Kranz",
+            "url": "/quotes/maciej_kranz_898969"
+        },
+        "topics": [
+            {
+                "name": "Voice",
+                "url": "/topics/voice"
+            },
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            },
+            {
+                "name": "Network",
+                "url": "/topics/network"
+            }
+        ]
+    }
+]

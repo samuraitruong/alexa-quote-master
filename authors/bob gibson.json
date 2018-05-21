@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/bob_gibson_131721",
+        "quote": "When I was playing I never wished I was doing anything else. I think being a professional athlete is the finest thing a man can do.",
+        "author": {
+            "name": "Bob Gibson",
+            "url": "/quotes/bob_gibson_131721"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bob_gibson_388609",
+        "quote": "A great catch is like watching girls go by the last one you see is always the prettiest.",
+        "author": {
+            "name": "Bob Gibson",
+            "url": "/quotes/bob_gibson_388609"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "See",
+                "url": "/topics/see"
+            },
+            {
+                "name": "Prettiest",
+                "url": "/topics/prettiest"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bob_gibson_131722",
+        "quote": "Why do I have to be an example for your kid? You be an example for your own kid.",
+        "author": {
+            "name": "Bob Gibson",
+            "url": "/quotes/bob_gibson_131722"
+        },
+        "topics": [
+            {
+                "name": "Kid",
+                "url": "/topics/kid"
+            },
+            {
+                "name": "Why",
+                "url": "/topics/why"
+            },
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bob_gibson_131723",
+        "quote": "In a world filled with hate, prejudice, and protest, I find that I too am filled with hate, prejudice, and protest.",
+        "author": {
+            "name": "Bob Gibson",
+            "url": "/quotes/bob_gibson_131723"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Find",
+                "url": "/topics/find"
+            },
+            {
+                "name": "Too",
+                "url": "/topics/too"
+            }
+        ]
+    }
+]

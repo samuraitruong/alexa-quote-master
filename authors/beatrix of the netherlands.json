@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/beatrix_of_the_netherland_146315",
+        "quote": "Nature is under control but not disturbed.",
+        "author": {
+            "name": "Beatrix of the Netherlands",
+            "url": "/quotes/beatrix_of_the_netherland_146315"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "Control",
+                "url": "/topics/control"
+            },
+            {
+                "name": "Disturbed",
+                "url": "/topics/disturbed"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/beatrix_of_the_netherland_146316",
+        "quote": "I realize that much will be asked of me, yet I am resolved to accept it as a great and splendid task.",
+        "author": {
+            "name": "Beatrix of the Netherlands",
+            "url": "/quotes/beatrix_of_the_netherland_146316"
+        },
+        "topics": [
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Splendid",
+                "url": "/topics/splendid"
+            },
+            {
+                "name": "Am",
+                "url": "/topics/am"
+            }
+        ]
+    }
+]

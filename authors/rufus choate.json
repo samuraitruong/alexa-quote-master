@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/rufus_choate_133567",
+        "quote": "Happy is he who has laid up in his youth, and held fast in all fortune, a genuine and passionate love of reading.",
+        "author": {
+            "name": "Rufus Choate",
+            "url": "/quotes/rufus_choate_133567"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Fortune",
+                "url": "/topics/fortune"
+            },
+            {
+                "name": "Laid",
+                "url": "/topics/laid"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rufus_choate_127451",
+        "quote": "A book is the only immortality.",
+        "author": {
+            "name": "Rufus Choate",
+            "url": "/quotes/rufus_choate_127451"
+        },
+        "topics": [
+            {
+                "name": "Book",
+                "url": "/topics/book"
+            },
+            {
+                "name": "Immortality",
+                "url": "/topics/immortality"
+            },
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            }
+        ]
+    }
+]

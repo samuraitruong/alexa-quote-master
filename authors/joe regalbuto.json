@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/joe_regalbuto_496171",
+        "quote": "I worry too much.",
+        "author": {
+            "name": "Joe Regalbuto",
+            "url": "/quotes/joe_regalbuto_496171"
+        },
+        "topics": [
+            {
+                "name": "Worry",
+                "url": "/topics/worry"
+            },
+            {
+                "name": "Too Much",
+                "url": "/topics/too_much"
+            },
+            {
+                "name": "Too",
+                "url": "/topics/too"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joe_regalbuto_496172",
+        "quote": "As an actor, you get humbled all the time. Everyone is a critic.",
+        "author": {
+            "name": "Joe Regalbuto",
+            "url": "/quotes/joe_regalbuto_496172"
+        },
+        "topics": [
+            {
+                "name": "Actor",
+                "url": "/topics/actor"
+            },
+            {
+                "name": "Humbled",
+                "url": "/topics/humbled"
+            },
+            {
+                "name": "Critic",
+                "url": "/topics/critic"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/delia_ephron_102489",
+        "quote": "In Los Angeles, by the time you're 35, you're older than most of the buildings.",
+        "author": {
+            "name": "Delia Ephron",
+            "url": "/quotes/delia_ephron_102489"
+        },
+        "topics": [
+            {
+                "name": "Architecture",
+                "url": "/topics/architecture"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "Los",
+                "url": "/topics/los"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/delia_ephron_112127",
+        "quote": "It consists entirely of people who are not related by blood, many of whom can't stand each other.",
+        "author": {
+            "name": "Delia Ephron",
+            "url": "/quotes/delia_ephron_112127"
+        },
+        "topics": [
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Many",
+                "url": "/topics/many"
+            },
+            {
+                "name": "Entirely",
+                "url": "/topics/entirely"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/delia_ephron_145699",
+        "quote": "Children are a house's enemy. They don't mean to be - they just can't help it. It's their enthusiasm, their energy, their naturally destructive tendencies.",
+        "author": {
+            "name": "Delia Ephron",
+            "url": "/quotes/delia_ephron_145699"
+        },
+        "topics": [
+            {
+                "name": "Enemy",
+                "url": "/topics/enemy"
+            },
+            {
+                "name": "House",
+                "url": "/topics/house"
+            },
+            {
+                "name": "Tendencies",
+                "url": "/topics/tendencies"
+            }
+        ]
+    }
+]

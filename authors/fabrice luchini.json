@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/fabrice_luchini_496848",
+        "quote": "For me, French is so rich and so sacred that learning it is like learning a foreign language.",
+        "author": {
+            "name": "Fabrice Luchini",
+            "url": "/quotes/fabrice_luchini_496848"
+        },
+        "topics": [
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Rich",
+                "url": "/topics/rich"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/fabrice_luchini_496849",
+        "quote": "I am a free man. I don't need to earn money. But I need to love what I do.",
+        "author": {
+            "name": "Fabrice Luchini",
+            "url": "/quotes/fabrice_luchini_496849"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Money",
+                "url": "/topics/money"
+            },
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            }
+        ]
+    }
+]

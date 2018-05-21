@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/peter_shumlin_450706",
+        "quote": "You've got to remember, Vermont is a lot of beautiful mountains with valleys and small brooks that run into bigger rivers.",
+        "author": {
+            "name": "Peter Shumlin",
+            "url": "/quotes/peter_shumlin_450706"
+        },
+        "topics": [
+            {
+                "name": "Mountains",
+                "url": "/topics/mountains"
+            },
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Rivers",
+                "url": "/topics/rivers"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/peter_shumlin_450707",
+        "quote": "Single payer means something different to everyone. The way I define it is that health care is a right and not a privilege.",
+        "author": {
+            "name": "Peter Shumlin",
+            "url": "/quotes/peter_shumlin_450707"
+        },
+        "topics": [
+            {
+                "name": "Health",
+                "url": "/topics/health"
+            },
+            {
+                "name": "Everyone",
+                "url": "/topics/everyone"
+            },
+            {
+                "name": "Means",
+                "url": "/topics/means"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/peter_shumlin_450708",
+        "quote": "I suspect I'm the only politician in America who won an election in this last cycle with TV ads saying I was going to try to pass the first single-payer system in America.",
+        "author": {
+            "name": "Peter Shumlin",
+            "url": "/quotes/peter_shumlin_450708"
+        },
+        "topics": [
+            {
+                "name": "Election",
+                "url": "/topics/election"
+            },
+            {
+                "name": "Last",
+                "url": "/topics/last"
+            },
+            {
+                "name": "TV",
+                "url": "/topics/tv"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/peter_shumlin_450709",
+        "quote": "Where health care has failed is in designing a cost containment mechanism that works.",
+        "author": {
+            "name": "Peter Shumlin",
+            "url": "/quotes/peter_shumlin_450709"
+        },
+        "topics": [
+            {
+                "name": "Cost",
+                "url": "/topics/cost"
+            },
+            {
+                "name": "Health Care",
+                "url": "/topics/health_care"
+            },
+            {
+                "name": "Works",
+                "url": "/topics/works"
+            }
+        ]
+    }
+]

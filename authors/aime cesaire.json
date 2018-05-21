@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/aime_cesaire_180629",
+        "quote": "Reason, I sacrifice you to the evening breeze.",
+        "author": {
+            "name": "Aime Cesaire",
+            "url": "/quotes/aime_cesaire_180629"
+        },
+        "topics": [
+            {
+                "name": "Sacrifice",
+                "url": "/topics/sacrifice"
+            },
+            {
+                "name": "Reason",
+                "url": "/topics/reason"
+            },
+            {
+                "name": "Breeze",
+                "url": "/topics/breeze"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/aime_cesaire_180626",
+        "quote": "It is no use painting the foot of the tree white, the strength of the bark cries out from beneath the paint.",
+        "author": {
+            "name": "Aime Cesaire",
+            "url": "/quotes/aime_cesaire_180626"
+        },
+        "topics": [
+            {
+                "name": "White",
+                "url": "/topics/white"
+            },
+            {
+                "name": "Beneath",
+                "url": "/topics/beneath"
+            },
+            {
+                "name": "Cries",
+                "url": "/topics/cries"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/aime_cesaire_180625",
+        "quote": "I have a different idea of a universal. It is of a universal rich with all that is particular, rich with all the particulars there are, the deepening of each particular, the coexistence of them all.",
+        "author": {
+            "name": "Aime Cesaire",
+            "url": "/quotes/aime_cesaire_180625"
+        },
+        "topics": [
+            {
+                "name": "Idea",
+                "url": "/topics/idea"
+            },
+            {
+                "name": "Deepening",
+                "url": "/topics/deepening"
+            },
+            {
+                "name": "Coexistence",
+                "url": "/topics/coexistence"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/aime_cesaire_180628",
+        "quote": "Poetic knowledge is born in the great silence of scientific knowledge.",
+        "author": {
+            "name": "Aime Cesaire",
+            "url": "/quotes/aime_cesaire_180628"
+        },
+        "topics": [
+            {
+                "name": "Born",
+                "url": "/topics/born"
+            },
+            {
+                "name": "Poetic",
+                "url": "/topics/poetic"
+            },
+            {
+                "name": "Scientific",
+                "url": "/topics/scientific"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/thomas_erskine_184402",
+        "quote": "In the New Testament, religion is grace and ethics is gratitude.",
+        "author": {
+            "name": "Thomas Erskine",
+            "url": "/quotes/thomas_erskine_184402"
+        },
+        "topics": [
+            {
+                "name": "Gratitude",
+                "url": "/topics/gratitude"
+            },
+            {
+                "name": "Grace",
+                "url": "/topics/grace"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_erskine_184406",
+        "quote": "I will for ever, at all hazards, assert the dignity, independence, and integrity of the English bar; without which, impartial justice, the most valuable part of the English constitution, can have no existence.",
+        "author": {
+            "name": "Thomas Erskine",
+            "url": "/quotes/thomas_erskine_184406"
+        },
+        "topics": [
+            {
+                "name": "Constitution",
+                "url": "/topics/constitution"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    }
+]

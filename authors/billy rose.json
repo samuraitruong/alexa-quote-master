@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/billy_rose_186016",
+        "quote": "Never invest in anything that eats or needs painting.",
+        "author": {
+            "name": "Billy Rose",
+            "url": "/quotes/billy_rose_186016"
+        },
+        "topics": [
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Needs",
+                "url": "/topics/needs"
+            },
+            {
+                "name": "Eats",
+                "url": "/topics/eats"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/billy_rose_186017",
+        "quote": "It's hard for a fellow to keep a chip on his shoulder if you allow him to take a bow.",
+        "author": {
+            "name": "Billy Rose",
+            "url": "/quotes/billy_rose_186017"
+        },
+        "topics": [
+            {
+                "name": "Bow",
+                "url": "/topics/bow"
+            },
+            {
+                "name": "Allow",
+                "url": "/topics/allow"
+            },
+            {
+                "name": "Chip",
+                "url": "/topics/chip"
+            }
+        ]
+    }
+]

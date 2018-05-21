@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/alice_krige_556659",
+        "quote": "I grew up in South Africa without a television; there was no television, and the year after I left, television arrived in South Africa, so I have never really acquired a taste for watching television.",
+        "author": {
+            "name": "Alice Krige",
+            "url": "/quotes/alice_krige_556659"
+        },
+        "topics": [
+            {
+                "name": "Africa",
+                "url": "/topics/africa"
+            },
+            {
+                "name": "South Africa",
+                "url": "/topics/south_africa"
+            },
+            {
+                "name": "South",
+                "url": "/topics/south"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alice_krige_556660",
+        "quote": "I'm immensely fortunate to have been involved in the 'Star Trek' universe. It has been a lot of fun, and I'm extremely grateful for the opportunity to have been part of something so important to so many people.",
+        "author": {
+            "name": "Alice Krige",
+            "url": "/quotes/alice_krige_556660"
+        },
+        "topics": [
+            {
+                "name": "Grateful",
+                "url": "/topics/grateful"
+            },
+            {
+                "name": "Star",
+                "url": "/topics/star"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    }
+]

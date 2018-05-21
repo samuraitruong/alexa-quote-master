@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/hank_ballard_338921",
+        "quote": "Rock 'n' roll is good for the soul, for the well being, for the psyche, for your everything. I love it.",
+        "author": {
+            "name": "Hank Ballard",
+            "url": "/quotes/hank_ballard_338921"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Soul",
+                "url": "/topics/soul"
+            },
+            {
+                "name": "Psyche",
+                "url": "/topics/psyche"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/hank_ballard_338922",
+        "quote": "I can't even picture being without rock 'n'roll.",
+        "author": {
+            "name": "Hank Ballard",
+            "url": "/quotes/hank_ballard_338922"
+        },
+        "topics": [
+            {
+                "name": "Rock",
+                "url": "/topics/rock"
+            },
+            {
+                "name": "Being",
+                "url": "/topics/being"
+            },
+            {
+                "name": "Even",
+                "url": "/topics/even"
+            }
+        ]
+    }
+]

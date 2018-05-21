@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/chester_gould_113610",
+        "quote": "I usually start with a repulsive character and go on from there.",
+        "author": {
+            "name": "Chester Gould",
+            "url": "/quotes/chester_gould_113610"
+        },
+        "topics": [
+            {
+                "name": "Character",
+                "url": "/topics/character"
+            },
+            {
+                "name": "Start",
+                "url": "/topics/start"
+            },
+            {
+                "name": "Repulsive",
+                "url": "/topics/repulsive"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/chester_gould_162367",
+        "quote": "I decided that if the police couldn't catch the gangsters, I'd create a fellow who could.",
+        "author": {
+            "name": "Chester Gould",
+            "url": "/quotes/chester_gould_162367"
+        },
+        "topics": [
+            {
+                "name": "Police",
+                "url": "/topics/police"
+            },
+            {
+                "name": "Gangsters",
+                "url": "/topics/gangsters"
+            },
+            {
+                "name": "Decided",
+                "url": "/topics/decided"
+            }
+        ]
+    }
+]

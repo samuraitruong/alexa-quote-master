@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/john_d_long_239751",
+        "quote": "I am now reading Cooper's Naval History which I find very interesting.",
+        "author": {
+            "name": "John D. Long",
+            "url": "/quotes/john_d_long_239751"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_d_long_239752",
+        "quote": "I went over to the Charlestown Navy Yard yesterday and saw some big men of war, one over 100 guns.",
+        "author": {
+            "name": "John D. Long",
+            "url": "/quotes/john_d_long_239752"
+        },
+        "topics": [
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    }
+]

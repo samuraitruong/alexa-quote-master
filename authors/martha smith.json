@@ -1,0 +1,108 @@
+[
+    {
+        "url": "/quotes/martha_smith_185508",
+        "quote": "I do some of my best thinking while pulling weeds.",
+        "author": {
+            "name": "Martha Smith",
+            "url": "/quotes/martha_smith_185508"
+        },
+        "topics": [
+            {
+                "name": "Gardening",
+                "url": "/topics/gardening"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Pulling",
+                "url": "/topics/pulling"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/martha_smith_300202",
+        "quote": "I think the Bravo test is really important for a number of reasons. It's kind of symbolic. It raises a lot of the issues that are related to the whole controversy over nuclear testing.",
+        "author": {
+            "name": "Martha Smith",
+            "url": "/quotes/martha_smith_300202"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Symbolic",
+                "url": "/topics/symbolic"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/martha_smith_300203",
+        "quote": "In Japan, it becomes a huge issue in terms of not just the government and its protest against the United States, but all different groups and all different peoples in Japan start to protest.",
+        "author": {
+            "name": "Martha Smith",
+            "url": "/quotes/martha_smith_300203"
+        },
+        "topics": [
+            {
+                "name": "United States",
+                "url": "/topics/united_states"
+            },
+            {
+                "name": "Japan",
+                "url": "/topics/japan"
+            },
+            {
+                "name": "Issue",
+                "url": "/topics/issue"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/martha_smith_300207",
+        "quote": "There are all kinds of letters and protests that come from, not surprisingly, Japanese fishermen, the fishermen's wives; there are student groups, all different types of people; the protest against the Americans' use of the Pacific for nuclear testing.",
+        "author": {
+            "name": "Martha Smith",
+            "url": "/quotes/martha_smith_300207"
+        },
+        "topics": [
+            {
+                "name": "Student",
+                "url": "/topics/student"
+            },
+            {
+                "name": "Against",
+                "url": "/topics/against"
+            },
+            {
+                "name": "Types",
+                "url": "/topics/types"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/martha_smith_300208",
+        "quote": "There was a lot of protest after Bravo, from countries like India, for example. India was the first country which came forward and proposed at the United Nations that all of these nuclear tests should be stopped, that there should be a complete ban on nuclear testing.",
+        "author": {
+            "name": "Martha Smith",
+            "url": "/quotes/martha_smith_300208"
+        },
+        "topics": [
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "United Nations",
+                "url": "/topics/united_nations"
+            }
+        ]
+    }
+]

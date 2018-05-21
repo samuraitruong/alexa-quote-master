@@ -1,0 +1,156 @@
+[
+    {
+        "url": "/quotes/bob_marley_377818?src=t_talk_is_cheap",
+        "quote": "As a man sow, shall he reap. and I know that talk is cheap. But the heat of the battle is as sweet as the victory.",
+        "author": {
+            "name": "Bob Marley",
+            "url": "/authors/bob_marley"
+        },
+        "topics": [
+            {
+                "name": "Victory",
+                "url": "/topics/victory"
+            },
+            {
+                "name": "Heat",
+                "url": "/topics/heat"
+            },
+            {
+                "name": "Shall",
+                "url": "/topics/shall"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robin_s_sharma_857672?src=t_talk_is_cheap",
+        "quote": "Talk is cheap. Actions speak.",
+        "author": {
+            "name": "Robin S. Sharma",
+            "url": "/authors/robin_s_sharma"
+        },
+        "topics": [
+            {
+                "name": "Speak",
+                "url": "/topics/speak"
+            },
+            {
+                "name": "Talk",
+                "url": "/topics/talk"
+            },
+            {
+                "name": "Actions Speak",
+                "url": "/topics/actions_speak"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/franklin_p_jones_157126?src=t_talk_is_cheap",
+        "quote": "Anybody who thinks talk is cheap should get some legal advice.",
+        "author": {
+            "name": "Franklin P. Jones",
+            "url": "/authors/franklin_p_jones"
+        },
+        "topics": [
+            {
+                "name": "Advice",
+                "url": "/topics/advice"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Anybody",
+                "url": "/topics/anybody"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/howard_berman_244345?src=t_talk_is_cheap",
+        "quote": "The focus should not be on talking. Talk is cheap. It must be on action.",
+        "author": {
+            "name": "Howard Berman",
+            "url": "/authors/howard_berman"
+        },
+        "topics": [
+            {
+                "name": "Focus",
+                "url": "/topics/focus"
+            },
+            {
+                "name": "Action",
+                "url": "/topics/action"
+            },
+            {
+                "name": "Should",
+                "url": "/topics/should"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jason_pierrepaul_844239?src=t_talk_is_cheap",
+        "quote": "Talk is cheap; play the game.",
+        "author": {
+            "name": "Jason Pierre-Paul",
+            "url": "/authors/jason_pierrepaul"
+        },
+        "topics": [
+            {
+                "name": "Game",
+                "url": "/topics/game"
+            },
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Talk",
+                "url": "/topics/talk"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/chen_guangbiao_699316?src=t_talk_is_cheap",
+        "quote": "I like to get my hands dirty. Talk is cheap.",
+        "author": {
+            "name": "Chen Guangbiao",
+            "url": "/authors/chen_guangbiao"
+        },
+        "topics": [
+            {
+                "name": "Hands",
+                "url": "/topics/hands"
+            },
+            {
+                "name": "Dirty",
+                "url": "/topics/dirty"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/cullen_hightower_105454?src=t_talk_is_cheap",
+        "quote": "Talk is cheap - except when Congress does it.",
+        "author": {
+            "name": "Cullen Hightower",
+            "url": "/authors/cullen_hightower"
+        },
+        "topics": [
+            {
+                "name": "Government",
+                "url": "/topics/government"
+            },
+            {
+                "name": "Congress",
+                "url": "/topics/congress"
+            },
+            {
+                "name": "Does",
+                "url": "/topics/does"
+            }
+        ]
+    }
+]

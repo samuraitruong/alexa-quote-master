@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/margaret_millar_130056",
+        "quote": "Life is something that happens to you while you're making other plans.",
+        "author": {
+            "name": "Margaret Millar",
+            "url": "/quotes/margaret_millar_130056"
+        },
+        "topics": [
+            {
+                "name": "Plans",
+                "url": "/topics/plans"
+            },
+            {
+                "name": "Making",
+                "url": "/topics/making"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/margaret_millar_107912",
+        "quote": "Most conversations are simply monologues delivered in the presence of a witness.",
+        "author": {
+            "name": "Margaret Millar",
+            "url": "/quotes/margaret_millar_107912"
+        },
+        "topics": [
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "Witness",
+                "url": "/topics/witness"
+            },
+            {
+                "name": "Delivered",
+                "url": "/topics/delivered"
+            }
+        ]
+    }
+]

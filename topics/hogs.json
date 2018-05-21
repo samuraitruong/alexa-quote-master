@@ -1,0 +1,200 @@
+[
+    {
+        "url": "/quotes/james_earl_jones_340234?src=t_hogs",
+        "quote": "Even during the rationing period, during World War II, we didn't have the anxiety that we'd starve, because we grew our own potatoes, you know? And our own hogs, and our own cows and stuff, you know.",
+        "author": {
+            "name": "James Earl Jones",
+            "url": "/authors/james_earl_jones"
+        },
+        "topics": [
+            {
+                "name": "Potatoes",
+                "url": "/topics/potatoes"
+            },
+            {
+                "name": "Rationing",
+                "url": "/topics/rationing"
+            },
+            {
+                "name": "Period",
+                "url": "/topics/period"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/michael_pollan_776639?src=t_hogs",
+        "quote": "Barbecue is an incredibly democratic food. It's cheaper than McDonald's in many places and far more delicious. On the other hand, the only reason it can be that cheap is they use commodity hogs, the worst of the worst, which is - you know, it's an industry kind of ruining North Carolina.",
+        "author": {
+            "name": "Michael Pollan",
+            "url": "/authors/michael_pollan"
+        },
+        "topics": [
+            {
+                "name": "Reason",
+                "url": "/topics/reason"
+            },
+            {
+                "name": "Cheaper",
+                "url": "/topics/cheaper"
+            },
+            {
+                "name": "Commodity",
+                "url": "/topics/commodity"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/otis_redding_573482?src=t_hogs",
+        "quote": "If I were to leave the U.S., I'd live in England. But I'd never leave the U.S. I own a 400-acre farm in Macon, Georgia. I raise cattle and hogs. I own horses, too. I love horses as much as singing. I like to hunt on horseback.",
+        "author": {
+            "name": "Otis Redding",
+            "url": "/authors/otis_redding"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Georgia",
+                "url": "/topics/georgia"
+            },
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_harvey_789574?src=t_hogs",
+        "quote": "Cut out the free feed for the boss hogs at the public trough and the spill-over they've been leaving us. We'll manage.",
+        "author": {
+            "name": "Paul Harvey",
+            "url": "/authors/paul_harvey"
+        },
+        "topics": [
+            {
+                "name": "Boss",
+                "url": "/topics/boss"
+            },
+            {
+                "name": "Cut",
+                "url": "/topics/cut"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joe_jamail_719890?src=t_hogs",
+        "quote": "We've got some real greedy hogs who own no interest in the company they're running, whose sole interest is in whatever it takes to be able to get to the point to fly out on their golden parachute and milk the shareholder and take risks that they shouldn't take.",
+        "author": {
+            "name": "Joe Jamail",
+            "url": "/authors/joe_jamail"
+        },
+        "topics": [
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Got",
+                "url": "/topics/got"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jack_hanna_501584?src=t_hogs",
+        "quote": "Hogs and pigs are very intelligent.",
+        "author": {
+            "name": "Jack Hanna",
+            "url": "/authors/jack_hanna"
+        },
+        "topics": [
+            {
+                "name": "Intelligent",
+                "url": "/topics/intelligent"
+            },
+            {
+                "name": "Pigs",
+                "url": "/topics/pigs"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joel_chandler_harris_205636?src=t_hogs",
+        "quote": "Watch out when you're getting all you want. Fattening hogs ain't in luck.",
+        "author": {
+            "name": "Joel Chandler Harris",
+            "url": "/authors/joel_chandler_harris"
+        },
+        "topics": [
+            {
+                "name": "Luck",
+                "url": "/topics/luck"
+            },
+            {
+                "name": "Getting",
+                "url": "/topics/getting"
+            },
+            {
+                "name": "Fattening",
+                "url": "/topics/fattening"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ilka_chase_111225?src=t_hogs",
+        "quote": "Wart hogs should sue for libel. It is a terrible name and they are fine fellows and devoted family men and it is rare to see one by himself; the little woman and the kiddies are usually close at hand.",
+        "author": {
+            "name": "Ilka Chase",
+            "url": "/authors/ilka_chase"
+        },
+        "topics": [
+            {
+                "name": "Woman",
+                "url": "/topics/woman"
+            },
+            {
+                "name": "Sue",
+                "url": "/topics/sue"
+            },
+            {
+                "name": "Devoted",
+                "url": "/topics/devoted"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lewis_b_hershey_114455?src=t_hogs",
+        "quote": "When we know as much about people as hog specialists know about hogs, we'll be better off.",
+        "author": {
+            "name": "Lewis B. Hershey",
+            "url": "/authors/lewis_b_hershey"
+        },
+        "topics": [
+            {
+                "name": "Better",
+                "url": "/topics/better"
+            },
+            {
+                "name": "Better Off",
+                "url": "/topics/better_off"
+            },
+            {
+                "name": "Hog",
+                "url": "/topics/hog"
+            }
+        ]
+    }
+]

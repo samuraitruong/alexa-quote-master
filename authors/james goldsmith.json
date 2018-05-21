@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/james_goldsmith_137663",
+        "quote": "If you pay peanuts, you get monkeys.",
+        "author": {
+            "name": "James Goldsmith",
+            "url": "/quotes/james_goldsmith_137663"
+        },
+        "topics": [
+            {
+                "name": "Pay",
+                "url": "/topics/pay"
+            },
+            {
+                "name": "Monkeys",
+                "url": "/topics/monkeys"
+            },
+            {
+                "name": "Get",
+                "url": "/topics/get"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_goldsmith_389425",
+        "quote": "Tolerance it a tremendous virtue, but the immediate neighbors of tolerance are apathy and weakness.",
+        "author": {
+            "name": "James Goldsmith",
+            "url": "/quotes/james_goldsmith_389425"
+        },
+        "topics": [
+            {
+                "name": "Weakness",
+                "url": "/topics/weakness"
+            },
+            {
+                "name": "Virtue",
+                "url": "/topics/virtue"
+            },
+            {
+                "name": "Immediate",
+                "url": "/topics/immediate"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_goldsmith_387781",
+        "quote": "If you see a bandwagon, it's too late.",
+        "author": {
+            "name": "James Goldsmith",
+            "url": "/quotes/james_goldsmith_387781"
+        },
+        "topics": [
+            {
+                "name": "Late",
+                "url": "/topics/late"
+            },
+            {
+                "name": "See",
+                "url": "/topics/see"
+            },
+            {
+                "name": "Too Late",
+                "url": "/topics/too_late"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_goldsmith_106777",
+        "quote": "When a man marries his mistress it creates a job opportunity.",
+        "author": {
+            "name": "James Goldsmith",
+            "url": "/quotes/james_goldsmith_106777"
+        },
+        "topics": [
+            {
+                "name": "Mistress",
+                "url": "/topics/mistress"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            },
+            {
+                "name": "Creates",
+                "url": "/topics/creates"
+            }
+        ]
+    }
+]

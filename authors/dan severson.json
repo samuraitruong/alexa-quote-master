@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/dan_severson_638231",
+        "quote": "Quite often you hear people say, 'What about separation of church and state?' There is no such thing.",
+        "author": {
+            "name": "Dan Severson",
+            "url": "/quotes/dan_severson_638231"
+        },
+        "topics": [
+            {
+                "name": "Church",
+                "url": "/topics/church"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Hear People",
+                "url": "/topics/hear_people"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dan_severson_638232",
+        "quote": "You simply cannot continue a nation as America without that Christian base of liberty.",
+        "author": {
+            "name": "Dan Severson",
+            "url": "/quotes/dan_severson_638232"
+        },
+        "topics": [
+            {
+                "name": "Liberty",
+                "url": "/topics/liberty"
+            },
+            {
+                "name": "Nation",
+                "url": "/topics/nation"
+            },
+            {
+                "name": "Continue",
+                "url": "/topics/continue"
+            }
+        ]
+    }
+]

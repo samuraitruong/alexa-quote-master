@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/wilhelm_canaris_269088",
+        "quote": "I have a clear conscience.",
+        "author": {
+            "name": "Wilhelm Canaris",
+            "url": "/quotes/wilhelm_canaris_269088"
+        },
+        "topics": [
+            {
+                "name": "Conscience",
+                "url": "/topics/conscience"
+            },
+            {
+                "name": "Clear",
+                "url": "/topics/clear"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/wilhelm_canaris_269089",
+        "quote": "I only did my duty to my country when I tried to oppose the criminal folly of Hitler.",
+        "author": {
+            "name": "Wilhelm Canaris",
+            "url": "/quotes/wilhelm_canaris_269089"
+        },
+        "topics": [
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Folly",
+                "url": "/topics/folly"
+            },
+            {
+                "name": "Tried",
+                "url": "/topics/tried"
+            }
+        ]
+    }
+]

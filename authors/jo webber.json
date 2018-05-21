@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/jo_webber_533898",
+        "quote": "Virtual Piggy was created to provide a safe way for kids to shop online with parental approval, in recognition of growing digital world kids live in.",
+        "author": {
+            "name": "Jo Webber",
+            "url": "/quotes/jo_webber_533898"
+        },
+        "topics": [
+            {
+                "name": "Digital",
+                "url": "/topics/digital"
+            },
+            {
+                "name": "Virtual",
+                "url": "/topics/virtual"
+            },
+            {
+                "name": "Shop",
+                "url": "/topics/shop"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jo_webber_533899",
+        "quote": "Watching my kids grow up made me realize that they would never know a world or a time without the Internet.",
+        "author": {
+            "name": "Jo Webber",
+            "url": "/quotes/jo_webber_533899"
+        },
+        "topics": [
+            {
+                "name": "Grow",
+                "url": "/topics/grow"
+            },
+            {
+                "name": "Watching",
+                "url": "/topics/watching"
+            },
+            {
+                "name": "Made",
+                "url": "/topics/made"
+            }
+        ]
+    }
+]

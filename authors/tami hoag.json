@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/tami_hoag_681899",
+        "quote": "You learn who you really are in a fight - what you're really made of. You have to face yourself and rise above your own fears and failings.",
+        "author": {
+            "name": "Tami Hoag",
+            "url": "/quotes/tami_hoag_681899"
+        },
+        "topics": [
+            {
+                "name": "Rise Above",
+                "url": "/topics/rise_above"
+            },
+            {
+                "name": "Learn",
+                "url": "/topics/learn"
+            },
+            {
+                "name": "Made",
+                "url": "/topics/made"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tami_hoag_681898",
+        "quote": "I so admire the discipline, the work ethic, and the sacrifices fighters make to master all aspects of mixed martial arts.",
+        "author": {
+            "name": "Tami Hoag",
+            "url": "/quotes/tami_hoag_681898"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Admire",
+                "url": "/topics/admire"
+            },
+            {
+                "name": "Sacrifices",
+                "url": "/topics/sacrifices"
+            }
+        ]
+    }
+]

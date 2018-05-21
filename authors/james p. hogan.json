@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/james_p_hogan_204428",
+        "quote": "The whole problem with the world is that fools and fanatics are always so certain of themselves, but wiser people are full of doubts.",
+        "author": {
+            "name": "James P. Hogan",
+            "url": "/quotes/james_p_hogan_204428"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Doubts",
+                "url": "/topics/doubts"
+            },
+            {
+                "name": "Fanatics",
+                "url": "/topics/fanatics"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_p_hogan_204431",
+        "quote": "Kids don't have ruts yet that adults have carved into their minds. They're born logical. Crooked thinking has to be taught.",
+        "author": {
+            "name": "James P. Hogan",
+            "url": "/quotes/james_p_hogan_204431"
+        },
+        "topics": [
+            {
+                "name": "Thinking",
+                "url": "/topics/thinking"
+            },
+            {
+                "name": "Born",
+                "url": "/topics/born"
+            },
+            {
+                "name": "Logical",
+                "url": "/topics/logical"
+            }
+        ]
+    }
+]

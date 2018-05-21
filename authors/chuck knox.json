@@ -1,0 +1,82 @@
+[
+    {
+        "url": "/quotes/chuck_knox_405146",
+        "quote": "Practice without improvement is meaningless.",
+        "author": {
+            "name": "Chuck Knox",
+            "url": "/quotes/chuck_knox_405146"
+        },
+        "topics": [
+            {
+                "name": "Improvement",
+                "url": "/topics/improvement"
+            },
+            {
+                "name": "Practice",
+                "url": "/topics/practice"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/chuck_knox_404662",
+        "quote": "Always have a plan, and believe in it. Nothing happens by accident.",
+        "author": {
+            "name": "Chuck Knox",
+            "url": "/quotes/chuck_knox_404662"
+        },
+        "topics": [
+            {
+                "name": "Believe",
+                "url": "/topics/believe"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/chuck_knox_405052",
+        "quote": "Football players win football games.",
+        "author": {
+            "name": "Chuck Knox",
+            "url": "/quotes/chuck_knox_405052"
+        },
+        "topics": [
+            {
+                "name": "Players",
+                "url": "/topics/players"
+            },
+            {
+                "name": "Football Players",
+                "url": "/topics/football_players"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/chuck_knox_405141",
+        "quote": "Most of my cliches aren't original.",
+        "author": {
+            "name": "Chuck Knox",
+            "url": "/quotes/chuck_knox_405141"
+        },
+        "topics": [
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "Original",
+                "url": "/topics/original"
+            },
+            {
+                "name": "Cliches",
+                "url": "/topics/cliches"
+            }
+        ]
+    }
+]

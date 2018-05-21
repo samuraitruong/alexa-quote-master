@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/theodosius_dobzhansky_205940",
+        "quote": "Scientists often have a naive faith that if only they could discover enough facts about a problem, these facts would somehow arrange themselves in a compelling and true solution.",
+        "author": {
+            "name": "Theodosius Dobzhansky",
+            "url": "/quotes/theodosius_dobzhansky_205940"
+        },
+        "topics": [
+            {
+                "name": "Discover",
+                "url": "/topics/discover"
+            },
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            },
+            {
+                "name": "Compelling",
+                "url": "/topics/compelling"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/theodosius_dobzhansky_205941",
+        "quote": "Nothing in biology makes sense except in the light of evolution.",
+        "author": {
+            "name": "Theodosius Dobzhansky",
+            "url": "/quotes/theodosius_dobzhansky_205941"
+        },
+        "topics": [
+            {
+                "name": "Light",
+                "url": "/topics/light"
+            },
+            {
+                "name": "Biology",
+                "url": "/topics/biology"
+            },
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            }
+        ]
+    }
+]

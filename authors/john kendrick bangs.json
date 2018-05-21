@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/john_kendrick_bangs_404317",
+        "quote": "Pandemonium did not reign; it poured.",
+        "author": {
+            "name": "John Kendrick Bangs",
+            "url": "/quotes/john_kendrick_bangs_404317"
+        },
+        "topics": [
+            {
+                "name": "Reign",
+                "url": "/topics/reign"
+            },
+            {
+                "name": "Poured",
+                "url": "/topics/poured"
+            },
+            {
+                "name": "Did",
+                "url": "/topics/did"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_kendrick_bangs_404291",
+        "quote": "I can't tell a lie - not even when I hear one.",
+        "author": {
+            "name": "John Kendrick Bangs",
+            "url": "/quotes/john_kendrick_bangs_404291"
+        },
+        "topics": [
+            {
+                "name": "Lie",
+                "url": "/topics/lie"
+            },
+            {
+                "name": "Tell",
+                "url": "/topics/tell"
+            },
+            {
+                "name": "Even",
+                "url": "/topics/even"
+            }
+        ]
+    }
+]

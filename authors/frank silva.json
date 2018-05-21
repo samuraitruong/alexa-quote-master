@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/frank_silva_708471",
+        "quote": "I'm trying to treat it as a hobby. Making bread and butter as an actor is tough.",
+        "author": {
+            "name": "Frank Silva",
+            "url": "/quotes/frank_silva_708471"
+        },
+        "topics": [
+            {
+                "name": "Treat",
+                "url": "/topics/treat"
+            },
+            {
+                "name": "Actor",
+                "url": "/topics/actor"
+            },
+            {
+                "name": "Making",
+                "url": "/topics/making"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/frank_silva_708470",
+        "quote": "I started out years ago as a theater major and got disillusioned with it. It's a rough business.",
+        "author": {
+            "name": "Frank Silva",
+            "url": "/quotes/frank_silva_708470"
+        },
+        "topics": [
+            {
+                "name": "Business",
+                "url": "/topics/business"
+            },
+            {
+                "name": "Rough",
+                "url": "/topics/rough"
+            },
+            {
+                "name": "Started",
+                "url": "/topics/started"
+            }
+        ]
+    }
+]

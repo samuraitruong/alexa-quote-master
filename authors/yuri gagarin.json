@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/yuri_gagarin_171680",
+        "quote": "I could have gone on flying through space forever.",
+        "author": {
+            "name": "Yuri Gagarin",
+            "url": "/quotes/yuri_gagarin_171680"
+        },
+        "topics": [
+            {
+                "name": "Space",
+                "url": "/topics/space"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/yuri_gagarin_183173",
+        "quote": "I see Earth! It is so beautiful!",
+        "author": {
+            "name": "Yuri Gagarin",
+            "url": "/quotes/yuri_gagarin_183173"
+        },
+        "topics": [
+            {
+                "name": "Beautiful",
+                "url": "/topics/beautiful"
+            },
+            {
+                "name": "Space",
+                "url": "/topics/space"
+            },
+            {
+                "name": "See",
+                "url": "/topics/see"
+            }
+        ]
+    }
+]

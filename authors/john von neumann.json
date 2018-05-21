@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/john_von_neumann_129914",
+        "quote": "Anyone who attempts to generate random numbers by deterministic means is, of course, living in a state of sin.",
+        "author": {
+            "name": "John von Neumann",
+            "url": "/quotes/john_von_neumann_129914"
+        },
+        "topics": [
+            {
+                "name": "Science",
+                "url": "/topics/science"
+            },
+            {
+                "name": "Random",
+                "url": "/topics/random"
+            },
+            {
+                "name": "Means",
+                "url": "/topics/means"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_von_neumann_142914",
+        "quote": "It would appear that we have reached the limits of what it is possible to achieve with computer technology, although one should be careful with such statements, as they tend to sound pretty silly in 5 years.",
+        "author": {
+            "name": "John von Neumann",
+            "url": "/quotes/john_von_neumann_142914"
+        },
+        "topics": [
+            {
+                "name": "Achieve",
+                "url": "/topics/achieve"
+            },
+            {
+                "name": "Pretty",
+                "url": "/topics/pretty"
+            },
+            {
+                "name": "Be Careful",
+                "url": "/topics/be_careful"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_von_neumann_137953",
+        "quote": "There's no sense in being precise when you don't even know what you're talking about.",
+        "author": {
+            "name": "John von Neumann",
+            "url": "/quotes/john_von_neumann_137953"
+        },
+        "topics": [
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "No Sense",
+                "url": "/topics/no_sense"
+            },
+            {
+                "name": "Even",
+                "url": "/topics/even"
+            }
+        ]
+    }
+]

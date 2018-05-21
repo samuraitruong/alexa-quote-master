@@ -1,0 +1,332 @@
+[
+    {
+        "url": "/quotes/jon_johansen_229213",
+        "quote": "We knew that they would probably go after someone.",
+        "author": {
+            "name": "Jon Johansen",
+            "url": "/quotes/jon_johansen_229213"
+        },
+        "topics": [
+            {
+                "name": "Someone",
+                "url": "/topics/someone"
+            },
+            {
+                "name": "Knew",
+                "url": "/topics/knew"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jon_johansen_229214",
+        "quote": "Well, the biggest Norwegian newspaper regarded this as an arrest, since they hadn't told us that they were coming and they brought me in. So the biggest Norwegian newspaper looked upon that as an arrest.",
+        "author": {
+            "name": "Jon Johansen",
+            "url": "/quotes/jon_johansen_229214"
+        },
+        "topics": [
+            {
+                "name": "Newspaper",
+                "url": "/topics/newspaper"
+            },
+            {
+                "name": "Brought",
+                "url": "/topics/brought"
+            },
+            {
+                "name": "Arrest",
+                "url": "/topics/arrest"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jon_johansen_229215",
+        "quote": "I'm 16 now, I was 15 when it happened... and the encryption code wasn't in fact written by me, but written by the German member. There seems to be a bit of confusion about that part.",
+        "author": {
+            "name": "Jon Johansen",
+            "url": "/quotes/jon_johansen_229215"
+        },
+        "topics": [
+            {
+                "name": "Fact",
+                "url": "/topics/fact"
+            },
+            {
+                "name": "German",
+                "url": "/topics/german"
+            },
+            {
+                "name": "Code",
+                "url": "/topics/code"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jon_johansen_229216",
+        "quote": "I don't have the identity of any of them. I only had the nicks that they used on Internet Relay Chat.",
+        "author": {
+            "name": "Jon Johansen",
+            "url": "/quotes/jon_johansen_229216"
+        },
+        "topics": [
+            {
+                "name": "Identity",
+                "url": "/topics/identity"
+            },
+            {
+                "name": "Relay",
+                "url": "/topics/relay"
+            },
+            {
+                "name": "Chat",
+                "url": "/topics/chat"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jon_johansen_432344",
+        "quote": "So DeCSS didn't introduce anything new for pirating and had already been available.",
+        "author": {
+            "name": "Jon Johansen",
+            "url": "/quotes/jon_johansen_432344"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Pirating",
+                "url": "/topics/pirating"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jon_johansen_432345",
+        "quote": "Anyone with a little computer experience knows that anything can be copied bit by bit with the right equipment.",
+        "author": {
+            "name": "Jon Johansen",
+            "url": "/quotes/jon_johansen_432345"
+        },
+        "topics": [
+            {
+                "name": "Computer",
+                "url": "/topics/computer"
+            },
+            {
+                "name": "Copied",
+                "url": "/topics/copied"
+            },
+            {
+                "name": "Anyone",
+                "url": "/topics/anyone"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jon_johansen_432346",
+        "quote": "Basically, if reverse engineering is banned, then a lot of the open source community is doomed to fail.",
+        "author": {
+            "name": "Jon Johansen",
+            "url": "/quotes/jon_johansen_432346"
+        },
+        "topics": [
+            {
+                "name": "Engineering",
+                "url": "/topics/engineering"
+            },
+            {
+                "name": "Source",
+                "url": "/topics/source"
+            },
+            {
+                "name": "Then",
+                "url": "/topics/then"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jon_johansen_438920",
+        "quote": "I still haven't heard anything from Apple about my hacks. There is a tool based on my work reverse-engineering Apple's FairPlay called jhymn that's been hosted on a U.S. server for over a year and nothing has happened.",
+        "author": {
+            "name": "Jon Johansen",
+            "url": "/quotes/jon_johansen_438920"
+        },
+        "topics": [
+            {
+                "name": "Year",
+                "url": "/topics/year"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Server",
+                "url": "/topics/server"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jon_johansen_438921",
+        "quote": "Basically, if I have no intention of using a service then I won't bother reverse-engineering it.",
+        "author": {
+            "name": "Jon Johansen",
+            "url": "/quotes/jon_johansen_438921"
+        },
+        "topics": [
+            {
+                "name": "Service",
+                "url": "/topics/service"
+            },
+            {
+                "name": "Bother",
+                "url": "/topics/bother"
+            },
+            {
+                "name": "Using",
+                "url": "/topics/using"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jon_johansen_438922",
+        "quote": "I took a job in the U.S. because I wanted to work on products that would get into end users' hands. In Norway, most of the jobs are in server software, niche stuff.",
+        "author": {
+            "name": "Jon Johansen",
+            "url": "/quotes/jon_johansen_438922"
+        },
+        "topics": [
+            {
+                "name": "Hands",
+                "url": "/topics/hands"
+            },
+            {
+                "name": "Server",
+                "url": "/topics/server"
+            },
+            {
+                "name": "Took",
+                "url": "/topics/took"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jon_johansen_438923",
+        "quote": "Companies shouldn't use the law to prevent consumers from doing something legal.",
+        "author": {
+            "name": "Jon Johansen",
+            "url": "/quotes/jon_johansen_438923"
+        },
+        "topics": [
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Prevent",
+                "url": "/topics/prevent"
+            },
+            {
+                "name": "Companies",
+                "url": "/topics/companies"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jon_johansen_438924",
+        "quote": "I was fed up with not being able to play a movie the way I wanted to play it.",
+        "author": {
+            "name": "Jon Johansen",
+            "url": "/quotes/jon_johansen_438924"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Movie",
+                "url": "/topics/movie"
+            },
+            {
+                "name": "Fed",
+                "url": "/topics/fed"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jon_johansen_438925",
+        "quote": "I don't like closed systems.",
+        "author": {
+            "name": "Jon Johansen",
+            "url": "/quotes/jon_johansen_438925"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Closed",
+                "url": "/topics/closed"
+            },
+            {
+                "name": "Systems",
+                "url": "/topics/systems"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jon_johansen_438926",
+        "quote": "I've probably bought ten CDs in my whole life.",
+        "author": {
+            "name": "Jon Johansen",
+            "url": "/quotes/jon_johansen_438926"
+        },
+        "topics": [
+            {
+                "name": "Whole",
+                "url": "/topics/whole"
+            },
+            {
+                "name": "CDs",
+                "url": "/topics/cds"
+            },
+            {
+                "name": "Bought",
+                "url": "/topics/bought"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jon_johansen_438927",
+        "quote": "All over the world copyright holders are trying to limit consumers' rights. We cannot have that.",
+        "author": {
+            "name": "Jon Johansen",
+            "url": "/quotes/jon_johansen_438927"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Copyright",
+                "url": "/topics/copyright"
+            }
+        ]
+    }
+]

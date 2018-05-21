@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/aristotle_148482?src=t_noble_deeds",
+        "quote": "In poverty and other misfortunes of life, true friends are a sure refuge. The young they keep out of mischief; to the old they are a comfort and aid in their weakness, and those in the prime of life they incite to noble deeds.",
+        "author": {
+            "name": "Aristotle",
+            "url": "/authors/aristotle"
+        },
+        "topics": [
+            {
+                "name": "Young",
+                "url": "/topics/young"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Misfortunes",
+                "url": "/topics/misfortunes"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/blaise_pascal_378086?src=t_noble_deeds",
+        "quote": "Noble deeds that are concealed are most esteemed.",
+        "author": {
+            "name": "Blaise Pascal",
+            "url": "/authors/blaise_pascal"
+        },
+        "topics": [
+            {
+                "name": "Inspirational",
+                "url": "/topics/inspirational"
+            },
+            {
+                "name": "Deeds",
+                "url": "/topics/deeds"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/plutarch_159945?src=t_noble_deeds",
+        "quote": "It is part of a good man to do great and noble deeds, though he risk everything.",
+        "author": {
+            "name": "Plutarch",
+            "url": "/authors/plutarch"
+        },
+        "topics": [
+            {
+                "name": "Deeds",
+                "url": "/topics/deeds"
+            },
+            {
+                "name": "Though",
+                "url": "/topics/though"
+            },
+            {
+                "name": "Part",
+                "url": "/topics/part"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joshua_chamberlain_225472?src=t_noble_deeds",
+        "quote": "The power of noble deeds is to be preserved and passed on to the future.",
+        "author": {
+            "name": "Joshua Chamberlain",
+            "url": "/authors/joshua_chamberlain"
+        },
+        "topics": [
+            {
+                "name": "Future",
+                "url": "/topics/future"
+            },
+            {
+                "name": "Deeds",
+                "url": "/topics/deeds"
+            },
+            {
+                "name": "Preserved",
+                "url": "/topics/preserved"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dodie_smith_161853?src=t_noble_deeds",
+        "quote": "Noble deeds and hot baths are the best cures for depression.",
+        "author": {
+            "name": "Dodie Smith",
+            "url": "/authors/dodie_smith"
+        },
+        "topics": [
+            {
+                "name": "Deeds",
+                "url": "/topics/deeds"
+            },
+            {
+                "name": "Cures",
+                "url": "/topics/cures"
+            },
+            {
+                "name": "Baths",
+                "url": "/topics/baths"
+            }
+        ]
+    }
+]

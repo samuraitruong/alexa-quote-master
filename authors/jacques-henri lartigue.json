@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/jacqueshenri_lartigue_141222",
+        "quote": "Photography to me is catching a moment which is passing, and which is true.",
+        "author": {
+            "name": "Jacques-Henri Lartigue",
+            "url": "/quotes/jacqueshenri_lartigue_141222"
+        },
+        "topics": [
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Catching",
+                "url": "/topics/catching"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jacqueshenri_lartigue_141141",
+        "quote": "I take photographs with love, so I try to make them art objects. But I make them for myself first and foremost - that is important.",
+        "author": {
+            "name": "Jacques-Henri Lartigue",
+            "url": "/quotes/jacqueshenri_lartigue_141141"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Objects",
+                "url": "/topics/objects"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jacqueshenri_lartigue_141217",
+        "quote": "It's marvellous, marvellous! Nothing will ever be as much fun. I'm going to photograph everything, everything!",
+        "author": {
+            "name": "Jacques-Henri Lartigue",
+            "url": "/quotes/jacqueshenri_lartigue_141217"
+        },
+        "topics": [
+            {
+                "name": "Photograph",
+                "url": "/topics/photograph"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Ever",
+                "url": "/topics/ever"
+            }
+        ]
+    }
+]

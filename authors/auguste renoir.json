@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/auguste_renoir_312012",
+        "quote": "An artist, under pain of oblivion, must have confidence in himself, and listen only to his real master: Nature.",
+        "author": {
+            "name": "Auguste Renoir",
+            "url": "/quotes/auguste_renoir_312012"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "Pain",
+                "url": "/topics/pain"
+            },
+            {
+                "name": "Artist",
+                "url": "/topics/artist"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/auguste_renoir_110211",
+        "quote": "The pain passes, but the beauty remains.",
+        "author": {
+            "name": "Auguste Renoir",
+            "url": "/quotes/auguste_renoir_110211"
+        },
+        "topics": [
+            {
+                "name": "Beauty",
+                "url": "/topics/beauty"
+            },
+            {
+                "name": "Pain",
+                "url": "/topics/pain"
+            },
+            {
+                "name": "Passes",
+                "url": "/topics/passes"
+            }
+        ]
+    }
+]

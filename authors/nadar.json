@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/nadar_144784",
+        "quote": "The portrait I do best is of the person I know best.",
+        "author": {
+            "name": "Nadar",
+            "url": "/quotes/nadar_144784"
+        },
+        "topics": [
+            {
+                "name": "Best",
+                "url": "/topics/best"
+            },
+            {
+                "name": "Know",
+                "url": "/topics/know"
+            },
+            {
+                "name": "Person",
+                "url": "/topics/person"
+            }
+        ]
+    }
+]

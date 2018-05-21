@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/antonin_dvorak_307781",
+        "quote": "Mozart is sweet sunshine.",
+        "author": {
+            "name": "Antonin Dvorak",
+            "url": "/quotes/antonin_dvorak_307781"
+        },
+        "topics": [
+            {
+                "name": "Sunshine",
+                "url": "/topics/sunshine"
+            },
+            {
+                "name": "Sweet",
+                "url": "/topics/sweet"
+            },
+            {
+                "name": "Mozart",
+                "url": "/topics/mozart"
+            }
+        ]
+    }
+]

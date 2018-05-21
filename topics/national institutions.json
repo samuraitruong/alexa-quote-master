@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/thomas_paine_401915?src=t_national_institutions",
+        "quote": "All national institutions of churches, whether Jewish, Christian or Turkish, appear to me no other than human inventions, set up to terrify and enslave mankind, and monopolize power and profit.",
+        "author": {
+            "name": "Thomas Paine",
+            "url": "/authors/thomas_paine"
+        },
+        "topics": [
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Set",
+                "url": "/topics/set"
+            },
+            {
+                "name": "Terrify",
+                "url": "/topics/terrify"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henri_la_fontaine_275445?src=t_national_institutions",
+        "quote": "International institutions ought to be, as the national ones in democratic countries, established by the peoples and for the peoples.",
+        "author": {
+            "name": "Henri La Fontaine",
+            "url": "/authors/henri_la_fontaine"
+        },
+        "topics": [
+            {
+                "name": "Institutions",
+                "url": "/topics/institutions"
+            },
+            {
+                "name": "Established",
+                "url": "/topics/established"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/elliott_abrams_641332?src=t_national_institutions",
+        "quote": "Gadhafi has established no national institutions, not even allowing a fake parliament of the Mubarak or Ben Ali variety that could perhaps be turned into something real.",
+        "author": {
+            "name": "Elliott Abrams",
+            "url": "/authors/elliott_abrams"
+        },
+        "topics": [
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            },
+            {
+                "name": "Established",
+                "url": "/topics/established"
+            },
+            {
+                "name": "Turned",
+                "url": "/topics/turned"
+            }
+        ]
+    }
+]

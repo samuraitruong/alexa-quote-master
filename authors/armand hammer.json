@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/armand_hammer_269105",
+        "quote": "When I work fourteen hours a day, seven days a week, I get lucky.",
+        "author": {
+            "name": "Armand Hammer",
+            "url": "/quotes/armand_hammer_269105"
+        },
+        "topics": [
+            {
+                "name": "Week",
+                "url": "/topics/week"
+            },
+            {
+                "name": "Lucky",
+                "url": "/topics/lucky"
+            },
+            {
+                "name": "Hours",
+                "url": "/topics/hours"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/armand_hammer_142658",
+        "quote": "Regrets and recriminations only hurt your soul.",
+        "author": {
+            "name": "Armand Hammer",
+            "url": "/quotes/armand_hammer_142658"
+        },
+        "topics": [
+            {
+                "name": "Soul",
+                "url": "/topics/soul"
+            },
+            {
+                "name": "Regrets",
+                "url": "/topics/regrets"
+            },
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            }
+        ]
+    }
+]

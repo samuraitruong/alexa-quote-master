@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/mamnoon_hussain_640153",
+        "quote": "Negotiate with those who wish to talk - and take action against those who create mischief.",
+        "author": {
+            "name": "Mamnoon Hussain",
+            "url": "/quotes/mamnoon_hussain_640153"
+        },
+        "topics": [
+            {
+                "name": "Wish",
+                "url": "/topics/wish"
+            },
+            {
+                "name": "Negotiate",
+                "url": "/topics/negotiate"
+            },
+            {
+                "name": "Take",
+                "url": "/topics/take"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mamnoon_hussain_640152",
+        "quote": "My fear is that if we don't take remedial steps to control polio in the tribal areas, we will be faced with international sanctions.",
+        "author": {
+            "name": "Mamnoon Hussain",
+            "url": "/quotes/mamnoon_hussain_640152"
+        },
+        "topics": [
+            {
+                "name": "Control",
+                "url": "/topics/control"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Tribal",
+                "url": "/topics/tribal"
+            }
+        ]
+    }
+]

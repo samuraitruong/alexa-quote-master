@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/robert_coleman_richardson_521243",
+        "quote": "I did not take a calculus course until my second year of college.",
+        "author": {
+            "name": "Robert Coleman Richardson",
+            "url": "/quotes/robert_coleman_richardson_521243"
+        },
+        "topics": [
+            {
+                "name": "College",
+                "url": "/topics/college"
+            },
+            {
+                "name": "Year",
+                "url": "/topics/year"
+            },
+            {
+                "name": "Take",
+                "url": "/topics/take"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_coleman_richardson_521244",
+        "quote": "I was not an especially diligent student but nevertheless obtained a reasonable education in physics.",
+        "author": {
+            "name": "Robert Coleman Richardson",
+            "url": "/quotes/robert_coleman_richardson_521244"
+        },
+        "topics": [
+            {
+                "name": "Diligent",
+                "url": "/topics/diligent"
+            },
+            {
+                "name": "Nevertheless",
+                "url": "/topics/nevertheless"
+            }
+        ]
+    }
+]

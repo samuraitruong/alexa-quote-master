@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/francis_marion_crawford_175088",
+        "quote": "No one person can possibly combine all the elements supposed to make up what everyone means by friendship.",
+        "author": {
+            "name": "Francis Marion Crawford",
+            "url": "/quotes/francis_marion_crawford_175088"
+        },
+        "topics": [
+            {
+                "name": "Friendship",
+                "url": "/topics/friendship"
+            },
+            {
+                "name": "Everyone",
+                "url": "/topics/everyone"
+            },
+            {
+                "name": "Means",
+                "url": "/topics/means"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/francis_marion_crawford_170366",
+        "quote": "To expect defeat is nine-tenths of defeat itself.",
+        "author": {
+            "name": "Francis Marion Crawford",
+            "url": "/quotes/francis_marion_crawford_170366"
+        },
+        "topics": [
+            {
+                "name": "Defeat",
+                "url": "/topics/defeat"
+            },
+            {
+                "name": "Expect",
+                "url": "/topics/expect"
+            },
+            {
+                "name": "Itself",
+                "url": "/topics/itself"
+            }
+        ]
+    }
+]

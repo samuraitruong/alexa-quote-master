@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/john_wilkes_193116",
+        "quote": "That, sir, depends on whether I embrace your mistress or your politics.",
+        "author": {
+            "name": "John Wilkes",
+            "url": "/quotes/john_wilkes_193116"
+        },
+        "topics": [
+            {
+                "name": "Politics",
+                "url": "/topics/politics"
+            },
+            {
+                "name": "Embrace",
+                "url": "/topics/embrace"
+            },
+            {
+                "name": "Mistress",
+                "url": "/topics/mistress"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_wilkes_193117",
+        "quote": "A people whose souls are so little tuned to joy.",
+        "author": {
+            "name": "John Wilkes",
+            "url": "/quotes/john_wilkes_193117"
+        },
+        "topics": [
+            {
+                "name": "Joy",
+                "url": "/topics/joy"
+            },
+            {
+                "name": "Souls",
+                "url": "/topics/souls"
+            },
+            {
+                "name": "Tuned",
+                "url": "/topics/tuned"
+            }
+        ]
+    }
+]

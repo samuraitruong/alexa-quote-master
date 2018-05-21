@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/thomas_haynes_bayly_119425",
+        "quote": "Absence makes the heart grow fonder.",
+        "author": {
+            "name": "Thomas Haynes Bayly",
+            "url": "/quotes/thomas_haynes_bayly_119425"
+        },
+        "topics": [
+            {
+                "name": "Grow",
+                "url": "/topics/grow"
+            },
+            {
+                "name": "Absence",
+                "url": "/topics/absence"
+            },
+            {
+                "name": "Fonder",
+                "url": "/topics/fonder"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_haynes_bayly_375638",
+        "quote": "We met, 'twas in a crowd, and I thought he would shun me.",
+        "author": {
+            "name": "Thomas Haynes Bayly",
+            "url": "/quotes/thomas_haynes_bayly_375638"
+        },
+        "topics": [
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Twas",
+                "url": "/topics/twas"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            }
+        ]
+    }
+]

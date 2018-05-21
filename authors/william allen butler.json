@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/william_allen_butler_190721",
+        "quote": "And queenly is the state she keeps, In beauty's lofty trust secure.",
+        "author": {
+            "name": "William Allen Butler",
+            "url": "/quotes/william_allen_butler_190721"
+        },
+        "topics": [
+            {
+                "name": "Beauty",
+                "url": "/topics/beauty"
+            },
+            {
+                "name": "Trust",
+                "url": "/topics/trust"
+            },
+            {
+                "name": "She",
+                "url": "/topics/she"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_allen_butler_190722",
+        "quote": "But I do mean to say, I have heard her declare, When at the same moment she had on a dress Which cost five hundred dollars, and not a cent less, And jewelry worth ten times more, I should guess, That she had not a thing in the wide world to wear!",
+        "author": {
+            "name": "William Allen Butler",
+            "url": "/quotes/william_allen_butler_190722"
+        },
+        "topics": [
+            {
+                "name": "Dress",
+                "url": "/topics/dress"
+            },
+            {
+                "name": "Hundred",
+                "url": "/topics/hundred"
+            },
+            {
+                "name": "Declare",
+                "url": "/topics/declare"
+            }
+        ]
+    }
+]

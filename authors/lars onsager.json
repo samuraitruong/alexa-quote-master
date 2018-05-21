@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/lars_onsager_739950",
+        "quote": "I have received the greatest honor in my life - and the greatest surprise. Never did I dream that the Nobel Prize could be awarded for the reciprocal relations.",
+        "author": {
+            "name": "Lars Onsager",
+            "url": "/quotes/lars_onsager_739950"
+        },
+        "topics": [
+            {
+                "name": "Surprise",
+                "url": "/topics/surprise"
+            },
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Awarded",
+                "url": "/topics/awarded"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lars_onsager_739951",
+        "quote": "The thermodynamic properties of electrolyte solutions can be determined from the measurements of the voltage between electrodes reversible to both ions.",
+        "author": {
+            "name": "Lars Onsager",
+            "url": "/quotes/lars_onsager_739951"
+        },
+        "topics": [
+            {
+                "name": "Solutions",
+                "url": "/topics/solutions"
+            },
+            {
+                "name": "Determined",
+                "url": "/topics/determined"
+            },
+            {
+                "name": "Both",
+                "url": "/topics/both"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lars_onsager_739952",
+        "quote": "Estimates of the ionic mobilities vary over a considerable range; but in any event, the positive ionic defect is much more mobile in the solid than in the liquid, and its mobility varies very little with the temperature.",
+        "author": {
+            "name": "Lars Onsager",
+            "url": "/quotes/lars_onsager_739952"
+        },
+        "topics": [
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Mobility",
+                "url": "/topics/mobility"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    }
+]

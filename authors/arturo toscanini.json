@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/arturo_toscanini_106318",
+        "quote": "I kissed my first girl and smoked my first cigarette on the same day. I haven't had time for tobacco since.",
+        "author": {
+            "name": "Arturo Toscanini",
+            "url": "/quotes/arturo_toscanini_106318"
+        },
+        "topics": [
+            {
+                "name": "Cigarette",
+                "url": "/topics/cigarette"
+            },
+            {
+                "name": "Smoked",
+                "url": "/topics/smoked"
+            },
+            {
+                "name": "Kissed",
+                "url": "/topics/kissed"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/arturo_toscanini_390601",
+        "quote": "Can't you read? The score demands 'con amore', and what are you doing? You are playing it like married men!",
+        "author": {
+            "name": "Arturo Toscanini",
+            "url": "/quotes/arturo_toscanini_390601"
+        },
+        "topics": [
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Married Men",
+                "url": "/topics/married_men"
+            },
+            {
+                "name": "Read",
+                "url": "/topics/read"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/arturo_toscanini_112264",
+        "quote": "To some it is Napoleon, to some it is a philosophical struggle, to me it is allegro con brio.",
+        "author": {
+            "name": "Arturo Toscanini",
+            "url": "/quotes/arturo_toscanini_112264"
+        },
+        "topics": [
+            {
+                "name": "Con",
+                "url": "/topics/con"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Napoleon",
+                "url": "/topics/napoleon"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/arturo_toscanini_112262",
+        "quote": "God tells me how the music should sound, but you stand in the way.",
+        "author": {
+            "name": "Arturo Toscanini",
+            "url": "/quotes/arturo_toscanini_112262"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "Tells",
+                "url": "/topics/tells"
+            },
+            {
+                "name": "How",
+                "url": "/topics/how"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/arturo_toscanini_401165",
+        "quote": "When I was young, I kissed my first woman and smoked my first cigarette on the same day. Believe me, never since have I wasted any more time on tobacco.",
+        "author": {
+            "name": "Arturo Toscanini",
+            "url": "/quotes/arturo_toscanini_401165"
+        },
+        "topics": [
+            {
+                "name": "Woman",
+                "url": "/topics/woman"
+            },
+            {
+                "name": "Cigarette",
+                "url": "/topics/cigarette"
+            },
+            {
+                "name": "Smoked",
+                "url": "/topics/smoked"
+            }
+        ]
+    }
+]

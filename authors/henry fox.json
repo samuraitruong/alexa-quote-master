@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/henry_fox_193996",
+        "quote": "Touch but a cobweb in Westminster Hall, and the old spider of the law is out upon you with all his vermin at his heels.",
+        "author": {
+            "name": "Henry Fox",
+            "url": "/quotes/henry_fox_193996"
+        },
+        "topics": [
+            {
+                "name": "Law",
+                "url": "/topics/law"
+            },
+            {
+                "name": "Old",
+                "url": "/topics/old"
+            },
+            {
+                "name": "Cobweb",
+                "url": "/topics/cobweb"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henry_fox_193997",
+        "quote": "If Mr. Selwyn calls again, show him up; if I am alive I shall be delighted to see him; and if I am dead he would like to see me.",
+        "author": {
+            "name": "Henry Fox",
+            "url": "/quotes/henry_fox_193997"
+        },
+        "topics": [
+            {
+                "name": "Alive",
+                "url": "/topics/alive"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Mr",
+                "url": "/topics/mr"
+            }
+        ]
+    }
+]

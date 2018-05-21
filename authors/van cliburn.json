@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/van_cliburn_111375",
+        "quote": "I'm not a success, I'm a sensation.",
+        "author": {
+            "name": "Van Cliburn",
+            "url": "/quotes/van_cliburn_111375"
+        },
+        "topics": [
+            {
+                "name": "Success",
+                "url": "/topics/success"
+            },
+            {
+                "name": "Sensation",
+                "url": "/topics/sensation"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/van_cliburn_111376",
+        "quote": "An artist can be truly evaluated only after he is dead. At the very 11th hour, he might do something that will eclipse everything else.",
+        "author": {
+            "name": "Van Cliburn",
+            "url": "/quotes/van_cliburn_111376"
+        },
+        "topics": [
+            {
+                "name": "Artist",
+                "url": "/topics/artist"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    }
+]

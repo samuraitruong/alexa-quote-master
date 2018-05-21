@@ -1,0 +1,134 @@
+[
+    {
+        "url": "/quotes/juan_benet_851497",
+        "quote": "Just because you call something a blockchain or an ICO, that doesn't mean you aren't subject to normal laws.",
+        "author": {
+            "name": "Juan Benet",
+            "url": "/quotes/juan_benet_851497"
+        },
+        "topics": [
+            {
+                "name": "Normal",
+                "url": "/topics/normal"
+            },
+            {
+                "name": "Laws",
+                "url": "/topics/laws"
+            },
+            {
+                "name": "Subject",
+                "url": "/topics/subject"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/juan_benet_851495",
+        "quote": "Filecoin is a decentralized storage market - think of it like Airbnb for cloud storage - where anybody with extra hard drive space can sell it on the network.",
+        "author": {
+            "name": "Juan Benet",
+            "url": "/quotes/juan_benet_851495"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Filecoin",
+                "url": "/topics/filecoin"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/juan_benet_851493",
+        "quote": "The purpose of the Filecoin currency is to create a fungible token that can be spent to hire the miner network to store files. The first and foremost use of the currency is precisely this: locking it up as a reward to miners who successfully store data on the network.",
+        "author": {
+            "name": "Juan Benet",
+            "url": "/quotes/juan_benet_851493"
+        },
+        "topics": [
+            {
+                "name": "Reward",
+                "url": "/topics/reward"
+            },
+            {
+                "name": "Hire",
+                "url": "/topics/hire"
+            },
+            {
+                "name": "Filecoin",
+                "url": "/topics/filecoin"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/juan_benet_851494",
+        "quote": "We do expect there will be some big centralised miners that will have a lots of storage and economies of scale. But there will also be a large cloud of small miners all over the world.",
+        "author": {
+            "name": "Juan Benet",
+            "url": "/quotes/juan_benet_851494"
+        },
+        "topics": [
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/juan_benet_851496",
+        "quote": "Filecoin is a token with fundamental value. Filecoin is like Bitcoin, but miners amass hard drives instead of hashing computers.",
+        "author": {
+            "name": "Juan Benet",
+            "url": "/quotes/juan_benet_851496"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Filecoin",
+                "url": "/topics/filecoin"
+            },
+            {
+                "name": "Fundamental",
+                "url": "/topics/fundamental"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/juan_benet_851498",
+        "quote": "We use content-addressing so content can be decoupled from origin servers and, instead, can be stored permanently. This means content can be stored and served very close to the user, perhaps even from a computer in the same room.",
+        "author": {
+            "name": "Juan Benet",
+            "url": "/quotes/juan_benet_851498"
+        },
+        "topics": [
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Means",
+                "url": "/topics/means"
+            },
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            }
+        ]
+    }
+]

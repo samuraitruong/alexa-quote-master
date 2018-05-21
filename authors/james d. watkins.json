@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/james_d_watkins_112641",
+        "quote": "This is an era of violent peace.",
+        "author": {
+            "name": "James D. Watkins",
+            "url": "/quotes/james_d_watkins_112641"
+        },
+        "topics": [
+            {
+                "name": "Peace",
+                "url": "/topics/peace"
+            },
+            {
+                "name": "Era",
+                "url": "/topics/era"
+            },
+            {
+                "name": "Violent",
+                "url": "/topics/violent"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_d_watkins_177365",
+        "quote": "We must recognize the chief characteristic of the modern era - a permanent state of what I call violent peace.",
+        "author": {
+            "name": "James D. Watkins",
+            "url": "/quotes/james_d_watkins_177365"
+        },
+        "topics": [
+            {
+                "name": "Chief",
+                "url": "/topics/chief"
+            },
+            {
+                "name": "Violent",
+                "url": "/topics/violent"
+            },
+            {
+                "name": "Modern Era",
+                "url": "/topics/modern_era"
+            }
+        ]
+    }
+]

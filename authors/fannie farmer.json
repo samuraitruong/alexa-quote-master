@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/fannie_farmer_207359",
+        "quote": "I certainly feel that the time is not far distant when a knowledge of the principles of diet will be an essential part of one's education. Then mankind will eat to live, be able to do better mental and physical work and disease will be less frequent.",
+        "author": {
+            "name": "Fannie Farmer",
+            "url": "/quotes/fannie_farmer_207359"
+        },
+        "topics": [
+            {
+                "name": "Education",
+                "url": "/topics/education"
+            },
+            {
+                "name": "Essential Part",
+                "url": "/topics/essential_part"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/fannie_farmer_207358",
+        "quote": "Progress in civilization has been accompanied by progress in cookery.",
+        "author": {
+            "name": "Fannie Farmer",
+            "url": "/quotes/fannie_farmer_207358"
+        },
+        "topics": [
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Accompanied",
+                "url": "/topics/accompanied"
+            },
+            {
+                "name": "Cookery",
+                "url": "/topics/cookery"
+            }
+        ]
+    }
+]

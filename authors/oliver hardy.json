@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/oliver_hardy_197526",
+        "quote": "That's another fine mess you've gotten me into.",
+        "author": {
+            "name": "Oliver Hardy",
+            "url": "/quotes/oliver_hardy_197526"
+        },
+        "topics": [
+            {
+                "name": "Fine",
+                "url": "/topics/fine"
+            },
+            {
+                "name": "Gotten",
+                "url": "/topics/gotten"
+            },
+            {
+                "name": "Another",
+                "url": "/topics/another"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/oliver_hardy_197527",
+        "quote": "We never see ourselves as others see us.",
+        "author": {
+            "name": "Oliver Hardy",
+            "url": "/quotes/oliver_hardy_197527"
+        },
+        "topics": [
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "See",
+                "url": "/topics/see"
+            },
+            {
+                "name": "Ourselves",
+                "url": "/topics/ourselves"
+            }
+        ]
+    }
+]

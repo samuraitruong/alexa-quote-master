@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/dazzy_vance_621728",
+        "quote": "Something went wrong with my right arm. I no longer could throw hard, and it hurt like the dickens every time I threw.",
+        "author": {
+            "name": "Dazzy Vance",
+            "url": "/quotes/dazzy_vance_621728"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Threw",
+                "url": "/topics/threw"
+            },
+            {
+                "name": "Right Arm",
+                "url": "/topics/right_arm"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dazzy_vance_621729",
+        "quote": "My arm came back just as quickly as it went sore on me in 1915. I awoke one morning and learned I could throw without pain again.",
+        "author": {
+            "name": "Dazzy Vance",
+            "url": "/quotes/dazzy_vance_621729"
+        },
+        "topics": [
+            {
+                "name": "Pain",
+                "url": "/topics/pain"
+            },
+            {
+                "name": "Learned",
+                "url": "/topics/learned"
+            },
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            }
+        ]
+    }
+]

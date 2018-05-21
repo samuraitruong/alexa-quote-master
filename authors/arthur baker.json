@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/arthur_baker_182698",
+        "quote": "I remember being told 'Someone's gonna make a fortune out of this rap thing' and thinking 'no way'.",
+        "author": {
+            "name": "Arthur Baker",
+            "url": "/quotes/arthur_baker_182698"
+        },
+        "topics": [
+            {
+                "name": "Rap",
+                "url": "/topics/rap"
+            },
+            {
+                "name": "I Remember",
+                "url": "/topics/i_remember"
+            },
+            {
+                "name": "Fortune",
+                "url": "/topics/fortune"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/arthur_baker_182699",
+        "quote": "I can't re-define music every week!",
+        "author": {
+            "name": "Arthur Baker",
+            "url": "/quotes/arthur_baker_182699"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "Week",
+                "url": "/topics/week"
+            },
+            {
+                "name": "Every",
+                "url": "/topics/every"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/edward_elgar_339068",
+        "quote": "English music is white - it evades everything.",
+        "author": {
+            "name": "Edward Elgar",
+            "url": "/quotes/edward_elgar_339068"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "White",
+                "url": "/topics/white"
+            },
+            {
+                "name": "English",
+                "url": "/topics/english"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edward_elgar_161067",
+        "quote": "I always said God was against art and I still believe it.",
+        "author": {
+            "name": "Edward Elgar",
+            "url": "/quotes/edward_elgar_161067"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            }
+        ]
+    }
+]

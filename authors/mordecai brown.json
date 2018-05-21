@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/mordecai_brown_625754",
+        "quote": "I am an only child, and I guess was spoiled by my parents.",
+        "author": {
+            "name": "Mordecai Brown",
+            "url": "/quotes/mordecai_brown_625754"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            },
+            {
+                "name": "Guess",
+                "url": "/topics/guess"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mordecai_brown_625755",
+        "quote": "Dad played with me a great deal, as dads should do, and our chief sport was baseball. He bought me a hardball when I was three years old, and he used to sit in a rocker on the front porch while I sat on the grass in the yard, and we'd play catch by the hour.",
+        "author": {
+            "name": "Mordecai Brown",
+            "url": "/quotes/mordecai_brown_625755"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Deal",
+                "url": "/topics/deal"
+            },
+            {
+                "name": "Rocker",
+                "url": "/topics/rocker"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mordecai_brown_625756",
+        "quote": "I guess I set a world record for errors. I had a pretty good arm, see, but I didn't have much control.",
+        "author": {
+            "name": "Mordecai Brown",
+            "url": "/quotes/mordecai_brown_625756"
+        },
+        "topics": [
+            {
+                "name": "Pretty",
+                "url": "/topics/pretty"
+            },
+            {
+                "name": "Set",
+                "url": "/topics/set"
+            },
+            {
+                "name": "World Record",
+                "url": "/topics/world_record"
+            }
+        ]
+    }
+]

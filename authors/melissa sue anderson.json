@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/melissa_sue_anderson_569422",
+        "quote": "I'm calculating, self-sufficient, reserved, and I enjoy being alone.",
+        "author": {
+            "name": "Melissa Sue Anderson",
+            "url": "/quotes/melissa_sue_anderson_569422"
+        },
+        "topics": [
+            {
+                "name": "Alone",
+                "url": "/topics/alone"
+            },
+            {
+                "name": "Self-Sufficient",
+                "url": "/topics/self-sufficient"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/melissa_sue_anderson_569423",
+        "quote": "I don't want what Shaun Cassidy gets. I am a serious actress.",
+        "author": {
+            "name": "Melissa Sue Anderson",
+            "url": "/quotes/melissa_sue_anderson_569423"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Actress",
+                "url": "/topics/actress"
+            }
+        ]
+    }
+]

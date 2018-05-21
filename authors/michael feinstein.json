@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/michael_feinstein_404324",
+        "quote": "The Gershwin legacy is extraordinary because George Gershwin died in 1937, but his music is as fresh and vital today as when he originally created it.",
+        "author": {
+            "name": "Michael Feinstein",
+            "url": "/quotes/michael_feinstein_404324"
+        },
+        "topics": [
+            {
+                "name": "Legacy",
+                "url": "/topics/legacy"
+            },
+            {
+                "name": "Created",
+                "url": "/topics/created"
+            },
+            {
+                "name": "Originally",
+                "url": "/topics/originally"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/michael_feinstein_404331",
+        "quote": "He's a world-famous name to people who care about his music, but there are many people who have never heard of George Gershwin and those numbers increase.",
+        "author": {
+            "name": "Michael Feinstein",
+            "url": "/quotes/michael_feinstein_404331"
+        },
+        "topics": [
+            {
+                "name": "Numbers",
+                "url": "/topics/numbers"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Many",
+                "url": "/topics/many"
+            }
+        ]
+    }
+]

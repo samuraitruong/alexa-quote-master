@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/david_byrne_324990?src=t_ny_times",
+        "quote": "I read the NY Times but I don't trust all of it.",
+        "author": {
+            "name": "David Byrne",
+            "url": "/authors/david_byrne"
+        },
+        "topics": [
+            {
+                "name": "Trust",
+                "url": "/topics/trust"
+            },
+            {
+                "name": "Times",
+                "url": "/topics/times"
+            },
+            {
+                "name": "Read",
+                "url": "/topics/read"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/christine_tsai_838532?src=t_ny_times",
+        "quote": "I mostly read online - tech/VC blogs. I also enjoy the 'NY Times', 'Atlantic', 'New Yorker'.",
+        "author": {
+            "name": "Christine Tsai",
+            "url": "/authors/christine_tsai"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Mostly",
+                "url": "/topics/mostly"
+            },
+            {
+                "name": "Read",
+                "url": "/topics/read"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_kotsiopoulos_533755?src=t_ny_times",
+        "quote": "I learned everything about fashion during my time at the 'NY Times.'",
+        "author": {
+            "name": "George Kotsiopoulos",
+            "url": "/authors/george_kotsiopoulos"
+        },
+        "topics": [
+            {
+                "name": "Learned",
+                "url": "/topics/learned"
+            },
+            {
+                "name": "My Time",
+                "url": "/topics/my_time"
+            },
+            {
+                "name": "Times",
+                "url": "/topics/times"
+            }
+        ]
+    }
+]

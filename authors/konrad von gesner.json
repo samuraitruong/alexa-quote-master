@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/konrad_von_gesner_234381",
+        "quote": "Best of all is it to preserve everything in a pure, still heart, and let there be for every pulse a thanksgiving, and for every breath a song.",
+        "author": {
+            "name": "Konrad von Gesner",
+            "url": "/quotes/konrad_von_gesner_234381"
+        },
+        "topics": [
+            {
+                "name": "Song",
+                "url": "/topics/song"
+            },
+            {
+                "name": "Thanksgiving",
+                "url": "/topics/thanksgiving"
+            },
+            {
+                "name": "Breath",
+                "url": "/topics/breath"
+            }
+        ]
+    }
+]

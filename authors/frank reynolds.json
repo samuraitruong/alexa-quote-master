@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/frank_reynolds_223995",
+        "quote": "Let's nail it down, let's get it right.",
+        "author": {
+            "name": "Frank Reynolds",
+            "url": "/quotes/frank_reynolds_223995"
+        },
+        "topics": [
+            {
+                "name": "Right",
+                "url": "/topics/right"
+            },
+            {
+                "name": "Nail",
+                "url": "/topics/nail"
+            },
+            {
+                "name": "Get",
+                "url": "/topics/get"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/frank_reynolds_223996",
+        "quote": "I think your program has to reflect what your basic feelings are. I'll plead guilty to that.",
+        "author": {
+            "name": "Frank Reynolds",
+            "url": "/quotes/frank_reynolds_223996"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Reflect",
+                "url": "/topics/reflect"
+            },
+            {
+                "name": "Plead",
+                "url": "/topics/plead"
+            }
+        ]
+    }
+]

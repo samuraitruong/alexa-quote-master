@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/melvil_dewey_207564",
+        "quote": "The librarian must be the librarian militant before he can be the librarian triumphant.",
+        "author": {
+            "name": "Melvil Dewey",
+            "url": "/quotes/melvil_dewey_207564"
+        },
+        "topics": [
+            {
+                "name": "Librarian",
+                "url": "/topics/librarian"
+            },
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            },
+            {
+                "name": "Must",
+                "url": "/topics/must"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/melvil_dewey_207563",
+        "quote": "The eternal conflict of good and the best with bad and the worst is on.",
+        "author": {
+            "name": "Melvil Dewey",
+            "url": "/quotes/melvil_dewey_207563"
+        },
+        "topics": [
+            {
+                "name": "Best",
+                "url": "/topics/best"
+            },
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            },
+            {
+                "name": "Eternal",
+                "url": "/topics/eternal"
+            }
+        ]
+    }
+]

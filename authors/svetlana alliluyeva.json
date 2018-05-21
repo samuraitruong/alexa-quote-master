@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/svetlana_alliluyeva_234338",
+        "quote": "It is human nature that rules the world, not governments and regimes.",
+        "author": {
+            "name": "Svetlana Alliluyeva",
+            "url": "/quotes/svetlana_alliluyeva_234338"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Rules",
+                "url": "/topics/rules"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/svetlana_alliluyeva_387767",
+        "quote": "God grants an easy death only to the just.",
+        "author": {
+            "name": "Svetlana Alliluyeva",
+            "url": "/quotes/svetlana_alliluyeva_387767"
+        },
+        "topics": [
+            {
+                "name": "Death",
+                "url": "/topics/death"
+            },
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            },
+            {
+                "name": "Grants",
+                "url": "/topics/grants"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/svetlana_alliluyeva_390967",
+        "quote": "As a result of half a century of Soviet rule people have been weaned from a belief in human kindness.",
+        "author": {
+            "name": "Svetlana Alliluyeva",
+            "url": "/quotes/svetlana_alliluyeva_390967"
+        },
+        "topics": [
+            {
+                "name": "Half",
+                "url": "/topics/half"
+            },
+            {
+                "name": "Rule",
+                "url": "/topics/rule"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    }
+]

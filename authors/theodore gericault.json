@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/theodore_gericault_323522",
+        "quote": "With the brush we merely tint, while the imagination alone produces colour.",
+        "author": {
+            "name": "Theodore Gericault",
+            "url": "/quotes/theodore_gericault_323522"
+        },
+        "topics": [
+            {
+                "name": "Alone",
+                "url": "/topics/alone"
+            },
+            {
+                "name": "Colour",
+                "url": "/topics/colour"
+            },
+            {
+                "name": "Brush",
+                "url": "/topics/brush"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/theodore_gericault_323521",
+        "quote": "Is it not dangerous to have students study together for years, copying the same models and approximately the same path?",
+        "author": {
+            "name": "Theodore Gericault",
+            "url": "/quotes/theodore_gericault_323521"
+        },
+        "topics": [
+            {
+                "name": "Path",
+                "url": "/topics/path"
+            },
+            {
+                "name": "Study",
+                "url": "/topics/study"
+            },
+            {
+                "name": "Models",
+                "url": "/topics/models"
+            }
+        ]
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/bob_paisley_216671",
+        "quote": "I love the city and the people here. I've been with them for many years and I fought alongside them.",
+        "author": {
+            "name": "Bob Paisley",
+            "url": "/quotes/bob_paisley_216671"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bob_paisley_216672",
+        "quote": "No, but you've got to be here in case something does happen.",
+        "author": {
+            "name": "Bob Paisley",
+            "url": "/quotes/bob_paisley_216672"
+        },
+        "topics": [
+            {
+                "name": "Happen",
+                "url": "/topics/happen"
+            },
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            },
+            {
+                "name": "Does",
+                "url": "/topics/does"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bob_paisley_216673",
+        "quote": "I'd always had an interest in physiotherapy and psychology.",
+        "author": {
+            "name": "Bob Paisley",
+            "url": "/quotes/bob_paisley_216673"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Psychology",
+                "url": "/topics/psychology"
+            },
+            {
+                "name": "Interest",
+                "url": "/topics/interest"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bob_paisley_216674",
+        "quote": "The physio side probably stemmed from the knocks I got as a player.",
+        "author": {
+            "name": "Bob Paisley",
+            "url": "/quotes/bob_paisley_216674"
+        },
+        "topics": [
+            {
+                "name": "Knocks",
+                "url": "/topics/knocks"
+            },
+            {
+                "name": "Side",
+                "url": "/topics/side"
+            },
+            {
+                "name": "Stemmed",
+                "url": "/topics/stemmed"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bob_paisley_216677",
+        "quote": "I can let the team do the talking for me.",
+        "author": {
+            "name": "Bob Paisley",
+            "url": "/quotes/bob_paisley_216677"
+        },
+        "topics": [
+            {
+                "name": "Team",
+                "url": "/topics/team"
+            },
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Talking",
+                "url": "/topics/talking"
+            }
+        ]
+    }
+]

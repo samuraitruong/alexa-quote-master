@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/bob_anderson_190173",
+        "quote": "There's nothing so rewarding as to make people realize they are worthwhile in this world.",
+        "author": {
+            "name": "Bob Anderson",
+            "url": "/quotes/bob_anderson_190173"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            },
+            {
+                "name": "Rewarding",
+                "url": "/topics/rewarding"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bob_anderson_190171",
+        "quote": "You can't always wait for the guys at the top. Every manager at every level in the organization has an opportunity, big or small, to do something. Every manager's got some sphere of autonomy. Don't pass the buck up the line.",
+        "author": {
+            "name": "Bob Anderson",
+            "url": "/quotes/bob_anderson_190171"
+        },
+        "topics": [
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bob_anderson_190172",
+        "quote": "The crowd paid little or no respect to every player out there tonight.",
+        "author": {
+            "name": "Bob Anderson",
+            "url": "/quotes/bob_anderson_190172"
+        },
+        "topics": [
+            {
+                "name": "Crowd",
+                "url": "/topics/crowd"
+            },
+            {
+                "name": "Paid",
+                "url": "/topics/paid"
+            },
+            {
+                "name": "Tonight",
+                "url": "/topics/tonight"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bob_anderson_377822",
+        "quote": "We don't want to miss anybody or slight anybody.",
+        "author": {
+            "name": "Bob Anderson",
+            "url": "/quotes/bob_anderson_377822"
+        },
+        "topics": [
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Slight",
+                "url": "/topics/slight"
+            },
+            {
+                "name": "Anybody",
+                "url": "/topics/anybody"
+            }
+        ]
+    }
+]

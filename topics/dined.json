@@ -1,0 +1,134 @@
+[
+    {
+        "url": "/quotes/virginia_woolf_107352?src=t_dined",
+        "quote": "One cannot think well, love well, sleep well, if one has not dined well.",
+        "author": {
+            "name": "Virginia Woolf",
+            "url": "/authors/virginia_woolf"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Food",
+                "url": "/topics/food"
+            },
+            {
+                "name": "Sleep",
+                "url": "/topics/sleep"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bob_dylan_142073?src=t_dined",
+        "quote": "I have dined with kings, I've been offered wings. And I've never been too impressed.",
+        "author": {
+            "name": "Bob Dylan",
+            "url": "/authors/bob_dylan"
+        },
+        "topics": [
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Offered",
+                "url": "/topics/offered"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_f_kennedy_114950?src=t_dined",
+        "quote": "I think this is the most extraordinary collection of talent, of human knowledge, that has ever been gathered at the White House - with the possible exception of when Thomas Jefferson dined alone.",
+        "author": {
+            "name": "John F. Kennedy",
+            "url": "/authors/john_f_kennedy"
+        },
+        "topics": [
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Exception",
+                "url": "/topics/exception"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edward_lear_195270?src=t_dined",
+        "quote": "They dined on mince, and slices of quince, Which they ate with a runcible spoon; And hand in hand, on the edge of the sand, They danced by the light of the moon.",
+        "author": {
+            "name": "Edward Lear",
+            "url": "/authors/edward_lear"
+        },
+        "topics": [
+            {
+                "name": "Sand",
+                "url": "/topics/sand"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Mince",
+                "url": "/topics/mince"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/max_beerbohm_383856?src=t_dined",
+        "quote": "No Roman ever was able to say, 'I dined last night with the Borgias'.",
+        "author": {
+            "name": "Max Beerbohm",
+            "url": "/authors/max_beerbohm"
+        },
+        "topics": [
+            {
+                "name": "Last",
+                "url": "/topics/last"
+            },
+            {
+                "name": "Last Night",
+                "url": "/topics/last_night"
+            },
+            {
+                "name": "Ever",
+                "url": "/topics/ever"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/anne_robinson_513936?src=t_dined",
+        "quote": "I like one nice man because he gets three tickets for the cinema so we've got somewhere to put our coats. He passes the test. I've been quite surprised because I really didn't expect to be wined and dined, and it's quite nice.",
+        "author": {
+            "name": "Anne Robinson",
+            "url": "/authors/anne_robinson"
+        },
+        "topics": [
+            {
+                "name": "Three",
+                "url": "/topics/three"
+            },
+            {
+                "name": "Tickets",
+                "url": "/topics/tickets"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    }
+]

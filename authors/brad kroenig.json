@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/brad_kroenig_774478",
+        "quote": "I always said, 'If it's over, it's over.' If modeling is over, it's still the best experience of my life.",
+        "author": {
+            "name": "Brad Kroenig",
+            "url": "/quotes/brad_kroenig_774478"
+        },
+        "topics": [
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brad_kroenig_774479",
+        "quote": "Things are always very last minute with fashion, and you always have to be ready and have to be prepared at all times.",
+        "author": {
+            "name": "Brad Kroenig",
+            "url": "/quotes/brad_kroenig_774479"
+        },
+        "topics": [
+            {
+                "name": "Last",
+                "url": "/topics/last"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/jacques_plante_338736",
+        "quote": "Suppose you were working at your job one day, and you made a little mistake. Then all of a sudden a red light went on over your desk, and fifteen thousand people stood up and yelled at you that you sucked?",
+        "author": {
+            "name": "Jacques Plante",
+            "url": "/quotes/jacques_plante_338736"
+        },
+        "topics": [
+            {
+                "name": "One Day",
+                "url": "/topics/one_day"
+            },
+            {
+                "name": "Your",
+                "url": "/topics/your"
+            },
+            {
+                "name": "Stood",
+                "url": "/topics/stood"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jacques_plante_390260",
+        "quote": "How would you like a job where when you made a mistake, a big red light goes on and 18,000 people boo?",
+        "author": {
+            "name": "Jacques Plante",
+            "url": "/quotes/jacques_plante_390260"
+        },
+        "topics": [
+            {
+                "name": "Mistake",
+                "url": "/topics/mistake"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Boo",
+                "url": "/topics/boo"
+            }
+        ]
+    }
+]

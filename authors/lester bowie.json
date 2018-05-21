@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/lester_bowie_222014",
+        "quote": "We're just beginning to learn the importance of music in our society.",
+        "author": {
+            "name": "Lester Bowie",
+            "url": "/quotes/lester_bowie_222014"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "Beginning",
+                "url": "/topics/beginning"
+            },
+            {
+                "name": "Society",
+                "url": "/topics/society"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lester_bowie_221976",
+        "quote": "They always say that jazz doesn't sell, but it's a lie, because it does sell, and it sells consistently year in and year out.",
+        "author": {
+            "name": "Lester Bowie",
+            "url": "/quotes/lester_bowie_221976"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Year",
+                "url": "/topics/year"
+            },
+            {
+                "name": "Sells",
+                "url": "/topics/sells"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lester_bowie_222020",
+        "quote": "The trumpet is forceful.",
+        "author": {
+            "name": "Lester Bowie",
+            "url": "/quotes/lester_bowie_222020"
+        },
+        "topics": [
+            {
+                "name": "Trumpet",
+                "url": "/topics/trumpet"
+            },
+            {
+                "name": "Forceful",
+                "url": "/topics/forceful"
+            }
+        ]
+    }
+]

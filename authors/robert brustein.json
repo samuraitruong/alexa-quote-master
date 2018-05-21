@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/robert_brustein_390369",
+        "quote": "The primary function of a theater is not to please itself, or even to please its audience. It is to serve talent.",
+        "author": {
+            "name": "Robert Brustein",
+            "url": "/quotes/robert_brustein_390369"
+        },
+        "topics": [
+            {
+                "name": "Audience",
+                "url": "/topics/audience"
+            },
+            {
+                "name": "Itself",
+                "url": "/topics/itself"
+            },
+            {
+                "name": "Even",
+                "url": "/topics/even"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_brustein_110914",
+        "quote": "Forty years later, people still swear they can hear his offstage scream.",
+        "author": {
+            "name": "Robert Brustein",
+            "url": "/quotes/robert_brustein_110914"
+        },
+        "topics": [
+            {
+                "name": "Later",
+                "url": "/topics/later"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            }
+        ]
+    }
+]

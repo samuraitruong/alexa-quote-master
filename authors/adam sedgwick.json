@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/adam_sedgwick_195122",
+        "quote": "A cold atheistical materialism is the tendency of the so-called material philosophy of the present day.",
+        "author": {
+            "name": "Adam Sedgwick",
+            "url": "/quotes/adam_sedgwick_195122"
+        },
+        "topics": [
+            {
+                "name": "Cold",
+                "url": "/topics/cold"
+            },
+            {
+                "name": "Materialism",
+                "url": "/topics/materialism"
+            },
+            {
+                "name": "Material",
+                "url": "/topics/material"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/adam_sedgwick_195119",
+        "quote": "As a system of philosophy it is not like the Tower of Babel, so daring its high aim as to seek a shelter against God's anger; but it is like a pyramid poised on its apex.",
+        "author": {
+            "name": "Adam Sedgwick",
+            "url": "/quotes/adam_sedgwick_195119"
+        },
+        "topics": [
+            {
+                "name": "Aim",
+                "url": "/topics/aim"
+            },
+            {
+                "name": "Shelter",
+                "url": "/topics/shelter"
+            },
+            {
+                "name": "Poised",
+                "url": "/topics/poised"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/adam_sedgwick_195121",
+        "quote": "The pretended physical philosophy of modern days strips Man of all his moral attributes, or holds them of no account in the estimate of his origin and place in the created world.",
+        "author": {
+            "name": "Adam Sedgwick",
+            "url": "/quotes/adam_sedgwick_195121"
+        },
+        "topics": [
+            {
+                "name": "Origin",
+                "url": "/topics/origin"
+            },
+            {
+                "name": "Created",
+                "url": "/topics/created"
+            },
+            {
+                "name": "Pretended",
+                "url": "/topics/pretended"
+            }
+        ]
+    }
+]

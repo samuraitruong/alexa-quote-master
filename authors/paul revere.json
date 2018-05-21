@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/paul_revere_689554",
+        "quote": "The British are coming. One if by land, two if by sea.",
+        "author": {
+            "name": "Paul Revere",
+            "url": "/quotes/paul_revere_689554"
+        },
+        "topics": [
+            {
+                "name": "Land",
+                "url": "/topics/land"
+            },
+            {
+                "name": "British",
+                "url": "/topics/british"
+            },
+            {
+                "name": "Two",
+                "url": "/topics/two"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_revere_688162",
+        "quote": "In the Fall of 1774 & Winter of 1775, I was one of upwards of thirty, chiefly mechanics, who formed ourselves into a committee for the purpose of watching the movements of the British soldiers, and gaining every intelligence of the movements of the Tories.",
+        "author": {
+            "name": "Paul Revere",
+            "url": "/quotes/paul_revere_688162"
+        },
+        "topics": [
+            {
+                "name": "Committee",
+                "url": "/topics/committee"
+            },
+            {
+                "name": "Tories",
+                "url": "/topics/tories"
+            },
+            {
+                "name": "Gaining",
+                "url": "/topics/gaining"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_revere_688161",
+        "quote": "In Medford, I awaked the Captain of the Minute Men; & after that, I alarmed almost every house, till I got to Lexington.",
+        "author": {
+            "name": "Paul Revere",
+            "url": "/quotes/paul_revere_688161"
+        },
+        "topics": [
+            {
+                "name": "Captain",
+                "url": "/topics/captain"
+            },
+            {
+                "name": "Almost",
+                "url": "/topics/almost"
+            },
+            {
+                "name": "Till",
+                "url": "/topics/till"
+            }
+        ]
+    }
+]

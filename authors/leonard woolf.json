@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/leonard_woolf_178039",
+        "quote": "The grinding of the intellect is for most people as painful as a dentist's drill.",
+        "author": {
+            "name": "Leonard Woolf",
+            "url": "/quotes/leonard_woolf_178039"
+        },
+        "topics": [
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "Grinding",
+                "url": "/topics/grinding"
+            },
+            {
+                "name": "Intellect",
+                "url": "/topics/intellect"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/leonard_woolf_170305",
+        "quote": "Anyone can be a barbarian; it requires a terrible effort to remain a civilized man.",
+        "author": {
+            "name": "Leonard Woolf",
+            "url": "/quotes/leonard_woolf_170305"
+        },
+        "topics": [
+            {
+                "name": "Civilized",
+                "url": "/topics/civilized"
+            },
+            {
+                "name": "Barbarian",
+                "url": "/topics/barbarian"
+            },
+            {
+                "name": "Anyone",
+                "url": "/topics/anyone"
+            }
+        ]
+    }
+]

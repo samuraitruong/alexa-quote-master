@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/catherine_booth_187234",
+        "quote": "If we are to better the future we must disturb the present.",
+        "author": {
+            "name": "Catherine Booth",
+            "url": "/quotes/catherine_booth_187234"
+        },
+        "topics": [
+            {
+                "name": "Future",
+                "url": "/topics/future"
+            },
+            {
+                "name": "Better",
+                "url": "/topics/better"
+            },
+            {
+                "name": "Disturb",
+                "url": "/topics/disturb"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/catherine_booth_187235",
+        "quote": "We are made for larger ends than Earth can encompass. Oh, let us be true to our exalted destiny.",
+        "author": {
+            "name": "Catherine Booth",
+            "url": "/quotes/catherine_booth_187235"
+        },
+        "topics": [
+            {
+                "name": "Destiny",
+                "url": "/topics/destiny"
+            },
+            {
+                "name": "Larger",
+                "url": "/topics/larger"
+            },
+            {
+                "name": "Encompass",
+                "url": "/topics/encompass"
+            }
+        ]
+    }
+]

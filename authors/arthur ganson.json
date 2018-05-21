@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/arthur_ganson_548415",
+        "quote": "The scientist and the artist are both passionate about their exploration. What leads to my work is that I'm equally an artist and an engineer.",
+        "author": {
+            "name": "Arthur Ganson",
+            "url": "/quotes/arthur_ganson_548415"
+        },
+        "topics": [
+            {
+                "name": "Exploration",
+                "url": "/topics/exploration"
+            },
+            {
+                "name": "Passionate",
+                "url": "/topics/passionate"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/arthur_ganson_548416",
+        "quote": "I guess I'm fascinated with motion because I find that whenever anything is moving, I have some feeling about it. It doesn't matter what kind of motion it is. A motion will always evoke some kind of reaction.",
+        "author": {
+            "name": "Arthur Ganson",
+            "url": "/quotes/arthur_ganson_548416"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Reaction",
+                "url": "/topics/reaction"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/arthur_ganson_548417",
+        "quote": "The impulse for me to want to make sculpture is because I want to make statements, really, on a purely emotional level. And it's also somewhat of a challenge to see how that can be done with materials and objects that really are not emotional, in and of themselves.",
+        "author": {
+            "name": "Arthur Ganson",
+            "url": "/quotes/arthur_ganson_548417"
+        },
+        "topics": [
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Level",
+                "url": "/topics/level"
+            },
+            {
+                "name": "Purely",
+                "url": "/topics/purely"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/arthur_ganson_548418",
+        "quote": "I happen to love engineering. I love figuring things out in a spatial sense, that whole realm of working with mechanical parts, and the relationship of the parts, and things like ratios and the speeds of particular objects.",
+        "author": {
+            "name": "Arthur Ganson",
+            "url": "/quotes/arthur_ganson_548418"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Happen",
+                "url": "/topics/happen"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    }
+]

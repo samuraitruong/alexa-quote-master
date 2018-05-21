@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/hilary_putnam_401443",
+        "quote": "No sane person should believe that something is subjective merely because it cannot be settled beyond controversy.",
+        "author": {
+            "name": "Hilary Putnam",
+            "url": "/quotes/hilary_putnam_401443"
+        },
+        "topics": [
+            {
+                "name": "Person",
+                "url": "/topics/person"
+            },
+            {
+                "name": "Sane",
+                "url": "/topics/sane"
+            },
+            {
+                "name": "Subjective",
+                "url": "/topics/subjective"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/hilary_putnam_227754",
+        "quote": "I think part of the appeal of mathematical logic is that the formulas look mysterious - You write backward Es!",
+        "author": {
+            "name": "Hilary Putnam",
+            "url": "/quotes/hilary_putnam_227754"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Part",
+                "url": "/topics/part"
+            }
+        ]
+    }
+]

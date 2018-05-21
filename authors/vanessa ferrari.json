@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/vanessa_ferrari_426126",
+        "quote": "I'd say I'm quite powerful so I'm not afraid of jumps or acrobatic elements. The hardest part is... get on the beam and stay there on top of it!",
+        "author": {
+            "name": "Vanessa Ferrari",
+            "url": "/quotes/vanessa_ferrari_426126"
+        },
+        "topics": [
+            {
+                "name": "Part",
+                "url": "/topics/part"
+            },
+            {
+                "name": "Beam",
+                "url": "/topics/beam"
+            },
+            {
+                "name": "Jumps",
+                "url": "/topics/jumps"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/vanessa_ferrari_649072",
+        "quote": "The Ferrari is a beautiful car. It's great.",
+        "author": {
+            "name": "Vanessa Ferrari",
+            "url": "/quotes/vanessa_ferrari_649072"
+        },
+        "topics": [
+            {
+                "name": "Beautiful",
+                "url": "/topics/beautiful"
+            },
+            {
+                "name": "Car",
+                "url": "/topics/car"
+            },
+            {
+                "name": "Ferrari",
+                "url": "/topics/ferrari"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/vanessa_ferrari_649073",
+        "quote": "I'd like to go out with friends, but I train twice a day, then I go to school, and at night I go home.",
+        "author": {
+            "name": "Vanessa Ferrari",
+            "url": "/quotes/vanessa_ferrari_649073"
+        },
+        "topics": [
+            {
+                "name": "Night",
+                "url": "/topics/night"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Go Home",
+                "url": "/topics/go_home"
+            }
+        ]
+    }
+]

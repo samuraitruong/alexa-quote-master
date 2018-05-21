@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/al_oerter_185183",
+        "quote": "I don't compete with other discus throwers. I compete with my own history.",
+        "author": {
+            "name": "Al Oerter",
+            "url": "/quotes/al_oerter_185183"
+        },
+        "topics": [
+            {
+                "name": "My Own",
+                "url": "/topics/my_own"
+            },
+            {
+                "name": "Compete",
+                "url": "/topics/compete"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/al_oerter_185181",
+        "quote": "I don't think the discus will ever attract any interest until they let us start throwing them at each other.",
+        "author": {
+            "name": "Al Oerter",
+            "url": "/quotes/al_oerter_185181"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/al_oerter_185182",
+        "quote": "To exercise at or near capacity is the best way I know of reaching a true introspective state. If you do it right, it can open all kinds of inner doors.",
+        "author": {
+            "name": "Al Oerter",
+            "url": "/quotes/al_oerter_185182"
+        },
+        "topics": [
+            {
+                "name": "Best",
+                "url": "/topics/best"
+            },
+            {
+                "name": "Exercise",
+                "url": "/topics/exercise"
+            },
+            {
+                "name": "Best Way",
+                "url": "/topics/best_way"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/al_oerter_185184",
+        "quote": "I never set out to beat the world. I just set out to do my absolute best.",
+        "author": {
+            "name": "Al Oerter",
+            "url": "/quotes/al_oerter_185184"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Set",
+                "url": "/topics/set"
+            }
+        ]
+    }
+]

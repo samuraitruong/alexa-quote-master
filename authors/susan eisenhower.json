@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/susan_eisenhower_621318",
+        "quote": "Scotland really is a spectacularly beautiful country with so much history. I always go to Culzean Castle in Ayrshire.",
+        "author": {
+            "name": "Susan Eisenhower",
+            "url": "/quotes/susan_eisenhower_621318"
+        },
+        "topics": [
+            {
+                "name": "Castle",
+                "url": "/topics/castle"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/susan_eisenhower_621315",
+        "quote": "What makes the Lincoln Memorial so powerful is that it doesn't try to do too much. In effect, it says that he saved the Union.",
+        "author": {
+            "name": "Susan Eisenhower",
+            "url": "/quotes/susan_eisenhower_621315"
+        },
+        "topics": [
+            {
+                "name": "Union",
+                "url": "/topics/union"
+            },
+            {
+                "name": "Saved",
+                "url": "/topics/saved"
+            },
+            {
+                "name": "Makes",
+                "url": "/topics/makes"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/susan_eisenhower_621314",
+        "quote": "If you look at the history of presidential memorials, it takes a long time to get them done.",
+        "author": {
+            "name": "Susan Eisenhower",
+            "url": "/quotes/susan_eisenhower_621314"
+        },
+        "topics": [
+            {
+                "name": "Look",
+                "url": "/topics/look"
+            },
+            {
+                "name": "The History Of",
+                "url": "/topics/the_history_of"
+            },
+            {
+                "name": "Them",
+                "url": "/topics/them"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/susan_eisenhower_621316",
+        "quote": "Every American should have a say in the memorials we choose to build in our nation. Family members have a special responsibility.",
+        "author": {
+            "name": "Susan Eisenhower",
+            "url": "/quotes/susan_eisenhower_621316"
+        },
+        "topics": [
+            {
+                "name": "American",
+                "url": "/topics/american"
+            },
+            {
+                "name": "Say",
+                "url": "/topics/say"
+            },
+            {
+                "name": "Nation",
+                "url": "/topics/nation"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/susan_eisenhower_621317",
+        "quote": "After the Cold War ended, there was an agreement between the former Soviet Union and America to convert weapons-grade nuclear materials into reactor-grade materials. So disarmament and nuclear energy actually are strongly linked.",
+        "author": {
+            "name": "Susan Eisenhower",
+            "url": "/quotes/susan_eisenhower_621317"
+        },
+        "topics": [
+            {
+                "name": "Soviet Union",
+                "url": "/topics/soviet_union"
+            },
+            {
+                "name": "Cold",
+                "url": "/topics/cold"
+            },
+            {
+                "name": "Convert",
+                "url": "/topics/convert"
+            }
+        ]
+    }
+]

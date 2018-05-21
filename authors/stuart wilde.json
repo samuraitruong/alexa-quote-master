@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/stuart_wilde_173478",
+        "quote": "In bad times, the rich usually get richer.",
+        "author": {
+            "name": "Stuart Wilde",
+            "url": "/quotes/stuart_wilde_173478"
+        },
+        "topics": [
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            },
+            {
+                "name": "Get",
+                "url": "/topics/get"
+            },
+            {
+                "name": "Times",
+                "url": "/topics/times"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/stuart_wilde_173477",
+        "quote": "If you don't change, reality in the end forces that change upon you.",
+        "author": {
+            "name": "Stuart Wilde",
+            "url": "/quotes/stuart_wilde_173477"
+        },
+        "topics": [
+            {
+                "name": "Change",
+                "url": "/topics/change"
+            },
+            {
+                "name": "Reality",
+                "url": "/topics/reality"
+            },
+            {
+                "name": "Forces",
+                "url": "/topics/forces"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/stuart_wilde_173479",
+        "quote": "Poverty is restriction and as such, it is the greatest injustice you can perpetrate upon yourself.",
+        "author": {
+            "name": "Stuart Wilde",
+            "url": "/quotes/stuart_wilde_173479"
+        },
+        "topics": [
+            {
+                "name": "Injustice",
+                "url": "/topics/injustice"
+            },
+            {
+                "name": "Restriction",
+                "url": "/topics/restriction"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/stuart_wilde_173480",
+        "quote": "The rich get richer. Not only because they have surpluses with which to invest, but because of the overriding emotional release they experience from having wealth.",
+        "author": {
+            "name": "Stuart Wilde",
+            "url": "/quotes/stuart_wilde_173480"
+        },
+        "topics": [
+            {
+                "name": "Wealth",
+                "url": "/topics/wealth"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Having",
+                "url": "/topics/having"
+            }
+        ]
+    }
+]

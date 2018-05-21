@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/theocritus_185034",
+        "quote": "Now begins a torrent of words and a trickling of sense.",
+        "author": {
+            "name": "Theocritus",
+            "url": "/quotes/theocritus_185034"
+        },
+        "topics": [
+            {
+                "name": "Now",
+                "url": "/topics/now"
+            },
+            {
+                "name": "Begins",
+                "url": "/topics/begins"
+            },
+            {
+                "name": "Torrent",
+                "url": "/topics/torrent"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/theocritus_185035",
+        "quote": "Verily, great grace may go with a little gift; and precious are all things that come from a friend.",
+        "author": {
+            "name": "Theocritus",
+            "url": "/quotes/theocritus_185035"
+        },
+        "topics": [
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Gift",
+                "url": "/topics/gift"
+            },
+            {
+                "name": "Precious",
+                "url": "/topics/precious"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/theocritus_185036",
+        "quote": "Faults are beauties in a lover's eye.",
+        "author": {
+            "name": "Theocritus",
+            "url": "/quotes/theocritus_185036"
+        },
+        "topics": [
+            {
+                "name": "Eye",
+                "url": "/topics/eye"
+            },
+            {
+                "name": "Faults",
+                "url": "/topics/faults"
+            },
+            {
+                "name": "Lover",
+                "url": "/topics/lover"
+            }
+        ]
+    }
+]

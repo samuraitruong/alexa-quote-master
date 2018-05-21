@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/donald_m_payne_202140",
+        "quote": "I'm very partisan, but I'm also very fair.",
+        "author": {
+            "name": "Donald M. Payne",
+            "url": "/quotes/donald_m_payne_202140"
+        },
+        "topics": [
+            {
+                "name": "Partisan",
+                "url": "/topics/partisan"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Also",
+                "url": "/topics/also"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/donald_m_payne_202138",
+        "quote": "I believe in supporting African solutions to African problems.",
+        "author": {
+            "name": "Donald M. Payne",
+            "url": "/quotes/donald_m_payne_202138"
+        },
+        "topics": [
+            {
+                "name": "Believe",
+                "url": "/topics/believe"
+            },
+            {
+                "name": "Solutions",
+                "url": "/topics/solutions"
+            },
+            {
+                "name": "African",
+                "url": "/topics/african"
+            }
+        ]
+    }
+]

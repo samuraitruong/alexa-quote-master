@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/ed_victor_544719",
+        "quote": "The whole purpose of life is to make yourself happy.",
+        "author": {
+            "name": "Ed Victor",
+            "url": "/quotes/ed_victor_544719"
+        },
+        "topics": [
+            {
+                "name": "Happy",
+                "url": "/topics/happy"
+            },
+            {
+                "name": "Purpose",
+                "url": "/topics/purpose"
+            },
+            {
+                "name": "Whole",
+                "url": "/topics/whole"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ed_victor_544720",
+        "quote": "I've always lived a life where people have said, 'Look at him. Who does he think he is?' And who I think I am is someone living life to the brim.",
+        "author": {
+            "name": "Ed Victor",
+            "url": "/quotes/ed_victor_544720"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    }
+]

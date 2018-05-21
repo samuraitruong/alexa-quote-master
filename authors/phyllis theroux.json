@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/phyllis_theroux_106796",
+        "quote": "Mistakes are the usual bridge between inexperience and wisdom.",
+        "author": {
+            "name": "Phyllis Theroux",
+            "url": "/quotes/phyllis_theroux_106796"
+        },
+        "topics": [
+            {
+                "name": "Bridge",
+                "url": "/topics/bridge"
+            },
+            {
+                "name": "Usual",
+                "url": "/topics/usual"
+            },
+            {
+                "name": "Inexperience",
+                "url": "/topics/inexperience"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/phyllis_theroux_108706",
+        "quote": "To send a letter is a good way to go somewhere without moving anything but your heart.",
+        "author": {
+            "name": "Phyllis Theroux",
+            "url": "/quotes/phyllis_theroux_108706"
+        },
+        "topics": [
+            {
+                "name": "Go",
+                "url": "/topics/go"
+            },
+            {
+                "name": "Letter",
+                "url": "/topics/letter"
+            },
+            {
+                "name": "Good Way",
+                "url": "/topics/good_way"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/phyllis_theroux_135031",
+        "quote": "I think this is what hooks one to gardening: it is the closest one can come to being present at creation.",
+        "author": {
+            "name": "Phyllis Theroux",
+            "url": "/quotes/phyllis_theroux_135031"
+        },
+        "topics": [
+            {
+                "name": "Gardening",
+                "url": "/topics/gardening"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    }
+]

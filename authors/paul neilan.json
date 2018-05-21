@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/paul_neilan_678733",
+        "quote": "I hate bananas. I just hate them. But I also think a banana suit is the funniest fruit costume a person can wear.",
+        "author": {
+            "name": "Paul Neilan",
+            "url": "/quotes/paul_neilan_678733"
+        },
+        "topics": [
+            {
+                "name": "Fruit",
+                "url": "/topics/fruit"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Banana",
+                "url": "/topics/banana"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_neilan_678732",
+        "quote": "Anybody can make something up and have it sound believable. The hard part is remembering all the lies you've told, and all the people you've told them to, and then living the lies that have become your life.",
+        "author": {
+            "name": "Paul Neilan",
+            "url": "/quotes/paul_neilan_678732"
+        },
+        "topics": [
+            {
+                "name": "Living",
+                "url": "/topics/living"
+            },
+            {
+                "name": "Sound",
+                "url": "/topics/sound"
+            },
+            {
+                "name": "Anybody",
+                "url": "/topics/anybody"
+            }
+        ]
+    }
+]

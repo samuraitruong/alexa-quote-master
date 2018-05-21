@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/pihla_viitala_665624",
+        "quote": "I play in a band called 'Moi non plus' with some friends.",
+        "author": {
+            "name": "Pihla Viitala",
+            "url": "/quotes/pihla_viitala_665624"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Band",
+                "url": "/topics/band"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/pihla_viitala_665625",
+        "quote": "Tommy Wirkola is Norwegian but has a Finnish surname - he comes from the one of the northernmost countries in the whole of Europe. It was easy working with him. The people in the north are all fairly similar.",
+        "author": {
+            "name": "Pihla Viitala",
+            "url": "/quotes/pihla_viitala_665625"
+        },
+        "topics": [
+            {
+                "name": "Similar",
+                "url": "/topics/similar"
+            },
+            {
+                "name": "North",
+                "url": "/topics/north"
+            },
+            {
+                "name": "Fairly",
+                "url": "/topics/fairly"
+            }
+        ]
+    }
+]

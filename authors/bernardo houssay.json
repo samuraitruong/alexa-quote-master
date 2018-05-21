@@ -1,0 +1,78 @@
+[
+    {
+        "url": "/quotes/bernardo_houssay_717334",
+        "quote": "The nutritive substances used in greatest quantities by mammals are carbohydrates.",
+        "author": {
+            "name": "Bernardo Houssay",
+            "url": "/quotes/bernardo_houssay_717334"
+        },
+        "topics": [
+            {
+                "name": "Carbohydrates",
+                "url": "/topics/carbohydrates"
+            },
+            {
+                "name": "Substances",
+                "url": "/topics/substances"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bernardo_houssay_717335",
+        "quote": "Production and consumption of carbohydrates is so well regulated that there is a constant blood sugar level; any accidental increase or fall in blood sugar is rapidly compensated.",
+        "author": {
+            "name": "Bernardo Houssay",
+            "url": "/quotes/bernardo_houssay_717335"
+        },
+        "topics": [
+            {
+                "name": "Carbohydrates",
+                "url": "/topics/carbohydrates"
+            },
+            {
+                "name": "Constant",
+                "url": "/topics/constant"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bernardo_houssay_717337",
+        "quote": "The production and consumption of glucose, and hence, the blood sugar level, are controlled by a functional endocrine equilibrium.",
+        "author": {
+            "name": "Bernardo Houssay",
+            "url": "/quotes/bernardo_houssay_717337"
+        },
+        "topics": [
+            {
+                "name": "Controlled",
+                "url": "/topics/controlled"
+            },
+            {
+                "name": "Functional",
+                "url": "/topics/functional"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bernardo_houssay_717336",
+        "quote": "The constancy of the blood sugar level is maintained by a complex physiological mechanism, a homeostatic mechanism of the same order as those which maintain the body temperature, the blood pressure or the heart rate at normal levels and control many other functions.",
+        "author": {
+            "name": "Bernardo Houssay",
+            "url": "/quotes/bernardo_houssay_717336"
+        },
+        "topics": [
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Maintain",
+                "url": "/topics/maintain"
+            },
+            {
+                "name": "Functions",
+                "url": "/topics/functions"
+            }
+        ]
+    }
+]

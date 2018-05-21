@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/robert_ryan_221564",
+        "quote": "I sometimes use a lot of light greens and greys when I feel there is sadness in the painting.",
+        "author": {
+            "name": "Robert Ryan",
+            "url": "/quotes/robert_ryan_221564"
+        },
+        "topics": [
+            {
+                "name": "Light",
+                "url": "/topics/light"
+            },
+            {
+                "name": "Painting",
+                "url": "/topics/painting"
+            },
+            {
+                "name": "Lot",
+                "url": "/topics/lot"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_ryan_221565",
+        "quote": "I know intuitively when the work is right, no training can teach you this, it is simply a matter of feeling.",
+        "author": {
+            "name": "Robert Ryan",
+            "url": "/quotes/robert_ryan_221565"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Training",
+                "url": "/topics/training"
+            },
+            {
+                "name": "Teach",
+                "url": "/topics/teach"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_ryan_221566",
+        "quote": "I often concentrate on the eyes and lips, they are great indicators of mood and feeling, and I find that I can project character into my portraits by bringing the viewer's attention to these areas.",
+        "author": {
+            "name": "Robert Ryan",
+            "url": "/quotes/robert_ryan_221566"
+        },
+        "topics": [
+            {
+                "name": "Mood",
+                "url": "/topics/mood"
+            },
+            {
+                "name": "Portraits",
+                "url": "/topics/portraits"
+            },
+            {
+                "name": "Viewer",
+                "url": "/topics/viewer"
+            }
+        ]
+    }
+]

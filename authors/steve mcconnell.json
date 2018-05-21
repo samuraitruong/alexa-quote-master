@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/steve_mcconnell_202617",
+        "quote": "11 years is a long time in this industry.",
+        "author": {
+            "name": "Steve McConnell",
+            "url": "/quotes/steve_mcconnell_202617"
+        },
+        "topics": [
+            {
+                "name": "Time",
+                "url": "/topics/time"
+            },
+            {
+                "name": "Long Time",
+                "url": "/topics/long_time"
+            },
+            {
+                "name": "Industry",
+                "url": "/topics/industry"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/steve_mcconnell_202618",
+        "quote": "95% on content and the computer language remains the same.",
+        "author": {
+            "name": "Steve McConnell",
+            "url": "/quotes/steve_mcconnell_202618"
+        },
+        "topics": [
+            {
+                "name": "Language",
+                "url": "/topics/language"
+            },
+            {
+                "name": "Computer",
+                "url": "/topics/computer"
+            },
+            {
+                "name": "Same",
+                "url": "/topics/same"
+            }
+        ]
+    }
+]

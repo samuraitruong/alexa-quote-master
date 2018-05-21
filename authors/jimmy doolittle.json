@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/jimmy_doolittle_164853",
+        "quote": "The first lesson is that you can't lose a war if you have command of the air, and you can't win a war if you haven't.",
+        "author": {
+            "name": "Jimmy Doolittle",
+            "url": "/quotes/jimmy_doolittle_164853"
+        },
+        "topics": [
+            {
+                "name": "War",
+                "url": "/topics/war"
+            },
+            {
+                "name": "Lose",
+                "url": "/topics/lose"
+            },
+            {
+                "name": "Lesson",
+                "url": "/topics/lesson"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jimmy_doolittle_143498",
+        "quote": "If we should have to fight, we should be prepared to so so from the neck up instead of from the neck down.",
+        "author": {
+            "name": "Jimmy Doolittle",
+            "url": "/quotes/jimmy_doolittle_143498"
+        },
+        "topics": [
+            {
+                "name": "Prepared",
+                "url": "/topics/prepared"
+            },
+            {
+                "name": "Up",
+                "url": "/topics/up"
+            },
+            {
+                "name": "Should",
+                "url": "/topics/should"
+            }
+        ]
+    }
+]

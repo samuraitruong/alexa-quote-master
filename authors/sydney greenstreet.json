@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/sydney_greenstreet_638591",
+        "quote": "The lens is the actor's best critic... showing his mind more clearly than on the stage. You can get wonderful cooperation out of the lens if you are true, but God help you if you are not.",
+        "author": {
+            "name": "Sydney Greenstreet",
+            "url": "/quotes/sydney_greenstreet_638591"
+        },
+        "topics": [
+            {
+                "name": "Best",
+                "url": "/topics/best"
+            },
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sydney_greenstreet_638592",
+        "quote": "Pictures are much harder to do than the theater... You're at the mercy of the camera angles and the piecemeal technique.",
+        "author": {
+            "name": "Sydney Greenstreet",
+            "url": "/quotes/sydney_greenstreet_638592"
+        },
+        "topics": [
+            {
+                "name": "Angles",
+                "url": "/topics/angles"
+            },
+            {
+                "name": "Theater",
+                "url": "/topics/theater"
+            },
+            {
+                "name": "Than",
+                "url": "/topics/than"
+            }
+        ]
+    }
+]

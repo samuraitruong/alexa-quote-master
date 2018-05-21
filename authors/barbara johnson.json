@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/barbara_johnson_173100",
+        "quote": "Patience is the ability to idle your motor when you feel like stripping your gears.",
+        "author": {
+            "name": "Barbara Johnson",
+            "url": "/quotes/barbara_johnson_173100"
+        },
+        "topics": [
+            {
+                "name": "Patience",
+                "url": "/topics/patience"
+            },
+            {
+                "name": "Motor",
+                "url": "/topics/motor"
+            },
+            {
+                "name": "Stripping",
+                "url": "/topics/stripping"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/barbara_johnson_389570",
+        "quote": "Never let a problem to be solved become more important than a person to be loved.",
+        "author": {
+            "name": "Barbara Johnson",
+            "url": "/quotes/barbara_johnson_389570"
+        },
+        "topics": [
+            {
+                "name": "Important",
+                "url": "/topics/important"
+            },
+            {
+                "name": "Problem",
+                "url": "/topics/problem"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/barbara_johnson_269739",
+        "quote": "No one likes change but babies in diapers.",
+        "author": {
+            "name": "Barbara Johnson",
+            "url": "/quotes/barbara_johnson_269739"
+        },
+        "topics": [
+            {
+                "name": "Change",
+                "url": "/topics/change"
+            },
+            {
+                "name": "Diapers",
+                "url": "/topics/diapers"
+            },
+            {
+                "name": "Babies",
+                "url": "/topics/babies"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/barbara_johnson_390731",
+        "quote": "Always remember that better days are ahead - if not in this life, in the next.",
+        "author": {
+            "name": "Barbara Johnson",
+            "url": "/quotes/barbara_johnson_390731"
+        },
+        "topics": [
+            {
+                "name": "Remember",
+                "url": "/topics/remember"
+            },
+            {
+                "name": "Better",
+                "url": "/topics/better"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            }
+        ]
+    }
+]

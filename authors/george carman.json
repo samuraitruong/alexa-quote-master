@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/george_carman_391994",
+        "quote": "Mixed feelings, like mixed drinks, are a confusion to the soul.",
+        "author": {
+            "name": "George Carman",
+            "url": "/quotes/george_carman_391994"
+        },
+        "topics": [
+            {
+                "name": "Soul",
+                "url": "/topics/soul"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Mixed Feelings",
+                "url": "/topics/mixed_feelings"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_carman_387957",
+        "quote": "Exercise caution, as I have advised many people.",
+        "author": {
+            "name": "George Carman",
+            "url": "/quotes/george_carman_387957"
+        },
+        "topics": [
+            {
+                "name": "Exercise",
+                "url": "/topics/exercise"
+            },
+            {
+                "name": "Caution",
+                "url": "/topics/caution"
+            },
+            {
+                "name": "Many",
+                "url": "/topics/many"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_carman_185927",
+        "quote": "He behaved like an ostrich and put his head in the sand, thereby exposing his thinking parts.",
+        "author": {
+            "name": "George Carman",
+            "url": "/quotes/george_carman_185927"
+        },
+        "topics": [
+            {
+                "name": "Sand",
+                "url": "/topics/sand"
+            },
+            {
+                "name": "Head",
+                "url": "/topics/head"
+            },
+            {
+                "name": "Exposing",
+                "url": "/topics/exposing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_carman_387837",
+        "quote": "Law is a very addictive profession.",
+        "author": {
+            "name": "George Carman",
+            "url": "/quotes/george_carman_387837"
+        },
+        "topics": [
+            {
+                "name": "Law",
+                "url": "/topics/law"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Profession",
+                "url": "/topics/profession"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_carman_393252",
+        "quote": "Cancer is a disease where the patient can contribute a great deal of help himself if he or she can retain their morale and their hopes.",
+        "author": {
+            "name": "George Carman",
+            "url": "/quotes/george_carman_393252"
+        },
+        "topics": [
+            {
+                "name": "Deal",
+                "url": "/topics/deal"
+            },
+            {
+                "name": "Disease",
+                "url": "/topics/disease"
+            },
+            {
+                "name": "He Or She",
+                "url": "/topics/he_or_she"
+            }
+        ]
+    }
+]

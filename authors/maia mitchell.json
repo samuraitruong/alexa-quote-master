@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/maia_mitchell_553234",
+        "quote": "It's fun to play dress up for work, but when you have those off-days, it's nice to just be low-key.",
+        "author": {
+            "name": "Maia Mitchell",
+            "url": "/quotes/maia_mitchell_553234"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Dress",
+                "url": "/topics/dress"
+            },
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/maia_mitchell_553233",
+        "quote": "If I'm in work mode and going to meetings, I'll make an effort and dress up, but when I'm at home or just chilling, I'm in beanies and jeans and sneakers.",
+        "author": {
+            "name": "Maia Mitchell",
+            "url": "/quotes/maia_mitchell_553233"
+        },
+        "topics": [
+            {
+                "name": "Dress",
+                "url": "/topics/dress"
+            },
+            {
+                "name": "Sneakers",
+                "url": "/topics/sneakers"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/maia_mitchell_553232",
+        "quote": "I play guitar and write music, and that's definitely a huge part of my life, but it's my personal thing that I have for me.",
+        "author": {
+            "name": "Maia Mitchell",
+            "url": "/quotes/maia_mitchell_553232"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Huge Part",
+                "url": "/topics/huge_part"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/maia_mitchell_553235",
+        "quote": "If I were to explore music, I'd want to just focus on that and make that my priority.",
+        "author": {
+            "name": "Maia Mitchell",
+            "url": "/quotes/maia_mitchell_553235"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "Explore",
+                "url": "/topics/explore"
+            },
+            {
+                "name": "Were",
+                "url": "/topics/were"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/maia_mitchell_553236",
+        "quote": "I'm trying hard to keep my Australian accent. My mom would disown me if I didn't.",
+        "author": {
+            "name": "Maia Mitchell",
+            "url": "/quotes/maia_mitchell_553236"
+        },
+        "topics": [
+            {
+                "name": "Mom",
+                "url": "/topics/mom"
+            },
+            {
+                "name": "Australian",
+                "url": "/topics/australian"
+            },
+            {
+                "name": "Accent",
+                "url": "/topics/accent"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/alice_koller_127423",
+        "quote": "Being solitary is being alone well: being alone luxuriously immersed in doings of your own choice, aware of the fullness of your won presence rather than of the absence of others. Because solitude is an achievement.",
+        "author": {
+            "name": "Alice Koller",
+            "url": "/quotes/alice_koller_127423"
+        },
+        "topics": [
+            {
+                "name": "Achievement",
+                "url": "/topics/achievement"
+            },
+            {
+                "name": "Absence",
+                "url": "/topics/absence"
+            },
+            {
+                "name": "Rather",
+                "url": "/topics/rather"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alice_koller_133155",
+        "quote": "It takes a long time to learn that a courtroom is the last place in the world for learning the truth.",
+        "author": {
+            "name": "Alice Koller",
+            "url": "/quotes/alice_koller_133155"
+        },
+        "topics": [
+            {
+                "name": "Truth",
+                "url": "/topics/truth"
+            },
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Long Time",
+                "url": "/topics/long_time"
+            }
+        ]
+    }
+]

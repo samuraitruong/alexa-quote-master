@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/dennis_gabor_108053",
+        "quote": "The most important and urgent problems of the technology of today are no longer the satisfactions of the primary needs or of archetypal wishes, but the reparation of the evils and damages by the technology of yesterday.",
+        "author": {
+            "name": "Dennis Gabor",
+            "url": "/quotes/dennis_gabor_108053"
+        },
+        "topics": [
+            {
+                "name": "Technology",
+                "url": "/topics/technology"
+            },
+            {
+                "name": "Needs",
+                "url": "/topics/needs"
+            },
+            {
+                "name": "Damages",
+                "url": "/topics/damages"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dennis_gabor_107282",
+        "quote": "Poetry is plucking at the heartstrings, and making music with them.",
+        "author": {
+            "name": "Dennis Gabor",
+            "url": "/quotes/dennis_gabor_107282"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "Poetry",
+                "url": "/topics/poetry"
+            },
+            {
+                "name": "Making",
+                "url": "/topics/making"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dennis_gabor_104976",
+        "quote": "Till now man has been up against Nature; from now on he will be up against his own nature.",
+        "author": {
+            "name": "Dennis Gabor",
+            "url": "/quotes/dennis_gabor_104976"
+        },
+        "topics": [
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            },
+            {
+                "name": "Till",
+                "url": "/topics/till"
+            }
+        ]
+    }
+]

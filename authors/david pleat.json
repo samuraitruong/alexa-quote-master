@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/david_pleat_140410",
+        "quote": "We are now in the middle of the centre of the first half.",
+        "author": {
+            "name": "David Pleat",
+            "url": "/quotes/david_pleat_140410"
+        },
+        "topics": [
+            {
+                "name": "Half",
+                "url": "/topics/half"
+            },
+            {
+                "name": "Now",
+                "url": "/topics/now"
+            },
+            {
+                "name": "Middle",
+                "url": "/topics/middle"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_pleat_140412",
+        "quote": "A game is not won until it is lost.",
+        "author": {
+            "name": "David Pleat",
+            "url": "/quotes/david_pleat_140412"
+        },
+        "topics": [
+            {
+                "name": "Game",
+                "url": "/topics/game"
+            },
+            {
+                "name": "Lost",
+                "url": "/topics/lost"
+            },
+            {
+                "name": "Won",
+                "url": "/topics/won"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_pleat_507678",
+        "quote": "I've enjoyed my time in the game, whether it be managing Luton in the top flight, taking Spurs to Wembley or, as director of football, pinpointing players such as Jermain Defoe, Paul Robinson and Robbie Keane with real sell-on value.",
+        "author": {
+            "name": "David Pleat",
+            "url": "/quotes/david_pleat_507678"
+        },
+        "topics": [
+            {
+                "name": "Game",
+                "url": "/topics/game"
+            },
+            {
+                "name": "Top",
+                "url": "/topics/top"
+            },
+            {
+                "name": "Flight",
+                "url": "/topics/flight"
+            }
+        ]
+    }
+]

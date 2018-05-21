@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/david_low_115505",
+        "quote": "Here lies a nuisance dedicated to sanity.",
+        "author": {
+            "name": "David Low",
+            "url": "/quotes/david_low_115505"
+        },
+        "topics": [
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            },
+            {
+                "name": "Dedicated",
+                "url": "/topics/dedicated"
+            },
+            {
+                "name": "Lies",
+                "url": "/topics/lies"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_low_396250",
+        "quote": "Churchill was one of the few men I have met who even in the flesh give me the impression of genius. George Bernard Shaw is another. It is amusing to know that each thinks the other is overrated.",
+        "author": {
+            "name": "David Low",
+            "url": "/quotes/david_low_396250"
+        },
+        "topics": [
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Bernard",
+                "url": "/topics/bernard"
+            },
+            {
+                "name": "Another",
+                "url": "/topics/another"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_low_389303",
+        "quote": "Making a cartoon occupied usually about three full days, two spent in labour and one in removing the appearance of labour.",
+        "author": {
+            "name": "David Low",
+            "url": "/quotes/david_low_389303"
+        },
+        "topics": [
+            {
+                "name": "Cartoon",
+                "url": "/topics/cartoon"
+            },
+            {
+                "name": "Making",
+                "url": "/topics/making"
+            },
+            {
+                "name": "Spent",
+                "url": "/topics/spent"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_low_396242",
+        "quote": "Some critics of my work took the view that a satirist should defer to the finer feelings of his readers and respect widely held beliefs.",
+        "author": {
+            "name": "David Low",
+            "url": "/quotes/david_low_396242"
+        },
+        "topics": [
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Took",
+                "url": "/topics/took"
+            },
+            {
+                "name": "Defer",
+                "url": "/topics/defer"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/beverly_jones_173593",
+        "quote": "Romance, like the rabbit at the dog track, is the elusive, fake, and never attained reward which, for the benefit and amusement of our masters, keeps us running and thinking in safe circles.",
+        "author": {
+            "name": "Beverly Jones",
+            "url": "/quotes/beverly_jones_173593"
+        },
+        "topics": [
+            {
+                "name": "Reward",
+                "url": "/topics/reward"
+            },
+            {
+                "name": "Romance",
+                "url": "/topics/romance"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/beverly_jones_164922",
+        "quote": "Now, as always, the most automated appliance in a household is the mother.",
+        "author": {
+            "name": "Beverly Jones",
+            "url": "/quotes/beverly_jones_164922"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "Appliance",
+                "url": "/topics/appliance"
+            }
+        ]
+    }
+]

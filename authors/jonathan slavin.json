@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/jonathan_slavin_620737",
+        "quote": "I love kids, but I have to be honest: I am that person at a dinner party who's a little relieved when the kids go to bed.",
+        "author": {
+            "name": "Jonathan Slavin",
+            "url": "/quotes/jonathan_slavin_620737"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Bed",
+                "url": "/topics/bed"
+            },
+            {
+                "name": "Dinner Party",
+                "url": "/topics/dinner_party"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jonathan_slavin_658508",
+        "quote": "I think that smart is sexy, and driven is sexy, and passion is sexy, and if you're passionate about math, so be it.",
+        "author": {
+            "name": "Jonathan Slavin",
+            "url": "/quotes/jonathan_slavin_658508"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Passionate",
+                "url": "/topics/passionate"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    }
+]

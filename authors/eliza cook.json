@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/eliza_cook_392458",
+        "quote": "Why should we strive, with cynic frown, to knock their fairy castles down?",
+        "author": {
+            "name": "Eliza Cook",
+            "url": "/quotes/eliza_cook_392458"
+        },
+        "topics": [
+            {
+                "name": "Castles",
+                "url": "/topics/castles"
+            },
+            {
+                "name": "Strive",
+                "url": "/topics/strive"
+            },
+            {
+                "name": "Knock",
+                "url": "/topics/knock"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eliza_cook_389608",
+        "quote": "How cruelly sweet are the echoes that start, When memory plays an old tune on the heart.",
+        "author": {
+            "name": "Eliza Cook",
+            "url": "/quotes/eliza_cook_389608"
+        },
+        "topics": [
+            {
+                "name": "Memory",
+                "url": "/topics/memory"
+            },
+            {
+                "name": "How",
+                "url": "/topics/how"
+            },
+            {
+                "name": "Plays",
+                "url": "/topics/plays"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eliza_cook_138339",
+        "quote": "There's a magical tie to the land of our home, which the heart cannot break, though the footsteps may roam.",
+        "author": {
+            "name": "Eliza Cook",
+            "url": "/quotes/eliza_cook_138339"
+        },
+        "topics": [
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Though",
+                "url": "/topics/though"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eliza_cook_392125",
+        "quote": "Though language forms the preacher, 'Tis good works make the man.",
+        "author": {
+            "name": "Eliza Cook",
+            "url": "/quotes/eliza_cook_392125"
+        },
+        "topics": [
+            {
+                "name": "Works",
+                "url": "/topics/works"
+            },
+            {
+                "name": "Though",
+                "url": "/topics/though"
+            },
+            {
+                "name": "Good Works",
+                "url": "/topics/good_works"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eliza_cook_139291",
+        "quote": "Who would not rather trust and be deceived?",
+        "author": {
+            "name": "Eliza Cook",
+            "url": "/quotes/eliza_cook_139291"
+        },
+        "topics": [
+            {
+                "name": "Trust",
+                "url": "/topics/trust"
+            },
+            {
+                "name": "Deceived",
+                "url": "/topics/deceived"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            }
+        ]
+    }
+]

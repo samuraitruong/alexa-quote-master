@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/joe_adcock_104230",
+        "quote": "Trying to sneak a fastball past Hank Aaron is like trying to sneak the sunrise past a rooster.",
+        "author": {
+            "name": "Joe Adcock",
+            "url": "/quotes/joe_adcock_104230"
+        },
+        "topics": [
+            {
+                "name": "Sports",
+                "url": "/topics/sports"
+            },
+            {
+                "name": "Sunrise",
+                "url": "/topics/sunrise"
+            },
+            {
+                "name": "Rooster",
+                "url": "/topics/rooster"
+            }
+        ]
+    }
+]

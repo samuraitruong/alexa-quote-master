@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/d_elton_trueblood_130096",
+        "quote": "Faith is not belief without proof, but trust without reservation.",
+        "author": {
+            "name": "D. Elton Trueblood",
+            "url": "/quotes/d_elton_trueblood_130096"
+        },
+        "topics": [
+            {
+                "name": "Faith",
+                "url": "/topics/faith"
+            },
+            {
+                "name": "Trust",
+                "url": "/topics/trust"
+            },
+            {
+                "name": "Reservation",
+                "url": "/topics/reservation"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/d_elton_trueblood_163395",
+        "quote": "A man has made at least a start on discovering the meaning of human life when he plants shade trees under which he knows full well he will never sit.",
+        "author": {
+            "name": "D. Elton Trueblood",
+            "url": "/quotes/d_elton_trueblood_163395"
+        },
+        "topics": [
+            {
+                "name": "Gardening",
+                "url": "/topics/gardening"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/d_elton_trueblood_127305",
+        "quote": "The world is equally shocked at hearing Christianity criticized and seeing it practiced.",
+        "author": {
+            "name": "D. Elton Trueblood",
+            "url": "/quotes/d_elton_trueblood_127305"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Seeing",
+                "url": "/topics/seeing"
+            },
+            {
+                "name": "Equally",
+                "url": "/topics/equally"
+            }
+        ]
+    }
+]

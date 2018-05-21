@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/alfred_m_gray_113647",
+        "quote": "I go where the sound of thunder is.",
+        "author": {
+            "name": "Alfred M. Gray",
+            "url": "/quotes/alfred_m_gray_113647"
+        },
+        "topics": [
+            {
+                "name": "Sound",
+                "url": "/topics/sound"
+            },
+            {
+                "name": "Veterans Day",
+                "url": "/topics/veteransday"
+            },
+            {
+                "name": "Go",
+                "url": "/topics/go"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alfred_m_gray_113646",
+        "quote": "There's no such thing as a crowded battlefield. Battlefields are lonely places.",
+        "author": {
+            "name": "Alfred M. Gray",
+            "url": "/quotes/alfred_m_gray_113646"
+        },
+        "topics": [
+            {
+                "name": "Places",
+                "url": "/topics/places"
+            },
+            {
+                "name": "Battlefield",
+                "url": "/topics/battlefield"
+            },
+            {
+                "name": "Crowded",
+                "url": "/topics/crowded"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alfred_m_gray_113648",
+        "quote": "I don't run democracy. I train troops to defend democracy and I happen to be their surrogate father and mother as well as their commanding general.",
+        "author": {
+            "name": "Alfred M. Gray",
+            "url": "/quotes/alfred_m_gray_113648"
+        },
+        "topics": [
+            {
+                "name": "Father",
+                "url": "/topics/father"
+            },
+            {
+                "name": "Run",
+                "url": "/topics/run"
+            },
+            {
+                "name": "Happen",
+                "url": "/topics/happen"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/william_beebe_221836",
+        "quote": "The longer we were in it, the smaller it seemed to get.",
+        "author": {
+            "name": "William Beebe",
+            "url": "/quotes/william_beebe_221836"
+        },
+        "topics": [
+            {
+                "name": "Longer",
+                "url": "/topics/longer"
+            },
+            {
+                "name": "Smaller",
+                "url": "/topics/smaller"
+            },
+            {
+                "name": "Seemed",
+                "url": "/topics/seemed"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_beebe_564204",
+        "quote": "To be a naturalist is better than to be a king.",
+        "author": {
+            "name": "William Beebe",
+            "url": "/quotes/william_beebe_564204"
+        },
+        "topics": [
+            {
+                "name": "King",
+                "url": "/topics/king"
+            },
+            {
+                "name": "Better",
+                "url": "/topics/better"
+            },
+            {
+                "name": "Naturalist",
+                "url": "/topics/naturalist"
+            }
+        ]
+    }
+]

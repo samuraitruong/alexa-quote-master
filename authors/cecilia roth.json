@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/cecilia_roth_631554",
+        "quote": "I just love to take pictures.",
+        "author": {
+            "name": "Cecilia Roth",
+            "url": "/quotes/cecilia_roth_631554"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Just",
+                "url": "/topics/just"
+            },
+            {
+                "name": "Take",
+                "url": "/topics/take"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/cecilia_roth_631555",
+        "quote": "Through acting and film, I felt that my life had a sense to it. I felt I had a mission.",
+        "author": {
+            "name": "Cecilia Roth",
+            "url": "/quotes/cecilia_roth_631555"
+        },
+        "topics": [
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Mission",
+                "url": "/topics/mission"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            }
+        ]
+    }
+]

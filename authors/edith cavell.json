@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/edith_cavell_234330",
+        "quote": "I realize that patriotism is not enough. I must have no hatred or bitterness towards anyone.",
+        "author": {
+            "name": "Edith Cavell",
+            "url": "/quotes/edith_cavell_234330"
+        },
+        "topics": [
+            {
+                "name": "Patriotism",
+                "url": "/topics/patriotism"
+            },
+            {
+                "name": "Hatred",
+                "url": "/topics/hatred"
+            },
+            {
+                "name": "Anyone",
+                "url": "/topics/anyone"
+            }
+        ]
+    }
+]

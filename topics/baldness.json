@@ -1,0 +1,134 @@
+[
+    {
+        "url": "/quotes/don_herold_152381?src=t_baldness",
+        "quote": "There's one thing about baldness, it's neat.",
+        "author": {
+            "name": "Don Herold",
+            "url": "/authors/don_herold"
+        },
+        "topics": [
+            {
+                "name": "Funny",
+                "url": "/topics/funny"
+            },
+            {
+                "name": "One Thing",
+                "url": "/topics/one_thing"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/matthew_arnold_148708?src=t_baldness",
+        "quote": "Bald as the bare mountain tops are bald, with a baldness full of grandeur.",
+        "author": {
+            "name": "Matthew Arnold",
+            "url": "/authors/matthew_arnold"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "Mountain",
+                "url": "/topics/mountain"
+            },
+            {
+                "name": "Grandeur",
+                "url": "/topics/grandeur"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marcus_tullius_cicero_103857?src=t_baldness",
+        "quote": "It is foolish to tear one's hair in grief, as though sorrow would be made less by baldness.",
+        "author": {
+            "name": "Marcus Tullius Cicero",
+            "url": "/authors/marcus_tullius_cicero"
+        },
+        "topics": [
+            {
+                "name": "Hair",
+                "url": "/topics/hair"
+            },
+            {
+                "name": "Sympathy",
+                "url": "/topics/sympathy"
+            },
+            {
+                "name": "Tear",
+                "url": "/topics/tear"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/logan_pearsall_smith_155548?src=t_baldness",
+        "quote": "There is more felicity on the far side of baldness than young men can possibly imagine.",
+        "author": {
+            "name": "Logan Pearsall Smith",
+            "url": "/authors/logan_pearsall_smith"
+        },
+        "topics": [
+            {
+                "name": "Young",
+                "url": "/topics/young"
+            },
+            {
+                "name": "Imagine",
+                "url": "/topics/imagine"
+            },
+            {
+                "name": "Side",
+                "url": "/topics/side"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/pauline_kael_114810?src=t_baldness",
+        "quote": "This movie is a toupee made up to look like honest baldness.",
+        "author": {
+            "name": "Pauline Kael",
+            "url": "/authors/pauline_kael"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Made",
+                "url": "/topics/made"
+            },
+            {
+                "name": "Movie",
+                "url": "/topics/movie"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/johnny_vegas_377559?src=t_baldness",
+        "quote": "Baldness is visually enough of a stigma as it is without a big sweaty bloke on stage pointing it out.",
+        "author": {
+            "name": "Johnny Vegas",
+            "url": "/authors/johnny_vegas"
+        },
+        "topics": [
+            {
+                "name": "Stage",
+                "url": "/topics/stage"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Stigma",
+                "url": "/topics/stigma"
+            }
+        ]
+    }
+]

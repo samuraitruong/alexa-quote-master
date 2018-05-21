@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/amy_chow_651333",
+        "quote": "It is fine to be all focused on gymnastics if that is what you want to do, but once you are finished with gymnastics, what are you going to do?",
+        "author": {
+            "name": "Amy Chow",
+            "url": "/quotes/amy_chow_651333"
+        },
+        "topics": [
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Fine",
+                "url": "/topics/fine"
+            },
+            {
+                "name": "Once",
+                "url": "/topics/once"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/amy_chow_651334",
+        "quote": "When I compete, I tell myself to be calm. It's not something that's the rest of your life. You're in gymnastics for fun.",
+        "author": {
+            "name": "Amy Chow",
+            "url": "/quotes/amy_chow_651334"
+        },
+        "topics": [
+            {
+                "name": "Rest",
+                "url": "/topics/rest"
+            },
+            {
+                "name": "Tell",
+                "url": "/topics/tell"
+            },
+            {
+                "name": "Compete",
+                "url": "/topics/compete"
+            }
+        ]
+    }
+]

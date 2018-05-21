@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/john_petitsenn_159524",
+        "quote": "True courage is like a kite; a contrary wind raises it higher.",
+        "author": {
+            "name": "John Petit-Senn",
+            "url": "/quotes/john_petitsenn_159524"
+        },
+        "topics": [
+            {
+                "name": "True",
+                "url": "/topics/true"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Raises",
+                "url": "/topics/raises"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_petitsenn_101782",
+        "quote": "Where talent is a dwarf, self-esteem is a giant.",
+        "author": {
+            "name": "John Petit-Senn",
+            "url": "/quotes/john_petitsenn_101782"
+        },
+        "topics": [
+            {
+                "name": "Talent",
+                "url": "/topics/talent"
+            },
+            {
+                "name": "Self-Esteem",
+                "url": "/topics/self-esteem"
+            },
+            {
+                "name": "Giant",
+                "url": "/topics/giant"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_petitsenn_159525",
+        "quote": "Let us believe neither half of the good people tell us of ourselves, nor half the evil they say of others.",
+        "author": {
+            "name": "John Petit-Senn",
+            "url": "/quotes/john_petitsenn_159525"
+        },
+        "topics": [
+            {
+                "name": "Say",
+                "url": "/topics/say"
+            },
+            {
+                "name": "Half",
+                "url": "/topics/half"
+            },
+            {
+                "name": "Tell",
+                "url": "/topics/tell"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_petitsenn_159526",
+        "quote": "We tire of those pleasures we take, but never of those we give.",
+        "author": {
+            "name": "John Petit-Senn",
+            "url": "/quotes/john_petitsenn_159526"
+        },
+        "topics": [
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Take",
+                "url": "/topics/take"
+            },
+            {
+                "name": "Pleasures",
+                "url": "/topics/pleasures"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/david_hartman_234200",
+        "quote": "Deficits. Most people of knowledge say it's the biggest single problem facing the economic free world.",
+        "author": {
+            "name": "David Hartman",
+            "url": "/quotes/david_hartman_234200"
+        },
+        "topics": [
+            {
+                "name": "Say",
+                "url": "/topics/say"
+            },
+            {
+                "name": "Facing",
+                "url": "/topics/facing"
+            },
+            {
+                "name": "Deficits",
+                "url": "/topics/deficits"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_hartman_400546",
+        "quote": "Kids are capable of handling a lot more than you think if you are willing to commit some time.",
+        "author": {
+            "name": "David Hartman",
+            "url": "/quotes/david_hartman_400546"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    }
+]

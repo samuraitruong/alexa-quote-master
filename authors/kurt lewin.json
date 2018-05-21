@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/kurt_lewin_178365",
+        "quote": "A successful individual typically sets his next goal somewhat but not too much above his last achievement. In this way he steadily raises his level of aspiration.",
+        "author": {
+            "name": "Kurt Lewin",
+            "url": "/quotes/kurt_lewin_178365"
+        },
+        "topics": [
+            {
+                "name": "Goal",
+                "url": "/topics/goal"
+            },
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            },
+            {
+                "name": "Individual",
+                "url": "/topics/individual"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kurt_lewin_170747",
+        "quote": "If you want to truly understand something, try to change it.",
+        "author": {
+            "name": "Kurt Lewin",
+            "url": "/quotes/kurt_lewin_170747"
+        },
+        "topics": [
+            {
+                "name": "Change",
+                "url": "/topics/change"
+            },
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Understand",
+                "url": "/topics/understand"
+            }
+        ]
+    }
+]

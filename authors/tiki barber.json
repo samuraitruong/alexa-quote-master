@@ -1,0 +1,134 @@
+[
+    {
+        "url": "/quotes/tiki_barber_428962",
+        "quote": "I grew up playing sports. There is a clear line between success and failure.",
+        "author": {
+            "name": "Tiki Barber",
+            "url": "/quotes/tiki_barber_428962"
+        },
+        "topics": [
+            {
+                "name": "Success",
+                "url": "/topics/success"
+            },
+            {
+                "name": "Sports",
+                "url": "/topics/sports"
+            },
+            {
+                "name": "Line",
+                "url": "/topics/line"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tiki_barber_428959",
+        "quote": "I have a need to do something and know I can be successful.",
+        "author": {
+            "name": "Tiki Barber",
+            "url": "/quotes/tiki_barber_428959"
+        },
+        "topics": [
+            {
+                "name": "Know",
+                "url": "/topics/know"
+            },
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            },
+            {
+                "name": "Something",
+                "url": "/topics/something"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tiki_barber_404372",
+        "quote": "If you run the ball, you control the clock. If you control the clock, you usually control the game.",
+        "author": {
+            "name": "Tiki Barber",
+            "url": "/quotes/tiki_barber_404372"
+        },
+        "topics": [
+            {
+                "name": "Run",
+                "url": "/topics/run"
+            },
+            {
+                "name": "Game",
+                "url": "/topics/game"
+            },
+            {
+                "name": "Ball",
+                "url": "/topics/ball"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tiki_barber_428961",
+        "quote": "You get held to a high standard, almost an unmaintainable standard, in the public eye that you don't even come close to touching.",
+        "author": {
+            "name": "Tiki Barber",
+            "url": "/quotes/tiki_barber_428961"
+        },
+        "topics": [
+            {
+                "name": "Standard",
+                "url": "/topics/standard"
+            },
+            {
+                "name": "Almost",
+                "url": "/topics/almost"
+            },
+            {
+                "name": "Held",
+                "url": "/topics/held"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tiki_barber_404463",
+        "quote": "Rushing the ball is all about ball control. If you run the ball, you control the clock. If you control the clock, you usually control the game.",
+        "author": {
+            "name": "Tiki Barber",
+            "url": "/quotes/tiki_barber_404463"
+        },
+        "topics": [
+            {
+                "name": "Game",
+                "url": "/topics/game"
+            },
+            {
+                "name": "Ball",
+                "url": "/topics/ball"
+            },
+            {
+                "name": "Rushing",
+                "url": "/topics/rushing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tiki_barber_428960",
+        "quote": "People go through life and make personal decisions and sometimes they don't work out. I won't be the first person to be divorced.",
+        "author": {
+            "name": "Tiki Barber",
+            "url": "/quotes/tiki_barber_428960"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Sometimes",
+                "url": "/topics/sometimes"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            }
+        ]
+    }
+]

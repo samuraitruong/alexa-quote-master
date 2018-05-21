@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/howell_raines_185689",
+        "quote": "I stepped on a land mine named Jayson Blair.",
+        "author": {
+            "name": "Howell Raines",
+            "url": "/quotes/howell_raines_185689"
+        },
+        "topics": [
+            {
+                "name": "Mine",
+                "url": "/topics/mine"
+            },
+            {
+                "name": "Stepped",
+                "url": "/topics/stepped"
+            },
+            {
+                "name": "Named",
+                "url": "/topics/named"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/howell_raines_394565",
+        "quote": "Frankly, no newspaper is set up to monitor for cheats and fabricators.",
+        "author": {
+            "name": "Howell Raines",
+            "url": "/quotes/howell_raines_394565"
+        },
+        "topics": [
+            {
+                "name": "Newspaper",
+                "url": "/topics/newspaper"
+            },
+            {
+                "name": "Frankly",
+                "url": "/topics/frankly"
+            },
+            {
+                "name": "Set",
+                "url": "/topics/set"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/howell_raines_504793",
+        "quote": "Something is clearly wrong with Kansas and the rest of Middle America when it comes to letting economic self-interest guide their voting.",
+        "author": {
+            "name": "Howell Raines",
+            "url": "/quotes/howell_raines_504793"
+        },
+        "topics": [
+            {
+                "name": "Voting",
+                "url": "/topics/voting"
+            },
+            {
+                "name": "Rest",
+                "url": "/topics/rest"
+            },
+            {
+                "name": "Middle",
+                "url": "/topics/middle"
+            }
+        ]
+    }
+]

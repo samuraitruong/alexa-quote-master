@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/hans_berger_224108",
+        "quote": "In Germany I am not so famous.",
+        "author": {
+            "name": "Hans Berger",
+            "url": "/quotes/hans_berger_224108"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Famous",
+                "url": "/topics/famous"
+            },
+            {
+                "name": "Germany",
+                "url": "/topics/germany"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/hans_berger_224109",
+        "quote": "The electroencephalogram represents a continuous curve with continuous oscillations in which... one can distinguish larger first order waves with an average duration of 90 milliseconds and smaller second order waves of an average duration of 35 milliseconds.",
+        "author": {
+            "name": "Hans Berger",
+            "url": "/quotes/hans_berger_224109"
+        },
+        "topics": [
+            {
+                "name": "Waves",
+                "url": "/topics/waves"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Larger",
+                "url": "/topics/larger"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/hans_berger_224110",
+        "quote": "We see in the electroencephalogram a concomitant phenomenon of the continuous nerve processes which take place in the brain, exactly as the electrocardiogram represents a concomitant phenomenon of the contractions of the individual segments of the heart.",
+        "author": {
+            "name": "Hans Berger",
+            "url": "/quotes/hans_berger_224110"
+        },
+        "topics": [
+            {
+                "name": "Individual",
+                "url": "/topics/individual"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Processes",
+                "url": "/topics/processes"
+            }
+        ]
+    }
+]

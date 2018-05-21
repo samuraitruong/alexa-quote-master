@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/jon_carroll_190274",
+        "quote": "When the going gets tough, the tough get empirical.",
+        "author": {
+            "name": "Jon Carroll",
+            "url": "/quotes/jon_carroll_190274"
+        },
+        "topics": [
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Empirical",
+                "url": "/topics/empirical"
+            },
+            {
+                "name": "Get",
+                "url": "/topics/get"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jon_carroll_190272",
+        "quote": "I think the thing to remember, though, the next time you hear someone who is really certain that he is on the side of the angels, is that the idea of angels was created by human beings, who are famous for being frequently untrustworthy and occasional.",
+        "author": {
+            "name": "Jon Carroll",
+            "url": "/quotes/jon_carroll_190272"
+        },
+        "topics": [
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Idea",
+                "url": "/topics/idea"
+            }
+        ]
+    }
+]

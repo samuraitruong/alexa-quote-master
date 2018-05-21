@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/p_f_strawson_400848",
+        "quote": "No philosopher understands his predecessors until he has re-thought their thought in his own contemporary terms.",
+        "author": {
+            "name": "P. F. Strawson",
+            "url": "/quotes/p_f_strawson_400848"
+        },
+        "topics": [
+            {
+                "name": "Philosopher",
+                "url": "/topics/philosopher"
+            },
+            {
+                "name": "Predecessors",
+                "url": "/topics/predecessors"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/p_f_strawson_400256",
+        "quote": "Neither Aristotelian nor Russellian rules give the exact logic of any expression of ordinary language; for ordinary language has no exact logic.",
+        "author": {
+            "name": "P. F. Strawson",
+            "url": "/quotes/p_f_strawson_400256"
+        },
+        "topics": [
+            {
+                "name": "Expression",
+                "url": "/topics/expression"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            },
+            {
+                "name": "Nor",
+                "url": "/topics/nor"
+            }
+        ]
+    }
+]

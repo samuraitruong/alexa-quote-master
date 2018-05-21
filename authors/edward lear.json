@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/edward_lear_195271",
+        "quote": "Two old Bachelors were living in one house; One caught a Muffin, the other caught a Mouse.",
+        "author": {
+            "name": "Edward Lear",
+            "url": "/quotes/edward_lear_195271"
+        },
+        "topics": [
+            {
+                "name": "Mouse",
+                "url": "/topics/mouse"
+            },
+            {
+                "name": "Bachelors",
+                "url": "/topics/bachelors"
+            },
+            {
+                "name": "Caught",
+                "url": "/topics/caught"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edward_lear_195270",
+        "quote": "They dined on mince, and slices of quince, Which they ate with a runcible spoon; And hand in hand, on the edge of the sand, They danced by the light of the moon.",
+        "author": {
+            "name": "Edward Lear",
+            "url": "/quotes/edward_lear_195270"
+        },
+        "topics": [
+            {
+                "name": "Sand",
+                "url": "/topics/sand"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Mince",
+                "url": "/topics/mince"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edward_lear_195273",
+        "quote": "There was an old man with a beard, who said: 'It is just as I feared! Two owls and a hen, four larks and a wren have all built their nests in my beard.",
+        "author": {
+            "name": "Edward Lear",
+            "url": "/quotes/edward_lear_195273"
+        },
+        "topics": [
+            {
+                "name": "Beard",
+                "url": "/topics/beard"
+            },
+            {
+                "name": "Built",
+                "url": "/topics/built"
+            },
+            {
+                "name": "Feared",
+                "url": "/topics/feared"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edward_lear_195274",
+        "quote": "I was much distressed by next door people who had twin babies and played the violin; but one of the twins died, and the other has eaten the fiddle, so all is peace.",
+        "author": {
+            "name": "Edward Lear",
+            "url": "/quotes/edward_lear_195274"
+        },
+        "topics": [
+            {
+                "name": "Door",
+                "url": "/topics/door"
+            },
+            {
+                "name": "Violin",
+                "url": "/topics/violin"
+            },
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            }
+        ]
+    }
+]

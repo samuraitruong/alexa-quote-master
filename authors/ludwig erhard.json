@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/ludwig_erhard_194195",
+        "quote": "A compromise is the art of dividing a cake in such a way that everyone believes he has the biggest piece.",
+        "author": {
+            "name": "Ludwig Erhard",
+            "url": "/quotes/ludwig_erhard_194195"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Dividing",
+                "url": "/topics/dividing"
+            },
+            {
+                "name": "Believes",
+                "url": "/topics/believes"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ludwig_erhard_194196",
+        "quote": "Without Britain, Europe would remain only a torso.",
+        "author": {
+            "name": "Ludwig Erhard",
+            "url": "/quotes/ludwig_erhard_194196"
+        },
+        "topics": [
+            {
+                "name": "Britain",
+                "url": "/topics/britain"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            },
+            {
+                "name": "Remain",
+                "url": "/topics/remain"
+            }
+        ]
+    }
+]

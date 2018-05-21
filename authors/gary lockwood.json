@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/gary_lockwood_265789",
+        "quote": "I don't watch television. I'm not a TV guy.",
+        "author": {
+            "name": "Gary Lockwood",
+            "url": "/quotes/gary_lockwood_265789"
+        },
+        "topics": [
+            {
+                "name": "Television",
+                "url": "/topics/television"
+            },
+            {
+                "name": "Watch",
+                "url": "/topics/watch"
+            },
+            {
+                "name": "TV",
+                "url": "/topics/tv"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gary_lockwood_265791",
+        "quote": "I finally bought a gun because I said if I'm going to get it, I'm taking somebody with me.",
+        "author": {
+            "name": "Gary Lockwood",
+            "url": "/quotes/gary_lockwood_265791"
+        },
+        "topics": [
+            {
+                "name": "Gun",
+                "url": "/topics/gun"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Bought",
+                "url": "/topics/bought"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gary_lockwood_265792",
+        "quote": "I'm a typical California boy.",
+        "author": {
+            "name": "Gary Lockwood",
+            "url": "/quotes/gary_lockwood_265792"
+        },
+        "topics": [
+            {
+                "name": "Boy",
+                "url": "/topics/boy"
+            },
+            {
+                "name": "California",
+                "url": "/topics/california"
+            },
+            {
+                "name": "Typical",
+                "url": "/topics/typical"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gary_lockwood_265794",
+        "quote": "Star Trek wouldn't die. There were a whole lot of young people who were touched by the thought process of science fiction. If you watched a cop show, there wasn't anything that was going to stimulate your mind.",
+        "author": {
+            "name": "Gary Lockwood",
+            "url": "/quotes/gary_lockwood_265794"
+        },
+        "topics": [
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Die",
+                "url": "/topics/die"
+            },
+            {
+                "name": "Touched",
+                "url": "/topics/touched"
+            }
+        ]
+    }
+]

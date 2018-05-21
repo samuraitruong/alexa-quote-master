@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/louis_bonaparte_234858",
+        "quote": "If I wanted to do wrong, I could not.",
+        "author": {
+            "name": "Louis Bonaparte",
+            "url": "/quotes/louis_bonaparte_234858"
+        },
+        "topics": [
+            {
+                "name": "Wrong",
+                "url": "/topics/wrong"
+            },
+            {
+                "name": "Wanted",
+                "url": "/topics/wanted"
+            },
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/louis_bonaparte_234857",
+        "quote": "I should see an enemy of my country in any one who would change by force that which has been established by law.",
+        "author": {
+            "name": "Louis Bonaparte",
+            "url": "/quotes/louis_bonaparte_234857"
+        },
+        "topics": [
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Established",
+                "url": "/topics/established"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/louis_bonaparte_234859",
+        "quote": "Nothing need be apprehended from this miserable adventurer.",
+        "author": {
+            "name": "Louis Bonaparte",
+            "url": "/quotes/louis_bonaparte_234859"
+        },
+        "topics": [
+            {
+                "name": "Miserable",
+                "url": "/topics/miserable"
+            },
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            },
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            }
+        ]
+    }
+]

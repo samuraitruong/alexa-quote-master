@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/alan_lakein_154655",
+        "quote": "Planning is bringing the future into the present so that you can do something about it now.",
+        "author": {
+            "name": "Alan Lakein",
+            "url": "/quotes/alan_lakein_154655"
+        },
+        "topics": [
+            {
+                "name": "Future",
+                "url": "/topics/future"
+            },
+            {
+                "name": "Planning",
+                "url": "/topics/planning"
+            },
+            {
+                "name": "Bringing",
+                "url": "/topics/bringing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alan_lakein_154654",
+        "quote": "Failing to plan is planning to fail.",
+        "author": {
+            "name": "Alan Lakein",
+            "url": "/quotes/alan_lakein_154654"
+        },
+        "topics": [
+            {
+                "name": "Planning",
+                "url": "/topics/planning"
+            },
+            {
+                "name": "Fail",
+                "url": "/topics/fail"
+            },
+            {
+                "name": "Failing",
+                "url": "/topics/failing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alan_lakein_154656",
+        "quote": "In all planing you make a list and you set priorities.",
+        "author": {
+            "name": "Alan Lakein",
+            "url": "/quotes/alan_lakein_154656"
+        },
+        "topics": [
+            {
+                "name": "Priorities",
+                "url": "/topics/priorities"
+            },
+            {
+                "name": "List",
+                "url": "/topics/list"
+            },
+            {
+                "name": "Set",
+                "url": "/topics/set"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alan_lakein_154658",
+        "quote": "Time = Life, Therefore, waste your time and waste of your life, or master your time and master your life.",
+        "author": {
+            "name": "Alan Lakein",
+            "url": "/quotes/alan_lakein_154658"
+        },
+        "topics": [
+            {
+                "name": "Time",
+                "url": "/topics/time"
+            },
+            {
+                "name": "Waste",
+                "url": "/topics/waste"
+            },
+            {
+                "name": "Therefore",
+                "url": "/topics/therefore"
+            }
+        ]
+    }
+]

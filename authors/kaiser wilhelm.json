@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/kaiser_wilhelm_205926",
+        "quote": "Give me a woman who loves beer and I will conquer the world.",
+        "author": {
+            "name": "Kaiser Wilhelm",
+            "url": "/quotes/kaiser_wilhelm_205926"
+        },
+        "topics": [
+            {
+                "name": "Woman",
+                "url": "/topics/woman"
+            },
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            }
+        ]
+    }
+]

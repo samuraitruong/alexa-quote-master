@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/sarah_wynter_572310",
+        "quote": "I grew up with a younger brother, so I can get pretty rowdy.",
+        "author": {
+            "name": "Sarah Wynter",
+            "url": "/quotes/sarah_wynter_572310"
+        },
+        "topics": [
+            {
+                "name": "Pretty",
+                "url": "/topics/pretty"
+            },
+            {
+                "name": "Younger",
+                "url": "/topics/younger"
+            },
+            {
+                "name": "Get",
+                "url": "/topics/get"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sarah_wynter_572308",
+        "quote": "Nothing turns me off faster than a guy being unkind.",
+        "author": {
+            "name": "Sarah Wynter",
+            "url": "/quotes/sarah_wynter_572308"
+        },
+        "topics": [
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            },
+            {
+                "name": "Faster",
+                "url": "/topics/faster"
+            },
+            {
+                "name": "Than",
+                "url": "/topics/than"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sarah_wynter_572309",
+        "quote": "I notice how well or badly a guy treats a waiter, or whether he's kind to some people and not to others. One guy I was with actually yelled, 'Get out of my face!' at a homeless man. Needless to say, there was no second date.",
+        "author": {
+            "name": "Sarah Wynter",
+            "url": "/quotes/sarah_wynter_572309"
+        },
+        "topics": [
+            {
+                "name": "Date",
+                "url": "/topics/date"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Badly",
+                "url": "/topics/badly"
+            }
+        ]
+    }
+]

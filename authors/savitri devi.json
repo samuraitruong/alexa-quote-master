@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/savitri_devi_184894",
+        "quote": "I worship impersonal Nature, which is neither 'good' or 'bad', and who knows neither love nor hatred.",
+        "author": {
+            "name": "Savitri Devi",
+            "url": "/quotes/savitri_devi_184894"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/savitri_devi_395044",
+        "quote": "Europe is merely powerful; India is beautiful.",
+        "author": {
+            "name": "Savitri Devi",
+            "url": "/quotes/savitri_devi_395044"
+        },
+        "topics": [
+            {
+                "name": "Beautiful",
+                "url": "/topics/beautiful"
+            },
+            {
+                "name": "Powerful",
+                "url": "/topics/powerful"
+            },
+            {
+                "name": "Merely",
+                "url": "/topics/merely"
+            }
+        ]
+    }
+]

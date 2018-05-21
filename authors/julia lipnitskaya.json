@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/julia_lipnitskaya_607610",
+        "quote": "If you skate too slow, it's not feeling comfortable at all.",
+        "author": {
+            "name": "Julia Lipnitskaya",
+            "url": "/quotes/julia_lipnitskaya_607610"
+        },
+        "topics": [
+            {
+                "name": "Comfortable",
+                "url": "/topics/comfortable"
+            },
+            {
+                "name": "Slow",
+                "url": "/topics/slow"
+            },
+            {
+                "name": "Too",
+                "url": "/topics/too"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/julia_lipnitskaya_653770",
+        "quote": "My mother gave up everything for me. In Yekaterinburg, she had a job and an apartment in the centre of the city and her whole life. And in Moscow - nothing.",
+        "author": {
+            "name": "Julia Lipnitskaya",
+            "url": "/quotes/julia_lipnitskaya_653770"
+        },
+        "topics": [
+            {
+                "name": "City",
+                "url": "/topics/city"
+            },
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            },
+            {
+                "name": "Moscow",
+                "url": "/topics/moscow"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/julia_lipnitskaya_653771",
+        "quote": "The main thing for me now is figure skating, which I intend to devote more than one year.",
+        "author": {
+            "name": "Julia Lipnitskaya",
+            "url": "/quotes/julia_lipnitskaya_653771"
+        },
+        "topics": [
+            {
+                "name": "Devote",
+                "url": "/topics/devote"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Figure",
+                "url": "/topics/figure"
+            }
+        ]
+    }
+]

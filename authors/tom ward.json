@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/tom_ward_404666",
+        "quote": "Hockey is the original extreme sport.",
+        "author": {
+            "name": "Tom Ward",
+            "url": "/quotes/tom_ward_404666"
+        },
+        "topics": [
+            {
+                "name": "Hockey",
+                "url": "/topics/hockey"
+            },
+            {
+                "name": "Original",
+                "url": "/topics/original"
+            },
+            {
+                "name": "Sport",
+                "url": "/topics/sport"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tom_ward_648704",
+        "quote": "I do look better on TV. In real life, I look scruffy and pale, and I get the worst kind of recognition... I get the 'Haven't we met somewhere before?' I suggest it might be because I'm on the telly, and they say, 'No, it's definitely not that. Wasn't it at so-and-so's party?'",
+        "author": {
+            "name": "Tom Ward",
+            "url": "/quotes/tom_ward_648704"
+        },
+        "topics": [
+            {
+                "name": "Recognition",
+                "url": "/topics/recognition"
+            },
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            },
+            {
+                "name": "TV",
+                "url": "/topics/tv"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tom_ward_648705",
+        "quote": "Being a father is just great. I love every minute - even the rubbish, middle-of-the night stuff.",
+        "author": {
+            "name": "Tom Ward",
+            "url": "/quotes/tom_ward_648705"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Father",
+                "url": "/topics/father"
+            },
+            {
+                "name": "Night",
+                "url": "/topics/night"
+            }
+        ]
+    }
+]

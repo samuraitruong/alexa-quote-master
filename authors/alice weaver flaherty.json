@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/alice_weaver_flaherty_466664",
+        "quote": "What made me empathic was my depressions.",
+        "author": {
+            "name": "Alice Weaver Flaherty",
+            "url": "/quotes/alice_weaver_flaherty_466664"
+        },
+        "topics": [
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Made",
+                "url": "/topics/made"
+            },
+            {
+                "name": "Depressions",
+                "url": "/topics/depressions"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alice_weaver_flaherty_466665",
+        "quote": "Neurology and psychiatry should be treating the same organ.",
+        "author": {
+            "name": "Alice Weaver Flaherty",
+            "url": "/quotes/alice_weaver_flaherty_466665"
+        },
+        "topics": [
+            {
+                "name": "Same",
+                "url": "/topics/same"
+            },
+            {
+                "name": "Organ",
+                "url": "/topics/organ"
+            },
+            {
+                "name": "Should",
+                "url": "/topics/should"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alice_weaver_flaherty_466666",
+        "quote": "It's no fun feeling your thoughts are being controlled by an electrode, and someone else is holding the clicker.",
+        "author": {
+            "name": "Alice Weaver Flaherty",
+            "url": "/quotes/alice_weaver_flaherty_466666"
+        },
+        "topics": [
+            {
+                "name": "Thoughts",
+                "url": "/topics/thoughts"
+            },
+            {
+                "name": "Feeling",
+                "url": "/topics/feeling"
+            },
+            {
+                "name": "Your",
+                "url": "/topics/your"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alice_weaver_flaherty_466667",
+        "quote": "The mania is like wasps under the skin, like my head's going to explode with ideas.",
+        "author": {
+            "name": "Alice Weaver Flaherty",
+            "url": "/quotes/alice_weaver_flaherty_466667"
+        },
+        "topics": [
+            {
+                "name": "Head",
+                "url": "/topics/head"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    }
+]

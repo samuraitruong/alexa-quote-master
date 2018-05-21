@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/stephen_grellet_651572",
+        "quote": "I shall pass through this world but once. Any good, therefore, that I can do or any kindness I can show to any human being, let me do it now. Let me not defer it or neglect it, for I shall not pass this way again.",
+        "author": {
+            "name": "Stephen Grellet",
+            "url": "/quotes/stephen_grellet_651572"
+        },
+        "topics": [
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Human Being",
+                "url": "/topics/human_being"
+            },
+            {
+                "name": "Defer",
+                "url": "/topics/defer"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/stephen_grellet_651573",
+        "quote": "Baneful indeed is the scourge of war.",
+        "author": {
+            "name": "Stephen Grellet",
+            "url": "/quotes/stephen_grellet_651573"
+        },
+        "topics": [
+            {
+                "name": "War",
+                "url": "/topics/war"
+            },
+            {
+                "name": "Scourge",
+                "url": "/topics/scourge"
+            },
+            {
+                "name": "Indeed",
+                "url": "/topics/indeed"
+            }
+        ]
+    }
+]

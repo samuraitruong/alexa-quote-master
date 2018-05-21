@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/andrew_mccabe_837200",
+        "quote": "There is no world of absolute, complete privacy or a world of complete national security.",
+        "author": {
+            "name": "Andrew McCabe",
+            "url": "/quotes/andrew_mccabe_837200"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Security",
+                "url": "/topics/security"
+            },
+            {
+                "name": "Absolute",
+                "url": "/topics/absolute"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/andrew_mccabe_837199",
+        "quote": "You cannot stop the men and women of the FBI from doing the right thing, protecting the American people and upholding the Constitution.",
+        "author": {
+            "name": "Andrew McCabe",
+            "url": "/quotes/andrew_mccabe_837199"
+        },
+        "topics": [
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Protecting",
+                "url": "/topics/protecting"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/andrew_mccabe_837201",
+        "quote": "I have taken an oath already to the United States of America to protect and defend the Constitution. That is the only oath I will take.",
+        "author": {
+            "name": "Andrew McCabe",
+            "url": "/quotes/andrew_mccabe_837201"
+        },
+        "topics": [
+            {
+                "name": "United States",
+                "url": "/topics/united_states"
+            },
+            {
+                "name": "United",
+                "url": "/topics/united"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    }
+]

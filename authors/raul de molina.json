@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/raul_de_molina_523108",
+        "quote": "While I live with my family in South Florida, I enjoy visiting New York and always appreciate seeing so many Univision fans.",
+        "author": {
+            "name": "Raul de Molina",
+            "url": "/quotes/raul_de_molina_523108"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Visiting",
+                "url": "/topics/visiting"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/raul_de_molina_523109",
+        "quote": "When I began to travel around the country, I would notice in places like Los Angeles, Chicago, Phoenix and even Texas that Latinos didn't want to speak Spanish. You would ask a question, only to be answered in English.",
+        "author": {
+            "name": "Raul de Molina",
+            "url": "/quotes/raul_de_molina_523109"
+        },
+        "topics": [
+            {
+                "name": "Texas",
+                "url": "/topics/texas"
+            },
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Around",
+                "url": "/topics/around"
+            }
+        ]
+    }
+]

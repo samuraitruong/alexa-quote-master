@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/robert_j_ringer_147444",
+        "quote": "People say they love truth, but in reality they want to believe that which they love is true.",
+        "author": {
+            "name": "Robert J. Ringer",
+            "url": "/quotes/robert_j_ringer_147444"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Truth",
+                "url": "/topics/truth"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_j_ringer_147443",
+        "quote": "If you are prepared, then you are able to feel confident.",
+        "author": {
+            "name": "Robert J. Ringer",
+            "url": "/quotes/robert_j_ringer_147443"
+        },
+        "topics": [
+            {
+                "name": "Confident",
+                "url": "/topics/confident"
+            },
+            {
+                "name": "Prepared",
+                "url": "/topics/prepared"
+            },
+            {
+                "name": "Able",
+                "url": "/topics/able"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_j_ringer_130121",
+        "quote": "Reality isn't the way you wish things to be, nor the way they appear to be, but the way they actually are.",
+        "author": {
+            "name": "Robert J. Ringer",
+            "url": "/quotes/robert_j_ringer_130121"
+        },
+        "topics": [
+            {
+                "name": "Wish",
+                "url": "/topics/wish"
+            },
+            {
+                "name": "Actually",
+                "url": "/topics/actually"
+            },
+            {
+                "name": "Nor",
+                "url": "/topics/nor"
+            }
+        ]
+    }
+]

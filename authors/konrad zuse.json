@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/konrad_zuse_825262",
+        "quote": "You could say I was too lazy to calculate, so I invented the computer.",
+        "author": {
+            "name": "Konrad Zuse",
+            "url": "/quotes/konrad_zuse_825262"
+        },
+        "topics": [
+            {
+                "name": "Computer",
+                "url": "/topics/computer"
+            },
+            {
+                "name": "Too",
+                "url": "/topics/too"
+            },
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/konrad_zuse_316901",
+        "quote": "It is not true that virtually all news in a totalitarian state is false.",
+        "author": {
+            "name": "Konrad Zuse",
+            "url": "/quotes/konrad_zuse_316901"
+        },
+        "topics": [
+            {
+                "name": "True",
+                "url": "/topics/true"
+            },
+            {
+                "name": "News",
+                "url": "/topics/news"
+            },
+            {
+                "name": "Virtually",
+                "url": "/topics/virtually"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/konrad_zuse_825263",
+        "quote": "I have always had a predominantly visual approach to my environment.",
+        "author": {
+            "name": "Konrad Zuse",
+            "url": "/quotes/konrad_zuse_825263"
+        },
+        "topics": [
+            {
+                "name": "Environment",
+                "url": "/topics/environment"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Visual",
+                "url": "/topics/visual"
+            }
+        ]
+    }
+]

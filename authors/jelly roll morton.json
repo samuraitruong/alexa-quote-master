@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/jelly_roll_morton_317857",
+        "quote": "Get up from that piano. You hurtin' its feelings.",
+        "author": {
+            "name": "Jelly Roll Morton",
+            "url": "/quotes/jelly_roll_morton_317857"
+        },
+        "topics": [
+            {
+                "name": "Piano",
+                "url": "/topics/piano"
+            },
+            {
+                "name": "Get",
+                "url": "/topics/get"
+            },
+            {
+                "name": "Up",
+                "url": "/topics/up"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jelly_roll_morton_317860",
+        "quote": "Jazz music is to be played sweet, soft, plenty rhythm.",
+        "author": {
+            "name": "Jelly Roll Morton",
+            "url": "/quotes/jelly_roll_morton_317860"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "Jazz",
+                "url": "/topics/jazz"
+            },
+            {
+                "name": "Plenty",
+                "url": "/topics/plenty"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jelly_roll_morton_317858",
+        "quote": "I have been robbed of three million dollars all told. Everyone today is playing my stuff and I don't even get credit. Kansas City style, Chicago style, New Orleans style hell, they're all Jelly Roll style.",
+        "author": {
+            "name": "Jelly Roll Morton",
+            "url": "/quotes/jelly_roll_morton_317858"
+        },
+        "topics": [
+            {
+                "name": "City",
+                "url": "/topics/city"
+            },
+            {
+                "name": "Kansas City",
+                "url": "/topics/kansas_city"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    }
+]

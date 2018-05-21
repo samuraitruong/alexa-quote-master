@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/edward_walker_404484",
+        "quote": "To me, lighting really sets the mood for a room. A 40 watt bulb in a cheap lamp is the same as a 40 watt bulb in an expensive one.",
+        "author": {
+            "name": "Edward Walker",
+            "url": "/quotes/edward_walker_404484"
+        },
+        "topics": [
+            {
+                "name": "Mood",
+                "url": "/topics/mood"
+            },
+            {
+                "name": "Bulb",
+                "url": "/topics/bulb"
+            },
+            {
+                "name": "Sets",
+                "url": "/topics/sets"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edward_walker_307859",
+        "quote": "By action and reaction do we become strong or weak, according to the character of our thoughts and mental states. Fear is the deadly nightshade of the mind.",
+        "author": {
+            "name": "Edward Walker",
+            "url": "/quotes/edward_walker_307859"
+        },
+        "topics": [
+            {
+                "name": "Strong",
+                "url": "/topics/strong"
+            },
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Thoughts",
+                "url": "/topics/thoughts"
+            }
+        ]
+    }
+]

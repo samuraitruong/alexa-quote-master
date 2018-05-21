@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/william_foege_446091",
+        "quote": "Vaccines are the tugboats of preventive health.",
+        "author": {
+            "name": "William Foege",
+            "url": "/quotes/william_foege_446091"
+        },
+        "topics": [
+            {
+                "name": "Health",
+                "url": "/topics/health"
+            },
+            {
+                "name": "Vaccines",
+                "url": "/topics/vaccines"
+            },
+            {
+                "name": "Preventive",
+                "url": "/topics/preventive"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_foege_446089",
+        "quote": "Nobody ever thanks you for saving them from the disease they didn't know they were going to get.",
+        "author": {
+            "name": "William Foege",
+            "url": "/quotes/william_foege_446089"
+        },
+        "topics": [
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Disease",
+                "url": "/topics/disease"
+            },
+            {
+                "name": "Them",
+                "url": "/topics/them"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_foege_446090",
+        "quote": "Science is beginning to catch up with global health problems.",
+        "author": {
+            "name": "William Foege",
+            "url": "/quotes/william_foege_446090"
+        },
+        "topics": [
+            {
+                "name": "Beginning",
+                "url": "/topics/beginning"
+            },
+            {
+                "name": "Health Problems",
+                "url": "/topics/health_problems"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_foege_446088",
+        "quote": "People are beginning to understand there is nothing in the world so remote that it can't impact you as a person. It's not just diseases. Economists are now beginning to say if we are going to have good markets in Africa, we're going to have to have healthy people in Africa.",
+        "author": {
+            "name": "William Foege",
+            "url": "/quotes/william_foege_446088"
+        },
+        "topics": [
+            {
+                "name": "Good",
+                "url": "/topics/good"
+            },
+            {
+                "name": "Beginning",
+                "url": "/topics/beginning"
+            },
+            {
+                "name": "Remote",
+                "url": "/topics/remote"
+            }
+        ]
+    }
+]

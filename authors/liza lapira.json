@@ -1,0 +1,108 @@
+[
+    {
+        "url": "/quotes/liza_lapira_570233",
+        "quote": "Winter makes me want to rage. You know how there's road rage? I feel like in New York or upstate New York, you're just like, 'Dammit,' because you're so cold.",
+        "author": {
+            "name": "Liza Lapira",
+            "url": "/quotes/liza_lapira_570233"
+        },
+        "topics": [
+            {
+                "name": "Winter",
+                "url": "/topics/winter"
+            },
+            {
+                "name": "Upstate New York",
+                "url": "/topics/upstate_new_york"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/liza_lapira_570234",
+        "quote": "I like to talk. That's why I can't karaoke in a private room. Those types of shenanigans are only good in a public space. I got to say, though, with smartphones and instant upload of everything, our generation and definitely the next generation coming up, it's going to be hard to act a fool.",
+        "author": {
+            "name": "Liza Lapira",
+            "url": "/quotes/liza_lapira_570234"
+        },
+        "topics": [
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            },
+            {
+                "name": "Why",
+                "url": "/topics/why"
+            },
+            {
+                "name": "Private",
+                "url": "/topics/private"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/liza_lapira_656811",
+        "quote": "Winter makes me want to rage.",
+        "author": {
+            "name": "Liza Lapira",
+            "url": "/quotes/liza_lapira_656811"
+        },
+        "topics": [
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Makes",
+                "url": "/topics/makes"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/liza_lapira_656812",
+        "quote": "I think the first thing that I really did was 'Traffic Light,' which was more of a half-hour sitcom. And from there, I just got more comedic roles.",
+        "author": {
+            "name": "Liza Lapira",
+            "url": "/quotes/liza_lapira_656812"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/liza_lapira_656813",
+        "quote": "I like to talk. That's why I can't karaoke in a private room. Those types of shenanigans are only good in a public space.",
+        "author": {
+            "name": "Liza Lapira",
+            "url": "/quotes/liza_lapira_656813"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Private",
+                "url": "/topics/private"
+            },
+            {
+                "name": "Types",
+                "url": "/topics/types"
+            }
+        ]
+    }
+]

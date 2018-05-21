@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/kazimir_malevich_310694",
+        "quote": "Painters were also attorneys, happy storytellers of anecdote, psychologists, botanists, zoologists, archaeologists, engineers, but there were no creative painters.",
+        "author": {
+            "name": "Kazimir Malevich",
+            "url": "/quotes/kazimir_malevich_310694"
+        },
+        "topics": [
+            {
+                "name": "Happy",
+                "url": "/topics/happy"
+            },
+            {
+                "name": "Engineers",
+                "url": "/topics/engineers"
+            },
+            {
+                "name": "Also",
+                "url": "/topics/also"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kazimir_malevich_310696",
+        "quote": "Painting is the aesthetic side of the object but it has never been original, has never been its own goal.",
+        "author": {
+            "name": "Kazimir Malevich",
+            "url": "/quotes/kazimir_malevich_310696"
+        },
+        "topics": [
+            {
+                "name": "Aesthetic",
+                "url": "/topics/aesthetic"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Side",
+                "url": "/topics/side"
+            }
+        ]
+    }
+]

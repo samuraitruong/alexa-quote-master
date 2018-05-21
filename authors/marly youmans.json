@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/marly_youmans_632457",
+        "quote": "What is a spouse for? Not to be your personal servant, certainly!",
+        "author": {
+            "name": "Marly Youmans",
+            "url": "/quotes/marly_youmans_632457"
+        },
+        "topics": [
+            {
+                "name": "Personal",
+                "url": "/topics/personal"
+            },
+            {
+                "name": "Servant",
+                "url": "/topics/servant"
+            },
+            {
+                "name": "Certainly",
+                "url": "/topics/certainly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marly_youmans_632458",
+        "quote": "It is probably true that I would not have had as many children or mothers in my books without being a mother with children. It is definitely true that I would not have written about the Civil War without having a little guy who was obsessed with it.",
+        "author": {
+            "name": "Marly Youmans",
+            "url": "/quotes/marly_youmans_632458"
+        },
+        "topics": [
+            {
+                "name": "Civil War",
+                "url": "/topics/civil_war"
+            },
+            {
+                "name": "Having",
+                "url": "/topics/having"
+            },
+            {
+                "name": "Obsessed",
+                "url": "/topics/obsessed"
+            }
+        ]
+    }
+]

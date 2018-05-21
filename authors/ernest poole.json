@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/ernest_poole_256508",
+        "quote": "All the real things in Russia are done in the villages.",
+        "author": {
+            "name": "Ernest Poole",
+            "url": "/quotes/ernest_poole_256508"
+        },
+        "topics": [
+            {
+                "name": "Russia",
+                "url": "/topics/russia"
+            },
+            {
+                "name": "Villages",
+                "url": "/topics/villages"
+            },
+            {
+                "name": "Things",
+                "url": "/topics/things"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ernest_poole_256512",
+        "quote": "What kind of crops do they raise in the towns? Only Grand Dukes, Bolsheviks and drunkards!",
+        "author": {
+            "name": "Ernest Poole",
+            "url": "/quotes/ernest_poole_256512"
+        },
+        "topics": [
+            {
+                "name": "Kind",
+                "url": "/topics/kind"
+            },
+            {
+                "name": "Towns",
+                "url": "/topics/towns"
+            },
+            {
+                "name": "Drunkards",
+                "url": "/topics/drunkards"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ernest_poole_256509",
+        "quote": "Here we grow the flax and grain; here we raise the meat they eat, and the wool to keep them warm; we cut trees to build their houses and firewood to heat their stoves.",
+        "author": {
+            "name": "Ernest Poole",
+            "url": "/quotes/ernest_poole_256509"
+        },
+        "topics": [
+            {
+                "name": "Heat",
+                "url": "/topics/heat"
+            },
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            },
+            {
+                "name": "Wool",
+                "url": "/topics/wool"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ernest_poole_256511",
+        "quote": "The trouble with those people is that they think all the best things are made in the cities. It is not so.",
+        "author": {
+            "name": "Ernest Poole",
+            "url": "/quotes/ernest_poole_256511"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Made",
+                "url": "/topics/made"
+            },
+            {
+                "name": "Cities",
+                "url": "/topics/cities"
+            }
+        ]
+    }
+]

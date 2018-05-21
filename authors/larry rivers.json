@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/larry_rivers_192110",
+        "quote": "I guess I've always liked the idea of being an artist.",
+        "author": {
+            "name": "Larry Rivers",
+            "url": "/quotes/larry_rivers_192110"
+        },
+        "topics": [
+            {
+                "name": "Artist",
+                "url": "/topics/artist"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Guess",
+                "url": "/topics/guess"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/larry_rivers_192109",
+        "quote": "I believe that any art communicates what you're in the mood to receive.",
+        "author": {
+            "name": "Larry Rivers",
+            "url": "/quotes/larry_rivers_192109"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Mood",
+                "url": "/topics/mood"
+            },
+            {
+                "name": "Receive",
+                "url": "/topics/receive"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/larry_rivers_192112",
+        "quote": "Any art communicates what you're in the mood to receive.",
+        "author": {
+            "name": "Larry Rivers",
+            "url": "/quotes/larry_rivers_192112"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Mood",
+                "url": "/topics/mood"
+            },
+            {
+                "name": "Receive",
+                "url": "/topics/receive"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/larry_rivers_192113",
+        "quote": "I spent seven months in Africa and came back saying there isn't anything you can say about black people that you couldn't say about, say, pink people except that they're black.",
+        "author": {
+            "name": "Larry Rivers",
+            "url": "/quotes/larry_rivers_192113"
+        },
+        "topics": [
+            {
+                "name": "Pink",
+                "url": "/topics/pink"
+            },
+            {
+                "name": "Africa",
+                "url": "/topics/africa"
+            },
+            {
+                "name": "Months",
+                "url": "/topics/months"
+            }
+        ]
+    }
+]

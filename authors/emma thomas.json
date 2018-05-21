@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/emma_thomas_693788",
+        "quote": "The great thing about a trilogy is that it feels like you've got a beginning, a middle, and an end.",
+        "author": {
+            "name": "Emma Thomas",
+            "url": "/quotes/emma_thomas_693788"
+        },
+        "topics": [
+            {
+                "name": "Middle",
+                "url": "/topics/middle"
+            },
+            {
+                "name": "Feels",
+                "url": "/topics/feels"
+            },
+            {
+                "name": "Great Thing",
+                "url": "/topics/great_thing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/emma_thomas_693787",
+        "quote": "Twitter wasn't a big thing even on 'Inception;' it certainly wasn't on 'The Dark Knight.'",
+        "author": {
+            "name": "Emma Thomas",
+            "url": "/quotes/emma_thomas_693787"
+        },
+        "topics": [
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Certainly",
+                "url": "/topics/certainly"
+            },
+            {
+                "name": "Big Thing",
+                "url": "/topics/big_thing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/emma_thomas_693789",
+        "quote": "We've spent almost ten years of our lives making 'Batman' films.",
+        "author": {
+            "name": "Emma Thomas",
+            "url": "/quotes/emma_thomas_693789"
+        },
+        "topics": [
+            {
+                "name": "Making",
+                "url": "/topics/making"
+            },
+            {
+                "name": "Lives",
+                "url": "/topics/lives"
+            },
+            {
+                "name": "Films",
+                "url": "/topics/films"
+            }
+        ]
+    }
+]

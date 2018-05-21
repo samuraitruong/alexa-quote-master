@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/amy_levy_197455",
+        "quote": "A lover may be a shadowy creature, but husbands are made of flesh and blood.",
+        "author": {
+            "name": "Amy Levy",
+            "url": "/quotes/amy_levy_197455"
+        },
+        "topics": [
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Shadowy",
+                "url": "/topics/shadowy"
+            },
+            {
+                "name": "Lover",
+                "url": "/topics/lover"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/amy_levy_197456",
+        "quote": "We are no more content to plod along the beaten paths - and so marriage must go the way of God.",
+        "author": {
+            "name": "Amy Levy",
+            "url": "/quotes/amy_levy_197456"
+        },
+        "topics": [
+            {
+                "name": "Beaten",
+                "url": "/topics/beaten"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Go",
+                "url": "/topics/go"
+            }
+        ]
+    }
+]

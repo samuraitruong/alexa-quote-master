@@ -1,0 +1,38 @@
+[
+    {
+        "url": "/quotes/yevgeny_zamyatin_345247",
+        "quote": "Heretics are the only bitter remedy against the entropy of human thought.",
+        "author": {
+            "name": "Yevgeny Zamyatin",
+            "url": "/quotes/yevgeny_zamyatin_345247"
+        },
+        "topics": [
+            {
+                "name": "Entropy",
+                "url": "/topics/entropy"
+            },
+            {
+                "name": "Human Thought",
+                "url": "/topics/human_thought"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/yevgeny_zamyatin_130716",
+        "quote": "Explosions are not comfortable.",
+        "author": {
+            "name": "Yevgeny Zamyatin",
+            "url": "/quotes/yevgeny_zamyatin_130716"
+        },
+        "topics": [
+            {
+                "name": "Comfortable",
+                "url": "/topics/comfortable"
+            },
+            {
+                "name": "Explosions",
+                "url": "/topics/explosions"
+            }
+        ]
+    }
+]

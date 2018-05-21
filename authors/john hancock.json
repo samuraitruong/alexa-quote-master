@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/john_hancock_430118",
+        "quote": "There, I guess King George will be able to read that without his spectacles!",
+        "author": {
+            "name": "John Hancock",
+            "url": "/quotes/john_hancock_430118"
+        },
+        "topics": [
+            {
+                "name": "Guess",
+                "url": "/topics/guess"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            },
+            {
+                "name": "Read",
+                "url": "/topics/read"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_hancock_142583",
+        "quote": "The greatest ability in business is to get along with others and to influence their actions.",
+        "author": {
+            "name": "John Hancock",
+            "url": "/quotes/john_hancock_142583"
+        },
+        "topics": [
+            {
+                "name": "Business",
+                "url": "/topics/business"
+            },
+            {
+                "name": "Get",
+                "url": "/topics/get"
+            },
+            {
+                "name": "Along",
+                "url": "/topics/along"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_hancock_688088",
+        "quote": "I find money some way or other goes very fast. But I think I can reflect it has been spent with satisfaction and to my own honour.",
+        "author": {
+            "name": "John Hancock",
+            "url": "/quotes/john_hancock_688088"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_hancock_688089",
+        "quote": "The important consequences to the American States from this Declaration of Independence, considered as the ground and foundation of a future government, naturally suggest the propriety of proclaiming it in such a manner as that the people may be universally informed of it.",
+        "author": {
+            "name": "John Hancock",
+            "url": "/quotes/john_hancock_688089"
+        },
+        "topics": [
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Independence",
+                "url": "/topics/independence"
+            },
+            {
+                "name": "Informed",
+                "url": "/topics/informed"
+            }
+        ]
+    }
+]

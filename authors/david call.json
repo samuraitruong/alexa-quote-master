@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/david_call_645009",
+        "quote": "As a complete product of Issaquah public schools, there is absolutely no way I would be here if I didn't have well-funded arts programs and some great teachers who were constantly pushing me intellectually and personally.",
+        "author": {
+            "name": "David Call",
+            "url": "/quotes/david_call_645009"
+        },
+        "topics": [
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Great Teachers",
+                "url": "/topics/great_teachers"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_call_645008",
+        "quote": "Movies are such an integral part of American culture. We're so spread out in this country, and movies offer us a chance to come together and have a communal experience.",
+        "author": {
+            "name": "David Call",
+            "url": "/quotes/david_call_645008"
+        },
+        "topics": [
+            {
+                "name": "Chance",
+                "url": "/topics/chance"
+            },
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Part",
+                "url": "/topics/part"
+            }
+        ]
+    }
+]

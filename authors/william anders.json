@@ -1,0 +1,38 @@
+[
+    {
+        "url": "/quotes/william_anders_751620",
+        "quote": "We came all this way to explore the moon, and the most important thing is that we discovered the Earth.",
+        "author": {
+            "name": "William Anders",
+            "url": "/quotes/william_anders_751620"
+        },
+        "topics": [
+            {
+                "name": "The Most Important",
+                "url": "/topics/the_most_important"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_anders_751621",
+        "quote": "You could see the flames and the outer skin of the spacecraft glowing; and burning, baseball-size chunks flying off behind us. It was an eerie feeling, like being a gnat inside a blowtorch flame.",
+        "author": {
+            "name": "William Anders",
+            "url": "/quotes/william_anders_751621"
+        },
+        "topics": [
+            {
+                "name": "Behind",
+                "url": "/topics/behind"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            }
+        ]
+    }
+]

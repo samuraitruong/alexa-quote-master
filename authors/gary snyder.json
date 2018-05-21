@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/gary_snyder_164462",
+        "quote": "There are those who love to get dirty and fix things. They drink coffee at dawn, beer after work. And those who stay clean, just appreciate things. At breakfast they have milk and juice at night. There are those who do both, they drink tea.",
+        "author": {
+            "name": "Gary Snyder",
+            "url": "/quotes/gary_snyder_164462"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Tea",
+                "url": "/topics/tea"
+            },
+            {
+                "name": "Fix",
+                "url": "/topics/fix"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gary_snyder_140717",
+        "quote": "Find your place on the planet. Dig in, and take responsibility from there.",
+        "author": {
+            "name": "Gary Snyder",
+            "url": "/quotes/gary_snyder_140717"
+        },
+        "topics": [
+            {
+                "name": "Responsibility",
+                "url": "/topics/responsibility"
+            },
+            {
+                "name": "Dig",
+                "url": "/topics/dig"
+            },
+            {
+                "name": "Take",
+                "url": "/topics/take"
+            }
+        ]
+    }
+]

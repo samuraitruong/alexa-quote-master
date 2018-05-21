@@ -1,0 +1,178 @@
+[
+    {
+        "url": "/quotes/hans_christian_andersen_103515",
+        "quote": "Just living is not enough... one must have sunshine, freedom, and a little flower.",
+        "author": {
+            "name": "Hans Christian Andersen",
+            "url": "/quotes/hans_christian_andersen_103515"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "Freedom",
+                "url": "/topics/freedom"
+            },
+            {
+                "name": "Living",
+                "url": "/topics/living"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/hans_christian_andersen_192604",
+        "quote": "Where words fail, music speaks.",
+        "author": {
+            "name": "Hans Christian Andersen",
+            "url": "/quotes/hans_christian_andersen_192604"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "Fail",
+                "url": "/topics/fail"
+            },
+            {
+                "name": "Speaks",
+                "url": "/topics/speaks"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/hans_christian_andersen_192605",
+        "quote": "Life itself is the most wonderful fairy tale.",
+        "author": {
+            "name": "Hans Christian Andersen",
+            "url": "/quotes/hans_christian_andersen_192605"
+        },
+        "topics": [
+            {
+                "name": "Life",
+                "url": "/topics/life"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "Tale",
+                "url": "/topics/tale"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/hans_christian_andersen_381378",
+        "quote": "My life is a lovely story, happy and full of incident.",
+        "author": {
+            "name": "Hans Christian Andersen",
+            "url": "/quotes/hans_christian_andersen_381378"
+        },
+        "topics": [
+            {
+                "name": "Life Is A",
+                "url": "/topics/life_is_a"
+            },
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Lovely",
+                "url": "/topics/lovely"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/hans_christian_andersen_192602",
+        "quote": "Every man's life is a fairy tale written by God's fingers.",
+        "author": {
+            "name": "Hans Christian Andersen",
+            "url": "/quotes/hans_christian_andersen_192602"
+        },
+        "topics": [
+            {
+                "name": "Inspirational",
+                "url": "/topics/inspirational"
+            },
+            {
+                "name": "Man",
+                "url": "/topics/man"
+            },
+            {
+                "name": "Tale",
+                "url": "/topics/tale"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/hans_christian_andersen_380038",
+        "quote": "Travelling expands the mind rarely.",
+        "author": {
+            "name": "Hans Christian Andersen",
+            "url": "/quotes/hans_christian_andersen_380038"
+        },
+        "topics": [
+            {
+                "name": "Travel",
+                "url": "/topics/travel"
+            },
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Travelling",
+                "url": "/topics/travelling"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/hans_christian_andersen_130311",
+        "quote": "Being born in a duck yard does not matter, if only you are hatched from a swan's egg.",
+        "author": {
+            "name": "Hans Christian Andersen",
+            "url": "/quotes/hans_christian_andersen_130311"
+        },
+        "topics": [
+            {
+                "name": "Egg",
+                "url": "/topics/egg"
+            },
+            {
+                "name": "Yard",
+                "url": "/topics/yard"
+            },
+            {
+                "name": "Hatched",
+                "url": "/topics/hatched"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/hans_christian_andersen_381379",
+        "quote": "Most of the people who will walk after me will be children, so make the beat keep time with short steps.",
+        "author": {
+            "name": "Hans Christian Andersen",
+            "url": "/quotes/hans_christian_andersen_381379"
+        },
+        "topics": [
+            {
+                "name": "People",
+                "url": "/topics/people"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Steps",
+                "url": "/topics/steps"
+            }
+        ]
+    }
+]

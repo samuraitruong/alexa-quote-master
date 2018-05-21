@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/aubrey_de_vere_145384",
+        "quote": "Memory, in widow's weeds, with naked feet stands on a tombstone.",
+        "author": {
+            "name": "Aubrey de Vere",
+            "url": "/quotes/aubrey_de_vere_145384"
+        },
+        "topics": [
+            {
+                "name": "Memory",
+                "url": "/topics/memory"
+            },
+            {
+                "name": "Feet",
+                "url": "/topics/feet"
+            },
+            {
+                "name": "Stands",
+                "url": "/topics/stands"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/aubrey_de_vere_145383",
+        "quote": "Man should be ever better than he seems.",
+        "author": {
+            "name": "Aubrey de Vere",
+            "url": "/quotes/aubrey_de_vere_145383"
+        },
+        "topics": [
+            {
+                "name": "Better",
+                "url": "/topics/better"
+            },
+            {
+                "name": "Than",
+                "url": "/topics/than"
+            },
+            {
+                "name": "Ever",
+                "url": "/topics/ever"
+            }
+        ]
+    }
+]

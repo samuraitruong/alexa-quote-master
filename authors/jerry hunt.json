@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/jerry_hunt_186938",
+        "quote": "My mother says I was vaccinated with a phonograph needle. I love to talk. I just love to talk.",
+        "author": {
+            "name": "Jerry Hunt",
+            "url": "/quotes/jerry_hunt_186938"
+        },
+        "topics": [
+            {
+                "name": "Mother",
+                "url": "/topics/mother"
+            },
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "I Love",
+                "url": "/topics/i_love"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jerry_hunt_186941",
+        "quote": "In 1955 music wasn't that important. Music was a kind of a special thing you went and did.",
+        "author": {
+            "name": "Jerry Hunt",
+            "url": "/quotes/jerry_hunt_186941"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "Important",
+                "url": "/topics/important"
+            },
+            {
+                "name": "Special",
+                "url": "/topics/special"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jerry_hunt_186942",
+        "quote": "I don't think I could have ever had a career as a pianist because I never ever wanted to play the notes the way they were written, I was too sloppy to learn them quite right.",
+        "author": {
+            "name": "Jerry Hunt",
+            "url": "/quotes/jerry_hunt_186942"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Sloppy",
+                "url": "/topics/sloppy"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jerry_hunt_186944",
+        "quote": "I taught myself to play the piano. I've always been able to play, the minute I could get my hands up. I've always wanted to play the piano. It's the only instrument I've ever really liked, and it's the only one that's ever interested me.",
+        "author": {
+            "name": "Jerry Hunt",
+            "url": "/quotes/jerry_hunt_186944"
+        },
+        "topics": [
+            {
+                "name": "Hands",
+                "url": "/topics/hands"
+            },
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/ian_mckeever_674566",
+        "quote": "Everyone should learn to tango in Argentina before they die.",
+        "author": {
+            "name": "Ian McKeever",
+            "url": "/quotes/ian_mckeever_674566"
+        },
+        "topics": [
+            {
+                "name": "Die",
+                "url": "/topics/die"
+            },
+            {
+                "name": "Argentina",
+                "url": "/topics/argentina"
+            },
+            {
+                "name": "Everyone",
+                "url": "/topics/everyone"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ian_mckeever_674564",
+        "quote": "I have never had the money to make too many large purchases.",
+        "author": {
+            "name": "Ian McKeever",
+            "url": "/quotes/ian_mckeever_674564"
+        },
+        "topics": [
+            {
+                "name": "Money",
+                "url": "/topics/money"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Large",
+                "url": "/topics/large"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ian_mckeever_674565",
+        "quote": "I don't spend a lot on holidays, but have been very fortunate to travel extensively through doing various challenges around the world. The best place I've ever been is Argentina.",
+        "author": {
+            "name": "Ian McKeever",
+            "url": "/quotes/ian_mckeever_674565"
+        },
+        "topics": [
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ian_mckeever_674567",
+        "quote": "I usually eat in my friend Tom Corcoran's place - the Siam Thai in Monkstown. I go there for a very large plate of beef in red wine sauce.",
+        "author": {
+            "name": "Ian McKeever",
+            "url": "/quotes/ian_mckeever_674567"
+        },
+        "topics": [
+            {
+                "name": "Red Wine",
+                "url": "/topics/red_wine"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Large",
+                "url": "/topics/large"
+            }
+        ]
+    }
+]

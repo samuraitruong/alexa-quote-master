@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/henry_irving_199351",
+        "quote": "You speak into it and everything is recorded, voice, tone, intonation, everything. You turn a little wheel, and forth it comes, and can be repeated ten thousand times. Only fancy what this suggests.",
+        "author": {
+            "name": "Henry Irving",
+            "url": "/quotes/henry_irving_199351"
+        },
+        "topics": [
+            {
+                "name": "Voice",
+                "url": "/topics/voice"
+            },
+            {
+                "name": "Fancy",
+                "url": "/topics/fancy"
+            },
+            {
+                "name": "Intonation",
+                "url": "/topics/intonation"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henry_irving_199348",
+        "quote": "Into thy hands, O Lord. Into thy hands.",
+        "author": {
+            "name": "Henry Irving",
+            "url": "/quotes/henry_irving_199348"
+        },
+        "topics": [
+            {
+                "name": "Hands",
+                "url": "/topics/hands"
+            },
+            {
+                "name": "Lord",
+                "url": "/topics/lord"
+            },
+            {
+                "name": "Thy",
+                "url": "/topics/thy"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henry_irving_199350",
+        "quote": "Wouldn't you like to have heard the voice of Shakespeare, or Jesus Christ?",
+        "author": {
+            "name": "Henry Irving",
+            "url": "/quotes/henry_irving_199350"
+        },
+        "topics": [
+            {
+                "name": "Voice",
+                "url": "/topics/voice"
+            },
+            {
+                "name": "Christ",
+                "url": "/topics/christ"
+            },
+            {
+                "name": "Jesus",
+                "url": "/topics/jesus"
+            }
+        ]
+    }
+]

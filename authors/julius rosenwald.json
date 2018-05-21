@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/julius_rosenwald_211411",
+        "quote": "Do not be fooled into believing that because a man is rich he is necessarily smart. There is ample proof to the contrary.",
+        "author": {
+            "name": "Julius Rosenwald",
+            "url": "/quotes/julius_rosenwald_211411"
+        },
+        "topics": [
+            {
+                "name": "Rich",
+                "url": "/topics/rich"
+            },
+            {
+                "name": "Fooled",
+                "url": "/topics/fooled"
+            },
+            {
+                "name": "Ample",
+                "url": "/topics/ample"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/julius_rosenwald_211412",
+        "quote": "Early in my business career I learned the folly of worrying about anything. I have always worked as hard as I could, but when a thing went wrong and could not be righted, I dismissed it from my mind.",
+        "author": {
+            "name": "Julius Rosenwald",
+            "url": "/quotes/julius_rosenwald_211412"
+        },
+        "topics": [
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Folly",
+                "url": "/topics/folly"
+            }
+        ]
+    }
+]

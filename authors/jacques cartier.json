@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/jacques_cartier_210923",
+        "quote": "I am inclined to believe that this is the land God gave to Cain.",
+        "author": {
+            "name": "Jacques Cartier",
+            "url": "/quotes/jacques_cartier_210923"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Land",
+                "url": "/topics/land"
+            },
+            {
+                "name": "Inclined",
+                "url": "/topics/inclined"
+            }
+        ]
+    }
+]

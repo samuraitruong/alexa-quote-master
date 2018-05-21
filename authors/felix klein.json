@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/felix_klein_215687",
+        "quote": "Everyone knows what a curve is, until he has studied enough mathematics to become confused through the countless number of possible exceptions.",
+        "author": {
+            "name": "Felix Klein",
+            "url": "/quotes/felix_klein_215687"
+        },
+        "topics": [
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Everyone",
+                "url": "/topics/everyone"
+            },
+            {
+                "name": "Curve",
+                "url": "/topics/curve"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/felix_klein_215686",
+        "quote": "The greatest mathematicians, as Archimedes, Newton, and Gauss, always united theory and applications in equal measure.",
+        "author": {
+            "name": "Felix Klein",
+            "url": "/quotes/felix_klein_215686"
+        },
+        "topics": [
+            {
+                "name": "Measure",
+                "url": "/topics/measure"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Equal",
+                "url": "/topics/equal"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/felix_klein_215690",
+        "quote": "The developing science departs at the same time more and more from its original scope and purpose and threatens to sacrifice its earlier unity and split into diverse branches.",
+        "author": {
+            "name": "Felix Klein",
+            "url": "/quotes/felix_klein_215690"
+        },
+        "topics": [
+            {
+                "name": "Purpose",
+                "url": "/topics/purpose"
+            },
+            {
+                "name": "Original",
+                "url": "/topics/original"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/felix_klein_215688",
+        "quote": "Thus, in a sense, mathematics has been most advanced by those who distinguished themselves by intuition rather than by rigorous proofs.",
+        "author": {
+            "name": "Felix Klein",
+            "url": "/quotes/felix_klein_215688"
+        },
+        "topics": [
+            {
+                "name": "Mathematics",
+                "url": "/topics/mathematics"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Thus",
+                "url": "/topics/thus"
+            }
+        ]
+    }
+]

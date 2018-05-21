@@ -1,0 +1,134 @@
+[
+    {
+        "url": "/quotes/lucan_380925",
+        "quote": "There stands the shadow of a glorious name.",
+        "author": {
+            "name": "Lucan",
+            "url": "/quotes/lucan_380925"
+        },
+        "topics": [
+            {
+                "name": "Shadow",
+                "url": "/topics/shadow"
+            },
+            {
+                "name": "Glorious",
+                "url": "/topics/glorious"
+            },
+            {
+                "name": "Stands",
+                "url": "/topics/stands"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lucan_380307",
+        "quote": "Great fear is concealed under daring.",
+        "author": {
+            "name": "Lucan",
+            "url": "/quotes/lucan_380307"
+        },
+        "topics": [
+            {
+                "name": "Great",
+                "url": "/topics/great"
+            },
+            {
+                "name": "Daring",
+                "url": "/topics/daring"
+            },
+            {
+                "name": "Concealed",
+                "url": "/topics/concealed"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lucan_108225",
+        "quote": "I have a wife, I have sons: all of them hostages given to fate.",
+        "author": {
+            "name": "Lucan",
+            "url": "/quotes/lucan_108225"
+        },
+        "topics": [
+            {
+                "name": "Fate",
+                "url": "/topics/fate"
+            },
+            {
+                "name": "Sons",
+                "url": "/topics/sons"
+            },
+            {
+                "name": "Given",
+                "url": "/topics/given"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lucan_118093",
+        "quote": "Some men by ancestry are only the shadow of a mighty name.",
+        "author": {
+            "name": "Lucan",
+            "url": "/quotes/lucan_118093"
+        },
+        "topics": [
+            {
+                "name": "Shadow",
+                "url": "/topics/shadow"
+            },
+            {
+                "name": "Ancestry",
+                "url": "/topics/ancestry"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lucan_117953",
+        "quote": "The gods conceal from men the happiness of death, that they may endure life.",
+        "author": {
+            "name": "Lucan",
+            "url": "/quotes/lucan_117953"
+        },
+        "topics": [
+            {
+                "name": "Death",
+                "url": "/topics/death"
+            },
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Conceal",
+                "url": "/topics/conceal"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lucan_389555",
+        "quote": "Nobody ever chooses the already unfortunate as objects of his loyal friendship.",
+        "author": {
+            "name": "Lucan",
+            "url": "/quotes/lucan_389555"
+        },
+        "topics": [
+            {
+                "name": "His",
+                "url": "/topics/his"
+            },
+            {
+                "name": "Ever",
+                "url": "/topics/ever"
+            },
+            {
+                "name": "Unfortunate",
+                "url": "/topics/unfortunate"
+            }
+        ]
+    }
+]

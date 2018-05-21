@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/buddy_holly_183306",
+        "quote": "Without Elvis none of us could have made it.",
+        "author": {
+            "name": "Buddy Holly",
+            "url": "/quotes/buddy_holly_183306"
+        },
+        "topics": [
+            {
+                "name": "Made",
+                "url": "/topics/made"
+            },
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            },
+            {
+                "name": "Elvis",
+                "url": "/topics/elvis"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/buddy_holly_388629",
+        "quote": "I'm not trying to stump anybody... it's the beauty of the language that I'm interested in.",
+        "author": {
+            "name": "Buddy Holly",
+            "url": "/quotes/buddy_holly_388629"
+        },
+        "topics": [
+            {
+                "name": "Beauty",
+                "url": "/topics/beauty"
+            },
+            {
+                "name": "Trying",
+                "url": "/topics/trying"
+            },
+            {
+                "name": "Anybody",
+                "url": "/topics/anybody"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/buddy_holly_183307",
+        "quote": "If anyone asks you what kind of music you play, tell him 'pop.' Don't tell him 'rock'n'roll' or they won't even let you in the hotel.",
+        "author": {
+            "name": "Buddy Holly",
+            "url": "/quotes/buddy_holly_183307"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Tell",
+                "url": "/topics/tell"
+            },
+            {
+                "name": "Kind",
+                "url": "/topics/kind"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/buddy_holly_345255",
+        "quote": "Death is very often referred to as a good career move.",
+        "author": {
+            "name": "Buddy Holly",
+            "url": "/quotes/buddy_holly_345255"
+        },
+        "topics": [
+            {
+                "name": "Career",
+                "url": "/topics/career"
+            },
+            {
+                "name": "Move",
+                "url": "/topics/move"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    }
+]

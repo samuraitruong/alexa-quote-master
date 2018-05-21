@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/pietro_mascagni_193151",
+        "quote": "The room where I am lodging is stupendous. Thank God I am as fit as a fiddle.",
+        "author": {
+            "name": "Pietro Mascagni",
+            "url": "/quotes/pietro_mascagni_193151"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Fit",
+                "url": "/topics/fit"
+            },
+            {
+                "name": "Fiddle",
+                "url": "/topics/fiddle"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/pietro_mascagni_193152",
+        "quote": "I was little impressed with this rough and ready way of persuading people to renew their contracts and decided that I was now quite free of any obligations.",
+        "author": {
+            "name": "Pietro Mascagni",
+            "url": "/quotes/pietro_mascagni_193152"
+        },
+        "topics": [
+            {
+                "name": "Rough",
+                "url": "/topics/rough"
+            },
+            {
+                "name": "Impressed",
+                "url": "/topics/impressed"
+            },
+            {
+                "name": "Persuading",
+                "url": "/topics/persuading"
+            }
+        ]
+    }
+]

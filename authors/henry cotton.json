@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/henry_cotton_191933",
+        "quote": "Imagine the ball has little legs, and chop them off.",
+        "author": {
+            "name": "Henry Cotton",
+            "url": "/quotes/henry_cotton_191933"
+        },
+        "topics": [
+            {
+                "name": "Legs",
+                "url": "/topics/legs"
+            },
+            {
+                "name": "Ball",
+                "url": "/topics/ball"
+            },
+            {
+                "name": "Imagine",
+                "url": "/topics/imagine"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henry_cotton_191934",
+        "quote": "The big trick in putting is not method; the secret of putting is domination of the nerves.",
+        "author": {
+            "name": "Henry Cotton",
+            "url": "/quotes/henry_cotton_191934"
+        },
+        "topics": [
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Domination",
+                "url": "/topics/domination"
+            },
+            {
+                "name": "Nerves",
+                "url": "/topics/nerves"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henry_cotton_191936",
+        "quote": "Golf is a matter of confidence. If you think you cannot do it, there is no chance you will.",
+        "author": {
+            "name": "Henry Cotton",
+            "url": "/quotes/henry_cotton_191936"
+        },
+        "topics": [
+            {
+                "name": "Golf",
+                "url": "/topics/golf"
+            },
+            {
+                "name": "Chance",
+                "url": "/topics/chance"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            }
+        ]
+    }
+]

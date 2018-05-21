@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/thomas_cochrane_221449",
+        "quote": "Loyalty to the family must be merged into loyalty to the community, loyalty to the community into loyalty to the nation, and loyalty to the nation into loyalty to mankind. The citizen of the future must be a citizen of the world.",
+        "author": {
+            "name": "Thomas Cochrane",
+            "url": "/quotes/thomas_cochrane_221449"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Mankind",
+                "url": "/topics/mankind"
+            },
+            {
+                "name": "Citizen",
+                "url": "/topics/citizen"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_cochrane_221447",
+        "quote": "Relativity must replace absolutism in the realm of morals as well as in the spheres of physics and biology.",
+        "author": {
+            "name": "Thomas Cochrane",
+            "url": "/quotes/thomas_cochrane_221447"
+        },
+        "topics": [
+            {
+                "name": "Biology",
+                "url": "/topics/biology"
+            },
+            {
+                "name": "Relativity",
+                "url": "/topics/relativity"
+            },
+            {
+                "name": "Spheres",
+                "url": "/topics/spheres"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_cochrane_221448",
+        "quote": "If the individual is to be happy in the contemporary order, he must be open-minded with respect to new values and new arrangements.",
+        "author": {
+            "name": "Thomas Cochrane",
+            "url": "/quotes/thomas_cochrane_221448"
+        },
+        "topics": [
+            {
+                "name": "Happy",
+                "url": "/topics/happy"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Individual",
+                "url": "/topics/individual"
+            }
+        ]
+    }
+]

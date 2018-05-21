@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/jack_hannah_390139",
+        "quote": "Wild animals are just as confused as people are now. You've got toxins in the water, oil, sewage, all sorts of things.",
+        "author": {
+            "name": "Jack Hannah",
+            "url": "/quotes/jack_hannah_390139"
+        },
+        "topics": [
+            {
+                "name": "Water",
+                "url": "/topics/water"
+            },
+            {
+                "name": "People",
+                "url": "/topics/people"
+            },
+            {
+                "name": "Got",
+                "url": "/topics/got"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jack_hannah_391334",
+        "quote": "The best thing to do is just leave them alone. Alligators want to be away from you just as much as you want to be away from them.",
+        "author": {
+            "name": "Jack Hannah",
+            "url": "/quotes/jack_hannah_391334"
+        },
+        "topics": [
+            {
+                "name": "Best",
+                "url": "/topics/best"
+            },
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            }
+        ]
+    }
+]

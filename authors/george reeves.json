@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/george_reeves_162636",
+        "quote": "Knock the 't' off the 'can't'",
+        "author": {
+            "name": "George Reeves",
+            "url": "/quotes/george_reeves_162636"
+        },
+        "topics": [
+            {
+                "name": "Knock",
+                "url": "/topics/knock"
+            },
+            {
+                "name": "Off",
+                "url": "/topics/off"
+            },
+            {
+                "name": "T",
+                "url": "/topics/t"
+            }
+        ]
+    }
+]

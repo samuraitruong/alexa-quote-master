@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/jonathan_ross_234071",
+        "quote": "It's not whether you win or lose, it's how many people remember you when you die.",
+        "author": {
+            "name": "Jonathan Ross",
+            "url": "/quotes/jonathan_ross_234071"
+        },
+        "topics": [
+            {
+                "name": "Win Or Lose",
+                "url": "/topics/win_or_lose"
+            },
+            {
+                "name": "Lose",
+                "url": "/topics/lose"
+            },
+            {
+                "name": "Die",
+                "url": "/topics/die"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jonathan_ross_406288",
+        "quote": "Fortunately, this is not something that we see a lot of. Very rarely do you see a dog in this terrible shape from starvation. People just aren't that cruel.",
+        "author": {
+            "name": "Jonathan Ross",
+            "url": "/quotes/jonathan_ross_406288"
+        },
+        "topics": [
+            {
+                "name": "Cruel",
+                "url": "/topics/cruel"
+            },
+            {
+                "name": "Shape",
+                "url": "/topics/shape"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/marcia_strassman_575050",
+        "quote": "My downfall emotionally is musicians and songwriters.",
+        "author": {
+            "name": "Marcia Strassman",
+            "url": "/quotes/marcia_strassman_575050"
+        },
+        "topics": [
+            {
+                "name": "Musicians",
+                "url": "/topics/musicians"
+            },
+            {
+                "name": "Downfall",
+                "url": "/topics/downfall"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marcia_strassman_575051",
+        "quote": "I sang all the time, and finally, my mother looked at me and said: 'I have a friend in New York who gives singing lessons. If she says you can sing, you can take lessons. If you can't sing, I never want you to open your mouth again as long as you live.'",
+        "author": {
+            "name": "Marcia Strassman",
+            "url": "/quotes/marcia_strassman_575051"
+        },
+        "topics": [
+            {
+                "name": "Mother",
+                "url": "/topics/mother"
+            },
+            {
+                "name": "Long",
+                "url": "/topics/long"
+            },
+            {
+                "name": "Your",
+                "url": "/topics/your"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/michael_levitt_610600",
+        "quote": "I love the Swedish people for their detective novels, their archipelago, their sense of humor, their carbonated vodka, and most especially, for their wonderful hospitality.",
+        "author": {
+            "name": "Michael Levitt",
+            "url": "/quotes/michael_levitt_610600"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Sense",
+                "url": "/topics/sense"
+            },
+            {
+                "name": "Swedish",
+                "url": "/topics/swedish"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/michael_levitt_610601",
+        "quote": "It's sort of nice in more general terms to see that computational science, computational biology is being recognized. It's become a very large field, and it's always in some ways been the poor sister, or the ugly sister, to experimental biology.",
+        "author": {
+            "name": "Michael Levitt",
+            "url": "/quotes/michael_levitt_610601"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    }
+]

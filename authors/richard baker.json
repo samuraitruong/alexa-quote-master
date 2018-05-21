@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/richard_baker_176735",
+        "quote": "To get rich never risk your health. For it is the truth that health is the wealth of wealth.",
+        "author": {
+            "name": "Richard Baker",
+            "url": "/quotes/richard_baker_176735"
+        },
+        "topics": [
+            {
+                "name": "Truth",
+                "url": "/topics/truth"
+            },
+            {
+                "name": "Wealth",
+                "url": "/topics/wealth"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/richard_baker_395753",
+        "quote": "The British may not know much about music, but they certainly loves the noise it makes.",
+        "author": {
+            "name": "Richard Baker",
+            "url": "/quotes/richard_baker_395753"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Certainly",
+                "url": "/topics/certainly"
+            }
+        ]
+    }
+]

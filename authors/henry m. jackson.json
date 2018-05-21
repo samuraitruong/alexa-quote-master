@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/henry_m_jackson_171849",
+        "quote": "The best politics is no politics.",
+        "author": {
+            "name": "Henry M. Jackson",
+            "url": "/quotes/henry_m_jackson_171849"
+        },
+        "topics": [
+            {
+                "name": "Best",
+                "url": "/topics/best"
+            },
+            {
+                "name": "Politics",
+                "url": "/topics/politics"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henry_m_jackson_261704",
+        "quote": "The president's decision yesterday to set into motion the development of the hydrogen bomb... has placed us on the knife-edge of history.",
+        "author": {
+            "name": "Henry M. Jackson",
+            "url": "/quotes/henry_m_jackson_261704"
+        },
+        "topics": [
+            {
+                "name": "Development",
+                "url": "/topics/development"
+            },
+            {
+                "name": "Set",
+                "url": "/topics/set"
+            },
+            {
+                "name": "Placed",
+                "url": "/topics/placed"
+            }
+        ]
+    }
+]

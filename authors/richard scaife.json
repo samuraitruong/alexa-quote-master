@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/richard_scaife_223044",
+        "quote": "Our funding is based on our support of ideas like limited government, individual rights and a strong defense.",
+        "author": {
+            "name": "Richard Scaife",
+            "url": "/quotes/richard_scaife_223044"
+        },
+        "topics": [
+            {
+                "name": "Strong",
+                "url": "/topics/strong"
+            },
+            {
+                "name": "Funding",
+                "url": "/topics/funding"
+            },
+            {
+                "name": "Based",
+                "url": "/topics/based"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/richard_scaife_223046",
+        "quote": "Basically I am a private individual who has concerns about his country and who has resources that give me the privilege - and responsibility - to do something to help my country if I can.",
+        "author": {
+            "name": "Richard Scaife",
+            "url": "/quotes/richard_scaife_223046"
+        },
+        "topics": [
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            },
+            {
+                "name": "Private",
+                "url": "/topics/private"
+            }
+        ]
+    }
+]

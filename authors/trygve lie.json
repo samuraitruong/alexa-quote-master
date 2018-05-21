@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/trygve_lie_115385",
+        "quote": "I shall take all the troubles of the past, all the disappointments, all the headaches, and I shall pack them in a bag and throw them in the East River.",
+        "author": {
+            "name": "Trygve Lie",
+            "url": "/quotes/trygve_lie_115385"
+        },
+        "topics": [
+            {
+                "name": "Past",
+                "url": "/topics/past"
+            },
+            {
+                "name": "Bag",
+                "url": "/topics/bag"
+            },
+            {
+                "name": "Shall",
+                "url": "/topics/shall"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/trygve_lie_164236",
+        "quote": "A real diplomat is one who can cut his neighbor's throat without having his neighbor notice it.",
+        "author": {
+            "name": "Trygve Lie",
+            "url": "/quotes/trygve_lie_164236"
+        },
+        "topics": [
+            {
+                "name": "Cut",
+                "url": "/topics/cut"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            },
+            {
+                "name": "Having",
+                "url": "/topics/having"
+            }
+        ]
+    }
+]

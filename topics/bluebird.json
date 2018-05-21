@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/henry_david_thoreau_107099?src=t_bluebird",
+        "quote": "The bluebird carries the sky on his back.",
+        "author": {
+            "name": "Henry David Thoreau",
+            "url": "/authors/henry_david_thoreau"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "Sky",
+                "url": "/topics/sky"
+            },
+            {
+                "name": "Carries",
+                "url": "/topics/carries"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gary_larson_110180?src=t_bluebird",
+        "quote": "The Bluebird of Happiness long absent from his life, Ned is visited by the Chicken of Depression.",
+        "author": {
+            "name": "Gary Larson",
+            "url": "/authors/gary_larson"
+        },
+        "topics": [
+            {
+                "name": "Happiness",
+                "url": "/topics/happiness"
+            },
+            {
+                "name": "Chicken",
+                "url": "/topics/chicken"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gretchen_rubin_619310?src=t_bluebird",
+        "quote": "Each week, I post a video about some 'Pigeon of Discontent' raised by a reader. Because, as much as we try to find the 'Bluebird of Happiness,' we're also plagued by those small but pesky 'Pigeons of Discontent.'",
+        "author": {
+            "name": "Gretchen Rubin",
+            "url": "/authors/gretchen_rubin"
+        },
+        "topics": [
+            {
+                "name": "Week",
+                "url": "/topics/week"
+            },
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henry_david_thoreau_396475?src=t_bluebird",
+        "quote": "A man's interest in a single bluebird is worth more than a complete but dry list of the fauna and flora of a town.",
+        "author": {
+            "name": "Henry David Thoreau",
+            "url": "/authors/henry_david_thoreau"
+        },
+        "topics": [
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Flora",
+                "url": "/topics/flora"
+            },
+            {
+                "name": "Town",
+                "url": "/topics/town"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_burroughs_760814?src=t_bluebird",
+        "quote": "There never was a happier or more devoted husband than the male bluebird. He is the gay champion and escort of the female at all times, and while she is sitting, he feeds her regularly.",
+        "author": {
+            "name": "John Burroughs",
+            "url": "/authors/john_burroughs"
+        },
+        "topics": [
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Escort",
+                "url": "/topics/escort"
+            },
+            {
+                "name": "Devoted",
+                "url": "/topics/devoted"
+            }
+        ]
+    }
+]

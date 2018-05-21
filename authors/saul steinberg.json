@@ -1,0 +1,108 @@
+[
+    {
+        "url": "/quotes/saul_steinberg_390081",
+        "quote": "A beautiful woman can be painted as a totem only; not as a woman, but as a Madonna, a queen, a sphinx.",
+        "author": {
+            "name": "Saul Steinberg",
+            "url": "/quotes/saul_steinberg_390081"
+        },
+        "topics": [
+            {
+                "name": "Beautiful",
+                "url": "/topics/beautiful"
+            },
+            {
+                "name": "Sphinx",
+                "url": "/topics/sphinx"
+            },
+            {
+                "name": "Madonna",
+                "url": "/topics/madonna"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/saul_steinberg_403199",
+        "quote": "The artist is an educator of artists of the future who are able to understand and in the process of understanding perform unexpected - the best - evolutions.",
+        "author": {
+            "name": "Saul Steinberg",
+            "url": "/quotes/saul_steinberg_403199"
+        },
+        "topics": [
+            {
+                "name": "Unexpected",
+                "url": "/topics/unexpected"
+            },
+            {
+                "name": "Artist",
+                "url": "/topics/artist"
+            },
+            {
+                "name": "Process",
+                "url": "/topics/process"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/saul_steinberg_114038",
+        "quote": "I am among the few who continue to draw after childhood is ended, continuing and perfecting childhood drawing - without the traditional interruption of academic training.",
+        "author": {
+            "name": "Saul Steinberg",
+            "url": "/quotes/saul_steinberg_114038"
+        },
+        "topics": [
+            {
+                "name": "Childhood",
+                "url": "/topics/childhood"
+            },
+            {
+                "name": "Training",
+                "url": "/topics/training"
+            },
+            {
+                "name": "Draw",
+                "url": "/topics/draw"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/saul_steinberg_389898",
+        "quote": "The frightening thought that what you draw may become a building makes for reasoned lines.",
+        "author": {
+            "name": "Saul Steinberg",
+            "url": "/quotes/saul_steinberg_389898"
+        },
+        "topics": [
+            {
+                "name": "Architecture",
+                "url": "/topics/architecture"
+            },
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/saul_steinberg_390423",
+        "quote": "Questions are fiction, and answers are anything from more fiction to science-fiction.",
+        "author": {
+            "name": "Saul Steinberg",
+            "url": "/quotes/saul_steinberg_390423"
+        },
+        "topics": [
+            {
+                "name": "Fiction",
+                "url": "/topics/fiction"
+            },
+            {
+                "name": "Science-Fiction",
+                "url": "/topics/science-fiction"
+            }
+        ]
+    }
+]

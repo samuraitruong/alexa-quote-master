@@ -1,0 +1,200 @@
+[
+    {
+        "url": "/quotes/john_paul_jones_821811?src=t_seaman",
+        "quote": "A captain of the Navy ought to be a man of strong and well connected sense, with a tolerable good education, a gentleman, as well as a seaman both in theory and practice.",
+        "author": {
+            "name": "John Paul Jones",
+            "url": "/authors/john_paul_jones"
+        },
+        "topics": [
+            {
+                "name": "Education",
+                "url": "/topics/education"
+            },
+            {
+                "name": "Strong",
+                "url": "/topics/strong"
+            },
+            {
+                "name": "Practice",
+                "url": "/topics/practice"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_petty_200159?src=t_seaman",
+        "quote": "Every seaman is not only a navigator, but a merchant and also a soldier.",
+        "author": {
+            "name": "William Petty",
+            "url": "/authors/william_petty"
+        },
+        "topics": [
+            {
+                "name": "Soldier",
+                "url": "/topics/soldier"
+            },
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            },
+            {
+                "name": "Navigator",
+                "url": "/topics/navigator"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/laurence_j_peter_120036?src=t_seaman",
+        "quote": "The seaman tells stories of winds, the ploughman of bulls; the soldier details his wounds, the shepherd his sheep.",
+        "author": {
+            "name": "Laurence J. Peter",
+            "url": "/authors/laurence_j_peter"
+        },
+        "topics": [
+            {
+                "name": "His",
+                "url": "/topics/his"
+            },
+            {
+                "name": "Stories",
+                "url": "/topics/stories"
+            },
+            {
+                "name": "Tells",
+                "url": "/topics/tells"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_auster_213250?src=t_seaman",
+        "quote": "It's extremely difficult to get these jobs because you can't get a job on a ship unless you have seaman's paper's, and you can't get seaman's papers unless you have a job on a ship. There had to be a way to break through the circle, and he was the one who arranged it for me.",
+        "author": {
+            "name": "Paul Auster",
+            "url": "/authors/paul_auster"
+        },
+        "topics": [
+            {
+                "name": "Ship",
+                "url": "/topics/ship"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Had",
+                "url": "/topics/had"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/richard_phillips_794388?src=t_seaman",
+        "quote": "I am just a bit player, a seaman doing his part like all the seamen out there.",
+        "author": {
+            "name": "Richard Phillips",
+            "url": "/authors/richard_phillips"
+        },
+        "topics": [
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Part",
+                "url": "/topics/part"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_motson_296834?src=t_seaman",
+        "quote": "And Seaman, just like a falling oak, manages to change direction.",
+        "author": {
+            "name": "John Motson",
+            "url": "/authors/john_motson"
+        },
+        "topics": [
+            {
+                "name": "Change",
+                "url": "/topics/change"
+            },
+            {
+                "name": "Falling",
+                "url": "/topics/falling"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brian_clough_181414?src=t_seaman",
+        "quote": "That Seaman is a handsome young man but he spends too much time looking in his mirror rather than at the ball. You can't keep goal with hair like that.",
+        "author": {
+            "name": "Brian Clough",
+            "url": "/authors/brian_clough"
+        },
+        "topics": [
+            {
+                "name": "Mirror",
+                "url": "/topics/mirror"
+            },
+            {
+                "name": "Goal",
+                "url": "/topics/goal"
+            },
+            {
+                "name": "Handsome",
+                "url": "/topics/handsome"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_sergeant_wise_250615?src=t_seaman",
+        "quote": "I was a tried seaman when, for the first time, I set foot upon the soil of my country, and took up my residence where my people had lived for over two hundred years.",
+        "author": {
+            "name": "John Sergeant Wise",
+            "url": "/authors/john_sergeant_wise"
+        },
+        "topics": [
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Soil",
+                "url": "/topics/soil"
+            },
+            {
+                "name": "Hundred",
+                "url": "/topics/hundred"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_callaghan_205194?src=t_seaman",
+        "quote": "I sum up the prospects for 1967 in three short sentences. We are back on course. The ship is picking up speed. The economy is moving. Every seaman knows the command at such a moment: 'steady as she goes'.",
+        "author": {
+            "name": "James Callaghan",
+            "url": "/authors/james_callaghan"
+        },
+        "topics": [
+            {
+                "name": "Back",
+                "url": "/topics/back"
+            },
+            {
+                "name": "Sentences",
+                "url": "/topics/sentences"
+            },
+            {
+                "name": "Prospects",
+                "url": "/topics/prospects"
+            }
+        ]
+    }
+]

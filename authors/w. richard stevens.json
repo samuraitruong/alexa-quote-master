@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/w_richard_stevens_289055",
+        "quote": "After graduating in 1973 I went into the programming field.",
+        "author": {
+            "name": "W. Richard Stevens",
+            "url": "/quotes/w_richard_stevens_289055"
+        },
+        "topics": [
+            {
+                "name": "Field",
+                "url": "/topics/field"
+            },
+            {
+                "name": "Graduating",
+                "url": "/topics/graduating"
+            },
+            {
+                "name": "After",
+                "url": "/topics/after"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/w_richard_stevens_289057",
+        "quote": "I drove across country in my yellow 1970 VW bug (which I drove until 1986) to Los Angeles, having had enough cold weather in 5 years in Ann Arbor, and found a job within a few days.",
+        "author": {
+            "name": "W. Richard Stevens",
+            "url": "/quotes/w_richard_stevens_289057"
+        },
+        "topics": [
+            {
+                "name": "Yellow",
+                "url": "/topics/yellow"
+            },
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Had",
+                "url": "/topics/had"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/w_richard_stevens_289059",
+        "quote": "In 1975 I decided that there was no future in flying (airline jobs were impossible to get, and who wants a job where you are judged only by seniority?) and headed off to grad school.",
+        "author": {
+            "name": "W. Richard Stevens",
+            "url": "/quotes/w_richard_stevens_289059"
+        },
+        "topics": [
+            {
+                "name": "Impossible",
+                "url": "/topics/impossible"
+            },
+            {
+                "name": "Headed",
+                "url": "/topics/headed"
+            },
+            {
+                "name": "Decided",
+                "url": "/topics/decided"
+            }
+        ]
+    }
+]

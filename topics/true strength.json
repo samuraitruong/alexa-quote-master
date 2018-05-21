@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/vincent_van_gogh_163068?src=t_true_strength",
+        "quote": "Love many things, for therein lies the true strength, and whosoever loves much performs much, and can accomplish much, and what is done in love is done well.",
+        "author": {
+            "name": "Vincent Van Gogh",
+            "url": "/authors/vincent_van_gogh"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Strength",
+                "url": "/topics/strength"
+            },
+            {
+                "name": "Performs",
+                "url": "/topics/performs"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henry_miller_124708?src=t_true_strength",
+        "quote": "True strength lies in submission which permits one to dedicate his life, through devotion, to something beyond himself.",
+        "author": {
+            "name": "Henry Miller",
+            "url": "/authors/henry_miller"
+        },
+        "topics": [
+            {
+                "name": "Strength",
+                "url": "/topics/strength"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/unknown_135148?src=t_true_strength",
+        "quote": "Women are like teabags. We don't know our true strength until we are in hot water!",
+        "author": {
+            "name": "Unknown",
+            "url": "/authors/unknown"
+        },
+        "topics": [
+            {
+                "name": "Strength",
+                "url": "/topics/strength"
+            },
+            {
+                "name": "Hot",
+                "url": "/topics/hot"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/louise_berliawsky_nevelso_145598?src=t_true_strength",
+        "quote": "True strength is delicate.",
+        "author": {
+            "name": "Louise Berliawsky Nevelson",
+            "url": "/authors/louise_berliawsky_nevelso"
+        },
+        "topics": [
+            {
+                "name": "Strength",
+                "url": "/topics/strength"
+            },
+            {
+                "name": "True",
+                "url": "/topics/true"
+            },
+            {
+                "name": "Delicate",
+                "url": "/topics/delicate"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joe_piscopo_746866?src=t_true_strength",
+        "quote": "I stay in Jersey - it's home, man. It's home. And I think that's the foundation of the true strength of the communities where we live in America.",
+        "author": {
+            "name": "Joe Piscopo",
+            "url": "/authors/joe_piscopo"
+        },
+        "topics": [
+            {
+                "name": "Strength",
+                "url": "/topics/strength"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    }
+]

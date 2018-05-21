@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/blaine_lee_100563",
+        "quote": "The great leaders are like the best conductors - they reach beyond the notes to reach the magic in the players.",
+        "author": {
+            "name": "Blaine Lee",
+            "url": "/quotes/blaine_lee_100563"
+        },
+        "topics": [
+            {
+                "name": "Business",
+                "url": "/topics/business"
+            },
+            {
+                "name": "Magic",
+                "url": "/topics/magic"
+            },
+            {
+                "name": "Notes",
+                "url": "/topics/notes"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/blaine_lee_161285",
+        "quote": "The leader who exercises power with honor will work from the inside out, starting with himself.",
+        "author": {
+            "name": "Blaine Lee",
+            "url": "/quotes/blaine_lee_161285"
+        },
+        "topics": [
+            {
+                "name": "Business",
+                "url": "/topics/business"
+            },
+            {
+                "name": "Leader",
+                "url": "/topics/leader"
+            },
+            {
+                "name": "Himself",
+                "url": "/topics/himself"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/blaine_lee_173596",
+        "quote": "What we actually learn, from any given set of circumstances, determines whether we become increasingly powerless or more powerful.",
+        "author": {
+            "name": "Blaine Lee",
+            "url": "/quotes/blaine_lee_173596"
+        },
+        "topics": [
+            {
+                "name": "Business",
+                "url": "/topics/business"
+            },
+            {
+                "name": "Given",
+                "url": "/topics/given"
+            }
+        ]
+    }
+]

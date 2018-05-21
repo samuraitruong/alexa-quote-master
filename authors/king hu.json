@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/king_hu_194466",
+        "quote": "I don't like James Bond. They made him a super hero, but he is just an agent, a human being. In my movies, secret agents are more realistic, I didn't want to portray them in the most glowing colours.",
+        "author": {
+            "name": "King Hu",
+            "url": "/quotes/king_hu_194466"
+        },
+        "topics": [
+            {
+                "name": "Hero",
+                "url": "/topics/hero"
+            },
+            {
+                "name": "Agent",
+                "url": "/topics/agent"
+            },
+            {
+                "name": "James",
+                "url": "/topics/james"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/king_hu_338778",
+        "quote": "The audience is the camera. I don't want the audience to sit and watch, I want it to move.",
+        "author": {
+            "name": "King Hu",
+            "url": "/quotes/king_hu_338778"
+        },
+        "topics": [
+            {
+                "name": "Audience",
+                "url": "/topics/audience"
+            },
+            {
+                "name": "Move",
+                "url": "/topics/move"
+            },
+            {
+                "name": "Watch",
+                "url": "/topics/watch"
+            }
+        ]
+    }
+]

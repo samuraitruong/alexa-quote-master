@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/jane_lauder_732194",
+        "quote": "Brands are born, not created.",
+        "author": {
+            "name": "Jane Lauder",
+            "url": "/quotes/jane_lauder_732194"
+        },
+        "topics": [
+            {
+                "name": "Born",
+                "url": "/topics/born"
+            },
+            {
+                "name": "Brands",
+                "url": "/topics/brands"
+            },
+            {
+                "name": "Created",
+                "url": "/topics/created"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jane_lauder_732196",
+        "quote": "From a sustainability standpoint, look for natural products, but not all chemicals are bad. Learn what works for you.",
+        "author": {
+            "name": "Jane Lauder",
+            "url": "/quotes/jane_lauder_732196"
+        },
+        "topics": [
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            },
+            {
+                "name": "Natural",
+                "url": "/topics/natural"
+            },
+            {
+                "name": "Works",
+                "url": "/topics/works"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jane_lauder_732195",
+        "quote": "It's fun to buy make-up online. It's even more fun to go into a store and buy it.",
+        "author": {
+            "name": "Jane Lauder",
+            "url": "/quotes/jane_lauder_732195"
+        },
+        "topics": [
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Even",
+                "url": "/topics/even"
+            },
+            {
+                "name": "Make-Up",
+                "url": "/topics/make-up"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jane_lauder_732197",
+        "quote": "Generation Y is much smarter. They just get information much more quickly. They really understand the idea of quality and value.",
+        "author": {
+            "name": "Jane Lauder",
+            "url": "/quotes/jane_lauder_732197"
+        },
+        "topics": [
+            {
+                "name": "Generation",
+                "url": "/topics/generation"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Idea",
+                "url": "/topics/idea"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/bede_jarrett_101619",
+        "quote": "The mysterious is always attractive. People will always follow a vail.",
+        "author": {
+            "name": "Bede Jarrett",
+            "url": "/quotes/bede_jarrett_101619"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Attractive",
+                "url": "/topics/attractive"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bede_jarrett_104017",
+        "quote": "The world needs anger. The world often continues to allow evil because it isn't angry enough.",
+        "author": {
+            "name": "Bede Jarrett",
+            "url": "/quotes/bede_jarrett_104017"
+        },
+        "topics": [
+            {
+                "name": "Anger",
+                "url": "/topics/anger"
+            },
+            {
+                "name": "Needs",
+                "url": "/topics/needs"
+            },
+            {
+                "name": "Allow",
+                "url": "/topics/allow"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/mitch_miller_162585",
+        "quote": "Keep it simple, keep it sexy, keep it sad.",
+        "author": {
+            "name": "Mitch Miller",
+            "url": "/quotes/mitch_miller_162585"
+        },
+        "topics": [
+            {
+                "name": "Sad",
+                "url": "/topics/sad"
+            },
+            {
+                "name": "Sexy",
+                "url": "/topics/sexy"
+            },
+            {
+                "name": "Keep",
+                "url": "/topics/keep"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mitch_miller_388214",
+        "quote": "The reason kids like rock 'n roll is their parents don't.",
+        "author": {
+            "name": "Mitch Miller",
+            "url": "/quotes/mitch_miller_388214"
+        },
+        "topics": [
+            {
+                "name": "Rock",
+                "url": "/topics/rock"
+            },
+            {
+                "name": "Reason",
+                "url": "/topics/reason"
+            },
+            {
+                "name": "Rock N Roll",
+                "url": "/topics/rock_n_roll"
+            }
+        ]
+    }
+]

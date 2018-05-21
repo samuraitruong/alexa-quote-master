@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/roy_e_disney_183365",
+        "quote": "When your values are clear to you, making decisions becomes easier.",
+        "author": {
+            "name": "Roy E. Disney",
+            "url": "/quotes/roy_e_disney_183365"
+        },
+        "topics": [
+            {
+                "name": "Leadership",
+                "url": "/topics/leadership"
+            },
+            {
+                "name": "Values",
+                "url": "/topics/values"
+            },
+            {
+                "name": "Making",
+                "url": "/topics/making"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/roy_e_disney_170949",
+        "quote": "It's not hard to make decisions when you know what your values are.",
+        "author": {
+            "name": "Roy E. Disney",
+            "url": "/quotes/roy_e_disney_170949"
+        },
+        "topics": [
+            {
+                "name": "Decisions",
+                "url": "/topics/decisions"
+            },
+            {
+                "name": "Values",
+                "url": "/topics/values"
+            },
+            {
+                "name": "Know",
+                "url": "/topics/know"
+            }
+        ]
+    }
+]

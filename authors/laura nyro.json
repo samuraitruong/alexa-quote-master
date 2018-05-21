@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/laura_nyro_306757",
+        "quote": "As beautiful as simplicity is, it can become a tradition that stands in the way of exploration.",
+        "author": {
+            "name": "Laura Nyro",
+            "url": "/quotes/laura_nyro_306757"
+        },
+        "topics": [
+            {
+                "name": "Beautiful",
+                "url": "/topics/beautiful"
+            },
+            {
+                "name": "Stands",
+                "url": "/topics/stands"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/laura_nyro_306751",
+        "quote": "I don't think you should categorize yourself as an artist.",
+        "author": {
+            "name": "Laura Nyro",
+            "url": "/quotes/laura_nyro_306751"
+        },
+        "topics": [
+            {
+                "name": "Artist",
+                "url": "/topics/artist"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Should",
+                "url": "/topics/should"
+            }
+        ]
+    }
+]

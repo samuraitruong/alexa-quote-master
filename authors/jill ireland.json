@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/jill_ireland_682634",
+        "quote": "I'm a fighter and not a victim. Think of yourself and make the most of life.",
+        "author": {
+            "name": "Jill Ireland",
+            "url": "/quotes/jill_ireland_682634"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Fighter",
+                "url": "/topics/fighter"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jill_ireland_307714",
+        "quote": "I'm in so many Charles Bronson films because no other actress will work with him.",
+        "author": {
+            "name": "Jill Ireland",
+            "url": "/quotes/jill_ireland_307714"
+        },
+        "topics": [
+            {
+                "name": "Actress",
+                "url": "/topics/actress"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Films",
+                "url": "/topics/films"
+            }
+        ]
+    }
+]

@@ -1,0 +1,156 @@
+[
+    {
+        "url": "/quotes/chanakya_201073?src=t_blind_person",
+        "quote": "Books are as useful to a stupid person as a mirror is useful to a blind person.",
+        "author": {
+            "name": "Chanakya",
+            "url": "/authors/chanakya"
+        },
+        "topics": [
+            {
+                "name": "Mirror",
+                "url": "/topics/mirror"
+            },
+            {
+                "name": "Stupid",
+                "url": "/topics/stupid"
+            },
+            {
+                "name": "Blind",
+                "url": "/topics/blind"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/chester_bennington_423751?src=t_blind_person",
+        "quote": "Asking someone to describe what something sounds like is like telling a blind person to guess what I look like.",
+        "author": {
+            "name": "Chester Bennington",
+            "url": "/authors/chester_bennington"
+        },
+        "topics": [
+            {
+                "name": "Blind",
+                "url": "/topics/blind"
+            },
+            {
+                "name": "Asking",
+                "url": "/topics/asking"
+            },
+            {
+                "name": "Telling",
+                "url": "/topics/telling"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/helen_keller_152192?src=t_blind_person",
+        "quote": "What a blind person needs is not a teacher but another self.",
+        "author": {
+            "name": "Helen Keller",
+            "url": "/authors/helen_keller"
+        },
+        "topics": [
+            {
+                "name": "Teacher",
+                "url": "/topics/teacher"
+            },
+            {
+                "name": "Blind",
+                "url": "/topics/blind"
+            },
+            {
+                "name": "Needs",
+                "url": "/topics/needs"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kit_harington_665042?src=t_blind_person",
+        "quote": "I remember I had to play a blind person once, and I did this stupid thing with my eyes, and I knew the minute I started it I'd made a mistake.",
+        "author": {
+            "name": "Kit Harington",
+            "url": "/authors/kit_harington"
+        },
+        "topics": [
+            {
+                "name": "Mistake",
+                "url": "/topics/mistake"
+            },
+            {
+                "name": "Stupid",
+                "url": "/topics/stupid"
+            },
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rosemary_mahoney_627655?src=t_blind_person",
+        "quote": "One of the most persistent misconceptions about blindness is that it is a curse from God for misdeeds perpetrated in a past life, which cloaks the blind person in spiritual darkness and makes him not just dangerous, but evil.",
+        "author": {
+            "name": "Rosemary Mahoney",
+            "url": "/authors/rosemary_mahoney"
+        },
+        "topics": [
+            {
+                "name": "Blind",
+                "url": "/topics/blind"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Past Life",
+                "url": "/topics/past_life"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rosemary_mahoney_627677?src=t_blind_person",
+        "quote": "I've rarely met a miserable, self-pitying blind person.",
+        "author": {
+            "name": "Rosemary Mahoney",
+            "url": "/authors/rosemary_mahoney"
+        },
+        "topics": [
+            {
+                "name": "Blind",
+                "url": "/topics/blind"
+            },
+            {
+                "name": "Person",
+                "url": "/topics/person"
+            },
+            {
+                "name": "Miserable",
+                "url": "/topics/miserable"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alex_kapranos_430177?src=t_blind_person",
+        "quote": "Although they might not admit it, I think girls are very aware of the impact that they're having. But they never feel it themselves, and it's impossible to explain. It's like trying to tell a blind person what yellow is.",
+        "author": {
+            "name": "Alex Kapranos",
+            "url": "/authors/alex_kapranos"
+        },
+        "topics": [
+            {
+                "name": "Blind",
+                "url": "/topics/blind"
+            },
+            {
+                "name": "Explain",
+                "url": "/topics/explain"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    }
+]

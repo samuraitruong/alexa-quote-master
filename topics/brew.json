@@ -1,0 +1,442 @@
+[
+    {
+        "url": "/quotes/bill_owen_404554?src=t_brew",
+        "quote": "Give a man a beer, waste an hour. Teach a man to brew, and waste a lifetime!",
+        "author": {
+            "name": "Bill Owen",
+            "url": "/authors/bill_owen"
+        },
+        "topics": [
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            },
+            {
+                "name": "Hour",
+                "url": "/topics/hour"
+            },
+            {
+                "name": "Waste",
+                "url": "/topics/waste"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/benjamin_percy_735279?src=t_brew",
+        "quote": "I travel often, so my routine is always getting scrambled. But on a standard sort of day, I get up at 6, pack lunches, hustle the kids off to school, then brew a pot of coffee and head downstairs to the dungeon, as I call it: my cobwebby office in the basement.",
+        "author": {
+            "name": "Benjamin Percy",
+            "url": "/authors/benjamin_percy"
+        },
+        "topics": [
+            {
+                "name": "Office",
+                "url": "/topics/office"
+            },
+            {
+                "name": "Basement",
+                "url": "/topics/basement"
+            },
+            {
+                "name": "Standard",
+                "url": "/topics/standard"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/carlene_carter_823937?src=t_brew",
+        "quote": "I'm a bubbling brew of emotions, but mostly, I'm an optimistic person.",
+        "author": {
+            "name": "Carlene Carter",
+            "url": "/authors/carlene_carter"
+        },
+        "topics": [
+            {
+                "name": "Emotions",
+                "url": "/topics/emotions"
+            },
+            {
+                "name": "Optimistic",
+                "url": "/topics/optimistic"
+            },
+            {
+                "name": "Mostly",
+                "url": "/topics/mostly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jessica_brown_findlay_478883?src=t_brew",
+        "quote": "I've been told I make a very good brew.",
+        "author": {
+            "name": "Jessica Brown Findlay",
+            "url": "/authors/jessica_brown_findlay"
+        },
+        "topics": [
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Make",
+                "url": "/topics/make"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/peter_higgs_639498?src=t_brew",
+        "quote": "My inbox and doormat are full with emails and letters from people who want me to endorse their Higgs board game or to inaugurate the walkway of their new office atrium. There's even a microbrewery in Barcelona which wants to know what my favourite beer is so they can brew a similar one in my honour. It is quite mad.",
+        "author": {
+            "name": "Peter Higgs",
+            "url": "/authors/peter_higgs"
+        },
+        "topics": [
+            {
+                "name": "Game",
+                "url": "/topics/game"
+            },
+            {
+                "name": "Office",
+                "url": "/topics/office"
+            },
+            {
+                "name": "Emails",
+                "url": "/topics/emails"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/peter_defazio_335616?src=t_brew",
+        "quote": "In recent years, breweries and brew pubs have flourished across the Nation. And, as the Representative from Oregon's fourth district, I have enjoyed seeing the diversity that craft brewery has fueled across the Nation.",
+        "author": {
+            "name": "Peter DeFazio",
+            "url": "/authors/peter_defazio"
+        },
+        "topics": [
+            {
+                "name": "Craft",
+                "url": "/topics/craft"
+            },
+            {
+                "name": "Nation",
+                "url": "/topics/nation"
+            },
+            {
+                "name": "Pubs",
+                "url": "/topics/pubs"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_carmack_776004?src=t_brew",
+        "quote": "High-end BREW phones aren't nearly as limited a gaming platform as you might think - they are a lot more powerful than an original Play Station, for example. Java phones, however, are saddled with a huge disadvantage for gaming.",
+        "author": {
+            "name": "John Carmack",
+            "url": "/authors/john_carmack"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "However",
+                "url": "/topics/however"
+            },
+            {
+                "name": "Nearly",
+                "url": "/topics/nearly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nathan_fillion_506965?src=t_brew",
+        "quote": "I love 'Strange Brew'. I quote that movie all the time, and no one knows what I'm talking about.",
+        "author": {
+            "name": "Nathan Fillion",
+            "url": "/authors/nathan_fillion"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Movie",
+                "url": "/topics/movie"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brian_tyree_henry_898236?src=t_brew",
+        "quote": "You can't share your magic with everyone. Your job is to live within your magic. And if other magical people find you, then let's go and make a brew.",
+        "author": {
+            "name": "Brian Tyree Henry",
+            "url": "/authors/brian_tyree_henry"
+        },
+        "topics": [
+            {
+                "name": "Magic",
+                "url": "/topics/magic"
+            },
+            {
+                "name": "Everyone",
+                "url": "/topics/everyone"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lawrence_m_krauss_526706?src=t_brew",
+        "quote": "Empty space is a boiling, bubbling brew of virtual particles that pop in and out of existence in a time scale so short that you can't even measure them.",
+        "author": {
+            "name": "Lawrence M. Krauss",
+            "url": "/authors/lawrence_m_krauss"
+        },
+        "topics": [
+            {
+                "name": "Space",
+                "url": "/topics/space"
+            },
+            {
+                "name": "Virtual",
+                "url": "/topics/virtual"
+            },
+            {
+                "name": "Existence",
+                "url": "/topics/existence"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/deborah_moggach_590620?src=t_brew",
+        "quote": "It's a very rich brew that's in your psyche by the time you're in your 60s, and I think that's rather interesting. It makes you feel you've lived a very long life; it's like going on holiday to three different cities rather than spending two weeks in Lisbon. You look back on the holiday, and you seem to have been away forever.",
+        "author": {
+            "name": "Deborah Moggach",
+            "url": "/authors/deborah_moggach"
+        },
+        "topics": [
+            {
+                "name": "Long Life",
+                "url": "/topics/long_life"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "By The Time",
+                "url": "/topics/by_the_time"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/anders_holm_836789?src=t_brew",
+        "quote": "I had the pleasure of working for Hart Hanson as the writers' assistant on the Fox show 'Bones.' He was always willing to take five minutes in the kitchen and answer questions I had about writing and the business. Looking back now, I realize he might have just been politely waiting for the coffee to brew.",
+        "author": {
+            "name": "Anders Holm",
+            "url": "/authors/anders_holm"
+        },
+        "topics": [
+            {
+                "name": "Waiting",
+                "url": "/topics/waiting"
+            },
+            {
+                "name": "Looking Back",
+                "url": "/topics/looking_back"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kiran_mazumdarshaw_589911?src=t_brew",
+        "quote": "My father was a brew master. He was the one who I was very close to, he influenced me in many many ways including my pursuing a career as a brew master.",
+        "author": {
+            "name": "Kiran Mazumdar-Shaw",
+            "url": "/authors/kiran_mazumdarshaw"
+        },
+        "topics": [
+            {
+                "name": "Career",
+                "url": "/topics/career"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Including",
+                "url": "/topics/including"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ester_dean_573401?src=t_brew",
+        "quote": "I'm a very emotional writer. I always need to have a boyfriend. I always need to have some food. I always need to have a heater at my feet, and I drink this thing called Cool Brew, which I found in Louisiana. It's like condensed coffee.",
+        "author": {
+            "name": "Ester Dean",
+            "url": "/authors/ester_dean"
+        },
+        "topics": [
+            {
+                "name": "Feet",
+                "url": "/topics/feet"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/johnathon_schaech_654656?src=t_brew",
+        "quote": "I have to say I love Dempsey's Brew Pub & Restaurant. It's gorgeous with that Camden Yard brick surrounding it, and it just screams Baltimore. I love the Black and Orange Burger that is topped with fresh orange bell peppers, caramelized onions and sharp cheddar cheese.",
+        "author": {
+            "name": "Johnathon Schaech",
+            "url": "/authors/johnathon_schaech"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Baltimore",
+                "url": "/topics/baltimore"
+            },
+            {
+                "name": "Yard",
+                "url": "/topics/yard"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ryan_bethencourt_798408?src=t_brew",
+        "quote": "Biology is greener and, at scale, should be incredibly cost-effective: The cost of goods sold should be little more than the sugar water needed to brew almost anything.",
+        "author": {
+            "name": "Ryan Bethencourt",
+            "url": "/authors/ryan_bethencourt"
+        },
+        "topics": [
+            {
+                "name": "Biology",
+                "url": "/topics/biology"
+            },
+            {
+                "name": "Cost",
+                "url": "/topics/cost"
+            },
+            {
+                "name": "Sold",
+                "url": "/topics/sold"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/erik_qualman_417502?src=t_brew",
+        "quote": "It had not yet been named Silicon Valley, but you had the defense industry, you had Hewlett-Packard. But you also had the counter-culture, the Bay Area. That entire brew came together in Steve Jobs.",
+        "author": {
+            "name": "Erik Qualman",
+            "url": "/authors/erik_qualman"
+        },
+        "topics": [
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Bay Area",
+                "url": "/topics/bay_area"
+            },
+            {
+                "name": "Area",
+                "url": "/topics/area"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/grace_hightower_641669?src=t_brew",
+        "quote": "If I go anywhere, and I don't have my coffee, I don't drink coffee. When I travel, I carry it with me - and I ask hotels to grind it and brew it for me if I can't have it in my room myself. I'm dedicated that way.",
+        "author": {
+            "name": "Grace Hightower",
+            "url": "/authors/grace_hightower"
+        },
+        "topics": [
+            {
+                "name": "Myself",
+                "url": "/topics/myself"
+            },
+            {
+                "name": "Go",
+                "url": "/topics/go"
+            },
+            {
+                "name": "Dedicated",
+                "url": "/topics/dedicated"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/adam_lamberg_664577?src=t_brew",
+        "quote": "I have always wanted to open up a brewery slash goat farm. Brew some beer, make some goat cheese, but that's kinda dreamy.",
+        "author": {
+            "name": "Adam Lamberg",
+            "url": "/authors/adam_lamberg"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Goat",
+                "url": "/topics/goat"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/anthony_hecht_240931?src=t_brew",
+        "quote": "Poetry operates by hints and dark suggestions. It is full of secrets and hidden formulae, like a witch's brew.",
+        "author": {
+            "name": "Anthony Hecht",
+            "url": "/authors/anthony_hecht"
+        },
+        "topics": [
+            {
+                "name": "Hidden",
+                "url": "/topics/hidden"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Hints",
+                "url": "/topics/hints"
+            }
+        ]
+    }
+]

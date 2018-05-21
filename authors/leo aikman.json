@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/leo_aikman_120045",
+        "quote": "The shortest distance between two points is under construction.",
+        "author": {
+            "name": "Leo Aikman",
+            "url": "/quotes/leo_aikman_120045"
+        },
+        "topics": [
+            {
+                "name": "Construction",
+                "url": "/topics/construction"
+            },
+            {
+                "name": "Distance",
+                "url": "/topics/distance"
+            },
+            {
+                "name": "Two",
+                "url": "/topics/two"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/leo_aikman_108510",
+        "quote": "You can tell more about a person by what he says about others than you can by what others say about him.",
+        "author": {
+            "name": "Leo Aikman",
+            "url": "/quotes/leo_aikman_108510"
+        },
+        "topics": [
+            {
+                "name": "Tell",
+                "url": "/topics/tell"
+            },
+            {
+                "name": "Person",
+                "url": "/topics/person"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/leo_aikman_108535",
+        "quote": "The best way to break a bad habit is to drop it.",
+        "author": {
+            "name": "Leo Aikman",
+            "url": "/quotes/leo_aikman_108535"
+        },
+        "topics": [
+            {
+                "name": "Habit",
+                "url": "/topics/habit"
+            },
+            {
+                "name": "Drop",
+                "url": "/topics/drop"
+            },
+            {
+                "name": "Best Way",
+                "url": "/topics/best_way"
+            }
+        ]
+    }
+]

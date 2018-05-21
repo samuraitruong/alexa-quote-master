@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/claudio_monteverdi_211303",
+        "quote": "The end of all good music is to affect the soul.",
+        "author": {
+            "name": "Claudio Monteverdi",
+            "url": "/quotes/claudio_monteverdi_211303"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "Soul",
+                "url": "/topics/soul"
+            },
+            {
+                "name": "Affect",
+                "url": "/topics/affect"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/claudio_monteverdi_211305",
+        "quote": "Music is spiritual. The music business is not.",
+        "author": {
+            "name": "Claudio Monteverdi",
+            "url": "/quotes/claudio_monteverdi_211305"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "Business",
+                "url": "/topics/business"
+            },
+            {
+                "name": "Spiritual",
+                "url": "/topics/spiritual"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/claudio_monteverdi_211304",
+        "quote": "The modern composer builds upon the foundation of truth.",
+        "author": {
+            "name": "Claudio Monteverdi",
+            "url": "/quotes/claudio_monteverdi_211304"
+        },
+        "topics": [
+            {
+                "name": "Truth",
+                "url": "/topics/truth"
+            },
+            {
+                "name": "Composer",
+                "url": "/topics/composer"
+            },
+            {
+                "name": "Modern",
+                "url": "/topics/modern"
+            }
+        ]
+    }
+]

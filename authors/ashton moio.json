@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/ashton_moio_625728",
+        "quote": "I like Ryan Gosling from the inside. I think he's a beautiful person, and then if you didn't have anything, I'd still be his friend.",
+        "author": {
+            "name": "Ashton Moio",
+            "url": "/quotes/ashton_moio_625728"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            },
+            {
+                "name": "Ryan",
+                "url": "/topics/ryan"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ashton_moio_625727",
+        "quote": "I haven't always been fashionable, but I've always not really cared so much about how I dress.",
+        "author": {
+            "name": "Ashton Moio",
+            "url": "/quotes/ashton_moio_625727"
+        },
+        "topics": [
+            {
+                "name": "Dress",
+                "url": "/topics/dress"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    }
+]

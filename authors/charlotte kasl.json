@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/charlotte_kasl_401976",
+        "quote": "A life-long blessing for children is to fill them with warm memories of times together. Happy memories become treasures in the heart to pull out on the tough days of adulthood.",
+        "author": {
+            "name": "Charlotte Kasl",
+            "url": "/quotes/charlotte_kasl_401976"
+        },
+        "topics": [
+            {
+                "name": "Happy",
+                "url": "/topics/happy"
+            },
+            {
+                "name": "Treasures",
+                "url": "/topics/treasures"
+            },
+            {
+                "name": "Them",
+                "url": "/topics/them"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charlotte_kasl_400559",
+        "quote": "Caring for children is a dance between setting appropriate limits as caretakers and avoiding unnecessary power struggles that result in unhappiness.",
+        "author": {
+            "name": "Charlotte Kasl",
+            "url": "/quotes/charlotte_kasl_400559"
+        },
+        "topics": [
+            {
+                "name": "Unnecessary",
+                "url": "/topics/unnecessary"
+            },
+            {
+                "name": "Appropriate",
+                "url": "/topics/appropriate"
+            }
+        ]
+    }
+]

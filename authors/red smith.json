@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/red_smith_113260",
+        "quote": "The natural habitat of the tongue is the left cheek.",
+        "author": {
+            "name": "Red Smith",
+            "url": "/quotes/red_smith_113260"
+        },
+        "topics": [
+            {
+                "name": "Tongue",
+                "url": "/topics/tongue"
+            },
+            {
+                "name": "Natural",
+                "url": "/topics/natural"
+            },
+            {
+                "name": "Habitat",
+                "url": "/topics/habitat"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/red_smith_113259",
+        "quote": "I like to get where the cabbage is cooking and catch the scents.",
+        "author": {
+            "name": "Red Smith",
+            "url": "/quotes/red_smith_113259"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Get",
+                "url": "/topics/get"
+            },
+            {
+                "name": "Cabbage",
+                "url": "/topics/cabbage"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/red_smith_389203",
+        "quote": "It was an ideal day for football - too cold for the spectators and too cold for the players.",
+        "author": {
+            "name": "Red Smith",
+            "url": "/quotes/red_smith_389203"
+        },
+        "topics": [
+            {
+                "name": "Players",
+                "url": "/topics/players"
+            },
+            {
+                "name": "Ideal",
+                "url": "/topics/ideal"
+            },
+            {
+                "name": "Too",
+                "url": "/topics/too"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/alfred_einstein_221269",
+        "quote": "There is a strange kind of human being in whom there is an eternal struggle between body and soul, animal and god, for dominance. In all great men this mixture is striking, and in none more so than in Wolfgang Amadeus Mozart.",
+        "author": {
+            "name": "Alfred Einstein",
+            "url": "/quotes/alfred_einstein_221269"
+        },
+        "topics": [
+            {
+                "name": "Soul",
+                "url": "/topics/soul"
+            },
+            {
+                "name": "Body",
+                "url": "/topics/body"
+            },
+            {
+                "name": "None",
+                "url": "/topics/none"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alfred_einstein_221271",
+        "quote": "Sometimes the picture that emerges of the man seems no longer to agree with our conception of the musician. In reality, however, there is a glorious unity.",
+        "author": {
+            "name": "Alfred Einstein",
+            "url": "/quotes/alfred_einstein_221271"
+        },
+        "topics": [
+            {
+                "name": "Sometimes",
+                "url": "/topics/sometimes"
+            },
+            {
+                "name": "Agree",
+                "url": "/topics/agree"
+            },
+            {
+                "name": "However",
+                "url": "/topics/however"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alfred_einstein_221268",
+        "quote": "It was inevitable that in doing this I should arrive at new results, and it is perhaps understandable that in the end I have felt impelled to present these results not only in the dry form of a catalogue, but also in a more connected and personal one.",
+        "author": {
+            "name": "Alfred Einstein",
+            "url": "/quotes/alfred_einstein_221268"
+        },
+        "topics": [
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Arrive",
+                "url": "/topics/arrive"
+            },
+            {
+                "name": "Perhaps",
+                "url": "/topics/perhaps"
+            }
+        ]
+    }
+]

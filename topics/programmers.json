@@ -1,0 +1,1372 @@
+[
+    {
+        "url": "/quotes/jaan_tallinn_818392?src=t_programmers",
+        "quote": "In my view, the fact that computers caught up to humans and completely dominate humans in chess and some other domains already, that says there's evidence that, yes, in principle, they can be better programmers than humans.",
+        "author": {
+            "name": "Jaan Tallinn",
+            "url": "/authors/jaan_tallinn"
+        },
+        "topics": [
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Caught",
+                "url": "/topics/caught"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marco_arment_541066?src=t_programmers",
+        "quote": "Programmers work in bursts of productivity. Then, they let the brain rest and get back into it. A lot about the office world is not a great fit for me.",
+        "author": {
+            "name": "Marco Arment",
+            "url": "/authors/marco_arment"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Rest",
+                "url": "/topics/rest"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bjarne_stroustrup_269151?src=t_programmers",
+        "quote": "My list of basic tools is a partial answer to the question about what has changed: Over the past few years, large numbers of programmers have come to depend on elaborate tools to interface code with systems facilities.",
+        "author": {
+            "name": "Bjarne Stroustrup",
+            "url": "/authors/bjarne_stroustrup"
+        },
+        "topics": [
+            {
+                "name": "Depend",
+                "url": "/topics/depend"
+            },
+            {
+                "name": "Code",
+                "url": "/topics/code"
+            },
+            {
+                "name": "Elaborate",
+                "url": "/topics/elaborate"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marco_tempest_557047?src=t_programmers",
+        "quote": "Magicians are typically introverted; they don't tend to work with others, but I work with software programmers, composers, designers, so it's a very diverse group and the result is always more interesting than something I could have done by myself.",
+        "author": {
+            "name": "Marco Tempest",
+            "url": "/authors/marco_tempest"
+        },
+        "topics": [
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Composers",
+                "url": "/topics/composers"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/yukihiro_matsumoto_213509?src=t_programmers",
+        "quote": "In our daily lives as programmers, we process text strings a lot. So I tried to work hard on text processing, namely the string class and regular expressions. Regular expressions are built into the language and are very tuned up for use.",
+        "author": {
+            "name": "Yukihiro Matsumoto",
+            "url": "/authors/yukihiro_matsumoto"
+        },
+        "topics": [
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            },
+            {
+                "name": "String",
+                "url": "/topics/string"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/subhash_chandra_713065?src=t_programmers",
+        "quote": "Digitisation will rather consolidate the broadcasting industry in India because once the cable is digitized, then naturally all the programmers can showcase their programming.",
+        "author": {
+            "name": "Subhash Chandra",
+            "url": "/authors/subhash_chandra"
+        },
+        "topics": [
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Rather",
+                "url": "/topics/rather"
+            },
+            {
+                "name": "Consolidate",
+                "url": "/topics/consolidate"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/subhash_chandra_713066?src=t_programmers",
+        "quote": "Advertising revenue available for all programmers, all broadcasters is not enough to create quality programming, and subscription revenues are very, very minimal which come to all programmers.",
+        "author": {
+            "name": "Subhash Chandra",
+            "url": "/authors/subhash_chandra"
+        },
+        "topics": [
+            {
+                "name": "Available",
+                "url": "/topics/available"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_atkinson_725677?src=t_programmers",
+        "quote": "You could summarize everything I did at Apple was making tools to empower creative people. 'QuickDraw' empowered all these other programmers to now be able to sling stuff on the screen. The 'Window Manager,' 'Event Manager,' and 'Menu Manager.' Those are things that I worked on that were empowering other people.",
+        "author": {
+            "name": "Bill Atkinson",
+            "url": "/authors/bill_atkinson"
+        },
+        "topics": [
+            {
+                "name": "Tools",
+                "url": "/topics/tools"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Screen",
+                "url": "/topics/screen"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jeff_minter_737383?src=t_programmers",
+        "quote": "The distance between the people who made the games and the people playing them wasn't that big. It was the spirit of independence. The programmers were a lot like you.",
+        "author": {
+            "name": "Jeff Minter",
+            "url": "/authors/jeff_minter"
+        },
+        "topics": [
+            {
+                "name": "Distance",
+                "url": "/topics/distance"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_fowler_234819?src=t_programmers",
+        "quote": "Sun's role in the grand scheme of development is to work on the runtime environment and the APIs. The tools we produce are much more for systems programmers, not enterprise developers.",
+        "author": {
+            "name": "John Fowler",
+            "url": "/authors/john_fowler"
+        },
+        "topics": [
+            {
+                "name": "Development",
+                "url": "/topics/development"
+            },
+            {
+                "name": "Role",
+                "url": "/topics/role"
+            },
+            {
+                "name": "Scheme",
+                "url": "/topics/scheme"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jessica_livingston_538953?src=t_programmers",
+        "quote": "Finding a technical cofounder would have been difficult for me. I was an English major and didn't know any computer programmers.",
+        "author": {
+            "name": "Jessica Livingston",
+            "url": "/authors/jessica_livingston"
+        },
+        "topics": [
+            {
+                "name": "Difficult",
+                "url": "/topics/difficult"
+            },
+            {
+                "name": "Technical",
+                "url": "/topics/technical"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_carmack_776019?src=t_programmers",
+        "quote": "It is a shame that homebrew development can't be officially sanctioned and supported, because it would be a wonderful platform for a modern generation of programmers to be able to get a real feel for low level design work, to be contrasted with the high level web and application work that so many entry level people start with.",
+        "author": {
+            "name": "John Carmack",
+            "url": "/authors/john_carmack"
+        },
+        "topics": [
+            {
+                "name": "Shame",
+                "url": "/topics/shame"
+            },
+            {
+                "name": "Feel",
+                "url": "/topics/feel"
+            },
+            {
+                "name": "Platform",
+                "url": "/topics/platform"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jamais_cascio_560451?src=t_programmers",
+        "quote": "Computer programmers, biotechnologists, environmental scientists, neuroscientists, nanotech engineers - all of these fields, and more, should have at least a course in ethics as part of their degree requirements.",
+        "author": {
+            "name": "Jamais Cascio",
+            "url": "/authors/jamais_cascio"
+        },
+        "topics": [
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Requirements",
+                "url": "/topics/requirements"
+            },
+            {
+                "name": "Part",
+                "url": "/topics/part"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alan_perlis_177305?src=t_programmers",
+        "quote": "LISP programmers know the value of everything and the cost of nothing.",
+        "author": {
+            "name": "Alan Perlis",
+            "url": "/authors/alan_perlis"
+        },
+        "topics": [
+            {
+                "name": "Know",
+                "url": "/topics/know"
+            },
+            {
+                "name": "Cost",
+                "url": "/topics/cost"
+            },
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/om_malik_863735?src=t_programmers",
+        "quote": "For the longest time, computers have been associated with work. Mainframes were for the Army, government agencies, and then large companies. Workstations were for engineers and software programmers. PCs were initially for other white-collar jobs.",
+        "author": {
+            "name": "Om Malik",
+            "url": "/authors/om_malik"
+        },
+        "topics": [
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Longest",
+                "url": "/topics/longest"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jerry_yang_710715?src=t_programmers",
+        "quote": "The Internet's a driving force in the change from mass media to 'my media,' in which consumers will be their own programmers.",
+        "author": {
+            "name": "Jerry Yang",
+            "url": "/authors/jerry_yang"
+        },
+        "topics": [
+            {
+                "name": "Change",
+                "url": "/topics/change"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ellen_ullman_849311?src=t_programmers",
+        "quote": "The world of programmers is not going to change on its own.",
+        "author": {
+            "name": "Ellen Ullman",
+            "url": "/authors/ellen_ullman"
+        },
+        "topics": [
+            {
+                "name": "Change",
+                "url": "/topics/change"
+            },
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ellen_ullman_849329?src=t_programmers",
+        "quote": "People talk about computer programmers as if computers are our whole lives. That's simply not true.",
+        "author": {
+            "name": "Ellen Ullman",
+            "url": "/authors/ellen_ullman"
+        },
+        "topics": [
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Whole",
+                "url": "/topics/whole"
+            },
+            {
+                "name": "Lives",
+                "url": "/topics/lives"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ellen_ullman_849365?src=t_programmers",
+        "quote": "Programmers seem to be changing the world. It would be a relief, for them and for all of us, if they knew something about it.",
+        "author": {
+            "name": "Ellen Ullman",
+            "url": "/authors/ellen_ullman"
+        },
+        "topics": [
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Knew",
+                "url": "/topics/knew"
+            },
+            {
+                "name": "Them",
+                "url": "/topics/them"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jason_fried_799379?src=t_programmers",
+        "quote": "I'm a designer, but I rely on programmers to bring my ideas to life. By learning to code myself, I think I can make things easier for all of us. Similarly, I want to be able to build things on my own without having to bother a programmer.",
+        "author": {
+            "name": "Jason Fried",
+            "url": "/authors/jason_fried"
+        },
+        "topics": [
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            },
+            {
+                "name": "Code",
+                "url": "/topics/code"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kara_swisher_688371?src=t_programmers",
+        "quote": "'On demand' is more than just a series of clicks on your still-too-complicated remote control. In fact, it is now the best way to describe what the cable industry - from programmers to content makers to distributors - imagine their world is. Services and content available to very demanding consumers, wherever, whenever, however.",
+        "author": {
+            "name": "Kara Swisher",
+            "url": "/authors/kara_swisher"
+        },
+        "topics": [
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Best Way",
+                "url": "/topics/best_way"
+            },
+            {
+                "name": "However",
+                "url": "/topics/however"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/annalee_newitz_730157?src=t_programmers",
+        "quote": "When Usenet was eclipsed by websites in the late 1990s, people from that world - many of them programmers - wanted to bring the freewheeling, amazing discussions of Usenet to the web. And thus, RSS was born.",
+        "author": {
+            "name": "Annalee Newitz",
+            "url": "/authors/annalee_newitz"
+        },
+        "topics": [
+            {
+                "name": "Born",
+                "url": "/topics/born"
+            },
+            {
+                "name": "Bring",
+                "url": "/topics/bring"
+            },
+            {
+                "name": "Thus",
+                "url": "/topics/thus"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/reshma_saujani_899593?src=t_programmers",
+        "quote": "As I've traveled the country, we visit tech incubators all the time where women are going into their second or third act in their career and learning how to be software programmers, or how to work at startup companies, and learning a completely different skill set. I think it's never too late.",
+        "author": {
+            "name": "Reshma Saujani",
+            "url": "/authors/reshma_saujani"
+        },
+        "topics": [
+            {
+                "name": "Career",
+                "url": "/topics/career"
+            },
+            {
+                "name": "Too Late",
+                "url": "/topics/too_late"
+            },
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charley_pride_280356?src=t_programmers",
+        "quote": "The tastes of country music fans are not limited to the narrow range defined by consultants and programmers and record company moguls.",
+        "author": {
+            "name": "Charley Pride",
+            "url": "/authors/charley_pride"
+        },
+        "topics": [
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Music Fans",
+                "url": "/topics/music_fans"
+            },
+            {
+                "name": "Tastes",
+                "url": "/topics/tastes"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ed_catmull_863315?src=t_programmers",
+        "quote": "Programmers are very creative people. And animators are problem solvers, just as programmers are.",
+        "author": {
+            "name": "Ed Catmull",
+            "url": "/authors/ed_catmull"
+        },
+        "topics": [
+            {
+                "name": "Problem",
+                "url": "/topics/problem"
+            },
+            {
+                "name": "Animators",
+                "url": "/topics/animators"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/asa_hutchinson_787038?src=t_programmers",
+        "quote": "Whether you're looking at manufacturing and the use of robotics or the knowledge industries, they need computer programmers.",
+        "author": {
+            "name": "Asa Hutchinson",
+            "url": "/authors/asa_hutchinson"
+        },
+        "topics": [
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            },
+            {
+                "name": "Computer",
+                "url": "/topics/computer"
+            },
+            {
+                "name": "Whether",
+                "url": "/topics/whether"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/niklaus_wirth_306068?src=t_programmers",
+        "quote": "My duty as a teacher is to train, educate future programmers.",
+        "author": {
+            "name": "Niklaus Wirth",
+            "url": "/authors/niklaus_wirth"
+        },
+        "topics": [
+            {
+                "name": "Teacher",
+                "url": "/topics/teacher"
+            },
+            {
+                "name": "Future",
+                "url": "/topics/future"
+            },
+            {
+                "name": "Duty",
+                "url": "/topics/duty"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tim_oreilly_671285?src=t_programmers",
+        "quote": "I find that creative streak I think often leads in programmers to be good predictors of where culture as a whole is going to go. And that is where I think I've tried over the years to in some ways use my customers as a filter or a predictor of where technology as a whole is going to go. Or where the world as a whole is going to go.",
+        "author": {
+            "name": "Tim O'Reilly",
+            "url": "/authors/tim_oreilly"
+        },
+        "topics": [
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mitchell_baker_208904?src=t_programmers",
+        "quote": "Of course, it's hard to support full-time programmers, so we do get funds from a set of companies that are interested in the health of the Mozilla project and so are willing to support the people working for the Foundation as well.",
+        "author": {
+            "name": "Mitchell Baker",
+            "url": "/authors/mitchell_baker"
+        },
+        "topics": [
+            {
+                "name": "Willing",
+                "url": "/topics/willing"
+            },
+            {
+                "name": "Full-Time",
+                "url": "/topics/full-time"
+            },
+            {
+                "name": "Set",
+                "url": "/topics/set"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rodney_brooks_700704?src=t_programmers",
+        "quote": "With the revolution around 1980 of PCs, the spreadsheet programs were tuned for office workers - not to replace office workers, but it respected office workers as being capable of being programmers. So office workers became programmers of spreadsheets. It increased their capabilities.",
+        "author": {
+            "name": "Rodney Brooks",
+            "url": "/authors/rodney_brooks"
+        },
+        "topics": [
+            {
+                "name": "Became",
+                "url": "/topics/became"
+            },
+            {
+                "name": "PCs",
+                "url": "/topics/pcs"
+            },
+            {
+                "name": "Increased",
+                "url": "/topics/increased"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/meg_cabot_541815?src=t_programmers",
+        "quote": "This is how many people become artists, musicians, writers, computer programmers, record-holding athletes, scientists... by spending time alone practicing what they love.",
+        "author": {
+            "name": "Meg Cabot",
+            "url": "/authors/meg_cabot"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Musicians",
+                "url": "/topics/musicians"
+            },
+            {
+                "name": "Practicing",
+                "url": "/topics/practicing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kurt_eichenwald_711331?src=t_programmers",
+        "quote": "By the dawn of the millennium, the hallways at Microsoft were no longer home to barefoot programmers in Hawaiian shirts working through nights and weekends toward a common goal of excellence; instead, life behind the thick corporate walls had become staid and brutish.",
+        "author": {
+            "name": "Kurt Eichenwald",
+            "url": "/authors/kurt_eichenwald"
+        },
+        "topics": [
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Behind",
+                "url": "/topics/behind"
+            },
+            {
+                "name": "Weekends",
+                "url": "/topics/weekends"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/max_martin_851770?src=t_programmers",
+        "quote": "I try to make the songs as good as I can - the way I like it, you know? And I guess my taste sometimes happens to be what other people, particularly radio programmers, like too.",
+        "author": {
+            "name": "Max Martin",
+            "url": "/authors/max_martin"
+        },
+        "topics": [
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Particularly",
+                "url": "/topics/particularly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eric_s_raymond_233526?src=t_programmers",
+        "quote": "In the beginning, there were Real Programmers.",
+        "author": {
+            "name": "Eric S. Raymond",
+            "url": "/authors/eric_s_raymond"
+        },
+        "topics": [
+            {
+                "name": "Beginning",
+                "url": "/topics/beginning"
+            },
+            {
+                "name": "Real",
+                "url": "/topics/real"
+            },
+            {
+                "name": "Were",
+                "url": "/topics/were"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/larry_wall_367191?src=t_programmers",
+        "quote": "Programmers can be lazy.",
+        "author": {
+            "name": "Larry Wall",
+            "url": "/authors/larry_wall"
+        },
+        "topics": [
+            {
+                "name": "Lazy",
+                "url": "/topics/lazy"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jose_ferreira_693185?src=t_programmers",
+        "quote": "The best programmers and internet entrepreneurs are in the Bay Area. Don't kid yourself about that, not even for a second.",
+        "author": {
+            "name": "Jose Ferreira",
+            "url": "/authors/jose_ferreira"
+        },
+        "topics": [
+            {
+                "name": "Kid",
+                "url": "/topics/kid"
+            },
+            {
+                "name": "Bay Area",
+                "url": "/topics/bay_area"
+            },
+            {
+                "name": "Area",
+                "url": "/topics/area"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/esther_dyson_352090?src=t_programmers",
+        "quote": "In the space of three weeks, I met a fair bunch of the guys who were just starting those little programmers' co-ops, and everybody was talking about starting businesses.",
+        "author": {
+            "name": "Esther Dyson",
+            "url": "/authors/esther_dyson"
+        },
+        "topics": [
+            {
+                "name": "Everybody",
+                "url": "/topics/everybody"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Weeks",
+                "url": "/topics/weeks"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_romero_483975?src=t_programmers",
+        "quote": "You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-based creativity.",
+        "author": {
+            "name": "John Romero",
+            "url": "/authors/john_romero"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Profession",
+                "url": "/topics/profession"
+            },
+            {
+                "name": "Might",
+                "url": "/topics/might"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/linus_torvalds_367382?src=t_programmers",
+        "quote": "Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.",
+        "author": {
+            "name": "Linus Torvalds",
+            "url": "/authors/linus_torvalds"
+        },
+        "topics": [
+            {
+                "name": "Expect",
+                "url": "/topics/expect"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "Public",
+                "url": "/topics/public"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edsger_dijkstra_201164?src=t_programmers",
+        "quote": "It is practically impossible to teach good programming to students that have had a prior exposure to BASIC: as potential programmers they are mentally mutilated beyond hope of regeneration.",
+        "author": {
+            "name": "Edsger Dijkstra",
+            "url": "/authors/edsger_dijkstra"
+        },
+        "topics": [
+            {
+                "name": "Regeneration",
+                "url": "/topics/regeneration"
+            },
+            {
+                "name": "Practically",
+                "url": "/topics/practically"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rebecca_mackinnon_646236?src=t_programmers",
+        "quote": "Facebook is not a physical country, but with 900 million users, its 'population' comes third after China and India. It may not be able to tax or jail its inhabitants, but its executives, programmers, and engineers do exercise a form of governance over people's online activities and identities.",
+        "author": {
+            "name": "Rebecca MacKinnon",
+            "url": "/authors/rebecca_mackinnon"
+        },
+        "topics": [
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Inhabitants",
+                "url": "/topics/inhabitants"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mitchel_resnick_643065?src=t_programmers",
+        "quote": "Our society expects that everyone should learn to write, even though very few become professional writers. Similarly, I think that everyone should learn how to program, even though very few will become professional programmers.",
+        "author": {
+            "name": "Mitchel Resnick",
+            "url": "/authors/mitchel_resnick"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/howard_rheingold_560070?src=t_programmers",
+        "quote": "When designers replaced the command line interface with the graphical user interface, billions of people who are not programmers could make use of computer technology.",
+        "author": {
+            "name": "Howard Rheingold",
+            "url": "/authors/howard_rheingold"
+        },
+        "topics": [
+            {
+                "name": "Line",
+                "url": "/topics/line"
+            },
+            {
+                "name": "Billions",
+                "url": "/topics/billions"
+            },
+            {
+                "name": "Designers",
+                "url": "/topics/designers"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rick_smolan_705121?src=t_programmers",
+        "quote": "Programmers have been wandering out and shooting a shotgun into the night sky and hoping they hit something, and I end up paying $150 for channels full of nothing I want to watch.",
+        "author": {
+            "name": "Rick Smolan",
+            "url": "/authors/rick_smolan"
+        },
+        "topics": [
+            {
+                "name": "Sky",
+                "url": "/topics/sky"
+            },
+            {
+                "name": "Night",
+                "url": "/topics/night"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/reshma_saujani_899596?src=t_programmers",
+        "quote": "In the '80s, society created a caricature of what a hacker or a programmer looked like: a guy wearing a hoodie, drinking energy drinks, sitting in a basement somewhere coding. Today, programmers look like the men we see in the show 'Silicon Valley' on HBO. If you look at the message girls are getting, it's saying, 'This is not for you.'",
+        "author": {
+            "name": "Reshma Saujani",
+            "url": "/authors/reshma_saujani"
+        },
+        "topics": [
+            {
+                "name": "Basement",
+                "url": "/topics/basement"
+            },
+            {
+                "name": "Show",
+                "url": "/topics/show"
+            },
+            {
+                "name": "Drinks",
+                "url": "/topics/drinks"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/shigeru_miyamoto_443957?src=t_programmers",
+        "quote": "Our job as the game creators or developers - the programmers, artists, and whatnot - is that we have to kind of put ourselves in the user's shoes. We try to see what they're seeing, and then make it, and support what we think they might think.",
+        "author": {
+            "name": "Shigeru Miyamoto",
+            "url": "/authors/shigeru_miyamoto"
+        },
+        "topics": [
+            {
+                "name": "Game",
+                "url": "/topics/game"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Developers",
+                "url": "/topics/developers"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/linus_torvalds_367389?src=t_programmers",
+        "quote": "Programmers are in the enviable position of not only getting to do what they want to, but because the end result is so important they get paid to do it. There are other professions like that, but not that many.",
+        "author": {
+            "name": "Linus Torvalds",
+            "url": "/authors/linus_torvalds"
+        },
+        "topics": [
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Enviable",
+                "url": "/topics/enviable"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bjarne_stroustrup_269128?src=t_programmers",
+        "quote": "The standard library saves programmers from having to reinvent the wheel.",
+        "author": {
+            "name": "Bjarne Stroustrup",
+            "url": "/authors/bjarne_stroustrup"
+        },
+        "topics": [
+            {
+                "name": "Library",
+                "url": "/topics/library"
+            },
+            {
+                "name": "Reinvent",
+                "url": "/topics/reinvent"
+            },
+            {
+                "name": "Standard",
+                "url": "/topics/standard"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/seymour_cray_184191?src=t_programmers",
+        "quote": "The trouble with programmers is that you can never tell what a programmer is doing until it's too late.",
+        "author": {
+            "name": "Seymour Cray",
+            "url": "/authors/seymour_cray"
+        },
+        "topics": [
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Too Late",
+                "url": "/topics/too_late"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/peter_drucker_154451?src=t_programmers",
+        "quote": "Few companies that installed computers to reduce the employment of clerks have realized their expectations... They now need more, and more expensive clerks even though they call them 'operators' or 'programmers.'",
+        "author": {
+            "name": "Peter Drucker",
+            "url": "/authors/peter_drucker"
+        },
+        "topics": [
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            },
+            {
+                "name": "Though",
+                "url": "/topics/though"
+            },
+            {
+                "name": "Reduce",
+                "url": "/topics/reduce"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/halsey_750185?src=t_programmers",
+        "quote": "I end up pleading my case to alternative programmers - you're telling me that my music is too dark for pop, too pop for alternative, and urban radio won't touch it - so we have a record that doesn't fit in. And what is more alternative than that?",
+        "author": {
+            "name": "Halsey",
+            "url": "/authors/halsey"
+        },
+        "topics": [
+            {
+                "name": "Radio",
+                "url": "/topics/radio"
+            },
+            {
+                "name": "Pop",
+                "url": "/topics/pop"
+            },
+            {
+                "name": "Telling",
+                "url": "/topics/telling"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_carmack_776015?src=t_programmers",
+        "quote": "I've never been one of those programmers that works effectively on short amounts of sleep. I've always needed eight hours.",
+        "author": {
+            "name": "John Carmack",
+            "url": "/authors/john_carmack"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Hours",
+                "url": "/topics/hours"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_511099?src=t_programmers",
+        "quote": "Most kids are not dreaming of being programmers, scientists or engineers.",
+        "author": {
+            "name": "will.i.am",
+            "url": "/authors/william"
+        },
+        "topics": [
+            {
+                "name": "Dreaming",
+                "url": "/topics/dreaming"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "Scientists",
+                "url": "/topics/scientists"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/megan_smith_708555?src=t_programmers",
+        "quote": "There are 2 to 3 million women programmers in the world. We need to see them more.",
+        "author": {
+            "name": "Megan Smith",
+            "url": "/authors/megan_smith"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "See",
+                "url": "/topics/see"
+            },
+            {
+                "name": "Million",
+                "url": "/topics/million"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bjarke_ingels_856068?src=t_programmers",
+        "quote": "I love computer programmers. They have a very beautiful definition of complexity as 'the capacity to transmit the maximum information with the minimum data'.",
+        "author": {
+            "name": "Bjarke Ingels",
+            "url": "/authors/bjarke_ingels"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Complexity",
+                "url": "/topics/complexity"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/virginia_postrel_642967?src=t_programmers",
+        "quote": "There's a popular saying that the Internet interprets censorship as damage and routes around it. Desire and innovation will trump policy, the argument goes, as clever programmers circumvent controls.",
+        "author": {
+            "name": "Virginia Postrel",
+            "url": "/authors/virginia_postrel"
+        },
+        "topics": [
+            {
+                "name": "Innovation",
+                "url": "/topics/innovation"
+            },
+            {
+                "name": "Damage",
+                "url": "/topics/damage"
+            },
+            {
+                "name": "Trump",
+                "url": "/topics/trump"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/richard_stallman_183744?src=t_programmers",
+        "quote": "If programmers deserve to be rewarded for creating innovative programs, by the same token they deserve to be punished if they restrict the use of these programs.",
+        "author": {
+            "name": "Richard Stallman",
+            "url": "/authors/richard_stallman"
+        },
+        "topics": [
+            {
+                "name": "Deserve",
+                "url": "/topics/deserve"
+            },
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            },
+            {
+                "name": "Restrict",
+                "url": "/topics/restrict"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eric_s_raymond_671663?src=t_programmers",
+        "quote": "When are programmers happy? They're happy when they're not underutilized - when they're not bored - and also when they're not overburdened with inappropriate specifications or meaningless bureaucracies. In other words, programmers are happiest when they're working efficiently. This is a general preference in creative work.",
+        "author": {
+            "name": "Eric S. Raymond",
+            "url": "/authors/eric_s_raymond"
+        },
+        "topics": [
+            {
+                "name": "Happy",
+                "url": "/topics/happy"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Happiest",
+                "url": "/topics/happiest"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/larry_wall_131241?src=t_programmers",
+        "quote": "Real programmers can write assembly code in any language.",
+        "author": {
+            "name": "Larry Wall",
+            "url": "/authors/larry_wall"
+        },
+        "topics": [
+            {
+                "name": "Technology",
+                "url": "/topics/technology"
+            },
+            {
+                "name": "Code",
+                "url": "/topics/code"
+            },
+            {
+                "name": "Assembly",
+                "url": "/topics/assembly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kent_beck_722338?src=t_programmers",
+        "quote": "I found out that most programmers don't like to test their software as intensely as I do.",
+        "author": {
+            "name": "Kent Beck",
+            "url": "/authors/kent_beck"
+        },
+        "topics": [
+            {
+                "name": "Test",
+                "url": "/topics/test"
+            },
+            {
+                "name": "Found",
+                "url": "/topics/found"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/richard_hatch_177326?src=t_programmers",
+        "quote": "Programmers and marketing people know how to get into your subconscious - they spend millions of dollars researching colors, shapes, designs, symbols, that affect your preferences, and they can make you feel warm, trusting, like buying. They can manipulate you.",
+        "author": {
+            "name": "Richard Hatch",
+            "url": "/authors/richard_hatch"
+        },
+        "topics": [
+            {
+                "name": "Feel",
+                "url": "/topics/feel"
+            },
+            {
+                "name": "Affect",
+                "url": "/topics/affect"
+            },
+            {
+                "name": "Dollars",
+                "url": "/topics/dollars"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dave_parnas_523902?src=t_programmers",
+        "quote": "There are no standards for computer programmers and no group to certify them.",
+        "author": {
+            "name": "Dave Parnas",
+            "url": "/authors/dave_parnas"
+        },
+        "topics": [
+            {
+                "name": "Standards",
+                "url": "/topics/standards"
+            },
+            {
+                "name": "Computer",
+                "url": "/topics/computer"
+            },
+            {
+                "name": "Them",
+                "url": "/topics/them"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marissa_mayer_456072?src=t_programmers",
+        "quote": "Beyond basic mathematical aptitude, the difference between good programmers and great programmers is verbal ability.",
+        "author": {
+            "name": "Marissa Mayer",
+            "url": "/authors/marissa_mayer"
+        },
+        "topics": [
+            {
+                "name": "Difference",
+                "url": "/topics/difference"
+            },
+            {
+                "name": "Aptitude",
+                "url": "/topics/aptitude"
+            },
+            {
+                "name": "Verbal",
+                "url": "/topics/verbal"
+            }
+        ]
+    }
+]

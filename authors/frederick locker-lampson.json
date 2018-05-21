@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/frederick_lockerlampson_234376",
+        "quote": "The world's as ugly as sin, and almost as delightful.",
+        "author": {
+            "name": "Frederick Locker-Lampson",
+            "url": "/quotes/frederick_lockerlampson_234376"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Delightful",
+                "url": "/topics/delightful"
+            },
+            {
+                "name": "Almost",
+                "url": "/topics/almost"
+            }
+        ]
+    }
+]

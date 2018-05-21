@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/celia_cruz_191642",
+        "quote": "If I don't work, I'll be sitting on the couch watching TV, eating popcorn and getting like a cow.",
+        "author": {
+            "name": "Celia Cruz",
+            "url": "/quotes/celia_cruz_191642"
+        },
+        "topics": [
+            {
+                "name": "Popcorn",
+                "url": "/topics/popcorn"
+            },
+            {
+                "name": "Watching Tv",
+                "url": "/topics/watching_tv"
+            },
+            {
+                "name": "TV",
+                "url": "/topics/tv"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/celia_cruz_191639",
+        "quote": "I love living on that stage. Without that, I'd die.",
+        "author": {
+            "name": "Celia Cruz",
+            "url": "/quotes/celia_cruz_191639"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Die",
+                "url": "/topics/die"
+            },
+            {
+                "name": "I Love",
+                "url": "/topics/i_love"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/celia_cruz_191643",
+        "quote": "You would give up your career if you lost your voice for good, or if the impresarios stopped calling, or the audiences stopped coming. But as long as those things are there, I don't plan to stop. There is nothing that makes me feel better than to be with my public.",
+        "author": {
+            "name": "Celia Cruz",
+            "url": "/quotes/celia_cruz_191643"
+        },
+        "topics": [
+            {
+                "name": "Career",
+                "url": "/topics/career"
+            },
+            {
+                "name": "Voice",
+                "url": "/topics/voice"
+            },
+            {
+                "name": "Feel",
+                "url": "/topics/feel"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/celia_cruz_191644",
+        "quote": "Singing is my life. It has always been my life. It will always be my life.",
+        "author": {
+            "name": "Celia Cruz",
+            "url": "/quotes/celia_cruz_191644"
+        },
+        "topics": [
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/celia_cruz_191640",
+        "quote": "I always clean before the cleaning lady comes. If not, when I come home, I can't find anything. Cleaning ladies are always hiding things you leave out.",
+        "author": {
+            "name": "Celia Cruz",
+            "url": "/quotes/celia_cruz_191640"
+        },
+        "topics": [
+            {
+                "name": "Cleaning",
+                "url": "/topics/cleaning"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/kenny_scharf_530173",
+        "quote": "I'm constantly doing new stuff. I'm always excited. I'm a one-man tornado.",
+        "author": {
+            "name": "Kenny Scharf",
+            "url": "/quotes/kenny_scharf_530173"
+        },
+        "topics": [
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kenny_scharf_530171",
+        "quote": "Part of what I do and what I want to do is I want to bring art into the everyday life. If you can take ordinary just walking in the street and you're confronted by something, that might change your day - it might inspire you.",
+        "author": {
+            "name": "Kenny Scharf",
+            "url": "/quotes/kenny_scharf_530171"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Part",
+                "url": "/topics/part"
+            },
+            {
+                "name": "Might",
+                "url": "/topics/might"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kenny_scharf_530172",
+        "quote": "I always thought it would be a great thing to do an art carwash. So you can actually go and get your car washed, but while you're sitting around waiting you can walk in that hallway where you look at the cars going through the window, and that could be changing exhibitions.",
+        "author": {
+            "name": "Kenny Scharf",
+            "url": "/quotes/kenny_scharf_530172"
+        },
+        "topics": [
+            {
+                "name": "Waiting",
+                "url": "/topics/waiting"
+            },
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            }
+        ]
+    }
+]

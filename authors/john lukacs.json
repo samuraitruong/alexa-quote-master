@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/john_lukacs_399212",
+        "quote": "Generalizations, like brooms, ought not to stand in a corner forever; they ought to sweep as a matter of course.",
+        "author": {
+            "name": "John Lukacs",
+            "url": "/quotes/john_lukacs_399212"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Generalizations",
+                "url": "/topics/generalizations"
+            },
+            {
+                "name": "Sweep",
+                "url": "/topics/sweep"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_lukacs_403098",
+        "quote": "Even one billion Chinese do not a superpower make.",
+        "author": {
+            "name": "John Lukacs",
+            "url": "/quotes/john_lukacs_403098"
+        },
+        "topics": [
+            {
+                "name": "Chinese",
+                "url": "/topics/chinese"
+            },
+            {
+                "name": "Even",
+                "url": "/topics/even"
+            },
+            {
+                "name": "Billion",
+                "url": "/topics/billion"
+            }
+        ]
+    }
+]

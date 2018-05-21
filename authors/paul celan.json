@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/paul_celan_211476",
+        "quote": "Poetry is a sort of homecoming.",
+        "author": {
+            "name": "Paul Celan",
+            "url": "/quotes/paul_celan_211476"
+        },
+        "topics": [
+            {
+                "name": "Poetry",
+                "url": "/topics/poetry"
+            },
+            {
+                "name": "Homecoming",
+                "url": "/topics/homecoming"
+            },
+            {
+                "name": "Sort",
+                "url": "/topics/sort"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_celan_403778",
+        "quote": "Only truthful hands write true poems. I cannot see any basic difference between a handshake and a poem.",
+        "author": {
+            "name": "Paul Celan",
+            "url": "/quotes/paul_celan_403778"
+        },
+        "topics": [
+            {
+                "name": "Hands",
+                "url": "/topics/hands"
+            },
+            {
+                "name": "Handshake",
+                "url": "/topics/handshake"
+            },
+            {
+                "name": "Any",
+                "url": "/topics/any"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_celan_211474",
+        "quote": "The heart hid still in the dark, hard as the Philosopher's Stone.",
+        "author": {
+            "name": "Paul Celan",
+            "url": "/quotes/paul_celan_211474"
+        },
+        "topics": [
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            },
+            {
+                "name": "Philosopher",
+                "url": "/topics/philosopher"
+            },
+            {
+                "name": "Hid",
+                "url": "/topics/hid"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_celan_211475",
+        "quote": "Reality is not simply there, it must be searched and won.",
+        "author": {
+            "name": "Paul Celan",
+            "url": "/quotes/paul_celan_211475"
+        },
+        "topics": [
+            {
+                "name": "Reality",
+                "url": "/topics/reality"
+            },
+            {
+                "name": "Won",
+                "url": "/topics/won"
+            },
+            {
+                "name": "Must",
+                "url": "/topics/must"
+            }
+        ]
+    }
+]

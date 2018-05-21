@@ -1,0 +1,134 @@
+[
+    {
+        "url": "/quotes/bob_black_404558",
+        "quote": "The reinvention of daily life means marching off the edge of our maps.",
+        "author": {
+            "name": "Bob Black",
+            "url": "/quotes/bob_black_404558"
+        },
+        "topics": [
+            {
+                "name": "Daily Life",
+                "url": "/topics/daily_life"
+            },
+            {
+                "name": "Edge",
+                "url": "/topics/edge"
+            },
+            {
+                "name": "Means",
+                "url": "/topics/means"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bob_black_404570",
+        "quote": "Liberals say we should end employment discrimination. I say we should end employment.",
+        "author": {
+            "name": "Bob Black",
+            "url": "/quotes/bob_black_404570"
+        },
+        "topics": [
+            {
+                "name": "Say",
+                "url": "/topics/say"
+            },
+            {
+                "name": "Liberals",
+                "url": "/topics/liberals"
+            },
+            {
+                "name": "Should",
+                "url": "/topics/should"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bob_black_404544",
+        "quote": "I call for a collective adventure in generalized joy and freely interdependent exuberance.",
+        "author": {
+            "name": "Bob Black",
+            "url": "/quotes/bob_black_404544"
+        },
+        "topics": [
+            {
+                "name": "Adventure",
+                "url": "/topics/adventure"
+            },
+            {
+                "name": "Call",
+                "url": "/topics/call"
+            },
+            {
+                "name": "Generalized",
+                "url": "/topics/generalized"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bob_black_404534",
+        "quote": "Law is any application for the official use of coercion that succeeds.",
+        "author": {
+            "name": "Bob Black",
+            "url": "/quotes/bob_black_404534"
+        },
+        "topics": [
+            {
+                "name": "Law",
+                "url": "/topics/law"
+            },
+            {
+                "name": "Application",
+                "url": "/topics/application"
+            },
+            {
+                "name": "Succeeds",
+                "url": "/topics/succeeds"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bob_black_404528",
+        "quote": "Play is always voluntary. What might otherwise be play is work if it's forced.",
+        "author": {
+            "name": "Bob Black",
+            "url": "/quotes/bob_black_404528"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Otherwise",
+                "url": "/topics/otherwise"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bob_black_404535",
+        "quote": "People aren't as stupid as the politicians think. More and more of us are laughing off our 'civic duty' to vote, rejecting the role of compulsory constituent.",
+        "author": {
+            "name": "Bob Black",
+            "url": "/quotes/bob_black_404535"
+        },
+        "topics": [
+            {
+                "name": "Stupid",
+                "url": "/topics/stupid"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Role",
+                "url": "/topics/role"
+            }
+        ]
+    }
+]

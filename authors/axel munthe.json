@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/axel_munthe_391895",
+        "quote": "The wild, cruel beast is not behind the bars of the cage. He is in front of it.",
+        "author": {
+            "name": "Axel Munthe",
+            "url": "/quotes/axel_munthe_391895"
+        },
+        "topics": [
+            {
+                "name": "Cruel",
+                "url": "/topics/cruel"
+            },
+            {
+                "name": "Behind",
+                "url": "/topics/behind"
+            },
+            {
+                "name": "Cage",
+                "url": "/topics/cage"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/axel_munthe_133829",
+        "quote": "A man can stand a lot as long as he can stand himself. He can live without hope, without friends, without books, even without music, as long as he can listen to his own thoughts.",
+        "author": {
+            "name": "Axel Munthe",
+            "url": "/quotes/axel_munthe_133829"
+        },
+        "topics": [
+            {
+                "name": "Hope",
+                "url": "/topics/hope"
+            },
+            {
+                "name": "Thoughts",
+                "url": "/topics/thoughts"
+            },
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            }
+        ]
+    }
+]

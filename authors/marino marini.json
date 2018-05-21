@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/marino_marini_305858",
+        "quote": "Each work has its own space, which should neither be conceived as a sort of cage nor regarded as extending to infinity.",
+        "author": {
+            "name": "Marino Marini",
+            "url": "/quotes/marino_marini_305858"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marino_marini_305859",
+        "quote": "To describe and explain my ideas is to lose them.",
+        "author": {
+            "name": "Marino Marini",
+            "url": "/quotes/marino_marini_305859"
+        },
+        "topics": [
+            {
+                "name": "Ideas",
+                "url": "/topics/ideas"
+            },
+            {
+                "name": "Lose",
+                "url": "/topics/lose"
+            },
+            {
+                "name": "Explain",
+                "url": "/topics/explain"
+            }
+        ]
+    }
+]

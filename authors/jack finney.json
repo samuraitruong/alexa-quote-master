@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/jack_finney_221387",
+        "quote": "I went up a straight crooked lane and, I said 'No thanks, yes if yer please.",
+        "author": {
+            "name": "Jack Finney",
+            "url": "/quotes/jack_finney_221387"
+        },
+        "topics": [
+            {
+                "name": "Thanks",
+                "url": "/topics/thanks"
+            },
+            {
+                "name": "Yes",
+                "url": "/topics/yes"
+            },
+            {
+                "name": "Straight",
+                "url": "/topics/straight"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jack_finney_221385",
+        "quote": "When you've heard one bagpipe tune, you've heard them both.",
+        "author": {
+            "name": "Jack Finney",
+            "url": "/quotes/jack_finney_221385"
+        },
+        "topics": [
+            {
+                "name": "You",
+                "url": "/topics/you"
+            },
+            {
+                "name": "Heard",
+                "url": "/topics/heard"
+            },
+            {
+                "name": "Them",
+                "url": "/topics/them"
+            }
+        ]
+    }
+]

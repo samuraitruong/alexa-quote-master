@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/percy_ross_147541",
+        "quote": "Many drops make a bucket, many buckets make a pond, many ponds make a lake, and many lakes make an ocean.",
+        "author": {
+            "name": "Percy Ross",
+            "url": "/quotes/percy_ross_147541"
+        },
+        "topics": [
+            {
+                "name": "Drops",
+                "url": "/topics/drops"
+            },
+            {
+                "name": "Bucket",
+                "url": "/topics/bucket"
+            },
+            {
+                "name": "Pond",
+                "url": "/topics/pond"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/percy_ross_147538",
+        "quote": "The world is full of genies waiting to grant your wishes.",
+        "author": {
+            "name": "Percy Ross",
+            "url": "/quotes/percy_ross_147538"
+        },
+        "topics": [
+            {
+                "name": "Waiting",
+                "url": "/topics/waiting"
+            },
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Your",
+                "url": "/topics/your"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/percy_ross_147537",
+        "quote": "A clever, imaginative, humorous request can open closed doors and closed minds.",
+        "author": {
+            "name": "Percy Ross",
+            "url": "/quotes/percy_ross_147537"
+        },
+        "topics": [
+            {
+                "name": "Doors",
+                "url": "/topics/doors"
+            },
+            {
+                "name": "Minds",
+                "url": "/topics/minds"
+            },
+            {
+                "name": "Request",
+                "url": "/topics/request"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/percy_ross_147539",
+        "quote": "You've got to ask! Asking is, in my opinion, the world's most powerful - and neglected - secret to success and happiness.",
+        "author": {
+            "name": "Percy Ross",
+            "url": "/quotes/percy_ross_147539"
+        },
+        "topics": [
+            {
+                "name": "Happiness",
+                "url": "/topics/happiness"
+            },
+            {
+                "name": "Secret",
+                "url": "/topics/secret"
+            },
+            {
+                "name": "Asking",
+                "url": "/topics/asking"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/percy_ross_147540",
+        "quote": "He who gives while he lives, get to know where it goes.",
+        "author": {
+            "name": "Percy Ross",
+            "url": "/quotes/percy_ross_147540"
+        },
+        "topics": [
+            {
+                "name": "Goes",
+                "url": "/topics/goes"
+            },
+            {
+                "name": "Lives",
+                "url": "/topics/lives"
+            },
+            {
+                "name": "Get",
+                "url": "/topics/get"
+            }
+        ]
+    }
+]

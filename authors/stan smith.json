@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/stan_smith_172082",
+        "quote": "Experience tells you what to do; confidence allows you to do it.",
+        "author": {
+            "name": "Stan Smith",
+            "url": "/quotes/stan_smith_172082"
+        },
+        "topics": [
+            {
+                "name": "Confidence",
+                "url": "/topics/confidence"
+            },
+            {
+                "name": "You",
+                "url": "/topics/you"
+            },
+            {
+                "name": "Tells",
+                "url": "/topics/tells"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/stan_smith_502250",
+        "quote": "My first love was basketball.",
+        "author": {
+            "name": "Stan Smith",
+            "url": "/quotes/stan_smith_502250"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Basketball",
+                "url": "/topics/basketball"
+            },
+            {
+                "name": "First Love",
+                "url": "/topics/first_love"
+            }
+        ]
+    }
+]

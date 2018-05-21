@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/tom_wesselmann_230211",
+        "quote": "I didn't want to deal in poetry. I got rid of that after a few months.",
+        "author": {
+            "name": "Tom Wesselmann",
+            "url": "/quotes/tom_wesselmann_230211"
+        },
+        "topics": [
+            {
+                "name": "Deal",
+                "url": "/topics/deal"
+            },
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Months",
+                "url": "/topics/months"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tom_wesselmann_230215",
+        "quote": "I'd never painted anything before. I was quite content to take other people's work since I didn't care anyway about the subject matter. I approached subject matter as a scoundrel. I had nothing to say about it whatsoever. I only wanted to make these exciting paintings.",
+        "author": {
+            "name": "Tom Wesselmann",
+            "url": "/quotes/tom_wesselmann_230215"
+        },
+        "topics": [
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Painted",
+                "url": "/topics/painted"
+            }
+        ]
+    }
+]

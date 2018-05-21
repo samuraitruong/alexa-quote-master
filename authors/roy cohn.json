@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/roy_cohn_111429",
+        "quote": "I bring out the worst in my enemies and that's how I get them to defeat themselves.",
+        "author": {
+            "name": "Roy Cohn",
+            "url": "/quotes/roy_cohn_111429"
+        },
+        "topics": [
+            {
+                "name": "Defeat",
+                "url": "/topics/defeat"
+            },
+            {
+                "name": "Get",
+                "url": "/topics/get"
+            },
+            {
+                "name": "How",
+                "url": "/topics/how"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/roy_cohn_162171",
+        "quote": "I don't write polite letters. I don't like to plea-bargain. I like to fight.",
+        "author": {
+            "name": "Roy Cohn",
+            "url": "/quotes/roy_cohn_162171"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Polite",
+                "url": "/topics/polite"
+            },
+            {
+                "name": "Write",
+                "url": "/topics/write"
+            }
+        ]
+    }
+]

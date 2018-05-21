@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/john_gilmore_129885",
+        "quote": "The Net interprets censorship as damage and routes around it.",
+        "author": {
+            "name": "John Gilmore",
+            "url": "/quotes/john_gilmore_129885"
+        },
+        "topics": [
+            {
+                "name": "Net",
+                "url": "/topics/net"
+            },
+            {
+                "name": "Damage",
+                "url": "/topics/damage"
+            },
+            {
+                "name": "Routes",
+                "url": "/topics/routes"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_gilmore_163582",
+        "quote": "How many of you have broken no laws this month? That's the kind of society I want to build. I want a guarantee - with physics and mathematics, not with laws - that we can give ourselves real privacy of personal communications.",
+        "author": {
+            "name": "John Gilmore",
+            "url": "/quotes/john_gilmore_163582"
+        },
+        "topics": [
+            {
+                "name": "Broken",
+                "url": "/topics/broken"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            },
+            {
+                "name": "Laws",
+                "url": "/topics/laws"
+            }
+        ]
+    }
+]

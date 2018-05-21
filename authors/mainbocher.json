@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/mainbocher_162548",
+        "quote": "I have never known a really chic woman whose appearance was not, in large part, an outward reflection of her inner self.",
+        "author": {
+            "name": "Mainbocher",
+            "url": "/quotes/mainbocher_162548"
+        },
+        "topics": [
+            {
+                "name": "Woman",
+                "url": "/topics/woman"
+            },
+            {
+                "name": "Large",
+                "url": "/topics/large"
+            },
+            {
+                "name": "Inner Self",
+                "url": "/topics/inner_self"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mainbocher_115649",
+        "quote": "To be well turned out, a woman should turn her thoughts in.",
+        "author": {
+            "name": "Mainbocher",
+            "url": "/quotes/mainbocher_115649"
+        },
+        "topics": [
+            {
+                "name": "Woman",
+                "url": "/topics/woman"
+            },
+            {
+                "name": "Thoughts",
+                "url": "/topics/thoughts"
+            },
+            {
+                "name": "Turned",
+                "url": "/topics/turned"
+            }
+        ]
+    }
+]

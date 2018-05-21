@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/al_from_404154",
+        "quote": "A Democrat has to show the toughness to govern. People don't doubt that Republicans will be tough.",
+        "author": {
+            "name": "Al From",
+            "url": "/quotes/al_from_404154"
+        },
+        "topics": [
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Democrat",
+                "url": "/topics/democrat"
+            },
+            {
+                "name": "Govern",
+                "url": "/topics/govern"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/al_from_509101",
+        "quote": "In 1996, President Clinton put together a detailed agenda called 'A Bridge to the 21st Century' that told voters why, in his words, 'rehire him' for another four years. That's the right way for an incumbent president to run for re-election.",
+        "author": {
+            "name": "Al From",
+            "url": "/quotes/al_from_509101"
+        },
+        "topics": [
+            {
+                "name": "Voters",
+                "url": "/topics/voters"
+            },
+            {
+                "name": "President Clinton",
+                "url": "/topics/president_clinton"
+            }
+        ]
+    }
+]

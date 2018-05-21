@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/john_harington_173129",
+        "quote": "Treason doth never prosper, what's the reason? For if it prosper, none dare call it Treason.",
+        "author": {
+            "name": "John Harington",
+            "url": "/quotes/john_harington_173129"
+        },
+        "topics": [
+            {
+                "name": "Treason",
+                "url": "/topics/treason"
+            },
+            {
+                "name": "Call",
+                "url": "/topics/call"
+            },
+            {
+                "name": "Doth",
+                "url": "/topics/doth"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_harington_177143",
+        "quote": "From your confessor, lawyer and physician, hide not your case on no condition.",
+        "author": {
+            "name": "John Harington",
+            "url": "/quotes/john_harington_177143"
+        },
+        "topics": [
+            {
+                "name": "Legal",
+                "url": "/topics/legal"
+            },
+            {
+                "name": "Hide",
+                "url": "/topics/hide"
+            },
+            {
+                "name": "Condition",
+                "url": "/topics/condition"
+            }
+        ]
+    }
+]

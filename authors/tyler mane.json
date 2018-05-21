@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/tyler_mane_570838",
+        "quote": "Michael Myers is a very famous character. This is the ninth movie with Michael Myers, and when you put on that mask for the first time, you get a little chill going down your spine.",
+        "author": {
+            "name": "Tyler Mane",
+            "url": "/quotes/tyler_mane_570838"
+        },
+        "topics": [
+            {
+                "name": "Famous",
+                "url": "/topics/famous"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Movie",
+                "url": "/topics/movie"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tyler_mane_682820",
+        "quote": "Man, I'm 6 foot 8. I'm gonna be typecast. It's not like I'm gonna be the romantic lead, although that wouldn't be bad.",
+        "author": {
+            "name": "Tyler Mane",
+            "url": "/quotes/tyler_mane_682820"
+        },
+        "topics": [
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Romantic Lead",
+                "url": "/topics/romantic_lead"
+            }
+        ]
+    }
+]

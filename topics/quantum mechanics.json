@@ -1,0 +1,928 @@
+[
+    {
+        "url": "/quotes/niels_bohr_164546?src=t_quantum_mechanics",
+        "quote": "If quantum mechanics hasn't profoundly shocked you, you haven't understood it yet.",
+        "author": {
+            "name": "Niels Bohr",
+            "url": "/authors/niels_bohr"
+        },
+        "topics": [
+            {
+                "name": "Quantum",
+                "url": "/topics/quantum"
+            },
+            {
+                "name": "Profoundly",
+                "url": "/topics/profoundly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lawrence_m_krauss_526730?src=t_quantum_mechanics",
+        "quote": "For the record: Quantum mechanics does not deny the existence of objective reality. Nor does it imply that mere thoughts can change external events. Effects still require causes, so if you want to change the universe, you need to act on it.",
+        "author": {
+            "name": "Lawrence M. Krauss",
+            "url": "/authors/lawrence_m_krauss"
+        },
+        "topics": [
+            {
+                "name": "Quantum",
+                "url": "/topics/quantum"
+            },
+            {
+                "name": "Existence",
+                "url": "/topics/existence"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brian_greene_551447?src=t_quantum_mechanics",
+        "quote": "String theory is the most developed theory with the capacity to unite general relativity and quantum mechanics in a consistent manner. I do believe the universe is consistent, and therefore I do believe that general relativity and quantum mechanics should be put together in a manner that makes sense.",
+        "author": {
+            "name": "Brian Greene",
+            "url": "/authors/brian_greene"
+        },
+        "topics": [
+            {
+                "name": "String",
+                "url": "/topics/string"
+            },
+            {
+                "name": "General Relativity",
+                "url": "/topics/general_relativity"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lawrence_m_krauss_526729?src=t_quantum_mechanics",
+        "quote": "No one intuitively understands quantum mechanics because all of our experience involves a world of classical phenomena where, for example, a baseball thrown from pitcher to catcher seems to take just one path, the one described by Newton's laws of motion. Yet at a microscopic level, the universe behaves quite differently.",
+        "author": {
+            "name": "Lawrence M. Krauss",
+            "url": "/authors/lawrence_m_krauss"
+        },
+        "topics": [
+            {
+                "name": "Quantum",
+                "url": "/topics/quantum"
+            },
+            {
+                "name": "Catcher",
+                "url": "/topics/catcher"
+            },
+            {
+                "name": "Classical",
+                "url": "/topics/classical"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_davies_499472?src=t_quantum_mechanics",
+        "quote": "The birth of science as we know it arguably began with Isaac Newton's formulation of the laws of gravitation and motion. It is no exaggeration to say that physics was reborn in the early 20th-century with the twin revolutions of quantum mechanics and the theory of relativity.",
+        "author": {
+            "name": "Paul Davies",
+            "url": "/authors/paul_davies"
+        },
+        "topics": [
+            {
+                "name": "Motion",
+                "url": "/topics/motion"
+            },
+            {
+                "name": "Laws",
+                "url": "/topics/laws"
+            },
+            {
+                "name": "Isaac",
+                "url": "/topics/isaac"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/richard_p_feynman_719029?src=t_quantum_mechanics",
+        "quote": "It is a curious historical fact that modern quantum mechanics began with two quite different mathematical formulations: the differential equation of Schroedinger and the matrix algebra of Heisenberg. The two apparently dissimilar approaches were proved to be mathematically equivalent.",
+        "author": {
+            "name": "Richard P. Feynman",
+            "url": "/authors/richard_p_feynman"
+        },
+        "topics": [
+            {
+                "name": "Fact",
+                "url": "/topics/fact"
+            },
+            {
+                "name": "Historical",
+                "url": "/topics/historical"
+            },
+            {
+                "name": "Equivalent",
+                "url": "/topics/equivalent"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/neil_degrasse_tyson_531110?src=t_quantum_mechanics",
+        "quote": "Most of what Einstein said and did has no direct impact on what anybody reads in the Bible. Special relativity, his work in quantum mechanics, nobody even knows or cares. Where Einstein really affects the Bible is the fact that general relativity is the organizing principle for the Big Bang.",
+        "author": {
+            "name": "Neil deGrasse Tyson",
+            "url": "/authors/neil_degrasse_tyson"
+        },
+        "topics": [
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Principle",
+                "url": "/topics/principle"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/elon_musk_567238?src=t_quantum_mechanics",
+        "quote": "Physics is really figuring out how to discover new things that are counterintuitive, like quantum mechanics. It's really counterintuitive.",
+        "author": {
+            "name": "Elon Musk",
+            "url": "/authors/elon_musk"
+        },
+        "topics": [
+            {
+                "name": "New Things",
+                "url": "/topics/new_things"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Discover",
+                "url": "/topics/discover"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brian_greene_551446?src=t_quantum_mechanics",
+        "quote": "Einstein's theory of relativity does a fantastic job for explaining big things. Quantum mechanics is fantastic for the other end of the spectrum - for small things.",
+        "author": {
+            "name": "Brian Greene",
+            "url": "/authors/brian_greene"
+        },
+        "topics": [
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brian_greene_599048?src=t_quantum_mechanics",
+        "quote": "Quantum mechanics broke the mold of the previous framework, classical mechanics, by establishing that the predictions of science are necessarily probabilistic.",
+        "author": {
+            "name": "Brian Greene",
+            "url": "/authors/brian_greene"
+        },
+        "topics": [
+            {
+                "name": "Broke",
+                "url": "/topics/broke"
+            },
+            {
+                "name": "Previous",
+                "url": "/topics/previous"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lawrence_m_krauss_526705?src=t_quantum_mechanics",
+        "quote": "Nothing can create something all the time due to the laws of quantum mechanics, and it's - it's fascinatingly interesting.",
+        "author": {
+            "name": "Lawrence M. Krauss",
+            "url": "/authors/lawrence_m_krauss"
+        },
+        "topics": [
+            {
+                "name": "Interesting",
+                "url": "/topics/interesting"
+            },
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            },
+            {
+                "name": "Laws",
+                "url": "/topics/laws"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_nozick_256804?src=t_quantum_mechanics",
+        "quote": "The scientists often have more unfettered imaginations than current philosophers do. Relativity theory came as a complete surprise to philosophers, and so did quantum mechanics, and so did other things.",
+        "author": {
+            "name": "Robert Nozick",
+            "url": "/authors/robert_nozick"
+        },
+        "topics": [
+            {
+                "name": "Surprise",
+                "url": "/topics/surprise"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/frank_tipler_516433?src=t_quantum_mechanics",
+        "quote": "What you can show using physics, forces this universe to continue to exist. As long as you're using general relativity and quantum mechanics you are forced to conclude that God exists.",
+        "author": {
+            "name": "Frank Tipler",
+            "url": "/authors/frank_tipler"
+        },
+        "topics": [
+            {
+                "name": "Using",
+                "url": "/topics/using"
+            },
+            {
+                "name": "General Relativity",
+                "url": "/topics/general_relativity"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/roy_h_williams_357709?src=t_quantum_mechanics",
+        "quote": "Einstein was searching for String Theory. It not only reconciles General Relativity to Quantum Mechanics, but it reconciles Science and the Bible as well.",
+        "author": {
+            "name": "Roy H. Williams",
+            "url": "/authors/roy_h_williams"
+        },
+        "topics": [
+            {
+                "name": "Bible",
+                "url": "/topics/bible"
+            },
+            {
+                "name": "General Relativity",
+                "url": "/topics/general_relativity"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/richard_p_feynman_718973?src=t_quantum_mechanics",
+        "quote": "Because the theory of quantum mechanics could explain all of chemistry and the various properties of substances, it was a tremendous success. But still there was the problem of the interaction of light and matter.",
+        "author": {
+            "name": "Richard P. Feynman",
+            "url": "/authors/richard_p_feynman"
+        },
+        "topics": [
+            {
+                "name": "Chemistry",
+                "url": "/topics/chemistry"
+            },
+            {
+                "name": "Explain",
+                "url": "/topics/explain"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brian_greene_551488?src=t_quantum_mechanics",
+        "quote": "Before the discovery of quantum mechanics, the framework of physics was this: If you tell me how things are now, I can then use the laws of physics to calculate, and hence predict, how things will be later.",
+        "author": {
+            "name": "Brian Greene",
+            "url": "/authors/brian_greene"
+        },
+        "topics": [
+            {
+                "name": "Tell",
+                "url": "/topics/tell"
+            },
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            },
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kate_mckinnon_822919?src=t_quantum_mechanics",
+        "quote": "I've been a big astrophysics nut since I was 12. I have always had a real soft spot for the bizarreness of quantum mechanics. But I gave up on being a scientist in high school - I'm just not that good at math.",
+        "author": {
+            "name": "Kate McKinnon",
+            "url": "/authors/kate_mckinnon"
+        },
+        "topics": [
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Scientist",
+                "url": "/topics/scientist"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_bohm_321088?src=t_quantum_mechanics",
+        "quote": "In relativity, movement is continuous, causally determinate and well defined, while in quantum mechanics it is discontinuous, not causally determinate and not well defined.",
+        "author": {
+            "name": "David Bohm",
+            "url": "/authors/david_bohm"
+        },
+        "topics": [
+            {
+                "name": "Well",
+                "url": "/topics/well"
+            },
+            {
+                "name": "Relativity",
+                "url": "/topics/relativity"
+            },
+            {
+                "name": "Continuous",
+                "url": "/topics/continuous"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lawrence_m_krauss_526731?src=t_quantum_mechanics",
+        "quote": "Feynman once said, 'Science is imagination in a straitjacket.' It is ironic that in the case of quantum mechanics, the people without the straitjackets are generally the nuts.",
+        "author": {
+            "name": "Lawrence M. Krauss",
+            "url": "/authors/lawrence_m_krauss"
+        },
+        "topics": [
+            {
+                "name": "Quantum",
+                "url": "/topics/quantum"
+            },
+            {
+                "name": "Mechanics",
+                "url": "/topics/mechanics"
+            },
+            {
+                "name": "Ironic",
+                "url": "/topics/ironic"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/richard_k_morgan_527945?src=t_quantum_mechanics",
+        "quote": "In the future, maybe quantum mechanics will teach us something equally chilling about exactly how we exist from moment to moment of what we like to think of as time.",
+        "author": {
+            "name": "Richard K. Morgan",
+            "url": "/authors/richard_k_morgan"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Maybe",
+                "url": "/topics/maybe"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/martin_fleischmann_358678?src=t_quantum_mechanics",
+        "quote": "The problem is that replacement of Quantum Mechanics by Quantum Field Theory is still very demanding.",
+        "author": {
+            "name": "Martin Fleischmann",
+            "url": "/authors/martin_fleischmann"
+        },
+        "topics": [
+            {
+                "name": "Problem",
+                "url": "/topics/problem"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brian_greene_599053?src=t_quantum_mechanics",
+        "quote": "The math of quantum mechanics and the math of general relativity, when they confront one another, they are ferocious antagonists and the equations don't work.",
+        "author": {
+            "name": "Brian Greene",
+            "url": "/authors/brian_greene"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "General Relativity",
+                "url": "/topics/general_relativity"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brian_greene_599066?src=t_quantum_mechanics",
+        "quote": "I do feel strongly that string theory is our best hope for making progress at unifying gravity and quantum mechanics.",
+        "author": {
+            "name": "Brian Greene",
+            "url": "/authors/brian_greene"
+        },
+        "topics": [
+            {
+                "name": "String",
+                "url": "/topics/string"
+            },
+            {
+                "name": "Making",
+                "url": "/topics/making"
+            },
+            {
+                "name": "Unifying",
+                "url": "/topics/unifying"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/seth_shostak_634196?src=t_quantum_mechanics",
+        "quote": "People don't learn science in movies. You don't go to the movies thinking, 'I hope I learn some quantum mechanics this afternoon.' But on the other hand, movies are instrumental and influential in getting young people interested in science.",
+        "author": {
+            "name": "Seth Shostak",
+            "url": "/authors/seth_shostak"
+        },
+        "topics": [
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Influential",
+                "url": "/topics/influential"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/werner_heisenberg_778312?src=t_quantum_mechanics",
+        "quote": "In 1924, I became a Dozent in Gottingen and worked out the quantum mechanics during a holiday stay on Heligoland.",
+        "author": {
+            "name": "Werner Heisenberg",
+            "url": "/authors/werner_heisenberg"
+        },
+        "topics": [
+            {
+                "name": "Quantum",
+                "url": "/topics/quantum"
+            },
+            {
+                "name": "Mechanics",
+                "url": "/topics/mechanics"
+            },
+            {
+                "name": "Became",
+                "url": "/topics/became"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_lovelock_314095?src=t_quantum_mechanics",
+        "quote": "If you start any large theory, such as quantum mechanics, plate tectonics, evolution, it takes about 40 years for mainstream science to come around. Gaia has been going for only 30 years or so.",
+        "author": {
+            "name": "James Lovelock",
+            "url": "/authors/james_lovelock"
+        },
+        "topics": [
+            {
+                "name": "Quantum",
+                "url": "/topics/quantum"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alan_stern_834890?src=t_quantum_mechanics",
+        "quote": "Typically in science, individual scientists make up their minds about scientific fact or theory one at a time. We don't take votes. We just don't vote on quantum mechanics, the theory of relativity, why the sky is blue, or anything else.",
+        "author": {
+            "name": "Alan Stern",
+            "url": "/authors/alan_stern"
+        },
+        "topics": [
+            {
+                "name": "Fact",
+                "url": "/topics/fact"
+            },
+            {
+                "name": "Scientific Fact",
+                "url": "/topics/scientific_fact"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/francis_collins_555123?src=t_quantum_mechanics",
+        "quote": "I finished up my graduate degree in quantum mechanics, but underwent a bit of a personal crisis, recognizing that I didn't want to do that for the rest of my life. It was too abstract, too far removed from human concerns.",
+        "author": {
+            "name": "Francis Collins",
+            "url": "/authors/francis_collins"
+        },
+        "topics": [
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Recognizing",
+                "url": "/topics/recognizing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edward_witten_542084?src=t_quantum_mechanics",
+        "quote": "Quantum mechanics brought an unexpected fuzziness into physics because of quantum uncertainty, the Heisenberg uncertainty principle. String theory does so again because a point particle is replaced by a string, which is more spread out.",
+        "author": {
+            "name": "Edward Witten",
+            "url": "/authors/edward_witten"
+        },
+        "topics": [
+            {
+                "name": "String",
+                "url": "/topics/string"
+            },
+            {
+                "name": "Principle",
+                "url": "/topics/principle"
+            },
+            {
+                "name": "Brought",
+                "url": "/topics/brought"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edward_witten_321095?src=t_quantum_mechanics",
+        "quote": "Quantum mechanics brought an unexpected fuzziness into physics because of quantum uncertainty, the Heisenberg uncertainty principle.",
+        "author": {
+            "name": "Edward Witten",
+            "url": "/authors/edward_witten"
+        },
+        "topics": [
+            {
+                "name": "Principle",
+                "url": "/topics/principle"
+            },
+            {
+                "name": "Brought",
+                "url": "/topics/brought"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/leonard_susskind_694610?src=t_quantum_mechanics",
+        "quote": "The most important single thing about string theory is that it's a highly mathematical theory, and the mathematics holds together in a very tight and consistent way. It contains in its basic structure both quantum mechanics and the theory of gravity. That's big news.",
+        "author": {
+            "name": "Leonard Susskind",
+            "url": "/authors/leonard_susskind"
+        },
+        "topics": [
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Single Thing",
+                "url": "/topics/single_thing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/roy_h_williams_357722?src=t_quantum_mechanics",
+        "quote": "Quantum Mechanics and General Relativity are both accepted as scientific fact even though they're mutually exclusive. Albert Einstein spent the second half of his life searching for a unifying truth that would reconcile the two.",
+        "author": {
+            "name": "Roy H. Williams",
+            "url": "/authors/roy_h_williams"
+        },
+        "topics": [
+            {
+                "name": "Fact",
+                "url": "/topics/fact"
+            },
+            {
+                "name": "Mutually Exclusive",
+                "url": "/topics/mutually_exclusive"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lisa_randall_608817?src=t_quantum_mechanics",
+        "quote": "There are a lot of mysteries about quantum mechanics, but they mostly arise in very detailed measurements in controlled settings.",
+        "author": {
+            "name": "Lisa Randall",
+            "url": "/authors/lisa_randall"
+        },
+        "topics": [
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Settings",
+                "url": "/topics/settings"
+            },
+            {
+                "name": "Mostly",
+                "url": "/topics/mostly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/murray_gellmann_305943?src=t_quantum_mechanics",
+        "quote": "If we look at the way the universe behaves, quantum mechanics gives us fundamental, unavoidable indeterminacy, so that alternative histories of the universe can be assigned probability.",
+        "author": {
+            "name": "Murray Gell-Mann",
+            "url": "/authors/murray_gellmann"
+        },
+        "topics": [
+            {
+                "name": "Probability",
+                "url": "/topics/probability"
+            },
+            {
+                "name": "Alternative",
+                "url": "/topics/alternative"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/murray_gellmann_305950?src=t_quantum_mechanics",
+        "quote": "Now, what that means is that there is fundamental indeterminacy from quantum mechanics, but besides that there are other sources of effective indeterminacy.",
+        "author": {
+            "name": "Murray Gell-Mann",
+            "url": "/authors/murray_gellmann"
+        },
+        "topics": [
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Sources",
+                "url": "/topics/sources"
+            },
+            {
+                "name": "Means",
+                "url": "/topics/means"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_gross_699574?src=t_quantum_mechanics",
+        "quote": "Quantum field theory was originally developed for the treatment of electrodynamics, immediately after the completion of quantum mechanics and the discovery of the Dirac equation.",
+        "author": {
+            "name": "David Gross",
+            "url": "/authors/david_gross"
+        },
+        "topics": [
+            {
+                "name": "Completion",
+                "url": "/topics/completion"
+            },
+            {
+                "name": "Treatment",
+                "url": "/topics/treatment"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_gross_699588?src=t_quantum_mechanics",
+        "quote": "Since the founding of quantum mechanics in the 1920s, theoretical physics had nurtured an extremely radical tradition.",
+        "author": {
+            "name": "David Gross",
+            "url": "/authors/david_gross"
+        },
+        "topics": [
+            {
+                "name": "1920s",
+                "url": "/topics/1920s"
+            },
+            {
+                "name": "Radical",
+                "url": "/topics/radical"
+            },
+            {
+                "name": "Theoretical",
+                "url": "/topics/theoretical"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/antony_garrett_lisi_554525?src=t_quantum_mechanics",
+        "quote": "The mathematics of quantum mechanics very accurately describes how our universe works.",
+        "author": {
+            "name": "Antony Garrett Lisi",
+            "url": "/authors/antony_garrett_lisi"
+        },
+        "topics": [
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "How",
+                "url": "/topics/how"
+            },
+            {
+                "name": "Works",
+                "url": "/topics/works"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ivar_giaever_736283?src=t_quantum_mechanics",
+        "quote": "While classical mechanics correctly predicts the behavior of large objects such as tennis balls, to predict the behavior of small objects such as electrons, we must use quantum mechanics.",
+        "author": {
+            "name": "Ivar Giaever",
+            "url": "/authors/ivar_giaever"
+        },
+        "topics": [
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Balls",
+                "url": "/topics/balls"
+            },
+            {
+                "name": "Large",
+                "url": "/topics/large"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/analeigh_tipton_534332?src=t_quantum_mechanics",
+        "quote": "There's a lot of things I nerd out over. Quantum Mechanics. I also love Dungeons and Dragons. I want to be an astronaut.",
+        "author": {
+            "name": "Analeigh Tipton",
+            "url": "/authors/analeigh_tipton"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Dungeons",
+                "url": "/topics/dungeons"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/blake_crouch_899370?src=t_quantum_mechanics",
+        "quote": "The more you study quantum mechanics, the more crazy and incomprehensible it becomes. You truly do need a Ph.D. in very high level math and science to understand it at a high, high level.",
+        "author": {
+            "name": "Blake Crouch",
+            "url": "/authors/blake_crouch"
+        },
+        "topics": [
+            {
+                "name": "Study",
+                "url": "/topics/study"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "High Level",
+                "url": "/topics/high_level"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/adam_riess_537562?src=t_quantum_mechanics",
+        "quote": "One of the most exciting things about dark energy is that it seems to live at the very nexus of two of our most successful theories of physics: quantum mechanics, which explains the physics of the small, and Einstein's Theory of General Relativity, which explains the physics of the large, including gravity.",
+        "author": {
+            "name": "Adam Riess",
+            "url": "/authors/adam_riess"
+        },
+        "topics": [
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tanit_phoenix_572984?src=t_quantum_mechanics",
+        "quote": "I'm not looking to be a trophy. When not acting, I spend my time studying metaphysics and quantum mechanics to keep my life as grounded as I can.",
+        "author": {
+            "name": "Tanit Phoenix",
+            "url": "/authors/tanit_phoenix"
+        },
+        "topics": [
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Studying",
+                "url": "/topics/studying"
+            },
+            {
+                "name": "Quantum",
+                "url": "/topics/quantum"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/aaron_d_oconnell_662193?src=t_quantum_mechanics",
+        "quote": "If I realize that actually there's quantum mechanics happening around us all the time in some macroscopic, interconnected way, then that doesn't change my perception of it, that doesn't change my interaction with it; it just changes how I view my interaction.",
+        "author": {
+            "name": "Aaron D. O'Connell",
+            "url": "/authors/aaron_d_oconnell"
+        },
+        "topics": [
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Interconnected",
+                "url": "/topics/interconnected"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alain_aspect_638348?src=t_quantum_mechanics",
+        "quote": "The development of quantum mechanics early in the twentieth century obliged physicists to change radically the concepts they used to describe the world.",
+        "author": {
+            "name": "Alain Aspect",
+            "url": "/authors/alain_aspect"
+        },
+        "topics": [
+            {
+                "name": "Change",
+                "url": "/topics/change"
+            },
+            {
+                "name": "Development",
+                "url": "/topics/development"
+            },
+            {
+                "name": "Obliged",
+                "url": "/topics/obliged"
+            }
+        ]
+    }
+]

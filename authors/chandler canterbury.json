@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/chandler_canterbury_576739",
+        "quote": "Of course there is school and sports, but I also like X-Box 360. 'Black Ops 3' is one of my favorites. I also like to play the guitar and piano.",
+        "author": {
+            "name": "Chandler Canterbury",
+            "url": "/quotes/chandler_canterbury_576739"
+        },
+        "topics": [
+            {
+                "name": "Sports",
+                "url": "/topics/sports"
+            },
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Favorites",
+                "url": "/topics/favorites"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/chandler_canterbury_576740",
+        "quote": "Some of the best advice I've gotten was from William Hurt and Harry Connick Jr. I've really learned a lot from both of them.",
+        "author": {
+            "name": "Chandler Canterbury",
+            "url": "/quotes/chandler_canterbury_576740"
+        },
+        "topics": [
+            {
+                "name": "Learned",
+                "url": "/topics/learned"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Gotten",
+                "url": "/topics/gotten"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/chandler_canterbury_576741",
+        "quote": "Always stay grounded and enjoy everything that comes your way, whether it's the chance to go for a opportunity or getting one.",
+        "author": {
+            "name": "Chandler Canterbury",
+            "url": "/quotes/chandler_canterbury_576741"
+        },
+        "topics": [
+            {
+                "name": "Chance",
+                "url": "/topics/chance"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Go",
+                "url": "/topics/go"
+            }
+        ]
+    }
+]

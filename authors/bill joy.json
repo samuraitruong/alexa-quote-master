@@ -1,0 +1,614 @@
+[
+    {
+        "url": "/quotes/bill_joy_238025",
+        "quote": "Systems are going to get a lot more sophisticated.",
+        "author": {
+            "name": "Bill Joy",
+            "url": "/quotes/bill_joy_238025"
+        },
+        "topics": [
+            {
+                "name": "Sophisticated",
+                "url": "/topics/sophisticated"
+            },
+            {
+                "name": "Systems",
+                "url": "/topics/systems"
+            },
+            {
+                "name": "Lot",
+                "url": "/topics/lot"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_joy_238027",
+        "quote": "I think the hard thing about all these tools is that it takes a fair amount of effort to become proficient.",
+        "author": {
+            "name": "Bill Joy",
+            "url": "/quotes/bill_joy_238027"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Amount",
+                "url": "/topics/amount"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_joy_237983",
+        "quote": "I wish we hadn't used all the keys on the keyboard.",
+        "author": {
+            "name": "Bill Joy",
+            "url": "/quotes/bill_joy_237983"
+        },
+        "topics": [
+            {
+                "name": "Wish",
+                "url": "/topics/wish"
+            },
+            {
+                "name": "I Wish",
+                "url": "/topics/i_wish"
+            },
+            {
+                "name": "Keyboard",
+                "url": "/topics/keyboard"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_joy_238018",
+        "quote": "But no, I don't generally have trouble with spelling mistakes.",
+        "author": {
+            "name": "Bill Joy",
+            "url": "/quotes/bill_joy_238018"
+        },
+        "topics": [
+            {
+                "name": "Mistakes",
+                "url": "/topics/mistakes"
+            },
+            {
+                "name": "Trouble",
+                "url": "/topics/trouble"
+            },
+            {
+                "name": "Spelling",
+                "url": "/topics/spelling"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_joy_238020",
+        "quote": "I think the Macintosh proves that everyone can have a bitmapped display.",
+        "author": {
+            "name": "Bill Joy",
+            "url": "/quotes/bill_joy_238020"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Everyone",
+                "url": "/topics/everyone"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_joy_237974",
+        "quote": "Well, limbo is not a good place to be.",
+        "author": {
+            "name": "Bill Joy",
+            "url": "/quotes/bill_joy_237974"
+        },
+        "topics": [
+            {
+                "name": "Place",
+                "url": "/topics/place"
+            },
+            {
+                "name": "Good Place",
+                "url": "/topics/good_place"
+            },
+            {
+                "name": "Well",
+                "url": "/topics/well"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_joy_237977",
+        "quote": "So Chuck and I looked at that and we hacked on em for a while, and eventually we ripped the stuff out of em and put some of it into what was then called en, which was really ed with some em features.",
+        "author": {
+            "name": "Bill Joy",
+            "url": "/quotes/bill_joy_237977"
+        },
+        "topics": [
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Looked",
+                "url": "/topics/looked"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_joy_237980",
+        "quote": "I remember right after Carter got elected, I was sitting in my apartment in Albany, CA, on a Saturday listening to people call Carter and ask stupid questions while I designed the screen editor.",
+        "author": {
+            "name": "Bill Joy",
+            "url": "/quotes/bill_joy_237980"
+        },
+        "topics": [
+            {
+                "name": "Stupid",
+                "url": "/topics/stupid"
+            },
+            {
+                "name": "Saturday",
+                "url": "/topics/saturday"
+            },
+            {
+                "name": "I Remember",
+                "url": "/topics/i_remember"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_joy_237984",
+        "quote": "I think one of the interesting things is that vi is really a mode-based editor.",
+        "author": {
+            "name": "Bill Joy",
+            "url": "/quotes/bill_joy_237984"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Editor",
+                "url": "/topics/editor"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_joy_237987",
+        "quote": "I had almost rewritten all of the display code for windows, and that was when I gave up.",
+        "author": {
+            "name": "Bill Joy",
+            "url": "/quotes/bill_joy_237987"
+        },
+        "topics": [
+            {
+                "name": "Code",
+                "url": "/topics/code"
+            },
+            {
+                "name": "Almost",
+                "url": "/topics/almost"
+            },
+            {
+                "name": "Display",
+                "url": "/topics/display"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_joy_237989",
+        "quote": "The fundamental problem with vi is that it doesn't have a mouse and therefore you've got all these commands.",
+        "author": {
+            "name": "Bill Joy",
+            "url": "/quotes/bill_joy_237989"
+        },
+        "topics": [
+            {
+                "name": "Problem",
+                "url": "/topics/problem"
+            },
+            {
+                "name": "Mouse",
+                "url": "/topics/mouse"
+            },
+            {
+                "name": "Fundamental",
+                "url": "/topics/fundamental"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_joy_237990",
+        "quote": "I think multiple levels of undo would be wonderful, too.",
+        "author": {
+            "name": "Bill Joy",
+            "url": "/quotes/bill_joy_237990"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Undo",
+                "url": "/topics/undo"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_joy_237993",
+        "quote": "I think the wonderful thing about vi is that it has such a good market share because we gave it away.",
+        "author": {
+            "name": "Bill Joy",
+            "url": "/quotes/bill_joy_237993"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_joy_237995",
+        "quote": "I think it killed the performance on a lot of the systems in the Labs for years because everyone had their own copy of it, but it wasn't being shared, and so they wasted huge amounts of memory back when memory was expensive.",
+        "author": {
+            "name": "Bill Joy",
+            "url": "/quotes/bill_joy_237995"
+        },
+        "topics": [
+            {
+                "name": "Memory",
+                "url": "/topics/memory"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Shared",
+                "url": "/topics/shared"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_joy_237997",
+        "quote": "I was surprised about vi going in, though, I didn't know it was in System V.",
+        "author": {
+            "name": "Bill Joy",
+            "url": "/quotes/bill_joy_237997"
+        },
+        "topics": [
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "System",
+                "url": "/topics/system"
+            },
+            {
+                "name": "Though",
+                "url": "/topics/though"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_joy_237998",
+        "quote": "I think editors have to come out of a certain kind of community.",
+        "author": {
+            "name": "Bill Joy",
+            "url": "/quotes/bill_joy_237998"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Kind",
+                "url": "/topics/kind"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_joy_238000",
+        "quote": "The reason I use ed is that I don't want to lose what's on the screen.",
+        "author": {
+            "name": "Bill Joy",
+            "url": "/quotes/bill_joy_238000"
+        },
+        "topics": [
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Reason",
+                "url": "/topics/reason"
+            },
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_joy_238002",
+        "quote": "I just don't like to lose what's in the window.",
+        "author": {
+            "name": "Bill Joy",
+            "url": "/quotes/bill_joy_238002"
+        },
+        "topics": [
+            {
+                "name": "Window",
+                "url": "/topics/window"
+            },
+            {
+                "name": "Lose",
+                "url": "/topics/lose"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_joy_238008",
+        "quote": "I started to write a new editor not too long ago and had it about half done after two days.",
+        "author": {
+            "name": "Bill Joy",
+            "url": "/quotes/bill_joy_238008"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Half",
+                "url": "/topics/half"
+            },
+            {
+                "name": "Editor",
+                "url": "/topics/editor"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_joy_238009",
+        "quote": "I got tired of people complaining that it was too hard to use UNIX because the editor was too complicated.",
+        "author": {
+            "name": "Bill Joy",
+            "url": "/quotes/bill_joy_238009"
+        },
+        "topics": [
+            {
+                "name": "Editor",
+                "url": "/topics/editor"
+            },
+            {
+                "name": "Too",
+                "url": "/topics/too"
+            },
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_joy_238013",
+        "quote": "Interleaf is very nice. I expect there to be a lot of competition for programs like that.",
+        "author": {
+            "name": "Bill Joy",
+            "url": "/quotes/bill_joy_238013"
+        },
+        "topics": [
+            {
+                "name": "Expect",
+                "url": "/topics/expect"
+            },
+            {
+                "name": "Lot",
+                "url": "/topics/lot"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_joy_238014",
+        "quote": "Interleaf is based on the formatting process.",
+        "author": {
+            "name": "Bill Joy",
+            "url": "/quotes/bill_joy_238014"
+        },
+        "topics": [
+            {
+                "name": "Process",
+                "url": "/topics/process"
+            },
+            {
+                "name": "Based",
+                "url": "/topics/based"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_joy_238015",
+        "quote": "That lack of programmability is probably what ultimately will doom vi. It can't extend its domain.",
+        "author": {
+            "name": "Bill Joy",
+            "url": "/quotes/bill_joy_238015"
+        },
+        "topics": [
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Doom",
+                "url": "/topics/doom"
+            },
+            {
+                "name": "Extend",
+                "url": "/topics/extend"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_joy_238016",
+        "quote": "It is formatted, and I'm tired of using vi. I get really bored.",
+        "author": {
+            "name": "Bill Joy",
+            "url": "/quotes/bill_joy_238016"
+        },
+        "topics": [
+            {
+                "name": "Tired",
+                "url": "/topics/tired"
+            },
+            {
+                "name": "Get",
+                "url": "/topics/get"
+            },
+            {
+                "name": "Using",
+                "url": "/topics/using"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_joy_238017",
+        "quote": "But with Interleaf I don't even have a spell program.",
+        "author": {
+            "name": "Bill Joy",
+            "url": "/quotes/bill_joy_238017"
+        },
+        "topics": [
+            {
+                "name": "Even",
+                "url": "/topics/even"
+            },
+            {
+                "name": "Spell",
+                "url": "/topics/spell"
+            },
+            {
+                "name": "Program",
+                "url": "/topics/program"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_joy_238021",
+        "quote": "Bitmap display is media compatible with dot matrix or laser printers.",
+        "author": {
+            "name": "Bill Joy",
+            "url": "/quotes/bill_joy_238021"
+        },
+        "topics": [
+            {
+                "name": "Laser",
+                "url": "/topics/laser"
+            },
+            {
+                "name": "Compatible",
+                "url": "/topics/compatible"
+            },
+            {
+                "name": "Printers",
+                "url": "/topics/printers"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_joy_238022",
+        "quote": "Document preparation systems will also require large screen displays.",
+        "author": {
+            "name": "Bill Joy",
+            "url": "/quotes/bill_joy_238022"
+        },
+        "topics": [
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Systems",
+                "url": "/topics/systems"
+            },
+            {
+                "name": "Large",
+                "url": "/topics/large"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_joy_238023",
+        "quote": "The point is that you want to have a system that is responsive.",
+        "author": {
+            "name": "Bill Joy",
+            "url": "/quotes/bill_joy_238023"
+        },
+        "topics": [
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "System",
+                "url": "/topics/system"
+            },
+            {
+                "name": "Responsive",
+                "url": "/topics/responsive"
+            }
+        ]
+    }
+]

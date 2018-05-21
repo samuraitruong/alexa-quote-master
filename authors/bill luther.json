@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/bill_luther_200953",
+        "quote": "It's almost inevitable there's going to be an escalation on both sides.",
+        "author": {
+            "name": "Bill Luther",
+            "url": "/quotes/bill_luther_200953"
+        },
+        "topics": [
+            {
+                "name": "Inevitable",
+                "url": "/topics/inevitable"
+            },
+            {
+                "name": "Both Sides",
+                "url": "/topics/both_sides"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_luther_200950",
+        "quote": "It could potentially be a very competitive race.",
+        "author": {
+            "name": "Bill Luther",
+            "url": "/quotes/bill_luther_200950"
+        },
+        "topics": [
+            {
+                "name": "Race",
+                "url": "/topics/race"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_luther_200951",
+        "quote": "These issues are so important. I just felt the best thing to do right now is contribute and go forward.",
+        "author": {
+            "name": "Bill Luther",
+            "url": "/quotes/bill_luther_200951"
+        },
+        "topics": [
+            {
+                "name": "Forward",
+                "url": "/topics/forward"
+            },
+            {
+                "name": "Contribute",
+                "url": "/topics/contribute"
+            },
+            {
+                "name": "Felt",
+                "url": "/topics/felt"
+            }
+        ]
+    }
+]

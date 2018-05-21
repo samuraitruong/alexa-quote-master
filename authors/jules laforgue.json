@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/jules_laforgue_234402",
+        "quote": "Oh, what a day-to-day business life is.",
+        "author": {
+            "name": "Jules Laforgue",
+            "url": "/quotes/jules_laforgue_234402"
+        },
+        "topics": [
+            {
+                "name": "Business",
+                "url": "/topics/business"
+            },
+            {
+                "name": "Oh",
+                "url": "/topics/oh"
+            },
+            {
+                "name": "Day-To-Day",
+                "url": "/topics/day-to-day"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jules_laforgue_395917",
+        "quote": "What a day-to-day affair life is.",
+        "author": {
+            "name": "Jules Laforgue",
+            "url": "/quotes/jules_laforgue_395917"
+        },
+        "topics": [
+            {
+                "name": "Life",
+                "url": "/topics/life"
+            },
+            {
+                "name": "Affair",
+                "url": "/topics/affair"
+            },
+            {
+                "name": "Day-To-Day",
+                "url": "/topics/day-to-day"
+            }
+        ]
+    }
+]

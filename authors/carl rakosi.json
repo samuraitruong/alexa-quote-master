@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/carl_rakosi_183317",
+        "quote": "Friends are not made, but recognized.",
+        "author": {
+            "name": "Carl Rakosi",
+            "url": "/quotes/carl_rakosi_183317"
+        },
+        "topics": [
+            {
+                "name": "Friends",
+                "url": "/topics/friends"
+            },
+            {
+                "name": "Made",
+                "url": "/topics/made"
+            },
+            {
+                "name": "Recognized",
+                "url": "/topics/recognized"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/carl_rakosi_183319",
+        "quote": "I fell in love with social work, and that was my undoing as a poet.",
+        "author": {
+            "name": "Carl Rakosi",
+            "url": "/quotes/carl_rakosi_183319"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Social Work",
+                "url": "/topics/social_work"
+            },
+            {
+                "name": "Fell",
+                "url": "/topics/fell"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/carl_rakosi_183318",
+        "quote": "At the time, there were very few foreign names in the press and they were all factory workers. I thought I'd never get a job at a university with a foreign name.",
+        "author": {
+            "name": "Carl Rakosi",
+            "url": "/quotes/carl_rakosi_183318"
+        },
+        "topics": [
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Factory",
+                "url": "/topics/factory"
+            }
+        ]
+    }
+]

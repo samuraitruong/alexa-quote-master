@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/john_g_schmitz_229179",
+        "quote": "Those who work ought to live better than those that don't.",
+        "author": {
+            "name": "John G. Schmitz",
+            "url": "/quotes/john_g_schmitz_229179"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Better",
+                "url": "/topics/better"
+            },
+            {
+                "name": "Than",
+                "url": "/topics/than"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_g_schmitz_229178",
+        "quote": "Never go to war unless your willing to win.",
+        "author": {
+            "name": "John G. Schmitz",
+            "url": "/quotes/john_g_schmitz_229178"
+        },
+        "topics": [
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Willing",
+                "url": "/topics/willing"
+            },
+            {
+                "name": "Unless",
+                "url": "/topics/unless"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_g_schmitz_229181",
+        "quote": "McGovern is so far left that he is in danger of falling off the earth.",
+        "author": {
+            "name": "John G. Schmitz",
+            "url": "/quotes/john_g_schmitz_229181"
+        },
+        "topics": [
+            {
+                "name": "Falling",
+                "url": "/topics/falling"
+            },
+            {
+                "name": "Left",
+                "url": "/topics/left"
+            },
+            {
+                "name": "Far",
+                "url": "/topics/far"
+            }
+        ]
+    }
+]

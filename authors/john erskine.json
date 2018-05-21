@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/john_erskine_106758",
+        "quote": "There's a difference between beauty and charm. A beautiful woman is one I notice. A charming woman is one who notices me.",
+        "author": {
+            "name": "John Erskine",
+            "url": "/quotes/john_erskine_106758"
+        },
+        "topics": [
+            {
+                "name": "Beauty",
+                "url": "/topics/beauty"
+            },
+            {
+                "name": "Woman",
+                "url": "/topics/woman"
+            },
+            {
+                "name": "Notices",
+                "url": "/topics/notices"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_erskine_158754",
+        "quote": "Music is the only language in which you cannot say a mean or sarcastic thing.",
+        "author": {
+            "name": "John Erskine",
+            "url": "/quotes/john_erskine_158754"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "Mean",
+                "url": "/topics/mean"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_erskine_140783",
+        "quote": "In the simplest terms, a leader is one who knows where she wants and gets up and goes.",
+        "author": {
+            "name": "John Erskine",
+            "url": "/quotes/john_erskine_140783"
+        },
+        "topics": [
+            {
+                "name": "Leader",
+                "url": "/topics/leader"
+            },
+            {
+                "name": "She",
+                "url": "/topics/she"
+            },
+            {
+                "name": "Simplest",
+                "url": "/topics/simplest"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_erskine_158755",
+        "quote": "Opinion is that exercise of the human will which helps us to make a decision without information.",
+        "author": {
+            "name": "John Erskine",
+            "url": "/quotes/john_erskine_158755"
+        },
+        "topics": [
+            {
+                "name": "Decision",
+                "url": "/topics/decision"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_erskine_158756",
+        "quote": "Lets tell young people the best books are yet to written; the best painting, the best government the best of everything is yet to be done by them.",
+        "author": {
+            "name": "John Erskine",
+            "url": "/quotes/john_erskine_158756"
+        },
+        "topics": [
+            {
+                "name": "Young",
+                "url": "/topics/young"
+            },
+            {
+                "name": "Tell",
+                "url": "/topics/tell"
+            },
+            {
+                "name": "Lets",
+                "url": "/topics/lets"
+            }
+        ]
+    }
+]

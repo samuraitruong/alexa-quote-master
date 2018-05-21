@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/coventry_patmore_163288",
+        "quote": "To him that waits all things reveal themselves, provided that he has the courage not to deny, in the darkness, what he has seen in the light.",
+        "author": {
+            "name": "Coventry Patmore",
+            "url": "/quotes/coventry_patmore_163288"
+        },
+        "topics": [
+            {
+                "name": "Reveal",
+                "url": "/topics/reveal"
+            },
+            {
+                "name": "Deny",
+                "url": "/topics/deny"
+            },
+            {
+                "name": "Waits",
+                "url": "/topics/waits"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/coventry_patmore_403140",
+        "quote": "The more wild and incredible your desire, the more willing and prompt God is in fulfilling it, if you will have it so.",
+        "author": {
+            "name": "Coventry Patmore",
+            "url": "/quotes/coventry_patmore_403140"
+        },
+        "topics": [
+            {
+                "name": "Desire",
+                "url": "/topics/desire"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    }
+]

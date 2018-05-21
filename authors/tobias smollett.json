@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/tobias_smollett_106009",
+        "quote": "Some folks are wise and some are otherwise.",
+        "author": {
+            "name": "Tobias Smollett",
+            "url": "/quotes/tobias_smollett_106009"
+        },
+        "topics": [
+            {
+                "name": "Wisdom",
+                "url": "/topics/wisdom"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Otherwise",
+                "url": "/topics/otherwise"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tobias_smollett_130084",
+        "quote": "Who bravely dares must sometimes risk a fall.",
+        "author": {
+            "name": "Tobias Smollett",
+            "url": "/quotes/tobias_smollett_130084"
+        },
+        "topics": [
+            {
+                "name": "Sometimes",
+                "url": "/topics/sometimes"
+            },
+            {
+                "name": "Fall",
+                "url": "/topics/fall"
+            },
+            {
+                "name": "Bravely",
+                "url": "/topics/bravely"
+            }
+        ]
+    }
+]

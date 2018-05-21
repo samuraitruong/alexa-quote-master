@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/alexander_jackson_davis_221266",
+        "quote": "I have designed the most buildings of any living American architect.",
+        "author": {
+            "name": "Alexander Jackson Davis",
+            "url": "/quotes/alexander_jackson_davis_221266"
+        },
+        "topics": [
+            {
+                "name": "Architecture",
+                "url": "/topics/architecture"
+            },
+            {
+                "name": "Living",
+                "url": "/topics/living"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alexander_jackson_davis_221267",
+        "quote": "I am but an architectural composer.",
+        "author": {
+            "name": "Alexander Jackson Davis",
+            "url": "/quotes/alexander_jackson_davis_221267"
+        },
+        "topics": [
+            {
+                "name": "Architecture",
+                "url": "/topics/architecture"
+            },
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Composer",
+                "url": "/topics/composer"
+            }
+        ]
+    }
+]

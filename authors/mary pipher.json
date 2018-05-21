@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/mary_pipher_402171",
+        "quote": "One important reason to stay calm is that calm parents hear more. Low-key, accepting parents are the ones whose children keep talking.",
+        "author": {
+            "name": "Mary Pipher",
+            "url": "/quotes/mary_pipher_402171"
+        },
+        "topics": [
+            {
+                "name": "Reason",
+                "url": "/topics/reason"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Stay Calm",
+                "url": "/topics/stay_calm"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mary_pipher_393896",
+        "quote": "Adolescence is when girls experience social pressure to put aside their authentic selves and to display only a small portion of their gifts.",
+        "author": {
+            "name": "Mary Pipher",
+            "url": "/quotes/mary_pipher_393896"
+        },
+        "topics": [
+            {
+                "name": "Teen",
+                "url": "/topics/teen"
+            },
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Social",
+                "url": "/topics/social"
+            }
+        ]
+    }
+]

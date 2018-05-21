@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/edvard_grieg_304502",
+        "quote": "Suddenly a mist fell from my eyes and I knew the way I had to take.",
+        "author": {
+            "name": "Edvard Grieg",
+            "url": "/quotes/edvard_grieg_304502"
+        },
+        "topics": [
+            {
+                "name": "Take",
+                "url": "/topics/take"
+            },
+            {
+                "name": "Knew",
+                "url": "/topics/knew"
+            },
+            {
+                "name": "Fell",
+                "url": "/topics/fell"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edvard_grieg_304501",
+        "quote": "Artists like Bach and Beethoven erected churches and temples on the heights. I only wanted... to build dwellings for men in which they might feel happy and at home.",
+        "author": {
+            "name": "Edvard Grieg",
+            "url": "/quotes/edvard_grieg_304501"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Temples",
+                "url": "/topics/temples"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    }
+]

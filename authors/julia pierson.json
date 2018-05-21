@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/julia_pierson_520716",
+        "quote": "I enjoyed being a police officer; I enjoyed the investigations.",
+        "author": {
+            "name": "Julia Pierson",
+            "url": "/quotes/julia_pierson_520716"
+        },
+        "topics": [
+            {
+                "name": "Police",
+                "url": "/topics/police"
+            },
+            {
+                "name": "Officer",
+                "url": "/topics/officer"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/julia_pierson_520717",
+        "quote": "When I first joined the Secret Service in 1983, I was right out of college, having spent the last two or three years of my college experience working as a police officer for the city of Orlando, Florida.",
+        "author": {
+            "name": "Julia Pierson",
+            "url": "/quotes/julia_pierson_520717"
+        },
+        "topics": [
+            {
+                "name": "College",
+                "url": "/topics/college"
+            },
+            {
+                "name": "City",
+                "url": "/topics/city"
+            },
+            {
+                "name": "Florida",
+                "url": "/topics/florida"
+            }
+        ]
+    }
+]

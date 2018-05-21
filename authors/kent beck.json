@@ -1,0 +1,558 @@
+[
+    {
+        "url": "/quotes/kent_beck_722339",
+        "quote": "First you learn the value of abstraction, then you learn the cost of abstraction, then you're ready to engineer.",
+        "author": {
+            "name": "Kent Beck",
+            "url": "/quotes/kent_beck_722339"
+        },
+        "topics": [
+            {
+                "name": "Learn",
+                "url": "/topics/learn"
+            },
+            {
+                "name": "Cost",
+                "url": "/topics/cost"
+            },
+            {
+                "name": "Ready",
+                "url": "/topics/ready"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kent_beck_722337",
+        "quote": "Extreme programming is an emotional experience.",
+        "author": {
+            "name": "Kent Beck",
+            "url": "/quotes/kent_beck_722337"
+        },
+        "topics": [
+            {
+                "name": "Experience",
+                "url": "/topics/experience"
+            },
+            {
+                "name": "Emotional",
+                "url": "/topics/emotional"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kent_beck_722320",
+        "quote": "Developer testing is an important step towards accountability. It gives developers a way to demonstrate the quality of the software they produce.",
+        "author": {
+            "name": "Kent Beck",
+            "url": "/quotes/kent_beck_722320"
+        },
+        "topics": [
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "Developers",
+                "url": "/topics/developers"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kent_beck_722333",
+        "quote": "The world is changing, and I believe that, if I want to stay employed as a programmer, I'm going to have to change with it.",
+        "author": {
+            "name": "Kent Beck",
+            "url": "/quotes/kent_beck_722333"
+        },
+        "topics": [
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Programmer",
+                "url": "/topics/programmer"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kent_beck_722317",
+        "quote": "I think it's a combination of technical and social factors that leads to all the defects in deployed software.",
+        "author": {
+            "name": "Kent Beck",
+            "url": "/quotes/kent_beck_722317"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Technical",
+                "url": "/topics/technical"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kent_beck_722319",
+        "quote": "There is a strong movement towards increased accountability for software developers and software development organizations.",
+        "author": {
+            "name": "Kent Beck",
+            "url": "/quotes/kent_beck_722319"
+        },
+        "topics": [
+            {
+                "name": "Strong",
+                "url": "/topics/strong"
+            },
+            {
+                "name": "Development",
+                "url": "/topics/development"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kent_beck_833428",
+        "quote": "Whether you draw diagrams that generate code or you type at a browser, you are coding.",
+        "author": {
+            "name": "Kent Beck",
+            "url": "/quotes/kent_beck_833428"
+        },
+        "topics": [
+            {
+                "name": "Code",
+                "url": "/topics/code"
+            },
+            {
+                "name": "Coding",
+                "url": "/topics/coding"
+            },
+            {
+                "name": "Whether",
+                "url": "/topics/whether"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kent_beck_722338",
+        "quote": "I found out that most programmers don't like to test their software as intensely as I do.",
+        "author": {
+            "name": "Kent Beck",
+            "url": "/quotes/kent_beck_722338"
+        },
+        "topics": [
+            {
+                "name": "Test",
+                "url": "/topics/test"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "Found",
+                "url": "/topics/found"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kent_beck_722334",
+        "quote": "People are looking for software development that actually does something useful... People are looking for partners who deliver when promised, and at a reasonable and transparent price. I believe that the days of being able to value price software are numbered.",
+        "author": {
+            "name": "Kent Beck",
+            "url": "/quotes/kent_beck_722334"
+        },
+        "topics": [
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "Reasonable",
+                "url": "/topics/reasonable"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kent_beck_722315",
+        "quote": "The problem is, in software design, often the consequences of your decisions don't become apparent for years.",
+        "author": {
+            "name": "Kent Beck",
+            "url": "/quotes/kent_beck_722315"
+        },
+        "topics": [
+            {
+                "name": "Problem",
+                "url": "/topics/problem"
+            },
+            {
+                "name": "Design",
+                "url": "/topics/design"
+            },
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kent_beck_722316",
+        "quote": "One of the advantages of having to live with JUnit for 8 years is now we can look back and see which decisions we made worked nicely and which we would have done differently.",
+        "author": {
+            "name": "Kent Beck",
+            "url": "/quotes/kent_beck_722316"
+        },
+        "topics": [
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Having",
+                "url": "/topics/having"
+            },
+            {
+                "name": "Nicely",
+                "url": "/topics/nicely"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kent_beck_722318",
+        "quote": "There's a huge latent market for software development that's just flat-out honest.",
+        "author": {
+            "name": "Kent Beck",
+            "url": "/quotes/kent_beck_722318"
+        },
+        "topics": [
+            {
+                "name": "Development",
+                "url": "/topics/development"
+            },
+            {
+                "name": "Market",
+                "url": "/topics/market"
+            },
+            {
+                "name": "Latent",
+                "url": "/topics/latent"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kent_beck_722321",
+        "quote": "Agitator and the Agitar Management Dashboard lower the barriers to accountability in software development and increase the value of developer testing.",
+        "author": {
+            "name": "Kent Beck",
+            "url": "/quotes/kent_beck_722321"
+        },
+        "topics": [
+            {
+                "name": "Development",
+                "url": "/topics/development"
+            },
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "Lower",
+                "url": "/topics/lower"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kent_beck_722322",
+        "quote": "I used Agitator on some code I had unit-tested, and it made me a better tester. As an Agitar Fellow, I look forward to the leverage of working with an outstanding organization as together we continue to improve the value of developer testing.",
+        "author": {
+            "name": "Kent Beck",
+            "url": "/quotes/kent_beck_722322"
+        },
+        "topics": [
+            {
+                "name": "Leverage",
+                "url": "/topics/leverage"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Code",
+                "url": "/topics/code"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kent_beck_722323",
+        "quote": "I lived near Santa Cruz for ten years, and the whole time, it bothered me what an exclusionary definition of 'inclusion' was in force. Social censure was applied to those who expressed unpopular or uncomfortable ideas.",
+        "author": {
+            "name": "Kent Beck",
+            "url": "/quotes/kent_beck_722323"
+        },
+        "topics": [
+            {
+                "name": "Whole",
+                "url": "/topics/whole"
+            },
+            {
+                "name": "Applied",
+                "url": "/topics/applied"
+            },
+            {
+                "name": "Censure",
+                "url": "/topics/censure"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kent_beck_722324",
+        "quote": "There are musicians who want to make a living making music. There are listeners who want to listen to music. Complicating this relationship is a whole bunch of history: some of the music I want to listen to was made a while ago in a different economy. Some of the models of making a living making music are no longer valid but persist.",
+        "author": {
+            "name": "Kent Beck",
+            "url": "/quotes/kent_beck_722324"
+        },
+        "topics": [
+            {
+                "name": "Making A Living",
+                "url": "/topics/making_a_living"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Whole",
+                "url": "/topics/whole"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kent_beck_722325",
+        "quote": "My great-grandfather played organ for silent movies. Talkies in, Gramps out.",
+        "author": {
+            "name": "Kent Beck",
+            "url": "/quotes/kent_beck_722325"
+        },
+        "topics": [
+            {
+                "name": "Silent",
+                "url": "/topics/silent"
+            },
+            {
+                "name": "Movies",
+                "url": "/topics/movies"
+            },
+            {
+                "name": "Organ",
+                "url": "/topics/organ"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kent_beck_722326",
+        "quote": "When Pandora doesn't pay, and bars don't pay, and weddings don't pay, and nobody buys CDs or shirts or concert tickets or lessons, then the musician can't make a living making music.",
+        "author": {
+            "name": "Kent Beck",
+            "url": "/quotes/kent_beck_722326"
+        },
+        "topics": [
+            {
+                "name": "Making",
+                "url": "/topics/making"
+            },
+            {
+                "name": "Buys",
+                "url": "/topics/buys"
+            },
+            {
+                "name": "Tickets",
+                "url": "/topics/tickets"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kent_beck_722327",
+        "quote": "Sheet music, recording, radio, television, cassettes, CD burners, and file sharing have all invalidated, to some extent, the old model of making a living making music.",
+        "author": {
+            "name": "Kent Beck",
+            "url": "/quotes/kent_beck_722327"
+        },
+        "topics": [
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Extent",
+                "url": "/topics/extent"
+            },
+            {
+                "name": "CD",
+                "url": "/topics/cd"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kent_beck_722328",
+        "quote": "Received wisdom is that if you spend time up front getting the design right, you avoid costs later. But the longer you spend getting the design right, the more your upfront costs are, and the longer it takes for the software to start earning.",
+        "author": {
+            "name": "Kent Beck",
+            "url": "/quotes/kent_beck_722328"
+        },
+        "topics": [
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "Costs",
+                "url": "/topics/costs"
+            },
+            {
+                "name": "Upfront",
+                "url": "/topics/upfront"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kent_beck_722329",
+        "quote": "A rational model of software is to design it quickly - the economic pressure to improvise presents an interesting challenge.",
+        "author": {
+            "name": "Kent Beck",
+            "url": "/quotes/kent_beck_722329"
+        },
+        "topics": [
+            {
+                "name": "Design",
+                "url": "/topics/design"
+            },
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "Quickly",
+                "url": "/topics/quickly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kent_beck_722330",
+        "quote": "Design should be easy in the sense that every step should be obviously and clearly identifiable. Simplify elements to make change simple so you can manage the technical risk.",
+        "author": {
+            "name": "Kent Beck",
+            "url": "/quotes/kent_beck_722330"
+        },
+        "topics": [
+            {
+                "name": "Change",
+                "url": "/topics/change"
+            },
+            {
+                "name": "Sense",
+                "url": "/topics/sense"
+            },
+            {
+                "name": "Technical",
+                "url": "/topics/technical"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kent_beck_722331",
+        "quote": "Organizations want small changes in functionality on a more regular basis. An organization like Flickr deploys a new version of its software every half hour. This is a cycle that feeds on itself.",
+        "author": {
+            "name": "Kent Beck",
+            "url": "/quotes/kent_beck_722331"
+        },
+        "topics": [
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Half",
+                "url": "/topics/half"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kent_beck_722332",
+        "quote": "We could talk, act, and dress funny. We were excused for socially inappropriate behavior: 'Oh, he's a programmer'. It was all because we knew this technology stuff that other people found completely mystifying.",
+        "author": {
+            "name": "Kent Beck",
+            "url": "/quotes/kent_beck_722332"
+        },
+        "topics": [
+            {
+                "name": "Dress",
+                "url": "/topics/dress"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Socially",
+                "url": "/topics/socially"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kent_beck_722335",
+        "quote": "The marketing of XP is very deliberate and conscious. Part of it is in co-opting the power of the media; I make sure I'm newsworthy from time to time. Part is in co-opting some of my publisher's ad budget.",
+        "author": {
+            "name": "Kent Beck",
+            "url": "/quotes/kent_beck_722335"
+        },
+        "topics": [
+            {
+                "name": "Sure",
+                "url": "/topics/sure"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kent_beck_722336",
+        "quote": "If I'd had a charisma-ectomy in the beginning, XP would have gone nowhere.",
+        "author": {
+            "name": "Kent Beck",
+            "url": "/quotes/kent_beck_722336"
+        },
+        "topics": [
+            {
+                "name": "Beginning",
+                "url": "/topics/beginning"
+            },
+            {
+                "name": "Nowhere",
+                "url": "/topics/nowhere"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            }
+        ]
+    }
+]

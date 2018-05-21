@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/steve_odland_405632",
+        "quote": "There's been a sea change in our focus on corporate ethics. We've made more progress in the last three years than the previous 30.",
+        "author": {
+            "name": "Steve Odland",
+            "url": "/quotes/steve_odland_405632"
+        },
+        "topics": [
+            {
+                "name": "Last",
+                "url": "/topics/last"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Previous",
+                "url": "/topics/previous"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/steve_odland_405633",
+        "quote": "You have more independent eyes scrutinizing the decision-making and financial statements of companies.",
+        "author": {
+            "name": "Steve Odland",
+            "url": "/quotes/steve_odland_405633"
+        },
+        "topics": [
+            {
+                "name": "Independent",
+                "url": "/topics/independent"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Companies",
+                "url": "/topics/companies"
+            }
+        ]
+    }
+]

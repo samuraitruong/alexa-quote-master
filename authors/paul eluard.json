@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/paul_eluard_211481",
+        "quote": "A woman is more beautiful than the world in which I live; and so I close my eyes.",
+        "author": {
+            "name": "Paul Eluard",
+            "url": "/quotes/paul_eluard_211481"
+        },
+        "topics": [
+            {
+                "name": "Beautiful",
+                "url": "/topics/beautiful"
+            },
+            {
+                "name": "Woman",
+                "url": "/topics/woman"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_eluard_211480",
+        "quote": "Elephants are contagious.",
+        "author": {
+            "name": "Paul Eluard",
+            "url": "/quotes/paul_eluard_211480"
+        },
+        "topics": [
+            {
+                "name": "Contagious",
+                "url": "/topics/contagious"
+            },
+            {
+                "name": "Elephants",
+                "url": "/topics/elephants"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_eluard_211477",
+        "quote": "Hope raises no dust.",
+        "author": {
+            "name": "Paul Eluard",
+            "url": "/quotes/paul_eluard_211477"
+        },
+        "topics": [
+            {
+                "name": "Hope",
+                "url": "/topics/hope"
+            },
+            {
+                "name": "Dust",
+                "url": "/topics/dust"
+            },
+            {
+                "name": "Raises",
+                "url": "/topics/raises"
+            }
+        ]
+    }
+]

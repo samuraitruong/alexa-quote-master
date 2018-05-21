@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/john_robert_gregg_229194",
+        "quote": "It doesn't use shading, but it does use stroke length variations.",
+        "author": {
+            "name": "John Robert Gregg",
+            "url": "/quotes/john_robert_gregg_229194"
+        },
+        "topics": [
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            },
+            {
+                "name": "Shading",
+                "url": "/topics/shading"
+            },
+            {
+                "name": "Does",
+                "url": "/topics/does"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_robert_gregg_229195",
+        "quote": "Diphthongs are indicated by combinations of hooks and circles.",
+        "author": {
+            "name": "John Robert Gregg",
+            "url": "/quotes/john_robert_gregg_229195"
+        },
+        "topics": [
+            {
+                "name": "Circles",
+                "url": "/topics/circles"
+            },
+            {
+                "name": "Combinations",
+                "url": "/topics/combinations"
+            },
+            {
+                "name": "Hooks",
+                "url": "/topics/hooks"
+            }
+        ]
+    }
+]

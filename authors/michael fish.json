@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/michael_fish_184911",
+        "quote": "The jet stream is the controlling influence over the world's weather systems.",
+        "author": {
+            "name": "Michael Fish",
+            "url": "/quotes/michael_fish_184911"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Stream",
+                "url": "/topics/stream"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/michael_fish_184876",
+        "quote": "I am sure that if you plant the trees back again, it will do nothing but good.",
+        "author": {
+            "name": "Michael Fish",
+            "url": "/quotes/michael_fish_184876"
+        },
+        "topics": [
+            {
+                "name": "Gardening",
+                "url": "/topics/gardening"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Sure",
+                "url": "/topics/sure"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/michael_fish_184877",
+        "quote": "Reports of a hurricane are unfounded.",
+        "author": {
+            "name": "Michael Fish",
+            "url": "/quotes/michael_fish_184877"
+        },
+        "topics": [
+            {
+                "name": "Hurricane",
+                "url": "/topics/hurricane"
+            },
+            {
+                "name": "Reports",
+                "url": "/topics/reports"
+            }
+        ]
+    }
+]

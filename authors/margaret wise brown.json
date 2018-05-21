@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/margaret_wise_brown_526926",
+        "quote": "I wish I didn't have ever to sign my long name on the cover of a book, and I wish I could write a story that would seem absolutely true to the child who hears it and to myself.",
+        "author": {
+            "name": "Margaret Wise Brown",
+            "url": "/quotes/margaret_wise_brown_526926"
+        },
+        "topics": [
+            {
+                "name": "Book",
+                "url": "/topics/book"
+            },
+            {
+                "name": "I Wish",
+                "url": "/topics/i_wish"
+            },
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/margaret_wise_brown_526927",
+        "quote": "I won't let anybody get away with anything just because he is little.",
+        "author": {
+            "name": "Margaret Wise Brown",
+            "url": "/quotes/margaret_wise_brown_526927"
+        },
+        "topics": [
+            {
+                "name": "Just Because",
+                "url": "/topics/just_because"
+            },
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            },
+            {
+                "name": "Anybody",
+                "url": "/topics/anybody"
+            }
+        ]
+    }
+]

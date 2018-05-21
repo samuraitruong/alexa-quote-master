@@ -1,0 +1,108 @@
+[
+    {
+        "url": "/quotes/nathan_kirsh_704221",
+        "quote": "All of my businesses are profitable.",
+        "author": {
+            "name": "Nathan Kirsh",
+            "url": "/quotes/nathan_kirsh_704221"
+        },
+        "topics": [
+            {
+                "name": "Profitable",
+                "url": "/topics/profitable"
+            },
+            {
+                "name": "Businesses",
+                "url": "/topics/businesses"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nathan_kirsh_704222",
+        "quote": "I want money; I just don't want that money lying around.",
+        "author": {
+            "name": "Nathan Kirsh",
+            "url": "/quotes/nathan_kirsh_704222"
+        },
+        "topics": [
+            {
+                "name": "Money",
+                "url": "/topics/money"
+            },
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Just",
+                "url": "/topics/just"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nathan_kirsh_704223",
+        "quote": "I like to see a tidy shop, and I want to see my investments well managed.",
+        "author": {
+            "name": "Nathan Kirsh",
+            "url": "/quotes/nathan_kirsh_704223"
+        },
+        "topics": [
+            {
+                "name": "See",
+                "url": "/topics/see"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Shop",
+                "url": "/topics/shop"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nathan_kirsh_704224",
+        "quote": "Shareholders need to have a real interest in the companies they own. Too many are simply too busy - they are asleep at the wheel.",
+        "author": {
+            "name": "Nathan Kirsh",
+            "url": "/quotes/nathan_kirsh_704224"
+        },
+        "topics": [
+            {
+                "name": "Wheel",
+                "url": "/topics/wheel"
+            },
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            },
+            {
+                "name": "Shareholders",
+                "url": "/topics/shareholders"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nathan_kirsh_704225",
+        "quote": "I don't want to be on anyone's board. I just want to have good investments.",
+        "author": {
+            "name": "Nathan Kirsh",
+            "url": "/quotes/nathan_kirsh_704225"
+        },
+        "topics": [
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Anyone",
+                "url": "/topics/anyone"
+            },
+            {
+                "name": "Investments",
+                "url": "/topics/investments"
+            }
+        ]
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/john_wilbanks_556922",
+        "quote": "Every scientist would like to be able to move through research faster, to spend less time and money acquiring material or disseminating it.",
+        "author": {
+            "name": "John Wilbanks",
+            "url": "/quotes/john_wilbanks_556922"
+        },
+        "topics": [
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Move",
+                "url": "/topics/move"
+            },
+            {
+                "name": "Less Time",
+                "url": "/topics/less_time"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_wilbanks_556923",
+        "quote": "No pharmaceutical company is making money by selling biological knowledge - they make money by selling chemicals. So getting as much of that knowledge as possible into the efficiency of the Web-commerce world is going to make it faster to find those chemicals.",
+        "author": {
+            "name": "John Wilbanks",
+            "url": "/quotes/john_wilbanks_556923"
+        },
+        "topics": [
+            {
+                "name": "Pharmaceutical",
+                "url": "/topics/pharmaceutical"
+            },
+            {
+                "name": "Making",
+                "url": "/topics/making"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_wilbanks_556924",
+        "quote": "If a scientist is reading a paper online and clicks through to purchase material, there's value there. It might be a business model; it might be enough to defray the cost of open access. I just want to create the infrastructure that makes movement and sharing easier.",
+        "author": {
+            "name": "John Wilbanks",
+            "url": "/quotes/john_wilbanks_556924"
+        },
+        "topics": [
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Access",
+                "url": "/topics/access"
+            },
+            {
+                "name": "Scientist",
+                "url": "/topics/scientist"
+            }
+        ]
+    }
+]

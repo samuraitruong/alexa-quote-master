@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/paul_scott_256530",
+        "quote": "The past becomes a texture, an ambience to our present.",
+        "author": {
+            "name": "Paul Scott",
+            "url": "/quotes/paul_scott_256530"
+        },
+        "topics": [
+            {
+                "name": "Past",
+                "url": "/topics/past"
+            },
+            {
+                "name": "Texture",
+                "url": "/topics/texture"
+            },
+            {
+                "name": "Ambience",
+                "url": "/topics/ambience"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_scott_256474",
+        "quote": "Ah, well, the truth is always one thing, but in a way it's the other thing, the gossip, that counts. It shows where people's hearts lie.",
+        "author": {
+            "name": "Paul Scott",
+            "url": "/quotes/paul_scott_256474"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Counts",
+                "url": "/topics/counts"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_scott_406627",
+        "quote": "We need to be able to go to school and feel safe and accepted for who we are.",
+        "author": {
+            "name": "Paul Scott",
+            "url": "/quotes/paul_scott_406627"
+        },
+        "topics": [
+            {
+                "name": "School",
+                "url": "/topics/school"
+            },
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            },
+            {
+                "name": "Able",
+                "url": "/topics/able"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/jack_kirby_193093",
+        "quote": "Perfectionists are their own devils.",
+        "author": {
+            "name": "Jack Kirby",
+            "url": "/quotes/jack_kirby_193093"
+        },
+        "topics": [
+            {
+                "name": "Devils",
+                "url": "/topics/devils"
+            },
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            },
+            {
+                "name": "Perfectionists",
+                "url": "/topics/perfectionists"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jack_kirby_193091",
+        "quote": "Life at best is bittersweet.",
+        "author": {
+            "name": "Jack Kirby",
+            "url": "/quotes/jack_kirby_193091"
+        },
+        "topics": [
+            {
+                "name": "Life",
+                "url": "/topics/life"
+            },
+            {
+                "name": "Best",
+                "url": "/topics/best"
+            },
+            {
+                "name": "Bittersweet",
+                "url": "/topics/bittersweet"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jack_kirby_193092",
+        "quote": "I was handed a chocolate bar and an M-1 rifle and told to go kill Hitler.",
+        "author": {
+            "name": "Jack Kirby",
+            "url": "/quotes/jack_kirby_193092"
+        },
+        "topics": [
+            {
+                "name": "Bar",
+                "url": "/topics/bar"
+            },
+            {
+                "name": "Go",
+                "url": "/topics/go"
+            },
+            {
+                "name": "Handed",
+                "url": "/topics/handed"
+            }
+        ]
+    }
+]

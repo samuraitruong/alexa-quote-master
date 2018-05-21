@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/frank_morgan_404900",
+        "quote": "A heart is not judged by how much you love, but by how much you are loved by others.",
+        "author": {
+            "name": "Frank Morgan",
+            "url": "/quotes/frank_morgan_404900"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Valentine's Day",
+                "url": "/topics/valentinesday"
+            },
+            {
+                "name": "How",
+                "url": "/topics/how"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/frank_morgan_187805",
+        "quote": "Art led the way for me to recover. He got out of prison before me and started traveling all over the world before I did. He showed me by example that it could be done, and I'll always love him for that.",
+        "author": {
+            "name": "Frank Morgan",
+            "url": "/quotes/frank_morgan_187805"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            },
+            {
+                "name": "Led",
+                "url": "/topics/led"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/frank_morgan_187808",
+        "quote": "I'm eternally grateful to the penal system in California for saving my life.",
+        "author": {
+            "name": "Frank Morgan",
+            "url": "/quotes/frank_morgan_187808"
+        },
+        "topics": [
+            {
+                "name": "Grateful",
+                "url": "/topics/grateful"
+            },
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Saving",
+                "url": "/topics/saving"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/frank_morgan_187806",
+        "quote": "It's my fault in many cases because I don't initiate the contact to talk with a lot of other musicians.",
+        "author": {
+            "name": "Frank Morgan",
+            "url": "/quotes/frank_morgan_187806"
+        },
+        "topics": [
+            {
+                "name": "Musicians",
+                "url": "/topics/musicians"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Cases",
+                "url": "/topics/cases"
+            }
+        ]
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/john_lutz_722279",
+        "quote": "When I looked around, with my wife, Sarasota seemed like the best place in Florida. We settled about one mile from Siesta Key.",
+        "author": {
+            "name": "John Lutz",
+            "url": "/quotes/john_lutz_722279"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Looked",
+                "url": "/topics/looked"
+            },
+            {
+                "name": "Seemed",
+                "url": "/topics/seemed"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_lutz_722280",
+        "quote": "Florida is a great place to set a novel.",
+        "author": {
+            "name": "John Lutz",
+            "url": "/quotes/john_lutz_722280"
+        },
+        "topics": [
+            {
+                "name": "Florida",
+                "url": "/topics/florida"
+            },
+            {
+                "name": "Set",
+                "url": "/topics/set"
+            },
+            {
+                "name": "Great Place",
+                "url": "/topics/great_place"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_lutz_722281",
+        "quote": "Writing is hard work: it is like doing homework for the rest of your life. You are always chipping away at it.",
+        "author": {
+            "name": "John Lutz",
+            "url": "/quotes/john_lutz_722281"
+        },
+        "topics": [
+            {
+                "name": "Rest",
+                "url": "/topics/rest"
+            },
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_lutz_722282",
+        "quote": "Every town has its dark side, but I spend time in New York for my dark inspiration.",
+        "author": {
+            "name": "John Lutz",
+            "url": "/quotes/john_lutz_722282"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Side",
+                "url": "/topics/side"
+            },
+            {
+                "name": "Town",
+                "url": "/topics/town"
+            }
+        ]
+    }
+]

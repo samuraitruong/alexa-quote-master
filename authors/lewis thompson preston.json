@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/lewis_thompson_preston_202523",
+        "quote": "It is the quality of lending over the quantity of lending.",
+        "author": {
+            "name": "Lewis Thompson Preston",
+            "url": "/quotes/lewis_thompson_preston_202523"
+        },
+        "topics": [
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Lending",
+                "url": "/topics/lending"
+            },
+            {
+                "name": "Quantity",
+                "url": "/topics/quantity"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lewis_thompson_preston_202521",
+        "quote": "Alleviating poverty would be the Bank's overarching objective.",
+        "author": {
+            "name": "Lewis Thompson Preston",
+            "url": "/quotes/lewis_thompson_preston_202521"
+        },
+        "topics": [
+            {
+                "name": "Bank",
+                "url": "/topics/bank"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            },
+            {
+                "name": "Alleviating",
+                "url": "/topics/alleviating"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lewis_thompson_preston_202522",
+        "quote": "Applications for loans would be judged on a nation's social justice record as well as its economic efficiency.",
+        "author": {
+            "name": "Lewis Thompson Preston",
+            "url": "/quotes/lewis_thompson_preston_202522"
+        },
+        "topics": [
+            {
+                "name": "Efficiency",
+                "url": "/topics/efficiency"
+            },
+            {
+                "name": "Nation",
+                "url": "/topics/nation"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            }
+        ]
+    }
+]

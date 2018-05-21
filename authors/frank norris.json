@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/frank_norris_185249",
+        "quote": "No art that is not in the end understood by the People can live or ever did live a single generation.",
+        "author": {
+            "name": "Frank Norris",
+            "url": "/quotes/frank_norris_185249"
+        },
+        "topics": [
+            {
+                "name": "Generation",
+                "url": "/topics/generation"
+            },
+            {
+                "name": "Single",
+                "url": "/topics/single"
+            },
+            {
+                "name": "Ever",
+                "url": "/topics/ever"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/frank_norris_185247",
+        "quote": "The People have a right to the Truth as they have a right to life, liberty and the pursuit of happiness.",
+        "author": {
+            "name": "Frank Norris",
+            "url": "/quotes/frank_norris_185247"
+        },
+        "topics": [
+            {
+                "name": "Happiness",
+                "url": "/topics/happiness"
+            },
+            {
+                "name": "Truth",
+                "url": "/topics/truth"
+            },
+            {
+                "name": "Liberty",
+                "url": "/topics/liberty"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/frank_norris_185246",
+        "quote": "Truth is a thing immortal and perpetual, and it gives to us a beauty that fades not away in time.",
+        "author": {
+            "name": "Frank Norris",
+            "url": "/quotes/frank_norris_185246"
+        },
+        "topics": [
+            {
+                "name": "Beauty",
+                "url": "/topics/beauty"
+            },
+            {
+                "name": "Truth",
+                "url": "/topics/truth"
+            },
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/frank_norris_185248",
+        "quote": "The function of the novelist... is to comment upon life as he sees it.",
+        "author": {
+            "name": "Frank Norris",
+            "url": "/quotes/frank_norris_185248"
+        },
+        "topics": [
+            {
+                "name": "Comment",
+                "url": "/topics/comment"
+            },
+            {
+                "name": "Function",
+                "url": "/topics/function"
+            },
+            {
+                "name": "Sees",
+                "url": "/topics/sees"
+            }
+        ]
+    }
+]

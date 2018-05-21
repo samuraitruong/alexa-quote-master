@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/alan_gregg_171124",
+        "quote": "The human race has had long experience and a fine tradition in surviving adversity. But we now face a task for which we have little experience, the task of surviving prosperity.",
+        "author": {
+            "name": "Alan Gregg",
+            "url": "/quotes/alan_gregg_171124"
+        },
+        "topics": [
+            {
+                "name": "Adversity",
+                "url": "/topics/adversity"
+            },
+            {
+                "name": "Race",
+                "url": "/topics/race"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alan_gregg_271046",
+        "quote": "A good education should leave much to be desired.",
+        "author": {
+            "name": "Alan Gregg",
+            "url": "/quotes/alan_gregg_271046"
+        },
+        "topics": [
+            {
+                "name": "Education",
+                "url": "/topics/education"
+            },
+            {
+                "name": "Good Education",
+                "url": "/topics/good_education"
+            }
+        ]
+    }
+]

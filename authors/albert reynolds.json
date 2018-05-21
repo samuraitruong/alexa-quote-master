@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/albert_reynolds_198978",
+        "quote": "I am convinced that nobody should be afraid of peace.",
+        "author": {
+            "name": "Albert Reynolds",
+            "url": "/quotes/albert_reynolds_198978"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Afraid",
+                "url": "/topics/afraid"
+            },
+            {
+                "name": "Convinced",
+                "url": "/topics/convinced"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/albert_reynolds_198979",
+        "quote": "I call on everyone of goodwill both in Ireland and abroad to join now in ensuring that the beginning of peace becomes a reality, before this year is out. Let us together open a new era in our history.",
+        "author": {
+            "name": "Albert Reynolds",
+            "url": "/quotes/albert_reynolds_198979"
+        },
+        "topics": [
+            {
+                "name": "Beginning",
+                "url": "/topics/beginning"
+            },
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            },
+            {
+                "name": "Goodwill",
+                "url": "/topics/goodwill"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/albert_reynolds_198980",
+        "quote": "What Ireland needs now above all else is peace.",
+        "author": {
+            "name": "Albert Reynolds",
+            "url": "/quotes/albert_reynolds_198980"
+        },
+        "topics": [
+            {
+                "name": "Now",
+                "url": "/topics/now"
+            },
+            {
+                "name": "Needs",
+                "url": "/topics/needs"
+            },
+            {
+                "name": "Else",
+                "url": "/topics/else"
+            }
+        ]
+    }
+]

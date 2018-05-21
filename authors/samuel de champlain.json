@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/samuel_de_champlain_260418",
+        "quote": "They might in the future more than ever before engage in hunting beavers.",
+        "author": {
+            "name": "Samuel de Champlain",
+            "url": "/quotes/samuel_de_champlain_260418"
+        },
+        "topics": [
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            },
+            {
+                "name": "Ever",
+                "url": "/topics/ever"
+            },
+            {
+                "name": "Might",
+                "url": "/topics/might"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/samuel_de_champlain_260419",
+        "quote": "I directed the men in our barque to approach near the savages, and hold their arms in readiness to do their duty in case they notice any movement of these people against us.",
+        "author": {
+            "name": "Samuel de Champlain",
+            "url": "/quotes/samuel_de_champlain_260419"
+        },
+        "topics": [
+            {
+                "name": "Readiness",
+                "url": "/topics/readiness"
+            },
+            {
+                "name": "Savages",
+                "url": "/topics/savages"
+            },
+            {
+                "name": "Directed",
+                "url": "/topics/directed"
+            }
+        ]
+    }
+]

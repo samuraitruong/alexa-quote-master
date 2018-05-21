@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/roger_wilkins_404339",
+        "quote": "We have no hope of solving our problems without harnessing the diversity, the energy, and the creativity of all our people.",
+        "author": {
+            "name": "Roger Wilkins",
+            "url": "/quotes/roger_wilkins_404339"
+        },
+        "topics": [
+            {
+                "name": "Hope",
+                "url": "/topics/hope"
+            },
+            {
+                "name": "Solving",
+                "url": "/topics/solving"
+            },
+            {
+                "name": "Harnessing",
+                "url": "/topics/harnessing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/roger_wilkins_404349",
+        "quote": "In the days of segregation, when blacks were limited to certain neighborhoods, you could look around the black community and identify who the leaders were.",
+        "author": {
+            "name": "Roger Wilkins",
+            "url": "/quotes/roger_wilkins_404349"
+        },
+        "topics": [
+            {
+                "name": "Neighborhoods",
+                "url": "/topics/neighborhoods"
+            },
+            {
+                "name": "Identify",
+                "url": "/topics/identify"
+            }
+        ]
+    }
+]

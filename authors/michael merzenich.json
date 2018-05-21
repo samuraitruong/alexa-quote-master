@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/michael_merzenich_563121",
+        "quote": "Your brain - every brain - is a work in progress. It is 'plastic.' From the day we're born to the day we die, it continuously revises and remodels, improving or slowly declining, as a function of how we use it.",
+        "author": {
+            "name": "Michael Merzenich",
+            "url": "/quotes/michael_merzenich_563121"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Die",
+                "url": "/topics/die"
+            },
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/michael_merzenich_563123",
+        "quote": "My mantra: Brainless exercise is a lost opportunity for improvement.",
+        "author": {
+            "name": "Michael Merzenich",
+            "url": "/quotes/michael_merzenich_563123"
+        },
+        "topics": [
+            {
+                "name": "Exercise",
+                "url": "/topics/exercise"
+            },
+            {
+                "name": "Lost",
+                "url": "/topics/lost"
+            },
+            {
+                "name": "Mantra",
+                "url": "/topics/mantra"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/michael_merzenich_563124",
+        "quote": "My brain power depends on my retained mastery of analyzing in detail what's happening in my world and in my mind and body. I must continue to practice to retain my constructive and analytic powers. The goal is to be a master of my environment.",
+        "author": {
+            "name": "Michael Merzenich",
+            "url": "/quotes/michael_merzenich_563124"
+        },
+        "topics": [
+            {
+                "name": "Practice",
+                "url": "/topics/practice"
+            },
+            {
+                "name": "Body",
+                "url": "/topics/body"
+            },
+            {
+                "name": "Retain",
+                "url": "/topics/retain"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/michael_merzenich_563122",
+        "quote": "If a brain is exercised properly, anyone can grow intelligence, at any age, and potentially by a lot. Or you can just let your brain idle - and watch it slowly, inexorably, go to seed like a sedentary body.",
+        "author": {
+            "name": "Michael Merzenich",
+            "url": "/quotes/michael_merzenich_563122"
+        },
+        "topics": [
+            {
+                "name": "Seed",
+                "url": "/topics/seed"
+            },
+            {
+                "name": "Grow",
+                "url": "/topics/grow"
+            },
+            {
+                "name": "Idle",
+                "url": "/topics/idle"
+            }
+        ]
+    }
+]

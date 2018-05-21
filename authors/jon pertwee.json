@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/jon_pertwee_533531",
+        "quote": "In all my years as an actor, I had never been me - I had always hidden behind my glasses, mustaches and funny voices.",
+        "author": {
+            "name": "Jon Pertwee",
+            "url": "/quotes/jon_pertwee_533531"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Behind",
+                "url": "/topics/behind"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jon_pertwee_533532",
+        "quote": "Somehow I seem to have been gently bypassed as a serious actor.",
+        "author": {
+            "name": "Jon Pertwee",
+            "url": "/quotes/jon_pertwee_533532"
+        },
+        "topics": [
+            {
+                "name": "Actor",
+                "url": "/topics/actor"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Gently",
+                "url": "/topics/gently"
+            }
+        ]
+    }
+]

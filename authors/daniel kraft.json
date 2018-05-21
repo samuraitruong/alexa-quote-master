@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/daniel_kraft_563185",
+        "quote": "We're moving to this integration of biomedicine, information technology, wireless and mobile now - an era of digital medicine. Even my stethoscope is now digital. And of course, there's an app for that.",
+        "author": {
+            "name": "Daniel Kraft",
+            "url": "/quotes/daniel_kraft_563185"
+        },
+        "topics": [
+            {
+                "name": "Digital",
+                "url": "/topics/digital"
+            },
+            {
+                "name": "Mobile",
+                "url": "/topics/mobile"
+            },
+            {
+                "name": "App",
+                "url": "/topics/app"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/daniel_kraft_563183",
+        "quote": "The integration of exponentially growing technologies is beginning to empower the patient, enable the doctor, enhance wellness and begin to cure the well before they get sick.",
+        "author": {
+            "name": "Daniel Kraft",
+            "url": "/quotes/daniel_kraft_563183"
+        },
+        "topics": [
+            {
+                "name": "Beginning",
+                "url": "/topics/beginning"
+            },
+            {
+                "name": "Exponentially",
+                "url": "/topics/exponentially"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/daniel_kraft_563184",
+        "quote": "As a cancer doctor, I'm looking forward to being out of a job.",
+        "author": {
+            "name": "Daniel Kraft",
+            "url": "/quotes/daniel_kraft_563184"
+        },
+        "topics": [
+            {
+                "name": "Doctor",
+                "url": "/topics/doctor"
+            },
+            {
+                "name": "Cancer",
+                "url": "/topics/cancer"
+            },
+            {
+                "name": "Forward",
+                "url": "/topics/forward"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/daniel_kraft_563186",
+        "quote": "In the future we might not prescribe drugs all the time - we might prescribe apps.",
+        "author": {
+            "name": "Daniel Kraft",
+            "url": "/quotes/daniel_kraft_563186"
+        },
+        "topics": [
+            {
+                "name": "Future",
+                "url": "/topics/future"
+            },
+            {
+                "name": "Time",
+                "url": "/topics/time"
+            },
+            {
+                "name": "Might",
+                "url": "/topics/might"
+            }
+        ]
+    }
+]

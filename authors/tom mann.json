@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/tom_mann_200108",
+        "quote": "The future of the world belongs to the youth of the world, and it is from the youth and not from the old that the fire of life will warm and enlighten the world. It is your privilege to breathe the breath of life into the dry bones of many around you.",
+        "author": {
+            "name": "Tom Mann",
+            "url": "/quotes/tom_mann_200108"
+        },
+        "topics": [
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Dry",
+                "url": "/topics/dry"
+            },
+            {
+                "name": "Old",
+                "url": "/topics/old"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tom_mann_406904",
+        "quote": "Bill Bradley is a serious politician and if Al Gore stumbles seriously, then Bradley is there to take advantage of that.",
+        "author": {
+            "name": "Tom Mann",
+            "url": "/quotes/tom_mann_406904"
+        },
+        "topics": [
+            {
+                "name": "Politician",
+                "url": "/topics/politician"
+            },
+            {
+                "name": "Advantage",
+                "url": "/topics/advantage"
+            },
+            {
+                "name": "Bill",
+                "url": "/topics/bill"
+            }
+        ]
+    }
+]

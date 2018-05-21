@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/tom_joyner_294241",
+        "quote": "The NAACP was even considering earlier this summer reassessing their position on school integration.",
+        "author": {
+            "name": "Tom Joyner",
+            "url": "/quotes/tom_joyner_294241"
+        },
+        "topics": [
+            {
+                "name": "NAACP",
+                "url": "/topics/naacp"
+            },
+            {
+                "name": "Even",
+                "url": "/topics/even"
+            },
+            {
+                "name": "Earlier",
+                "url": "/topics/earlier"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tom_joyner_294243",
+        "quote": "We take five, one-week vacations a year, and those dates are set in stone.",
+        "author": {
+            "name": "Tom Joyner",
+            "url": "/quotes/tom_joyner_294243"
+        },
+        "topics": [
+            {
+                "name": "Year",
+                "url": "/topics/year"
+            },
+            {
+                "name": "Take",
+                "url": "/topics/take"
+            },
+            {
+                "name": "Set",
+                "url": "/topics/set"
+            }
+        ]
+    }
+]

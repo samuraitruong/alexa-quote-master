@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/billy_hughes_185867",
+        "quote": "When having my portrait painted I don't want justice, I want mercy.",
+        "author": {
+            "name": "Billy Hughes",
+            "url": "/quotes/billy_hughes_185867"
+        },
+        "topics": [
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Having",
+                "url": "/topics/having"
+            },
+            {
+                "name": "Painted",
+                "url": "/topics/painted"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/billy_hughes_234263",
+        "quote": "Without the Empire we should be tossed like a cork in the cross current of world politics. It is at once our sword and our shield.",
+        "author": {
+            "name": "Billy Hughes",
+            "url": "/quotes/billy_hughes_234263"
+        },
+        "topics": [
+            {
+                "name": "Politics",
+                "url": "/topics/politics"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Shield",
+                "url": "/topics/shield"
+            }
+        ]
+    }
+]

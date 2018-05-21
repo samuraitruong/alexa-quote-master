@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/julia_perez_855089",
+        "quote": "So what if I'm sexy? You can still eat tomorrow if you see me and find me sexy. But if I steal your money, tomorrow you cannot eat, and tomorrow you cannot go to school, and tomorrow you'll be a hopeless man.",
+        "author": {
+            "name": "Julia Perez",
+            "url": "/quotes/julia_perez_855089"
+        },
+        "topics": [
+            {
+                "name": "Sexy",
+                "url": "/topics/sexy"
+            },
+            {
+                "name": "Steal",
+                "url": "/topics/steal"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/julia_perez_855090",
+        "quote": "I never had a dream of becoming anything, someone really high or a politician.",
+        "author": {
+            "name": "Julia Perez",
+            "url": "/quotes/julia_perez_855090"
+        },
+        "topics": [
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "High",
+                "url": "/topics/high"
+            },
+            {
+                "name": "Becoming",
+                "url": "/topics/becoming"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/julia_perez_855091",
+        "quote": "The people like me because I don't have to pretend that I'm a good Muslim - when I talk about my faith, it's between me and my God.",
+        "author": {
+            "name": "Julia Perez",
+            "url": "/quotes/julia_perez_855091"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Muslim",
+                "url": "/topics/muslim"
+            }
+        ]
+    }
+]

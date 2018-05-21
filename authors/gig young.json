@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/gig_young_182517",
+        "quote": "My specialties are corpses, unconscious people and people snoring in spectacular epics.",
+        "author": {
+            "name": "Gig Young",
+            "url": "/quotes/gig_young_182517"
+        },
+        "topics": [
+            {
+                "name": "Unconscious",
+                "url": "/topics/unconscious"
+            },
+            {
+                "name": "Snoring",
+                "url": "/topics/snoring"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gig_young_182516",
+        "quote": "30 years and 55 pictures - not more than five that were any good, or any good for me.",
+        "author": {
+            "name": "Gig Young",
+            "url": "/quotes/gig_young_182516"
+        },
+        "topics": [
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Than",
+                "url": "/topics/than"
+            },
+            {
+                "name": "Were",
+                "url": "/topics/were"
+            }
+        ]
+    }
+]

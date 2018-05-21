@@ -1,0 +1,782 @@
+[
+    {
+        "url": "/quotes/chelsea_manning_848547?src=t_encryption",
+        "quote": "I disagree with Apple on many things - such as its exclusive use of proprietary software and arbitrary restrictions on users seeking to copy, share, edit, and create software on their devices. However, I strongly feel that defending its users' and customers' right to strong encryption in court is incredibly important.",
+        "author": {
+            "name": "Chelsea Manning",
+            "url": "/authors/chelsea_manning"
+        },
+        "topics": [
+            {
+                "name": "Strong",
+                "url": "/topics/strong"
+            },
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "However",
+                "url": "/topics/however"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/peter_l_bergen_796376?src=t_encryption",
+        "quote": "Since Snowden went public, companies such as Apple and Google - two of the world's most valuable companies - have incorporated much greater encryption into their products and have also been at pains to show that they will not go along with U.S. government demands to access their encrypted products.",
+        "author": {
+            "name": "Peter L. Bergen",
+            "url": "/authors/peter_l_bergen"
+        },
+        "topics": [
+            {
+                "name": "Show",
+                "url": "/topics/show"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Access",
+                "url": "/topics/access"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_ignatius_749249?src=t_encryption",
+        "quote": "Apple chief executive Tim Cook is such a respected figure that it's easy to overlook the basic problem with his argument about encryption: Cook is asserting that a private company and the interests of its customers should prevail over the public's interest as expressed by our courts.",
+        "author": {
+            "name": "David Ignatius",
+            "url": "/authors/david_ignatius"
+        },
+        "topics": [
+            {
+                "name": "Argument",
+                "url": "/topics/argument"
+            },
+            {
+                "name": "Private",
+                "url": "/topics/private"
+            },
+            {
+                "name": "Asserting",
+                "url": "/topics/asserting"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/morten_tyldum_799660?src=t_encryption",
+        "quote": "Trying to explain Turing's work in encryption and decryption? It's complicated.",
+        "author": {
+            "name": "Morten Tyldum",
+            "url": "/authors/morten_tyldum"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Trying",
+                "url": "/topics/trying"
+            },
+            {
+                "name": "Explain",
+                "url": "/topics/explain"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jan_koum_805752?src=t_encryption",
+        "quote": "The encryption genie is out of the bottle.",
+        "author": {
+            "name": "Jan Koum",
+            "url": "/authors/jan_koum"
+        },
+        "topics": [
+            {
+                "name": "Bottle",
+                "url": "/topics/bottle"
+            },
+            {
+                "name": "Genie",
+                "url": "/topics/genie"
+            },
+            {
+                "name": "Out",
+                "url": "/topics/out"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jan_koum_752070?src=t_encryption",
+        "quote": "In some ways, you can think of end-to-end encryption as honoring what the past looked like.",
+        "author": {
+            "name": "Jan Koum",
+            "url": "/authors/jan_koum"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Ways",
+                "url": "/topics/ways"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/fred_ehrsam_851377?src=t_encryption",
+        "quote": "If you are going to store your e-wallet on your own server, don't keep your e-wallet on your desktop, and make sure you use encryption. If you lose your computer, your bitcoins are lost forever.",
+        "author": {
+            "name": "Fred Ehrsam",
+            "url": "/authors/fred_ehrsam"
+        },
+        "topics": [
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Sure",
+                "url": "/topics/sure"
+            },
+            {
+                "name": "Server",
+                "url": "/topics/server"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alex_stamos_894484?src=t_encryption",
+        "quote": "I think anybody who uses email in the center of our life needs encryption.",
+        "author": {
+            "name": "Alex Stamos",
+            "url": "/authors/alex_stamos"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Needs",
+                "url": "/topics/needs"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/whitfield_diffie_675961?src=t_encryption",
+        "quote": "I am not convinced that lack of encryption is the primary problem. The problem with the Internet is that it is meant for communications among non-friends.",
+        "author": {
+            "name": "Whitfield Diffie",
+            "url": "/authors/whitfield_diffie"
+        },
+        "topics": [
+            {
+                "name": "Meant",
+                "url": "/topics/meant"
+            },
+            {
+                "name": "The Problem With",
+                "url": "/topics/the_problem_with"
+            },
+            {
+                "name": "Am",
+                "url": "/topics/am"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jon_johansen_229215?src=t_encryption",
+        "quote": "I'm 16 now, I was 15 when it happened... and the encryption code wasn't in fact written by me, but written by the German member. There seems to be a bit of confusion about that part.",
+        "author": {
+            "name": "Jon Johansen",
+            "url": "/authors/jon_johansen"
+        },
+        "topics": [
+            {
+                "name": "Fact",
+                "url": "/topics/fact"
+            },
+            {
+                "name": "Code",
+                "url": "/topics/code"
+            },
+            {
+                "name": "German",
+                "url": "/topics/german"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kevin_mitnick_613259?src=t_encryption",
+        "quote": "Companies spend millions of dollars on firewalls, encryption, and secure access devices and it's money wasted because none of these measures address the weakest link in the security chain: the people who use, administer, operate and account for computer systems that contain protected information.",
+        "author": {
+            "name": "Kevin Mitnick",
+            "url": "/authors/kevin_mitnick"
+        },
+        "topics": [
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            },
+            {
+                "name": "Access",
+                "url": "/topics/access"
+            },
+            {
+                "name": "Link",
+                "url": "/topics/link"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bruce_schneier_182285?src=t_encryption",
+        "quote": "There are two types of encryption: one that will prevent your sister from reading your diary and one that will prevent your government.",
+        "author": {
+            "name": "Bruce Schneier",
+            "url": "/authors/bruce_schneier"
+        },
+        "topics": [
+            {
+                "name": "Reading",
+                "url": "/topics/reading"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Types",
+                "url": "/topics/types"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kevin_mitnick_613248?src=t_encryption",
+        "quote": "If you go to a coffee shop or at the airport, and you're using open wireless, I would use a VPN service that you could subscribe for 10 bucks a month. Everything is encrypted in an encryption tunnel, so a hacker cannot tamper with your connection.",
+        "author": {
+            "name": "Kevin Mitnick",
+            "url": "/authors/kevin_mitnick"
+        },
+        "topics": [
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            },
+            {
+                "name": "Shop",
+                "url": "/topics/shop"
+            },
+            {
+                "name": "Bucks",
+                "url": "/topics/bucks"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/michael_hayden_788989?src=t_encryption",
+        "quote": "The arc of technology is in the direction of unbreakable encryption, and no laws are going to get in the way of that reality.",
+        "author": {
+            "name": "Michael Hayden",
+            "url": "/authors/michael_hayden"
+        },
+        "topics": [
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Arc",
+                "url": "/topics/arc"
+            },
+            {
+                "name": "Laws",
+                "url": "/topics/laws"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dorothy_denning_217516?src=t_encryption",
+        "quote": "Everyone is a proponent of strong encryption.",
+        "author": {
+            "name": "Dorothy Denning",
+            "url": "/authors/dorothy_denning"
+        },
+        "topics": [
+            {
+                "name": "Strong",
+                "url": "/topics/strong"
+            },
+            {
+                "name": "Everyone",
+                "url": "/topics/everyone"
+            },
+            {
+                "name": "Proponent",
+                "url": "/topics/proponent"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_mcafee_755503?src=t_encryption",
+        "quote": "In this age of communications that span both distance and time, the only tool we have that approximates a 'whisper' is encryption. When I cannot whisper in my wife's ear or the ears of my business partners, and have to communicate electronically, then encryption is our tool to keep our secrets secret.",
+        "author": {
+            "name": "John McAfee",
+            "url": "/authors/john_mcafee"
+        },
+        "topics": [
+            {
+                "name": "Distance",
+                "url": "/topics/distance"
+            },
+            {
+                "name": "Communicate",
+                "url": "/topics/communicate"
+            },
+            {
+                "name": "Our",
+                "url": "/topics/our"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mike_mccaul_771078?src=t_encryption",
+        "quote": "We should be careful not to vilify encryption itself, which is essential for privacy, data security, and global commerce.",
+        "author": {
+            "name": "Mike McCaul",
+            "url": "/authors/mike_mccaul"
+        },
+        "topics": [
+            {
+                "name": "Data",
+                "url": "/topics/data"
+            },
+            {
+                "name": "Be Careful",
+                "url": "/topics/be_careful"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/whitfield_diffie_675960?src=t_encryption",
+        "quote": "Without strong encryption, you will be spied on systematically by lots of people.",
+        "author": {
+            "name": "Whitfield Diffie",
+            "url": "/authors/whitfield_diffie"
+        },
+        "topics": [
+            {
+                "name": "Strong",
+                "url": "/topics/strong"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Lots",
+                "url": "/topics/lots"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/chelsea_manning_848546?src=t_encryption",
+        "quote": "In the years preceding my imprisonment, I worked as a software programmer, designing and developing web interfaces, secure databases, and communication software; later, I was employed as an intelligence analyst for the U.S. Army. Throughout each of these jobs, we used different kinds of encryption to keep prying eyes out of information we handled.",
+        "author": {
+            "name": "Chelsea Manning",
+            "url": "/authors/chelsea_manning"
+        },
+        "topics": [
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "Imprisonment",
+                "url": "/topics/imprisonment"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tim_cook_843427?src=t_encryption",
+        "quote": "We think the government should be pushing for more encryption. That it's a great thing. You know, it's like the sun and the air and the water.",
+        "author": {
+            "name": "Tim Cook",
+            "url": "/authors/tim_cook"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_comey_752269?src=t_encryption",
+        "quote": "I love strong encryption. It protects us in so many ways from bad people. But it takes us to a place - absolute privacy - that we have not been to before.",
+        "author": {
+            "name": "James Comey",
+            "url": "/authors/james_comey"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Strong",
+                "url": "/topics/strong"
+            },
+            {
+                "name": "Protects",
+                "url": "/topics/protects"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kevin_mitnick_469456?src=t_encryption",
+        "quote": "A company can spend hundreds of thousands of dollars on firewalls, intrusion detection systems and encryption and other security technologies, but if an attacker can call one trusted person within the company, and that person complies, and if the attacker gets in, then all that money spent on technology is essentially wasted.",
+        "author": {
+            "name": "Kevin Mitnick",
+            "url": "/authors/kevin_mitnick"
+        },
+        "topics": [
+            {
+                "name": "Security",
+                "url": "/topics/security"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Dollars",
+                "url": "/topics/dollars"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/noam_chomsky_635914?src=t_encryption",
+        "quote": "Somebody will be able to overcome any encryption technique you use!",
+        "author": {
+            "name": "Noam Chomsky",
+            "url": "/authors/noam_chomsky"
+        },
+        "topics": [
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            },
+            {
+                "name": "Able",
+                "url": "/topics/able"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_comey_727979?src=t_encryption",
+        "quote": "As all of our lives become digital, the logic of encryption is all of our lives will be covered by strong encryption, and therefore all of our lives - including the lives of criminals and terrorists and spies - will be in a place that is utterly unavailable to court-ordered process. And that, I think, to a democracy should be very, very concerning.",
+        "author": {
+            "name": "James Comey",
+            "url": "/authors/james_comey"
+        },
+        "topics": [
+            {
+                "name": "Strong",
+                "url": "/topics/strong"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/barton_gellman_652414?src=t_encryption",
+        "quote": "You don't need to be a spook to care about encryption. If you travel with your computer or keep it in a place where other people can put their hands on it, you're vulnerable.",
+        "author": {
+            "name": "Barton Gellman",
+            "url": "/authors/barton_gellman"
+        },
+        "topics": [
+            {
+                "name": "Hands",
+                "url": "/topics/hands"
+            },
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tom_cotton_771286?src=t_encryption",
+        "quote": "Under the cover of encryption, terror masterminds provide recruits with the tactics and tools necessary to carry out attacks using small arms and explosives. None of this requires any overseas travel.",
+        "author": {
+            "name": "Tom Cotton",
+            "url": "/authors/tom_cotton"
+        },
+        "topics": [
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Terror",
+                "url": "/topics/terror"
+            },
+            {
+                "name": "Using",
+                "url": "/topics/using"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/blythe_masters_847226?src=t_encryption",
+        "quote": "Blockchain technology, or distributed ledger technology, is just a way of using the modern sciences of encryption to enable entities to share a common infrastructure for database retention.",
+        "author": {
+            "name": "Blythe Masters",
+            "url": "/authors/blythe_masters"
+        },
+        "topics": [
+            {
+                "name": "Way",
+                "url": "/topics/way"
+            },
+            {
+                "name": "Using",
+                "url": "/topics/using"
+            },
+            {
+                "name": "Distributed",
+                "url": "/topics/distributed"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dorothy_denning_217508?src=t_encryption",
+        "quote": "The concern is over what will happen as strong encryption becomes commonplace with all digital communications and stored data. Right now the use of encryption isn't all that widespread, but that state of affairs is expected to change rapidly.",
+        "author": {
+            "name": "Dorothy Denning",
+            "url": "/authors/dorothy_denning"
+        },
+        "topics": [
+            {
+                "name": "Digital",
+                "url": "/topics/digital"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Happen",
+                "url": "/topics/happen"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_mcafee_755411?src=t_encryption",
+        "quote": "It's very hard to keep an uncrackable encryption if you share it with the government.",
+        "author": {
+            "name": "John McAfee",
+            "url": "/authors/john_mcafee"
+        },
+        "topics": [
+            {
+                "name": "Government",
+                "url": "/topics/government"
+            },
+            {
+                "name": "Keep",
+                "url": "/topics/keep"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_mcafee_755435?src=t_encryption",
+        "quote": "I trust and use RakEM for my private messages and calls. Other messengers collected metadata about who I messaged, when and where - RakEM does not collect metadata, encrypts local files, and uses the strongest end-to-end encryption around.",
+        "author": {
+            "name": "John McAfee",
+            "url": "/authors/john_mcafee"
+        },
+        "topics": [
+            {
+                "name": "Trust",
+                "url": "/topics/trust"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Private",
+                "url": "/topics/private"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_comey_767429?src=t_encryption",
+        "quote": "Encryption threatens to lead all of us to a very dark place.",
+        "author": {
+            "name": "James Comey",
+            "url": "/authors/james_comey"
+        },
+        "topics": [
+            {
+                "name": "Dark",
+                "url": "/topics/dark"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Dark Place",
+                "url": "/topics/dark_place"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/michael_hayden_789013?src=t_encryption",
+        "quote": "There is an unarguable downside to unbreakable encryption.",
+        "author": {
+            "name": "Michael Hayden",
+            "url": "/authors/michael_hayden"
+        },
+        "topics": [
+            {
+                "name": "Downside",
+                "url": "/topics/downside"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/michael_hayden_788998?src=t_encryption",
+        "quote": "Apple and Google want to create encryption for which they could not provide you the key. Their business model will not survive if the American government has a special relationship with them that requires them to surrender this kind of information.",
+        "author": {
+            "name": "Michael Hayden",
+            "url": "/authors/michael_hayden"
+        },
+        "topics": [
+            {
+                "name": "Government",
+                "url": "/topics/government"
+            },
+            {
+                "name": "American",
+                "url": "/topics/american"
+            },
+            {
+                "name": "Apple",
+                "url": "/topics/apple"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kevin_mitnick_613297?src=t_encryption",
+        "quote": "The government does things like insisting that all encryption programs should have a back door. But surely no one is stupid enough to think the terrorists are going to use encryption systems with a back door. The terrorists will simply hire a programmer to come up with a secure encryption scheme.",
+        "author": {
+            "name": "Kevin Mitnick",
+            "url": "/authors/kevin_mitnick"
+        },
+        "topics": [
+            {
+                "name": "Stupid",
+                "url": "/topics/stupid"
+            },
+            {
+                "name": "Door",
+                "url": "/topics/door"
+            },
+            {
+                "name": "Surely",
+                "url": "/topics/surely"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/barton_gellman_652341?src=t_encryption",
+        "quote": "Privacy and encryption work, but it's too easy to make a mistake that exposes you.",
+        "author": {
+            "name": "Barton Gellman",
+            "url": "/authors/barton_gellman"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Mistake",
+                "url": "/topics/mistake"
+            },
+            {
+                "name": "Too",
+                "url": "/topics/too"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tom_cotton_792465?src=t_encryption",
+        "quote": "The problem of end-to-end encryption isn't just a terrorism issue.",
+        "author": {
+            "name": "Tom Cotton",
+            "url": "/authors/tom_cotton"
+        },
+        "topics": [
+            {
+                "name": "Terrorism",
+                "url": "/topics/terrorism"
+            },
+            {
+                "name": "Problem",
+                "url": "/topics/problem"
+            },
+            {
+                "name": "Issue",
+                "url": "/topics/issue"
+            }
+        ]
+    }
+]

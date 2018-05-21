@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/charles_ii_378067",
+        "quote": "You had better have one King than five hundred.",
+        "author": {
+            "name": "Charles II",
+            "url": "/quotes/charles_ii_378067"
+        },
+        "topics": [
+            {
+                "name": "King",
+                "url": "/topics/king"
+            },
+            {
+                "name": "Better",
+                "url": "/topics/better"
+            },
+            {
+                "name": "Hundred",
+                "url": "/topics/hundred"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charles_ii_382131",
+        "quote": "I always admired virtue - but I could never imitate it.",
+        "author": {
+            "name": "Charles II",
+            "url": "/quotes/charles_ii_382131"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Admired",
+                "url": "/topics/admired"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charles_ii_161096",
+        "quote": "Never in the way, and never out of the way.",
+        "author": {
+            "name": "Charles II",
+            "url": "/quotes/charles_ii_161096"
+        },
+        "topics": [
+            {
+                "name": "Way",
+                "url": "/topics/way"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Out",
+                "url": "/topics/out"
+            }
+        ]
+    }
+]

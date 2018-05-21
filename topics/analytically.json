@@ -1,0 +1,200 @@
+[
+    {
+        "url": "/quotes/hans_rosling_485010?src=t_analytically",
+        "quote": "I am not an optimist. I'm a very serious possibilist. It's a new category where we take emotion apart and we just work analytically with the world.",
+        "author": {
+            "name": "Hans Rosling",
+            "url": "/authors/hans_rosling"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/maya_lin_344835?src=t_analytically",
+        "quote": "I left science, then I went into art, but I approach things very analytically. I choose to pursue both art and architecture as completely separate fields rather than merging them.",
+        "author": {
+            "name": "Maya Lin",
+            "url": "/authors/maya_lin"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Merging",
+                "url": "/topics/merging"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/judith_butler_181894?src=t_analytically",
+        "quote": "Race and class are rendered distinct analytically only to produce the realization that the analysis of the one cannot proceed without the other. A different dynamic it seems to me is at work in the critique of new sexuality studies.",
+        "author": {
+            "name": "Judith Butler",
+            "url": "/authors/judith_butler"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Proceed",
+                "url": "/topics/proceed"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edward_tufte_217676?src=t_analytically",
+        "quote": "The speculative part of my work is that these particular cognitive tasks - ways of thinking analytically - are tied to nature's laws.",
+        "author": {
+            "name": "Edward Tufte",
+            "url": "/authors/edward_tufte"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "Laws",
+                "url": "/topics/laws"
+            },
+            {
+                "name": "Tied",
+                "url": "/topics/tied"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henry_paulson_876462?src=t_analytically",
+        "quote": "I see nothing easy in Washington. I see either analytically simple things that are politically complex or those that are politically complex and analytically complex. I mean, look at immigration reform, you know? It is, I think, analytically easy, but politically very, very complex and very difficult.",
+        "author": {
+            "name": "Henry Paulson",
+            "url": "/authors/henry_paulson"
+        },
+        "topics": [
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "I See",
+                "url": "/topics/i_see"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/steve_buscemi_582908?src=t_analytically",
+        "quote": "I don't think about the characters I choose to play, analytically or consciously.",
+        "author": {
+            "name": "Steve Buscemi",
+            "url": "/authors/steve_buscemi"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Characters",
+                "url": "/topics/characters"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jonathan_demme_505237?src=t_analytically",
+        "quote": "I've never fallen into what I consider to be a trap of trying to figure out something analytically that could be a very popular film. I would hope my enthusiasm could match up with something with that potential.",
+        "author": {
+            "name": "Jonathan Demme",
+            "url": "/authors/jonathan_demme"
+        },
+        "topics": [
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            },
+            {
+                "name": "Figure",
+                "url": "/topics/figure"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/elfriede_jelinek_765569?src=t_analytically",
+        "quote": "My writings are limited to depicting analytically, but also polemically, the horrors of reality. Redemption is the speciality of other authors, male and female.",
+        "author": {
+            "name": "Elfriede Jelinek",
+            "url": "/authors/elfriede_jelinek"
+        },
+        "topics": [
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Writings",
+                "url": "/topics/writings"
+            },
+            {
+                "name": "Horrors",
+                "url": "/topics/horrors"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/michael_birch_614528?src=t_analytically",
+        "quote": "I built websites for myself. I didn't want to work for anyone else. I came from a science background, so I approached things fairly analytically.",
+        "author": {
+            "name": "Michael Birch",
+            "url": "/authors/michael_birch"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Myself",
+                "url": "/topics/myself"
+            },
+            {
+                "name": "Built",
+                "url": "/topics/built"
+            }
+        ]
+    }
+]

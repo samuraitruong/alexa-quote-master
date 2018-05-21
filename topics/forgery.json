@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/frank_abagnale_530058?src=t_forgery",
+        "quote": "Criminals look at identity theft and say only 1 in 700 criminals gets convicted of it. And they look at check forgery and they know that for every 1,400 forgers arrested, only about 123 get convicted and about 26 go to jail. So the rewards are great, but the risks are very slim. So that's one of the reasons that make it very popular.",
+        "author": {
+            "name": "Frank Abagnale",
+            "url": "/authors/frank_abagnale"
+        },
+        "topics": [
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Reasons",
+                "url": "/topics/reasons"
+            },
+            {
+                "name": "Arrested",
+                "url": "/topics/arrested"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alger_hiss_116850?src=t_forgery",
+        "quote": "In the future the way that Whittaker Chambers was able to carry out forgery by typewriter will be disclosed.",
+        "author": {
+            "name": "Alger Hiss",
+            "url": "/authors/alger_hiss"
+        },
+        "topics": [
+            {
+                "name": "Future",
+                "url": "/topics/future"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Chambers",
+                "url": "/topics/chambers"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ralph_hodgson_101961?src=t_forgery",
+        "quote": "The handwriting on the wall may be a forgery.",
+        "author": {
+            "name": "Ralph Hodgson",
+            "url": "/authors/ralph_hodgson"
+        },
+        "topics": [
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Handwriting",
+                "url": "/topics/handwriting"
+            },
+            {
+                "name": "Wall",
+                "url": "/topics/wall"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_fenton_158277?src=t_forgery",
+        "quote": "Imitation, if it is not forgery, is a fine thing. It stems from a generous impulse, and a realistic sense of what can and cannot be done.",
+        "author": {
+            "name": "James Fenton",
+            "url": "/authors/james_fenton"
+        },
+        "topics": [
+            {
+                "name": "Done",
+                "url": "/topics/done"
+            },
+            {
+                "name": "Sense",
+                "url": "/topics/sense"
+            },
+            {
+                "name": "Stems",
+                "url": "/topics/stems"
+            }
+        ]
+    }
+]

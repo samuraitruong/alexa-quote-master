@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/bert_williams_193006",
+        "quote": "The man with the real sense of humor is the man who can put himself in the spectator's place and laugh at his own misfortune.",
+        "author": {
+            "name": "Bert Williams",
+            "url": "/quotes/bert_williams_193006"
+        },
+        "topics": [
+            {
+                "name": "Sense Of Humor",
+                "url": "/topics/sense_of_humor"
+            },
+            {
+                "name": "Sense",
+                "url": "/topics/sense"
+            },
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bert_williams_193008",
+        "quote": "I have never been able to discover anything disgraceful in being a colored man. But I have often found it inconvenient - in America.",
+        "author": {
+            "name": "Bert Williams",
+            "url": "/quotes/bert_williams_193008"
+        },
+        "topics": [
+            {
+                "name": "Discover",
+                "url": "/topics/discover"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Disgraceful",
+                "url": "/topics/disgraceful"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bert_williams_193007",
+        "quote": "I named all my children after flowers. There's Lillie and Rose and my son, Artificial.",
+        "author": {
+            "name": "Bert Williams",
+            "url": "/quotes/bert_williams_193007"
+        },
+        "topics": [
+            {
+                "name": "Flowers",
+                "url": "/topics/flowers"
+            },
+            {
+                "name": "Artificial",
+                "url": "/topics/artificial"
+            },
+            {
+                "name": "Named",
+                "url": "/topics/named"
+            }
+        ]
+    }
+]

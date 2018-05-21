@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/tommy_flanagan_456716",
+        "quote": "I do miss Glasgow but Malibu is home now. I love it here and when I do go back to Scotland it takes me a bit of time to acclimatise. I am a spoilt so-and-so. I live in the mountains of Malibu in the most gorgeous house and I phone my mum every day and tell her that I have got bad news - that it is only 70 degrees here.",
+        "author": {
+            "name": "Tommy Flanagan",
+            "url": "/quotes/tommy_flanagan_456716"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Mountains",
+                "url": "/topics/mountains"
+            },
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tommy_flanagan_456715",
+        "quote": "Acting never crossed my mind for a moment when I was growing up.",
+        "author": {
+            "name": "Tommy Flanagan",
+            "url": "/quotes/tommy_flanagan_456715"
+        },
+        "topics": [
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Growing",
+                "url": "/topics/growing"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            }
+        ]
+    }
+]

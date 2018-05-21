@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/ilie_nastase_167906",
+        "quote": "I haven't reported my missing credit card to the police because whoever stole it is spending less than my wife.",
+        "author": {
+            "name": "Ilie Nastase",
+            "url": "/quotes/ilie_nastase_167906"
+        },
+        "topics": [
+            {
+                "name": "Wife",
+                "url": "/topics/wife"
+            },
+            {
+                "name": "Less",
+                "url": "/topics/less"
+            },
+            {
+                "name": "Stole",
+                "url": "/topics/stole"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ilie_nastase_167904",
+        "quote": "If you have confidence you have patience. Confidence, that is everything.",
+        "author": {
+            "name": "Ilie Nastase",
+            "url": "/quotes/ilie_nastase_167904"
+        },
+        "topics": [
+            {
+                "name": "Patience",
+                "url": "/topics/patience"
+            },
+            {
+                "name": "Confidence",
+                "url": "/topics/confidence"
+            },
+            {
+                "name": "You",
+                "url": "/topics/you"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ilie_nastase_143931",
+        "quote": "My ambition is to do a good job. I never plan anything.",
+        "author": {
+            "name": "Ilie Nastase",
+            "url": "/quotes/ilie_nastase_143931"
+        },
+        "topics": [
+            {
+                "name": "Job",
+                "url": "/topics/job"
+            },
+            {
+                "name": "Ambition",
+                "url": "/topics/ambition"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            }
+        ]
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/john_jacob_astor_756900",
+        "quote": "The first hundred thousand - that was hard to get, but afterwards, it was easy to make more.",
+        "author": {
+            "name": "John Jacob Astor",
+            "url": "/quotes/john_jacob_astor_756900"
+        },
+        "topics": [
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Hundred",
+                "url": "/topics/hundred"
+            },
+            {
+                "name": "Afterwards",
+                "url": "/topics/afterwards"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/angelus_silesius_317487",
+        "quote": "The Rose is without an explanation; She blooms, because She blooms.",
+        "author": {
+            "name": "Angelus Silesius",
+            "url": "/quotes/angelus_silesius_317487"
+        },
+        "topics": [
+            {
+                "name": "Rose",
+                "url": "/topics/rose"
+            },
+            {
+                "name": "She",
+                "url": "/topics/she"
+            },
+            {
+                "name": "Blooms",
+                "url": "/topics/blooms"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/angelus_silesius_317485",
+        "quote": "By the will art thou lost, by the will art thou found, by the will art thou free, captive, and bound.",
+        "author": {
+            "name": "Angelus Silesius",
+            "url": "/quotes/angelus_silesius_317485"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Found",
+                "url": "/topics/found"
+            }
+        ]
+    }
+]

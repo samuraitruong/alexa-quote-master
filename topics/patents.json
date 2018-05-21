@@ -1,0 +1,888 @@
+[
+    {
+        "url": "/quotes/eric_maskin_726488?src=t_patents",
+        "quote": "In an industry with highly sequential innovation, it may be better for society to scrap patents altogether than try to tighten them.",
+        "author": {
+            "name": "Eric Maskin",
+            "url": "/authors/eric_maskin"
+        },
+        "topics": [
+            {
+                "name": "Innovation",
+                "url": "/topics/innovation"
+            },
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Industry",
+                "url": "/topics/industry"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_sulston_734416?src=t_patents",
+        "quote": "If you patent a discovery which is unique, say a human gene or even just one particular function of a human gene, then you are actually creating a monopoly, and that's not the purpose of the world of patents.",
+        "author": {
+            "name": "John Sulston",
+            "url": "/authors/john_sulston"
+        },
+        "topics": [
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Patent",
+                "url": "/topics/patent"
+            },
+            {
+                "name": "Gene",
+                "url": "/topics/gene"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/aaron_patzer_687158?src=t_patents",
+        "quote": "At Mint, we developed five pending patents on our technology, ranging from categorization to the Ways to Save system that calculates how much a new financial product would save a user given their present financial situation.",
+        "author": {
+            "name": "Aaron Patzer",
+            "url": "/authors/aaron_patzer"
+        },
+        "topics": [
+            {
+                "name": "Financial",
+                "url": "/topics/financial"
+            },
+            {
+                "name": "Save",
+                "url": "/topics/save"
+            },
+            {
+                "name": "Developed",
+                "url": "/topics/developed"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kevin_j_anderson_226304?src=t_patents",
+        "quote": "Sure, President Bush can say that the U.S. government won't fund stem cell research, but believe me, Japan is applauding. Because they will just do it first and get all the patents.",
+        "author": {
+            "name": "Kevin J. Anderson",
+            "url": "/authors/kevin_j_anderson"
+        },
+        "topics": [
+            {
+                "name": "Believe",
+                "url": "/topics/believe"
+            },
+            {
+                "name": "Japan",
+                "url": "/topics/japan"
+            },
+            {
+                "name": "Bush",
+                "url": "/topics/bush"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/larry_wall_367177?src=t_patents",
+        "quote": "If you're a large corporation, you can afford to pay the money to register patents, but if you're an individual like me, you can't.",
+        "author": {
+            "name": "Larry Wall",
+            "url": "/authors/larry_wall"
+        },
+        "topics": [
+            {
+                "name": "Individual",
+                "url": "/topics/individual"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Large",
+                "url": "/topics/large"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/larry_wall_367165?src=t_patents",
+        "quote": "I think software patents are a bad idea. Many patents are given for trivial inventions.",
+        "author": {
+            "name": "Larry Wall",
+            "url": "/authors/larry_wall"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Given",
+                "url": "/topics/given"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/steve_mollenkopf_850376?src=t_patents",
+        "quote": "The licensing business is about licensing the full portfolio of Qualcomm's patents. Some of them involve the chip. Some of them don't involve the chip. In fact, the vast majority of them don't involve the chip.",
+        "author": {
+            "name": "Steve Mollenkopf",
+            "url": "/authors/steve_mollenkopf"
+        },
+        "topics": [
+            {
+                "name": "Fact",
+                "url": "/topics/fact"
+            },
+            {
+                "name": "Chip",
+                "url": "/topics/chip"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jeanphilippe_courtois_889441?src=t_patents",
+        "quote": "Everything that can be associated to ideas, inventions, copyrights, and patents is part of the IP world - at least, that's my definition. That all starts with people. Education is key.",
+        "author": {
+            "name": "Jean-Philippe Courtois",
+            "url": "/authors/jeanphilippe_courtois"
+        },
+        "topics": [
+            {
+                "name": "Education",
+                "url": "/topics/education"
+            },
+            {
+                "name": "Part",
+                "url": "/topics/part"
+            },
+            {
+                "name": "IP",
+                "url": "/topics/ip"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/miguel_de_icaza_232383?src=t_patents",
+        "quote": "The software patent problem is not limited to Mono. Software patents affect everyone writing software today.",
+        "author": {
+            "name": "Miguel de Icaza",
+            "url": "/authors/miguel_de_icaza"
+        },
+        "topics": [
+            {
+                "name": "Problem",
+                "url": "/topics/problem"
+            },
+            {
+                "name": "Patent",
+                "url": "/topics/patent"
+            },
+            {
+                "name": "Mono",
+                "url": "/topics/mono"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/miguel_de_icaza_232384?src=t_patents",
+        "quote": "Our strategy in dealing with patents in Mono is the same strategy that any other software developer would take. In the event of a patent claim, we will try to find prior art to the claim of the patent.",
+        "author": {
+            "name": "Miguel de Icaza",
+            "url": "/authors/miguel_de_icaza"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Patent",
+                "url": "/topics/patent"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_pozen_512726?src=t_patents",
+        "quote": "The quality of American patents has been deteriorating for years; they are increasingly issued for products and processes that are not truly innovative - things like the queuing system for Netflix, which was patented in 2003. Yes, it makes renting movies a snap, but was it really a breakthrough deserving patent protection?",
+        "author": {
+            "name": "Robert Pozen",
+            "url": "/authors/robert_pozen"
+        },
+        "topics": [
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Patent",
+                "url": "/topics/patent"
+            },
+            {
+                "name": "Increasingly",
+                "url": "/topics/increasingly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/melissa_george_426867?src=t_patents",
+        "quote": "I had to learn everything about manufacturing, patents and how to run a business, and eventually I came up with an prototype that worked.",
+        "author": {
+            "name": "Melissa George",
+            "url": "/authors/melissa_george"
+        },
+        "topics": [
+            {
+                "name": "Business",
+                "url": "/topics/business"
+            },
+            {
+                "name": "Learn",
+                "url": "/topics/learn"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/samuel_j_palmisano_532364?src=t_patents",
+        "quote": "IBM isn't investing billions of dollars every year into research and development - and winning more patents than our top 10 competitors combined for more than a decade - as an academic exercise. But research is now being driven much more by what people need rather than just by what is possible.",
+        "author": {
+            "name": "Samuel J. Palmisano",
+            "url": "/authors/samuel_j_palmisano"
+        },
+        "topics": [
+            {
+                "name": "Year",
+                "url": "/topics/year"
+            },
+            {
+                "name": "Decade",
+                "url": "/topics/decade"
+            },
+            {
+                "name": "Rather",
+                "url": "/topics/rather"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/antonio_perez_297650?src=t_patents",
+        "quote": "We have more patents on pigmented inks than anybody else.",
+        "author": {
+            "name": "Antonio Perez",
+            "url": "/authors/antonio_perez"
+        },
+        "topics": [
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Anybody",
+                "url": "/topics/anybody"
+            },
+            {
+                "name": "Else",
+                "url": "/topics/else"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/viet_d_dinh_620480?src=t_patents",
+        "quote": "The under-funded and over-extended United States Patent and Trademark Office does not have the resources to adequately evaluate the burgeoning number of applications, and too many low-quality patents are being issued as a result.",
+        "author": {
+            "name": "Viet D. Dinh",
+            "url": "/authors/viet_d_dinh"
+        },
+        "topics": [
+            {
+                "name": "United States",
+                "url": "/topics/united_states"
+            },
+            {
+                "name": "Patent",
+                "url": "/topics/patent"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/michael_e_gerber_863069?src=t_patents",
+        "quote": "'Product life' is measured in months, not years, and as soon as you introduce a 'product,' understand that others in your business are going to reverse engineer it to duplicate the results after they circumnavigate the patents, the trademarks, and the intellectual property.",
+        "author": {
+            "name": "Michael E. Gerber",
+            "url": "/authors/michael_e_gerber"
+        },
+        "topics": [
+            {
+                "name": "Life",
+                "url": "/topics/life"
+            },
+            {
+                "name": "Measured",
+                "url": "/topics/measured"
+            },
+            {
+                "name": "Your",
+                "url": "/topics/your"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/adam_cohen_827901?src=t_patents",
+        "quote": "Patents have a place in medical science - for new inventions that advance the state of knowledge.",
+        "author": {
+            "name": "Adam Cohen",
+            "url": "/authors/adam_cohen"
+        },
+        "topics": [
+            {
+                "name": "Medical",
+                "url": "/topics/medical"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Inventions",
+                "url": "/topics/inventions"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sarah_lacy_659392?src=t_patents",
+        "quote": "Like patents - which also seek to protect the little guy - unions were started for all the right reasons. But like patents, they can be twisted into something that hurts innovation, competition, and ultimately consumers and the country as a whole.",
+        "author": {
+            "name": "Sarah Lacy",
+            "url": "/authors/sarah_lacy"
+        },
+        "topics": [
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Guy",
+                "url": "/topics/guy"
+            },
+            {
+                "name": "Right Reasons",
+                "url": "/topics/right_reasons"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/richard_stallman_183741?src=t_patents",
+        "quote": "Fighting patents one by one will never eliminate the danger of software patents, any more than swatting mosquitoes will eliminate malaria.",
+        "author": {
+            "name": "Richard Stallman",
+            "url": "/authors/richard_stallman"
+        },
+        "topics": [
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/debbie_stabenow_475473?src=t_patents",
+        "quote": "You know, in China, they say, come on over, we'll build the plant for you. Of course, then they steal your patents, but the reality is that they are aggressively trying to take our jobs. Every other country is. They know that to have a middle class, you have to make things.",
+        "author": {
+            "name": "Debbie Stabenow",
+            "url": "/authors/debbie_stabenow"
+        },
+        "topics": [
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Steal",
+                "url": "/topics/steal"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/craig_venter_700426?src=t_patents",
+        "quote": "People equate patents with secrecy, that secrecy is what patents were designed to overcome. That's why the formula for Coca-Cola was never patented. They kept it as a trade secret, and they've outlasted patent laws by 80 years or more.",
+        "author": {
+            "name": "Craig Venter",
+            "url": "/authors/craig_venter"
+        },
+        "topics": [
+            {
+                "name": "Laws",
+                "url": "/topics/laws"
+            },
+            {
+                "name": "Patent",
+                "url": "/topics/patent"
+            },
+            {
+                "name": "Equate",
+                "url": "/topics/equate"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alex_tabarrok_603439?src=t_patents",
+        "quote": "Patents are like fertilizer. Applied wisely and sparingly, they can increase growth. But if you apply too many chemicals, or make patents too strong, then you can leach the land, making growth more difficult.",
+        "author": {
+            "name": "Alex Tabarrok",
+            "url": "/authors/alex_tabarrok"
+        },
+        "topics": [
+            {
+                "name": "Strong",
+                "url": "/topics/strong"
+            },
+            {
+                "name": "Making",
+                "url": "/topics/making"
+            },
+            {
+                "name": "Sparingly",
+                "url": "/topics/sparingly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/vitalik_buterin_847209?src=t_patents",
+        "quote": "Blockchain software companies may end up being amalgamated into existing software giants, at which point blockchain patents will just become part of the existing patent war.",
+        "author": {
+            "name": "Vitalik Buterin",
+            "url": "/authors/vitalik_buterin"
+        },
+        "topics": [
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Patent",
+                "url": "/topics/patent"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/yusuf_hamied_529751?src=t_patents",
+        "quote": "If you look at the world's top 50 drugs being sold today, they are being marketed and sold by companies that did not invent them. I respect patents. I'll pay a royalty. But I shouldn't be denied the right to produce drugs for poor people at reasonable prices.",
+        "author": {
+            "name": "Yusuf Hamied",
+            "url": "/authors/yusuf_hamied"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Royalty",
+                "url": "/topics/royalty"
+            },
+            {
+                "name": "Reasonable",
+                "url": "/topics/reasonable"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nathan_myhrvold_541367?src=t_patents",
+        "quote": "Making money from enforcing patents is no more wrong than investing in preferred stock.",
+        "author": {
+            "name": "Nathan Myhrvold",
+            "url": "/authors/nathan_myhrvold"
+        },
+        "topics": [
+            {
+                "name": "Money",
+                "url": "/topics/money"
+            },
+            {
+                "name": "Making",
+                "url": "/topics/making"
+            },
+            {
+                "name": "Enforcing",
+                "url": "/topics/enforcing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/richard_stallman_473492?src=t_patents",
+        "quote": "Software patents are dangerous to software developers because they impose monopolies on software ideas.",
+        "author": {
+            "name": "Richard Stallman",
+            "url": "/authors/richard_stallman"
+        },
+        "topics": [
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "Developers",
+                "url": "/topics/developers"
+            },
+            {
+                "name": "Impose",
+                "url": "/topics/impose"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/donald_knuth_181630?src=t_patents",
+        "quote": "I decry the current tendency to seek patents on algorithms. There are better ways to earn a living than to prevent other people from making use of one's contributions to computer science.",
+        "author": {
+            "name": "Donald Knuth",
+            "url": "/authors/donald_knuth"
+        },
+        "topics": [
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Tendency",
+                "url": "/topics/tendency"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/linus_torvalds_587373?src=t_patents",
+        "quote": "Software patents, in particular, are very ripe for abuse. The whole system encourages big corporations getting thousands and thousands of patents. Individuals almost never get them.",
+        "author": {
+            "name": "Linus Torvalds",
+            "url": "/authors/linus_torvalds"
+        },
+        "topics": [
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Encourages",
+                "url": "/topics/encourages"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/craig_venter_709831?src=t_patents",
+        "quote": "Patents are basically rights to try and develop a commercial product.",
+        "author": {
+            "name": "Craig Venter",
+            "url": "/authors/craig_venter"
+        },
+        "topics": [
+            {
+                "name": "Product",
+                "url": "/topics/product"
+            },
+            {
+                "name": "Rights",
+                "url": "/topics/rights"
+            },
+            {
+                "name": "Commercial",
+                "url": "/topics/commercial"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_dyson_509653?src=t_patents",
+        "quote": "If you didn't have patents, no one would bother to spend money on research and development. But with patents, if someone has a good idea and a competitor can't copy it, then that competitor will have to think of their own way of doing it. So then, instead of just one innovator, you have two or three people trying to do something in a new way.",
+        "author": {
+            "name": "James Dyson",
+            "url": "/authors/james_dyson"
+        },
+        "topics": [
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Idea",
+                "url": "/topics/idea"
+            },
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/peter_diamandis_690513?src=t_patents",
+        "quote": "Did you know that Kodak actually invented the digital camera that ultimately put it out of business? Kodak had the patents and a head start, but ignored all that.",
+        "author": {
+            "name": "Peter Diamandis",
+            "url": "/authors/peter_diamandis"
+        },
+        "topics": [
+            {
+                "name": "Business",
+                "url": "/topics/business"
+            },
+            {
+                "name": "Digital",
+                "url": "/topics/digital"
+            },
+            {
+                "name": "Ignored",
+                "url": "/topics/ignored"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charles_duhigg_663373?src=t_patents",
+        "quote": "Patents are being used to wage war in the digital world, and as a result, patents have become a toll gate on the road of innovation.",
+        "author": {
+            "name": "Charles Duhigg",
+            "url": "/authors/charles_duhigg"
+        },
+        "topics": [
+            {
+                "name": "Innovation",
+                "url": "/topics/innovation"
+            },
+            {
+                "name": "War",
+                "url": "/topics/war"
+            },
+            {
+                "name": "Digital",
+                "url": "/topics/digital"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/barton_gellman_652378?src=t_patents",
+        "quote": "For a decade, makers of AIDS medicines had rejected the idea of lowering prices in poor countries for fear of eroding profits in rich ones. The position required a balancing act, because the companies had to deflect attacks on the global reach of their patents, which granted exclusive marketing rights for antiretroviral drugs.",
+        "author": {
+            "name": "Barton Gellman",
+            "url": "/authors/barton_gellman"
+        },
+        "topics": [
+            {
+                "name": "Decade",
+                "url": "/topics/decade"
+            },
+            {
+                "name": "Poor Countries",
+                "url": "/topics/poor_countries"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nathan_myhrvold_541299?src=t_patents",
+        "quote": "If people don't get paid for their inventions, that's not a good thing. In the case of many patents, there are people who aren't in a position to take them to the next level. If you don't enforce your rights, no one is going to enforce them for you.",
+        "author": {
+            "name": "Nathan Myhrvold",
+            "url": "/authors/nathan_myhrvold"
+        },
+        "topics": [
+            {
+                "name": "Good",
+                "url": "/topics/good"
+            },
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            },
+            {
+                "name": "Your",
+                "url": "/topics/your"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nathan_myhrvold_541368?src=t_patents",
+        "quote": "It's very hard for individual inventors to get paid. For the same reason that private equity is valuable - broadly, that's a good thing - in the case of patents, many that own them aren't in a good position to take the next step.",
+        "author": {
+            "name": "Nathan Myhrvold",
+            "url": "/authors/nathan_myhrvold"
+        },
+        "topics": [
+            {
+                "name": "Reason",
+                "url": "/topics/reason"
+            },
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nathan_myhrvold_541369?src=t_patents",
+        "quote": "In the early days of the software industry, people cared about copyright and didn't give a damn about patents - they copied each other willy-nilly.",
+        "author": {
+            "name": "Nathan Myhrvold",
+            "url": "/authors/nathan_myhrvold"
+        },
+        "topics": [
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            },
+            {
+                "name": "Copyright",
+                "url": "/topics/copyright"
+            },
+            {
+                "name": "Early Days",
+                "url": "/topics/early_days"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/stephen_a_schwarzman_871585?src=t_patents",
+        "quote": "There are no patents in finance.",
+        "author": {
+            "name": "Stephen A. Schwarzman",
+            "url": "/authors/stephen_a_schwarzman"
+        },
+        "topics": [
+            {
+                "name": "Finance",
+                "url": "/topics/finance"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jerry_yang_710694?src=t_patents",
+        "quote": "People are getting patents on things that are too general.",
+        "author": {
+            "name": "Jerry Yang",
+            "url": "/authors/jerry_yang"
+        },
+        "topics": [
+            {
+                "name": "General",
+                "url": "/topics/general"
+            },
+            {
+                "name": "Too",
+                "url": "/topics/too"
+            },
+            {
+                "name": "Getting",
+                "url": "/topics/getting"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jerry_yang_710695?src=t_patents",
+        "quote": "It's not healthy for patents to be used to stop other people from doing business.",
+        "author": {
+            "name": "Jerry Yang",
+            "url": "/authors/jerry_yang"
+        },
+        "topics": [
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Stop",
+                "url": "/topics/stop"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_gleick_691758?src=t_patents",
+        "quote": "Patents have long served as a fundamental cog in the American machine, cherished in our national soul.",
+        "author": {
+            "name": "James Gleick",
+            "url": "/authors/james_gleick"
+        },
+        "topics": [
+            {
+                "name": "Soul",
+                "url": "/topics/soul"
+            },
+            {
+                "name": "Machine",
+                "url": "/topics/machine"
+            },
+            {
+                "name": "Served",
+                "url": "/topics/served"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jonathan_zittrain_655717?src=t_patents",
+        "quote": "With the rise of software patents, engineers coding new stuff - whether within a large software company or as kids writing smartphone apps - are exposed to a claim that somewhere a prior patent is being infringed.",
+        "author": {
+            "name": "Jonathan Zittrain",
+            "url": "/authors/jonathan_zittrain"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "Patent",
+                "url": "/topics/patent"
+            }
+        ]
+    }
+]

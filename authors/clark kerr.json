@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/clark_kerr_114997",
+        "quote": "I find that the three major administrative problems on a campus are sex for the students, athletics for the alumni and parking for the faculty.",
+        "author": {
+            "name": "Clark Kerr",
+            "url": "/quotes/clark_kerr_114997"
+        },
+        "topics": [
+            {
+                "name": "Sex",
+                "url": "/topics/sex"
+            },
+            {
+                "name": "Parking",
+                "url": "/topics/parking"
+            },
+            {
+                "name": "Campus",
+                "url": "/topics/campus"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/clark_kerr_114996",
+        "quote": "A university anywhere can aim no higher than to be as British as possible for the sake of the undergraduates, as German as possible for the sake of the public at large-and as confused as possible for the preservation of the whole uneasy balance.",
+        "author": {
+            "name": "Clark Kerr",
+            "url": "/quotes/clark_kerr_114996"
+        },
+        "topics": [
+            {
+                "name": "Aim",
+                "url": "/topics/aim"
+            },
+            {
+                "name": "University",
+                "url": "/topics/university"
+            },
+            {
+                "name": "German",
+                "url": "/topics/german"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/clark_kerr_175206",
+        "quote": "The status quo is the only solution that cannot be vetoed.",
+        "author": {
+            "name": "Clark Kerr",
+            "url": "/quotes/clark_kerr_175206"
+        },
+        "topics": [
+            {
+                "name": "Solution",
+                "url": "/topics/solution"
+            },
+            {
+                "name": "Status Quo",
+                "url": "/topics/status_quo"
+            },
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            }
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/jeremiah_p_ostriker_639557",
+        "quote": "If you take a galaxy and try to make it bigger, it becomes a cluster of galaxies, not a galaxy. If you try to make it smaller than that, it seems to blow itself apart.",
+        "author": {
+            "name": "Jeremiah P. Ostriker",
+            "url": "/quotes/jeremiah_p_ostriker_639557"
+        },
+        "topics": [
+            {
+                "name": "Galaxies",
+                "url": "/topics/galaxies"
+            },
+            {
+                "name": "Cluster",
+                "url": "/topics/cluster"
+            },
+            {
+                "name": "Smaller",
+                "url": "/topics/smaller"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jeremiah_p_ostriker_639558",
+        "quote": "Biology has tended to be an observational science, and deriving things from first principles has not been possible in the past, but I hate to predict the future on that.",
+        "author": {
+            "name": "Jeremiah P. Ostriker",
+            "url": "/quotes/jeremiah_p_ostriker_639558"
+        },
+        "topics": [
+            {
+                "name": "In The Past",
+                "url": "/topics/in_the_past"
+            },
+            {
+                "name": "Observational",
+                "url": "/topics/observational"
+            }
+        ]
+    }
+]

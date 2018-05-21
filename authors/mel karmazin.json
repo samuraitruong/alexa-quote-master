@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/mel_karmazin_307787",
+        "quote": "I skip through the programming to watch the commercials.",
+        "author": {
+            "name": "Mel Karmazin",
+            "url": "/quotes/mel_karmazin_307787"
+        },
+        "topics": [
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Watch",
+                "url": "/topics/watch"
+            },
+            {
+                "name": "Commercials",
+                "url": "/topics/commercials"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mel_karmazin_396312",
+        "quote": "There could be no better time to fully integrate Infinity with Viacom's tremendous portfolio of assets. Infinity is performing at record levels and continues to generate a tremendous amount of free cash flow that will now fully benefit Viacom.",
+        "author": {
+            "name": "Mel Karmazin",
+            "url": "/quotes/mel_karmazin_396312"
+        },
+        "topics": [
+            {
+                "name": "Viacom",
+                "url": "/topics/viacom"
+            },
+            {
+                "name": "Amount",
+                "url": "/topics/amount"
+            },
+            {
+                "name": "Better Time",
+                "url": "/topics/better_time"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mel_karmazin_398010",
+        "quote": "You may not like the humor, but that is why every radio has an on-off button.",
+        "author": {
+            "name": "Mel Karmazin",
+            "url": "/quotes/mel_karmazin_398010"
+        },
+        "topics": [
+            {
+                "name": "Humor",
+                "url": "/topics/humor"
+            },
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Button",
+                "url": "/topics/button"
+            }
+        ]
+    }
+]

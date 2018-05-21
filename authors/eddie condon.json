@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/eddie_condon_111458",
+        "quote": "As it enters the ear, does it come in like broken glass or does it come in like honey?",
+        "author": {
+            "name": "Eddie Condon",
+            "url": "/quotes/eddie_condon_111458"
+        },
+        "topics": [
+            {
+                "name": "Broken",
+                "url": "/topics/broken"
+            },
+            {
+                "name": "Glass",
+                "url": "/topics/glass"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eddie_condon_111457",
+        "quote": "Someday we may have as many followers as the harpsichord.",
+        "author": {
+            "name": "Eddie Condon",
+            "url": "/quotes/eddie_condon_111457"
+        },
+        "topics": [
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Followers",
+                "url": "/topics/followers"
+            },
+            {
+                "name": "Many",
+                "url": "/topics/many"
+            }
+        ]
+    }
+]

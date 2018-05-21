@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/chris_stein_405392",
+        "quote": "In the early days, I often felt that I was taking a math test when we were playing. It was a profound feeling of having to prove myself.",
+        "author": {
+            "name": "Chris Stein",
+            "url": "/quotes/chris_stein_405392"
+        },
+        "topics": [
+            {
+                "name": "Prove",
+                "url": "/topics/prove"
+            },
+            {
+                "name": "Having",
+                "url": "/topics/having"
+            },
+            {
+                "name": "Early Days",
+                "url": "/topics/early_days"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/chris_stein_405140",
+        "quote": "We're a pop art band. Not a pop band.",
+        "author": {
+            "name": "Chris Stein",
+            "url": "/quotes/chris_stein_405140"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Band",
+                "url": "/topics/band"
+            },
+            {
+                "name": "Pop",
+                "url": "/topics/pop"
+            }
+        ]
+    }
+]

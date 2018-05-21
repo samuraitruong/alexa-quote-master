@@ -1,0 +1,60 @@
+[
+    {
+        "url": "/quotes/andy_hobsbawm_553149",
+        "quote": "Great creativity is astonishingly, absurdly, rationally, irrationally powerful.",
+        "author": {
+            "name": "Andy Hobsbawm",
+            "url": "/quotes/andy_hobsbawm_553149"
+        },
+        "topics": [
+            {
+                "name": "Powerful",
+                "url": "/topics/powerful"
+            },
+            {
+                "name": "Rationally",
+                "url": "/topics/rationally"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/andy_hobsbawm_553150",
+        "quote": "The pace of digital innovation is astonishing. It's impossible to imagine life without the web, smartphones, social networks. And yet the consumer products and everyday objects all around us are still essentially dumb.",
+        "author": {
+            "name": "Andy Hobsbawm",
+            "url": "/quotes/andy_hobsbawm_553150"
+        },
+        "topics": [
+            {
+                "name": "Social Networks",
+                "url": "/topics/social_networks"
+            },
+            {
+                "name": "Objects",
+                "url": "/topics/objects"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/andy_hobsbawm_553151",
+        "quote": "Among many other things, a smartphone functions as a handheld digital sensor for the physical world. In other words, we don't necessarily need our real world things to be directly connected, when the Web interface in our mobile devices provides the network access and intelligence.",
+        "author": {
+            "name": "Andy Hobsbawm",
+            "url": "/quotes/andy_hobsbawm_553151"
+        },
+        "topics": [
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Access",
+                "url": "/topics/access"
+            },
+            {
+                "name": "Functions",
+                "url": "/topics/functions"
+            }
+        ]
+    }
+]

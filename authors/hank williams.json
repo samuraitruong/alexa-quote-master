@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/hank_williams_388550",
+        "quote": "You got to have smelt a lot of mule manure before you can sing like a hillbilly.",
+        "author": {
+            "name": "Hank Williams",
+            "url": "/quotes/hank_williams_388550"
+        },
+        "topics": [
+            {
+                "name": "Lot",
+                "url": "/topics/lot"
+            },
+            {
+                "name": "Mule",
+                "url": "/topics/mule"
+            },
+            {
+                "name": "Manure",
+                "url": "/topics/manure"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/hank_williams_188514",
+        "quote": "I was a pretty good imitator of Roy Acuff, but then I found out they already had a Roy Acuff, so I started singin' like myself.",
+        "author": {
+            "name": "Hank Williams",
+            "url": "/quotes/hank_williams_188514"
+        },
+        "topics": [
+            {
+                "name": "Pretty",
+                "url": "/topics/pretty"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Pretty Good",
+                "url": "/topics/pretty_good"
+            }
+        ]
+    }
+]

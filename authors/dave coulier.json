@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/dave_coulier_562996",
+        "quote": "Comedy is a shared experience, and I think it's great to open that to a wide demographic.",
+        "author": {
+            "name": "Dave Coulier",
+            "url": "/quotes/dave_coulier_562996"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Shared",
+                "url": "/topics/shared"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dave_coulier_562997",
+        "quote": "When I was a kid I went and saw Bill Cosby with my dad, and I remember sitting there and laughing so hard.",
+        "author": {
+            "name": "Dave Coulier",
+            "url": "/quotes/dave_coulier_562997"
+        },
+        "topics": [
+            {
+                "name": "Kid",
+                "url": "/topics/kid"
+            },
+            {
+                "name": "I Remember",
+                "url": "/topics/i_remember"
+            },
+            {
+                "name": "Dad",
+                "url": "/topics/dad"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dave_coulier_562998",
+        "quote": "When I walk out on stage, I don't know who's in the audience. To me, in my little fat skull, the laugh is just the widest demographic you can get.",
+        "author": {
+            "name": "Dave Coulier",
+            "url": "/quotes/dave_coulier_562998"
+        },
+        "topics": [
+            {
+                "name": "Audience",
+                "url": "/topics/audience"
+            },
+            {
+                "name": "Out",
+                "url": "/topics/out"
+            },
+            {
+                "name": "Demographic",
+                "url": "/topics/demographic"
+            }
+        ]
+    }
+]

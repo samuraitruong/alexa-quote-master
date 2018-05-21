@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/john_spencer_113961",
+        "quote": "The research rat of the future allows experimentation without manipulation of the real world. This is the cutting edge of modeling technology.",
+        "author": {
+            "name": "John Spencer",
+            "url": "/quotes/john_spencer_113961"
+        },
+        "topics": [
+            {
+                "name": "Technology",
+                "url": "/topics/technology"
+            },
+            {
+                "name": "Modeling",
+                "url": "/topics/modeling"
+            },
+            {
+                "name": "Rat",
+                "url": "/topics/rat"
+            }
+        ]
+    }
+]

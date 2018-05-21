@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/zack_space_405724",
+        "quote": "I'm running because we need change.",
+        "author": {
+            "name": "Zack Space",
+            "url": "/quotes/zack_space_405724"
+        },
+        "topics": [
+            {
+                "name": "Change",
+                "url": "/topics/change"
+            },
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            },
+            {
+                "name": "Running",
+                "url": "/topics/running"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/zack_space_405725",
+        "quote": "It starts with campaign finance reform.",
+        "author": {
+            "name": "Zack Space",
+            "url": "/quotes/zack_space_405725"
+        },
+        "topics": [
+            {
+                "name": "Reform",
+                "url": "/topics/reform"
+            },
+            {
+                "name": "Campaign",
+                "url": "/topics/campaign"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/zack_space_648890",
+        "quote": "I am looking forward to working with Congressman Hobson and Vorys Advisors to help Ohio businesses and organizations achieve their goals and objectives.",
+        "author": {
+            "name": "Zack Space",
+            "url": "/quotes/zack_space_648890"
+        },
+        "topics": [
+            {
+                "name": "Achieve",
+                "url": "/topics/achieve"
+            },
+            {
+                "name": "Forward",
+                "url": "/topics/forward"
+            },
+            {
+                "name": "Ohio",
+                "url": "/topics/ohio"
+            }
+        ]
+    }
+]

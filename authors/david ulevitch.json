@@ -1,0 +1,372 @@
+[
+    {
+        "url": "/quotes/david_ulevitch_529721",
+        "quote": "I grew up in Del Mar, Calif., north of San Diego. I got my first job the summer after eighth grade at a small Internet service provider.",
+        "author": {
+            "name": "David Ulevitch",
+            "url": "/quotes/david_ulevitch_529721"
+        },
+        "topics": [
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "San Diego",
+                "url": "/topics/san_diego"
+            },
+            {
+                "name": "San",
+                "url": "/topics/san"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_ulevitch_529712",
+        "quote": "If people use Chrome, we make less money on our service and that's fine by us because that is fair competition. I wouldn't put Google on a pedestal for competition, but they aren't telling users not to use OpenDNS.",
+        "author": {
+            "name": "David Ulevitch",
+            "url": "/quotes/david_ulevitch_529712"
+        },
+        "topics": [
+            {
+                "name": "Pedestal",
+                "url": "/topics/pedestal"
+            },
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            },
+            {
+                "name": "Telling",
+                "url": "/topics/telling"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_ulevitch_529713",
+        "quote": "I've always enjoyed real work more than schoolwork. My mother will attest to that - she was always concerned about me academically.",
+        "author": {
+            "name": "David Ulevitch",
+            "url": "/quotes/david_ulevitch_529713"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Concerned",
+                "url": "/topics/concerned"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_ulevitch_529714",
+        "quote": "One of my bosses happened to be one of the early architects of some of the ways Internet providers work. He taught me how the cables connect, how the telecom providers work... I learned how to make my own Ethernet cables, all the way up to running a small business.",
+        "author": {
+            "name": "David Ulevitch",
+            "url": "/quotes/david_ulevitch_529714"
+        },
+        "topics": [
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Small Business",
+                "url": "/topics/small_business"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_ulevitch_529715",
+        "quote": "The way that worms and viruses spread on the Internet is not that different from the way they spread in the real world, and the way you quarantine them is not that different, either.",
+        "author": {
+            "name": "David Ulevitch",
+            "url": "/quotes/david_ulevitch_529715"
+        },
+        "topics": [
+            {
+                "name": "Worms",
+                "url": "/topics/worms"
+            },
+            {
+                "name": "Viruses",
+                "url": "/topics/viruses"
+            },
+            {
+                "name": "Them",
+                "url": "/topics/them"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_ulevitch_529716",
+        "quote": "With DNS, it's possible to control key components of Internet navigation. Google already controls search, they are quickly gaining market share to control the browser, and when you put in DNS, it becomes the trifecta of complete navigational control.",
+        "author": {
+            "name": "David Ulevitch",
+            "url": "/quotes/david_ulevitch_529716"
+        },
+        "topics": [
+            {
+                "name": "Controls",
+                "url": "/topics/controls"
+            },
+            {
+                "name": "Components",
+                "url": "/topics/components"
+            },
+            {
+                "name": "Put",
+                "url": "/topics/put"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_ulevitch_529717",
+        "quote": "Google has helped raise the importance of DNS above the network engineering community, which has been really good.",
+        "author": {
+            "name": "David Ulevitch",
+            "url": "/quotes/david_ulevitch_529717"
+        },
+        "topics": [
+            {
+                "name": "Importance",
+                "url": "/topics/importance"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_ulevitch_529718",
+        "quote": "I like the idea of separation of services. ISPs provide a pipe. Other vendors provide security. Other vendors provide email. When one party controls all the services, it's a 'synergy' for the company, but rarely for the consumer.",
+        "author": {
+            "name": "David Ulevitch",
+            "url": "/quotes/david_ulevitch_529718"
+        },
+        "topics": [
+            {
+                "name": "Synergy",
+                "url": "/topics/synergy"
+            },
+            {
+                "name": "Controls",
+                "url": "/topics/controls"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_ulevitch_529719",
+        "quote": "I think anything which promotes heterogeneity on the Internet promotes stability. Diversity in services, service providers, and separating the layers of the networking stack are all important.",
+        "author": {
+            "name": "David Ulevitch",
+            "url": "/quotes/david_ulevitch_529719"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Stack",
+                "url": "/topics/stack"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_ulevitch_529720",
+        "quote": "DNS is kind of the hamster under the hood that drives the Internet.",
+        "author": {
+            "name": "David Ulevitch",
+            "url": "/quotes/david_ulevitch_529720"
+        },
+        "topics": [
+            {
+                "name": "Hood",
+                "url": "/topics/hood"
+            },
+            {
+                "name": "Kind",
+                "url": "/topics/kind"
+            },
+            {
+                "name": "Drives",
+                "url": "/topics/drives"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_ulevitch_529722",
+        "quote": "My mother still sends a cake to the office for my birthday.",
+        "author": {
+            "name": "David Ulevitch",
+            "url": "/quotes/david_ulevitch_529722"
+        },
+        "topics": [
+            {
+                "name": "Mother",
+                "url": "/topics/mother"
+            },
+            {
+                "name": "Birthday",
+                "url": "/topics/birthday"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_ulevitch_529723",
+        "quote": "Occasionally, I make waffles for breakfast for any employee who wants to talk to me. I make them around 8 A.M. as an incentive for people to show up early.",
+        "author": {
+            "name": "David Ulevitch",
+            "url": "/quotes/david_ulevitch_529723"
+        },
+        "topics": [
+            {
+                "name": "Employee",
+                "url": "/topics/employee"
+            },
+            {
+                "name": "Show",
+                "url": "/topics/show"
+            },
+            {
+                "name": "Them",
+                "url": "/topics/them"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_ulevitch_529724",
+        "quote": "People often ask whether I consider myself successful. I don't yet, because there's so much more I want to accomplish. I put more pressure on myself than anyone else can.",
+        "author": {
+            "name": "David Ulevitch",
+            "url": "/quotes/david_ulevitch_529724"
+        },
+        "topics": [
+            {
+                "name": "Myself",
+                "url": "/topics/myself"
+            },
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_ulevitch_529725",
+        "quote": "Maybe it's whiner's fatigue, but I'm getting tired of hearing about how hard it is to start a company and be a CEO. It's not that hard.",
+        "author": {
+            "name": "David Ulevitch",
+            "url": "/quotes/david_ulevitch_529725"
+        },
+        "topics": [
+            {
+                "name": "Tired",
+                "url": "/topics/tired"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Maybe",
+                "url": "/topics/maybe"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_ulevitch_529726",
+        "quote": "Running a successful, growing company in Silicon Valley can create an ironic sort of depression and delusion. The better you're doing, the higher the stakes, and higher expectations for you to win. Maybe that's why people say it's so hard. But that doesn't make it hard. That just makes it distracting.",
+        "author": {
+            "name": "David Ulevitch",
+            "url": "/quotes/david_ulevitch_529726"
+        },
+        "topics": [
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Delusion",
+                "url": "/topics/delusion"
+            },
+            {
+                "name": "Ironic",
+                "url": "/topics/ironic"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_ulevitch_529727",
+        "quote": "When people ask me, 'Are you happy?' I respond with, 'You've asked the wrong question.' There is a deep kind of satisfaction you get from building a company. This kind of satisfaction transcends happy, sad, hard, or easy. I seek satisfaction. I want to be positively disruptive.",
+        "author": {
+            "name": "David Ulevitch",
+            "url": "/quotes/david_ulevitch_529727"
+        },
+        "topics": [
+            {
+                "name": "Deep",
+                "url": "/topics/deep"
+            },
+            {
+                "name": "Happy",
+                "url": "/topics/happy"
+            },
+            {
+                "name": "Seek",
+                "url": "/topics/seek"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_ulevitch_529728",
+        "quote": "There's only one thing that regularly keeps me up at night. Working with the greatest people in the world and knowing that they are counting on me to build a company that endures - a company where they can grow professionally. A company where they can build world-class products and be proud to work.",
+        "author": {
+            "name": "David Ulevitch",
+            "url": "/quotes/david_ulevitch_529728"
+        },
+        "topics": [
+            {
+                "name": "Products",
+                "url": "/topics/products"
+            },
+            {
+                "name": "World-Class",
+                "url": "/topics/world-class"
+            }
+        ]
+    }
+]

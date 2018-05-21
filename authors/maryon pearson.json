@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/maryon_pearson_170179",
+        "quote": "Behind every great man there is a suprised woman.",
+        "author": {
+            "name": "Maryon Pearson",
+            "url": "/quotes/maryon_pearson_170179"
+        },
+        "topics": [
+            {
+                "name": "Woman",
+                "url": "/topics/woman"
+            },
+            {
+                "name": "Great Man",
+                "url": "/topics/great_man"
+            },
+            {
+                "name": "Behind",
+                "url": "/topics/behind"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/maryon_pearson_178079",
+        "quote": "We lost everything. We even won our own constituency.",
+        "author": {
+            "name": "Maryon Pearson",
+            "url": "/quotes/maryon_pearson_178079"
+        },
+        "topics": [
+            {
+                "name": "Lost",
+                "url": "/topics/lost"
+            },
+            {
+                "name": "Even",
+                "url": "/topics/even"
+            },
+            {
+                "name": "Won",
+                "url": "/topics/won"
+            }
+        ]
+    }
+]

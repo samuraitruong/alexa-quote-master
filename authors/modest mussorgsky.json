@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/modest_mussorgsky_309507",
+        "quote": "Art is not an end in itself, but a means of addressing humanity.",
+        "author": {
+            "name": "Modest Mussorgsky",
+            "url": "/quotes/modest_mussorgsky_309507"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Means",
+                "url": "/topics/means"
+            },
+            {
+                "name": "Addressing",
+                "url": "/topics/addressing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/modest_mussorgsky_310970",
+        "quote": "Thanks to nanny, I've got a deep understanding of Russian tales.",
+        "author": {
+            "name": "Modest Mussorgsky",
+            "url": "/quotes/modest_mussorgsky_310970"
+        },
+        "topics": [
+            {
+                "name": "Deep",
+                "url": "/topics/deep"
+            },
+            {
+                "name": "Thanks",
+                "url": "/topics/thanks"
+            },
+            {
+                "name": "Russian",
+                "url": "/topics/russian"
+            }
+        ]
+    }
+]

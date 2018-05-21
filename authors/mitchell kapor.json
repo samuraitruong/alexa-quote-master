@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/mitchell_kapor_163583",
+        "quote": "Getting information off the Internet is like taking a drink from a fire hydrant.",
+        "author": {
+            "name": "Mitchell Kapor",
+            "url": "/quotes/mitchell_kapor_163583"
+        },
+        "topics": [
+            {
+                "name": "Technology",
+                "url": "/topics/technology"
+            },
+            {
+                "name": "Getting",
+                "url": "/topics/getting"
+            },
+            {
+                "name": "Hydrant",
+                "url": "/topics/hydrant"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mitchell_kapor_129883",
+        "quote": "Architecture is politics.",
+        "author": {
+            "name": "Mitchell Kapor",
+            "url": "/quotes/mitchell_kapor_129883"
+        },
+        "topics": [
+            {
+                "name": "Politics",
+                "url": "/topics/politics"
+            },
+            {
+                "name": "Architecture",
+                "url": "/topics/architecture"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mitchell_kapor_129884",
+        "quote": "Inside every working anarchy, there's an Old Boy Network.",
+        "author": {
+            "name": "Mitchell Kapor",
+            "url": "/quotes/mitchell_kapor_129884"
+        },
+        "topics": [
+            {
+                "name": "Business",
+                "url": "/topics/business"
+            },
+            {
+                "name": "Working",
+                "url": "/topics/working"
+            },
+            {
+                "name": "Old",
+                "url": "/topics/old"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mitchell_kapor_169702",
+        "quote": "What is design? It's where you stand with a foot in two worlds - the world of technology and the world of people and human purposes - and you try to bring the two together.",
+        "author": {
+            "name": "Mitchell Kapor",
+            "url": "/quotes/mitchell_kapor_169702"
+        },
+        "topics": [
+            {
+                "name": "Design",
+                "url": "/topics/design"
+            },
+            {
+                "name": "Bring",
+                "url": "/topics/bring"
+            },
+            {
+                "name": "Worlds",
+                "url": "/topics/worlds"
+            }
+        ]
+    }
+]

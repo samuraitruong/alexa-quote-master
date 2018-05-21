@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/hugo_claus_229101",
+        "quote": "In spring they lie flat at the first warmth, they ruin my summer and in autumn they smell of women.",
+        "author": {
+            "name": "Hugo Claus",
+            "url": "/quotes/hugo_claus_229101"
+        },
+        "topics": [
+            {
+                "name": "Spring",
+                "url": "/topics/spring"
+            },
+            {
+                "name": "Warmth",
+                "url": "/topics/warmth"
+            },
+            {
+                "name": "Flat",
+                "url": "/topics/flat"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/hugo_claus_229098",
+        "quote": "My verses stand gawping a bit. I never get used to this. They've lived here long enough.",
+        "author": {
+            "name": "Hugo Claus",
+            "url": "/quotes/hugo_claus_229098"
+        },
+        "topics": [
+            {
+                "name": "Enough",
+                "url": "/topics/enough"
+            },
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            },
+            {
+                "name": "Used",
+                "url": "/topics/used"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/hugo_claus_229103",
+        "quote": "Go now, verses, on your light feet, you have not trodden hard on the old earth where the graves laugh when they see their guests, the one corpse stacked on top of the other. Go now and stagger to her whom I do not know.",
+        "author": {
+            "name": "Hugo Claus",
+            "url": "/quotes/hugo_claus_229103"
+        },
+        "topics": [
+            {
+                "name": "Feet",
+                "url": "/topics/feet"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Stacked",
+                "url": "/topics/stacked"
+            }
+        ]
+    }
+]

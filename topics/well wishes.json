@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/aristotle_164315?src=t_well_wishes",
+        "quote": "My best friend is the man who in wishing me well wishes it for my sake.",
+        "author": {
+            "name": "Aristotle",
+            "url": "/authors/aristotle"
+        },
+        "topics": [
+            {
+                "name": "Friendship",
+                "url": "/topics/friendship"
+            },
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Friend",
+                "url": "/topics/friend"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/holly_marie_combs_853607?src=t_well_wishes",
+        "quote": "The WB never treated us well, so we didn't expect a lot of farewell wishes and flowers or cards.",
+        "author": {
+            "name": "Holly Marie Combs",
+            "url": "/authors/holly_marie_combs"
+        },
+        "topics": [
+            {
+                "name": "Flowers",
+                "url": "/topics/flowers"
+            },
+            {
+                "name": "Cards",
+                "url": "/topics/cards"
+            },
+            {
+                "name": "Treated",
+                "url": "/topics/treated"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_dickerson_841342?src=t_well_wishes",
+        "quote": "When the news broke that John McCain had been diagnosed with brain cancer, the outpouring of well wishes all hailed his toughness.",
+        "author": {
+            "name": "John Dickerson",
+            "url": "/authors/john_dickerson"
+        },
+        "topics": [
+            {
+                "name": "News",
+                "url": "/topics/news"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Broke",
+                "url": "/topics/broke"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/leann_rimes_414886?src=t_well_wishes",
+        "quote": "Eddie and I are overwhelmed by the amount of lovely well wishes. We are blessed and.... I'm Mrs. Cibrian!",
+        "author": {
+            "name": "LeAnn Rimes",
+            "url": "/authors/leann_rimes"
+        },
+        "topics": [
+            {
+                "name": "Lovely",
+                "url": "/topics/lovely"
+            },
+            {
+                "name": "Overwhelmed",
+                "url": "/topics/overwhelmed"
+            },
+            {
+                "name": "Amount",
+                "url": "/topics/amount"
+            }
+        ]
+    }
+]

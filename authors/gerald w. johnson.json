@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/gerald_w_johnson_401434",
+        "quote": "Nothing changes more constantly than the past; for the past that influences our lives does not consist of what actually happened, but of what men believe happened.",
+        "author": {
+            "name": "Gerald W. Johnson",
+            "url": "/quotes/gerald_w_johnson_401434"
+        },
+        "topics": [
+            {
+                "name": "Past",
+                "url": "/topics/past"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Lives",
+                "url": "/topics/lives"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gerald_w_johnson_402886",
+        "quote": "Heroes are created by popular demand, sometimes out of the scantiest materials, or none at all.",
+        "author": {
+            "name": "Gerald W. Johnson",
+            "url": "/quotes/gerald_w_johnson_402886"
+        },
+        "topics": [
+            {
+                "name": "Heroes",
+                "url": "/topics/heroes"
+            },
+            {
+                "name": "Materials",
+                "url": "/topics/materials"
+            },
+            {
+                "name": "Created",
+                "url": "/topics/created"
+            }
+        ]
+    }
+]

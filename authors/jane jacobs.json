@@ -1,0 +1,104 @@
+[
+    {
+        "url": "/quotes/jane_jacobs_183478",
+        "quote": "There is a quality even meaner than outright ugliness or disorder, and this meaner quality is the dishonest mask of pretended order, achieved by ignoring or suppressing the real order that is struggling to exist and to be served.",
+        "author": {
+            "name": "Jane Jacobs",
+            "url": "/quotes/jane_jacobs_183478"
+        },
+        "topics": [
+            {
+                "name": "Dishonest",
+                "url": "/topics/dishonest"
+            },
+            {
+                "name": "Suppressing",
+                "url": "/topics/suppressing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jane_jacobs_169648",
+        "quote": "Design is people.",
+        "author": {
+            "name": "Jane Jacobs",
+            "url": "/quotes/jane_jacobs_169648"
+        },
+        "topics": [
+            {
+                "name": "People",
+                "url": "/topics/people"
+            },
+            {
+                "name": "Design",
+                "url": "/topics/design"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jane_jacobs_102175",
+        "quote": "The point of cities is multiplicity of choice.",
+        "author": {
+            "name": "Jane Jacobs",
+            "url": "/quotes/jane_jacobs_102175"
+        },
+        "topics": [
+            {
+                "name": "Choice",
+                "url": "/topics/choice"
+            },
+            {
+                "name": "Multiplicity",
+                "url": "/topics/multiplicity"
+            },
+            {
+                "name": "Cities",
+                "url": "/topics/cities"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jane_jacobs_399802",
+        "quote": "Sentimentality about nature denatures everything it touches.",
+        "author": {
+            "name": "Jane Jacobs",
+            "url": "/quotes/jane_jacobs_399802"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "Everything",
+                "url": "/topics/everything"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jane_jacobs_402052",
+        "quote": "Some men tend to cling to old intellectual excitements, just as some belles, when they are old ladies, still cling to the fashions and coiffures of their exciting youth.",
+        "author": {
+            "name": "Jane Jacobs",
+            "url": "/quotes/jane_jacobs_402052"
+        },
+        "topics": [
+            {
+                "name": "Old",
+                "url": "/topics/old"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            }
+        ]
+    }
+]

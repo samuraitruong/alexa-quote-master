@@ -1,0 +1,244 @@
+[
+    {
+        "url": "/quotes/vijay_kumar_630322",
+        "quote": "Drinking a cup of coffee with your eyes closed isn't a sophisticated task for a person, but it's hard for a robot.",
+        "author": {
+            "name": "Vijay Kumar",
+            "url": "/quotes/vijay_kumar_630322"
+        },
+        "topics": [
+            {
+                "name": "Robot",
+                "url": "/topics/robot"
+            },
+            {
+                "name": "Sophisticated",
+                "url": "/topics/sophisticated"
+            },
+            {
+                "name": "Task",
+                "url": "/topics/task"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/vijay_kumar_630323",
+        "quote": "If you want a robot to maneuver aggressively, it has to be small. As you scale things down, the 'moment of inertia' - the resistance to angular motion - drops dramatically.",
+        "author": {
+            "name": "Vijay Kumar",
+            "url": "/quotes/vijay_kumar_630323"
+        },
+        "topics": [
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Motion",
+                "url": "/topics/motion"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/vijay_kumar_630327",
+        "quote": "Robots are good at things that are structured.",
+        "author": {
+            "name": "Vijay Kumar",
+            "url": "/quotes/vijay_kumar_630327"
+        },
+        "topics": [
+            {
+                "name": "Robots",
+                "url": "/topics/robots"
+            },
+            {
+                "name": "Things",
+                "url": "/topics/things"
+            },
+            {
+                "name": "Structured",
+                "url": "/topics/structured"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/vijay_kumar_630328",
+        "quote": "We can make aircrafts that can navigate a maze of hallways.",
+        "author": {
+            "name": "Vijay Kumar",
+            "url": "/quotes/vijay_kumar_630328"
+        },
+        "topics": [
+            {
+                "name": "Navigate",
+                "url": "/topics/navigate"
+            },
+            {
+                "name": "Maze",
+                "url": "/topics/maze"
+            },
+            {
+                "name": "Make",
+                "url": "/topics/make"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/vijay_kumar_630318",
+        "quote": "When you play piano, your left hand and right hand are synced. Your brain basically has a clock, so that the right hand knows that 0.3 seconds after I hit this key, I need to hit that one. And the right hand knows not to hit keys that the left hand is playing, so the hands do not collide.",
+        "author": {
+            "name": "Vijay Kumar",
+            "url": "/quotes/vijay_kumar_630318"
+        },
+        "topics": [
+            {
+                "name": "Hands",
+                "url": "/topics/hands"
+            },
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Keys",
+                "url": "/topics/keys"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/vijay_kumar_630319",
+        "quote": "I have this dream that the first responders to 911 calls will not be law enforcement personnel but robots. Robots can put eyes and ears on the scene much faster than you can with policemen or women.",
+        "author": {
+            "name": "Vijay Kumar",
+            "url": "/quotes/vijay_kumar_630319"
+        },
+        "topics": [
+            {
+                "name": "Law",
+                "url": "/topics/law"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Enforcement",
+                "url": "/topics/enforcement"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/vijay_kumar_630320",
+        "quote": "Normally, in the presence of radiation, communication links fail. But with autonomous robots, you don't need communications.",
+        "author": {
+            "name": "Vijay Kumar",
+            "url": "/quotes/vijay_kumar_630320"
+        },
+        "topics": [
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            },
+            {
+                "name": "Fail",
+                "url": "/topics/fail"
+            },
+            {
+                "name": "Communications",
+                "url": "/topics/communications"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/vijay_kumar_630321",
+        "quote": "If I say 'Find me an interesting painting' to Google, someday a robot could go around the Picasso museum and take a picture for me.",
+        "author": {
+            "name": "Vijay Kumar",
+            "url": "/quotes/vijay_kumar_630321"
+        },
+        "topics": [
+            {
+                "name": "Interesting",
+                "url": "/topics/interesting"
+            },
+            {
+                "name": "Go",
+                "url": "/topics/go"
+            },
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/vijay_kumar_630324",
+        "quote": "Our nano-quadrotor robots are made to be as lightweight as possible: less than a fifth of a pound and palm-sized. They can do an aerial backflip in half a second, accelerate at two Gs, and fly rotor blade to rotor blade in three-dimensional formations - and they do all this autonomously.",
+        "author": {
+            "name": "Vijay Kumar",
+            "url": "/quotes/vijay_kumar_630324"
+        },
+        "topics": [
+            {
+                "name": "Half",
+                "url": "/topics/half"
+            },
+            {
+                "name": "Aerial",
+                "url": "/topics/aerial"
+            },
+            {
+                "name": "Our",
+                "url": "/topics/our"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/vijay_kumar_630325",
+        "quote": "The big mathematical challenge for flying robots is making them move in six dimensions: x, y, z, pitch, yaw and roll. We create 3-D obstacle courses in the lab - windows, doors, hula-hoops taped to posts - and ask the robots to fly through. It looks like a Harry Potter Quidditch match.",
+        "author": {
+            "name": "Vijay Kumar",
+            "url": "/quotes/vijay_kumar_630325"
+        },
+        "topics": [
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Harry",
+                "url": "/topics/harry"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/vijay_kumar_630326",
+        "quote": "Clearly, humans will always have a role to play in emergency response for law enforcement. But if there's an emergency, if there's a 911 call, the question is, do you want a human dashing off to respond to it right away?",
+        "author": {
+            "name": "Vijay Kumar",
+            "url": "/quotes/vijay_kumar_630326"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Role",
+                "url": "/topics/role"
+            },
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            }
+        ]
+    }
+]

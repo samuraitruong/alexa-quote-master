@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/eddie_jones_194542",
+        "quote": "We got guys who can score. Everybody knows guys can score.",
+        "author": {
+            "name": "Eddie Jones",
+            "url": "/quotes/eddie_jones_194542"
+        },
+        "topics": [
+            {
+                "name": "Guys",
+                "url": "/topics/guys"
+            },
+            {
+                "name": "Score",
+                "url": "/topics/score"
+            },
+            {
+                "name": "Everybody",
+                "url": "/topics/everybody"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eddie_jones_405878",
+        "quote": "Home court changes everything. If you have home court, you're expected to win.",
+        "author": {
+            "name": "Eddie Jones",
+            "url": "/quotes/eddie_jones_405878"
+        },
+        "topics": [
+            {
+                "name": "Changes",
+                "url": "/topics/changes"
+            },
+            {
+                "name": "Court",
+                "url": "/topics/court"
+            },
+            {
+                "name": "Expected",
+                "url": "/topics/expected"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eddie_jones_649673",
+        "quote": "Homecourt is everything in the NBA.",
+        "author": {
+            "name": "Eddie Jones",
+            "url": "/quotes/eddie_jones_649673"
+        },
+        "topics": [
+            {
+                "name": "Everything",
+                "url": "/topics/everything"
+            },
+            {
+                "name": "NBA",
+                "url": "/topics/nba"
+            }
+        ]
+    }
+]

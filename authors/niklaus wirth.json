@@ -1,0 +1,452 @@
+[
+    {
+        "url": "/quotes/niklaus_wirth_306078",
+        "quote": "The possible solutions to a given problem emerge as the leaves of a tree, each node representing a point of deliberation and decision.",
+        "author": {
+            "name": "Niklaus Wirth",
+            "url": "/quotes/niklaus_wirth_306078"
+        },
+        "topics": [
+            {
+                "name": "Decision",
+                "url": "/topics/decision"
+            },
+            {
+                "name": "Solutions",
+                "url": "/topics/solutions"
+            },
+            {
+                "name": "Given",
+                "url": "/topics/given"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/niklaus_wirth_306053",
+        "quote": "But quality of work can be expected only through personal satisfaction, dedication and enjoyment. In our profession, precision and perfection are not a dispensible luxury, but a simple necessity.",
+        "author": {
+            "name": "Niklaus Wirth",
+            "url": "/quotes/niklaus_wirth_306053"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Profession",
+                "url": "/topics/profession"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/niklaus_wirth_306056",
+        "quote": "Experience shows that the success of a programming course critically depends on the choice of these examples.",
+        "author": {
+            "name": "Niklaus Wirth",
+            "url": "/quotes/niklaus_wirth_306056"
+        },
+        "topics": [
+            {
+                "name": "Examples",
+                "url": "/topics/examples"
+            },
+            {
+                "name": "Critically",
+                "url": "/topics/critically"
+            },
+            {
+                "name": "Shows",
+                "url": "/topics/shows"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/niklaus_wirth_306046",
+        "quote": "A good designer must rely on experience, on precise, logic thinking; and on pedantic exactness. No magic will do.",
+        "author": {
+            "name": "Niklaus Wirth",
+            "url": "/quotes/niklaus_wirth_306046"
+        },
+        "topics": [
+            {
+                "name": "Magic",
+                "url": "/topics/magic"
+            },
+            {
+                "name": "Design",
+                "url": "/topics/design"
+            },
+            {
+                "name": "Rely",
+                "url": "/topics/rely"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/niklaus_wirth_306072",
+        "quote": "Program construction consists of a sequence of refinement steps.",
+        "author": {
+            "name": "Niklaus Wirth",
+            "url": "/quotes/niklaus_wirth_306072"
+        },
+        "topics": [
+            {
+                "name": "Construction",
+                "url": "/topics/construction"
+            },
+            {
+                "name": "Sequence",
+                "url": "/topics/sequence"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/niklaus_wirth_306073",
+        "quote": "Programming is usually taught by examples.",
+        "author": {
+            "name": "Niklaus Wirth",
+            "url": "/quotes/niklaus_wirth_306073"
+        },
+        "topics": [
+            {
+                "name": "Taught",
+                "url": "/topics/taught"
+            },
+            {
+                "name": "Examples",
+                "url": "/topics/examples"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/niklaus_wirth_306074",
+        "quote": "Software development is technical activity conducted by human beings.",
+        "author": {
+            "name": "Niklaus Wirth",
+            "url": "/quotes/niklaus_wirth_306074"
+        },
+        "topics": [
+            {
+                "name": "Development",
+                "url": "/topics/development"
+            },
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/niklaus_wirth_306052",
+        "quote": "But active programming consists of the design of new programs, rather than contemplation of old programs.",
+        "author": {
+            "name": "Niklaus Wirth",
+            "url": "/quotes/niklaus_wirth_306052"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Old",
+                "url": "/topics/old"
+            },
+            {
+                "name": "Rather",
+                "url": "/topics/rather"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/niklaus_wirth_306061",
+        "quote": "In the practical world of computing, it is rather uncommon that a program, once it performs correctly and satisfactorily, remains unchanged forever.",
+        "author": {
+            "name": "Niklaus Wirth",
+            "url": "/quotes/niklaus_wirth_306061"
+        },
+        "topics": [
+            {
+                "name": "Computers",
+                "url": "/topics/computers"
+            },
+            {
+                "name": "Rather",
+                "url": "/topics/rather"
+            },
+            {
+                "name": "Performs",
+                "url": "/topics/performs"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/niklaus_wirth_306081",
+        "quote": "Yet, I am convinced that there is a need for high quality software, and the time will come when it will be recognized that it is worth investing effort in its development and in using a careful, structured approach based on safe, structured languages.",
+        "author": {
+            "name": "Niklaus Wirth",
+            "url": "/quotes/niklaus_wirth_306081"
+        },
+        "topics": [
+            {
+                "name": "Effort",
+                "url": "/topics/effort"
+            },
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "Careful",
+                "url": "/topics/careful"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/niklaus_wirth_306077",
+        "quote": "The idea that one might derive satisfaction from his or her successful work, because that work is ingenious, beautiful, or just pleasing, has become ridiculed.",
+        "author": {
+            "name": "Niklaus Wirth",
+            "url": "/quotes/niklaus_wirth_306077"
+        },
+        "topics": [
+            {
+                "name": "Idea",
+                "url": "/topics/idea"
+            },
+            {
+                "name": "Ingenious",
+                "url": "/topics/ingenious"
+            },
+            {
+                "name": "Might",
+                "url": "/topics/might"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/niklaus_wirth_306054",
+        "quote": "Clearly, programming courses should teach methods of design and construction, and the selected examples should be such that a gradual development can be nicely demonstrated.",
+        "author": {
+            "name": "Niklaus Wirth",
+            "url": "/quotes/niklaus_wirth_306054"
+        },
+        "topics": [
+            {
+                "name": "Gradual",
+                "url": "/topics/gradual"
+            },
+            {
+                "name": "Courses",
+                "url": "/topics/courses"
+            },
+            {
+                "name": "Nicely",
+                "url": "/topics/nicely"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/niklaus_wirth_306057",
+        "quote": "I have never designed a language for its own sake.",
+        "author": {
+            "name": "Niklaus Wirth",
+            "url": "/quotes/niklaus_wirth_306057"
+        },
+        "topics": [
+            {
+                "name": "Language",
+                "url": "/topics/language"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/niklaus_wirth_306062",
+        "quote": "Indeed, the woes of Software Engineering are not due to lack of tools, or proper management, but largely due to lack of sufficient technical competence.",
+        "author": {
+            "name": "Niklaus Wirth",
+            "url": "/quotes/niklaus_wirth_306062"
+        },
+        "topics": [
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "Technical",
+                "url": "/topics/technical"
+            },
+            {
+                "name": "Proper",
+                "url": "/topics/proper"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/niklaus_wirth_306063",
+        "quote": "It is evidently necessary to generate and test candidates for solutions in some systematic manner.",
+        "author": {
+            "name": "Niklaus Wirth",
+            "url": "/quotes/niklaus_wirth_306063"
+        },
+        "topics": [
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Candidates",
+                "url": "/topics/candidates"
+            },
+            {
+                "name": "Necessary",
+                "url": "/topics/necessary"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/niklaus_wirth_306066",
+        "quote": "Many people tend to look at programming styles and languages like religions: if you belong to one, you cannot belong to others. But this analogy is another fallacy.",
+        "author": {
+            "name": "Niklaus Wirth",
+            "url": "/quotes/niklaus_wirth_306066"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Belong",
+                "url": "/topics/belong"
+            },
+            {
+                "name": "Languages",
+                "url": "/topics/languages"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/niklaus_wirth_306067",
+        "quote": "My being a teacher had a decisive influence on making language and systems as simple as possible so that in my teaching, I could concentrate on the essential issues of programming rather than on details of language and notation.",
+        "author": {
+            "name": "Niklaus Wirth",
+            "url": "/quotes/niklaus_wirth_306067"
+        },
+        "topics": [
+            {
+                "name": "Making",
+                "url": "/topics/making"
+            },
+            {
+                "name": "Rather",
+                "url": "/topics/rather"
+            },
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/niklaus_wirth_306068",
+        "quote": "My duty as a teacher is to train, educate future programmers.",
+        "author": {
+            "name": "Niklaus Wirth",
+            "url": "/quotes/niklaus_wirth_306068"
+        },
+        "topics": [
+            {
+                "name": "Future",
+                "url": "/topics/future"
+            },
+            {
+                "name": "Teacher",
+                "url": "/topics/teacher"
+            },
+            {
+                "name": "Duty",
+                "url": "/topics/duty"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/niklaus_wirth_306069",
+        "quote": "Nevertheless, I consider OOP as an aspect of programming in the large; that is, as an aspect that logically follows programming in the small and requires sound knowledge of procedural programming.",
+        "author": {
+            "name": "Niklaus Wirth",
+            "url": "/quotes/niklaus_wirth_306069"
+        },
+        "topics": [
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Large",
+                "url": "/topics/large"
+            },
+            {
+                "name": "Nevertheless",
+                "url": "/topics/nevertheless"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/niklaus_wirth_306070",
+        "quote": "Our ultimate goal is extensible programming (EP). By this, we mean the construction of hierarchies of modules, each module adding new functionality to the system.",
+        "author": {
+            "name": "Niklaus Wirth",
+            "url": "/quotes/niklaus_wirth_306070"
+        },
+        "topics": [
+            {
+                "name": "Goal",
+                "url": "/topics/goal"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Ultimate Goal",
+                "url": "/topics/ultimate_goal"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/niklaus_wirth_306080",
+        "quote": "Usually its users discover sooner or later that their program does not deliver all the desired results, or worse, that the results requested were not the ones really needed.",
+        "author": {
+            "name": "Niklaus Wirth",
+            "url": "/quotes/niklaus_wirth_306080"
+        },
+        "topics": [
+            {
+                "name": "Discover",
+                "url": "/topics/discover"
+            },
+            {
+                "name": "Needed",
+                "url": "/topics/needed"
+            },
+            {
+                "name": "Sooner",
+                "url": "/topics/sooner"
+            }
+        ]
+    }
+]

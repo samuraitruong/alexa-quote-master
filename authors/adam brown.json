@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/adam_brown_631591",
+        "quote": "As a first movie, 'The Hobbit' is not a bad place to start.",
+        "author": {
+            "name": "Adam Brown",
+            "url": "/quotes/adam_brown_631591"
+        },
+        "topics": [
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            },
+            {
+                "name": "Movie",
+                "url": "/topics/movie"
+            },
+            {
+                "name": "Hobbit",
+                "url": "/topics/hobbit"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/adam_brown_631592",
+        "quote": "It was just really odd to be in a room with Ian McKellen sharing cucumber sandwiches.",
+        "author": {
+            "name": "Adam Brown",
+            "url": "/quotes/adam_brown_631592"
+        },
+        "topics": [
+            {
+                "name": "Sandwiches",
+                "url": "/topics/sandwiches"
+            },
+            {
+                "name": "Cucumber",
+                "url": "/topics/cucumber"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/adam_brown_631593",
+        "quote": "My first film is coming out, and it's in 3D, and it's 'The Hobbit,' so it's a bit weird.",
+        "author": {
+            "name": "Adam Brown",
+            "url": "/quotes/adam_brown_631593"
+        },
+        "topics": [
+            {
+                "name": "Weird",
+                "url": "/topics/weird"
+            },
+            {
+                "name": "Film",
+                "url": "/topics/film"
+            },
+            {
+                "name": "Hobbit",
+                "url": "/topics/hobbit"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/adam_brown_631594",
+        "quote": "You kind of forget he's Peter Jackson in a way because he's so normal; he's lovely. It's like having a friend direct you, except it's Peter Jackson.",
+        "author": {
+            "name": "Adam Brown",
+            "url": "/quotes/adam_brown_631594"
+        },
+        "topics": [
+            {
+                "name": "Normal",
+                "url": "/topics/normal"
+            },
+            {
+                "name": "Lovely",
+                "url": "/topics/lovely"
+            },
+            {
+                "name": "Having",
+                "url": "/topics/having"
+            }
+        ]
+    }
+]

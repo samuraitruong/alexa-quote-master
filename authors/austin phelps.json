@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/austin_phelps_170535",
+        "quote": "Wear the old coat and buy the new book.",
+        "author": {
+            "name": "Austin Phelps",
+            "url": "/quotes/austin_phelps_170535"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Old",
+                "url": "/topics/old"
+            },
+            {
+                "name": "Coat",
+                "url": "/topics/coat"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/austin_phelps_297751",
+        "quote": "Are you living for the things you are praying for?",
+        "author": {
+            "name": "Austin Phelps",
+            "url": "/quotes/austin_phelps_297751"
+        },
+        "topics": [
+            {
+                "name": "Living",
+                "url": "/topics/living"
+            },
+            {
+                "name": "Things",
+                "url": "/topics/things"
+            },
+            {
+                "name": "Praying",
+                "url": "/topics/praying"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/william_f_devault_167573",
+        "quote": "A quote is just a tattoo on the tongue.",
+        "author": {
+            "name": "William F. DeVault",
+            "url": "/quotes/william_f_devault_167573"
+        },
+        "topics": [
+            {
+                "name": "Tongue",
+                "url": "/topics/tongue"
+            },
+            {
+                "name": "Tattoo",
+                "url": "/topics/tattoo"
+            },
+            {
+                "name": "Quote",
+                "url": "/topics/quote"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_f_devault_167575",
+        "quote": "The existence of a single atheist does not disprove the existence of God.",
+        "author": {
+            "name": "William F. DeVault",
+            "url": "/quotes/william_f_devault_167575"
+        },
+        "topics": [
+            {
+                "name": "Single",
+                "url": "/topics/single"
+            },
+            {
+                "name": "Existence",
+                "url": "/topics/existence"
+            },
+            {
+                "name": "Does",
+                "url": "/topics/does"
+            }
+        ]
+    }
+]

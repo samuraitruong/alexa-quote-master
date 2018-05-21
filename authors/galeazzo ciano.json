@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/galeazzo_ciano_316335",
+        "quote": "Victory has a hundred fathers but defeat is an orphan.",
+        "author": {
+            "name": "Galeazzo Ciano",
+            "url": "/quotes/galeazzo_ciano_316335"
+        },
+        "topics": [
+            {
+                "name": "Defeat",
+                "url": "/topics/defeat"
+            },
+            {
+                "name": "Hundred",
+                "url": "/topics/hundred"
+            },
+            {
+                "name": "Fathers",
+                "url": "/topics/fathers"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/galeazzo_ciano_316340",
+        "quote": "The German decision to fight is implacable. Even if they were given more than they ask, they would attack just the same, because they are possessed by the demon of destruction.",
+        "author": {
+            "name": "Galeazzo Ciano",
+            "url": "/quotes/galeazzo_ciano_316340"
+        },
+        "topics": [
+            {
+                "name": "Decision",
+                "url": "/topics/decision"
+            },
+            {
+                "name": "German",
+                "url": "/topics/german"
+            },
+            {
+                "name": "Given",
+                "url": "/topics/given"
+            }
+        ]
+    }
+]

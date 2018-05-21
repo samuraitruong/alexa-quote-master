@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/paul_vixie_184065",
+        "quote": "The internet is not for sissies.",
+        "author": {
+            "name": "Paul Vixie",
+            "url": "/quotes/paul_vixie_184065"
+        },
+        "topics": [
+            {
+                "name": "Computers",
+                "url": "/topics/computers"
+            },
+            {
+                "name": "Internet",
+                "url": "/topics/internet"
+            },
+            {
+                "name": "Sissies",
+                "url": "/topics/sissies"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_vixie_184066",
+        "quote": "You sound like a man with a vision. Care to pass that bong over this way?",
+        "author": {
+            "name": "Paul Vixie",
+            "url": "/quotes/paul_vixie_184066"
+        },
+        "topics": [
+            {
+                "name": "Vision",
+                "url": "/topics/vision"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_vixie_407134",
+        "quote": "It's as if our electric grid didn't even have fences around it. This is disgraceful what we do, and what we don't do, to protect the Internet.",
+        "author": {
+            "name": "Paul Vixie",
+            "url": "/quotes/paul_vixie_407134"
+        },
+        "topics": [
+            {
+                "name": "Electric",
+                "url": "/topics/electric"
+            },
+            {
+                "name": "Our",
+                "url": "/topics/our"
+            },
+            {
+                "name": "Disgraceful",
+                "url": "/topics/disgraceful"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_vixie_407135",
+        "quote": "The Internet is no longer the kind of thing where only six guys in the world can build it. Now, you can write a couple of checks and get one of your own.",
+        "author": {
+            "name": "Paul Vixie",
+            "url": "/quotes/paul_vixie_407135"
+        },
+        "topics": [
+            {
+                "name": "Kind",
+                "url": "/topics/kind"
+            },
+            {
+                "name": "Couple",
+                "url": "/topics/couple"
+            },
+            {
+                "name": "Six",
+                "url": "/topics/six"
+            }
+        ]
+    }
+]

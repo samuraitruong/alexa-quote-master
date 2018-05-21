@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/chuck_klein_651580",
+        "quote": "I worked on a farm. Played ball and loafed along the fishing and swimming holes of the White River, and my boyhood was not a lot different from that of other youngsters.",
+        "author": {
+            "name": "Chuck Klein",
+            "url": "/quotes/chuck_klein_651580"
+        },
+        "topics": [
+            {
+                "name": "Fishing",
+                "url": "/topics/fishing"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Youngsters",
+                "url": "/topics/youngsters"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/chuck_klein_651581",
+        "quote": "I avoided as much work as possible in the classroom, but did all the work possible on the ball field.",
+        "author": {
+            "name": "Chuck Klein",
+            "url": "/quotes/chuck_klein_651581"
+        },
+        "topics": [
+            {
+                "name": "Avoided",
+                "url": "/topics/avoided"
+            },
+            {
+                "name": "Ball",
+                "url": "/topics/ball"
+            },
+            {
+                "name": "Field",
+                "url": "/topics/field"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/chuck_klein_651582",
+        "quote": "There is one thing I can say about working in a steel mill. If it does not kill you, it will make a man out of you.",
+        "author": {
+            "name": "Chuck Klein",
+            "url": "/quotes/chuck_klein_651582"
+        },
+        "topics": [
+            {
+                "name": "Steel",
+                "url": "/topics/steel"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "One Thing",
+                "url": "/topics/one_thing"
+            }
+        ]
+    }
+]

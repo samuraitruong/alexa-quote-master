@@ -1,0 +1,20 @@
+[
+    {
+        "url": "/quotes/mary_queen_of_scots_188345",
+        "quote": "In my end is my beginning.",
+        "author": {
+            "name": "Mary Queen of Scots",
+            "url": "/quotes/mary_queen_of_scots_188345"
+        },
+        "topics": [
+            {
+                "name": "Beginning",
+                "url": "/topics/beginning"
+            },
+            {
+                "name": "End",
+                "url": "/topics/end"
+            }
+        ]
+    }
+]

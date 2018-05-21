@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/henry_bromell_533546",
+        "quote": "I went to school with a guy named Truxton. He and I played football together, and he knocked me out once because he's bigger and strong than I am.",
+        "author": {
+            "name": "Henry Bromell",
+            "url": "/quotes/henry_bromell_533546"
+        },
+        "topics": [
+            {
+                "name": "Strong",
+                "url": "/topics/strong"
+            },
+            {
+                "name": "Bigger",
+                "url": "/topics/bigger"
+            },
+            {
+                "name": "Named",
+                "url": "/topics/named"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henry_bromell_533547",
+        "quote": "It's hard enough to tell good stories about people who analyze information for a living. It's even harder to do a good show about people who think for a living.",
+        "author": {
+            "name": "Henry Bromell",
+            "url": "/quotes/henry_bromell_533547"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Living",
+                "url": "/topics/living"
+            },
+            {
+                "name": "Stories",
+                "url": "/topics/stories"
+            }
+        ]
+    }
+]

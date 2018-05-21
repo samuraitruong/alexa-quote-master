@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/keltie_knight_745414",
+        "quote": "I didn't have any bridesmaids. Instead, one friend did my hair, another did my makeup, and a third loaned me her shimmering Jimmy Choo wedges!",
+        "author": {
+            "name": "Keltie Knight",
+            "url": "/quotes/keltie_knight_745414"
+        },
+        "topics": [
+            {
+                "name": "Makeup",
+                "url": "/topics/makeup"
+            },
+            {
+                "name": "Bridesmaids",
+                "url": "/topics/bridesmaids"
+            },
+            {
+                "name": "Another",
+                "url": "/topics/another"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/keltie_knight_745415",
+        "quote": "I always feel the most comfortable in a breezy short summer dress and a pair of ankle boots.",
+        "author": {
+            "name": "Keltie Knight",
+            "url": "/quotes/keltie_knight_745415"
+        },
+        "topics": [
+            {
+                "name": "Dress",
+                "url": "/topics/dress"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            }
+        ]
+    }
+]

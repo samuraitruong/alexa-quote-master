@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/milo_yiannopoulos_808866?src=t_hurt_feelings",
+        "quote": "I delight in offending people. I think the grievance brigade, victimhood, the idea that hurt feelings are some kind of special currency - I think that needs to come to an end.",
+        "author": {
+            "name": "Milo Yiannopoulos",
+            "url": "/authors/milo_yiannopoulos"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Needs",
+                "url": "/topics/needs"
+            },
+            {
+                "name": "Offending",
+                "url": "/topics/offending"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lawrence_g_lovasik_125703?src=t_hurt_feelings",
+        "quote": "Strength of character means the ability to overcome resentment against others, to hide hurt feelings, and to forgive quickly.",
+        "author": {
+            "name": "Lawrence G. Lovasik",
+            "url": "/authors/lawrence_g_lovasik"
+        },
+        "topics": [
+            {
+                "name": "Strength",
+                "url": "/topics/strength"
+            },
+            {
+                "name": "Against",
+                "url": "/topics/against"
+            },
+            {
+                "name": "Means",
+                "url": "/topics/means"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/michael_shanks_232331?src=t_hurt_feelings",
+        "quote": "I think that you can take things personally or get hurt feelings as a result of something not working out just because your psyche said it should or you deserve it, or whatever it is.",
+        "author": {
+            "name": "Michael Shanks",
+            "url": "/authors/michael_shanks"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Deserve",
+                "url": "/topics/deserve"
+            },
+            {
+                "name": "Psyche",
+                "url": "/topics/psyche"
+            }
+        ]
+    }
+]

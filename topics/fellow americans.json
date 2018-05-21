@@ -1,0 +1,460 @@
+[
+    {
+        "url": "/quotes/john_f_kennedy_109213?src=t_fellow_americans",
+        "quote": "My fellow Americans, ask not what your country can do for you, ask what you can do for your country.",
+        "author": {
+            "name": "John F. Kennedy",
+            "url": "/authors/john_f_kennedy"
+        },
+        "topics": [
+            {
+                "name": "Memorial Day",
+                "url": "/topics/memorialday"
+            },
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Ask",
+                "url": "/topics/ask"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/barack_obama_677261?src=t_fellow_americans",
+        "quote": "My fellow Americans, we are and always will be a nation of immigrants. We were strangers once, too.",
+        "author": {
+            "name": "Barack Obama",
+            "url": "/authors/barack_obama"
+        },
+        "topics": [
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Nation",
+                "url": "/topics/nation"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ronald_reagan_183759?src=t_fellow_americans",
+        "quote": "My fellow Americans, I am pleased to tell you I just signed legislation which outlaws Russia forever. The bombing begins in five minutes.",
+        "author": {
+            "name": "Ronald Reagan",
+            "url": "/authors/ronald_reagan"
+        },
+        "topics": [
+            {
+                "name": "Tell",
+                "url": "/topics/tell"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Minutes",
+                "url": "/topics/minutes"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gerald_r_ford_113297?src=t_fellow_americans",
+        "quote": "My fellow Americans, our long national nightmare is over.",
+        "author": {
+            "name": "Gerald R. Ford",
+            "url": "/authors/gerald_r_ford"
+        },
+        "topics": [
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Fellow",
+                "url": "/topics/fellow"
+            },
+            {
+                "name": "National",
+                "url": "/topics/national"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nancy_pelosi_413829?src=t_fellow_americans",
+        "quote": "Democratic priorities remain clear: to provide a tax cut for working families, to promote policies that produce jobs and economic growth, and to assist millions of our fellow Americans who have lost their jobs through no fault of their own.",
+        "author": {
+            "name": "Nancy Pelosi",
+            "url": "/authors/nancy_pelosi"
+        },
+        "topics": [
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            },
+            {
+                "name": "Cut",
+                "url": "/topics/cut"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_j_clinton_453695?src=t_fellow_americans",
+        "quote": "My fellow Americans, you have to decide what kind of country you want to live in. If you want a you're on your own, winner take all society you should support the Republican ticket. If you want a country of shared opportunities and shared responsibilities - a 'we're all in it together' society, you should vote for Barack Obama and Joe Biden.",
+        "author": {
+            "name": "William J. Clinton",
+            "url": "/authors/william_j_clinton"
+        },
+        "topics": [
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Shared",
+                "url": "/topics/shared"
+            },
+            {
+                "name": "Joe",
+                "url": "/topics/joe"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sheila_jackson_lee_443801?src=t_fellow_americans",
+        "quote": "My town hall meetings are with friends and neighbors, fellow Americans. We engage.",
+        "author": {
+            "name": "Sheila Jackson Lee",
+            "url": "/authors/sheila_jackson_lee"
+        },
+        "topics": [
+            {
+                "name": "Town",
+                "url": "/topics/town"
+            },
+            {
+                "name": "Hall",
+                "url": "/topics/hall"
+            },
+            {
+                "name": "Town Hall",
+                "url": "/topics/town_hall"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charles_hamilton_houston_200855?src=t_fellow_americans",
+        "quote": "The hate and scorn showered on us Negro officers by our fellow Americans convinced me that there was no sense in my dying for a world ruled by them. I made up my mind that if I got through this war I would study law and use my time fighting for men who could not strike back.",
+        "author": {
+            "name": "Charles Hamilton Houston",
+            "url": "/authors/charles_hamilton_houston"
+        },
+        "topics": [
+            {
+                "name": "Study",
+                "url": "/topics/study"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "No Sense",
+                "url": "/topics/no_sense"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/steven_hatfill_688696?src=t_fellow_americans",
+        "quote": "I want to look my fellow Americans directly in the eye and declare to them, 'I am not the anthrax killer.' I know nothing about the anthrax attacks. I had absolutely nothing to do with this terrible crime.",
+        "author": {
+            "name": "Steven Hatfill",
+            "url": "/authors/steven_hatfill"
+        },
+        "topics": [
+            {
+                "name": "Declare",
+                "url": "/topics/declare"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Had",
+                "url": "/topics/had"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/richard_m_nixon_116920?src=t_fellow_americans",
+        "quote": "Tonight - to you, the great silent majority of my fellow Americans - I ask for your support.",
+        "author": {
+            "name": "Richard M. Nixon",
+            "url": "/authors/richard_m_nixon"
+        },
+        "topics": [
+            {
+                "name": "Silent",
+                "url": "/topics/silent"
+            },
+            {
+                "name": "Tonight",
+                "url": "/topics/tonight"
+            },
+            {
+                "name": "Your",
+                "url": "/topics/your"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henry_rollins_616880?src=t_fellow_americans",
+        "quote": "We Californians can watch the Weather Channel for images of winter's brutality unleashed upon our fellow Americans and thank our lucky stars we don't have to contend with it.",
+        "author": {
+            "name": "Henry Rollins",
+            "url": "/authors/henry_rollins"
+        },
+        "topics": [
+            {
+                "name": "Lucky",
+                "url": "/topics/lucky"
+            },
+            {
+                "name": "Images",
+                "url": "/topics/images"
+            },
+            {
+                "name": "Californians",
+                "url": "/topics/californians"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/solomon_ortiz_346219?src=t_fellow_americans",
+        "quote": "In addition to serving overseas, the Peace Corps' Crisis Corps Volunteers have helped their fellow Americans.",
+        "author": {
+            "name": "Solomon Ortiz",
+            "url": "/authors/solomon_ortiz"
+        },
+        "topics": [
+            {
+                "name": "Crisis",
+                "url": "/topics/crisis"
+            },
+            {
+                "name": "Volunteers",
+                "url": "/topics/volunteers"
+            },
+            {
+                "name": "Corps",
+                "url": "/topics/corps"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tom_brokaw_733507?src=t_fellow_americans",
+        "quote": "The greatest rewards of Jerry Ford's time were reserved for his fellow Americans and the nation he loved.",
+        "author": {
+            "name": "Tom Brokaw",
+            "url": "/authors/tom_brokaw"
+        },
+        "topics": [
+            {
+                "name": "Nation",
+                "url": "/topics/nation"
+            },
+            {
+                "name": "Ford",
+                "url": "/topics/ford"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/loretta_lynch_765091?src=t_fellow_americans",
+        "quote": "What we must not do - what we must never do - is turn on our neighbors, our family members, our fellow Americans, for something they cannot control, and deny what makes them human.",
+        "author": {
+            "name": "Loretta Lynch",
+            "url": "/authors/loretta_lynch"
+        },
+        "topics": [
+            {
+                "name": "Control",
+                "url": "/topics/control"
+            },
+            {
+                "name": "Deny",
+                "url": "/topics/deny"
+            },
+            {
+                "name": "Makes",
+                "url": "/topics/makes"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dana_perino_818598?src=t_fellow_americans",
+        "quote": "I love road trips. If you haven't been on one in a while, it's time to put a trip on your calendar. Driving can help clear the cobwebs of your mind, and you can learn a lot about your fellow Americans while you're at it.",
+        "author": {
+            "name": "Dana Perino",
+            "url": "/authors/dana_perino"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joe_lonsdale_897074?src=t_fellow_americans",
+        "quote": "Those who serve in our armed forces do so from a profound sense of duty to secure liberty for their fellow Americans. They enlist to serve their fellow citizens who express their will through elected representatives, not an unaccountable defense establishment.",
+        "author": {
+            "name": "Joe Lonsdale",
+            "url": "/authors/joe_lonsdale"
+        },
+        "topics": [
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Serve",
+                "url": "/topics/serve"
+            },
+            {
+                "name": "Express",
+                "url": "/topics/express"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_e_perez_851015?src=t_fellow_americans",
+        "quote": "My father earned his citizenship by serving in the Army during World War II. He devoted his life to caring for our nations veterans at a VA hospital in Buffalo, New York. That desire to serve fellow Americans propelled my four siblings into medical careers, too.",
+        "author": {
+            "name": "Thomas E. Perez",
+            "url": "/authors/thomas_e_perez"
+        },
+        "topics": [
+            {
+                "name": "Father",
+                "url": "/topics/father"
+            },
+            {
+                "name": "Medical",
+                "url": "/topics/medical"
+            },
+            {
+                "name": "Veterans",
+                "url": "/topics/veterans"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jose_antonio_vargas_726889?src=t_fellow_americans",
+        "quote": "As you watch 'Documented' on CNN, I ask you, my fellow Americans: What do you want to do with me? What do you want to do with us? How do you define American?",
+        "author": {
+            "name": "Jose Antonio Vargas",
+            "url": "/authors/jose_antonio_vargas"
+        },
+        "topics": [
+            {
+                "name": "American",
+                "url": "/topics/american"
+            },
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "CNN",
+                "url": "/topics/cnn"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sonny_perdue_833591?src=t_fellow_americans",
+        "quote": "I expect each and every USDA employee to uphold their fellow Americans' First Amendment freedoms.",
+        "author": {
+            "name": "Sonny Perdue",
+            "url": "/authors/sonny_perdue"
+        },
+        "topics": [
+            {
+                "name": "First Amendment",
+                "url": "/topics/first_amendment"
+            },
+            {
+                "name": "Amendment",
+                "url": "/topics/amendment"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_r_allen_754692?src=t_fellow_americans",
+        "quote": "My fellow Americans, from the battlefield to the capitals of our allies and friends and partners, the free peoples of the world look to America as the last best hope for peace and for liberty for all humankind, for we are the greatest country on this planet.",
+        "author": {
+            "name": "John R. Allen",
+            "url": "/authors/john_r_allen"
+        },
+        "topics": [
+            {
+                "name": "Best",
+                "url": "/topics/best"
+            },
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Humankind",
+                "url": "/topics/humankind"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bob_menendez_545793?src=t_fellow_americans",
+        "quote": "This is the United States of America. It means we respond to our fellow Americans in times of crisis and emergency and disaster.",
+        "author": {
+            "name": "Bob Menendez",
+            "url": "/authors/bob_menendez"
+        },
+        "topics": [
+            {
+                "name": "Crisis",
+                "url": "/topics/crisis"
+            },
+            {
+                "name": "United States",
+                "url": "/topics/united_states"
+            },
+            {
+                "name": "Means",
+                "url": "/topics/means"
+            }
+        ]
+    }
+]

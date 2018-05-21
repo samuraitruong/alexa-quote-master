@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/henry_cantwell_wallace_190157",
+        "quote": "To destroy a standing crop goes against the soundest instincts of human nature.",
+        "author": {
+            "name": "Henry Cantwell Wallace",
+            "url": "/quotes/henry_cantwell_wallace_190157"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "Standing",
+                "url": "/topics/standing"
+            },
+            {
+                "name": "Goes",
+                "url": "/topics/goes"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henry_cantwell_wallace_190156",
+        "quote": "People in cities may forget the soil for as long as a hundred years, but Mother Nature's memory is long and she will not let them forget indefinitely.",
+        "author": {
+            "name": "Henry Cantwell Wallace",
+            "url": "/quotes/henry_cantwell_wallace_190156"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "Memory",
+                "url": "/topics/memory"
+            },
+            {
+                "name": "Hundred",
+                "url": "/topics/hundred"
+            }
+        ]
+    }
+]

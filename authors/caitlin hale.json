@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/caitlin_hale_630921",
+        "quote": "Jack Black is so funny! On and off screen, like, he would make you laugh every day. He's hilarious.",
+        "author": {
+            "name": "Caitlin Hale",
+            "url": "/quotes/caitlin_hale_630921"
+        },
+        "topics": [
+            {
+                "name": "Every Day",
+                "url": "/topics/every_day"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Hilarious",
+                "url": "/topics/hilarious"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/caitlin_hale_630922",
+        "quote": "The whole 'School of Rock' experience was really cool, and just meeting new people from all over.",
+        "author": {
+            "name": "Caitlin Hale",
+            "url": "/quotes/caitlin_hale_630922"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "New People",
+                "url": "/topics/new_people"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/caitlin_hale_630923",
+        "quote": "I love singing and performing. I'm always singing. Even if I'm at school or in the car, I'm always singing. My mom said ever since I could talk, I was singing.",
+        "author": {
+            "name": "Caitlin Hale",
+            "url": "/quotes/caitlin_hale_630923"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Singing",
+                "url": "/topics/singing"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/caitlin_hale_658549",
+        "quote": "'School of Rock' was just once in a lifetime things; I want to be a doctor, actually. I'd go an do the sequel if they asked me to.",
+        "author": {
+            "name": "Caitlin Hale",
+            "url": "/quotes/caitlin_hale_658549"
+        },
+        "topics": [
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Go",
+                "url": "/topics/go"
+            },
+            {
+                "name": "Lifetime",
+                "url": "/topics/lifetime"
+            }
+        ]
+    }
+]

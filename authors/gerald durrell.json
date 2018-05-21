@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/gerald_durrell_325219",
+        "quote": "All over the world the wildlife that I write about is in grave danger. It is being exterminated by what we call the progress of civilization.",
+        "author": {
+            "name": "Gerald Durrell",
+            "url": "/quotes/gerald_durrell_325219"
+        },
+        "topics": [
+            {
+                "name": "Civilization",
+                "url": "/topics/civilization"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "I Write",
+                "url": "/topics/i_write"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gerald_durrell_325220",
+        "quote": "Zoos should concentrate more on the preservation side of things.",
+        "author": {
+            "name": "Gerald Durrell",
+            "url": "/quotes/gerald_durrell_325220"
+        },
+        "topics": [
+            {
+                "name": "Preservation",
+                "url": "/topics/preservation"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Side",
+                "url": "/topics/side"
+            }
+        ]
+    }
+]

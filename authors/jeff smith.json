@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/jeff_smith_113247",
+        "quote": "Please understand the reason why Chinese vegetables taste so good. It is simple. The Chinese do not cook them, they just threaten them!",
+        "author": {
+            "name": "Jeff Smith",
+            "url": "/quotes/jeff_smith_113247"
+        },
+        "topics": [
+            {
+                "name": "Reason",
+                "url": "/topics/reason"
+            },
+            {
+                "name": "Taste",
+                "url": "/topics/taste"
+            },
+            {
+                "name": "Cook",
+                "url": "/topics/cook"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jeff_smith_117217",
+        "quote": "I prefer the Chinese method of eating. You can do anything at the table except arm wrestle.",
+        "author": {
+            "name": "Jeff Smith",
+            "url": "/quotes/jeff_smith_117217"
+        },
+        "topics": [
+            {
+                "name": "Chinese",
+                "url": "/topics/chinese"
+            },
+            {
+                "name": "Prefer",
+                "url": "/topics/prefer"
+            },
+            {
+                "name": "Method",
+                "url": "/topics/method"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jeff_smith_381011",
+        "quote": "It's good to do something for Americans for once.",
+        "author": {
+            "name": "Jeff Smith",
+            "url": "/quotes/jeff_smith_381011"
+        },
+        "topics": [
+            {
+                "name": "Good",
+                "url": "/topics/good"
+            },
+            {
+                "name": "Something",
+                "url": "/topics/something"
+            },
+            {
+                "name": "Once",
+                "url": "/topics/once"
+            }
+        ]
+    }
+]

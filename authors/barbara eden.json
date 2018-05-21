@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/barbara_eden_256481",
+        "quote": "I didn't know I was compared to Elizabeth Montgomery, but I think that I'm in very good company with her.",
+        "author": {
+            "name": "Barbara Eden",
+            "url": "/quotes/barbara_eden_256481"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Elizabeth",
+                "url": "/topics/elizabeth"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/barbara_eden_256480",
+        "quote": "Out of all the actors I have worked with, I love working with Larry Hagman the most. We were very close and it was just a wonderful time.",
+        "author": {
+            "name": "Barbara Eden",
+            "url": "/quotes/barbara_eden_256480"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Larry Hagman",
+                "url": "/topics/larry_hagman"
+            }
+        ]
+    }
+]

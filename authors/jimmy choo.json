@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/jimmy_choo_513452",
+        "quote": "I love the idea of couture and its emphasis on creation. There's where I made my name - in design - and there's where I'd like to stay.",
+        "author": {
+            "name": "Jimmy Choo",
+            "url": "/quotes/jimmy_choo_513452"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Idea",
+                "url": "/topics/idea"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jimmy_choo_513453",
+        "quote": "After all, it's very important for any big-name designer to have a couture range. I leave the ready-to-wear to my partner and team.",
+        "author": {
+            "name": "Jimmy Choo",
+            "url": "/quotes/jimmy_choo_513453"
+        },
+        "topics": [
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Couture",
+                "url": "/topics/couture"
+            },
+            {
+                "name": "Range",
+                "url": "/topics/range"
+            }
+        ]
+    }
+]

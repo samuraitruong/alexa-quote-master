@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/queen_christina_163600",
+        "quote": "Fools are more to be feared than the wicked.",
+        "author": {
+            "name": "Queen Christina",
+            "url": "/quotes/queen_christina_163600"
+        },
+        "topics": [
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Than",
+                "url": "/topics/than"
+            },
+            {
+                "name": "Feared",
+                "url": "/topics/feared"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/queen_christina_130090",
+        "quote": "It is necessary to try to pass one's self always; this occupation ought to last as long as life.",
+        "author": {
+            "name": "Queen Christina",
+            "url": "/quotes/queen_christina_130090"
+        },
+        "topics": [
+            {
+                "name": "Last",
+                "url": "/topics/last"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Occupation",
+                "url": "/topics/occupation"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/chaim_weizmann_175036",
+        "quote": "Miracles sometimes occur, but one has to work terribly hard for them.",
+        "author": {
+            "name": "Chaim Weizmann",
+            "url": "/quotes/chaim_weizmann_175036"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Sometimes",
+                "url": "/topics/sometimes"
+            },
+            {
+                "name": "Occur",
+                "url": "/topics/occur"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/chaim_weizmann_175035",
+        "quote": "I head a nation of a million presidents.",
+        "author": {
+            "name": "Chaim Weizmann",
+            "url": "/quotes/chaim_weizmann_175035"
+        },
+        "topics": [
+            {
+                "name": "Million",
+                "url": "/topics/million"
+            },
+            {
+                "name": "Head",
+                "url": "/topics/head"
+            },
+            {
+                "name": "Nation",
+                "url": "/topics/nation"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/chaim_weizmann_112677",
+        "quote": "Einstein explained his theory to me every day, and on my arrival I was fully convinced that he understood it.",
+        "author": {
+            "name": "Chaim Weizmann",
+            "url": "/quotes/chaim_weizmann_112677"
+        },
+        "topics": [
+            {
+                "name": "Every Day",
+                "url": "/topics/every_day"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            },
+            {
+                "name": "Arrival",
+                "url": "/topics/arrival"
+            }
+        ]
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/steny_hoyer_453874",
+        "quote": "But despite historic levels of obstruction, President Obama was able to bring the economy back from the verge of a second Great Depression.",
+        "author": {
+            "name": "Steny Hoyer",
+            "url": "/quotes/steny_hoyer_453874"
+        },
+        "topics": [
+            {
+                "name": "Historic",
+                "url": "/topics/historic"
+            },
+            {
+                "name": "Obstruction",
+                "url": "/topics/obstruction"
+            },
+            {
+                "name": "Obama",
+                "url": "/topics/obama"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/steny_hoyer_453875",
+        "quote": "My friend Paul Ryan talks about fiscal responsibility, but voted to put two wars on a credit card.",
+        "author": {
+            "name": "Steny Hoyer",
+            "url": "/quotes/steny_hoyer_453875"
+        },
+        "topics": [
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Ryan",
+                "url": "/topics/ryan"
+            },
+            {
+                "name": "Voted",
+                "url": "/topics/voted"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/steny_hoyer_453873",
+        "quote": "Senator Mitch McConnell, the Republican leader in the Senate, said that Republicans' number one priority was the defeat of President Obama.",
+        "author": {
+            "name": "Steny Hoyer",
+            "url": "/quotes/steny_hoyer_453873"
+        },
+        "topics": [
+            {
+                "name": "Leader",
+                "url": "/topics/leader"
+            },
+            {
+                "name": "Republicans",
+                "url": "/topics/republicans"
+            },
+            {
+                "name": "Obama",
+                "url": "/topics/obama"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/steny_hoyer_453876",
+        "quote": "Barack Obama and Joe Biden have been working hard to help middle-class families make it in America.",
+        "author": {
+            "name": "Steny Hoyer",
+            "url": "/quotes/steny_hoyer_453876"
+        },
+        "topics": [
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Middle-Class",
+                "url": "/topics/middle-class"
+            },
+            {
+                "name": "Joe",
+                "url": "/topics/joe"
+            }
+        ]
+    }
+]

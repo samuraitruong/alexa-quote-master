@@ -1,0 +1,38 @@
+[
+    {
+        "url": "/quotes/brian_kobilka_728553",
+        "quote": "If you really want something bad enough, if you're really interested in something enough, you know, you just keep working on it.",
+        "author": {
+            "name": "Brian Kobilka",
+            "url": "/quotes/brian_kobilka_728553"
+        },
+        "topics": [
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            },
+            {
+                "name": "Keep",
+                "url": "/topics/keep"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brian_kobilka_728552",
+        "quote": "Scientists are sometimes as competitive as professional athletes, maybe.",
+        "author": {
+            "name": "Brian Kobilka",
+            "url": "/quotes/brian_kobilka_728552"
+        },
+        "topics": [
+            {
+                "name": "Professional Athletes",
+                "url": "/topics/professional_athletes"
+            }
+        ]
+    }
+]

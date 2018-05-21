@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/leopold_kronecker_338745",
+        "quote": "God made the integers; all else is the work of man.",
+        "author": {
+            "name": "Leopold Kronecker",
+            "url": "/quotes/leopold_kronecker_338745"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Made",
+                "url": "/topics/made"
+            },
+            {
+                "name": "Else",
+                "url": "/topics/else"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/leopold_kronecker_395923",
+        "quote": "God made integers, all else is the work of man.",
+        "author": {
+            "name": "Leopold Kronecker",
+            "url": "/quotes/leopold_kronecker_395923"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Made",
+                "url": "/topics/made"
+            },
+            {
+                "name": "Else",
+                "url": "/topics/else"
+            }
+        ]
+    }
+]

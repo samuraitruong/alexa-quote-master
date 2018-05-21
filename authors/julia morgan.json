@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/julia_morgan_193131",
+        "quote": "Architecture is a visual art, and the buildings speak for themselves.",
+        "author": {
+            "name": "Julia Morgan",
+            "url": "/quotes/julia_morgan_193131"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Architecture",
+                "url": "/topics/architecture"
+            },
+            {
+                "name": "Buildings",
+                "url": "/topics/buildings"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/julia_morgan_193132",
+        "quote": "My buildings will be my legacy... they will speak for me long after I'm gone.",
+        "author": {
+            "name": "Julia Morgan",
+            "url": "/quotes/julia_morgan_193132"
+        },
+        "topics": [
+            {
+                "name": "Legacy",
+                "url": "/topics/legacy"
+            },
+            {
+                "name": "Architecture",
+                "url": "/topics/architecture"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/julia_morgan_193130",
+        "quote": "Never turn down a job because you think it's too small; you don't know where it can lead.",
+        "author": {
+            "name": "Julia Morgan",
+            "url": "/quotes/julia_morgan_193130"
+        },
+        "topics": [
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Turn",
+                "url": "/topics/turn"
+            }
+        ]
+    }
+]

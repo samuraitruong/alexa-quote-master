@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/oleg_kulik_679165",
+        "quote": "There is nothing in my work that can be taken as blasphemy.",
+        "author": {
+            "name": "Oleg Kulik",
+            "url": "/quotes/oleg_kulik_679165"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            },
+            {
+                "name": "Taken",
+                "url": "/topics/taken"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/oleg_kulik_679166",
+        "quote": "I would like to reconcile the church and the circus. I wanted to transform the theatre... to get my message across that there is only one God - the living man - the person sitting next to you. That is my religion. I believe that there is a sense to life.",
+        "author": {
+            "name": "Oleg Kulik",
+            "url": "/quotes/oleg_kulik_679166"
+        },
+        "topics": [
+            {
+                "name": "Believe",
+                "url": "/topics/believe"
+            },
+            {
+                "name": "Church",
+                "url": "/topics/church"
+            },
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            }
+        ]
+    }
+]

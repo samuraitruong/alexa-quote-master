@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/gene_scott_320179",
+        "quote": "It would take wild horses to get me to talk.",
+        "author": {
+            "name": "Gene Scott",
+            "url": "/quotes/gene_scott_320179"
+        },
+        "topics": [
+            {
+                "name": "Take",
+                "url": "/topics/take"
+            },
+            {
+                "name": "Get",
+                "url": "/topics/get"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gene_scott_320180",
+        "quote": "The human element should be the two players on the court, not the officials. The best officials are the ones you never notice. The nature of the game made officials too noticeable a part.",
+        "author": {
+            "name": "Gene Scott",
+            "url": "/quotes/gene_scott_320180"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "Game",
+                "url": "/topics/game"
+            },
+            {
+                "name": "Players",
+                "url": "/topics/players"
+            }
+        ]
+    }
+]

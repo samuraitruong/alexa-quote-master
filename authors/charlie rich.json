@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/charlie_rich_250445",
+        "quote": "I think a guy who's had just the right amount of booze can sing the blues a hell of a lot better than a guy who is stone sober.",
+        "author": {
+            "name": "Charlie Rich",
+            "url": "/quotes/charlie_rich_250445"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Amount",
+                "url": "/topics/amount"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charlie_rich_250442",
+        "quote": "At first I didn't dig country.",
+        "author": {
+            "name": "Charlie Rich",
+            "url": "/quotes/charlie_rich_250442"
+        },
+        "topics": [
+            {
+                "name": "First",
+                "url": "/topics/first"
+            },
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Dig",
+                "url": "/topics/dig"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charlie_rich_250443",
+        "quote": "As a matter of fact, we put it down because we wanted to be jazz pickers.",
+        "author": {
+            "name": "Charlie Rich",
+            "url": "/quotes/charlie_rich_250443"
+        },
+        "topics": [
+            {
+                "name": "Jazz",
+                "url": "/topics/jazz"
+            },
+            {
+                "name": "Fact",
+                "url": "/topics/fact"
+            },
+            {
+                "name": "Wanted",
+                "url": "/topics/wanted"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charlie_rich_250444",
+        "quote": "I had to make a drastic change at Sun Records and I didn't really appreciate country music until I went there.",
+        "author": {
+            "name": "Charlie Rich",
+            "url": "/quotes/charlie_rich_250444"
+        },
+        "topics": [
+            {
+                "name": "Change",
+                "url": "/topics/change"
+            },
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Records",
+                "url": "/topics/records"
+            }
+        ]
+    }
+]

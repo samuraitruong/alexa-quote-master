@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/gary_glitter_678788",
+        "quote": "I have an incomplete album that I want to finish. I have been thinking about the plan during my days in jail, I have sung rock n' roll for forty years. After jail, I will continue to rock n' roll.",
+        "author": {
+            "name": "Gary Glitter",
+            "url": "/quotes/gary_glitter_678788"
+        },
+        "topics": [
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Album",
+                "url": "/topics/album"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gary_glitter_221356",
+        "quote": "I have done my time living on the run. I'm British and I want to come home.",
+        "author": {
+            "name": "Gary Glitter",
+            "url": "/quotes/gary_glitter_221356"
+        },
+        "topics": [
+            {
+                "name": "Living",
+                "url": "/topics/living"
+            },
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "My Time",
+                "url": "/topics/my_time"
+            }
+        ]
+    }
+]

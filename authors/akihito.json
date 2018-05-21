@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/akihito_178523",
+        "quote": "The Japanese keenly learned from Western civilisation in a bid to modernize and preserve the nation.",
+        "author": {
+            "name": "Akihito",
+            "url": "/quotes/akihito_178523"
+        },
+        "topics": [
+            {
+                "name": "Japanese",
+                "url": "/topics/japanese"
+            },
+            {
+                "name": "Nation",
+                "url": "/topics/nation"
+            },
+            {
+                "name": "Learned",
+                "url": "/topics/learned"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/akihito_110468",
+        "quote": "I am marrying her because I love her.",
+        "author": {
+            "name": "Akihito",
+            "url": "/quotes/akihito_110468"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "I Love",
+                "url": "/topics/i_love"
+            }
+        ]
+    }
+]

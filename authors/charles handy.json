@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/charles_handy_130980",
+        "quote": "Instead of a national curriculum for education, what is really needed is an individual curriculum for every child.",
+        "author": {
+            "name": "Charles Handy",
+            "url": "/quotes/charles_handy_130980"
+        },
+        "topics": [
+            {
+                "name": "Education",
+                "url": "/topics/education"
+            },
+            {
+                "name": "Individual",
+                "url": "/topics/individual"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charles_handy_130761",
+        "quote": "The companies that survive longest are the one's that work out what they uniquely can give to the world not just growth or money but their excellence, their respect for others, or their ability to make people happy. Some call those things a soul.",
+        "author": {
+            "name": "Charles Handy",
+            "url": "/quotes/charles_handy_130761"
+        },
+        "topics": [
+            {
+                "name": "Excellence",
+                "url": "/topics/excellence"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Longest",
+                "url": "/topics/longest"
+            }
+        ]
+    }
+]

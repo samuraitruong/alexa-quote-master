@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/kenelm_digby_329865",
+        "quote": "Note, that yeast of good Beer, is better then that of Ale.",
+        "author": {
+            "name": "Kenelm Digby",
+            "url": "/quotes/kenelm_digby_329865"
+        },
+        "topics": [
+            {
+                "name": "Better",
+                "url": "/topics/better"
+            },
+            {
+                "name": "Note",
+                "url": "/topics/note"
+            },
+            {
+                "name": "Then",
+                "url": "/topics/then"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kenelm_digby_329864",
+        "quote": "Take to every Gallon of Honey, three Gallons of water, and put them both together, and set them over so soft a fire, that you may endure to melt and break the honey with your hands.",
+        "author": {
+            "name": "Kenelm Digby",
+            "url": "/quotes/kenelm_digby_329864"
+        },
+        "topics": [
+            {
+                "name": "Hands",
+                "url": "/topics/hands"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Set",
+                "url": "/topics/set"
+            }
+        ]
+    }
+]

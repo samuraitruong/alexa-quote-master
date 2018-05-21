@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/clarice_taylor_496594",
+        "quote": "I certainly know about the oppression and prejudices of being black and a woman and from the South.",
+        "author": {
+            "name": "Clarice Taylor",
+            "url": "/quotes/clarice_taylor_496594"
+        },
+        "topics": [
+            {
+                "name": "Woman",
+                "url": "/topics/woman"
+            },
+            {
+                "name": "Oppression",
+                "url": "/topics/oppression"
+            },
+            {
+                "name": "Certainly",
+                "url": "/topics/certainly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/clarice_taylor_496595",
+        "quote": "My family thought it was insanity for me to go into the theater rather than to get an education.",
+        "author": {
+            "name": "Clarice Taylor",
+            "url": "/quotes/clarice_taylor_496595"
+        },
+        "topics": [
+            {
+                "name": "Education",
+                "url": "/topics/education"
+            },
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Insanity",
+                "url": "/topics/insanity"
+            }
+        ]
+    }
+]

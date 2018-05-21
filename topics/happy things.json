@@ -1,0 +1,130 @@
+[
+    {
+        "url": "/quotes/chaim_potok_132908?src=t_happy_things",
+        "quote": "Come, let us have some tea and continue to talk about happy things.",
+        "author": {
+            "name": "Chaim Potok",
+            "url": "/authors/chaim_potok"
+        },
+        "topics": [
+            {
+                "name": "Tea",
+                "url": "/topics/tea"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Let Us",
+                "url": "/topics/let_us"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/p_g_wodehouse_160143?src=t_happy_things",
+        "quote": "Flowers are happy things.",
+        "author": {
+            "name": "P. G. Wodehouse",
+            "url": "/authors/p_g_wodehouse"
+        },
+        "topics": [
+            {
+                "name": "Gardening",
+                "url": "/topics/gardening"
+            },
+            {
+                "name": "Flowers",
+                "url": "/topics/flowers"
+            },
+            {
+                "name": "Happy",
+                "url": "/topics/happy"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sonia_sotomayor_564423?src=t_happy_things",
+        "quote": "So many people grew up with challenges, as I did. There weren't always happy things happening to me or around me. But when you look at the core of goodness within yourself - at the optimism and hope - you realize it comes from the environment you grew up in.",
+        "author": {
+            "name": "Sonia Sotomayor",
+            "url": "/authors/sonia_sotomayor"
+        },
+        "topics": [
+            {
+                "name": "Happy",
+                "url": "/topics/happy"
+            },
+            {
+                "name": "Challenges",
+                "url": "/topics/challenges"
+            },
+            {
+                "name": "Optimism",
+                "url": "/topics/optimism"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sharon_stone_604686?src=t_happy_things",
+        "quote": "I eat right, I sleep, I work out, I'm happy. I have a beautiful family, nice friends. I choose the good things. I choose the happy, healthy things. I don't choose the bad, unhealthy, unhappy things.",
+        "author": {
+            "name": "Sharon Stone",
+            "url": "/authors/sharon_stone"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Happy",
+                "url": "/topics/happy"
+            },
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/margot_kidder_302791?src=t_happy_things",
+        "quote": "With any group of people in life, sad things happen, and crazy things, and happy things. When you're in the public eye, it's just amplified, that's all.",
+        "author": {
+            "name": "Margot Kidder",
+            "url": "/authors/margot_kidder"
+        },
+        "topics": [
+            {
+                "name": "Happen",
+                "url": "/topics/happen"
+            },
+            {
+                "name": "Sad Things",
+                "url": "/topics/sad_things"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rudolf_bing_110569?src=t_happy_things",
+        "quote": "I prefer to remember the happy things over 10 years, the things that went well. Let me see, what did go well?",
+        "author": {
+            "name": "Rudolf Bing",
+            "url": "/authors/rudolf_bing"
+        },
+        "topics": [
+            {
+                "name": "Happy",
+                "url": "/topics/happy"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Prefer",
+                "url": "/topics/prefer"
+            }
+        ]
+    }
+]

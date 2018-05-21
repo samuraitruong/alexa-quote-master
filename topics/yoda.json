@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/gail_porter_381316?src=t_yoda",
+        "quote": "Mmm, I love Yoda. I didn't like Jar Jar Binks though, he was all wrong.",
+        "author": {
+            "name": "Gail Porter",
+            "url": "/authors/gail_porter"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Though",
+                "url": "/topics/though"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jim_henson_274603?src=t_yoda",
+        "quote": "It's into the same bag as E.T. and Yoda, wherein you're trying to create something that people will actually believe, but it's not so much a symbol of the thing, but you're trying to do the thing itself.",
+        "author": {
+            "name": "Jim Henson",
+            "url": "/authors/jim_henson"
+        },
+        "topics": [
+            {
+                "name": "Bag",
+                "url": "/topics/bag"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Symbol",
+                "url": "/topics/symbol"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/spike_jonze_691479?src=t_yoda",
+        "quote": "I definitely liked the Muppets. I definitely liked Yoda in 'Empire Strikes Back' and Chewbacca. I don't know if I was a fan of puppets or those, like, specific characters.",
+        "author": {
+            "name": "Spike Jonze",
+            "url": "/authors/spike_jonze"
+        },
+        "topics": [
+            {
+                "name": "Back",
+                "url": "/topics/back"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Puppets",
+                "url": "/topics/puppets"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/michael_paterniti_770216?src=t_yoda",
+        "quote": "By living so long, the supercentenarian earns the prefixal 'super' and becomes a person suddenly freighted with power and meaning. He's Gandalf, Yoda, the Ancient Mariner, perhaps with some otherworldly insight. He's lived so long that, in fact, he's living the afterlife to his own initial life.",
+        "author": {
+            "name": "Michael Paterniti",
+            "url": "/authors/michael_paterniti"
+        },
+        "topics": [
+            {
+                "name": "Fact",
+                "url": "/topics/fact"
+            },
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lawrence_halprin_358572?src=t_yoda",
+        "quote": "Of all the Jedis I saw in the film, Yoda's the only one I like.",
+        "author": {
+            "name": "Lawrence Halprin",
+            "url": "/authors/lawrence_halprin"
+        },
+        "topics": [
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Saw",
+                "url": "/topics/saw"
+            }
+        ]
+    }
+]

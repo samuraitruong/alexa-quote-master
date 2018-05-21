@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/hippolyte_taine_404428",
+        "quote": "I have studied many philosophers and many cats. The wisdom of cats is infinitely superior.",
+        "author": {
+            "name": "Hippolyte Taine",
+            "url": "/quotes/hippolyte_taine_404428"
+        },
+        "topics": [
+            {
+                "name": "Pet",
+                "url": "/topics/pet"
+            },
+            {
+                "name": "Superior",
+                "url": "/topics/superior"
+            },
+            {
+                "name": "Infinitely",
+                "url": "/topics/infinitely"
+            }
+        ]
+    }
+]

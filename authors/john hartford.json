@@ -1,0 +1,130 @@
+[
+    {
+        "url": "/quotes/john_hartford_381524",
+        "quote": "The whole universe is based on rhythms. Everything happens in circles, in spirals.",
+        "author": {
+            "name": "John Hartford",
+            "url": "/quotes/john_hartford_381524"
+        },
+        "topics": [
+            {
+                "name": "Universe",
+                "url": "/topics/universe"
+            },
+            {
+                "name": "Rhythms",
+                "url": "/topics/rhythms"
+            },
+            {
+                "name": "Based",
+                "url": "/topics/based"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_hartford_194419",
+        "quote": "I'm like a child trying to do everything, say everything and be everything all at once.",
+        "author": {
+            "name": "John Hartford",
+            "url": "/quotes/john_hartford_194419"
+        },
+        "topics": [
+            {
+                "name": "Trying",
+                "url": "/topics/trying"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Once",
+                "url": "/topics/once"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_hartford_380214",
+        "quote": "The best way to express rhythm is music.",
+        "author": {
+            "name": "John Hartford",
+            "url": "/quotes/john_hartford_380214"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "Best",
+                "url": "/topics/best"
+            },
+            {
+                "name": "Best Way",
+                "url": "/topics/best_way"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_hartford_394474",
+        "quote": "Time is the most important thing there is. That is the only element that you can't withdraw from the situation and still have the situation exist. Everything depends on time.",
+        "author": {
+            "name": "John Hartford",
+            "url": "/quotes/john_hartford_394474"
+        },
+        "topics": [
+            {
+                "name": "The Most Important",
+                "url": "/topics/the_most_important"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_hartford_395243",
+        "quote": "After you start learning all about the mechanics of piloting a riverboat, you stop seeing all the pretty sunsets and you start thinking about the weather.",
+        "author": {
+            "name": "John Hartford",
+            "url": "/quotes/john_hartford_395243"
+        },
+        "topics": [
+            {
+                "name": "Start",
+                "url": "/topics/start"
+            },
+            {
+                "name": "Pretty",
+                "url": "/topics/pretty"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_hartford_396148",
+        "quote": "You read about somebody, and it doesn't really matter whether or not they really exist - the point is that you get into them like real characters.",
+        "author": {
+            "name": "John Hartford",
+            "url": "/quotes/john_hartford_396148"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Read",
+                "url": "/topics/read"
+            }
+        ]
+    }
+]

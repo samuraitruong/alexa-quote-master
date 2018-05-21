@@ -1,0 +1,104 @@
+[
+    {
+        "url": "/quotes/hernan_cortes_254126?src=t_seville",
+        "quote": "The city is as large as Seville or Cordova; its streets, I speak of the principal ones, are very wide and straight; some of these, and all the inferior ones, are half land and half water, and are navigated by canoes.",
+        "author": {
+            "name": "Hernan Cortes",
+            "url": "/authors/hernan_cortes"
+        },
+        "topics": [
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Half",
+                "url": "/topics/half"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/christopher_columbus_261125?src=t_seville",
+        "quote": "The air soft as that of Seville in April, and so fragrant that it was delicious to breathe it.",
+        "author": {
+            "name": "Christopher Columbus",
+            "url": "/authors/christopher_columbus"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "Air",
+                "url": "/topics/air"
+            },
+            {
+                "name": "Fragrant",
+                "url": "/topics/fragrant"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paz_vega_428278?src=t_seville",
+        "quote": "People in Seville are very happy, the lifestyle here is very relaxed, you can walk everywhere; it's very easy.",
+        "author": {
+            "name": "Paz Vega",
+            "url": "/authors/paz_vega"
+        },
+        "topics": [
+            {
+                "name": "Happy",
+                "url": "/topics/happy"
+            },
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/hernan_cortes_254131?src=t_seville",
+        "quote": "There are fully forty towers, which are lofty and well built, the largest of which has fifty steps leading to its main body, and is higher than the tower of the principal tower of the church at Seville.",
+        "author": {
+            "name": "Hernan Cortes",
+            "url": "/authors/hernan_cortes"
+        },
+        "topics": [
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Built",
+                "url": "/topics/built"
+            },
+            {
+                "name": "Largest",
+                "url": "/topics/largest"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paz_vega_428280?src=t_seville",
+        "quote": "Bullfighters are Seville's heroes.",
+        "author": {
+            "name": "Paz Vega",
+            "url": "/authors/paz_vega"
+        },
+        "topics": [
+            {
+                "name": "Heroes",
+                "url": "/topics/heroes"
+            }
+        ]
+    }
+]

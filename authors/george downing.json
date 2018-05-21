@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/george_downing_202390",
+        "quote": "We go by the lighthouse; paddle out. After we got out, we paddled way down to get the biggest peak.",
+        "author": {
+            "name": "George Downing",
+            "url": "/quotes/george_downing_202390"
+        },
+        "topics": [
+            {
+                "name": "Lighthouse",
+                "url": "/topics/lighthouse"
+            },
+            {
+                "name": "Get",
+                "url": "/topics/get"
+            },
+            {
+                "name": "Biggest",
+                "url": "/topics/biggest"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_downing_392236",
+        "quote": "We've got to be responsible, somebody's got to be responsible for it.",
+        "author": {
+            "name": "George Downing",
+            "url": "/quotes/george_downing_392236"
+        },
+        "topics": [
+            {
+                "name": "Responsible",
+                "url": "/topics/responsible"
+            },
+            {
+                "name": "Got",
+                "url": "/topics/got"
+            },
+            {
+                "name": "Somebody",
+                "url": "/topics/somebody"
+            }
+        ]
+    }
+]

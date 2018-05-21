@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/rick_bayan_621841",
+        "quote": "Most people perceive moderates as timid middle-of-the-roaders who can't take a stand.",
+        "author": {
+            "name": "Rick Bayan",
+            "url": "/quotes/rick_bayan_621841"
+        },
+        "topics": [
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "Take",
+                "url": "/topics/take"
+            },
+            {
+                "name": "Moderates",
+                "url": "/topics/moderates"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rick_bayan_621840",
+        "quote": "The world belongs to people with IQs of 120. Anything much greater or less amounts to a liability.",
+        "author": {
+            "name": "Rick Bayan",
+            "url": "/quotes/rick_bayan_621840"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Liability",
+                "url": "/topics/liability"
+            },
+            {
+                "name": "Belongs",
+                "url": "/topics/belongs"
+            }
+        ]
+    }
+]

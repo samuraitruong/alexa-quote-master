@@ -1,0 +1,126 @@
+[
+    {
+        "url": "/quotes/kurt_angle_404334?src=t_heros",
+        "quote": "Join me in Olympic Heros for Abstinence. The best sex is no sex.",
+        "author": {
+            "name": "Kurt Angle",
+            "url": "/authors/kurt_angle"
+        },
+        "topics": [
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Sex",
+                "url": "/topics/sex"
+            },
+            {
+                "name": "Olympic",
+                "url": "/topics/olympic"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tupac_shakur_315807?src=t_heros",
+        "quote": "Dre was one of my heros in the music industry. If he's not down for his homeboys, I don't wanna be a part of him or around him.",
+        "author": {
+            "name": "Tupac Shakur",
+            "url": "/authors/tupac_shakur"
+        },
+        "topics": [
+            {
+                "name": "Down",
+                "url": "/topics/down"
+            },
+            {
+                "name": "Industry",
+                "url": "/topics/industry"
+            },
+            {
+                "name": "Part",
+                "url": "/topics/part"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dennis_ritchie_274063?src=t_heros",
+        "quote": "I'm not a person who particularly had heros when growing up.",
+        "author": {
+            "name": "Dennis Ritchie",
+            "url": "/authors/dennis_ritchie"
+        },
+        "topics": [
+            {
+                "name": "Growing Up",
+                "url": "/topics/growing_up"
+            },
+            {
+                "name": "Growing",
+                "url": "/topics/growing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/p_j_orourke_617532?src=t_heros",
+        "quote": "Wealth brings great benefits to the world. Rich people are heros.",
+        "author": {
+            "name": "P. J. O'Rourke",
+            "url": "/authors/p_j_orourke"
+        },
+        "topics": [
+            {
+                "name": "Wealth",
+                "url": "/topics/wealth"
+            },
+            {
+                "name": "Benefits",
+                "url": "/topics/benefits"
+            },
+            {
+                "name": "Brings",
+                "url": "/topics/brings"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/a_j_liebling_470056?src=t_heros",
+        "quote": "To the Parisians, and especially to the children, all Americans are now 'heros du cinema.' This is particularly disconcerting to sensitive war correspondents, if any, aware, as they are, that these innocent thanks belong to those American combat troops who won the beachhead and then made the breakthrough. There are few such men in Paris.",
+        "author": {
+            "name": "A. J. Liebling",
+            "url": "/authors/a_j_liebling"
+        },
+        "topics": [
+            {
+                "name": "Belong",
+                "url": "/topics/belong"
+            },
+            {
+                "name": "All Americans",
+                "url": "/topics/all_americans"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nora_roberts_279298?src=t_heros",
+        "quote": "Aren't most romance heros, or heros in fiction of any kind, generally superior to real men? Same goes for heroines and real women.",
+        "author": {
+            "name": "Nora Roberts",
+            "url": "/authors/nora_roberts"
+        },
+        "topics": [
+            {
+                "name": "Kind",
+                "url": "/topics/kind"
+            },
+            {
+                "name": "Romance",
+                "url": "/topics/romance"
+            },
+            {
+                "name": "Fiction",
+                "url": "/topics/fiction"
+            }
+        ]
+    }
+]

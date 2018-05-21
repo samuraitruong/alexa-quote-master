@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/francis_cabot_lowell_197481",
+        "quote": "Gardeners instinctively know that flowers and plants are a continuum and that the wheel of garden history will always be coming full circle.",
+        "author": {
+            "name": "Francis Cabot Lowell",
+            "url": "/quotes/francis_cabot_lowell_197481"
+        },
+        "topics": [
+            {
+                "name": "Flowers",
+                "url": "/topics/flowers"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Continuum",
+                "url": "/topics/continuum"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/francis_cabot_lowell_197482",
+        "quote": "One lifetime is never enough to accomplish one's horticultural goals. If a garden is a site for the imagination, how can we be very far from the beginning?",
+        "author": {
+            "name": "Francis Cabot Lowell",
+            "url": "/quotes/francis_cabot_lowell_197482"
+        },
+        "topics": [
+            {
+                "name": "Gardening",
+                "url": "/topics/gardening"
+            },
+            {
+                "name": "Beginning",
+                "url": "/topics/beginning"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    }
+]

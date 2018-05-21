@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/bobby_robson_379688",
+        "quote": "Practice makes permanent.",
+        "author": {
+            "name": "Bobby Robson",
+            "url": "/quotes/bobby_robson_379688"
+        },
+        "topics": [
+            {
+                "name": "Practice",
+                "url": "/topics/practice"
+            },
+            {
+                "name": "Permanent",
+                "url": "/topics/permanent"
+            },
+            {
+                "name": "Makes",
+                "url": "/topics/makes"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bobby_robson_128925",
+        "quote": "The first ninety minutes of a football match are the most important.",
+        "author": {
+            "name": "Bobby Robson",
+            "url": "/quotes/bobby_robson_128925"
+        },
+        "topics": [
+            {
+                "name": "Important",
+                "url": "/topics/important"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "Minutes",
+                "url": "/topics/minutes"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bobby_robson_140441",
+        "quote": "Home advantage gives you an advantage.",
+        "author": {
+            "name": "Bobby Robson",
+            "url": "/quotes/bobby_robson_140441"
+        },
+        "topics": [
+            {
+                "name": "You",
+                "url": "/topics/you"
+            },
+            {
+                "name": "Advantage",
+                "url": "/topics/advantage"
+            },
+            {
+                "name": "Gives",
+                "url": "/topics/gives"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bobby_robson_140568",
+        "quote": "Anything from 1-0 to 2-0 would be a nice result.",
+        "author": {
+            "name": "Bobby Robson",
+            "url": "/quotes/bobby_robson_140568"
+        },
+        "topics": [
+            {
+                "name": "Nice",
+                "url": "/topics/nice"
+            },
+            {
+                "name": "Result",
+                "url": "/topics/result"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            }
+        ]
+    }
+]

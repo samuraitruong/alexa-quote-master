@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/henry_longhurst_177126",
+        "quote": "Playing golf is like learning a foreign language.",
+        "author": {
+            "name": "Henry Longhurst",
+            "url": "/quotes/henry_longhurst_177126"
+        },
+        "topics": [
+            {
+                "name": "Golf",
+                "url": "/topics/golf"
+            },
+            {
+                "name": "Playing",
+                "url": "/topics/playing"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henry_longhurst_404101",
+        "quote": "If you call on God to improve the results of a shot while it is still in motion, you are using 'an outside agency' and subject to appropriate penalties under the rules of golf.",
+        "author": {
+            "name": "Henry Longhurst",
+            "url": "/quotes/henry_longhurst_404101"
+        },
+        "topics": [
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            },
+            {
+                "name": "Appropriate",
+                "url": "/topics/appropriate"
+            },
+            {
+                "name": "Using",
+                "url": "/topics/using"
+            }
+        ]
+    }
+]

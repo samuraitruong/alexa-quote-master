@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/joan_bennett_196824",
+        "quote": "I turned my hair dark and have received much better parts ever since.",
+        "author": {
+            "name": "Joan Bennett",
+            "url": "/quotes/joan_bennett_196824"
+        },
+        "topics": [
+            {
+                "name": "Hair",
+                "url": "/topics/hair"
+            },
+            {
+                "name": "Better",
+                "url": "/topics/better"
+            },
+            {
+                "name": "Ever",
+                "url": "/topics/ever"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joan_bennett_196820",
+        "quote": "If only Vivien Leigh had stayed in England, that part would have been mine.",
+        "author": {
+            "name": "Joan Bennett",
+            "url": "/quotes/joan_bennett_196820"
+        },
+        "topics": [
+            {
+                "name": "England",
+                "url": "/topics/england"
+            },
+            {
+                "name": "Mine",
+                "url": "/topics/mine"
+            },
+            {
+                "name": "Leigh",
+                "url": "/topics/leigh"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joan_bennett_196826",
+        "quote": "I might as well have pulled the trigger myself.",
+        "author": {
+            "name": "Joan Bennett",
+            "url": "/quotes/joan_bennett_196826"
+        },
+        "topics": [
+            {
+                "name": "Myself",
+                "url": "/topics/myself"
+            },
+            {
+                "name": "Might",
+                "url": "/topics/might"
+            },
+            {
+                "name": "Pulled",
+                "url": "/topics/pulled"
+            }
+        ]
+    }
+]

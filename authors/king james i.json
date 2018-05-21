@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/king_james_i_109227",
+        "quote": "Smoking is hateful to the nose, harmful to the brain, and dangerous to the lungs.",
+        "author": {
+            "name": "King James I",
+            "url": "/quotes/king_james_i_109227"
+        },
+        "topics": [
+            {
+                "name": "Smoking",
+                "url": "/topics/smoking"
+            },
+            {
+                "name": "Nose",
+                "url": "/topics/nose"
+            },
+            {
+                "name": "Hateful",
+                "url": "/topics/hateful"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/king_james_i_388031",
+        "quote": "I can make a lord, but only God can make a gentleman.",
+        "author": {
+            "name": "King James I",
+            "url": "/quotes/king_james_i_388031"
+        },
+        "topics": [
+            {
+                "name": "Lord",
+                "url": "/topics/lord"
+            },
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            },
+            {
+                "name": "Make",
+                "url": "/topics/make"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/king_james_i_144401",
+        "quote": "Were I not a king, I would be a university man.",
+        "author": {
+            "name": "King James I",
+            "url": "/quotes/king_james_i_144401"
+        },
+        "topics": [
+            {
+                "name": "King",
+                "url": "/topics/king"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            },
+            {
+                "name": "Were",
+                "url": "/topics/were"
+            }
+        ]
+    }
+]

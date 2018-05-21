@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/john_portman_197357",
+        "quote": "Buildings should serve people, not the other way around.",
+        "author": {
+            "name": "John Portman",
+            "url": "/quotes/john_portman_197357"
+        },
+        "topics": [
+            {
+                "name": "Architecture",
+                "url": "/topics/architecture"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Should",
+                "url": "/topics/should"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_portman_197356",
+        "quote": "It is through accomplishment that man makes his contribution and contribution is life's greatest reward.",
+        "author": {
+            "name": "John Portman",
+            "url": "/quotes/john_portman_197356"
+        },
+        "topics": [
+            {
+                "name": "Reward",
+                "url": "/topics/reward"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_portman_197360",
+        "quote": "Architects in the past have tended to concentrate their attention on the building as a static object. I believe dynamics are more important: the dynamics of people, their interaction with spaces and environmental condition.",
+        "author": {
+            "name": "John Portman",
+            "url": "/quotes/john_portman_197360"
+        },
+        "topics": [
+            {
+                "name": "Architecture",
+                "url": "/topics/architecture"
+            },
+            {
+                "name": "In The Past",
+                "url": "/topics/in_the_past"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_portman_197354",
+        "quote": "We must learn to understand humanity better so that we can create an environment that is more beneficial to people, more rewarding, more pleasant to experience.",
+        "author": {
+            "name": "John Portman",
+            "url": "/quotes/john_portman_197354"
+        },
+        "topics": [
+            {
+                "name": "Learn",
+                "url": "/topics/learn"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Rewarding",
+                "url": "/topics/rewarding"
+            }
+        ]
+    }
+]

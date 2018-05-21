@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/javier_perez_de_cuellar_394968",
+        "quote": "I am a free man. I feel as light as a feather.",
+        "author": {
+            "name": "Javier Perez de Cuellar",
+            "url": "/quotes/javier_perez_de_cuellar_394968"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Feather",
+                "url": "/topics/feather"
+            },
+            {
+                "name": "Free Man",
+                "url": "/topics/free_man"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/javier_perez_de_cuellar_234324",
+        "quote": "The patient is in intensive care but still alive.",
+        "author": {
+            "name": "Javier Perez de Cuellar",
+            "url": "/quotes/javier_perez_de_cuellar_234324"
+        },
+        "topics": [
+            {
+                "name": "Alive",
+                "url": "/topics/alive"
+            },
+            {
+                "name": "Patient",
+                "url": "/topics/patient"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            }
+        ]
+    }
+]

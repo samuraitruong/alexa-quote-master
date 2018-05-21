@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/johnny_kidd_225317",
+        "quote": "Yes, the future certainly looks brighter now. I'm very happy with my group.",
+        "author": {
+            "name": "Johnny Kidd",
+            "url": "/quotes/johnny_kidd_225317"
+        },
+        "topics": [
+            {
+                "name": "Looks",
+                "url": "/topics/looks"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Certainly",
+                "url": "/topics/certainly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/johnny_kidd_225318",
+        "quote": "It was suggested that I take a recording test. I passed, was liked and, well, you know the rest of the story.",
+        "author": {
+            "name": "Johnny Kidd",
+            "url": "/quotes/johnny_kidd_225318"
+        },
+        "topics": [
+            {
+                "name": "Rest",
+                "url": "/topics/rest"
+            },
+            {
+                "name": "Take",
+                "url": "/topics/take"
+            },
+            {
+                "name": "Suggested",
+                "url": "/topics/suggested"
+            }
+        ]
+    }
+]

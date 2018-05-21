@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/bruce_froemming_377161",
+        "quote": "Dieting is murder on the road. Show me a man who travels and I'll show you one who eats.",
+        "author": {
+            "name": "Bruce Froemming",
+            "url": "/quotes/bruce_froemming_377161"
+        },
+        "topics": [
+            {
+                "name": "Diet",
+                "url": "/topics/diet"
+            },
+            {
+                "name": "Travels",
+                "url": "/topics/travels"
+            },
+            {
+                "name": "Eats",
+                "url": "/topics/eats"
+            }
+        ]
+    }
+]

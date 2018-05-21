@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/james_oliver_193932",
+        "quote": "The world is blessed most by men who do things, and not by those who merely talk about them.",
+        "author": {
+            "name": "James Oliver",
+            "url": "/quotes/james_oliver_193932"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Men",
+                "url": "/topics/men"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_oliver_193933",
+        "quote": "Industry, economy, honesty, and kindness form a quartet of virtues that will never be improved upon.",
+        "author": {
+            "name": "James Oliver",
+            "url": "/quotes/james_oliver_193933"
+        },
+        "topics": [
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Improved",
+                "url": "/topics/improved"
+            },
+            {
+                "name": "Form",
+                "url": "/topics/form"
+            }
+        ]
+    }
+]

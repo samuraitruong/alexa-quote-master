@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/luke_mably_570238",
+        "quote": "I'm a typical guy. Driving cars and speed are really fun.",
+        "author": {
+            "name": "Luke Mably",
+            "url": "/quotes/luke_mably_570238"
+        },
+        "topics": [
+            {
+                "name": "Driving",
+                "url": "/topics/driving"
+            },
+            {
+                "name": "Guy",
+                "url": "/topics/guy"
+            },
+            {
+                "name": "Typical",
+                "url": "/topics/typical"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/luke_mably_570239",
+        "quote": "I like playing heavy metal music and pretending I'm a vampire in front of the mirror.",
+        "author": {
+            "name": "Luke Mably",
+            "url": "/quotes/luke_mably_570239"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "Mirror",
+                "url": "/topics/mirror"
+            },
+            {
+                "name": "Pretending",
+                "url": "/topics/pretending"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/luke_mably_656953",
+        "quote": "That's why I enjoy acting: getting in the mind of someone else.",
+        "author": {
+            "name": "Luke Mably",
+            "url": "/quotes/luke_mably_656953"
+        },
+        "topics": [
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Someone",
+                "url": "/topics/someone"
+            },
+            {
+                "name": "Getting",
+                "url": "/topics/getting"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/luke_mably_656952",
+        "quote": "I steal things from people, characteristics, and I just stock them in my head like a library to use for characters in the future.",
+        "author": {
+            "name": "Luke Mably",
+            "url": "/quotes/luke_mably_656952"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Steal",
+                "url": "/topics/steal"
+            },
+            {
+                "name": "Characteristics",
+                "url": "/topics/characteristics"
+            }
+        ]
+    }
+]

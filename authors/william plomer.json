@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/william_plomer_404671",
+        "quote": "Creativity is the power to connect the seemingly unconnected.",
+        "author": {
+            "name": "William Plomer",
+            "url": "/quotes/william_plomer_404671"
+        },
+        "topics": [
+            {
+                "name": "Power",
+                "url": "/topics/power"
+            },
+            {
+                "name": "Creativity",
+                "url": "/topics/creativity"
+            },
+            {
+                "name": "Seemingly",
+                "url": "/topics/seemingly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_plomer_404941",
+        "quote": "It is the function of creative man to perceive and to connect the seemingly unconnected.",
+        "author": {
+            "name": "William Plomer",
+            "url": "/quotes/william_plomer_404941"
+        },
+        "topics": [
+            {
+                "name": "Man",
+                "url": "/topics/man"
+            },
+            {
+                "name": "Function",
+                "url": "/topics/function"
+            },
+            {
+                "name": "Seemingly",
+                "url": "/topics/seemingly"
+            }
+        ]
+    }
+]

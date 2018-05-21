@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/paul_cook_671802",
+        "quote": "I was raised to believe that we all have a civic duty and a responsibility as Americans to improve our neighborhoods and our nation.",
+        "author": {
+            "name": "Paul Cook",
+            "url": "/quotes/paul_cook_671802"
+        },
+        "topics": [
+            {
+                "name": "Nation",
+                "url": "/topics/nation"
+            },
+            {
+                "name": "Neighborhoods",
+                "url": "/topics/neighborhoods"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_cook_671803",
+        "quote": "When I retired from active duty, I still felt that I owed something to my community. That's why I pursued education... I still miss the classroom and recall those days fondly.",
+        "author": {
+            "name": "Paul Cook",
+            "url": "/quotes/paul_cook_671803"
+        },
+        "topics": [
+            {
+                "name": "Education",
+                "url": "/topics/education"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            },
+            {
+                "name": "Felt",
+                "url": "/topics/felt"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_cook_671800",
+        "quote": "The malaise and military decline of the post-Vietnam years under President Jimmy Carter set the stage for Russian aggression abroad and uncertainty among our allies.",
+        "author": {
+            "name": "Paul Cook",
+            "url": "/quotes/paul_cook_671800"
+        },
+        "topics": [
+            {
+                "name": "Abroad",
+                "url": "/topics/abroad"
+            },
+            {
+                "name": "Set",
+                "url": "/topics/set"
+            },
+            {
+                "name": "Russian",
+                "url": "/topics/russian"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_cook_671801",
+        "quote": "Only a strong America can guarantee a peaceful world.",
+        "author": {
+            "name": "Paul Cook",
+            "url": "/quotes/paul_cook_671801"
+        },
+        "topics": [
+            {
+                "name": "Strong",
+                "url": "/topics/strong"
+            },
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            },
+            {
+                "name": "Peaceful World",
+                "url": "/topics/peaceful_world"
+            }
+        ]
+    }
+]

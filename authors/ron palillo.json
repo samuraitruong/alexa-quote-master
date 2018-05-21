@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/ron_palillo_447940",
+        "quote": "Everybody thought of me as Arnold Horshack. I resented Horshack for so many years.",
+        "author": {
+            "name": "Ron Palillo",
+            "url": "/quotes/ron_palillo_447940"
+        },
+        "topics": [
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Everybody",
+                "url": "/topics/everybody"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ron_palillo_825385",
+        "quote": "I love to teach; that's paramount.",
+        "author": {
+            "name": "Ron Palillo",
+            "url": "/quotes/ron_palillo_825385"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Teach",
+                "url": "/topics/teach"
+            },
+            {
+                "name": "I Love",
+                "url": "/topics/i_love"
+            }
+        ]
+    }
+]

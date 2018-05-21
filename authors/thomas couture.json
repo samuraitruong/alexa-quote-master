@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/thomas_couture_205852",
+        "quote": "There is only one absinthe drinker, and that's the man who painted this idiotic picture.",
+        "author": {
+            "name": "Thomas Couture",
+            "url": "/quotes/thomas_couture_205852"
+        },
+        "topics": [
+            {
+                "name": "Idiotic",
+                "url": "/topics/idiotic"
+            },
+            {
+                "name": "Painted",
+                "url": "/topics/painted"
+            },
+            {
+                "name": "Drinker",
+                "url": "/topics/drinker"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_couture_205853",
+        "quote": "Knowing how to paint and to use one's colors rightly has not any connection with originality. This originality consists in properly expressing your own impressions.",
+        "author": {
+            "name": "Thomas Couture",
+            "url": "/quotes/thomas_couture_205853"
+        },
+        "topics": [
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            },
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            },
+            {
+                "name": "Rightly",
+                "url": "/topics/rightly"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/duff_green_215632",
+        "quote": "His letter was like the shock produced by a cold bath.",
+        "author": {
+            "name": "Duff Green",
+            "url": "/quotes/duff_green_215632"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            },
+            {
+                "name": "Letter",
+                "url": "/topics/letter"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/duff_green_215631",
+        "quote": "The Union - It is dear to us, but liberty is dearer.",
+        "author": {
+            "name": "Duff Green",
+            "url": "/quotes/duff_green_215631"
+        },
+        "topics": [
+            {
+                "name": "Liberty",
+                "url": "/topics/liberty"
+            },
+            {
+                "name": "Union",
+                "url": "/topics/union"
+            },
+            {
+                "name": "Dear",
+                "url": "/topics/dear"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/duff_green_215635",
+        "quote": "Had Calhoun been advised by me, he would have been the most popular man in the United States.",
+        "author": {
+            "name": "Duff Green",
+            "url": "/quotes/duff_green_215635"
+        },
+        "topics": [
+            {
+                "name": "United States",
+                "url": "/topics/united_states"
+            },
+            {
+                "name": "United",
+                "url": "/topics/united"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    }
+]

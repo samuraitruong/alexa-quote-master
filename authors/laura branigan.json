@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/laura_branigan_515883",
+        "quote": "I want to touch people's hearts, to get right down to their souls.",
+        "author": {
+            "name": "Laura Branigan",
+            "url": "/quotes/laura_branigan_515883"
+        },
+        "topics": [
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Hearts",
+                "url": "/topics/hearts"
+            },
+            {
+                "name": "Get",
+                "url": "/topics/get"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/laura_branigan_515886",
+        "quote": "I want a place where I can have horses.",
+        "author": {
+            "name": "Laura Branigan",
+            "url": "/quotes/laura_branigan_515886"
+        },
+        "topics": [
+            {
+                "name": "Place",
+                "url": "/topics/place"
+            },
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Where",
+                "url": "/topics/where"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/laura_branigan_515884",
+        "quote": "When you're on stage, the audience becomes your other half. It's the ultimate high you can reach as a musician - an incredible feeling. And no matter where I am it's still the same; there's a reason we call music the universal language.",
+        "author": {
+            "name": "Laura Branigan",
+            "url": "/quotes/laura_branigan_515884"
+        },
+        "topics": [
+            {
+                "name": "Half",
+                "url": "/topics/half"
+            },
+            {
+                "name": "Reason",
+                "url": "/topics/reason"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/laura_branigan_515885",
+        "quote": "I want to move people the way Edith Piaf did.",
+        "author": {
+            "name": "Laura Branigan",
+            "url": "/quotes/laura_branigan_515885"
+        },
+        "topics": [
+            {
+                "name": "People",
+                "url": "/topics/people"
+            },
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Move",
+                "url": "/topics/move"
+            }
+        ]
+    }
+]

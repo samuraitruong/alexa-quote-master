@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/garry_winogrand_312096",
+        "quote": "Photography is about finding out what can happen in the frame. When you put four edges around some facts, you change those facts.",
+        "author": {
+            "name": "Garry Winogrand",
+            "url": "/quotes/garry_winogrand_312096"
+        },
+        "topics": [
+            {
+                "name": "Change",
+                "url": "/topics/change"
+            },
+            {
+                "name": "Happen",
+                "url": "/topics/happen"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/garry_winogrand_395567",
+        "quote": "There is nothing as mysterious as a fact clearly described. I photograph to see what something will look like photographed.",
+        "author": {
+            "name": "Garry Winogrand",
+            "url": "/quotes/garry_winogrand_395567"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Fact",
+                "url": "/topics/fact"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    }
+]

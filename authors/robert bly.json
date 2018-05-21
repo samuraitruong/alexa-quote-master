@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/robert_bly_178447",
+        "quote": "The beginning of love is a horror of emptiness.",
+        "author": {
+            "name": "Robert Bly",
+            "url": "/quotes/robert_bly_178447"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Emptiness",
+                "url": "/topics/emptiness"
+            },
+            {
+                "name": "Horror",
+                "url": "/topics/horror"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_bly_398944",
+        "quote": "By the time a man is 35 he knows that the images of the right man, the tough man, the true man which he received in high school do not work in life.",
+        "author": {
+            "name": "Robert Bly",
+            "url": "/quotes/robert_bly_398944"
+        },
+        "topics": [
+            {
+                "name": "Images",
+                "url": "/topics/images"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "By The Time",
+                "url": "/topics/by_the_time"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_bly_170278",
+        "quote": "It is surely a great calamity for a human being to have no obsessions.",
+        "author": {
+            "name": "Robert Bly",
+            "url": "/quotes/robert_bly_170278"
+        },
+        "topics": [
+            {
+                "name": "Human Being",
+                "url": "/topics/human_being"
+            },
+            {
+                "name": "Surely",
+                "url": "/topics/surely"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_bly_389872",
+        "quote": "When a father, absent during the day, returns home at six, his children receive only his temperament, not his teaching.",
+        "author": {
+            "name": "Robert Bly",
+            "url": "/quotes/robert_bly_389872"
+        },
+        "topics": [
+            {
+                "name": "Six",
+                "url": "/topics/six"
+            },
+            {
+                "name": "Dad",
+                "url": "/topics/dad"
+            },
+            {
+                "name": "Receive",
+                "url": "/topics/receive"
+            }
+        ]
+    }
+]

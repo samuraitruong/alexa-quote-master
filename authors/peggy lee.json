@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/peggy_lee_177329",
+        "quote": "Retire? Not on your life. I have no plans to stop singing. What are you going to do when you love music? It's a terrible disease. You can't stop. Of course, I'd like to get off the road.",
+        "author": {
+            "name": "Peggy Lee",
+            "url": "/quotes/peggy_lee_177329"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Singing",
+                "url": "/topics/singing"
+            },
+            {
+                "name": "Disease",
+                "url": "/topics/disease"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/peggy_lee_177227",
+        "quote": "I really don't have that many run-ins. People by and large are very nice to me.",
+        "author": {
+            "name": "Peggy Lee",
+            "url": "/quotes/peggy_lee_177227"
+        },
+        "topics": [
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Large",
+                "url": "/topics/large"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/peggy_lee_177383",
+        "quote": "You can't beat The Beatles, you join 'em.",
+        "author": {
+            "name": "Peggy Lee",
+            "url": "/quotes/peggy_lee_177383"
+        },
+        "topics": [
+            {
+                "name": "Join",
+                "url": "/topics/join"
+            },
+            {
+                "name": "Beat",
+                "url": "/topics/beat"
+            },
+            {
+                "name": "Beatles",
+                "url": "/topics/beatles"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/peggy_lee_177255",
+        "quote": "I'm always happy when I'm cleaning, and besides, I had just found out that I was going to have a baby.",
+        "author": {
+            "name": "Peggy Lee",
+            "url": "/quotes/peggy_lee_177255"
+        },
+        "topics": [
+            {
+                "name": "Cleaning",
+                "url": "/topics/cleaning"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            }
+        ]
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/charles_revson_119230",
+        "quote": "If you can't change your fate, change your attitude.",
+        "author": {
+            "name": "Charles Revson",
+            "url": "/quotes/charles_revson_119230"
+        },
+        "topics": [
+            {
+                "name": "Change",
+                "url": "/topics/change"
+            },
+            {
+                "name": "Fate",
+                "url": "/topics/fate"
+            },
+            {
+                "name": "Your",
+                "url": "/topics/your"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charles_revson_103182",
+        "quote": "In the factory we make cosmetics; in the drugstore we sell hope.",
+        "author": {
+            "name": "Charles Revson",
+            "url": "/quotes/charles_revson_103182"
+        },
+        "topics": [
+            {
+                "name": "Sell",
+                "url": "/topics/sell"
+            },
+            {
+                "name": "Factory",
+                "url": "/topics/factory"
+            },
+            {
+                "name": "Drugstore",
+                "url": "/topics/drugstore"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charles_revson_119229",
+        "quote": "Accuracy is to a newspaper what virtue is to a lady, but a newspaper can always print a retraction.",
+        "author": {
+            "name": "Charles Revson",
+            "url": "/quotes/charles_revson_119229"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Newspaper",
+                "url": "/topics/newspaper"
+            },
+            {
+                "name": "Print",
+                "url": "/topics/print"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charles_revson_119228",
+        "quote": "The big will get bigger; the small will get wiped out.",
+        "author": {
+            "name": "Charles Revson",
+            "url": "/quotes/charles_revson_119228"
+        },
+        "topics": [
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Wiped",
+                "url": "/topics/wiped"
+            }
+        ]
+    }
+]

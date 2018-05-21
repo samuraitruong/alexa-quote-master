@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/john_harrigan_227773",
+        "quote": "Happiness held is the seed; Happiness shared is the flower.",
+        "author": {
+            "name": "John Harrigan",
+            "url": "/quotes/john_harrigan_227773"
+        },
+        "topics": [
+            {
+                "name": "Happiness",
+                "url": "/topics/happiness"
+            },
+            {
+                "name": "Seed",
+                "url": "/topics/seed"
+            },
+            {
+                "name": "Shared",
+                "url": "/topics/shared"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_harrigan_227772",
+        "quote": "People need loving the most when they deserve it the least.",
+        "author": {
+            "name": "John Harrigan",
+            "url": "/quotes/john_harrigan_227772"
+        },
+        "topics": [
+            {
+                "name": "Deserve",
+                "url": "/topics/deserve"
+            },
+            {
+                "name": "Loving",
+                "url": "/topics/loving"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            }
+        ]
+    }
+]

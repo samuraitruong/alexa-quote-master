@@ -1,0 +1,134 @@
+[
+    {
+        "url": "/quotes/jim_rohn_121282?src=t_self-education",
+        "quote": "Formal education will make you a living; self-education will make you a fortune.",
+        "author": {
+            "name": "Jim Rohn",
+            "url": "/authors/jim_rohn"
+        },
+        "topics": [
+            {
+                "name": "Education",
+                "url": "/topics/education"
+            },
+            {
+                "name": "Success",
+                "url": "/topics/success"
+            },
+            {
+                "name": "Formal",
+                "url": "/topics/formal"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/isaac_asimov_148287?src=t_self-education",
+        "quote": "Self-education is, I firmly believe, the only kind of education there is.",
+        "author": {
+            "name": "Isaac Asimov",
+            "url": "/authors/isaac_asimov"
+        },
+        "topics": [
+            {
+                "name": "Education",
+                "url": "/topics/education"
+            },
+            {
+                "name": "Kind",
+                "url": "/topics/kind"
+            },
+            {
+                "name": "Firmly",
+                "url": "/topics/firmly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/maggie_grace_534952?src=t_self-education",
+        "quote": "I used to be really insecure about my self-education. I'm definitely always learning. But there's many ways to learn. There are many, many ways to always be a learner.",
+        "author": {
+            "name": "Maggie Grace",
+            "url": "/authors/maggie_grace"
+        },
+        "topics": [
+            {
+                "name": "Learn",
+                "url": "/topics/learn"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/iskra_lawrence_898571?src=t_self-education",
+        "quote": "My long-term dream is to have self-education in schools for mental, physical, and emotional health because we need to learn how to speak to ourselves in a loving way and to each other.",
+        "author": {
+            "name": "Iskra Lawrence",
+            "url": "/authors/iskra_lawrence"
+        },
+        "topics": [
+            {
+                "name": "Learn",
+                "url": "/topics/learn"
+            },
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ken_livingstone_505890?src=t_self-education",
+        "quote": "I spent the 1960s and 1970s seeking myself - the working-class tradition of self-education.",
+        "author": {
+            "name": "Ken Livingstone",
+            "url": "/authors/ken_livingstone"
+        },
+        "topics": [
+            {
+                "name": "Myself",
+                "url": "/topics/myself"
+            },
+            {
+                "name": "Working-Class",
+                "url": "/topics/working-class"
+            },
+            {
+                "name": "Spent",
+                "url": "/topics/spent"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/yvon_chouinard_412431?src=t_self-education",
+        "quote": "Traveling is my form of self-education. Every stream I fish now is not as good as it used to be. Traveling is my form of self-education. Every stream I fish now is not as good as it used to be. If you keep your eyes open as you travel around, you realize we are destroying this planet.",
+        "author": {
+            "name": "Yvon Chouinard",
+            "url": "/authors/yvon_chouinard"
+        },
+        "topics": [
+            {
+                "name": "Planet",
+                "url": "/topics/planet"
+            },
+            {
+                "name": "Traveling",
+                "url": "/topics/traveling"
+            },
+            {
+                "name": "Used",
+                "url": "/topics/used"
+            }
+        ]
+    }
+]

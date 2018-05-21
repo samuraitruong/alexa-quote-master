@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/gabriel_heatter_160580",
+        "quote": "The only time some people work like a horse is when the boss rides them.",
+        "author": {
+            "name": "Gabriel Heatter",
+            "url": "/quotes/gabriel_heatter_160580"
+        },
+        "topics": [
+            {
+                "name": "Boss",
+                "url": "/topics/boss"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gabriel_heatter_160579",
+        "quote": "If you were happy every day of your life you wouldn't be a human being, you'd be a game show host.",
+        "author": {
+            "name": "Gabriel Heatter",
+            "url": "/quotes/gabriel_heatter_160579"
+        },
+        "topics": [
+            {
+                "name": "Game",
+                "url": "/topics/game"
+            },
+            {
+                "name": "Human Being",
+                "url": "/topics/human_being"
+            },
+            {
+                "name": "Game Show",
+                "url": "/topics/game_show"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gabriel_heatter_160581",
+        "quote": "More power than all the success slogans ever penned by human hand is the realization for every man that he has but one boss. That boss is the man - he - himself.",
+        "author": {
+            "name": "Gabriel Heatter",
+            "url": "/quotes/gabriel_heatter_160581"
+        },
+        "topics": [
+            {
+                "name": "Boss",
+                "url": "/topics/boss"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Every Man",
+                "url": "/topics/every_man"
+            }
+        ]
+    }
+]

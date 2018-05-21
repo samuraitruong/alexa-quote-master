@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/christian_morgenstern_309752",
+        "quote": "Home is not where you live, but where they understand you.",
+        "author": {
+            "name": "Christian Morgenstern",
+            "url": "/quotes/christian_morgenstern_309752"
+        },
+        "topics": [
+            {
+                "name": "Understand",
+                "url": "/topics/understand"
+            },
+            {
+                "name": "You",
+                "url": "/topics/you"
+            },
+            {
+                "name": "Where",
+                "url": "/topics/where"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/christian_morgenstern_401024",
+        "quote": "The first principle of child-rearing is to choose a good mother.",
+        "author": {
+            "name": "Christian Morgenstern",
+            "url": "/quotes/christian_morgenstern_401024"
+        },
+        "topics": [
+            {
+                "name": "Mother",
+                "url": "/topics/mother"
+            },
+            {
+                "name": "Child-Rearing",
+                "url": "/topics/child-rearing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/christian_morgenstern_309755",
+        "quote": "The hidden child wants to be able to participate and to co-create in art, rather than being simply an admiring viewer.",
+        "author": {
+            "name": "Christian Morgenstern",
+            "url": "/quotes/christian_morgenstern_309755"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Participate",
+                "url": "/topics/participate"
+            },
+            {
+                "name": "Viewer",
+                "url": "/topics/viewer"
+            }
+        ]
+    }
+]

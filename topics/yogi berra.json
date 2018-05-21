@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/casey_stengel_139532?src=t_yogi_berra",
+        "quote": "They say Yogi Berra is funny. Well, he has a lovely wife and family, a beautiful home, money in the bank, and he plays golf with millionaires. What's funny about that?",
+        "author": {
+            "name": "Casey Stengel",
+            "url": "/authors/casey_stengel"
+        },
+        "topics": [
+            {
+                "name": "Lovely",
+                "url": "/topics/lovely"
+            },
+            {
+                "name": "Plays",
+                "url": "/topics/plays"
+            },
+            {
+                "name": "Yogi",
+                "url": "/topics/yogi"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bobby_hull_183274?src=t_yogi_berra",
+        "quote": "I feel, first of all, very privileged that these people think enough of me that they made me commissioner. And it's almost like, as Yogi Berra said, 'deja vu all over again.'",
+        "author": {
+            "name": "Bobby Hull",
+            "url": "/authors/bobby_hull"
+        },
+        "topics": [
+            {
+                "name": "Almost",
+                "url": "/topics/almost"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Yogi",
+                "url": "/topics/yogi"
+            }
+        ]
+    }
+]

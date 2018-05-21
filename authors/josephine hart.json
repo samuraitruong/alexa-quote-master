@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/josephine_hart_107713",
+        "quote": "There is an eternal landscape, a geography of the soul; we search for its outlines all our lives.",
+        "author": {
+            "name": "Josephine Hart",
+            "url": "/quotes/josephine_hart_107713"
+        },
+        "topics": [
+            {
+                "name": "Search",
+                "url": "/topics/search"
+            },
+            {
+                "name": "Eternal",
+                "url": "/topics/eternal"
+            },
+            {
+                "name": "Outlines",
+                "url": "/topics/outlines"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/josephine_hart_133538",
+        "quote": "We are here to add to the sum of human goodness. To prove the thing exists.",
+        "author": {
+            "name": "Josephine Hart",
+            "url": "/quotes/josephine_hart_133538"
+        },
+        "topics": [
+            {
+                "name": "Prove",
+                "url": "/topics/prove"
+            },
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            },
+            {
+                "name": "Add",
+                "url": "/topics/add"
+            }
+        ]
+    }
+]

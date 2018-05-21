@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/albert_king_689500",
+        "quote": "A guitar player goes on the road, and he misses his girlfriend for a while, but he manages to get along. A horn player gets out on the road, plays two or three towns, and then he'll get lonely, and next thing you know, he's packed up and left. It's better not to hire him in the first place.",
+        "author": {
+            "name": "Albert King",
+            "url": "/quotes/albert_king_689500"
+        },
+        "topics": [
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            },
+            {
+                "name": "Hire",
+                "url": "/topics/hire"
+            },
+            {
+                "name": "While",
+                "url": "/topics/while"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/albert_king_234144",
+        "quote": "I can't read, I don't know how to write, my whole life has been one big fight.",
+        "author": {
+            "name": "Albert King",
+            "url": "/quotes/albert_king_234144"
+        },
+        "topics": [
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Read",
+                "url": "/topics/read"
+            }
+        ]
+    }
+]

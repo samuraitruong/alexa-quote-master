@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/jane_sherwood_ace_145762",
+        "quote": "Time wounds all heels.",
+        "author": {
+            "name": "Jane Sherwood Ace",
+            "url": "/quotes/jane_sherwood_ace_145762"
+        },
+        "topics": [
+            {
+                "name": "Time",
+                "url": "/topics/time"
+            },
+            {
+                "name": "Heels",
+                "url": "/topics/heels"
+            },
+            {
+                "name": "Wounds",
+                "url": "/topics/wounds"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jane_sherwood_ace_133036",
+        "quote": "Home wasn't built in a day.",
+        "author": {
+            "name": "Jane Sherwood Ace",
+            "url": "/quotes/jane_sherwood_ace_133036"
+        },
+        "topics": [
+            {
+                "name": "Day",
+                "url": "/topics/day"
+            },
+            {
+                "name": "Home",
+                "url": "/topics/home"
+            },
+            {
+                "name": "Built",
+                "url": "/topics/built"
+            }
+        ]
+    }
+]

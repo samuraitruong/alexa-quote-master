@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/jacob_hacker_212502",
+        "quote": "Even people who feel perfectly comfortable investing in the stock market and owning their own homes often have qualms about individual medical accounts or Social Security private accounts.",
+        "author": {
+            "name": "Jacob Hacker",
+            "url": "/quotes/jacob_hacker_212502"
+        },
+        "topics": [
+            {
+                "name": "Medical",
+                "url": "/topics/medical"
+            },
+            {
+                "name": "Private",
+                "url": "/topics/private"
+            },
+            {
+                "name": "Perfectly",
+                "url": "/topics/perfectly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jacob_hacker_212503",
+        "quote": "Americans believe that people should work hard and get ahead on their own, but when disaster strikes and they need help with retirement or disability, Americans as a whole should come to their aid.",
+        "author": {
+            "name": "Jacob Hacker",
+            "url": "/quotes/jacob_hacker_212503"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Work Hard",
+                "url": "/topics/work_hard"
+            },
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/saint_stephen_195673",
+        "quote": "You desire that which exceeds my humble powers, but I trust in the compassion and mercy of the All-powerful God.",
+        "author": {
+            "name": "Saint Stephen",
+            "url": "/quotes/saint_stephen_195673"
+        },
+        "topics": [
+            {
+                "name": "Trust",
+                "url": "/topics/trust"
+            },
+            {
+                "name": "Humble",
+                "url": "/topics/humble"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/saint_stephen_195670",
+        "quote": "We cannot both preach and administer financial matters.",
+        "author": {
+            "name": "Saint Stephen",
+            "url": "/quotes/saint_stephen_195670"
+        },
+        "topics": [
+            {
+                "name": "Finance",
+                "url": "/topics/finance"
+            },
+            {
+                "name": "Matters",
+                "url": "/topics/matters"
+            },
+            {
+                "name": "We Cannot",
+                "url": "/topics/we_cannot"
+            }
+        ]
+    }
+]

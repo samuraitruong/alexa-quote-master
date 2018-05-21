@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/sebastian_franck_361847",
+        "quote": "The world loves to be deceived.",
+        "author": {
+            "name": "Sebastian Franck",
+            "url": "/quotes/sebastian_franck_361847"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Deceived",
+                "url": "/topics/deceived"
+            },
+            {
+                "name": "Loves",
+                "url": "/topics/loves"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sebastian_franck_361848",
+        "quote": "To substitute Scripture for the self-revealing Spirit is to put the dead letter in the place of the living Word.",
+        "author": {
+            "name": "Sebastian Franck",
+            "url": "/quotes/sebastian_franck_361848"
+        },
+        "topics": [
+            {
+                "name": "Living",
+                "url": "/topics/living"
+            },
+            {
+                "name": "Spirit",
+                "url": "/topics/spirit"
+            },
+            {
+                "name": "Letter",
+                "url": "/topics/letter"
+            }
+        ]
+    }
+]

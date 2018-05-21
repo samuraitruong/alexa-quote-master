@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/raymond_hull_120416",
+        "quote": "The applause of a single human being is of great consequence.",
+        "author": {
+            "name": "Raymond Hull",
+            "url": "/quotes/raymond_hull_120416"
+        },
+        "topics": [
+            {
+                "name": "Single",
+                "url": "/topics/single"
+            },
+            {
+                "name": "Human Being",
+                "url": "/topics/human_being"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/raymond_hull_104270",
+        "quote": "He who trims himself to suit everyone will soon whittle himself away.",
+        "author": {
+            "name": "Raymond Hull",
+            "url": "/quotes/raymond_hull_104270"
+        },
+        "topics": [
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            },
+            {
+                "name": "Himself",
+                "url": "/topics/himself"
+            },
+            {
+                "name": "Everyone",
+                "url": "/topics/everyone"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/raymond_hull_161787",
+        "quote": "All marriages are happy. It's the living together afterward that causes all the trouble.",
+        "author": {
+            "name": "Raymond Hull",
+            "url": "/quotes/raymond_hull_161787"
+        },
+        "topics": [
+            {
+                "name": "Marriage",
+                "url": "/topics/marriage"
+            },
+            {
+                "name": "Living",
+                "url": "/topics/living"
+            },
+            {
+                "name": "Marriages",
+                "url": "/topics/marriages"
+            }
+        ]
+    }
+]

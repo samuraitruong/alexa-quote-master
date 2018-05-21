@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/hunter_king_723157",
+        "quote": "The solution to putting an end to bullying is to stop it at the source but also to find out what is causing the person to behave the way that they do.",
+        "author": {
+            "name": "Hunter King",
+            "url": "/quotes/hunter_king_723157"
+        },
+        "topics": [
+            {
+                "name": "Source",
+                "url": "/topics/source"
+            },
+            {
+                "name": "Putting",
+                "url": "/topics/putting"
+            },
+            {
+                "name": "Also",
+                "url": "/topics/also"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/hunter_king_723158",
+        "quote": "One bully changing their behavior for the better can have a profound effect on many, many lives.",
+        "author": {
+            "name": "Hunter King",
+            "url": "/quotes/hunter_king_723158"
+        },
+        "topics": [
+            {
+                "name": "Better",
+                "url": "/topics/better"
+            },
+            {
+                "name": "Profound",
+                "url": "/topics/profound"
+            },
+            {
+                "name": "Lives",
+                "url": "/topics/lives"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/louis_jordan_185991",
+        "quote": "The only people who make love all the time are liars.",
+        "author": {
+            "name": "Louis Jordan",
+            "url": "/quotes/louis_jordan_185991"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Liars",
+                "url": "/topics/liars"
+            },
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/louis_jordan_333244",
+        "quote": "With my little band, I did everything they did with a big band. I made the blues jump.",
+        "author": {
+            "name": "Louis Jordan",
+            "url": "/quotes/louis_jordan_333244"
+        },
+        "topics": [
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Made",
+                "url": "/topics/made"
+            },
+            {
+                "name": "Big Band",
+                "url": "/topics/big_band"
+            }
+        ]
+    }
+]

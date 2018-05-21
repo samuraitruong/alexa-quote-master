@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/du_fu_215628",
+        "quote": "My heart is in a world of water and crystal, My clothes are damp in this time of spring rains.",
+        "author": {
+            "name": "Du Fu",
+            "url": "/quotes/du_fu_215628"
+        },
+        "topics": [
+            {
+                "name": "Spring",
+                "url": "/topics/spring"
+            },
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Crystal",
+                "url": "/topics/crystal"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/du_fu_215624",
+        "quote": "The weeping voices rise straight up and strike the clouds. A passer-by at the roadside asks a conscript why, The conscript answers only that drafting happens often.",
+        "author": {
+            "name": "Du Fu",
+            "url": "/quotes/du_fu_215624"
+        },
+        "topics": [
+            {
+                "name": "Strike",
+                "url": "/topics/strike"
+            },
+            {
+                "name": "Roadside",
+                "url": "/topics/roadside"
+            },
+            {
+                "name": "Voices",
+                "url": "/topics/voices"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/du_fu_215629",
+        "quote": "This cream will help one's nature strengthen and grow, The diet gives support in my decline.",
+        "author": {
+            "name": "Du Fu",
+            "url": "/quotes/du_fu_215629"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "Grow",
+                "url": "/topics/grow"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/du_fu_215630",
+        "quote": "This morning's scene is good and fine, Long rain has not harmed the land.",
+        "author": {
+            "name": "Du Fu",
+            "url": "/quotes/du_fu_215630"
+        },
+        "topics": [
+            {
+                "name": "Rain",
+                "url": "/topics/rain"
+            },
+            {
+                "name": "Fine",
+                "url": "/topics/fine"
+            },
+            {
+                "name": "Harmed",
+                "url": "/topics/harmed"
+            }
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/david_burtka_634330",
+        "quote": "A relationship is work, and it changes. And you go with the changes. It's more good times than bad times, but it's not always good. You have to overcome those issues and move on.",
+        "author": {
+            "name": "David Burtka",
+            "url": "/quotes/david_burtka_634330"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            },
+            {
+                "name": "Move",
+                "url": "/topics/move"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_burtka_634329",
+        "quote": "I always thought that family was the most important thing in life, and no matter what I do, whether being a chef or an actor or a dancer, being a dad is what I do best.",
+        "author": {
+            "name": "David Burtka",
+            "url": "/quotes/david_burtka_634329"
+        },
+        "topics": [
+            {
+                "name": "The Most Important",
+                "url": "/topics/the_most_important"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            }
+        ]
+    }
+]

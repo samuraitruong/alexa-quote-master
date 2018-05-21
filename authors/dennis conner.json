@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/dennis_conner_388813",
+        "quote": "My goal in sailing isn't to be brilliant or flashy in individual races, just to be consistent over the long run.",
+        "author": {
+            "name": "Dennis Conner",
+            "url": "/quotes/dennis_conner_388813"
+        },
+        "topics": [
+            {
+                "name": "Goal",
+                "url": "/topics/goal"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Brilliant",
+                "url": "/topics/brilliant"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dennis_conner_111462",
+        "quote": "Design has taken the place of what sailing used to be.",
+        "author": {
+            "name": "Dennis Conner",
+            "url": "/quotes/dennis_conner_111462"
+        },
+        "topics": [
+            {
+                "name": "Place",
+                "url": "/topics/place"
+            },
+            {
+                "name": "Design",
+                "url": "/topics/design"
+            },
+            {
+                "name": "Taken",
+                "url": "/topics/taken"
+            }
+        ]
+    }
+]

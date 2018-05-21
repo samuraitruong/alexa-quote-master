@@ -1,0 +1,134 @@
+[
+    {
+        "url": "/quotes/william_butler_yeats_101244?src=t_pail",
+        "quote": "Education is not the filling of a pail, but the lighting of a fire.",
+        "author": {
+            "name": "William Butler Yeats",
+            "url": "/authors/william_butler_yeats"
+        },
+        "topics": [
+            {
+                "name": "Education",
+                "url": "/topics/education"
+            },
+            {
+                "name": "Fire",
+                "url": "/topics/fire"
+            },
+            {
+                "name": "Filling",
+                "url": "/topics/filling"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/herbert_hoover_165630?src=t_pail",
+        "quote": "The slogan of progress is changing from the full dinner pail to the full garage.",
+        "author": {
+            "name": "Herbert Hoover",
+            "url": "/authors/herbert_hoover"
+        },
+        "topics": [
+            {
+                "name": "Progress",
+                "url": "/topics/progress"
+            },
+            {
+                "name": "Changing",
+                "url": "/topics/changing"
+            },
+            {
+                "name": "Garage",
+                "url": "/topics/garage"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/hank_aaron_139763?src=t_pail",
+        "quote": "You can only milk a cow so long, then you're left holding the pail.",
+        "author": {
+            "name": "Hank Aaron",
+            "url": "/authors/hank_aaron"
+        },
+        "topics": [
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            },
+            {
+                "name": "Holding",
+                "url": "/topics/holding"
+            },
+            {
+                "name": "Left",
+                "url": "/topics/left"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_moog_190537?src=t_pail",
+        "quote": "One always has to remember these days where the garbage pail is, because it's so easy to make sounds, and to put sounds together into something that appears to be music, but it's just as hard as it always was to make good music.",
+        "author": {
+            "name": "Robert Moog",
+            "url": "/authors/robert_moog"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Garbage",
+                "url": "/topics/garbage"
+            },
+            {
+                "name": "Appears",
+                "url": "/topics/appears"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/pardis_sabeti_775113?src=t_pail",
+        "quote": "At 9, I think I had really gotten into tennis. I liked writing short stories; I loved solving math problems. I was learning a little piano, and I was collecting Garbage Pail Kids cards.",
+        "author": {
+            "name": "Pardis Sabeti",
+            "url": "/authors/pardis_sabeti"
+        },
+        "topics": [
+            {
+                "name": "Cards",
+                "url": "/topics/cards"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Solving",
+                "url": "/topics/solving"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/todd_lowe_584896?src=t_pail",
+        "quote": "I liked baseball and sports and Garbage Pail Kids and comic books. I know what it's like to really adore something.",
+        "author": {
+            "name": "Todd Lowe",
+            "url": "/authors/todd_lowe"
+        },
+        "topics": [
+            {
+                "name": "Sports",
+                "url": "/topics/sports"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Comic Books",
+                "url": "/topics/comic_books"
+            }
+        ]
+    }
+]

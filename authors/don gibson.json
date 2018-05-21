@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/don_gibson_188503",
+        "quote": "Simple is the only way I can write.",
+        "author": {
+            "name": "Don Gibson",
+            "url": "/quotes/don_gibson_188503"
+        },
+        "topics": [
+            {
+                "name": "Simple",
+                "url": "/topics/simple"
+            },
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            },
+            {
+                "name": "Write",
+                "url": "/topics/write"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/don_gibson_188504",
+        "quote": "The only thing I was any good at was music.",
+        "author": {
+            "name": "Don Gibson",
+            "url": "/quotes/don_gibson_188504"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            },
+            {
+                "name": "The Only Thing",
+                "url": "/topics/the_only_thing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/don_gibson_188505",
+        "quote": "When I wrote those two songs, I couldn't have been any closer to the bottom.",
+        "author": {
+            "name": "Don Gibson",
+            "url": "/quotes/don_gibson_188505"
+        },
+        "topics": [
+            {
+                "name": "Bottom",
+                "url": "/topics/bottom"
+            },
+            {
+                "name": "Songs",
+                "url": "/topics/songs"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/thomas_eakins_132245",
+        "quote": "The big artist keeps an eye on nature and steals her tools.",
+        "author": {
+            "name": "Thomas Eakins",
+            "url": "/quotes/thomas_eakins_132245"
+        },
+        "topics": [
+            {
+                "name": "Eye",
+                "url": "/topics/eye"
+            },
+            {
+                "name": "Her",
+                "url": "/topics/her"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            }
+        ]
+    }
+]

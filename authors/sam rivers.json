@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/sam_rivers_190285",
+        "quote": "The great musicians are those who can reach people, who can make people feel something.",
+        "author": {
+            "name": "Sam Rivers",
+            "url": "/quotes/sam_rivers_190285"
+        },
+        "topics": [
+            {
+                "name": "Musicians",
+                "url": "/topics/musicians"
+            },
+            {
+                "name": "Reach",
+                "url": "/topics/reach"
+            },
+            {
+                "name": "Feel",
+                "url": "/topics/feel"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sam_rivers_190126",
+        "quote": "I have made that one of my policies never to play anything that I've already put on record.",
+        "author": {
+            "name": "Sam Rivers",
+            "url": "/quotes/sam_rivers_190126"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Made",
+                "url": "/topics/made"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sam_rivers_190124",
+        "quote": "Well I'm a third-generation musician. My Grandfather's a musician and my father and mother were both musicians and so I'm a musician. It was just natural that I should be a musician 'cause I was born into the family.",
+        "author": {
+            "name": "Sam Rivers",
+            "url": "/quotes/sam_rivers_190124"
+        },
+        "topics": [
+            {
+                "name": "Father",
+                "url": "/topics/father"
+            },
+            {
+                "name": "Natural",
+                "url": "/topics/natural"
+            },
+            {
+                "name": "I Was Born",
+                "url": "/topics/i_was_born"
+            }
+        ]
+    }
+]

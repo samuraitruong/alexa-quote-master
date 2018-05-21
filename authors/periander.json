@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/periander_404402",
+        "quote": "Practice is everything. This is often misquoted as Practice makes perfect.",
+        "author": {
+            "name": "Periander",
+            "url": "/quotes/periander_404402"
+        },
+        "topics": [
+            {
+                "name": "Practice",
+                "url": "/topics/practice"
+            },
+            {
+                "name": "Perfect",
+                "url": "/topics/perfect"
+            },
+            {
+                "name": "Makes",
+                "url": "/topics/makes"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/periander_405006",
+        "quote": "Be moderate in prosperity, prudent in adversity.",
+        "author": {
+            "name": "Periander",
+            "url": "/quotes/periander_405006"
+        },
+        "topics": [
+            {
+                "name": "Adversity",
+                "url": "/topics/adversity"
+            },
+            {
+                "name": "Prudent",
+                "url": "/topics/prudent"
+            },
+            {
+                "name": "Moderate",
+                "url": "/topics/moderate"
+            }
+        ]
+    }
+]

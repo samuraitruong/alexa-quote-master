@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/leon_jaworski_170544",
+        "quote": "From Watergate we learned what generations before us have known; our Constitution works. And during Watergate years it was interpreted again so as to reaffirm that no one - absolutely no one - is above the law.",
+        "author": {
+            "name": "Leon Jaworski",
+            "url": "/quotes/leon_jaworski_170544"
+        },
+        "topics": [
+            {
+                "name": "Law",
+                "url": "/topics/law"
+            },
+            {
+                "name": "Constitution",
+                "url": "/topics/constitution"
+            },
+            {
+                "name": "Works",
+                "url": "/topics/works"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/leon_jaworski_178429",
+        "quote": "I would rather have a competent extremist than an incompetent moderate.",
+        "author": {
+            "name": "Leon Jaworski",
+            "url": "/quotes/leon_jaworski_178429"
+        },
+        "topics": [
+            {
+                "name": "Than",
+                "url": "/topics/than"
+            },
+            {
+                "name": "Rather",
+                "url": "/topics/rather"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            }
+        ]
+    }
+]

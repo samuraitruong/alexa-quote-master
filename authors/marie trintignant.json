@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/marie_trintignant_188430",
+        "quote": "The theatre fulfills, whereas the cinema is empty.",
+        "author": {
+            "name": "Marie Trintignant",
+            "url": "/quotes/marie_trintignant_188430"
+        },
+        "topics": [
+            {
+                "name": "Theatre",
+                "url": "/topics/theatre"
+            },
+            {
+                "name": "Fulfills",
+                "url": "/topics/fulfills"
+            },
+            {
+                "name": "Whereas",
+                "url": "/topics/whereas"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marie_trintignant_188431",
+        "quote": "I like characters with problems. I like to understand them... To play alcoholics, fetishists, strange girls, you have to dig deep within yourself. It's 'elsewhere' that interests me.",
+        "author": {
+            "name": "Marie Trintignant",
+            "url": "/quotes/marie_trintignant_188431"
+        },
+        "topics": [
+            {
+                "name": "Deep",
+                "url": "/topics/deep"
+            },
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Dig",
+                "url": "/topics/dig"
+            }
+        ]
+    }
+]

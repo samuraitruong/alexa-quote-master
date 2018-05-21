@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/dante_ferretti_537301",
+        "quote": "I studied fine arts and architecture, but I decided to move into movie design because I grew up in a small town in the Marche region and spent a lot of time after school in the movie theater.",
+        "author": {
+            "name": "Dante Ferretti",
+            "url": "/quotes/dante_ferretti_537301"
+        },
+        "topics": [
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Movie",
+                "url": "/topics/movie"
+            },
+            {
+                "name": "Decided",
+                "url": "/topics/decided"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dante_ferretti_537302",
+        "quote": "I didn't want to be an actor. I wanted to design historical movies like 'Ben-Hur'. I saw this as my life.",
+        "author": {
+            "name": "Dante Ferretti",
+            "url": "/quotes/dante_ferretti_537302"
+        },
+        "topics": [
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    }
+]

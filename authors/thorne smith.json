@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/thorne_smith_185009",
+        "quote": "Like life itself my stories have no point and get absolutely nowhere.",
+        "author": {
+            "name": "Thorne Smith",
+            "url": "/quotes/thorne_smith_185009"
+        },
+        "topics": [
+            {
+                "name": "Nowhere",
+                "url": "/topics/nowhere"
+            },
+            {
+                "name": "Itself",
+                "url": "/topics/itself"
+            },
+            {
+                "name": "Stories",
+                "url": "/topics/stories"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thorne_smith_185008",
+        "quote": "Without so much as turning a hair I freely admit that I am one of America's greatest realists.",
+        "author": {
+            "name": "Thorne Smith",
+            "url": "/quotes/thorne_smith_185008"
+        },
+        "topics": [
+            {
+                "name": "Without",
+                "url": "/topics/without"
+            },
+            {
+                "name": "Realists",
+                "url": "/topics/realists"
+            },
+            {
+                "name": "Am",
+                "url": "/topics/am"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thorne_smith_185010",
+        "quote": "Quite casually I wander into my plot, poke around with my characters for a while, then amble off, leaving no moral proved and no reader improved.",
+        "author": {
+            "name": "Thorne Smith",
+            "url": "/quotes/thorne_smith_185010"
+        },
+        "topics": [
+            {
+                "name": "Reader",
+                "url": "/topics/reader"
+            },
+            {
+                "name": "Then",
+                "url": "/topics/then"
+            },
+            {
+                "name": "While",
+                "url": "/topics/while"
+            }
+        ]
+    }
+]

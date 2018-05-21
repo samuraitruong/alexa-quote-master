@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/thomas_blood_205858",
+        "quote": "I'll answer to none but the King himself.",
+        "author": {
+            "name": "Thomas Blood",
+            "url": "/quotes/thomas_blood_205858"
+        },
+        "topics": [
+            {
+                "name": "King",
+                "url": "/topics/king"
+            },
+            {
+                "name": "Answer",
+                "url": "/topics/answer"
+            },
+            {
+                "name": "Himself",
+                "url": "/topics/himself"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_blood_205859",
+        "quote": "I would endeavour to deserve my life, Sire.",
+        "author": {
+            "name": "Thomas Blood",
+            "url": "/quotes/thomas_blood_205859"
+        },
+        "topics": [
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Deserve",
+                "url": "/topics/deserve"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            }
+        ]
+    }
+]

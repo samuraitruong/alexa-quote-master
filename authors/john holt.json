@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/john_holt_160537",
+        "quote": "Since we can't know what knowledge will be most needed in the future, it is senseless to try to teach it in advance. Instead, we should try to turn out people who love learning so much and learn so well that they will be able to learn whatever needs to be learned.",
+        "author": {
+            "name": "John Holt",
+            "url": "/quotes/john_holt_160537"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Senseless",
+                "url": "/topics/senseless"
+            },
+            {
+                "name": "Needed",
+                "url": "/topics/needed"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_holt_160536",
+        "quote": "No use to shout at them to pay attention. If the situations, the materials, the problems before the child do not interest him, his attention will slip off to what does interest him, and no amount of exhortation of threats will bring it back.",
+        "author": {
+            "name": "John Holt",
+            "url": "/quotes/john_holt_160536"
+        },
+        "topics": [
+            {
+                "name": "Pay Attention",
+                "url": "/topics/pay_attention"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Amount",
+                "url": "/topics/amount"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_holt_160535",
+        "quote": "People should be free to find or make for themselves the kinds of educational experience they want their children to have.",
+        "author": {
+            "name": "John Holt",
+            "url": "/quotes/john_holt_160535"
+        },
+        "topics": [
+            {
+                "name": "Children",
+                "url": "/topics/children"
+            },
+            {
+                "name": "Find",
+                "url": "/topics/find"
+            },
+            {
+                "name": "Educational",
+                "url": "/topics/educational"
+            }
+        ]
+    }
+]

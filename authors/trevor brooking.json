@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/trevor_brooking_164467",
+        "quote": "Unfortunately, we don't get a second chance. We've already played them twice.",
+        "author": {
+            "name": "Trevor Brooking",
+            "url": "/quotes/trevor_brooking_164467"
+        },
+        "topics": [
+            {
+                "name": "Second Chance",
+                "url": "/topics/second_chance"
+            },
+            {
+                "name": "Chance",
+                "url": "/topics/chance"
+            },
+            {
+                "name": "Twice",
+                "url": "/topics/twice"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/trevor_brooking_140424",
+        "quote": "Historically, the host nations do well in Euro 2000.",
+        "author": {
+            "name": "Trevor Brooking",
+            "url": "/quotes/trevor_brooking_140424"
+        },
+        "topics": [
+            {
+                "name": "Host",
+                "url": "/topics/host"
+            },
+            {
+                "name": "Euro",
+                "url": "/topics/euro"
+            },
+            {
+                "name": "Historically",
+                "url": "/topics/historically"
+            }
+        ]
+    }
+]

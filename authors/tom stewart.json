@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/tom_stewart_405691",
+        "quote": "Internal marketing is probably much more important than external marketing. That's even more true today than it's ever been.",
+        "author": {
+            "name": "Tom Stewart",
+            "url": "/quotes/tom_stewart_405691"
+        },
+        "topics": [
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Internal",
+                "url": "/topics/internal"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tom_stewart_405692",
+        "quote": "It's easy for women to say they don't understand and ask a man for help. As the saying goes, boys play with toys, and girls play with boys.",
+        "author": {
+            "name": "Tom Stewart",
+            "url": "/quotes/tom_stewart_405692"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Toys",
+                "url": "/topics/toys"
+            },
+            {
+                "name": "Goes",
+                "url": "/topics/goes"
+            }
+        ]
+    }
+]

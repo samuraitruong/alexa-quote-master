@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/henry_wotton_170306",
+        "quote": "An ambassador is an honest man sent abroad to lie and intrigue for the benefit of his country.",
+        "author": {
+            "name": "Henry Wotton",
+            "url": "/quotes/henry_wotton_170306"
+        },
+        "topics": [
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Abroad",
+                "url": "/topics/abroad"
+            },
+            {
+                "name": "Intrigue",
+                "url": "/topics/intrigue"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henry_wotton_127436",
+        "quote": "Tell the truth so as to puzzle and confound your adversaries.",
+        "author": {
+            "name": "Henry Wotton",
+            "url": "/quotes/henry_wotton_127436"
+        },
+        "topics": [
+            {
+                "name": "Truth",
+                "url": "/topics/truth"
+            },
+            {
+                "name": "Puzzle",
+                "url": "/topics/puzzle"
+            },
+            {
+                "name": "Tell",
+                "url": "/topics/tell"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henry_wotton_161035",
+        "quote": "Well-building hat three conditions. Commodity, firmness, and delight.",
+        "author": {
+            "name": "Henry Wotton",
+            "url": "/quotes/henry_wotton_161035"
+        },
+        "topics": [
+            {
+                "name": "Hat",
+                "url": "/topics/hat"
+            },
+            {
+                "name": "Commodity",
+                "url": "/topics/commodity"
+            },
+            {
+                "name": "Firmness",
+                "url": "/topics/firmness"
+            }
+        ]
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "url": "/quotes/abe_vigoda_354593",
+        "quote": "Clinton's a schmuck.",
+        "author": {
+            "name": "Abe Vigoda",
+            "url": "/quotes/abe_vigoda_354593"
+        },
+        "topics": [
+            {
+                "name": "Schmuck",
+                "url": "/topics/schmuck"
+            },
+            {
+                "name": "Clinton",
+                "url": "/topics/clinton"
+            }
+        ]
+    }
+]

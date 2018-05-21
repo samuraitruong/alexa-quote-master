@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/william_jay_190819",
+        "quote": "Half the pleasure of solitude comes from having with us some friend to whom we can say how sweet solitude is.",
+        "author": {
+            "name": "William Jay",
+            "url": "/quotes/william_jay_190819"
+        },
+        "topics": [
+            {
+                "name": "Half",
+                "url": "/topics/half"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Having",
+                "url": "/topics/having"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_jay_190820",
+        "quote": "A dislike of death is no proof of the want of religion. The instincts of nature shrink from it, for no creature can like its own dissolution. But though death is not desired, the result of it may be, for dying to the Christian is the way to life eternal.",
+        "author": {
+            "name": "William Jay",
+            "url": "/quotes/william_jay_190820"
+        },
+        "topics": [
+            {
+                "name": "Death",
+                "url": "/topics/death"
+            },
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Though",
+                "url": "/topics/though"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/stanley_weiser_399478",
+        "quote": "A fool and his money are lucky enough to get together in the first place.",
+        "author": {
+            "name": "Stanley Weiser",
+            "url": "/quotes/stanley_weiser_399478"
+        },
+        "topics": [
+            {
+                "name": "Lucky",
+                "url": "/topics/lucky"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            },
+            {
+                "name": "First Place",
+                "url": "/topics/first_place"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/stanley_weiser_397765",
+        "quote": "Lunch? You gotta be kidding. Lunch is for wimps.",
+        "author": {
+            "name": "Stanley Weiser",
+            "url": "/quotes/stanley_weiser_397765"
+        },
+        "topics": [
+            {
+                "name": "Lunch",
+                "url": "/topics/lunch"
+            },
+            {
+                "name": "Wimps",
+                "url": "/topics/wimps"
+            },
+            {
+                "name": "Kidding",
+                "url": "/topics/kidding"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/stanley_weiser_403810",
+        "quote": "What's worth doing is worth doing for money.",
+        "author": {
+            "name": "Stanley Weiser",
+            "url": "/quotes/stanley_weiser_403810"
+        },
+        "topics": [
+            {
+                "name": "Money",
+                "url": "/topics/money"
+            },
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Worth",
+                "url": "/topics/worth"
+            }
+        ]
+    }
+]

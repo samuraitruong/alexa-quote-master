@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/dick_sargent_265757",
+        "quote": "I wanted him to love me, and I'm quite sure that he didn't.",
+        "author": {
+            "name": "Dick Sargent",
+            "url": "/quotes/dick_sargent_265757"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Sure",
+                "url": "/topics/sure"
+            },
+            {
+                "name": "Wanted",
+                "url": "/topics/wanted"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dick_sargent_265758",
+        "quote": "It was such a relief. I lived in fear of being found out. Now it's given me a whole new mission in life.",
+        "author": {
+            "name": "Dick Sargent",
+            "url": "/quotes/dick_sargent_265758"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Whole",
+                "url": "/topics/whole"
+            },
+            {
+                "name": "Given",
+                "url": "/topics/given"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dick_sargent_265759",
+        "quote": "This has been harder for my friends. I know I'm going to die.",
+        "author": {
+            "name": "Dick Sargent",
+            "url": "/quotes/dick_sargent_265759"
+        },
+        "topics": [
+            {
+                "name": "Die",
+                "url": "/topics/die"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    }
+]

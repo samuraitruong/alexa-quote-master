@@ -1,0 +1,200 @@
+[
+    {
+        "url": "/quotes/tom_waits_192843?src=t_giveth",
+        "quote": "The big print giveth and the small print taketh away.",
+        "author": {
+            "name": "Tom Waits",
+            "url": "/authors/tom_waits"
+        },
+        "topics": [
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Print",
+                "url": "/topics/print"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/stephen_harper_200040?src=t_giveth",
+        "quote": "If Ottawa giveth, then Ottawa can taketh away.",
+        "author": {
+            "name": "Stephen Harper",
+            "url": "/authors/stephen_harper"
+        },
+        "topics": [
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            },
+            {
+                "name": "Then",
+                "url": "/topics/then"
+            },
+            {
+                "name": "Ottawa",
+                "url": "/topics/ottawa"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/francis_bacon_149815?src=t_giveth",
+        "quote": "There is as much difference between the counsel that a friend giveth, and that a man giveth himself, as there is between the counsel of a friend and of a flatterer. For there is no such flatterer as is a man's self.",
+        "author": {
+            "name": "Francis Bacon",
+            "url": "/authors/francis_bacon"
+        },
+        "topics": [
+            {
+                "name": "Counsel",
+                "url": "/topics/counsel"
+            },
+            {
+                "name": "Himself",
+                "url": "/topics/himself"
+            },
+            {
+                "name": "Flatterer",
+                "url": "/topics/flatterer"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edward_g_bulwerlytton_118194?src=t_giveth",
+        "quote": "If thou be industrious to procure wealth, be generous in the disposal of it. Man never is so happy as when he giveth happiness unto another.",
+        "author": {
+            "name": "Edward G. Bulwer-Lytton",
+            "url": "/authors/edward_g_bulwerlytton"
+        },
+        "topics": [
+            {
+                "name": "Happy",
+                "url": "/topics/happy"
+            },
+            {
+                "name": "Wealth",
+                "url": "/topics/wealth"
+            },
+            {
+                "name": "Unto",
+                "url": "/topics/unto"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henry_wadsworth_longfello_118805?src=t_giveth",
+        "quote": "For his heart was in his work, and the heart giveth grace unto every art.",
+        "author": {
+            "name": "Henry Wadsworth Longfellow",
+            "url": "/authors/henry_wadsworth_longfello"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            },
+            {
+                "name": "Unto",
+                "url": "/topics/unto"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/fulton_j_sheen_155507?src=t_giveth",
+        "quote": "The big print giveth, and the fine print taketh away.",
+        "author": {
+            "name": "Fulton J. Sheen",
+            "url": "/authors/fulton_j_sheen"
+        },
+        "topics": [
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            },
+            {
+                "name": "Print",
+                "url": "/topics/print"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_metcalfe_100297?src=t_giveth",
+        "quote": "Grove giveth and Gates taketh away.",
+        "author": {
+            "name": "Robert Metcalfe",
+            "url": "/authors/robert_metcalfe"
+        },
+        "topics": [
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            },
+            {
+                "name": "Gates",
+                "url": "/topics/gates"
+            },
+            {
+                "name": "Grove",
+                "url": "/topics/grove"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_petty_200180?src=t_giveth",
+        "quote": "Wherefore when a man giveth out his money upon condition that be may not demand it back until a certain time to come, he certainly may take a compensation for this inconvenience which he admits against himself.",
+        "author": {
+            "name": "William Petty",
+            "url": "/authors/william_petty"
+        },
+        "topics": [
+            {
+                "name": "Against",
+                "url": "/topics/against"
+            },
+            {
+                "name": "Back",
+                "url": "/topics/back"
+            },
+            {
+                "name": "Wherefore",
+                "url": "/topics/wherefore"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_tusser_176206?src=t_giveth",
+        "quote": "God sendeth and giveth both mouth and meat.",
+        "author": {
+            "name": "Thomas Tusser",
+            "url": "/authors/thomas_tusser"
+        },
+        "topics": [
+            {
+                "name": "God",
+                "url": "/topics/god"
+            },
+            {
+                "name": "Mouth",
+                "url": "/topics/mouth"
+            },
+            {
+                "name": "Meat",
+                "url": "/topics/meat"
+            }
+        ]
+    }
+]

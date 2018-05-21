@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/frank_perdue_215699",
+        "quote": "I never liked filming the ads, but they were so well received.",
+        "author": {
+            "name": "Frank Perdue",
+            "url": "/quotes/frank_perdue_215699"
+        },
+        "topics": [
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Ads",
+                "url": "/topics/ads"
+            },
+            {
+                "name": "Filming",
+                "url": "/topics/filming"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/frank_perdue_215697",
+        "quote": "If you do this, you're going to have some heartaches from it. You're going to have people yelling at you or maybe screaming at you or criticizing you, but I think it's the best way to sell a superior chicken.",
+        "author": {
+            "name": "Frank Perdue",
+            "url": "/quotes/frank_perdue_215697"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Best Way",
+                "url": "/topics/best_way"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/frank_perdue_215696",
+        "quote": "It takes a tough man to make a tender chicken.",
+        "author": {
+            "name": "Frank Perdue",
+            "url": "/quotes/frank_perdue_215696"
+        },
+        "topics": [
+            {
+                "name": "Man",
+                "url": "/topics/man"
+            },
+            {
+                "name": "Chicken",
+                "url": "/topics/chicken"
+            },
+            {
+                "name": "Tender",
+                "url": "/topics/tender"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/frank_perdue_215701",
+        "quote": "Baseball was a dream I gathered more splinters than hits.",
+        "author": {
+            "name": "Frank Perdue",
+            "url": "/quotes/frank_perdue_215701"
+        },
+        "topics": [
+            {
+                "name": "Dream",
+                "url": "/topics/dream"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Hits",
+                "url": "/topics/hits"
+            }
+        ]
+    }
+]

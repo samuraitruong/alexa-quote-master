@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/daniel_keyes_707019",
+        "quote": "I've learned that intelligence alone doesn't mean a damn thing. It only leads to violence and pain.",
+        "author": {
+            "name": "Daniel Keyes",
+            "url": "/quotes/daniel_keyes_707019"
+        },
+        "topics": [
+            {
+                "name": "Pain",
+                "url": "/topics/pain"
+            },
+            {
+                "name": "Intelligence",
+                "url": "/topics/intelligence"
+            },
+            {
+                "name": "Learned",
+                "url": "/topics/learned"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/daniel_keyes_707020",
+        "quote": "I love the fact that 'Flowers for Algernon' is doing its part to get people reading.",
+        "author": {
+            "name": "Daniel Keyes",
+            "url": "/quotes/daniel_keyes_707020"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Flowers",
+                "url": "/topics/flowers"
+            },
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/daniel_keyes_707018",
+        "quote": "I thought: 'My education is driving a wedge between me and the people I love.' And then I wondered: 'What would happen if it were possible to increase a person's intelligence?'",
+        "author": {
+            "name": "Daniel Keyes",
+            "url": "/quotes/daniel_keyes_707018"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Education",
+                "url": "/topics/education"
+            },
+            {
+                "name": "Happen",
+                "url": "/topics/happen"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/daniel_keyes_707021",
+        "quote": "My father was in the paper recycling business back before they called it recycling.",
+        "author": {
+            "name": "Daniel Keyes",
+            "url": "/quotes/daniel_keyes_707021"
+        },
+        "topics": [
+            {
+                "name": "Business",
+                "url": "/topics/business"
+            },
+            {
+                "name": "Paper",
+                "url": "/topics/paper"
+            },
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            }
+        ]
+    }
+]

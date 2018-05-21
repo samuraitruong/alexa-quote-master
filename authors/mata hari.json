@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/mata_hari_142210",
+        "quote": "The dance is a poem of which each movement is a word.",
+        "author": {
+            "name": "Mata Hari",
+            "url": "/quotes/mata_hari_142210"
+        },
+        "topics": [
+            {
+                "name": "Dance",
+                "url": "/topics/dance"
+            },
+            {
+                "name": "Poem",
+                "url": "/topics/poem"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mata_hari_143113",
+        "quote": "I am a woman who enjoys herself very much; sometimes I lose, sometimes I win.",
+        "author": {
+            "name": "Mata Hari",
+            "url": "/quotes/mata_hari_143113"
+        },
+        "topics": [
+            {
+                "name": "Woman",
+                "url": "/topics/woman"
+            },
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    }
+]

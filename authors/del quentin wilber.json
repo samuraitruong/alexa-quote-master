@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/del_quentin_wilber_665833",
+        "quote": "A key goal for an author of history is to persuade his or her readers to forget what they know and to relive the world as it unfolded for characters of the time - with outcomes uncertain.",
+        "author": {
+            "name": "Del Quentin Wilber",
+            "url": "/quotes/del_quentin_wilber_665833"
+        },
+        "topics": [
+            {
+                "name": "History",
+                "url": "/topics/history"
+            },
+            {
+                "name": "Goal",
+                "url": "/topics/goal"
+            },
+            {
+                "name": "Author",
+                "url": "/topics/author"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/del_quentin_wilber_665832",
+        "quote": "Evidence from mobile devices has provided critical help in solving crimes ranging from homicides to drug trafficking.",
+        "author": {
+            "name": "Del Quentin Wilber",
+            "url": "/quotes/del_quentin_wilber_665832"
+        },
+        "topics": [
+            {
+                "name": "Evidence",
+                "url": "/topics/evidence"
+            },
+            {
+                "name": "Critical",
+                "url": "/topics/critical"
+            },
+            {
+                "name": "Solving",
+                "url": "/topics/solving"
+            }
+        ]
+    }
+]

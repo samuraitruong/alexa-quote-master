@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/john_ohurley_454347",
+        "quote": "I never like to think of anything from an ending point.",
+        "author": {
+            "name": "John O'Hurley",
+            "url": "/quotes/john_ohurley_454347"
+        },
+        "topics": [
+            {
+                "name": "Ending",
+                "url": "/topics/ending"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_ohurley_454348",
+        "quote": "I've learned a lot about putting a show up in Vegas. You can't just all of a sudden put up a show here and do well. Nobody does.",
+        "author": {
+            "name": "John O'Hurley",
+            "url": "/quotes/john_ohurley_454348"
+        },
+        "topics": [
+            {
+                "name": "Vegas",
+                "url": "/topics/vegas"
+            },
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            },
+            {
+                "name": "Putting",
+                "url": "/topics/putting"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_ohurley_454349",
+        "quote": "If you want to see theater you go to New York.",
+        "author": {
+            "name": "John O'Hurley",
+            "url": "/quotes/john_ohurley_454349"
+        },
+        "topics": [
+            {
+                "name": "New York",
+                "url": "/topics/new_york"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "See",
+                "url": "/topics/see"
+            }
+        ]
+    }
+]

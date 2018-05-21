@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/thomas_nashe_190480",
+        "quote": "Beauty is but a flower, which wrinkles will devour.",
+        "author": {
+            "name": "Thomas Nashe",
+            "url": "/quotes/thomas_nashe_190480"
+        },
+        "topics": [
+            {
+                "name": "Beauty",
+                "url": "/topics/beauty"
+            },
+            {
+                "name": "Wrinkles",
+                "url": "/topics/wrinkles"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_nashe_311589",
+        "quote": "Our learning ought to be our lives' amendment, and the fruits of our private study ought to appear in our public behavior.",
+        "author": {
+            "name": "Thomas Nashe",
+            "url": "/quotes/thomas_nashe_311589"
+        },
+        "topics": [
+            {
+                "name": "Amendment",
+                "url": "/topics/amendment"
+            },
+            {
+                "name": "Appear",
+                "url": "/topics/appear"
+            },
+            {
+                "name": "Private",
+                "url": "/topics/private"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_nashe_311587",
+        "quote": "Blest is that government where no art thrives.",
+        "author": {
+            "name": "Thomas Nashe",
+            "url": "/quotes/thomas_nashe_311587"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Government",
+                "url": "/topics/government"
+            },
+            {
+                "name": "Where",
+                "url": "/topics/where"
+            }
+        ]
+    }
+]

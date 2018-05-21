@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/hermann_weyl_172572",
+        "quote": "You can not apply mathematics as long as words still becloud reality.",
+        "author": {
+            "name": "Hermann Weyl",
+            "url": "/quotes/hermann_weyl_172572"
+        },
+        "topics": [
+            {
+                "name": "Mathematics",
+                "url": "/topics/mathematics"
+            },
+            {
+                "name": "Apply",
+                "url": "/topics/apply"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/hermann_weyl_392773",
+        "quote": "My work always tried to unite the true with the beautiful, but when I had to choose one or the other, I usually chose the beautiful.",
+        "author": {
+            "name": "Hermann Weyl",
+            "url": "/quotes/hermann_weyl_392773"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Unite",
+                "url": "/topics/unite"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    }
+]

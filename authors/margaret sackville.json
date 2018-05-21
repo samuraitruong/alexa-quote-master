@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/margaret_sackville_354539",
+        "quote": "When all is said and done, monotony may after all be the best condition for creation.",
+        "author": {
+            "name": "Margaret Sackville",
+            "url": "/quotes/margaret_sackville_354539"
+        },
+        "topics": [
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Monotony",
+                "url": "/topics/monotony"
+            },
+            {
+                "name": "Condition",
+                "url": "/topics/condition"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/margaret_sackville_354540",
+        "quote": "Laughter is ever young, whereas tragedy, except the very highest of all, quickly becomes haggard.",
+        "author": {
+            "name": "Margaret Sackville",
+            "url": "/quotes/margaret_sackville_354540"
+        },
+        "topics": [
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Ever",
+                "url": "/topics/ever"
+            },
+            {
+                "name": "Haggard",
+                "url": "/topics/haggard"
+            }
+        ]
+    }
+]

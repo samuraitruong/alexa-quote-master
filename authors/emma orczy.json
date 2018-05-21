@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/emma_orczy_205893",
+        "quote": "A surging, seething, murmuring crowd of beings that are human only in name, for to the eye and ear they seem naught but savage creatures, animated by vile passions and by the lust of vengeance and of hate.",
+        "author": {
+            "name": "Emma Orczy",
+            "url": "/quotes/emma_orczy_205893"
+        },
+        "topics": [
+            {
+                "name": "Vengeance",
+                "url": "/topics/vengeance"
+            },
+            {
+                "name": "Crowd",
+                "url": "/topics/crowd"
+            },
+            {
+                "name": "Surging",
+                "url": "/topics/surging"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/emma_orczy_205892",
+        "quote": "We seek him here, we seek him there, Those Frenchies seek him everywhere. Is he in heaven? - Is he in hell? That damned, elusive Pimpernel?",
+        "author": {
+            "name": "Emma Orczy",
+            "url": "/quotes/emma_orczy_205892"
+        },
+        "topics": [
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            },
+            {
+                "name": "Elusive",
+                "url": "/topics/elusive"
+            },
+            {
+                "name": "Everywhere",
+                "url": "/topics/everywhere"
+            }
+        ]
+    }
+]

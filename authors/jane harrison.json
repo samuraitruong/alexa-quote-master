@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/jane_harrison_145581",
+        "quote": "To be meek, patient, tactful, modest, honorable, brave, is not to be either manly or womanly; it is to be humane.",
+        "author": {
+            "name": "Jane Harrison",
+            "url": "/quotes/jane_harrison_145581"
+        },
+        "topics": [
+            {
+                "name": "Humane",
+                "url": "/topics/humane"
+            },
+            {
+                "name": "Womanly",
+                "url": "/topics/womanly"
+            },
+            {
+                "name": "Either",
+                "url": "/topics/either"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jane_harrison_160523",
+        "quote": "To be womanly is one thing, and one only; it is to be sensitive to man, to be highly endowed with the sex instinct; to be manly is to be sensitive to woman.",
+        "author": {
+            "name": "Jane Harrison",
+            "url": "/quotes/jane_harrison_160523"
+        },
+        "topics": [
+            {
+                "name": "Woman",
+                "url": "/topics/woman"
+            },
+            {
+                "name": "Sex",
+                "url": "/topics/sex"
+            },
+            {
+                "name": "Instinct",
+                "url": "/topics/instinct"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jane_harrison_160522",
+        "quote": "A young and vital child knows no limit to his own will, and it is the only reality to him. It is not that he wants at the outset to fight other wills, but that they simply do not exist for him. Like the artist, he goes forth to the work of creation, gloriously alone.",
+        "author": {
+            "name": "Jane Harrison",
+            "url": "/quotes/jane_harrison_160522"
+        },
+        "topics": [
+            {
+                "name": "Young",
+                "url": "/topics/young"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Outset",
+                "url": "/topics/outset"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jane_harrison_160524",
+        "quote": "Marriage, for a woman at least, hampers the two things that made life to me glorious - friendship and learning.",
+        "author": {
+            "name": "Jane Harrison",
+            "url": "/quotes/jane_harrison_160524"
+        },
+        "topics": [
+            {
+                "name": "Friendship",
+                "url": "/topics/friendship"
+            },
+            {
+                "name": "Marriage",
+                "url": "/topics/marriage"
+            },
+            {
+                "name": "Woman",
+                "url": "/topics/woman"
+            }
+        ]
+    }
+]

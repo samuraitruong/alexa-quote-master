@@ -1,0 +1,222 @@
+[
+    {
+        "url": "/quotes/vanessa_paradis_450640?src=t_fragile_thing",
+        "quote": "Love is the strongest and most fragile thing we have in life.",
+        "author": {
+            "name": "Vanessa Paradis",
+            "url": "/authors/vanessa_paradis"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "Strongest",
+                "url": "/topics/strongest"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_broughton_295272?src=t_fragile_thing",
+        "quote": "True delicacy is not a fragile thing.",
+        "author": {
+            "name": "James Broughton",
+            "url": "/authors/james_broughton"
+        },
+        "topics": [
+            {
+                "name": "True",
+                "url": "/topics/true"
+            },
+            {
+                "name": "Fragile",
+                "url": "/topics/fragile"
+            },
+            {
+                "name": "Thing",
+                "url": "/topics/thing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alan_rudolph_381059?src=t_fragile_thing",
+        "quote": "Human identity is the most fragile thing that we have, and it's often only found in moments of truth.",
+        "author": {
+            "name": "Alan Rudolph",
+            "url": "/authors/alan_rudolph"
+        },
+        "topics": [
+            {
+                "name": "Moments",
+                "url": "/topics/moments"
+            },
+            {
+                "name": "Found",
+                "url": "/topics/found"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joe_montana_127518?src=t_fragile_thing",
+        "quote": "Confidence is a very fragile thing.",
+        "author": {
+            "name": "Joe Montana",
+            "url": "/authors/joe_montana"
+        },
+        "topics": [
+            {
+                "name": "Confidence",
+                "url": "/topics/confidence"
+            },
+            {
+                "name": "Fragile",
+                "url": "/topics/fragile"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jenny_shipley_355924?src=t_fragile_thing",
+        "quote": "Peace is a fragile thing. It takes courage to secure it. It takes wisdom to maintain it.",
+        "author": {
+            "name": "Jenny Shipley",
+            "url": "/authors/jenny_shipley"
+        },
+        "topics": [
+            {
+                "name": "Peace",
+                "url": "/topics/peace"
+            },
+            {
+                "name": "Fragile",
+                "url": "/topics/fragile"
+            },
+            {
+                "name": "Maintain",
+                "url": "/topics/maintain"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sam_shepard_192476?src=t_fragile_thing",
+        "quote": "Democracy's a very fragile thing. You have to take care of democracy. As soon as you stop being responsible to it and allow it to turn into scare tactics, it's no longer democracy, is it? It's something else. It may be an inch away from totalitarianism.",
+        "author": {
+            "name": "Sam Shepard",
+            "url": "/authors/sam_shepard"
+        },
+        "topics": [
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Allow",
+                "url": "/topics/allow"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/holly_hunter_837004?src=t_fragile_thing",
+        "quote": "To me, being creative is a very fragile thing. The environment in which one can create is a very particular one, and somehow, I've always felt the need to be very protective of that.",
+        "author": {
+            "name": "Holly Hunter",
+            "url": "/authors/holly_hunter"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/azzedine_alaia_611266?src=t_fragile_thing",
+        "quote": "As for success, I don't care for it. It is a fragile thing.",
+        "author": {
+            "name": "Azzedine Alaia",
+            "url": "/authors/azzedine_alaia"
+        },
+        "topics": [
+            {
+                "name": "Success",
+                "url": "/topics/success"
+            },
+            {
+                "name": "Fragile",
+                "url": "/topics/fragile"
+            },
+            {
+                "name": "Thing",
+                "url": "/topics/thing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tom_tancredo_853063?src=t_fragile_thing",
+        "quote": "Our Founders were not naive simpletons. They understood that human freedom is a fragile thing, that 'eternal vigilance is the price of liberty.'",
+        "author": {
+            "name": "Tom Tancredo",
+            "url": "/authors/tom_tancredo"
+        },
+        "topics": [
+            {
+                "name": "Eternal",
+                "url": "/topics/eternal"
+            },
+            {
+                "name": "Founders",
+                "url": "/topics/founders"
+            },
+            {
+                "name": "Our",
+                "url": "/topics/our"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kirk_hammett_560987?src=t_fragile_thing",
+        "quote": "Metallica is a very complicated, fragile thing. On the outside, it's all metal, but on the inside it's very delicate.",
+        "author": {
+            "name": "Kirk Hammett",
+            "url": "/authors/kirk_hammett"
+        },
+        "topics": [
+            {
+                "name": "Delicate",
+                "url": "/topics/delicate"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Metallica",
+                "url": "/topics/metallica"
+            }
+        ]
+    }
+]

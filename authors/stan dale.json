@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/stan_dale_190709",
+        "quote": "It all changed when I realized I'm not the only one on the planet who's scared. Everyone else is, too.",
+        "author": {
+            "name": "Stan Dale",
+            "url": "/quotes/stan_dale_190709"
+        },
+        "topics": [
+            {
+                "name": "Everyone",
+                "url": "/topics/everyone"
+            },
+            {
+                "name": "Everyone Else",
+                "url": "/topics/everyone_else"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/stan_dale_190707",
+        "quote": "Comfort zones are plush lined coffins. When you stay in your plush lined coffins, you die.",
+        "author": {
+            "name": "Stan Dale",
+            "url": "/quotes/stan_dale_190707"
+        },
+        "topics": [
+            {
+                "name": "Die",
+                "url": "/topics/die"
+            },
+            {
+                "name": "Your",
+                "url": "/topics/your"
+            },
+            {
+                "name": "Lined",
+                "url": "/topics/lined"
+            }
+        ]
+    }
+]

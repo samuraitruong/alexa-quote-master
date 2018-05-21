@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/barry_bostwick_303748",
+        "quote": "Every man over 40 should have a PSA test each year.",
+        "author": {
+            "name": "Barry Bostwick",
+            "url": "/quotes/barry_bostwick_303748"
+        },
+        "topics": [
+            {
+                "name": "Test",
+                "url": "/topics/test"
+            },
+            {
+                "name": "Year",
+                "url": "/topics/year"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/barry_bostwick_303750",
+        "quote": "I'll have the chance to do a production number on A Capitol Fourth.",
+        "author": {
+            "name": "Barry Bostwick",
+            "url": "/quotes/barry_bostwick_303750"
+        },
+        "topics": [
+            {
+                "name": "Chance",
+                "url": "/topics/chance"
+            },
+            {
+                "name": "Capitol",
+                "url": "/topics/capitol"
+            },
+            {
+                "name": "Number",
+                "url": "/topics/number"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/barry_bostwick_303751",
+        "quote": "In the 60s, if you wanted to be an actor, you couldn't do just one thing.",
+        "author": {
+            "name": "Barry Bostwick",
+            "url": "/quotes/barry_bostwick_303751"
+        },
+        "topics": [
+            {
+                "name": "Actor",
+                "url": "/topics/actor"
+            },
+            {
+                "name": "Just One",
+                "url": "/topics/just_one"
+            },
+            {
+                "name": "Wanted",
+                "url": "/topics/wanted"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/barry_bostwick_303752",
+        "quote": "Later, I even appeared in a Rock Opera with Richard Gere.",
+        "author": {
+            "name": "Barry Bostwick",
+            "url": "/quotes/barry_bostwick_303752"
+        },
+        "topics": [
+            {
+                "name": "Rock",
+                "url": "/topics/rock"
+            },
+            {
+                "name": "Later",
+                "url": "/topics/later"
+            },
+            {
+                "name": "Richard",
+                "url": "/topics/richard"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/stanley_kramer_610474",
+        "quote": "I'm always pursuing the next dream, hunting for the next truth.",
+        "author": {
+            "name": "Stanley Kramer",
+            "url": "/quotes/stanley_kramer_610474"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            },
+            {
+                "name": "Pursuing",
+                "url": "/topics/pursuing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/stanley_kramer_610475",
+        "quote": "If I am to be remembered for anything I have done in this profession, I would like it to be for the four films in which I directed Spencer Tracy.",
+        "author": {
+            "name": "Stanley Kramer",
+            "url": "/quotes/stanley_kramer_610475"
+        },
+        "topics": [
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Profession",
+                "url": "/topics/profession"
+            },
+            {
+                "name": "Films",
+                "url": "/topics/films"
+            }
+        ]
+    }
+]

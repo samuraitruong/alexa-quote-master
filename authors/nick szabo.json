@@ -1,0 +1,200 @@
+[
+    {
+        "url": "/quotes/nick_szabo_847083",
+        "quote": "Instead of the cashier and ticket-ripper of the movie theater, the block chain consists of thousands of computers that can process digital tickets, money, and many other fiduciary objects in digital form. Think of thousands of robots wearing green eye shades, all checking each other's accounting.",
+        "author": {
+            "name": "Nick Szabo",
+            "url": "/quotes/nick_szabo_847083"
+        },
+        "topics": [
+            {
+                "name": "Shades",
+                "url": "/topics/shades"
+            },
+            {
+                "name": "Checking",
+                "url": "/topics/checking"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nick_szabo_847086",
+        "quote": "What proplets do is they look to the blockchain to see who owns them; they are kind of like SIM cards today - they know where they are at.",
+        "author": {
+            "name": "Nick Szabo",
+            "url": "/quotes/nick_szabo_847086"
+        },
+        "topics": [
+            {
+                "name": "Cards",
+                "url": "/topics/cards"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Kind",
+                "url": "/topics/kind"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nick_szabo_847085",
+        "quote": "Let's try to secure everything.",
+        "author": {
+            "name": "Nick Szabo",
+            "url": "/quotes/nick_szabo_847085"
+        },
+        "topics": [
+            {
+                "name": "Try",
+                "url": "/topics/try"
+            },
+            {
+                "name": "Everything",
+                "url": "/topics/everything"
+            },
+            {
+                "name": "Secure",
+                "url": "/topics/secure"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nick_szabo_847091",
+        "quote": "Smart property might be created by embedding smart contracts in physical objects.",
+        "author": {
+            "name": "Nick Szabo",
+            "url": "/quotes/nick_szabo_847091"
+        },
+        "topics": [
+            {
+                "name": "Might",
+                "url": "/topics/might"
+            },
+            {
+                "name": "Created",
+                "url": "/topics/created"
+            },
+            {
+                "name": "Objects",
+                "url": "/topics/objects"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nick_szabo_847087",
+        "quote": "With original cryptography, you are just trying to secure one narrow thing - say, communications - and you are trying to secure it from a third party. But you can't secure it from the party you are talking to if they forward your email; it doesn't matter how well your email is encrypted.",
+        "author": {
+            "name": "Nick Szabo",
+            "url": "/quotes/nick_szabo_847087"
+        },
+        "topics": [
+            {
+                "name": "Talking",
+                "url": "/topics/talking"
+            },
+            {
+                "name": "Secure",
+                "url": "/topics/secure"
+            },
+            {
+                "name": "Your",
+                "url": "/topics/your"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nick_szabo_847088",
+        "quote": "Physical wealth has not necessarily been very secure.",
+        "author": {
+            "name": "Nick Szabo",
+            "url": "/quotes/nick_szabo_847088"
+        },
+        "topics": [
+            {
+                "name": "Wealth",
+                "url": "/topics/wealth"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nick_szabo_847090",
+        "quote": "It's completely reasonable, even if some Bitcoin currency purists wouldn't like it, to have credit and debit card payments denominated in Bitcoin rather than dollars, and net settled on Bitcoin instead of on Fedwire.",
+        "author": {
+            "name": "Nick Szabo",
+            "url": "/quotes/nick_szabo_847090"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Rather",
+                "url": "/topics/rather"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nick_szabo_847084",
+        "quote": "There's a strong distinction to be made between dry code smart contacts and wet code's physical law. So law is based on our minds, our wetware - it's based on analogy. The law is more flexible; software is more rigid. Various laws tend to be batched in jurisdictional silos. Software tends to be independent.",
+        "author": {
+            "name": "Nick Szabo",
+            "url": "/quotes/nick_szabo_847084"
+        },
+        "topics": [
+            {
+                "name": "Strong",
+                "url": "/topics/strong"
+            },
+            {
+                "name": "Distinction",
+                "url": "/topics/distinction"
+            },
+            {
+                "name": "Code",
+                "url": "/topics/code"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nick_szabo_847089",
+        "quote": "Let's try to protect everything that's important to us.",
+        "author": {
+            "name": "Nick Szabo",
+            "url": "/quotes/nick_szabo_847089"
+        },
+        "topics": [
+            {
+                "name": "Important",
+                "url": "/topics/important"
+            },
+            {
+                "name": "Try",
+                "url": "/topics/try"
+            },
+            {
+                "name": "Protect",
+                "url": "/topics/protect"
+            }
+        ]
+    }
+]

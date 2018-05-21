@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/arthur_lowe_207342",
+        "quote": "Acting must be scaled down for the screen. A drawing room is a lot smaller than a theatre auditorium.",
+        "author": {
+            "name": "Arthur Lowe",
+            "url": "/quotes/arthur_lowe_207342"
+        },
+        "topics": [
+            {
+                "name": "Theatre",
+                "url": "/topics/theatre"
+            },
+            {
+                "name": "Lot",
+                "url": "/topics/lot"
+            },
+            {
+                "name": "Auditorium",
+                "url": "/topics/auditorium"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/arthur_lowe_207343",
+        "quote": "An actor is an actor is an actor. The less personality an actor has off stage the better. A blank canvas on which to draw the characters he plays.",
+        "author": {
+            "name": "Arthur Lowe",
+            "url": "/quotes/arthur_lowe_207343"
+        },
+        "topics": [
+            {
+                "name": "Canvas",
+                "url": "/topics/canvas"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Blank",
+                "url": "/topics/blank"
+            }
+        ]
+    }
+]

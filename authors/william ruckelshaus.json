@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/william_ruckelshaus_307748",
+        "quote": "Nature provides a free lunch, but only if we control our appetites.",
+        "author": {
+            "name": "William Ruckelshaus",
+            "url": "/quotes/william_ruckelshaus_307748"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "Lunch",
+                "url": "/topics/lunch"
+            },
+            {
+                "name": "Appetites",
+                "url": "/topics/appetites"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_ruckelshaus_380842",
+        "quote": "Why argue about things you can't prove?",
+        "author": {
+            "name": "William Ruckelshaus",
+            "url": "/quotes/william_ruckelshaus_380842"
+        },
+        "topics": [
+            {
+                "name": "Prove",
+                "url": "/topics/prove"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Things",
+                "url": "/topics/things"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_ruckelshaus_381956",
+        "quote": "The best way to win an argument is to begin by being right.",
+        "author": {
+            "name": "William Ruckelshaus",
+            "url": "/quotes/william_ruckelshaus_381956"
+        },
+        "topics": [
+            {
+                "name": "Best",
+                "url": "/topics/best"
+            },
+            {
+                "name": "Argument",
+                "url": "/topics/argument"
+            },
+            {
+                "name": "Best Way",
+                "url": "/topics/best_way"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_ruckelshaus_388859",
+        "quote": "We need to fashion policies with proper incentives to reduce the amount of carbon we are putting in the atmosphere.",
+        "author": {
+            "name": "William Ruckelshaus",
+            "url": "/quotes/william_ruckelshaus_388859"
+        },
+        "topics": [
+            {
+                "name": "Atmosphere",
+                "url": "/topics/atmosphere"
+            },
+            {
+                "name": "Reduce",
+                "url": "/topics/reduce"
+            },
+            {
+                "name": "Amount",
+                "url": "/topics/amount"
+            }
+        ]
+    }
+]

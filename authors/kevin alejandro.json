@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/kevin_alejandro_486554",
+        "quote": "I absolutely love spending time with my family.",
+        "author": {
+            "name": "Kevin Alejandro",
+            "url": "/quotes/kevin_alejandro_486554"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Absolutely",
+                "url": "/topics/absolutely"
+            },
+            {
+                "name": "Spending",
+                "url": "/topics/spending"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kevin_alejandro_486555",
+        "quote": "I want to do all kinds of things. I want to do some comedy. I'd love to do a romantic comedy, and I'd love to do some period pieces with classical text. I'd love somebody to cast me as Macbeth, but for a film. I just want to be all over the place.",
+        "author": {
+            "name": "Kevin Alejandro",
+            "url": "/quotes/kevin_alejandro_486555"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    }
+]

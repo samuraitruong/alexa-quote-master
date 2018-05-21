@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/florence_green_622140",
+        "quote": "I enjoyed my time in the WRAF. There were plenty of people at the airfields where I worked, and they were all very good company.",
+        "author": {
+            "name": "Florence Green",
+            "url": "/quotes/florence_green_622140"
+        },
+        "topics": [
+            {
+                "name": "People",
+                "url": "/topics/people"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Plenty",
+                "url": "/topics/plenty"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/florence_green_622141",
+        "quote": "I met dozens of pilots and would go on dates. I had the opportunity to go up in one of the planes, but I was scared of flying.",
+        "author": {
+            "name": "Florence Green",
+            "url": "/quotes/florence_green_622141"
+        },
+        "topics": [
+            {
+                "name": "Pilots",
+                "url": "/topics/pilots"
+            },
+            {
+                "name": "Go",
+                "url": "/topics/go"
+            },
+            {
+                "name": "Dozens",
+                "url": "/topics/dozens"
+            }
+        ]
+    }
+]

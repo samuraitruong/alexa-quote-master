@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/roger_mcnamee_564003",
+        "quote": "I had better cellular coverage on a ship in the middle of the Mediterranean Sea than I have in many parts of Silicon Valley.",
+        "author": {
+            "name": "Roger McNamee",
+            "url": "/quotes/roger_mcnamee_564003"
+        },
+        "topics": [
+            {
+                "name": "Ship",
+                "url": "/topics/ship"
+            },
+            {
+                "name": "Middle",
+                "url": "/topics/middle"
+            },
+            {
+                "name": "Coverage",
+                "url": "/topics/coverage"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/roger_mcnamee_564004",
+        "quote": "We need to stop thinking about infrastructure as an economic stimulant and start thinking about it as a strategy. Economic stimulants produce Bridges to Nowhere. Strategic investment in infrastructure produces a foundation for long-term growth.",
+        "author": {
+            "name": "Roger McNamee",
+            "url": "/quotes/roger_mcnamee_564004"
+        },
+        "topics": [
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            },
+            {
+                "name": "Strategic",
+                "url": "/topics/strategic"
+            },
+            {
+                "name": "Stimulants",
+                "url": "/topics/stimulants"
+            }
+        ]
+    }
+]

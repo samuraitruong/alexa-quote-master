@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/rosa_luxemburg_279546?src=t_true_teacher",
+        "quote": "History is the only true teacher, the revolution the best school for the proletariat.",
+        "author": {
+            "name": "Rosa Luxemburg",
+            "url": "/authors/rosa_luxemburg"
+        },
+        "topics": [
+            {
+                "name": "Teacher",
+                "url": "/topics/teacher"
+            },
+            {
+                "name": "School",
+                "url": "/topics/school"
+            },
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/amos_bronson_alcott_161898?src=t_true_teacher",
+        "quote": "The true teacher defends his pupils against his own personal influence. He inspires self-trust. He guides their eyes from himself to the spirit that quickens him. He will have no disciples.",
+        "author": {
+            "name": "Amos Bronson Alcott",
+            "url": "/authors/amos_bronson_alcott"
+        },
+        "topics": [
+            {
+                "name": "Teacher",
+                "url": "/topics/teacher"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Pupils",
+                "url": "/topics/pupils"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/elbert_hubbard_386579?src=t_true_teacher",
+        "quote": "The teacher is the one who gets the most out of the lessons, and the true teacher is the learner.",
+        "author": {
+            "name": "Elbert Hubbard",
+            "url": "/authors/elbert_hubbard"
+        },
+        "topics": [
+            {
+                "name": "Teacher",
+                "url": "/topics/teacher"
+            },
+            {
+                "name": "Learner",
+                "url": "/topics/learner"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/amos_bronson_alcott_148600?src=t_true_teacher",
+        "quote": "A true teacher defends his students against his own personal influences.",
+        "author": {
+            "name": "Amos Bronson Alcott",
+            "url": "/authors/amos_bronson_alcott"
+        },
+        "topics": [
+            {
+                "name": "Teacher",
+                "url": "/topics/teacher"
+            },
+            {
+                "name": "Against",
+                "url": "/topics/against"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            }
+        ]
+    }
+]

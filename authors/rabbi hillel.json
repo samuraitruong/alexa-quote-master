@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/rabbi_hillel_173085",
+        "quote": "If I am not for myself, who will be for me? If I am not for others, what am I? And if not now, when?",
+        "author": {
+            "name": "Rabbi Hillel",
+            "url": "/quotes/rabbi_hillel_173085"
+        },
+        "topics": [
+            {
+                "name": "Myself",
+                "url": "/topics/myself"
+            },
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rabbi_hillel_387774",
+        "quote": "He who refuses to learn deserves extinction.",
+        "author": {
+            "name": "Rabbi Hillel",
+            "url": "/quotes/rabbi_hillel_387774"
+        },
+        "topics": [
+            {
+                "name": "Learn",
+                "url": "/topics/learn"
+            },
+            {
+                "name": "Extinction",
+                "url": "/topics/extinction"
+            },
+            {
+                "name": "Deserves",
+                "url": "/topics/deserves"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rabbi_hillel_388266",
+        "quote": "Do not do to others what you would not have them do to you.",
+        "author": {
+            "name": "Rabbi Hillel",
+            "url": "/quotes/rabbi_hillel_388266"
+        },
+        "topics": [
+            {
+                "name": "Others",
+                "url": "/topics/others"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            },
+            {
+                "name": "Them",
+                "url": "/topics/them"
+            }
+        ]
+    }
+]

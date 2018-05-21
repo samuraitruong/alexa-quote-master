@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/john_fund_193374",
+        "quote": "I think Democrats often hold the unconstrained vision, and Republicans focus more on the Rule of Law.",
+        "author": {
+            "name": "John Fund",
+            "url": "/quotes/john_fund_193374"
+        },
+        "topics": [
+            {
+                "name": "Law",
+                "url": "/topics/law"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_fund_193375",
+        "quote": "Rhetoric is cheap, evidence comes more dearly.",
+        "author": {
+            "name": "John Fund",
+            "url": "/quotes/john_fund_193375"
+        },
+        "topics": [
+            {
+                "name": "Evidence",
+                "url": "/topics/evidence"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Rhetoric",
+                "url": "/topics/rhetoric"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_fund_193376",
+        "quote": "Given that Mr. Kerry is clearly exaggerating what happened to minority voters in the 2000 election in Florida, maybe we should wait for him to provide evidence of what he is alleging in 2004.",
+        "author": {
+            "name": "John Fund",
+            "url": "/quotes/john_fund_193376"
+        },
+        "topics": [
+            {
+                "name": "Wait",
+                "url": "/topics/wait"
+            },
+            {
+                "name": "Given",
+                "url": "/topics/given"
+            },
+            {
+                "name": "Alleging",
+                "url": "/topics/alleging"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_fund_193379",
+        "quote": "That the decision is taken away from the voters, and as in 2000 turned over to the lawyers and the courts.",
+        "author": {
+            "name": "John Fund",
+            "url": "/quotes/john_fund_193379"
+        },
+        "topics": [
+            {
+                "name": "Lawyers",
+                "url": "/topics/lawyers"
+            },
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            }
+        ]
+    }
+]

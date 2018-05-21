@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/rhys_wakefield_544373",
+        "quote": "I got to learn what does and doesn't work on screen. Because the turnaround is so fast, there's no messing around. You have to be on the ball.",
+        "author": {
+            "name": "Rhys Wakefield",
+            "url": "/quotes/rhys_wakefield_544373"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Learn",
+                "url": "/topics/learn"
+            },
+            {
+                "name": "Messing",
+                "url": "/topics/messing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rhys_wakefield_544374",
+        "quote": "I'd like to do interesting indie films mixed with big, high-paying commercial blockbusters. 'One for you, one for me,' is what they say.",
+        "author": {
+            "name": "Rhys Wakefield",
+            "url": "/quotes/rhys_wakefield_544374"
+        },
+        "topics": [
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Indie",
+                "url": "/topics/indie"
+            },
+            {
+                "name": "Films",
+                "url": "/topics/films"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/ferdinand_piech_405165",
+        "quote": "In my career quite a few people have tried to force me out, but so far no one has succeeded.",
+        "author": {
+            "name": "Ferdinand Piech",
+            "url": "/quotes/ferdinand_piech_405165"
+        },
+        "topics": [
+            {
+                "name": "Career",
+                "url": "/topics/career"
+            },
+            {
+                "name": "People",
+                "url": "/topics/people"
+            },
+            {
+                "name": "Out",
+                "url": "/topics/out"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ferdinand_piech_405186",
+        "quote": "During my career several people have tried to push me out the door... Nobody has succeeded yet.",
+        "author": {
+            "name": "Ferdinand Piech",
+            "url": "/quotes/ferdinand_piech_405186"
+        },
+        "topics": [
+            {
+                "name": "Door",
+                "url": "/topics/door"
+            },
+            {
+                "name": "Career",
+                "url": "/topics/career"
+            },
+            {
+                "name": "Several",
+                "url": "/topics/several"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ferdinand_piech_131014",
+        "quote": "If you fire people, you fire customers.",
+        "author": {
+            "name": "Ferdinand Piech",
+            "url": "/quotes/ferdinand_piech_131014"
+        },
+        "topics": [
+            {
+                "name": "Business",
+                "url": "/topics/business"
+            },
+            {
+                "name": "Fire",
+                "url": "/topics/fire"
+            },
+            {
+                "name": "Customers",
+                "url": "/topics/customers"
+            }
+        ]
+    }
+]

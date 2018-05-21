@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/harry_hay_202400",
+        "quote": "The assimilationist movement is running us into the ground.",
+        "author": {
+            "name": "Harry Hay",
+            "url": "/quotes/harry_hay_202400"
+        },
+        "topics": [
+            {
+                "name": "Movement",
+                "url": "/topics/movement"
+            },
+            {
+                "name": "Ground",
+                "url": "/topics/ground"
+            },
+            {
+                "name": "Running",
+                "url": "/topics/running"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/harry_hay_202401",
+        "quote": "I condemn the national gay press for its emphasis on consumerism.",
+        "author": {
+            "name": "Harry Hay",
+            "url": "/quotes/harry_hay_202401"
+        },
+        "topics": [
+            {
+                "name": "National",
+                "url": "/topics/national"
+            },
+            {
+                "name": "Emphasis",
+                "url": "/topics/emphasis"
+            },
+            {
+                "name": "Condemn",
+                "url": "/topics/condemn"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/harry_hay_202402",
+        "quote": "Giving votes in exchange for ideological support. To wit: identity politics for homosexuals.",
+        "author": {
+            "name": "Harry Hay",
+            "url": "/quotes/harry_hay_202402"
+        },
+        "topics": [
+            {
+                "name": "Politics",
+                "url": "/topics/politics"
+            },
+            {
+                "name": "Wit",
+                "url": "/topics/wit"
+            },
+            {
+                "name": "Ideological",
+                "url": "/topics/ideological"
+            }
+        ]
+    }
+]

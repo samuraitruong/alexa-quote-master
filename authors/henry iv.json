@@ -1,0 +1,134 @@
+[
+    {
+        "url": "/quotes/henry_iv_144099",
+        "quote": "I want there to be no peasant in my kingdom so poor that he cannot have a chicken in his pot every Sunday.",
+        "author": {
+            "name": "Henry IV",
+            "url": "/quotes/henry_iv_144099"
+        },
+        "topics": [
+            {
+                "name": "Chicken",
+                "url": "/topics/chicken"
+            },
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Peasant",
+                "url": "/topics/peasant"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henry_iv_694491",
+        "quote": "I would willingly give fifty thousand crowns to be able to say that I took Paris without costing the life of one single man.",
+        "author": {
+            "name": "Henry IV",
+            "url": "/quotes/henry_iv_694491"
+        },
+        "topics": [
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            },
+            {
+                "name": "Fifty",
+                "url": "/topics/fifty"
+            },
+            {
+                "name": "Took",
+                "url": "/topics/took"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henry_iv_694492",
+        "quote": "Religion is not changed as easily as a shirt.",
+        "author": {
+            "name": "Henry IV",
+            "url": "/quotes/henry_iv_694492"
+        },
+        "topics": [
+            {
+                "name": "Religion",
+                "url": "/topics/religion"
+            },
+            {
+                "name": "Shirt",
+                "url": "/topics/shirt"
+            },
+            {
+                "name": "Easily",
+                "url": "/topics/easily"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henry_iv_694488",
+        "quote": "I had rather be plundered by my enemies than by my friends.",
+        "author": {
+            "name": "Henry IV",
+            "url": "/quotes/henry_iv_694488"
+        },
+        "topics": [
+            {
+                "name": "Than",
+                "url": "/topics/than"
+            },
+            {
+                "name": "Had",
+                "url": "/topics/had"
+            },
+            {
+                "name": "Rather",
+                "url": "/topics/rather"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henry_iv_694489",
+        "quote": "It is in the midst of disasters that bold men grow bolder.",
+        "author": {
+            "name": "Henry IV",
+            "url": "/quotes/henry_iv_694489"
+        },
+        "topics": [
+            {
+                "name": "Men",
+                "url": "/topics/men"
+            },
+            {
+                "name": "Grow",
+                "url": "/topics/grow"
+            },
+            {
+                "name": "Disasters",
+                "url": "/topics/disasters"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henry_iv_694490",
+        "quote": "Paris must not be a cemetery. I do not wish to reign over the dead.",
+        "author": {
+            "name": "Henry IV",
+            "url": "/quotes/henry_iv_694490"
+        },
+        "topics": [
+            {
+                "name": "Wish",
+                "url": "/topics/wish"
+            },
+            {
+                "name": "Paris",
+                "url": "/topics/paris"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/bob_denver_194866",
+        "quote": "Gilligan's Island is wherever you want it to be in your mind.",
+        "author": {
+            "name": "Bob Denver",
+            "url": "/quotes/bob_denver_194866"
+        },
+        "topics": [
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Island",
+                "url": "/topics/island"
+            },
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bob_denver_194865",
+        "quote": "You know, I have no worst experiences.",
+        "author": {
+            "name": "Bob Denver",
+            "url": "/quotes/bob_denver_194865"
+        },
+        "topics": [
+            {
+                "name": "Know",
+                "url": "/topics/know"
+            },
+            {
+                "name": "Experiences",
+                "url": "/topics/experiences"
+            },
+            {
+                "name": "Worst",
+                "url": "/topics/worst"
+            }
+        ]
+    }
+]

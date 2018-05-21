@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/jerry_dammers_613916",
+        "quote": "When I was a school kid in Coventry, I used to put up anti-apartheid stickers.",
+        "author": {
+            "name": "Jerry Dammers",
+            "url": "/quotes/jerry_dammers_613916"
+        },
+        "topics": [
+            {
+                "name": "School",
+                "url": "/topics/school"
+            },
+            {
+                "name": "Kid",
+                "url": "/topics/kid"
+            },
+            {
+                "name": "Used",
+                "url": "/topics/used"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jerry_dammers_613917",
+        "quote": "I was the Specials' founder, main songwriter and keyboard player.",
+        "author": {
+            "name": "Jerry Dammers",
+            "url": "/quotes/jerry_dammers_613917"
+        },
+        "topics": [
+            {
+                "name": "Keyboard",
+                "url": "/topics/keyboard"
+            },
+            {
+                "name": "Founder",
+                "url": "/topics/founder"
+            },
+            {
+                "name": "Main",
+                "url": "/topics/main"
+            }
+        ]
+    }
+]

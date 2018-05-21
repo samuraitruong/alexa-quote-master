@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/richard_lovelace_163391",
+        "quote": "Stone walls do not a prison make, nor iron bars a cage.",
+        "author": {
+            "name": "Richard Lovelace",
+            "url": "/quotes/richard_lovelace_163391"
+        },
+        "topics": [
+            {
+                "name": "Walls",
+                "url": "/topics/walls"
+            },
+            {
+                "name": "Cage",
+                "url": "/topics/cage"
+            },
+            {
+                "name": "Nor",
+                "url": "/topics/nor"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/richard_lovelace_320721",
+        "quote": "If I have freedom in my love, And in my soul am free, - Angels alone that soar above, Enjoy such liberty.",
+        "author": {
+            "name": "Richard Lovelace",
+            "url": "/quotes/richard_lovelace_320721"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Soul",
+                "url": "/topics/soul"
+            },
+            {
+                "name": "Enjoy",
+                "url": "/topics/enjoy"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/richard_lovelace_320720",
+        "quote": "I could not love thee, dear, so much, loved I not honor more.",
+        "author": {
+            "name": "Richard Lovelace",
+            "url": "/quotes/richard_lovelace_320720"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Loved",
+                "url": "/topics/loved"
+            },
+            {
+                "name": "Thee",
+                "url": "/topics/thee"
+            }
+        ]
+    }
+]

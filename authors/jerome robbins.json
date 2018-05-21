@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/jerome_robbins_191857",
+        "quote": "I told you to sell it, not give it away.",
+        "author": {
+            "name": "Jerome Robbins",
+            "url": "/quotes/jerome_robbins_191857"
+        },
+        "topics": [
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            },
+            {
+                "name": "Sell",
+                "url": "/topics/sell"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jerome_robbins_191858",
+        "quote": "There's no secret to working with kids. They either charm you and you can work with them, or they don't charm you and you feel you're stuck with them.",
+        "author": {
+            "name": "Jerome Robbins",
+            "url": "/quotes/jerome_robbins_191858"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Feel",
+                "url": "/topics/feel"
+            },
+            {
+                "name": "Them",
+                "url": "/topics/them"
+            }
+        ]
+    }
+]

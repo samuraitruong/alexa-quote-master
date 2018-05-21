@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/abraham_whipple_354423",
+        "quote": "I have never received a Farthing of Prize Money either for Artillery Ammunition or Vessels.",
+        "author": {
+            "name": "Abraham Whipple",
+            "url": "/quotes/abraham_whipple_354423"
+        },
+        "topics": [
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Ammunition",
+                "url": "/topics/ammunition"
+            },
+            {
+                "name": "Either",
+                "url": "/topics/either"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/abraham_whipple_354422",
+        "quote": "I received orders from Congress to proceed to Charleston in South Carolina, for the purpose of Co'operating with General Lincoln in the defense of that Capitol.",
+        "author": {
+            "name": "Abraham Whipple",
+            "url": "/quotes/abraham_whipple_354422"
+        },
+        "topics": [
+            {
+                "name": "Congress",
+                "url": "/topics/congress"
+            },
+            {
+                "name": "Carolina",
+                "url": "/topics/carolina"
+            },
+            {
+                "name": "Proceed",
+                "url": "/topics/proceed"
+            }
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/gram_parsons_713296",
+        "quote": "At Harvard, you don't major. You concentrate.",
+        "author": {
+            "name": "Gram Parsons",
+            "url": "/quotes/gram_parsons_713296"
+        },
+        "topics": [
+            {
+                "name": "Harvard",
+                "url": "/topics/harvard"
+            },
+            {
+                "name": "Concentrate",
+                "url": "/topics/concentrate"
+            },
+            {
+                "name": "Major",
+                "url": "/topics/major"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gram_parsons_713297",
+        "quote": "I just passed my identification crisis and came back to country music.",
+        "author": {
+            "name": "Gram Parsons",
+            "url": "/quotes/gram_parsons_713297"
+        },
+        "topics": [
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Identification",
+                "url": "/topics/identification"
+            }
+        ]
+    }
+]

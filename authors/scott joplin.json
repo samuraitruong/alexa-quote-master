@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/scott_joplin_404416",
+        "quote": "When I'm dead twenty-five years, people are going to begin to recognize me.",
+        "author": {
+            "name": "Scott Joplin",
+            "url": "/quotes/scott_joplin_404416"
+        },
+        "topics": [
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Twenty-Five",
+                "url": "/topics/twenty-five"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/scott_joplin_404404",
+        "quote": "It is never right to play ragtime fast.",
+        "author": {
+            "name": "Scott Joplin",
+            "url": "/quotes/scott_joplin_404404"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Fast",
+                "url": "/topics/fast"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            }
+        ]
+    }
+]

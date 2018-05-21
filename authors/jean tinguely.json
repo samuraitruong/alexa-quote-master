@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/jean_tinguely_211389",
+        "quote": "To me art is a form of manifest revolt, total and complete.",
+        "author": {
+            "name": "Jean Tinguely",
+            "url": "/quotes/jean_tinguely_211389"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Total",
+                "url": "/topics/total"
+            },
+            {
+                "name": "Form",
+                "url": "/topics/form"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jean_tinguely_211390",
+        "quote": "One has complexes. One has the art complex. One goes to the School of Fine Arts and catches the complexes.",
+        "author": {
+            "name": "Jean Tinguely",
+            "url": "/quotes/jean_tinguely_211390"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "School",
+                "url": "/topics/school"
+            },
+            {
+                "name": "Fine",
+                "url": "/topics/fine"
+            }
+        ]
+    }
+]

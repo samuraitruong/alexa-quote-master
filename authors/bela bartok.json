@@ -1,0 +1,60 @@
+[
+    {
+        "url": "/quotes/bela_bartok_190412",
+        "quote": "Competitions are for horses, not artists.",
+        "author": {
+            "name": "Bela Bartok",
+            "url": "/quotes/bela_bartok_190412"
+        },
+        "topics": [
+            {
+                "name": "Artists",
+                "url": "/topics/artists"
+            },
+            {
+                "name": "Competitions",
+                "url": "/topics/competitions"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bela_bartok_355472",
+        "quote": "In art there are only fast or slow developments. Essentially it is a matter of evolution, not revolution.",
+        "author": {
+            "name": "Bela Bartok",
+            "url": "/quotes/bela_bartok_355472"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Fast",
+                "url": "/topics/fast"
+            },
+            {
+                "name": "Developments",
+                "url": "/topics/developments"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bela_bartok_190413",
+        "quote": "I cannot conceive of music that expresses absolutely nothing.",
+        "author": {
+            "name": "Bela Bartok",
+            "url": "/quotes/bela_bartok_190413"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "Absolutely Nothing",
+                "url": "/topics/absolutely_nothing"
+            }
+        ]
+    }
+]

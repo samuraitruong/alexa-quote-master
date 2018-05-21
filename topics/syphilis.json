@@ -1,0 +1,134 @@
+[
+    {
+        "url": "/quotes/alexis_carrel_382686?src=t_syphilis",
+        "quote": "Comforts and syphilis are the greatest enemies of mankind.",
+        "author": {
+            "name": "Alexis Carrel",
+            "url": "/authors/alexis_carrel"
+        },
+        "topics": [
+            {
+                "name": "Mankind",
+                "url": "/topics/mankind"
+            },
+            {
+                "name": "Enemies",
+                "url": "/topics/enemies"
+            },
+            {
+                "name": "Comforts",
+                "url": "/topics/comforts"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/peter_lewis_allen_193626?src=t_syphilis",
+        "quote": "Perhaps more than any other disease before or since, syphilis in early modern Europe provoked the kind of widespread moral panic that AIDS revived when it struck America in the 1980s.",
+        "author": {
+            "name": "Peter Lewis Allen",
+            "url": "/authors/peter_lewis_allen"
+        },
+        "topics": [
+            {
+                "name": "Disease",
+                "url": "/topics/disease"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Provoked",
+                "url": "/topics/provoked"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/andre_gide_113475?src=t_syphilis",
+        "quote": "It is unthinkable for a Frenchman to arrive at middle age without having syphilis and the Cross of the Legion of Honor.",
+        "author": {
+            "name": "Andre Gide",
+            "url": "/authors/andre_gide"
+        },
+        "topics": [
+            {
+                "name": "Middle",
+                "url": "/topics/middle"
+            },
+            {
+                "name": "Having",
+                "url": "/topics/having"
+            },
+            {
+                "name": "Legion",
+                "url": "/topics/legion"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/karl_kraus_152111?src=t_syphilis",
+        "quote": "Morality is a venereal disease. Its primary stage is called virtue; its secondary stage, boredom; its tertiary stage, syphilis.",
+        "author": {
+            "name": "Karl Kraus",
+            "url": "/authors/karl_kraus"
+        },
+        "topics": [
+            {
+                "name": "Boredom",
+                "url": "/topics/boredom"
+            },
+            {
+                "name": "Disease",
+                "url": "/topics/disease"
+            },
+            {
+                "name": "Secondary",
+                "url": "/topics/secondary"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/imelda_marcos_451454?src=t_syphilis",
+        "quote": "The Philippines is a terrible name, coming from Spain. Phillip II was the father of the inquisition, who I believe died of syphilis. It is my great regret that we didn't change the name of our country.",
+        "author": {
+            "name": "Imelda Marcos",
+            "url": "/authors/imelda_marcos"
+        },
+        "topics": [
+            {
+                "name": "Regret",
+                "url": "/topics/regret"
+            },
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Spain",
+                "url": "/topics/spain"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_kennedy_jr_777596?src=t_syphilis",
+        "quote": "In 1932, the predecessor organization, the CDC, took 299 black sharecroppers from the South who had syphilis. They offered them free healthcare, hot lunches, and free burial. They said you can only come to us for healthcare. These were men who were sharecroppers, and they had syphilis. They were never told they had syphilis.",
+        "author": {
+            "name": "Robert Kennedy, Jr.",
+            "url": "/authors/robert_kennedy_jr"
+        },
+        "topics": [
+            {
+                "name": "Had",
+                "url": "/topics/had"
+            },
+            {
+                "name": "South",
+                "url": "/topics/south"
+            },
+            {
+                "name": "Predecessor",
+                "url": "/topics/predecessor"
+            }
+        ]
+    }
+]

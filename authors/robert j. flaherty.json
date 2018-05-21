@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/robert_j_flaherty_141942",
+        "quote": "Sometimes you have to lie. One often has to distort a thing to catch its true spirit.",
+        "author": {
+            "name": "Robert J. Flaherty",
+            "url": "/quotes/robert_j_flaherty_141942"
+        },
+        "topics": [
+            {
+                "name": "Sometimes",
+                "url": "/topics/sometimes"
+            },
+            {
+                "name": "Spirit",
+                "url": "/topics/spirit"
+            },
+            {
+                "name": "True",
+                "url": "/topics/true"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_j_flaherty_140357",
+        "quote": "There's a saying among prospectors: 'Go out looking for one thing, and that's all you'll ever find.'",
+        "author": {
+            "name": "Robert J. Flaherty",
+            "url": "/quotes/robert_j_flaherty_140357"
+        },
+        "topics": [
+            {
+                "name": "Go",
+                "url": "/topics/go"
+            },
+            {
+                "name": "Out",
+                "url": "/topics/out"
+            },
+            {
+                "name": "One Thing",
+                "url": "/topics/one_thing"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/john_monash_221594",
+        "quote": "I don't care a damn for your loyal service when you think I am right; when I really want it most is when you think I am wrong.",
+        "author": {
+            "name": "John Monash",
+            "url": "/quotes/john_monash_221594"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Loyal",
+                "url": "/topics/loyal"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_monash_221595",
+        "quote": "No man is a hero in his own country.",
+        "author": {
+            "name": "John Monash",
+            "url": "/quotes/john_monash_221595"
+        },
+        "topics": [
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_monash_221593",
+        "quote": "Feed the troops on victory.",
+        "author": {
+            "name": "John Monash",
+            "url": "/quotes/john_monash_221593"
+        },
+        "topics": [
+            {
+                "name": "Victory",
+                "url": "/topics/victory"
+            },
+            {
+                "name": "Feed",
+                "url": "/topics/feed"
+            },
+            {
+                "name": "Troops",
+                "url": "/topics/troops"
+            }
+        ]
+    }
+]

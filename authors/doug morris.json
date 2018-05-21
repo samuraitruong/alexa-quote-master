@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/doug_morris_538226",
+        "quote": "The biggest problem is always getting hits. That's the one thing that has never changed. The way of delivering music has changed, the way of listening to it has changed, the way of distributing it has changed, but it's always the music.",
+        "author": {
+            "name": "Doug Morris",
+            "url": "/quotes/doug_morris_538226"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Delivering",
+                "url": "/topics/delivering"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/doug_morris_538227",
+        "quote": "I never want anyone to have a bad evening because I caused it.",
+        "author": {
+            "name": "Doug Morris",
+            "url": "/quotes/doug_morris_538227"
+        },
+        "topics": [
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            },
+            {
+                "name": "Anyone",
+                "url": "/topics/anyone"
+            }
+        ]
+    }
+]

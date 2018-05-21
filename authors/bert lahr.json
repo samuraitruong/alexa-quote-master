@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/bert_lahr_128094",
+        "quote": "After The Wizard Of Oz I was typecast as a lion, and there aren't all that many parts for lions.",
+        "author": {
+            "name": "Bert Lahr",
+            "url": "/quotes/bert_lahr_128094"
+        },
+        "topics": [
+            {
+                "name": "Wizard Of Oz",
+                "url": "/topics/wizard_of_oz"
+            },
+            {
+                "name": "Parts",
+                "url": "/topics/parts"
+            },
+            {
+                "name": "Lions",
+                "url": "/topics/lions"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bert_lahr_115218",
+        "quote": "That was my one big Hollywood hit, but, in a way, it hurt my picture career. After that, I was typecast as a lion, and there just weren't many parts for lions.",
+        "author": {
+            "name": "Bert Lahr",
+            "url": "/quotes/bert_lahr_115218"
+        },
+        "topics": [
+            {
+                "name": "Career",
+                "url": "/topics/career"
+            },
+            {
+                "name": "Hollywood",
+                "url": "/topics/hollywood"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            }
+        ]
+    }
+]

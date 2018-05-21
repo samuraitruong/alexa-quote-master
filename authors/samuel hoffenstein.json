@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/samuel_hoffenstein_178460",
+        "quote": "My soul is dark with stormy riot: directly traced over to diet.",
+        "author": {
+            "name": "Samuel Hoffenstein",
+            "url": "/quotes/samuel_hoffenstein_178460"
+        },
+        "topics": [
+            {
+                "name": "My Soul",
+                "url": "/topics/my_soul"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Stormy",
+                "url": "/topics/stormy"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/samuel_hoffenstein_178458",
+        "quote": "When you're away, I'm restless, lonely, Wretched, bored, dejected; only here's the rub, my darling dear, I feel the same when you're near.",
+        "author": {
+            "name": "Samuel Hoffenstein",
+            "url": "/quotes/samuel_hoffenstein_178458"
+        },
+        "topics": [
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            },
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            },
+            {
+                "name": "Restless",
+                "url": "/topics/restless"
+            }
+        ]
+    }
+]

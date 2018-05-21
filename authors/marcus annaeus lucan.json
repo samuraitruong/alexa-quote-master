@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/marcus_annaeus_lucan_399188",
+        "quote": "Might was the measure of right.",
+        "author": {
+            "name": "Marcus Annaeus Lucan",
+            "url": "/quotes/marcus_annaeus_lucan_399188"
+        },
+        "topics": [
+            {
+                "name": "Measure",
+                "url": "/topics/measure"
+            },
+            {
+                "name": "Right",
+                "url": "/topics/right"
+            },
+            {
+                "name": "Might",
+                "url": "/topics/might"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marcus_annaeus_lucan_399191",
+        "quote": "Deep-seated are the wounds of civil brawls.",
+        "author": {
+            "name": "Marcus Annaeus Lucan",
+            "url": "/quotes/marcus_annaeus_lucan_399191"
+        },
+        "topics": [
+            {
+                "name": "Wounds",
+                "url": "/topics/wounds"
+            },
+            {
+                "name": "Civil",
+                "url": "/topics/civil"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marcus_annaeus_lucan_399207",
+        "quote": "Among those who share a throne there can be no loyalty; Dominion's ever impatient consort.",
+        "author": {
+            "name": "Marcus Annaeus Lucan",
+            "url": "/quotes/marcus_annaeus_lucan_399207"
+        },
+        "topics": [
+            {
+                "name": "Impatient",
+                "url": "/topics/impatient"
+            },
+            {
+                "name": "Ever",
+                "url": "/topics/ever"
+            },
+            {
+                "name": "Dominion",
+                "url": "/topics/dominion"
+            }
+        ]
+    }
+]

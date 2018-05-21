@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/steve_krug_628693",
+        "quote": "I don't think there are as many usability issues as there are tactical or strategic decisions related to whether incorporating social networking into your site is going to help or hurt.",
+        "author": {
+            "name": "Steve Krug",
+            "url": "/quotes/steve_krug_628693"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Social",
+                "url": "/topics/social"
+            },
+            {
+                "name": "Strategic",
+                "url": "/topics/strategic"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/steve_krug_628694",
+        "quote": "The general reactions were that the video was either not going to load, or be painfully slow to load, or would require a plug-in users didn't have. YouTube changed that, because it just works.",
+        "author": {
+            "name": "Steve Krug",
+            "url": "/quotes/steve_krug_628694"
+        },
+        "topics": [
+            {
+                "name": "YouTube",
+                "url": "/topics/youtube"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Works",
+                "url": "/topics/works"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/steve_krug_628695",
+        "quote": "If you're going to implement video, do it as well as YouTube does it or don't do it at all.",
+        "author": {
+            "name": "Steve Krug",
+            "url": "/quotes/steve_krug_628695"
+        },
+        "topics": [
+            {
+                "name": "YouTube",
+                "url": "/topics/youtube"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Does",
+                "url": "/topics/does"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/steve_krug_628696",
+        "quote": "When you go to a site, you usually run into usability problems pretty quickly. They're not hidden. They're not complicated. They're not baffling. They were in the design or crept into the design.",
+        "author": {
+            "name": "Steve Krug",
+            "url": "/quotes/steve_krug_628696"
+        },
+        "topics": [
+            {
+                "name": "Hidden",
+                "url": "/topics/hidden"
+            },
+            {
+                "name": "Pretty",
+                "url": "/topics/pretty"
+            },
+            {
+                "name": "Quickly",
+                "url": "/topics/quickly"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/john_cotton_dana_171144",
+        "quote": "Who dares to teach must never cease to learn.",
+        "author": {
+            "name": "John Cotton Dana",
+            "url": "/quotes/john_cotton_dana_171144"
+        },
+        "topics": [
+            {
+                "name": "Learn",
+                "url": "/topics/learn"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Cease",
+                "url": "/topics/cease"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_cotton_dana_375585",
+        "quote": "A great department store, easily reached, open at all hours, is more like a good museum of art than any of the museums we have yet established.",
+        "author": {
+            "name": "John Cotton Dana",
+            "url": "/quotes/john_cotton_dana_375585"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Hours",
+                "url": "/topics/hours"
+            },
+            {
+                "name": "Established",
+                "url": "/topics/established"
+            }
+        ]
+    }
+]

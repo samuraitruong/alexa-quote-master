@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/jimmy_cannon_379221",
+        "quote": "A rabid sports fan is one that boos a TV set.",
+        "author": {
+            "name": "Jimmy Cannon",
+            "url": "/quotes/jimmy_cannon_379221"
+        },
+        "topics": [
+            {
+                "name": "Fan",
+                "url": "/topics/fan"
+            },
+            {
+                "name": "Set",
+                "url": "/topics/set"
+            },
+            {
+                "name": "TV",
+                "url": "/topics/tv"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jimmy_cannon_178037",
+        "quote": "Fishing, with me, has always been an excuse to drink in the daytime.",
+        "author": {
+            "name": "Jimmy Cannon",
+            "url": "/quotes/jimmy_cannon_178037"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Excuse",
+                "url": "/topics/excuse"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jimmy_cannon_178036",
+        "quote": "Christmas is a holiday that persecutes the lonely, the frayed, and the rejected.",
+        "author": {
+            "name": "Jimmy Cannon",
+            "url": "/quotes/jimmy_cannon_178036"
+        },
+        "topics": [
+            {
+                "name": "Lonely",
+                "url": "/topics/lonely"
+            },
+            {
+                "name": "Christmas",
+                "url": "/topics/christmas"
+            },
+            {
+                "name": "Rejected",
+                "url": "/topics/rejected"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jimmy_cannon_388582",
+        "quote": "I can't remember ever staying for the end of a movie in which the actors wore togas.",
+        "author": {
+            "name": "Jimmy Cannon",
+            "url": "/quotes/jimmy_cannon_388582"
+        },
+        "topics": [
+            {
+                "name": "Remember",
+                "url": "/topics/remember"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Ever",
+                "url": "/topics/ever"
+            }
+        ]
+    }
+]

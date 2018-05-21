@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/lester_maddox_316942",
+        "quote": "That's part of American greatness, is discrimination. Yes, sir. Inequality, I think, breeds freedom and gives a man opportunity.",
+        "author": {
+            "name": "Lester Maddox",
+            "url": "/quotes/lester_maddox_316942"
+        },
+        "topics": [
+            {
+                "name": "Greatness",
+                "url": "/topics/greatness"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lester_maddox_316941",
+        "quote": "Honest businessmen should be protected from the unscrupulous consumer.",
+        "author": {
+            "name": "Lester Maddox",
+            "url": "/quotes/lester_maddox_316941"
+        },
+        "topics": [
+            {
+                "name": "Protected",
+                "url": "/topics/protected"
+            },
+            {
+                "name": "Businessmen",
+                "url": "/topics/businessmen"
+            }
+        ]
+    }
+]

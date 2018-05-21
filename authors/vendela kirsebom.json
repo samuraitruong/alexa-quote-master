@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/vendela_kirsebom_661281",
+        "quote": "In the future, I want a movie career, kids and a happy marriage.",
+        "author": {
+            "name": "Vendela Kirsebom",
+            "url": "/quotes/vendela_kirsebom_661281"
+        },
+        "topics": [
+            {
+                "name": "Future",
+                "url": "/topics/future"
+            },
+            {
+                "name": "Career",
+                "url": "/topics/career"
+            },
+            {
+                "name": "Movie",
+                "url": "/topics/movie"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/vendela_kirsebom_618807",
+        "quote": "Some makeup you put on and feel like you're getting pimples by the hour.",
+        "author": {
+            "name": "Vendela Kirsebom",
+            "url": "/quotes/vendela_kirsebom_618807"
+        },
+        "topics": [
+            {
+                "name": "Makeup",
+                "url": "/topics/makeup"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Getting",
+                "url": "/topics/getting"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/vendela_kirsebom_618806",
+        "quote": "I'm so lucky, I've been so successful, so much has come my way. I want to give back.",
+        "author": {
+            "name": "Vendela Kirsebom",
+            "url": "/quotes/vendela_kirsebom_618806"
+        },
+        "topics": [
+            {
+                "name": "Lucky",
+                "url": "/topics/lucky"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    }
+]

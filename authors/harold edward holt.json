@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/harold_edward_holt_235333",
+        "quote": "Australians were unique due to our corals, our apples, our gum trees and our kangaroos.",
+        "author": {
+            "name": "Harold Edward Holt",
+            "url": "/quotes/harold_edward_holt_235333"
+        },
+        "topics": [
+            {
+                "name": "Unique",
+                "url": "/topics/unique"
+            },
+            {
+                "name": "Due",
+                "url": "/topics/due"
+            },
+            {
+                "name": "Were",
+                "url": "/topics/were"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/harold_edward_holt_235335",
+        "quote": "The marshalling of those resources in order to obtain the maximum war effort for Australia, and a maximum degree of help and cooperation for Great Britain and the sister Dominions, is the primary objective of the new Department.",
+        "author": {
+            "name": "Harold Edward Holt",
+            "url": "/quotes/harold_edward_holt_235335"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Britain",
+                "url": "/topics/britain"
+            },
+            {
+                "name": "Obtain",
+                "url": "/topics/obtain"
+            }
+        ]
+    }
+]

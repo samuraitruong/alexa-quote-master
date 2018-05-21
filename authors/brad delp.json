@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/brad_delp_403855",
+        "quote": "I think Stevie Wonder could sing the phone book and manage to make me cry.",
+        "author": {
+            "name": "Brad Delp",
+            "url": "/quotes/brad_delp_403855"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Stevie",
+                "url": "/topics/stevie"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brad_delp_443115",
+        "quote": "Mr. Brad Delp. J'ai une ame solitaire. I am a lonely soul.",
+        "author": {
+            "name": "Brad Delp",
+            "url": "/quotes/brad_delp_443115"
+        },
+        "topics": [
+            {
+                "name": "Soul",
+                "url": "/topics/soul"
+            },
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Mr",
+                "url": "/topics/mr"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brad_delp_443116",
+        "quote": "I take complete and sole responsibility for my present situation.",
+        "author": {
+            "name": "Brad Delp",
+            "url": "/quotes/brad_delp_443116"
+        },
+        "topics": [
+            {
+                "name": "Responsibility",
+                "url": "/topics/responsibility"
+            },
+            {
+                "name": "Take",
+                "url": "/topics/take"
+            },
+            {
+                "name": "Sole",
+                "url": "/topics/sole"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/fernando_lamas_347162",
+        "quote": "You look marvelous!",
+        "author": {
+            "name": "Fernando Lamas",
+            "url": "/quotes/fernando_lamas_347162"
+        },
+        "topics": [
+            {
+                "name": "Look",
+                "url": "/topics/look"
+            },
+            {
+                "name": "You",
+                "url": "/topics/you"
+            },
+            {
+                "name": "Marvelous",
+                "url": "/topics/marvelous"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/fernando_lamas_347163",
+        "quote": "It is better to look good than to feel good.",
+        "author": {
+            "name": "Fernando Lamas",
+            "url": "/quotes/fernando_lamas_347163"
+        },
+        "topics": [
+            {
+                "name": "Better",
+                "url": "/topics/better"
+            },
+            {
+                "name": "Feel Good",
+                "url": "/topics/feel_good"
+            },
+            {
+                "name": "Than",
+                "url": "/topics/than"
+            }
+        ]
+    }
+]

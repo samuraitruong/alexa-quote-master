@@ -1,0 +1,38 @@
+[
+    {
+        "url": "/quotes/vera_miles_202747",
+        "quote": "I couldn't kill a fly.",
+        "author": {
+            "name": "Vera Miles",
+            "url": "/quotes/vera_miles_202747"
+        },
+        "topics": [
+            {
+                "name": "Fly",
+                "url": "/topics/fly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/vera_miles_202749",
+        "quote": "I love young men, lots of them, your ancient masculine double standard.",
+        "author": {
+            "name": "Vera Miles",
+            "url": "/quotes/vera_miles_202749"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Young",
+                "url": "/topics/young"
+            },
+            {
+                "name": "Standard",
+                "url": "/topics/standard"
+            }
+        ]
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/denis_healey_141721",
+        "quote": "First law on holes - when you're in one, stop digging!",
+        "author": {
+            "name": "Denis Healey",
+            "url": "/quotes/denis_healey_141721"
+        },
+        "topics": [
+            {
+                "name": "Law",
+                "url": "/topics/law"
+            },
+            {
+                "name": "Stop",
+                "url": "/topics/stop"
+            },
+            {
+                "name": "First Law",
+                "url": "/topics/first_law"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/denis_healey_379839",
+        "quote": "When you're in a hole, stop digging.",
+        "author": {
+            "name": "Denis Healey",
+            "url": "/quotes/denis_healey_379839"
+        },
+        "topics": [
+            {
+                "name": "Stop",
+                "url": "/topics/stop"
+            },
+            {
+                "name": "Hole",
+                "url": "/topics/hole"
+            },
+            {
+                "name": "Digging",
+                "url": "/topics/digging"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/denis_healey_381264",
+        "quote": "It is a good thing to follow the First Law of Holes: if you are in one, stop digging.",
+        "author": {
+            "name": "Denis Healey",
+            "url": "/quotes/denis_healey_381264"
+        },
+        "topics": [
+            {
+                "name": "Law",
+                "url": "/topics/law"
+            },
+            {
+                "name": "A Good Thing",
+                "url": "/topics/a_good_thing"
+            },
+            {
+                "name": "First Law",
+                "url": "/topics/first_law"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/denis_healey_129854",
+        "quote": "The difference between tax avoidance and tax evasion is the thickness of a prison wall.",
+        "author": {
+            "name": "Denis Healey",
+            "url": "/quotes/denis_healey_129854"
+        },
+        "topics": [
+            {
+                "name": "Tax",
+                "url": "/topics/tax"
+            },
+            {
+                "name": "Difference",
+                "url": "/topics/difference"
+            },
+            {
+                "name": "Evasion",
+                "url": "/topics/evasion"
+            }
+        ]
+    }
+]

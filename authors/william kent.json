@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/william_kent_202820",
+        "quote": "All gardening is landscape painting.",
+        "author": {
+            "name": "William Kent",
+            "url": "/quotes/william_kent_202820"
+        },
+        "topics": [
+            {
+                "name": "Gardening",
+                "url": "/topics/gardening"
+            },
+            {
+                "name": "Painting",
+                "url": "/topics/painting"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_kent_202818",
+        "quote": "Garden as though you will live forever.",
+        "author": {
+            "name": "William Kent",
+            "url": "/quotes/william_kent_202818"
+        },
+        "topics": [
+            {
+                "name": "Gardening",
+                "url": "/topics/gardening"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Though",
+                "url": "/topics/though"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_kent_202819",
+        "quote": "A garden is to be a world unto itself, it had better make room for the darker shades of feeling as well as the sunny ones.",
+        "author": {
+            "name": "William Kent",
+            "url": "/quotes/william_kent_202819"
+        },
+        "topics": [
+            {
+                "name": "Shades",
+                "url": "/topics/shades"
+            },
+            {
+                "name": "Had",
+                "url": "/topics/had"
+            },
+            {
+                "name": "Unto",
+                "url": "/topics/unto"
+            }
+        ]
+    }
+]

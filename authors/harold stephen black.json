@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/harold_stephen_black_207441",
+        "quote": "The answer scrawled on a blank page in a daily newspaper, was conceived whilst aboard a ferry.",
+        "author": {
+            "name": "Harold Stephen Black",
+            "url": "/quotes/harold_stephen_black_207441"
+        },
+        "topics": [
+            {
+                "name": "Newspaper",
+                "url": "/topics/newspaper"
+            },
+            {
+                "name": "Answer",
+                "url": "/topics/answer"
+            },
+            {
+                "name": "Blank",
+                "url": "/topics/blank"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/harold_stephen_black_207442",
+        "quote": "Negative feedback effected amplifier performance significantly.",
+        "author": {
+            "name": "Harold Stephen Black",
+            "url": "/quotes/harold_stephen_black_207442"
+        },
+        "topics": [
+            {
+                "name": "Feedback",
+                "url": "/topics/feedback"
+            },
+            {
+                "name": "Negative",
+                "url": "/topics/negative"
+            }
+        ]
+    }
+]

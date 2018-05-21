@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/earl_derr_biggers_317630",
+        "quote": "Careless shepherd make excellent dinner for wolf.",
+        "author": {
+            "name": "Earl Derr Biggers",
+            "url": "/quotes/earl_derr_biggers_317630"
+        },
+        "topics": [
+            {
+                "name": "Wolf",
+                "url": "/topics/wolf"
+            },
+            {
+                "name": "Excellent",
+                "url": "/topics/excellent"
+            },
+            {
+                "name": "Careless",
+                "url": "/topics/careless"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/earl_derr_biggers_317632",
+        "quote": "Every man must wear out at least one pair of fools shoes.",
+        "author": {
+            "name": "Earl Derr Biggers",
+            "url": "/quotes/earl_derr_biggers_317632"
+        },
+        "topics": [
+            {
+                "name": "Wear",
+                "url": "/topics/wear"
+            },
+            {
+                "name": "At Least One",
+                "url": "/topics/at_least_one"
+            },
+            {
+                "name": "Least",
+                "url": "/topics/least"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/earl_derr_biggers_317631",
+        "quote": "Do not wave stick when trying to catch dog.",
+        "author": {
+            "name": "Earl Derr Biggers",
+            "url": "/quotes/earl_derr_biggers_317631"
+        },
+        "topics": [
+            {
+                "name": "Trying",
+                "url": "/topics/trying"
+            },
+            {
+                "name": "Catch",
+                "url": "/topics/catch"
+            },
+            {
+                "name": "Stick",
+                "url": "/topics/stick"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/earl_derr_biggers_317633",
+        "quote": "Only very brave mouse makes nest in cat's ear.",
+        "author": {
+            "name": "Earl Derr Biggers",
+            "url": "/quotes/earl_derr_biggers_317633"
+        },
+        "topics": [
+            {
+                "name": "Pet",
+                "url": "/topics/pet"
+            },
+            {
+                "name": "Mouse",
+                "url": "/topics/mouse"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/earl_derr_biggers_317634",
+        "quote": "This is unexpected... like squirt from aggressive grapefruit.",
+        "author": {
+            "name": "Earl Derr Biggers",
+            "url": "/quotes/earl_derr_biggers_317634"
+        },
+        "topics": [
+            {
+                "name": "Unexpected",
+                "url": "/topics/unexpected"
+            },
+            {
+                "name": "Aggressive",
+                "url": "/topics/aggressive"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    }
+]

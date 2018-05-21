@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/jack_anderson_110538",
+        "quote": "I don't like to hurt people, I really don't like it at all. But in order to get a red light at the intersection, you sometimes have to have an accident.",
+        "author": {
+            "name": "Jack Anderson",
+            "url": "/quotes/jack_anderson_110538"
+        },
+        "topics": [
+            {
+                "name": "People",
+                "url": "/topics/people"
+            },
+            {
+                "name": "Sometimes",
+                "url": "/topics/sometimes"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jack_anderson_406072",
+        "quote": "It's my father's legacy. My father's view was that the public is the employer of these government employees and has the right to know what they're up to.",
+        "author": {
+            "name": "Jack Anderson",
+            "url": "/quotes/jack_anderson_406072"
+        },
+        "topics": [
+            {
+                "name": "Father",
+                "url": "/topics/father"
+            },
+            {
+                "name": "Legacy",
+                "url": "/topics/legacy"
+            },
+            {
+                "name": "Right",
+                "url": "/topics/right"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jack_anderson_101105",
+        "quote": "The incestuous relationship between government and big business thrives in the dark.",
+        "author": {
+            "name": "Jack Anderson",
+            "url": "/quotes/jack_anderson_101105"
+        },
+        "topics": [
+            {
+                "name": "Business",
+                "url": "/topics/business"
+            },
+            {
+                "name": "Government",
+                "url": "/topics/government"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jack_anderson_382115",
+        "quote": "That's a great team we lost to. It just wasn't our day.",
+        "author": {
+            "name": "Jack Anderson",
+            "url": "/quotes/jack_anderson_382115"
+        },
+        "topics": [
+            {
+                "name": "Team",
+                "url": "/topics/team"
+            },
+            {
+                "name": "Lost",
+                "url": "/topics/lost"
+            },
+            {
+                "name": "Great Team",
+                "url": "/topics/great_team"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jack_anderson_406073",
+        "quote": "The insurance industry communicates through codes and check-off boxes. If there's no check-off box for you, you don't exist.",
+        "author": {
+            "name": "Jack Anderson",
+            "url": "/quotes/jack_anderson_406073"
+        },
+        "topics": [
+            {
+                "name": "Insurance",
+                "url": "/topics/insurance"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Boxes",
+                "url": "/topics/boxes"
+            }
+        ]
+    }
+]

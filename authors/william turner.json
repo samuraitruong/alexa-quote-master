@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/william_turner_396035",
+        "quote": "You may have heard the world is made up of atoms and molecules, but it's really made up of stories. When you sit with an individual that's been here, you can give quantitative data a qualitative overlay.",
+        "author": {
+            "name": "William Turner",
+            "url": "/quotes/william_turner_396035"
+        },
+        "topics": [
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            },
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_turner_194426",
+        "quote": "Keep your shop, and your shop will keep you.",
+        "author": {
+            "name": "William Turner",
+            "url": "/quotes/william_turner_194426"
+        },
+        "topics": [
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Shop",
+                "url": "/topics/shop"
+            },
+            {
+                "name": "Keep",
+                "url": "/topics/keep"
+            }
+        ]
+    }
+]

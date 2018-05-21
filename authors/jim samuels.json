@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/jim_samuels_178033",
+        "quote": "A wife lasts only for the length of the marriage, but an ex-wife is there for the rest of your life.",
+        "author": {
+            "name": "Jim Samuels",
+            "url": "/quotes/jim_samuels_178033"
+        },
+        "topics": [
+            {
+                "name": "Wife",
+                "url": "/topics/wife"
+            },
+            {
+                "name": "Rest",
+                "url": "/topics/rest"
+            },
+            {
+                "name": "Lasts",
+                "url": "/topics/lasts"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jim_samuels_172693",
+        "quote": "Remember folks stop lights timed for 35 mph are also timed for 70 mph.",
+        "author": {
+            "name": "Jim Samuels",
+            "url": "/quotes/jim_samuels_172693"
+        },
+        "topics": [
+            {
+                "name": "Remember",
+                "url": "/topics/remember"
+            },
+            {
+                "name": "Stop",
+                "url": "/topics/stop"
+            },
+            {
+                "name": "Mph",
+                "url": "/topics/mph"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jim_samuels_178034",
+        "quote": "You're a good example of why some animals eat their young.",
+        "author": {
+            "name": "Jim Samuels",
+            "url": "/quotes/jim_samuels_178034"
+        },
+        "topics": [
+            {
+                "name": "Good Example",
+                "url": "/topics/good_example"
+            },
+            {
+                "name": "Young",
+                "url": "/topics/young"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    }
+]

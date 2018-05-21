@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/stuart_bowen_405637",
+        "quote": "One day's delay is another day's lack of progress.",
+        "author": {
+            "name": "Stuart Bowen",
+            "url": "/quotes/stuart_bowen_405637"
+        },
+        "topics": [
+            {
+                "name": "Progress",
+                "url": "/topics/progress"
+            },
+            {
+                "name": "Delay",
+                "url": "/topics/delay"
+            },
+            {
+                "name": "Another",
+                "url": "/topics/another"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/stuart_bowen_405638",
+        "quote": "What's happened is that an incessant, an insidious insurgency has repeatedly attacked the key infrastructure targets, reducing outputs.",
+        "author": {
+            "name": "Stuart Bowen",
+            "url": "/quotes/stuart_bowen_405638"
+        },
+        "topics": [
+            {
+                "name": "Repeatedly",
+                "url": "/topics/repeatedly"
+            },
+            {
+                "name": "Insurgency",
+                "url": "/topics/insurgency"
+            }
+        ]
+    }
+]

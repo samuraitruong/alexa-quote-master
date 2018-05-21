@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/anna_wickham_311982",
+        "quote": "It is well within the order of things that man should listen when his mate sings; but the true male never yet walked who liked to listen when his mate talked.",
+        "author": {
+            "name": "Anna Wickham",
+            "url": "/quotes/anna_wickham_311982"
+        },
+        "topics": [
+            {
+                "name": "Listen",
+                "url": "/topics/listen"
+            },
+            {
+                "name": "Within",
+                "url": "/topics/within"
+            },
+            {
+                "name": "Sings",
+                "url": "/topics/sings"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/anna_wickham_359281",
+        "quote": "The fight ended. For both was victory. For both there was defeat.",
+        "author": {
+            "name": "Anna Wickham",
+            "url": "/quotes/anna_wickham_359281"
+        },
+        "topics": [
+            {
+                "name": "Victory",
+                "url": "/topics/victory"
+            },
+            {
+                "name": "Defeat",
+                "url": "/topics/defeat"
+            },
+            {
+                "name": "Ended",
+                "url": "/topics/ended"
+            }
+        ]
+    }
+]

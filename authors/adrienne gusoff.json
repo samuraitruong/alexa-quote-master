@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/adrienne_gusoff_133315",
+        "quote": "Opportunity knocked. My doorman threw him out.",
+        "author": {
+            "name": "Adrienne Gusoff",
+            "url": "/quotes/adrienne_gusoff_133315"
+        },
+        "topics": [
+            {
+                "name": "Opportunity",
+                "url": "/topics/opportunity"
+            },
+            {
+                "name": "Knocked",
+                "url": "/topics/knocked"
+            },
+            {
+                "name": "Threw",
+                "url": "/topics/threw"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/adrienne_gusoff_136141",
+        "quote": "If the shoe fits, it's too expensive.",
+        "author": {
+            "name": "Adrienne Gusoff",
+            "url": "/quotes/adrienne_gusoff_136141"
+        },
+        "topics": [
+            {
+                "name": "Shoe",
+                "url": "/topics/shoe"
+            },
+            {
+                "name": "Too",
+                "url": "/topics/too"
+            },
+            {
+                "name": "Fits",
+                "url": "/topics/fits"
+            }
+        ]
+    }
+]

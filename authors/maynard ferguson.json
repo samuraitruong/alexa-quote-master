@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/maynard_ferguson_230051",
+        "quote": "Change is always happening. That's one of the wonderful things about jazz music.",
+        "author": {
+            "name": "Maynard Ferguson",
+            "url": "/quotes/maynard_ferguson_230051"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Wonderful Things",
+                "url": "/topics/wonderful_things"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/maynard_ferguson_230052",
+        "quote": "The day of the great jazz improviser who doesn't know how to read music is over.",
+        "author": {
+            "name": "Maynard Ferguson",
+            "url": "/quotes/maynard_ferguson_230052"
+        },
+        "topics": [
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "How",
+                "url": "/topics/how"
+            },
+            {
+                "name": "Improviser",
+                "url": "/topics/improviser"
+            }
+        ]
+    }
+]

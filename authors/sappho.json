@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/sappho_531642",
+        "quote": "Would Jove appoint some flower to reign, in matchless beauty on the plain, the Rose (mankind will all agree). The Rose the queen of flowers should be.",
+        "author": {
+            "name": "Sappho",
+            "url": "/quotes/sappho_531642"
+        },
+        "topics": [
+            {
+                "name": "Flowers",
+                "url": "/topics/flowers"
+            },
+            {
+                "name": "Mankind",
+                "url": "/topics/mankind"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    }
+]

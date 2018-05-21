@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/thomas_cole_187438",
+        "quote": "How lovely are the portals of the night, when stars come out to watch the daylight die.",
+        "author": {
+            "name": "Thomas Cole",
+            "url": "/quotes/thomas_cole_187438"
+        },
+        "topics": [
+            {
+                "name": "Die",
+                "url": "/topics/die"
+            },
+            {
+                "name": "Lovely",
+                "url": "/topics/lovely"
+            },
+            {
+                "name": "How",
+                "url": "/topics/how"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_cole_187580",
+        "quote": "None know how often the hand of God is seen in a wilderness but them that rove it for a man's life.",
+        "author": {
+            "name": "Thomas Cole",
+            "url": "/quotes/thomas_cole_187580"
+        },
+        "topics": [
+            {
+                "name": "Wilderness",
+                "url": "/topics/wilderness"
+            },
+            {
+                "name": "Know",
+                "url": "/topics/know"
+            },
+            {
+                "name": "How",
+                "url": "/topics/how"
+            }
+        ]
+    }
+]

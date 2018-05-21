@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/helene_deutsch_399218",
+        "quote": "After all, the ultimate goal of all research is not objectivity, but truth.",
+        "author": {
+            "name": "Helene Deutsch",
+            "url": "/quotes/helene_deutsch_399218"
+        },
+        "topics": [
+            {
+                "name": "Truth",
+                "url": "/topics/truth"
+            },
+            {
+                "name": "Goal",
+                "url": "/topics/goal"
+            },
+            {
+                "name": "Ultimate Goal",
+                "url": "/topics/ultimate_goal"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/helene_deutsch_401584",
+        "quote": "The embattled gates to equal rights indeed opened up for modern women, but I sometimes think to myself; that is not what I meant by freedom, it is only social progress.",
+        "author": {
+            "name": "Helene Deutsch",
+            "url": "/quotes/helene_deutsch_401584"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Social",
+                "url": "/topics/social"
+            },
+            {
+                "name": "Meant",
+                "url": "/topics/meant"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/john_banner_227939",
+        "quote": "Well, who better to play Nazis than we Jews?",
+        "author": {
+            "name": "John Banner",
+            "url": "/quotes/john_banner_227939"
+        },
+        "topics": [
+            {
+                "name": "Better",
+                "url": "/topics/better"
+            },
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Jews",
+                "url": "/topics/jews"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_banner_227941",
+        "quote": "Schultz is not a Nazi. I see Schultz as the representative of some kind of goodness in any generation.",
+        "author": {
+            "name": "John Banner",
+            "url": "/quotes/john_banner_227941"
+        },
+        "topics": [
+            {
+                "name": "Generation",
+                "url": "/topics/generation"
+            },
+            {
+                "name": "See",
+                "url": "/topics/see"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    }
+]

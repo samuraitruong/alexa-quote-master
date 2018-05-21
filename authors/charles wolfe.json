@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/charles_wolfe_197563",
+        "quote": "Go, forget me - why should sorrow, O'er that brow a shadow fling? Go, forget me - and tomorrow, brightly smile and sweetly sing. Smile - though I shall not be near thee; Sing - though I shall never hear thee.",
+        "author": {
+            "name": "Charles Wolfe",
+            "url": "/quotes/charles_wolfe_197563"
+        },
+        "topics": [
+            {
+                "name": "Shadow",
+                "url": "/topics/shadow"
+            },
+            {
+                "name": "Thee",
+                "url": "/topics/thee"
+            },
+            {
+                "name": "Sweetly",
+                "url": "/topics/sweetly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charles_wolfe_197564",
+        "quote": "But he lay like a warrior taking his rest, with his martial cloak around him.",
+        "author": {
+            "name": "Charles Wolfe",
+            "url": "/quotes/charles_wolfe_197564"
+        },
+        "topics": [
+            {
+                "name": "Rest",
+                "url": "/topics/rest"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            },
+            {
+                "name": "Martial",
+                "url": "/topics/martial"
+            }
+        ]
+    }
+]

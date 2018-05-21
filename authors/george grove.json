@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/george_grove_194911",
+        "quote": "The 1960s were big for folk music, and the Kingston Trio led the way. They were the ones who started it all. The music was fresh and alive. College kids loved it and their parents did, too.",
+        "author": {
+            "name": "George Grove",
+            "url": "/quotes/george_grove_194911"
+        },
+        "topics": [
+            {
+                "name": "College",
+                "url": "/topics/college"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "College Kids",
+                "url": "/topics/college_kids"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_grove_194912",
+        "quote": "Our songs touch people, and take them back to a time when there was no threat of terrorism, when you didn't have to lock your doors and when Mom and Dad took care of everything.",
+        "author": {
+            "name": "George Grove",
+            "url": "/quotes/george_grove_194912"
+        },
+        "topics": [
+            {
+                "name": "Mom And Dad",
+                "url": "/topics/mom_and_dad"
+            },
+            {
+                "name": "Took",
+                "url": "/topics/took"
+            },
+            {
+                "name": "Dad",
+                "url": "/topics/dad"
+            }
+        ]
+    }
+]

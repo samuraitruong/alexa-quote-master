@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/edward_teach_190189",
+        "quote": "Damnation seize my soul if I give your quarters, or take any from you.",
+        "author": {
+            "name": "Edward Teach",
+            "url": "/quotes/edward_teach_190189"
+        },
+        "topics": [
+            {
+                "name": "Soul",
+                "url": "/topics/soul"
+            },
+            {
+                "name": "Seize",
+                "url": "/topics/seize"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edward_teach_190188",
+        "quote": "Damn you villains, who are you? And from whence came you?",
+        "author": {
+            "name": "Edward Teach",
+            "url": "/quotes/edward_teach_190188"
+        },
+        "topics": [
+            {
+                "name": "Damn",
+                "url": "/topics/damn"
+            },
+            {
+                "name": "Villains",
+                "url": "/topics/villains"
+            },
+            {
+                "name": "Whence",
+                "url": "/topics/whence"
+            }
+        ]
+    }
+]

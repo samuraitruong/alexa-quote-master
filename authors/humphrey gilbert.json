@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/humphrey_gilbert_197951",
+        "quote": "We are as near to heaven by sea as by land.",
+        "author": {
+            "name": "Humphrey Gilbert",
+            "url": "/quotes/humphrey_gilbert_197951"
+        },
+        "topics": [
+            {
+                "name": "Land",
+                "url": "/topics/land"
+            },
+            {
+                "name": "Heaven",
+                "url": "/topics/heaven"
+            },
+            {
+                "name": "Near",
+                "url": "/topics/near"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/humphrey_gilbert_326403",
+        "quote": "These people are headstrong and if they feel the curb loosed but one link they will with bit in the teeth in one month run further out of the career of good order than they will be brought back in three months.",
+        "author": {
+            "name": "Humphrey Gilbert",
+            "url": "/quotes/humphrey_gilbert_326403"
+        },
+        "topics": [
+            {
+                "name": "Career",
+                "url": "/topics/career"
+            },
+            {
+                "name": "Link",
+                "url": "/topics/link"
+            },
+            {
+                "name": "Brought",
+                "url": "/topics/brought"
+            }
+        ]
+    }
+]

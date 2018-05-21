@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/gayle_gardner_400446",
+        "quote": "In the end, I think you really only get as far as you're allowed to get.",
+        "author": {
+            "name": "Gayle Gardner",
+            "url": "/quotes/gayle_gardner_400446"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Far",
+                "url": "/topics/far"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gayle_gardner_448645",
+        "quote": "If someone says you're a reporter and doesn't want you to anchor then you wonder why you worked so hard at it.",
+        "author": {
+            "name": "Gayle Gardner",
+            "url": "/quotes/gayle_gardner_448645"
+        },
+        "topics": [
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Why",
+                "url": "/topics/why"
+            },
+            {
+                "name": "Reporter",
+                "url": "/topics/reporter"
+            }
+        ]
+    }
+]

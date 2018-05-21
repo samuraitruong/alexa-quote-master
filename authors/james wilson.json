@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/james_wilson_406097",
+        "quote": "In the world of photography, you get to share a captured moment with other people.",
+        "author": {
+            "name": "James Wilson",
+            "url": "/quotes/james_wilson_406097"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Get",
+                "url": "/topics/get"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_wilson_182771",
+        "quote": "Christianity is part of the common law.",
+        "author": {
+            "name": "James Wilson",
+            "url": "/quotes/james_wilson_182771"
+        },
+        "topics": [
+            {
+                "name": "Law",
+                "url": "/topics/law"
+            },
+            {
+                "name": "Common",
+                "url": "/topics/common"
+            },
+            {
+                "name": "Common Law",
+                "url": "/topics/common_law"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_wilson_406098",
+        "quote": "The housing market will get worse before it gets better.",
+        "author": {
+            "name": "James Wilson",
+            "url": "/quotes/james_wilson_406098"
+        },
+        "topics": [
+            {
+                "name": "Better",
+                "url": "/topics/better"
+            },
+            {
+                "name": "Market",
+                "url": "/topics/market"
+            },
+            {
+                "name": "Housing",
+                "url": "/topics/housing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_wilson_406096",
+        "quote": "Certainly, its important to protect the water system and that covers, certainly, everything from vandals to terrorists.",
+        "author": {
+            "name": "James Wilson",
+            "url": "/quotes/james_wilson_406096"
+        },
+        "topics": [
+            {
+                "name": "Important",
+                "url": "/topics/important"
+            },
+            {
+                "name": "System",
+                "url": "/topics/system"
+            },
+            {
+                "name": "Certainly",
+                "url": "/topics/certainly"
+            }
+        ]
+    }
+]

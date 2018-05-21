@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/franklin_pierce_135636",
+        "quote": "Frequently the more trifling the subject, the more animated and protracted the discussion.",
+        "author": {
+            "name": "Franklin Pierce",
+            "url": "/quotes/franklin_pierce_135636"
+        },
+        "topics": [
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Subject",
+                "url": "/topics/subject"
+            },
+            {
+                "name": "Frequently",
+                "url": "/topics/frequently"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/franklin_pierce_393132",
+        "quote": "The dangers of a concentration of all power in the general government of a confederacy so vast as ours are too obvious to be disregarded.",
+        "author": {
+            "name": "Franklin Pierce",
+            "url": "/quotes/franklin_pierce_393132"
+        },
+        "topics": [
+            {
+                "name": "Confederacy",
+                "url": "/topics/confederacy"
+            },
+            {
+                "name": "Dangers",
+                "url": "/topics/dangers"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/franklin_pierce_135637",
+        "quote": "With the Union my best and dearest earthly hopes are entwined.",
+        "author": {
+            "name": "Franklin Pierce",
+            "url": "/quotes/franklin_pierce_135637"
+        },
+        "topics": [
+            {
+                "name": "Best",
+                "url": "/topics/best"
+            },
+            {
+                "name": "Dearest",
+                "url": "/topics/dearest"
+            },
+            {
+                "name": "Entwined",
+                "url": "/topics/entwined"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/franklin_pierce_135635",
+        "quote": "A Republic without parties is a complete anomaly. The histories of all popular governments show absurd is the idea of their attempting to exist without parties.",
+        "author": {
+            "name": "Franklin Pierce",
+            "url": "/quotes/franklin_pierce_135635"
+        },
+        "topics": [
+            {
+                "name": "Idea",
+                "url": "/topics/idea"
+            },
+            {
+                "name": "Anomaly",
+                "url": "/topics/anomaly"
+            },
+            {
+                "name": "Attempting",
+                "url": "/topics/attempting"
+            }
+        ]
+    }
+]

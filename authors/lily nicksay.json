@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/lily_nicksay_564801",
+        "quote": "I sailed around Europe and lived with the Karen tribe in Thailand for a month.",
+        "author": {
+            "name": "Lily Nicksay",
+            "url": "/quotes/lily_nicksay_564801"
+        },
+        "topics": [
+            {
+                "name": "Tribe",
+                "url": "/topics/tribe"
+            },
+            {
+                "name": "Month",
+                "url": "/topics/month"
+            },
+            {
+                "name": "Sailed",
+                "url": "/topics/sailed"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lily_nicksay_564802",
+        "quote": "I went to high school in the highlands of Scotland.",
+        "author": {
+            "name": "Lily Nicksay",
+            "url": "/quotes/lily_nicksay_564802"
+        },
+        "topics": [
+            {
+                "name": "School",
+                "url": "/topics/school"
+            },
+            {
+                "name": "High School",
+                "url": "/topics/high_school"
+            },
+            {
+                "name": "High",
+                "url": "/topics/high"
+            }
+        ]
+    }
+]

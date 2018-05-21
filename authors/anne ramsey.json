@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/anne_ramsey_628451",
+        "quote": "Some people say I'm not a very pretty woman, but I'm a very beautiful woman inside.",
+        "author": {
+            "name": "Anne Ramsey",
+            "url": "/quotes/anne_ramsey_628451"
+        },
+        "topics": [
+            {
+                "name": "Pretty",
+                "url": "/topics/pretty"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/anne_ramsey_628452",
+        "quote": "I had a sore throat for a long time and it scared me. I saw a lump in my throat and I was terrified. I wouldn't go to a doctor.",
+        "author": {
+            "name": "Anne Ramsey",
+            "url": "/quotes/anne_ramsey_628452"
+        },
+        "topics": [
+            {
+                "name": "Saw",
+                "url": "/topics/saw"
+            },
+            {
+                "name": "Terrified",
+                "url": "/topics/terrified"
+            },
+            {
+                "name": "Throat",
+                "url": "/topics/throat"
+            }
+        ]
+    }
+]

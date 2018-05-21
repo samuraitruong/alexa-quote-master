@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/willy_brandt_338708",
+        "quote": "It often takes more courage to change one's opinion than to keep it.",
+        "author": {
+            "name": "Willy Brandt",
+            "url": "/quotes/willy_brandt_338708"
+        },
+        "topics": [
+            {
+                "name": "Change",
+                "url": "/topics/change"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Than",
+                "url": "/topics/than"
+            }
+        ]
+    }
+]

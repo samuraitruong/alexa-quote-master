@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/mathew_brady_258560",
+        "quote": "No one will ever know what I went through to secure those negatives. The world can never appreciate it. It changed the whole course of my life.",
+        "author": {
+            "name": "Mathew Brady",
+            "url": "/quotes/mathew_brady_258560"
+        },
+        "topics": [
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Negatives",
+                "url": "/topics/negatives"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mathew_brady_258559",
+        "quote": "I had to go. A spirit in my feet said 'Go', and I went.",
+        "author": {
+            "name": "Mathew Brady",
+            "url": "/quotes/mathew_brady_258559"
+        },
+        "topics": [
+            {
+                "name": "Feet",
+                "url": "/topics/feet"
+            },
+            {
+                "name": "Spirit",
+                "url": "/topics/spirit"
+            },
+            {
+                "name": "Go",
+                "url": "/topics/go"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/gert_frobe_619262",
+        "quote": "I am a big man, and I have a laugh to match my size.",
+        "author": {
+            "name": "Gert Frobe",
+            "url": "/quotes/gert_frobe_619262"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Size",
+                "url": "/topics/size"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gert_frobe_619263",
+        "quote": "I am a tall man, 6 feet and 1 1/4, and I am born in 1913; that's all.",
+        "author": {
+            "name": "Gert Frobe",
+            "url": "/quotes/gert_frobe_619263"
+        },
+        "topics": [
+            {
+                "name": "Feet",
+                "url": "/topics/feet"
+            },
+            {
+                "name": "Born",
+                "url": "/topics/born"
+            },
+            {
+                "name": "Am",
+                "url": "/topics/am"
+            }
+        ]
+    }
+]

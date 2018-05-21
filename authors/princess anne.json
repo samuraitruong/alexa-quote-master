@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/princess_anne_110552",
+        "quote": "You are a pest, by the very nature of that camera in your hand.",
+        "author": {
+            "name": "Princess Anne",
+            "url": "/quotes/princess_anne_110552"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Pest",
+                "url": "/topics/pest"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/princess_anne_405077",
+        "quote": "Golf seems to be an arduous way to go for a walk. I prefer to take the dog's out.",
+        "author": {
+            "name": "Princess Anne",
+            "url": "/quotes/princess_anne_405077"
+        },
+        "topics": [
+            {
+                "name": "Golf",
+                "url": "/topics/golf"
+            },
+            {
+                "name": "Take",
+                "url": "/topics/take"
+            },
+            {
+                "name": "Prefer",
+                "url": "/topics/prefer"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/princess_anne_406673",
+        "quote": "I know my own heart to be entirely English.",
+        "author": {
+            "name": "Princess Anne",
+            "url": "/quotes/princess_anne_406673"
+        },
+        "topics": [
+            {
+                "name": "My Own",
+                "url": "/topics/my_own"
+            },
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            },
+            {
+                "name": "English",
+                "url": "/topics/english"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/princess_anne_406674",
+        "quote": "When I appear in public people expect me to neigh, grind my teeth, paw the ground and swish my tail - none of which is easy.",
+        "author": {
+            "name": "Princess Anne",
+            "url": "/quotes/princess_anne_406674"
+        },
+        "topics": [
+            {
+                "name": "Tail",
+                "url": "/topics/tail"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Paw",
+                "url": "/topics/paw"
+            }
+        ]
+    }
+]

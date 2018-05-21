@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/robert_bolt_404999",
+        "quote": "Death comes for us all. Even for kings he comes.",
+        "author": {
+            "name": "Robert Bolt",
+            "url": "/quotes/robert_bolt_404999"
+        },
+        "topics": [
+            {
+                "name": "Death",
+                "url": "/topics/death"
+            },
+            {
+                "name": "Kings",
+                "url": "/topics/kings"
+            },
+            {
+                "name": "Even",
+                "url": "/topics/even"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_bolt_170317",
+        "quote": "Even at our birth, death does but stand aside a little. And every day he looks towards us and muses somewhat to himself whether that day or the next he will draw nigh.",
+        "author": {
+            "name": "Robert Bolt",
+            "url": "/quotes/robert_bolt_170317"
+        },
+        "topics": [
+            {
+                "name": "Death",
+                "url": "/topics/death"
+            },
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_bolt_178449",
+        "quote": "The law is not a 'light' for you or any man to see by; the law is not an instrument of any kind. The law is a causeway upon which so long as he keeps to it a citizen may walk safely.",
+        "author": {
+            "name": "Robert Bolt",
+            "url": "/quotes/robert_bolt_178449"
+        },
+        "topics": [
+            {
+                "name": "Law",
+                "url": "/topics/law"
+            },
+            {
+                "name": "Citizen",
+                "url": "/topics/citizen"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_bolt_178450",
+        "quote": "It profits a man nothing to give his soul for the whole world... but for Wales!",
+        "author": {
+            "name": "Robert Bolt",
+            "url": "/quotes/robert_bolt_178450"
+        },
+        "topics": [
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            },
+            {
+                "name": "Profits",
+                "url": "/topics/profits"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_bolt_402243",
+        "quote": "Good marriages are made in heaven. Or some such place.",
+        "author": {
+            "name": "Robert Bolt",
+            "url": "/quotes/robert_bolt_402243"
+        },
+        "topics": [
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Made",
+                "url": "/topics/made"
+            },
+            {
+                "name": "Marriages",
+                "url": "/topics/marriages"
+            }
+        ]
+    }
+]

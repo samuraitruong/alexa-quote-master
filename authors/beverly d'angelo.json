@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/beverly_dangelo_518942",
+        "quote": "I think personal growth has much to do with acting ability.",
+        "author": {
+            "name": "Beverly D'Angelo",
+            "url": "/quotes/beverly_dangelo_518942"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Personal",
+                "url": "/topics/personal"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/beverly_dangelo_518941",
+        "quote": "To become a star is the beginning of the end. I don't really want to be saddled with a screen persona.",
+        "author": {
+            "name": "Beverly D'Angelo",
+            "url": "/quotes/beverly_dangelo_518941"
+        },
+        "topics": [
+            {
+                "name": "Beginning",
+                "url": "/topics/beginning"
+            },
+            {
+                "name": "Star",
+                "url": "/topics/star"
+            },
+            {
+                "name": "Persona",
+                "url": "/topics/persona"
+            }
+        ]
+    }
+]

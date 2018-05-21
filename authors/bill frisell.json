@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/bill_frisell_176515",
+        "quote": "I spend a lot of time copying saxophone players and trumpet players. Not to say that it is not important to listen to guitar players, but there's so much music out there and so many possibilities. I like anyone who plays any instrument.",
+        "author": {
+            "name": "Bill Frisell",
+            "url": "/quotes/bill_frisell_176515"
+        },
+        "topics": [
+            {
+                "name": "Possibilities",
+                "url": "/topics/possibilities"
+            },
+            {
+                "name": "Saxophone",
+                "url": "/topics/saxophone"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_frisell_176516",
+        "quote": "In so many ways, it feels the same now when I play as the very first time I picked up the instrument. There's always this sound out there that's just a little bit beyond my reach and I'm trying to get there and that just sort of keeps me going.",
+        "author": {
+            "name": "Bill Frisell",
+            "url": "/quotes/bill_frisell_176516"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Feels",
+                "url": "/topics/feels"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_frisell_437497",
+        "quote": "I hate labels; the problem is that if you say you're one thing, it's hard for people to imagine you as something else. Music is way more complicated than that.",
+        "author": {
+            "name": "Bill Frisell",
+            "url": "/quotes/bill_frisell_437497"
+        },
+        "topics": [
+            {
+                "name": "Imagine",
+                "url": "/topics/imagine"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "One Thing",
+                "url": "/topics/one_thing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_frisell_437498",
+        "quote": "First I was a European-style player, then I was a downtown 'noise guy,' and now some people call me an Americana guy.",
+        "author": {
+            "name": "Bill Frisell",
+            "url": "/quotes/bill_frisell_437498"
+        },
+        "topics": [
+            {
+                "name": "Downtown",
+                "url": "/topics/downtown"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Americana",
+                "url": "/topics/americana"
+            }
+        ]
+    }
+]

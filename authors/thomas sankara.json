@@ -1,0 +1,104 @@
+[
+    {
+        "url": "/quotes/thomas_sankara_185020",
+        "quote": "The French revolution taught us the rights of man.",
+        "author": {
+            "name": "Thomas Sankara",
+            "url": "/quotes/thomas_sankara_185020"
+        },
+        "topics": [
+            {
+                "name": "Taught",
+                "url": "/topics/taught"
+            },
+            {
+                "name": "French Revolution",
+                "url": "/topics/french_revolution"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_sankara_480742",
+        "quote": "You cannot carry out fundamental change without a certain amount of madness.",
+        "author": {
+            "name": "Thomas Sankara",
+            "url": "/quotes/thomas_sankara_480742"
+        },
+        "topics": [
+            {
+                "name": "Amount",
+                "url": "/topics/amount"
+            },
+            {
+                "name": "Fundamental Change",
+                "url": "/topics/fundamental_change"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_sankara_185021",
+        "quote": "I can hear the roar of women's silence.",
+        "author": {
+            "name": "Thomas Sankara",
+            "url": "/quotes/thomas_sankara_185021"
+        },
+        "topics": [
+            {
+                "name": "Silence",
+                "url": "/topics/silence"
+            },
+            {
+                "name": "Hear",
+                "url": "/topics/hear"
+            },
+            {
+                "name": "Roar",
+                "url": "/topics/roar"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_sankara_480743",
+        "quote": "It took the madmen of yesterday for us to be able to act with extreme clarity today. I want to be one of those madmen. We must dare to invent the future.",
+        "author": {
+            "name": "Thomas Sankara",
+            "url": "/quotes/thomas_sankara_480743"
+        },
+        "topics": [
+            {
+                "name": "Future",
+                "url": "/topics/future"
+            },
+            {
+                "name": "Madmen",
+                "url": "/topics/madmen"
+            },
+            {
+                "name": "Took",
+                "url": "/topics/took"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_sankara_582045",
+        "quote": "Let there be an end to the arrogance of the big powers who miss no opportunity to put the rights of the people in question. Africa's absence from the club of those who have the right to veto is unjust and should be ended.",
+        "author": {
+            "name": "Thomas Sankara",
+            "url": "/quotes/thomas_sankara_582045"
+        },
+        "topics": [
+            {
+                "name": "Africa",
+                "url": "/topics/africa"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Unjust",
+                "url": "/topics/unjust"
+            }
+        ]
+    }
+]

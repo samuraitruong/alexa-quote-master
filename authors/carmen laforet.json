@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/carmen_laforet_345160",
+        "quote": "When I left, I had learnt nothing. I took nothing with me. At least, that's what I thought then.",
+        "author": {
+            "name": "Carmen Laforet",
+            "url": "/quotes/carmen_laforet_345160"
+        },
+        "topics": [
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Left",
+                "url": "/topics/left"
+            },
+            {
+                "name": "Took",
+                "url": "/topics/took"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/carmen_laforet_345158",
+        "quote": "That profound night freedom was agreeable and exciting.",
+        "author": {
+            "name": "Carmen Laforet",
+            "url": "/quotes/carmen_laforet_345158"
+        },
+        "topics": [
+            {
+                "name": "Freedom",
+                "url": "/topics/freedom"
+            },
+            {
+                "name": "Profound",
+                "url": "/topics/profound"
+            },
+            {
+                "name": "Agreeable",
+                "url": "/topics/agreeable"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/carmen_laforet_345156",
+        "quote": "I write short, my words tight to the thread of the narrative.",
+        "author": {
+            "name": "Carmen Laforet",
+            "url": "/quotes/carmen_laforet_345156"
+        },
+        "topics": [
+            {
+                "name": "Words",
+                "url": "/topics/words"
+            },
+            {
+                "name": "Narrative",
+                "url": "/topics/narrative"
+            },
+            {
+                "name": "I Write",
+                "url": "/topics/i_write"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/carmen_laforet_345157",
+        "quote": "It was the first time I traveled alone, but I was not scared.",
+        "author": {
+            "name": "Carmen Laforet",
+            "url": "/quotes/carmen_laforet_345157"
+        },
+        "topics": [
+            {
+                "name": "Alone",
+                "url": "/topics/alone"
+            },
+            {
+                "name": "First Time",
+                "url": "/topics/first_time"
+            },
+            {
+                "name": "Traveled",
+                "url": "/topics/traveled"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/tom_coughlin_751005",
+        "quote": "Every year that you enter this business and this game, the goal is the Super Bowl.",
+        "author": {
+            "name": "Tom Coughlin",
+            "url": "/quotes/tom_coughlin_751005"
+        },
+        "topics": [
+            {
+                "name": "Game",
+                "url": "/topics/game"
+            },
+            {
+                "name": "Goal",
+                "url": "/topics/goal"
+            },
+            {
+                "name": "Super",
+                "url": "/topics/super"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tom_coughlin_751006",
+        "quote": "The calendar and the clock are all set by football season and the offseason.",
+        "author": {
+            "name": "Tom Coughlin",
+            "url": "/quotes/tom_coughlin_751006"
+        },
+        "topics": [
+            {
+                "name": "Calendar",
+                "url": "/topics/calendar"
+            },
+            {
+                "name": "Season",
+                "url": "/topics/season"
+            },
+            {
+                "name": "Set",
+                "url": "/topics/set"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tom_coughlin_751004",
+        "quote": "I don't like the word 'satisfaction' - never have. I don't think I'll be satisfied with anything, really, to be honest.",
+        "author": {
+            "name": "Tom Coughlin",
+            "url": "/quotes/tom_coughlin_751004"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Satisfied",
+                "url": "/topics/satisfied"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    }
+]

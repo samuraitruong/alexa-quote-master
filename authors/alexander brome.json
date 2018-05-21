@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/alexander_brome_311897",
+        "quote": "I have been in love, and in debt, and in drink, this many and many a year.",
+        "author": {
+            "name": "Alexander Brome",
+            "url": "/quotes/alexander_brome_311897"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Year",
+                "url": "/topics/year"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alexander_brome_395435",
+        "quote": "'Twas drink made me fall in love, And love made me run into debt, And though I have struggled and struggled and strove, I cannot get out of them yet.",
+        "author": {
+            "name": "Alexander Brome",
+            "url": "/quotes/alexander_brome_395435"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Twas",
+                "url": "/topics/twas"
+            },
+            {
+                "name": "Though",
+                "url": "/topics/though"
+            }
+        ]
+    }
+]

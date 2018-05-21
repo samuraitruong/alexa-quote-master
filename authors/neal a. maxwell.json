@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/neal_a_maxwell_130339",
+        "quote": "Discouragement is not the absence of adequacy but the absence of courage.",
+        "author": {
+            "name": "Neal A. Maxwell",
+            "url": "/quotes/neal_a_maxwell_130339"
+        },
+        "topics": [
+            {
+                "name": "Absence",
+                "url": "/topics/absence"
+            },
+            {
+                "name": "Discouragement",
+                "url": "/topics/discouragement"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/neal_a_maxwell_391104",
+        "quote": "God does not begin by asking our ability, only our availability, and if we prove our dependability, He will increase our capability.",
+        "author": {
+            "name": "Neal A. Maxwell",
+            "url": "/quotes/neal_a_maxwell_391104"
+        },
+        "topics": [
+            {
+                "name": "Prove",
+                "url": "/topics/prove"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Asking",
+                "url": "/topics/asking"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/emily_bett_rickards_533874",
+        "quote": "I was always very physical, growing up, and did sports. I like to get out and do different things, and walk in different shoes. I like change. I like challenge.",
+        "author": {
+            "name": "Emily Bett Rickards",
+            "url": "/quotes/emily_bett_rickards_533874"
+        },
+        "topics": [
+            {
+                "name": "Sports",
+                "url": "/topics/sports"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/emily_bett_rickards_533873",
+        "quote": "I'm always interested to meet my friends' parents, or who they were raised by. Where they grew up, I always find very interesting.",
+        "author": {
+            "name": "Emily Bett Rickards",
+            "url": "/quotes/emily_bett_rickards_533873"
+        },
+        "topics": [
+            {
+                "name": "Interesting",
+                "url": "/topics/interesting"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    }
+]

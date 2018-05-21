@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/simone_veil_183205",
+        "quote": "The poet produces the beautiful by fixing his attention on something real.",
+        "author": {
+            "name": "Simone Veil",
+            "url": "/quotes/simone_veil_183205"
+        },
+        "topics": [
+            {
+                "name": "Beautiful",
+                "url": "/topics/beautiful"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            },
+            {
+                "name": "Fixing",
+                "url": "/topics/fixing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/simone_veil_183204",
+        "quote": "Pain is the root of knowledge.",
+        "author": {
+            "name": "Simone Veil",
+            "url": "/quotes/simone_veil_183204"
+        },
+        "topics": [
+            {
+                "name": "Knowledge",
+                "url": "/topics/knowledge"
+            },
+            {
+                "name": "Pain",
+                "url": "/topics/pain"
+            },
+            {
+                "name": "Root",
+                "url": "/topics/root"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/simone_veil_183203",
+        "quote": "Culture is an instrument wielded by professors to manufacture professors, who when their turn comes will manufacture professors.",
+        "author": {
+            "name": "Simone Veil",
+            "url": "/quotes/simone_veil_183203"
+        },
+        "topics": [
+            {
+                "name": "Culture",
+                "url": "/topics/culture"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Manufacture",
+                "url": "/topics/manufacture"
+            }
+        ]
+    }
+]

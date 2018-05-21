@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/james_mchenry_296826",
+        "quote": "Bibles are strong entrenchments. Where they abound, men cannot pursue wicked courses, and at the same time enjoy quiet conscience.",
+        "author": {
+            "name": "James McHenry",
+            "url": "/quotes/james_mchenry_296826"
+        },
+        "topics": [
+            {
+                "name": "Strong",
+                "url": "/topics/strong"
+            },
+            {
+                "name": "Courses",
+                "url": "/topics/courses"
+            },
+            {
+                "name": "Abound",
+                "url": "/topics/abound"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_mchenry_296824",
+        "quote": "Public utility pleads most forcibly for the general distribution of the Holy Scriptures.",
+        "author": {
+            "name": "James McHenry",
+            "url": "/quotes/james_mchenry_296824"
+        },
+        "topics": [
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "General",
+                "url": "/topics/general"
+            },
+            {
+                "name": "Public",
+                "url": "/topics/public"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_mchenry_296825",
+        "quote": "In vain, without the Bible, we increase penal laws and draw entrenchments around our institutions.",
+        "author": {
+            "name": "James McHenry",
+            "url": "/quotes/james_mchenry_296825"
+        },
+        "topics": [
+            {
+                "name": "Bible",
+                "url": "/topics/bible"
+            },
+            {
+                "name": "Laws",
+                "url": "/topics/laws"
+            },
+            {
+                "name": "Institutions",
+                "url": "/topics/institutions"
+            }
+        ]
+    }
+]

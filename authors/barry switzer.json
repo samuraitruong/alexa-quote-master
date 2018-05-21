@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/barry_switzer_104243",
+        "quote": "Some people are born on third base and go through life thinking they hit a triple.",
+        "author": {
+            "name": "Barry Switzer",
+            "url": "/quotes/barry_switzer_104243"
+        },
+        "topics": [
+            {
+                "name": "Sports",
+                "url": "/topics/sports"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/barry_switzer_162417",
+        "quote": "It was like a heart transplant. We tried to implant college in him but his head rejected it.",
+        "author": {
+            "name": "Barry Switzer",
+            "url": "/quotes/barry_switzer_162417"
+        },
+        "topics": [
+            {
+                "name": "College",
+                "url": "/topics/college"
+            },
+            {
+                "name": "Head",
+                "url": "/topics/head"
+            },
+            {
+                "name": "Tried",
+                "url": "/topics/tried"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/barry_switzer_381106",
+        "quote": "It was a horrible, terrible, atrocious, offensive football game.",
+        "author": {
+            "name": "Barry Switzer",
+            "url": "/quotes/barry_switzer_381106"
+        },
+        "topics": [
+            {
+                "name": "Game",
+                "url": "/topics/game"
+            },
+            {
+                "name": "Horrible",
+                "url": "/topics/horrible"
+            },
+            {
+                "name": "Offensive",
+                "url": "/topics/offensive"
+            }
+        ]
+    }
+]

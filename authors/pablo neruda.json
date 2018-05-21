@@ -1,0 +1,200 @@
+[
+    {
+        "url": "/quotes/pablo_neruda_381704",
+        "quote": "I want to do to you what spring does with the cherry trees.",
+        "author": {
+            "name": "Pablo Neruda",
+            "url": "/quotes/pablo_neruda_381704"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "Spring",
+                "url": "/topics/spring"
+            },
+            {
+                "name": "Cherry",
+                "url": "/topics/cherry"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/pablo_neruda_381705",
+        "quote": "You can cut all the flowers but you cannot keep spring from coming.",
+        "author": {
+            "name": "Pablo Neruda",
+            "url": "/quotes/pablo_neruda_381705"
+        },
+        "topics": [
+            {
+                "name": "Spring",
+                "url": "/topics/spring"
+            },
+            {
+                "name": "Flowers",
+                "url": "/topics/flowers"
+            },
+            {
+                "name": "Gardening",
+                "url": "/topics/gardening"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/pablo_neruda_162949",
+        "quote": "The books that help you most are those which make you think that most. The hardest way of learning is that of easy reading; but a great book that comes from a great thinker is a ship of thought, deep freighted with truth and beauty.",
+        "author": {
+            "name": "Pablo Neruda",
+            "url": "/quotes/pablo_neruda_162949"
+        },
+        "topics": [
+            {
+                "name": "Inspirational",
+                "url": "/topics/inspirational"
+            },
+            {
+                "name": "Deep",
+                "url": "/topics/deep"
+            },
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/pablo_neruda_380466",
+        "quote": "Love is so short, forgetting is so long.",
+        "author": {
+            "name": "Pablo Neruda",
+            "url": "/quotes/pablo_neruda_380466"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Short",
+                "url": "/topics/short"
+            },
+            {
+                "name": "Forgetting",
+                "url": "/topics/forgetting"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/pablo_neruda_381708",
+        "quote": "Peace goes into the making of a poem as flour goes into the making of bread.",
+        "author": {
+            "name": "Pablo Neruda",
+            "url": "/quotes/pablo_neruda_381708"
+        },
+        "topics": [
+            {
+                "name": "Bread",
+                "url": "/topics/bread"
+            },
+            {
+                "name": "Poem",
+                "url": "/topics/poem"
+            },
+            {
+                "name": "Making",
+                "url": "/topics/making"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/pablo_neruda_116369",
+        "quote": "I grew up in this town, my poetry was born between the hill and the river, it took its voice from the rain, and like the timber, it steeped itself in the forests.",
+        "author": {
+            "name": "Pablo Neruda",
+            "url": "/quotes/pablo_neruda_116369"
+        },
+        "topics": [
+            {
+                "name": "Rain",
+                "url": "/topics/rain"
+            },
+            {
+                "name": "Voice",
+                "url": "/topics/voice"
+            },
+            {
+                "name": "Took",
+                "url": "/topics/took"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/pablo_neruda_394482",
+        "quote": "A child who does not play is not a child, but the man who doesn't play has lost forever the child who lived in him and who he will miss terribly.",
+        "author": {
+            "name": "Pablo Neruda",
+            "url": "/quotes/pablo_neruda_394482"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Terribly",
+                "url": "/topics/terribly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/pablo_neruda_381706",
+        "quote": "But from each crime are born bullets that will one day seek out in you where the heart lies.",
+        "author": {
+            "name": "Pablo Neruda",
+            "url": "/quotes/pablo_neruda_381706"
+        },
+        "topics": [
+            {
+                "name": "Born",
+                "url": "/topics/born"
+            },
+            {
+                "name": "One Day",
+                "url": "/topics/one_day"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/pablo_neruda_381707",
+        "quote": "And one by one the nights between our separated cities are joined to the night that unites us.",
+        "author": {
+            "name": "Pablo Neruda",
+            "url": "/quotes/pablo_neruda_381707"
+        },
+        "topics": [
+            {
+                "name": "Nights",
+                "url": "/topics/nights"
+            },
+            {
+                "name": "Unites",
+                "url": "/topics/unites"
+            },
+            {
+                "name": "Cities",
+                "url": "/topics/cities"
+            }
+        ]
+    }
+]

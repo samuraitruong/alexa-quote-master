@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/bertrand_russell_106705?src=t_spinoza",
+        "quote": "I like mathematics because it is not human and has nothing particular to do with this planet or with the whole accidental universe - because, like Spinoza's God, it won't love us in return.",
+        "author": {
+            "name": "Bertrand Russell",
+            "url": "/authors/bertrand_russell"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Mathematics",
+                "url": "/topics/mathematics"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_santayana_401868?src=t_spinoza",
+        "quote": "My atheism, like that of Spinoza, is true piety towards the universe and denies only gods fashioned by men in their own image, to be servants of their human interests.",
+        "author": {
+            "name": "George Santayana",
+            "url": "/authors/george_santayana"
+        },
+        "topics": [
+            {
+                "name": "Image",
+                "url": "/topics/image"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Atheism",
+                "url": "/topics/atheism"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/louis_d_brandeis_687060?src=t_spinoza",
+        "quote": "When those of Jewish blood exhibit moral or intellectual superiority, genius or special talent, we feel pride in them, even if they have abjured the faith like Spinoza, Marx, Disraeli or Heine. Despite the meditations of pundits or the decrees of council, our own instincts and acts, and those of others, have defined for us the term 'Jew.'",
+        "author": {
+            "name": "Louis D. Brandeis",
+            "url": "/authors/louis_d_brandeis"
+        },
+        "topics": [
+            {
+                "name": "Feel",
+                "url": "/topics/feel"
+            },
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            },
+            {
+                "name": "Superiority",
+                "url": "/topics/superiority"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_bengurion_182248?src=t_spinoza",
+        "quote": "The great Jewish scientists and philosophers of the last few generations - Spinoza, Einstein, Freud, Robert Oppenheimer and others - were natives of Europe and America.",
+        "author": {
+            "name": "David Ben-Gurion",
+            "url": "/authors/david_bengurion"
+        },
+        "topics": [
+            {
+                "name": "Generations",
+                "url": "/topics/generations"
+            },
+            {
+                "name": "Last",
+                "url": "/topics/last"
+            },
+            {
+                "name": "Jewish",
+                "url": "/topics/jewish"
+            }
+        ]
+    }
+]

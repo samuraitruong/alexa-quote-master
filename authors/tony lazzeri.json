@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/tony_lazzeri_691983",
+        "quote": "I guess I was a pretty tough kid.",
+        "author": {
+            "name": "Tony Lazzeri",
+            "url": "/quotes/tony_lazzeri_691983"
+        },
+        "topics": [
+            {
+                "name": "Pretty",
+                "url": "/topics/pretty"
+            },
+            {
+                "name": "Kid",
+                "url": "/topics/kid"
+            },
+            {
+                "name": "Guess",
+                "url": "/topics/guess"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tony_lazzeri_691984",
+        "quote": "Around New York, I used to hear that expression, 'Once a Dodger, always a Dodger.' But how about, 'Once a Yankee, always a Yankee?' There never was anything better than that. You never get over it.",
+        "author": {
+            "name": "Tony Lazzeri",
+            "url": "/quotes/tony_lazzeri_691984"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tony_lazzeri_691985",
+        "quote": "They didn't get along. Gehrig thought Ruth was a big-mouth, and Ruth thought Gehrig was cheap. They were both right.",
+        "author": {
+            "name": "Tony Lazzeri",
+            "url": "/quotes/tony_lazzeri_691985"
+        },
+        "topics": [
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Along",
+                "url": "/topics/along"
+            },
+            {
+                "name": "Ruth",
+                "url": "/topics/ruth"
+            }
+        ]
+    }
+]

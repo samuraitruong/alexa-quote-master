@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/suzy_kendall_795395",
+        "quote": "I want to avoid being labeled a sexy starlet, even at the cost of not working.",
+        "author": {
+            "name": "Suzy Kendall",
+            "url": "/quotes/suzy_kendall_795395"
+        },
+        "topics": [
+            {
+                "name": "Cost",
+                "url": "/topics/cost"
+            },
+            {
+                "name": "Even",
+                "url": "/topics/even"
+            },
+            {
+                "name": "Starlet",
+                "url": "/topics/starlet"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/suzy_kendall_795393",
+        "quote": "Movie stars are now less remote, less fantasized.",
+        "author": {
+            "name": "Suzy Kendall",
+            "url": "/quotes/suzy_kendall_795393"
+        },
+        "topics": [
+            {
+                "name": "Now",
+                "url": "/topics/now"
+            },
+            {
+                "name": "Movie",
+                "url": "/topics/movie"
+            },
+            {
+                "name": "Movie Stars",
+                "url": "/topics/movie_stars"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/suzy_kendall_795394",
+        "quote": "One can hope to be like Julie Christie, and with a bit of luck might be able to, but you couldn't hope to be like Rita Hayworth.",
+        "author": {
+            "name": "Suzy Kendall",
+            "url": "/quotes/suzy_kendall_795394"
+        },
+        "topics": [
+            {
+                "name": "Luck",
+                "url": "/topics/luck"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Might",
+                "url": "/topics/might"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/suzy_kendall_795396",
+        "quote": "It's a kind of limbo, knowing what you want but not being quite sure how to go about doing it.",
+        "author": {
+            "name": "Suzy Kendall",
+            "url": "/quotes/suzy_kendall_795396"
+        },
+        "topics": [
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Kind",
+                "url": "/topics/kind"
+            },
+            {
+                "name": "Sure",
+                "url": "/topics/sure"
+            }
+        ]
+    }
+]

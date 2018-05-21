@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/william_of_occam_142887",
+        "quote": "It is vain to do with more what can be done with fewer.",
+        "author": {
+            "name": "William of Occam",
+            "url": "/quotes/william_of_occam_142887"
+        },
+        "topics": [
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Vain",
+                "url": "/topics/vain"
+            },
+            {
+                "name": "Fewer",
+                "url": "/topics/fewer"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_of_occam_283623",
+        "quote": "Plurality should not be posited without necessity.",
+        "author": {
+            "name": "William of Occam",
+            "url": "/quotes/william_of_occam_283623"
+        },
+        "topics": [
+            {
+                "name": "Without",
+                "url": "/topics/without"
+            },
+            {
+                "name": "Plurality",
+                "url": "/topics/plurality"
+            },
+            {
+                "name": "Should",
+                "url": "/topics/should"
+            }
+        ]
+    }
+]

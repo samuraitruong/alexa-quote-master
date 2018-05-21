@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/sonja_henie_338704",
+        "quote": "Jewelry takes people's minds off your wrinkles.",
+        "author": {
+            "name": "Sonja Henie",
+            "url": "/quotes/sonja_henie_338704"
+        },
+        "topics": [
+            {
+                "name": "Jewelry",
+                "url": "/topics/jewelry"
+            },
+            {
+                "name": "Minds",
+                "url": "/topics/minds"
+            },
+            {
+                "name": "Wrinkles",
+                "url": "/topics/wrinkles"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sonja_henie_825410",
+        "quote": "I was born in a blizzard, a special out-of-season blizzard, the worst blizzard Oslo ever suffered. Family, home, circumstances, the country I lived in and the weather I was born in all conspired to make a skater of me.",
+        "author": {
+            "name": "Sonja Henie",
+            "url": "/quotes/sonja_henie_825410"
+        },
+        "topics": [
+            {
+                "name": "Circumstances",
+                "url": "/topics/circumstances"
+            },
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sonja_henie_825409",
+        "quote": "You can't go to college and develop into an Olympics champion. It takes too much time, too much training.",
+        "author": {
+            "name": "Sonja Henie",
+            "url": "/quotes/sonja_henie_825409"
+        },
+        "topics": [
+            {
+                "name": "College",
+                "url": "/topics/college"
+            },
+            {
+                "name": "Olympics",
+                "url": "/topics/olympics"
+            },
+            {
+                "name": "Go",
+                "url": "/topics/go"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sonja_henie_825408",
+        "quote": "I want to do with skates what Fred Astaire is doing with dancing.",
+        "author": {
+            "name": "Sonja Henie",
+            "url": "/quotes/sonja_henie_825408"
+        },
+        "topics": [
+            {
+                "name": "Dancing",
+                "url": "/topics/dancing"
+            },
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            }
+        ]
+    }
+]

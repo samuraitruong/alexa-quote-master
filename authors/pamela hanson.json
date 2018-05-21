@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/pamela_hanson_715148",
+        "quote": "I went to university in Colorado and studied art history. I did some photography classes there, although it felt really pretentious.",
+        "author": {
+            "name": "Pamela Hanson",
+            "url": "/quotes/pamela_hanson_715148"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "University",
+                "url": "/topics/university"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/pamela_hanson_715149",
+        "quote": "I hardly look at myself in the mirror... I'll only wear makeup if I need to cover something up. But I've recently started caring about my skin. I just turned 60 and was like, 'OK, maybe it's time to start thinking about it.' Before that, I would just splash water on my face, put cream on, and then leave.",
+        "author": {
+            "name": "Pamela Hanson",
+            "url": "/quotes/pamela_hanson_715149"
+        },
+        "topics": [
+            {
+                "name": "Mirror",
+                "url": "/topics/mirror"
+            },
+            {
+                "name": "Makeup",
+                "url": "/topics/makeup"
+            },
+            {
+                "name": "Turned",
+                "url": "/topics/turned"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/pamela_hanson_715150",
+        "quote": "I've had Botox. It hurts a lot, but I like it.",
+        "author": {
+            "name": "Pamela Hanson",
+            "url": "/quotes/pamela_hanson_715150"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Lot",
+                "url": "/topics/lot"
+            },
+            {
+                "name": "Hurts",
+                "url": "/topics/hurts"
+            }
+        ]
+    }
+]

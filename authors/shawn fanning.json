@@ -1,0 +1,442 @@
+[
+    {
+        "url": "/quotes/shawn_fanning_333430",
+        "quote": "If you think about computer programming, it's as antisocial as it gets.",
+        "author": {
+            "name": "Shawn Fanning",
+            "url": "/quotes/shawn_fanning_333430"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Computer",
+                "url": "/topics/computer"
+            },
+            {
+                "name": "Antisocial",
+                "url": "/topics/antisocial"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/shawn_fanning_333432",
+        "quote": "Napster works because people who love music share and participate.",
+        "author": {
+            "name": "Shawn Fanning",
+            "url": "/quotes/shawn_fanning_333432"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "Works",
+                "url": "/topics/works"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/shawn_fanning_333433",
+        "quote": "Independent artists and labels have always been the trend setters in music and the music business.",
+        "author": {
+            "name": "Shawn Fanning",
+            "url": "/quotes/shawn_fanning_333433"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/shawn_fanning_333431",
+        "quote": "If you're a musician or actor, you know that if you're successful, some level of fame goes along with that. You're prepared. But how often does that happen to a programmer?",
+        "author": {
+            "name": "Shawn Fanning",
+            "url": "/quotes/shawn_fanning_333431"
+        },
+        "topics": [
+            {
+                "name": "Happen",
+                "url": "/topics/happen"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Level",
+                "url": "/topics/level"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/shawn_fanning_333417",
+        "quote": "Unfortunately, the client that exists today is still pretty much the prototype design.",
+        "author": {
+            "name": "Shawn Fanning",
+            "url": "/quotes/shawn_fanning_333417"
+        },
+        "topics": [
+            {
+                "name": "Today",
+                "url": "/topics/today"
+            },
+            {
+                "name": "Pretty",
+                "url": "/topics/pretty"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/shawn_fanning_333425",
+        "quote": "But I just really think there is a natural extension into other types of media because it's an excellent system for reliably locating and retrieving content.",
+        "author": {
+            "name": "Shawn Fanning",
+            "url": "/quotes/shawn_fanning_333425"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Extension",
+                "url": "/topics/extension"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/shawn_fanning_333435",
+        "quote": "Nobody has ever built a reliable peer-to-peer service, where people can really access all the music they want in one location,... Once I got it into my head, I couldn't imagine the media space without one.",
+        "author": {
+            "name": "Shawn Fanning",
+            "url": "/quotes/shawn_fanning_333435"
+        },
+        "topics": [
+            {
+                "name": "Media",
+                "url": "/topics/media"
+            },
+            {
+                "name": "Got",
+                "url": "/topics/got"
+            },
+            {
+                "name": "Access",
+                "url": "/topics/access"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/shawn_fanning_333415",
+        "quote": "I had to actually purchase a book to learn the API and write the client. It was pretty frustrating trying to learn the API and develop a product quickly.",
+        "author": {
+            "name": "Shawn Fanning",
+            "url": "/quotes/shawn_fanning_333415"
+        },
+        "topics": [
+            {
+                "name": "Product",
+                "url": "/topics/product"
+            },
+            {
+                "name": "Learn",
+                "url": "/topics/learn"
+            },
+            {
+                "name": "Pretty",
+                "url": "/topics/pretty"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/shawn_fanning_333412",
+        "quote": "There really was nothing like it at the time. We had good ideas for implementation, so we proceeded. I think it was an excellent solution to the reliability issues with existing search engines.",
+        "author": {
+            "name": "Shawn Fanning",
+            "url": "/quotes/shawn_fanning_333412"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/shawn_fanning_333413",
+        "quote": "I think the most difficult thing had been scaling the infrastructure. Trying to support the response we had received from our users and the number of people that were interested in using the software.",
+        "author": {
+            "name": "Shawn Fanning",
+            "url": "/quotes/shawn_fanning_333413"
+        },
+        "topics": [
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/shawn_fanning_333419",
+        "quote": "Well, user feedback was excellent. Even when the software didn't work at all, there were few people who were avid users, and there were people who were just sending excellent feedback and excellent ideas.",
+        "author": {
+            "name": "Shawn Fanning",
+            "url": "/quotes/shawn_fanning_333419"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "Excellent",
+                "url": "/topics/excellent"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/shawn_fanning_333420",
+        "quote": "I think then, when we started receiving the first of the user feedback, feedback from people that I had not specifically told about it, but had spread from friend to friend and then they were giving us feedback.",
+        "author": {
+            "name": "Shawn Fanning",
+            "url": "/quotes/shawn_fanning_333420"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/shawn_fanning_333421",
+        "quote": "It was very early, and we were still like beta or alpha stage, and so we started receiving a ton of download. The server became overloaded, and that's when I realized that this had a huge market.",
+        "author": {
+            "name": "Shawn Fanning",
+            "url": "/quotes/shawn_fanning_333421"
+        },
+        "topics": [
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Server",
+                "url": "/topics/server"
+            },
+            {
+                "name": "Became",
+                "url": "/topics/became"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/shawn_fanning_333422",
+        "quote": "That's why I ended up leaving school - because it required so much time, and it was such an excellent idea. I figured I would regret not going full force with this idea. It seemed we could make something of it.",
+        "author": {
+            "name": "Shawn Fanning",
+            "url": "/quotes/shawn_fanning_333422"
+        },
+        "topics": [
+            {
+                "name": "Regret",
+                "url": "/topics/regret"
+            },
+            {
+                "name": "Why",
+                "url": "/topics/why"
+            },
+            {
+                "name": "Idea",
+                "url": "/topics/idea"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/shawn_fanning_333423",
+        "quote": "I think it's pretty obvious to most people that Napster is not media specific, but I could see a system like Napster evolving into something that allows users to locate and retrieve different types of data other than just MP3s or audio files.",
+        "author": {
+            "name": "Shawn Fanning",
+            "url": "/quotes/shawn_fanning_333423"
+        },
+        "topics": [
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Locate",
+                "url": "/topics/locate"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/shawn_fanning_333424",
+        "quote": "I think in terms of the work we're doing now a lot of the UI cleanup... I see it getting much prettier.",
+        "author": {
+            "name": "Shawn Fanning",
+            "url": "/quotes/shawn_fanning_333424"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/shawn_fanning_333426",
+        "quote": "He said this has the potential to be the first broadband killer application, and it has sort of become the truth because obviously it's so bandwidth intensive. I mean, it has been an issue.",
+        "author": {
+            "name": "Shawn Fanning",
+            "url": "/quotes/shawn_fanning_333426"
+        },
+        "topics": [
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Issue",
+                "url": "/topics/issue"
+            },
+            {
+                "name": "Bandwidth",
+                "url": "/topics/bandwidth"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/shawn_fanning_333427",
+        "quote": "It's been all over the press, and schools are deciding to shut it down. We released a public announcement saying that we had some potential solutions that we were working with, and once we had something concrete we would start implementing it and approach schools.",
+        "author": {
+            "name": "Shawn Fanning",
+            "url": "/quotes/shawn_fanning_333427"
+        },
+        "topics": [
+            {
+                "name": "Concrete",
+                "url": "/topics/concrete"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Shut",
+                "url": "/topics/shut"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/shawn_fanning_333428",
+        "quote": "So the bandwidth issue is definitely a big concern of ours.",
+        "author": {
+            "name": "Shawn Fanning",
+            "url": "/quotes/shawn_fanning_333428"
+        },
+        "topics": [
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Issue",
+                "url": "/topics/issue"
+            },
+            {
+                "name": "Ours",
+                "url": "/topics/ours"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/shawn_fanning_333436",
+        "quote": "Bertelsmann understood our vision when they first invested in us... They still believe in that vision.",
+        "author": {
+            "name": "Shawn Fanning",
+            "url": "/quotes/shawn_fanning_333436"
+        },
+        "topics": [
+            {
+                "name": "Vision",
+                "url": "/topics/vision"
+            },
+            {
+                "name": "Believe",
+                "url": "/topics/believe"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            }
+        ]
+    }
+]

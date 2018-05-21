@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/william_de_morgan_337632",
+        "quote": "I don't want to achieve immortality by being inducted into the Hall of Fame. I want to achieve immortality by not dying.",
+        "author": {
+            "name": "William De Morgan",
+            "url": "/quotes/william_de_morgan_337632"
+        },
+        "topics": [
+            {
+                "name": "Immortality",
+                "url": "/topics/immortality"
+            },
+            {
+                "name": "Dying",
+                "url": "/topics/dying"
+            },
+            {
+                "name": "Achieve",
+                "url": "/topics/achieve"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_de_morgan_337515",
+        "quote": "For I never have seen, and never shall see, that the cessation of the evidence of existence is necessarily evidence of the cessation of existence.",
+        "author": {
+            "name": "William De Morgan",
+            "url": "/quotes/william_de_morgan_337515"
+        },
+        "topics": [
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Evidence",
+                "url": "/topics/evidence"
+            },
+            {
+                "name": "See",
+                "url": "/topics/see"
+            }
+        ]
+    }
+]

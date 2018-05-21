@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/agnes_varda_391769",
+        "quote": "I'm not interested in seeing a film just made by a woman - not unless she is looking for new images.",
+        "author": {
+            "name": "Agnes Varda",
+            "url": "/quotes/agnes_varda_391769"
+        },
+        "topics": [
+            {
+                "name": "Woman",
+                "url": "/topics/woman"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Images",
+                "url": "/topics/images"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/agnes_varda_387879",
+        "quote": "I had flops, I had success.",
+        "author": {
+            "name": "Agnes Varda",
+            "url": "/quotes/agnes_varda_387879"
+        },
+        "topics": [
+            {
+                "name": "Success",
+                "url": "/topics/success"
+            },
+            {
+                "name": "Had",
+                "url": "/topics/had"
+            },
+            {
+                "name": "Flops",
+                "url": "/topics/flops"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/agnes_varda_387989",
+        "quote": "Hands are the tool of the painter, the artist.",
+        "author": {
+            "name": "Agnes Varda",
+            "url": "/quotes/agnes_varda_387989"
+        },
+        "topics": [
+            {
+                "name": "Artist",
+                "url": "/topics/artist"
+            },
+            {
+                "name": "Hands",
+                "url": "/topics/hands"
+            },
+            {
+                "name": "Painter",
+                "url": "/topics/painter"
+            }
+        ]
+    }
+]

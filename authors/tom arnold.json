@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/tom_arnold_440101",
+        "quote": "People still question my sobriety, my commitment to the program, and that hurts. I take things day by day, and sometimes I take them minute by minute, but I honor my commitment to stay sober.",
+        "author": {
+            "name": "Tom Arnold",
+            "url": "/quotes/tom_arnold_440101"
+        },
+        "topics": [
+            {
+                "name": "Question",
+                "url": "/topics/question"
+            },
+            {
+                "name": "Sobriety",
+                "url": "/topics/sobriety"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tom_arnold_405053",
+        "quote": "Environmentalists have a very conflicted relationship with their cars.",
+        "author": {
+            "name": "Tom Arnold",
+            "url": "/quotes/tom_arnold_405053"
+        },
+        "topics": [
+            {
+                "name": "Car",
+                "url": "/topics/car"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Environmentalists",
+                "url": "/topics/environmentalists"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tom_arnold_175158",
+        "quote": "The nature of show business is people within the business feel that if someone else fails, they move up a notch.",
+        "author": {
+            "name": "Tom Arnold",
+            "url": "/quotes/tom_arnold_175158"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "Business",
+                "url": "/topics/business"
+            },
+            {
+                "name": "Move",
+                "url": "/topics/move"
+            }
+        ]
+    }
+]

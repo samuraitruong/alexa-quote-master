@@ -1,0 +1,60 @@
+[
+    {
+        "url": "/quotes/peter_stormare_404578",
+        "quote": "To me, the most important thing in life is to be a human being. Second is acting.",
+        "author": {
+            "name": "Peter Stormare",
+            "url": "/quotes/peter_stormare_404578"
+        },
+        "topics": [
+            {
+                "name": "The Most Important",
+                "url": "/topics/the_most_important"
+            },
+            {
+                "name": "Being",
+                "url": "/topics/being"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/peter_stormare_407143",
+        "quote": "I have the luxury of being a little boy... To me, the most important thing in life is to be a human being. Second is acting.",
+        "author": {
+            "name": "Peter Stormare",
+            "url": "/quotes/peter_stormare_407143"
+        },
+        "topics": [
+            {
+                "name": "The Most Important",
+                "url": "/topics/the_most_important"
+            },
+            {
+                "name": "Being",
+                "url": "/topics/being"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/peter_stormare_407144",
+        "quote": "If you were my agent and I was making $10 million a movie and made four movies a year, that means you have a salary of $4 million.",
+        "author": {
+            "name": "Peter Stormare",
+            "url": "/quotes/peter_stormare_407144"
+        },
+        "topics": [
+            {
+                "name": "Making",
+                "url": "/topics/making"
+            },
+            {
+                "name": "Means",
+                "url": "/topics/means"
+            },
+            {
+                "name": "Agent",
+                "url": "/topics/agent"
+            }
+        ]
+    }
+]

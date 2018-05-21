@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/moe_howard_195560",
+        "quote": "Only fools are positive.",
+        "author": {
+            "name": "Moe Howard",
+            "url": "/quotes/moe_howard_195560"
+        },
+        "topics": [
+            {
+                "name": "Positive",
+                "url": "/topics/positive"
+            },
+            {
+                "name": "Fools",
+                "url": "/topics/fools"
+            },
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/moe_howard_195562",
+        "quote": "I'll squeeze the cider out of your adam's apple.",
+        "author": {
+            "name": "Moe Howard",
+            "url": "/quotes/moe_howard_195562"
+        },
+        "topics": [
+            {
+                "name": "Apple",
+                "url": "/topics/apple"
+            },
+            {
+                "name": "Squeeze",
+                "url": "/topics/squeeze"
+            },
+            {
+                "name": "Adam",
+                "url": "/topics/adam"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/moe_howard_363637",
+        "quote": "I used to stand outside the theater knowing the truant officer was looking for me. I would stand there 'til someone came along and then ask them to buy my ticket.",
+        "author": {
+            "name": "Moe Howard",
+            "url": "/quotes/moe_howard_363637"
+        },
+        "topics": [
+            {
+                "name": "Ticket",
+                "url": "/topics/ticket"
+            },
+            {
+                "name": "Buy",
+                "url": "/topics/buy"
+            },
+            {
+                "name": "Officer",
+                "url": "/topics/officer"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/moe_howard_195563",
+        "quote": "We're not nearly as violent as the westerns.",
+        "author": {
+            "name": "Moe Howard",
+            "url": "/quotes/moe_howard_195563"
+        },
+        "topics": [
+            {
+                "name": "Westerns",
+                "url": "/topics/westerns"
+            },
+            {
+                "name": "Violent",
+                "url": "/topics/violent"
+            },
+            {
+                "name": "Nearly",
+                "url": "/topics/nearly"
+            }
+        ]
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/vance_packard_382074",
+        "quote": "You can't tell a millionaire's son from a billionaire's.",
+        "author": {
+            "name": "Vance Packard",
+            "url": "/quotes/vance_packard_382074"
+        },
+        "topics": [
+            {
+                "name": "Son",
+                "url": "/topics/son"
+            },
+            {
+                "name": "Tell",
+                "url": "/topics/tell"
+            },
+            {
+                "name": "Billionaire",
+                "url": "/topics/billionaire"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/vance_packard_391902",
+        "quote": "Rock and roll might be summed up as monotony tinged with hysteria.",
+        "author": {
+            "name": "Vance Packard",
+            "url": "/quotes/vance_packard_391902"
+        },
+        "topics": [
+            {
+                "name": "Rock",
+                "url": "/topics/rock"
+            },
+            {
+                "name": "Monotony",
+                "url": "/topics/monotony"
+            },
+            {
+                "name": "Might",
+                "url": "/topics/might"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/vance_packard_389868",
+        "quote": "The difference between a top-flight creative man and the hack is his ability to express powerful meanings indirectly.",
+        "author": {
+            "name": "Vance Packard",
+            "url": "/quotes/vance_packard_389868"
+        },
+        "topics": [
+            {
+                "name": "Powerful",
+                "url": "/topics/powerful"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            },
+            {
+                "name": "Hack",
+                "url": "/topics/hack"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/vance_packard_389969",
+        "quote": "Leadership appears to be the art of getting others to want to do something you are convinced should be done.",
+        "author": {
+            "name": "Vance Packard",
+            "url": "/quotes/vance_packard_389969"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Getting",
+                "url": "/topics/getting"
+            },
+            {
+                "name": "Convinced",
+                "url": "/topics/convinced"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/vance_packard_390050",
+        "quote": "The Christian notion of the possibility of redemption is incomprehensible to the computer.",
+        "author": {
+            "name": "Vance Packard",
+            "url": "/quotes/vance_packard_390050"
+        },
+        "topics": [
+            {
+                "name": "Redemption",
+                "url": "/topics/redemption"
+            },
+            {
+                "name": "Computer",
+                "url": "/topics/computer"
+            },
+            {
+                "name": "Notion",
+                "url": "/topics/notion"
+            }
+        ]
+    }
+]

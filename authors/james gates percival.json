@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/james_gates_percival_393265",
+        "quote": "The world is full of poetry. The air is living with its spirit; and the waves dance to the music of its melodies, and sparkle in its brightness.",
+        "author": {
+            "name": "James Gates Percival",
+            "url": "/quotes/james_gates_percival_393265"
+        },
+        "topics": [
+            {
+                "name": "Waves",
+                "url": "/topics/waves"
+            },
+            {
+                "name": "Sparkle",
+                "url": "/topics/sparkle"
+            },
+            {
+                "name": "Melodies",
+                "url": "/topics/melodies"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_gates_percival_390776",
+        "quote": "There are moments of life that we never forget, which brighten and brighten as time steals away.",
+        "author": {
+            "name": "James Gates Percival",
+            "url": "/quotes/james_gates_percival_390776"
+        },
+        "topics": [
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Brighten",
+                "url": "/topics/brighten"
+            }
+        ]
+    }
+]

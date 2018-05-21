@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/mackenzie_king_201746",
+        "quote": "Government, in the last analysis, is organized opinion. Where there is little or no public opinion, there is likely to be bad government.",
+        "author": {
+            "name": "Mackenzie King",
+            "url": "/quotes/mackenzie_king_201746"
+        },
+        "topics": [
+            {
+                "name": "Government",
+                "url": "/topics/government"
+            },
+            {
+                "name": "Last",
+                "url": "/topics/last"
+            },
+            {
+                "name": "Likely",
+                "url": "/topics/likely"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mackenzie_king_201749",
+        "quote": "The politician's promises of yesterday are the taxes of today.",
+        "author": {
+            "name": "Mackenzie King",
+            "url": "/quotes/mackenzie_king_201749"
+        },
+        "topics": [
+            {
+                "name": "Today",
+                "url": "/topics/today"
+            },
+            {
+                "name": "Yesterday",
+                "url": "/topics/yesterday"
+            },
+            {
+                "name": "Politician",
+                "url": "/topics/politician"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mackenzie_king_201747",
+        "quote": "If some countries have too much history, we have too much geography.",
+        "author": {
+            "name": "Mackenzie King",
+            "url": "/quotes/mackenzie_king_201747"
+        },
+        "topics": [
+            {
+                "name": "Geography",
+                "url": "/topics/geography"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Too",
+                "url": "/topics/too"
+            }
+        ]
+    }
+]

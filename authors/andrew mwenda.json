@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/andrew_mwenda_553159",
+        "quote": "Most problems in poor countries are locally generated even though international factors do play a role.",
+        "author": {
+            "name": "Andrew Mwenda",
+            "url": "/quotes/andrew_mwenda_553159"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Role",
+                "url": "/topics/role"
+            },
+            {
+                "name": "Poor Countries",
+                "url": "/topics/poor_countries"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/andrew_mwenda_553158",
+        "quote": "The first Western attempt to save Africa from itself was in the late 19th century. It was led by Christian missionaries who claimed to be seeking to end poverty, disease and the slave trade.",
+        "author": {
+            "name": "Andrew Mwenda",
+            "url": "/quotes/andrew_mwenda_553158"
+        },
+        "topics": [
+            {
+                "name": "Africa",
+                "url": "/topics/africa"
+            },
+            {
+                "name": "Disease",
+                "url": "/topics/disease"
+            }
+        ]
+    }
+]

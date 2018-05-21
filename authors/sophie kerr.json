@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/sophie_kerr_388088",
+        "quote": "An industrious sinner I much prefer to a lazy saint.",
+        "author": {
+            "name": "Sophie Kerr",
+            "url": "/quotes/sophie_kerr_388088"
+        },
+        "topics": [
+            {
+                "name": "Lazy",
+                "url": "/topics/lazy"
+            },
+            {
+                "name": "Saint",
+                "url": "/topics/saint"
+            },
+            {
+                "name": "Prefer",
+                "url": "/topics/prefer"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sophie_kerr_197698",
+        "quote": "If peace only had the music and pageantry of war, there'd be no wars.",
+        "author": {
+            "name": "Sophie Kerr",
+            "url": "/quotes/sophie_kerr_197698"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "Peace",
+                "url": "/topics/peace"
+            },
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sophie_kerr_389892",
+        "quote": "The longing to produce great inspirations didn't produce anything but more longing.",
+        "author": {
+            "name": "Sophie Kerr",
+            "url": "/quotes/sophie_kerr_389892"
+        },
+        "topics": [
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Produce",
+                "url": "/topics/produce"
+            },
+            {
+                "name": "Inspirations",
+                "url": "/topics/inspirations"
+            }
+        ]
+    }
+]

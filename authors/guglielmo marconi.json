@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/guglielmo_marconi_391848",
+        "quote": "Every day sees humanity more victorious in the struggle with space and time.",
+        "author": {
+            "name": "Guglielmo Marconi",
+            "url": "/quotes/guglielmo_marconi_391848"
+        },
+        "topics": [
+            {
+                "name": "Every Day",
+                "url": "/topics/every_day"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Sees",
+                "url": "/topics/sees"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/guglielmo_marconi_265558",
+        "quote": "Thanks to the high standing which science has for so long attain and to the impartiality of the Nobel Prize Committee, the Nobel Prize for Physics is rightly considered everywhere as the highest reward within the reach of workers in Natural Philosophy.",
+        "author": {
+            "name": "Guglielmo Marconi",
+            "url": "/quotes/guglielmo_marconi_265558"
+        },
+        "topics": [
+            {
+                "name": "Reward",
+                "url": "/topics/reward"
+            },
+            {
+                "name": "Committee",
+                "url": "/topics/committee"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/guglielmo_marconi_265559",
+        "quote": "I am glad to have this opportunity of expressing my high appreciation of the honour extended to me many years ago by the Royal Swedish Academy of Science by enrolling me amongst its members.",
+        "author": {
+            "name": "Guglielmo Marconi",
+            "url": "/quotes/guglielmo_marconi_265559"
+        },
+        "topics": [
+            {
+                "name": "Opportunity",
+                "url": "/topics/opportunity"
+            },
+            {
+                "name": "Honour",
+                "url": "/topics/honour"
+            },
+            {
+                "name": "Swedish",
+                "url": "/topics/swedish"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/guglielmo_marconi_265560",
+        "quote": "You will also allow me to thank the Academy for inviting me to lecture in Stockholm, for its hospitality, and for the opportunity afforded me for admiring the charm of your people and the beauty of your country.",
+        "author": {
+            "name": "Guglielmo Marconi",
+            "url": "/quotes/guglielmo_marconi_265560"
+        },
+        "topics": [
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Stockholm",
+                "url": "/topics/stockholm"
+            },
+            {
+                "name": "Allow",
+                "url": "/topics/allow"
+            }
+        ]
+    }
+]

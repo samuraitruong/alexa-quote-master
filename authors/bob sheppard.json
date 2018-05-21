@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/bob_sheppard_682821",
+        "quote": "I was born in Queens and spent many years there. After I got married, I moved to Kew Gardens, then moved to Baldwin, Long Island, where I still reside.",
+        "author": {
+            "name": "Bob Sheppard",
+            "url": "/quotes/bob_sheppard_682821"
+        },
+        "topics": [
+            {
+                "name": "Gardens",
+                "url": "/topics/gardens"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            },
+            {
+                "name": "Long Island",
+                "url": "/topics/long_island"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bob_sheppard_682822",
+        "quote": "I played baseball as a left-handed first baseman, though never as well as I did quarterbacking.",
+        "author": {
+            "name": "Bob Sheppard",
+            "url": "/quotes/bob_sheppard_682822"
+        },
+        "topics": [
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Though",
+                "url": "/topics/though"
+            },
+            {
+                "name": "Baseman",
+                "url": "/topics/baseman"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bob_sheppard_682823",
+        "quote": "Nobody, but nobody stays a public-address announcer for more than a couple of years. Truly. Public-address announcing is not a career. Public-address announcers only work 81 days a year, so you don't make a living.",
+        "author": {
+            "name": "Bob Sheppard",
+            "url": "/quotes/bob_sheppard_682823"
+        },
+        "topics": [
+            {
+                "name": "Career",
+                "url": "/topics/career"
+            },
+            {
+                "name": "Couple",
+                "url": "/topics/couple"
+            },
+            {
+                "name": "Announcer",
+                "url": "/topics/announcer"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bob_sheppard_682824",
+        "quote": "My purpose in public address and in speech is really encapsulated in three C's: clear, concise, correct. No overblowing rhetoric or anything like that. As simple as possible: clear, concise, correct.",
+        "author": {
+            "name": "Bob Sheppard",
+            "url": "/quotes/bob_sheppard_682824"
+        },
+        "topics": [
+            {
+                "name": "Purpose",
+                "url": "/topics/purpose"
+            },
+            {
+                "name": "Correct",
+                "url": "/topics/correct"
+            },
+            {
+                "name": "Address",
+                "url": "/topics/address"
+            }
+        ]
+    }
+]

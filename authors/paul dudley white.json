@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/paul_dudley_white_392636",
+        "quote": "We know from our clinical experience in the practice of medicine that in diagnosis, prognosis, and treatment, the individual and his background of heredity are just as important, if not more so, as the disease itself.",
+        "author": {
+            "name": "Paul Dudley White",
+            "url": "/quotes/paul_dudley_white_392636"
+        },
+        "topics": [
+            {
+                "name": "Practice",
+                "url": "/topics/practice"
+            },
+            {
+                "name": "Disease",
+                "url": "/topics/disease"
+            },
+            {
+                "name": "Treatment",
+                "url": "/topics/treatment"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_dudley_white_107436",
+        "quote": "A vigorous five-mile walk will do more good for an unhappy but otherwise healthy adult than all the medicine and psychology in the world.",
+        "author": {
+            "name": "Paul Dudley White",
+            "url": "/quotes/paul_dudley_white_107436"
+        },
+        "topics": [
+            {
+                "name": "Fitness",
+                "url": "/topics/fitness"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Otherwise",
+                "url": "/topics/otherwise"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_dudley_white_391475",
+        "quote": "I wish we could do something useful with tobacco - like making fertilizer out of it.",
+        "author": {
+            "name": "Paul Dudley White",
+            "url": "/quotes/paul_dudley_white_391475"
+        },
+        "topics": [
+            {
+                "name": "Wish",
+                "url": "/topics/wish"
+            },
+            {
+                "name": "I Wish",
+                "url": "/topics/i_wish"
+            },
+            {
+                "name": "Making",
+                "url": "/topics/making"
+            }
+        ]
+    }
+]

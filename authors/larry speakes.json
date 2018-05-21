@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/larry_speakes_113953",
+        "quote": "Those who talk don't know what is going on and those who know what is going on won't talk.",
+        "author": {
+            "name": "Larry Speakes",
+            "url": "/quotes/larry_speakes_113953"
+        },
+        "topics": [
+            {
+                "name": "Know",
+                "url": "/topics/know"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Talk",
+                "url": "/topics/talk"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/larry_speakes_113952",
+        "quote": "You don't tell us how to stage the news and we don't tell you how to cover it.",
+        "author": {
+            "name": "Larry Speakes",
+            "url": "/quotes/larry_speakes_113952"
+        },
+        "topics": [
+            {
+                "name": "News",
+                "url": "/topics/news"
+            },
+            {
+                "name": "Cover",
+                "url": "/topics/cover"
+            },
+            {
+                "name": "How",
+                "url": "/topics/how"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/larry_speakes_113954",
+        "quote": "Being a press secretary is like learning to type: You're hunting and pecking for a while and then you find yourself doing the touch system and don't realize it. You're speaking for the president without ever having to go to him.",
+        "author": {
+            "name": "Larry Speakes",
+            "url": "/quotes/larry_speakes_113954"
+        },
+        "topics": [
+            {
+                "name": "Learning",
+                "url": "/topics/learning"
+            },
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Type",
+                "url": "/topics/type"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/larry_speakes_113955",
+        "quote": "I would dodge, not lie, in the national interest.",
+        "author": {
+            "name": "Larry Speakes",
+            "url": "/quotes/larry_speakes_113955"
+        },
+        "topics": [
+            {
+                "name": "Interest",
+                "url": "/topics/interest"
+            },
+            {
+                "name": "Dodge",
+                "url": "/topics/dodge"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            }
+        ]
+    }
+]

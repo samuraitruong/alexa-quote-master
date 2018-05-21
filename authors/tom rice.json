@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/tom_rice_622247",
+        "quote": "Our Founding Fathers created the Executive Branch to implement and enforce the laws written by Congress, and vested this power in the president.",
+        "author": {
+            "name": "Tom Rice",
+            "url": "/quotes/tom_rice_622247"
+        },
+        "topics": [
+            {
+                "name": "Founding Fathers",
+                "url": "/topics/founding_fathers"
+            },
+            {
+                "name": "Fathers",
+                "url": "/topics/fathers"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tom_rice_622246",
+        "quote": "President Obama has adopted a practice of picking and choosing which laws he wants to enforce. In most cases, his laws of choice conveniently coincide with his administration's political agenda.",
+        "author": {
+            "name": "Tom Rice",
+            "url": "/quotes/tom_rice_622246"
+        },
+        "topics": [
+            {
+                "name": "Practice",
+                "url": "/topics/practice"
+            },
+            {
+                "name": "Laws",
+                "url": "/topics/laws"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    }
+]

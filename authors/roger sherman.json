@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/roger_sherman_198502",
+        "quote": "Let us live no more to ourselves, but to Him who loved us, and gave Himself to die for us.",
+        "author": {
+            "name": "Roger Sherman",
+            "url": "/quotes/roger_sherman_198502"
+        },
+        "topics": [
+            {
+                "name": "Die",
+                "url": "/topics/die"
+            },
+            {
+                "name": "Himself",
+                "url": "/topics/himself"
+            },
+            {
+                "name": "Let Us",
+                "url": "/topics/let_us"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/roger_sherman_198503",
+        "quote": "All civil rights and the right to hold office were to be extended to persons of any Christian denomination.",
+        "author": {
+            "name": "Roger Sherman",
+            "url": "/quotes/roger_sherman_198503"
+        },
+        "topics": [
+            {
+                "name": "Office",
+                "url": "/topics/office"
+            },
+            {
+                "name": "Right",
+                "url": "/topics/right"
+            },
+            {
+                "name": "Any",
+                "url": "/topics/any"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/roger_sherman_345248",
+        "quote": "We were driven off like rats in five minutes.",
+        "author": {
+            "name": "Roger Sherman",
+            "url": "/quotes/roger_sherman_345248"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Minutes",
+                "url": "/topics/minutes"
+            },
+            {
+                "name": "Were",
+                "url": "/topics/were"
+            }
+        ]
+    }
+]

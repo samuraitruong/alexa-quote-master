@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/cyrus_mccormick_701348",
+        "quote": "Trying to do business without advertising is like winking at a pretty girl through a pair of green goggles. You may know what you are doing, but no one else does.",
+        "author": {
+            "name": "Cyrus McCormick",
+            "url": "/quotes/cyrus_mccormick_701348"
+        },
+        "topics": [
+            {
+                "name": "Pretty",
+                "url": "/topics/pretty"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Winking",
+                "url": "/topics/winking"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/cyrus_mccormick_701347",
+        "quote": "Indomitable perseverance in a business, properly understood, always ensures ultimate success.",
+        "author": {
+            "name": "Cyrus McCormick",
+            "url": "/quotes/cyrus_mccormick_701347"
+        },
+        "topics": [
+            {
+                "name": "Business",
+                "url": "/topics/business"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Properly",
+                "url": "/topics/properly"
+            }
+        ]
+    }
+]

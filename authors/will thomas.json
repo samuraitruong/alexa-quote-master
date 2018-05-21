@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/will_thomas_404522",
+        "quote": "There's no fear when you're having fun.",
+        "author": {
+            "name": "Will Thomas",
+            "url": "/quotes/will_thomas_404522"
+        },
+        "topics": [
+            {
+                "name": "No Fear",
+                "url": "/topics/no_fear"
+            },
+            {
+                "name": "You",
+                "url": "/topics/you"
+            },
+            {
+                "name": "Having",
+                "url": "/topics/having"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/will_thomas_440323",
+        "quote": "Obama has been attacked repeatedly for not wearing a flag pin, with Republicans claiming that his patriotism is in question. It's all a bit silly.",
+        "author": {
+            "name": "Will Thomas",
+            "url": "/quotes/will_thomas_440323"
+        },
+        "topics": [
+            {
+                "name": "Flag",
+                "url": "/topics/flag"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Repeatedly",
+                "url": "/topics/repeatedly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/will_thomas_440322",
+        "quote": "We all know by now that Barack Obama is not a patriot. After all, he doesn't always wear a flag pin, and he objects to the idea that he should be required to in order to run for office.",
+        "author": {
+            "name": "Will Thomas",
+            "url": "/quotes/will_thomas_440322"
+        },
+        "topics": [
+            {
+                "name": "Flag",
+                "url": "/topics/flag"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Idea",
+                "url": "/topics/idea"
+            }
+        ]
+    }
+]

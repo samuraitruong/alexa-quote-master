@@ -1,0 +1,134 @@
+[
+    {
+        "url": "/quotes/bobby_jones_132552",
+        "quote": "Some people think they are concentrating when they're merely worrying.",
+        "author": {
+            "name": "Bobby Jones",
+            "url": "/quotes/bobby_jones_132552"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Concentrating",
+                "url": "/topics/concentrating"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bobby_jones_391177",
+        "quote": "Competitive golf is played mainly on a five-and-a-half-inch course... the space between your ears.",
+        "author": {
+            "name": "Bobby Jones",
+            "url": "/quotes/bobby_jones_391177"
+        },
+        "topics": [
+            {
+                "name": "Golf",
+                "url": "/topics/golf"
+            },
+            {
+                "name": "Ears",
+                "url": "/topics/ears"
+            },
+            {
+                "name": "Course",
+                "url": "/topics/course"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bobby_jones_114773",
+        "quote": "You might as well praise a man for not robbing a bank.",
+        "author": {
+            "name": "Bobby Jones",
+            "url": "/quotes/bobby_jones_114773"
+        },
+        "topics": [
+            {
+                "name": "Bank",
+                "url": "/topics/bank"
+            },
+            {
+                "name": "Robbing",
+                "url": "/topics/robbing"
+            },
+            {
+                "name": "Might",
+                "url": "/topics/might"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bobby_jones_145921",
+        "quote": "It is nothing new or original to say that golf is played one stroke at a time. But it took me many years to realize it.",
+        "author": {
+            "name": "Bobby Jones",
+            "url": "/quotes/bobby_jones_145921"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Original",
+                "url": "/topics/original"
+            },
+            {
+                "name": "Took",
+                "url": "/topics/took"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bobby_jones_378527",
+        "quote": "The secret of golf is to turn three shots into two.",
+        "author": {
+            "name": "Bobby Jones",
+            "url": "/quotes/bobby_jones_378527"
+        },
+        "topics": [
+            {
+                "name": "Golf",
+                "url": "/topics/golf"
+            },
+            {
+                "name": "Secret",
+                "url": "/topics/secret"
+            },
+            {
+                "name": "The Secret Of",
+                "url": "/topics/the_secret_of"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bobby_jones_388913",
+        "quote": "If ever I needed an eight foot putt, and everything I owned depended on it, I would want Arnold Palmer to putt for me.",
+        "author": {
+            "name": "Bobby Jones",
+            "url": "/quotes/bobby_jones_388913"
+        },
+        "topics": [
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Needed",
+                "url": "/topics/needed"
+            },
+            {
+                "name": "Depended",
+                "url": "/topics/depended"
+            }
+        ]
+    }
+]

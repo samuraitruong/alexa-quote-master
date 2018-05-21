@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/john_hay_whitney_112779",
+        "quote": "To be fair is not enough any more. We must be ferociously fair.",
+        "author": {
+            "name": "John Hay Whitney",
+            "url": "/quotes/john_hay_whitney_112779"
+        },
+        "topics": [
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Ferociously",
+                "url": "/topics/ferociously"
+            },
+            {
+                "name": "Must",
+                "url": "/topics/must"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_hay_whitney_112780",
+        "quote": "The role we can play every day, if we try, is to take the whole experience of every day and shape it to involve American man. It is our job to interest him in his community and to give his ideas the excitement they should have.",
+        "author": {
+            "name": "John Hay Whitney",
+            "url": "/quotes/john_hay_whitney_112780"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Role",
+                "url": "/topics/role"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            }
+        ]
+    }
+]

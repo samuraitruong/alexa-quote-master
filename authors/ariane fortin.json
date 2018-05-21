@@ -1,0 +1,60 @@
+[
+    {
+        "url": "/quotes/ariane_fortin_754376",
+        "quote": "I love boxing and keep doing it because I love it.",
+        "author": {
+            "name": "Ariane Fortin",
+            "url": "/quotes/ariane_fortin_754376"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "I Love",
+                "url": "/topics/i_love"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ariane_fortin_754377",
+        "quote": "I don't box for the attention.",
+        "author": {
+            "name": "Ariane Fortin",
+            "url": "/quotes/ariane_fortin_754377"
+        },
+        "topics": [
+            {
+                "name": "Attention",
+                "url": "/topics/attention"
+            },
+            {
+                "name": "Box",
+                "url": "/topics/box"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ariane_fortin_754379",
+        "quote": "I've won a world championship, I know how that feels. I don't know how it feels to win a gold medal. I want to feel that; I want to know that.",
+        "author": {
+            "name": "Ariane Fortin",
+            "url": "/quotes/ariane_fortin_754379"
+        },
+        "topics": [
+            {
+                "name": "Feels",
+                "url": "/topics/feels"
+            },
+            {
+                "name": "World Championship",
+                "url": "/topics/world_championship"
+            }
+        ]
+    }
+]

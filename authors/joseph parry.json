@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/joseph_parry_227774",
+        "quote": "Make new friends, but keep the old; Those are silver, these are gold.",
+        "author": {
+            "name": "Joseph Parry",
+            "url": "/quotes/joseph_parry_227774"
+        },
+        "topics": [
+            {
+                "name": "Gold",
+                "url": "/topics/gold"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Old",
+                "url": "/topics/old"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joseph_parry_227775",
+        "quote": "Friendships that have stood the test of time and change are surely best.",
+        "author": {
+            "name": "Joseph Parry",
+            "url": "/quotes/joseph_parry_227775"
+        },
+        "topics": [
+            {
+                "name": "Change",
+                "url": "/topics/change"
+            },
+            {
+                "name": "Test",
+                "url": "/topics/test"
+            },
+            {
+                "name": "Surely",
+                "url": "/topics/surely"
+            }
+        ]
+    }
+]

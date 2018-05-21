@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/jack_miller_190827",
+        "quote": "When someone has the desire to go to school and has the ability but can't get into our schools, that's wrong. Education drives the economy and the quality of life.",
+        "author": {
+            "name": "Jack Miller",
+            "url": "/quotes/jack_miller_190827"
+        },
+        "topics": [
+            {
+                "name": "Education",
+                "url": "/topics/education"
+            },
+            {
+                "name": "Desire",
+                "url": "/topics/desire"
+            },
+            {
+                "name": "Go",
+                "url": "/topics/go"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jack_miller_190828",
+        "quote": "Major religions are examples of 'noble lies' aimed at uplifting human stature.",
+        "author": {
+            "name": "Jack Miller",
+            "url": "/quotes/jack_miller_190828"
+        },
+        "topics": [
+            {
+                "name": "Uplifting",
+                "url": "/topics/uplifting"
+            },
+            {
+                "name": "Examples",
+                "url": "/topics/examples"
+            },
+            {
+                "name": "Major",
+                "url": "/topics/major"
+            }
+        ]
+    }
+]

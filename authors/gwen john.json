@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/gwen_john_212489",
+        "quote": "In talking, shyness and timidity distort the very meaning of my words. I don't pretend to know anybody well. People are like shadows to me and I am like a shadow.",
+        "author": {
+            "name": "Gwen John",
+            "url": "/quotes/gwen_john_212489"
+        },
+        "topics": [
+            {
+                "name": "Shadow",
+                "url": "/topics/shadow"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gwen_john_212488",
+        "quote": "To be reserved, secretive, with a passionate violence that causes suffering.",
+        "author": {
+            "name": "Gwen John",
+            "url": "/quotes/gwen_john_212488"
+        },
+        "topics": [
+            {
+                "name": "Passionate",
+                "url": "/topics/passionate"
+            },
+            {
+                "name": "Secretive",
+                "url": "/topics/secretive"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gwen_john_212487",
+        "quote": "Aloneness is nearer God, nearer reality.",
+        "author": {
+            "name": "Gwen John",
+            "url": "/quotes/gwen_john_212487"
+        },
+        "topics": [
+            {
+                "name": "God",
+                "url": "/topics/god"
+            },
+            {
+                "name": "Reality",
+                "url": "/topics/reality"
+            },
+            {
+                "name": "Nearer",
+                "url": "/topics/nearer"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gwen_john_212490",
+        "quote": "When I was a child, I used to cry all the time.",
+        "author": {
+            "name": "Gwen John",
+            "url": "/quotes/gwen_john_212490"
+        },
+        "topics": [
+            {
+                "name": "Time",
+                "url": "/topics/time"
+            },
+            {
+                "name": "Cry",
+                "url": "/topics/cry"
+            },
+            {
+                "name": "Used",
+                "url": "/topics/used"
+            }
+        ]
+    }
+]

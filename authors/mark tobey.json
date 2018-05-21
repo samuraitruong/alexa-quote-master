@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/mark_tobey_183191",
+        "quote": "On pavements and the bark of trees I have found whole worlds.",
+        "author": {
+            "name": "Mark Tobey",
+            "url": "/quotes/mark_tobey_183191"
+        },
+        "topics": [
+            {
+                "name": "Worlds",
+                "url": "/topics/worlds"
+            },
+            {
+                "name": "Found",
+                "url": "/topics/found"
+            },
+            {
+                "name": "Bark",
+                "url": "/topics/bark"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mark_tobey_183189",
+        "quote": "According to one critic, my works looked like scraped billboards. I went to look at the billboards and decided that more billboards should be scraped.",
+        "author": {
+            "name": "Mark Tobey",
+            "url": "/quotes/mark_tobey_183189"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Works",
+                "url": "/topics/works"
+            },
+            {
+                "name": "Looked",
+                "url": "/topics/looked"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mark_tobey_183190",
+        "quote": "I believe that painting should come through the avenues of meditation rather than the canals of action.",
+        "author": {
+            "name": "Mark Tobey",
+            "url": "/quotes/mark_tobey_183190"
+        },
+        "topics": [
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Come",
+                "url": "/topics/come"
+            },
+            {
+                "name": "Rather",
+                "url": "/topics/rather"
+            }
+        ]
+    }
+]

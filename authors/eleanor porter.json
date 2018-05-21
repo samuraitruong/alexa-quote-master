@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/eleanor_porter_221337",
+        "quote": "My relationship with 'Pollyanna' is a very personal one, because Pollyanna got me through my childhood.",
+        "author": {
+            "name": "Eleanor Porter",
+            "url": "/quotes/eleanor_porter_221337"
+        },
+        "topics": [
+            {
+                "name": "Childhood",
+                "url": "/topics/childhood"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eleanor_porter_221338",
+        "quote": "One day it was about getting married that mother talked with me, and I said I was so glad that when you didn't like being married, or got tired of your husband, you could get Unmarried.",
+        "author": {
+            "name": "Eleanor Porter",
+            "url": "/quotes/eleanor_porter_221338"
+        },
+        "topics": [
+            {
+                "name": "Husband",
+                "url": "/topics/husband"
+            },
+            {
+                "name": "One Day",
+                "url": "/topics/one_day"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    }
+]

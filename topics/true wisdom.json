@@ -1,0 +1,156 @@
+[
+    {
+        "url": "/quotes/socrates_101212?src=t_true_wisdom",
+        "quote": "The only true wisdom is in knowing you know nothing.",
+        "author": {
+            "name": "Socrates",
+            "url": "/authors/socrates"
+        },
+        "topics": [
+            {
+                "name": "Wisdom",
+                "url": "/topics/wisdom"
+            },
+            {
+                "name": "Knowing",
+                "url": "/topics/knowing"
+            },
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/socrates_391046?src=t_true_wisdom",
+        "quote": "True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us.",
+        "author": {
+            "name": "Socrates",
+            "url": "/authors/socrates"
+        },
+        "topics": [
+            {
+                "name": "Wisdom",
+                "url": "/topics/wisdom"
+            },
+            {
+                "name": "Understand",
+                "url": "/topics/understand"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/oprah_winfrey_383372?src=t_true_wisdom",
+        "quote": "Follow your instincts. That's where true wisdom manifests itself.",
+        "author": {
+            "name": "Oprah Winfrey",
+            "url": "/authors/oprah_winfrey"
+        },
+        "topics": [
+            {
+                "name": "True",
+                "url": "/topics/true"
+            },
+            {
+                "name": "Where",
+                "url": "/topics/where"
+            },
+            {
+                "name": "Itself",
+                "url": "/topics/itself"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/akhenaton_395514?src=t_true_wisdom",
+        "quote": "True wisdom is less presuming than folly. The wise man doubteth often, and changeth his mind; the fool is obstinate, and doubteth not; he knoweth all things but his own ignorance.",
+        "author": {
+            "name": "Akhenaton",
+            "url": "/authors/akhenaton"
+        },
+        "topics": [
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Folly",
+                "url": "/topics/folly"
+            },
+            {
+                "name": "Obstinate",
+                "url": "/topics/obstinate"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kiana_tom_296913?src=t_true_wisdom",
+        "quote": "True wisdom listens more, talks less and can get along with all types of people.",
+        "author": {
+            "name": "Kiana Tom",
+            "url": "/authors/kiana_tom"
+        },
+        "topics": [
+            {
+                "name": "Along",
+                "url": "/topics/along"
+            },
+            {
+                "name": "Types",
+                "url": "/topics/types"
+            },
+            {
+                "name": "Listens",
+                "url": "/topics/listens"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/adoniram_judson_729658?src=t_true_wisdom",
+        "quote": "Consider this point. It is a main point of true wisdom. Whenever there is an execution of purpose, there must be an agent.",
+        "author": {
+            "name": "Adoniram Judson",
+            "url": "/authors/adoniram_judson"
+        },
+        "topics": [
+            {
+                "name": "Execution",
+                "url": "/topics/execution"
+            },
+            {
+                "name": "Agent",
+                "url": "/topics/agent"
+            },
+            {
+                "name": "Whenever",
+                "url": "/topics/whenever"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mary_astell_409945?src=t_true_wisdom",
+        "quote": "Unhappy is that Grandeur which makes us too great to be good; and that Wit which sets us at a distance from true Wisdom.",
+        "author": {
+            "name": "Mary Astell",
+            "url": "/authors/mary_astell"
+        },
+        "topics": [
+            {
+                "name": "Wit",
+                "url": "/topics/wit"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Sets",
+                "url": "/topics/sets"
+            }
+        ]
+    }
+]

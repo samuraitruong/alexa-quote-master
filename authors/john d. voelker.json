@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/john_d_voelker_628867",
+        "quote": "I'm a fisherman who likes to observe and tell yarns, and so I told stories about things that I knew about.",
+        "author": {
+            "name": "John D. Voelker",
+            "url": "/quotes/john_d_voelker_628867"
+        },
+        "topics": [
+            {
+                "name": "Tell",
+                "url": "/topics/tell"
+            },
+            {
+                "name": "Knew",
+                "url": "/topics/knew"
+            },
+            {
+                "name": "Stories",
+                "url": "/topics/stories"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_d_voelker_628866",
+        "quote": "Spinning yarns is a protection against the nuttiness... the greed, the hate all around us.",
+        "author": {
+            "name": "John D. Voelker",
+            "url": "/quotes/john_d_voelker_628866"
+        },
+        "topics": [
+            {
+                "name": "Greed",
+                "url": "/topics/greed"
+            },
+            {
+                "name": "Spinning",
+                "url": "/topics/spinning"
+            },
+            {
+                "name": "Against",
+                "url": "/topics/against"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_d_voelker_628868",
+        "quote": "I look at trees, hunt mushrooms, and watch animals. Fishing is what gets me out into the woods so I can notice these things.",
+        "author": {
+            "name": "John D. Voelker",
+            "url": "/quotes/john_d_voelker_628868"
+        },
+        "topics": [
+            {
+                "name": "Fishing",
+                "url": "/topics/fishing"
+            },
+            {
+                "name": "Woods",
+                "url": "/topics/woods"
+            },
+            {
+                "name": "Hunt",
+                "url": "/topics/hunt"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_d_voelker_628869",
+        "quote": "I listened to a lot of stories when I was a kid. My mother told me stories, and I loved them.",
+        "author": {
+            "name": "John D. Voelker",
+            "url": "/quotes/john_d_voelker_628869"
+        },
+        "topics": [
+            {
+                "name": "Mother",
+                "url": "/topics/mother"
+            },
+            {
+                "name": "Lot",
+                "url": "/topics/lot"
+            },
+            {
+                "name": "Stories",
+                "url": "/topics/stories"
+            }
+        ]
+    }
+]

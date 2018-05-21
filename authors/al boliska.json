@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/al_boliska_108141",
+        "quote": "Airline travel is hours of boredom interrupted by moments of stark terror.",
+        "author": {
+            "name": "Al Boliska",
+            "url": "/quotes/al_boliska_108141"
+        },
+        "topics": [
+            {
+                "name": "Travel",
+                "url": "/topics/travel"
+            },
+            {
+                "name": "Boredom",
+                "url": "/topics/boredom"
+            },
+            {
+                "name": "Hours",
+                "url": "/topics/hours"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/al_boliska_108047",
+        "quote": "Do you realize if it weren't for Edison we'd be watching TV by candlelight?",
+        "author": {
+            "name": "Al Boliska",
+            "url": "/quotes/al_boliska_108047"
+        },
+        "topics": [
+            {
+                "name": "Technology",
+                "url": "/topics/technology"
+            },
+            {
+                "name": "Watching Tv",
+                "url": "/topics/watching_tv"
+            },
+            {
+                "name": "TV",
+                "url": "/topics/tv"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/al_boliska_105404",
+        "quote": "Have you ever noticed what golf spells backwards?",
+        "author": {
+            "name": "Al Boliska",
+            "url": "/quotes/al_boliska_105404"
+        },
+        "topics": [
+            {
+                "name": "Sports",
+                "url": "/topics/sports"
+            },
+            {
+                "name": "Golf",
+                "url": "/topics/golf"
+            },
+            {
+                "name": "Ever",
+                "url": "/topics/ever"
+            }
+        ]
+    }
+]

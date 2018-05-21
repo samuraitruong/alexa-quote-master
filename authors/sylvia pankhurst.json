@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/sylvia_pankhurst_391894",
+        "quote": "Love and freedom are vital to the creation and upbringing of a child.",
+        "author": {
+            "name": "Sylvia Pankhurst",
+            "url": "/quotes/sylvia_pankhurst_391894"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Freedom",
+                "url": "/topics/freedom"
+            },
+            {
+                "name": "Vital",
+                "url": "/topics/vital"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sylvia_pankhurst_134752",
+        "quote": "I am going to fight capitalism even if it kills me. It is wrong that people like you should be comfortable and well fed while all around you people are starving.",
+        "author": {
+            "name": "Sylvia Pankhurst",
+            "url": "/quotes/sylvia_pankhurst_134752"
+        },
+        "topics": [
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Starving",
+                "url": "/topics/starving"
+            },
+            {
+                "name": "Fed",
+                "url": "/topics/fed"
+            }
+        ]
+    }
+]

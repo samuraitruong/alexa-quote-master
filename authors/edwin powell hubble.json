@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/edwin_powell_hubble_172280",
+        "quote": "Equipped with his five senses, man explores the universe around him and calls the adventure Science.",
+        "author": {
+            "name": "Edwin Powell Hubble",
+            "url": "/quotes/edwin_powell_hubble_172280"
+        },
+        "topics": [
+            {
+                "name": "Adventure",
+                "url": "/topics/adventure"
+            },
+            {
+                "name": "Science",
+                "url": "/topics/science"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edwin_powell_hubble_198717",
+        "quote": "The great spirals... apparently lie outside our stellar system.",
+        "author": {
+            "name": "Edwin Powell Hubble",
+            "url": "/quotes/edwin_powell_hubble_198717"
+        },
+        "topics": [
+            {
+                "name": "System",
+                "url": "/topics/system"
+            },
+            {
+                "name": "Stellar",
+                "url": "/topics/stellar"
+            },
+            {
+                "name": "Apparently",
+                "url": "/topics/apparently"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edwin_powell_hubble_198719",
+        "quote": "The history of astronomy is a history of receding horizons.",
+        "author": {
+            "name": "Edwin Powell Hubble",
+            "url": "/quotes/edwin_powell_hubble_198719"
+        },
+        "topics": [
+            {
+                "name": "The History Of",
+                "url": "/topics/the_history_of"
+            },
+            {
+                "name": "Receding",
+                "url": "/topics/receding"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edwin_powell_hubble_198718",
+        "quote": "We find them smaller and fainter, in constantly increasing numbers, and we know that we are reaching into space, farther and farther, until, with the faintest nebulae that can be detected with the greatest telescopes, we arrive at the frontier of the known universe.",
+        "author": {
+            "name": "Edwin Powell Hubble",
+            "url": "/quotes/edwin_powell_hubble_198718"
+        },
+        "topics": [
+            {
+                "name": "Frontier",
+                "url": "/topics/frontier"
+            },
+            {
+                "name": "Smaller",
+                "url": "/topics/smaller"
+            },
+            {
+                "name": "Farther",
+                "url": "/topics/farther"
+            }
+        ]
+    }
+]

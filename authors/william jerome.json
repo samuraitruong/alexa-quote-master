@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/william_jerome_194424",
+        "quote": "Any old place I can hang my hat is home sweet home to me.",
+        "author": {
+            "name": "William Jerome",
+            "url": "/quotes/william_jerome_194424"
+        },
+        "topics": [
+            {
+                "name": "Home",
+                "url": "/topics/home"
+            },
+            {
+                "name": "Old",
+                "url": "/topics/old"
+            },
+            {
+                "name": "Hang",
+                "url": "/topics/hang"
+            }
+        ]
+    }
+]

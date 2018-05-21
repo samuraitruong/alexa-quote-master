@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/lewis_hallam_300121",
+        "quote": "As our expedition to New York seems likely to be attended with a very fatal Consequence, and ourselves haply censured for undertaking it without assurance of success.",
+        "author": {
+            "name": "Lewis Hallam",
+            "url": "/quotes/lewis_hallam_300121"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Attended",
+                "url": "/topics/attended"
+            },
+            {
+                "name": "Likely",
+                "url": "/topics/likely"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lewis_hallam_300120",
+        "quote": "A journey by Sea and Land, Five Hundred Miles, is not undertaken without money.",
+        "author": {
+            "name": "Lewis Hallam",
+            "url": "/quotes/lewis_hallam_300120"
+        },
+        "topics": [
+            {
+                "name": "Travel",
+                "url": "/topics/travel"
+            },
+            {
+                "name": "Hundred",
+                "url": "/topics/hundred"
+            },
+            {
+                "name": "Undertaken",
+                "url": "/topics/undertaken"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/marina_oswald_116553",
+        "quote": "Sometimes in the dark of night I begin to think. And I wonder if Lee started all this violence.",
+        "author": {
+            "name": "Marina Oswald",
+            "url": "/quotes/marina_oswald_116553"
+        },
+        "topics": [
+            {
+                "name": "Night",
+                "url": "/topics/night"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Sometimes",
+                "url": "/topics/sometimes"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marina_oswald_116554",
+        "quote": "The memory is like a cat scratching my heart.",
+        "author": {
+            "name": "Marina Oswald",
+            "url": "/quotes/marina_oswald_116554"
+        },
+        "topics": [
+            {
+                "name": "Memory",
+                "url": "/topics/memory"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Scratching",
+                "url": "/topics/scratching"
+            }
+        ]
+    }
+]

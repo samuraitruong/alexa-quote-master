@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/mary_browne_122194",
+        "quote": "The elegance of honesty needs no adornment.",
+        "author": {
+            "name": "Mary Browne",
+            "url": "/quotes/mary_browne_122194"
+        },
+        "topics": [
+            {
+                "name": "Honesty",
+                "url": "/topics/honesty"
+            },
+            {
+                "name": "Elegance",
+                "url": "/topics/elegance"
+            },
+            {
+                "name": "Needs",
+                "url": "/topics/needs"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mary_browne_388406",
+        "quote": "If you want an accounting of your worth, count your friends.",
+        "author": {
+            "name": "Mary Browne",
+            "url": "/quotes/mary_browne_388406"
+        },
+        "topics": [
+            {
+                "name": "Accounting",
+                "url": "/topics/accounting"
+            },
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Count",
+                "url": "/topics/count"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mary_browne_107392",
+        "quote": "Preconceived notions are the locks on the door to wisdom.",
+        "author": {
+            "name": "Mary Browne",
+            "url": "/quotes/mary_browne_107392"
+        },
+        "topics": [
+            {
+                "name": "Door",
+                "url": "/topics/door"
+            },
+            {
+                "name": "Preconceived",
+                "url": "/topics/preconceived"
+            },
+            {
+                "name": "Notions",
+                "url": "/topics/notions"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mary_browne_382094",
+        "quote": "You know you're old when you've lost all your marvels.",
+        "author": {
+            "name": "Mary Browne",
+            "url": "/quotes/mary_browne_382094"
+        },
+        "topics": [
+            {
+                "name": "Lost",
+                "url": "/topics/lost"
+            },
+            {
+                "name": "Know",
+                "url": "/topics/know"
+            },
+            {
+                "name": "Old",
+                "url": "/topics/old"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mary_browne_132431",
+        "quote": "Expect people to be better than they are; it helps them to become better. But don't be disappointed when they are not; it helps them to keep trying.",
+        "author": {
+            "name": "Mary Browne",
+            "url": "/quotes/mary_browne_132431"
+        },
+        "topics": [
+            {
+                "name": "People",
+                "url": "/topics/people"
+            },
+            {
+                "name": "Better",
+                "url": "/topics/better"
+            },
+            {
+                "name": "Them",
+                "url": "/topics/them"
+            }
+        ]
+    }
+]

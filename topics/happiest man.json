@@ -1,0 +1,178 @@
+[
+    {
+        "url": "/quotes/diego_maradona_418711?src=t_happiest_man",
+        "quote": "To see the ball, to run after it, makes me the happiest man in the world.",
+        "author": {
+            "name": "Diego Maradona",
+            "url": "/authors/diego_maradona"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "See",
+                "url": "/topics/see"
+            },
+            {
+                "name": "Ball",
+                "url": "/topics/ball"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lionel_messi_473544?src=t_happiest_man",
+        "quote": "Today I am the happiest man in the world, my son was born and thanks to God for this gift.",
+        "author": {
+            "name": "Lionel Messi",
+            "url": "/authors/lionel_messi"
+        },
+        "topics": [
+            {
+                "name": "Gift",
+                "url": "/topics/gift"
+            },
+            {
+                "name": "Born",
+                "url": "/topics/born"
+            },
+            {
+                "name": "Happiest",
+                "url": "/topics/happiest"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/francisco_goya_737859?src=t_happiest_man",
+        "quote": "With all my work, I have not more, with my shares in the bank and the Academy, than twelve or thirteen thousand reales a year, and with all this, I am as contented as the happiest man on earth.",
+        "author": {
+            "name": "Francisco Goya",
+            "url": "/authors/francisco_goya"
+        },
+        "topics": [
+            {
+                "name": "Year",
+                "url": "/topics/year"
+            },
+            {
+                "name": "Contented",
+                "url": "/topics/contented"
+            },
+            {
+                "name": "All My Work",
+                "url": "/topics/all_my_work"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/francis_bacon_149876?src=t_happiest_man",
+        "quote": "There is a difference between happiness and wisdom: he that thinks himself the happiest man is really so; but he that thinks himself the wisest is generally the greatest fool.",
+        "author": {
+            "name": "Francis Bacon",
+            "url": "/authors/francis_bacon"
+        },
+        "topics": [
+            {
+                "name": "Wisest",
+                "url": "/topics/wisest"
+            },
+            {
+                "name": "Happiest",
+                "url": "/topics/happiest"
+            },
+            {
+                "name": "Really",
+                "url": "/topics/really"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henry_miller_101511?src=t_happiest_man",
+        "quote": "I have no money, no resources, no hopes. I am the happiest man alive.",
+        "author": {
+            "name": "Henry Miller",
+            "url": "/authors/henry_miller"
+        },
+        "topics": [
+            {
+                "name": "Money",
+                "url": "/topics/money"
+            },
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Alive",
+                "url": "/topics/alive"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charles_caleb_colton_139338?src=t_happiest_man",
+        "quote": "There is this difference between happiness and wisdom: he that thinks himself the happiest man, really is so; but he that thinks himself the wisest, is generally the greatest fool.",
+        "author": {
+            "name": "Charles Caleb Colton",
+            "url": "/authors/charles_caleb_colton"
+        },
+        "topics": [
+            {
+                "name": "Wisest",
+                "url": "/topics/wisest"
+            },
+            {
+                "name": "Happiest",
+                "url": "/topics/happiest"
+            },
+            {
+                "name": "Really",
+                "url": "/topics/really"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/samuel_goldwyn_109117?src=t_happiest_man",
+        "quote": "If I could drop dead right now, I'd be the happiest man alive.",
+        "author": {
+            "name": "Samuel Goldwyn",
+            "url": "/authors/samuel_goldwyn"
+        },
+        "topics": [
+            {
+                "name": "Alive",
+                "url": "/topics/alive"
+            },
+            {
+                "name": "Drop",
+                "url": "/topics/drop"
+            },
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joe_nichols_489971?src=t_happiest_man",
+        "quote": "You know, I can be the happiest man in the world with minimal record success.",
+        "author": {
+            "name": "Joe Nichols",
+            "url": "/authors/joe_nichols"
+        },
+        "topics": [
+            {
+                "name": "Success",
+                "url": "/topics/success"
+            },
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Minimal",
+                "url": "/topics/minimal"
+            }
+        ]
+    }
+]

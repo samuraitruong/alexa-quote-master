@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/stella_benson_145706",
+        "quote": "Family jokes, though rightly cursed by strangers, are the bond that keeps most families alive.",
+        "author": {
+            "name": "Stella Benson",
+            "url": "/quotes/stella_benson_145706"
+        },
+        "topics": [
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "Cursed",
+                "url": "/topics/cursed"
+            },
+            {
+                "name": "Though",
+                "url": "/topics/though"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/stella_benson_170106",
+        "quote": "Call no man foe, but never love a stranger.",
+        "author": {
+            "name": "Stella Benson",
+            "url": "/quotes/stella_benson_170106"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Call",
+                "url": "/topics/call"
+            }
+        ]
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/leonard_susskind_694613?src=t_fluctuation",
+        "quote": "The success of ordinary cosmology speaks against the idea that the universe was created in a random fluctuation.",
+        "author": {
+            "name": "Leonard Susskind",
+            "url": "/authors/leonard_susskind"
+        },
+        "topics": [
+            {
+                "name": "Success",
+                "url": "/topics/success"
+            },
+            {
+                "name": "Random",
+                "url": "/topics/random"
+            },
+            {
+                "name": "Against",
+                "url": "/topics/against"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/seth_lloyd_240709?src=t_fluctuation",
+        "quote": "Similarly, another famous little quantum fluctuation that programs you is the exact configuration of your DNA.",
+        "author": {
+            "name": "Seth Lloyd",
+            "url": "/authors/seth_lloyd"
+        },
+        "topics": [
+            {
+                "name": "Famous",
+                "url": "/topics/famous"
+            },
+            {
+                "name": "DNA",
+                "url": "/topics/dna"
+            },
+            {
+                "name": "Similarly",
+                "url": "/topics/similarly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/seth_lloyd_240708?src=t_fluctuation",
+        "quote": "According to the standard model billions of years ago some little quantum fluctuation, perhaps a slightly lower density of matter, maybe right where we're sitting right now, caused our galaxy to start collapsing around here.",
+        "author": {
+            "name": "Seth Lloyd",
+            "url": "/authors/seth_lloyd"
+        },
+        "topics": [
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Standard",
+                "url": "/topics/standard"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/michel_temer_886821?src=t_fluctuation",
+        "quote": "Nobody is more capable of detecting eventual economic fluctuation than women, since they monitor the increases and decreases of their home's budgets.",
+        "author": {
+            "name": "Michel Temer",
+            "url": "/authors/michel_temer"
+        },
+        "topics": [
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Capable",
+                "url": "/topics/capable"
+            },
+            {
+                "name": "Monitor",
+                "url": "/topics/monitor"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/grace_napolitano_354247?src=t_fluctuation",
+        "quote": "Because of my own experience with market fluctuation, I recognize the great risks one takes on investments. This converts the Social Security safety net into a risky proposition many cannot afford to take.",
+        "author": {
+            "name": "Grace Napolitano",
+            "url": "/authors/grace_napolitano"
+        },
+        "topics": [
+            {
+                "name": "Experience",
+                "url": "/topics/experience"
+            },
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            },
+            {
+                "name": "Investments",
+                "url": "/topics/investments"
+            }
+        ]
+    }
+]

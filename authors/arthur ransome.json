@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/arthur_ransome_182235",
+        "quote": "When a thing's done, it's done, and if it's not done right, do it differently next time.",
+        "author": {
+            "name": "Arthur Ransome",
+            "url": "/quotes/arthur_ransome_182235"
+        },
+        "topics": [
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            },
+            {
+                "name": "Differently",
+                "url": "/topics/differently"
+            },
+            {
+                "name": "Next Time",
+                "url": "/topics/next_time"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/arthur_ransome_182236",
+        "quote": "Grab a chance and you won't be sorry for a might-have-been.",
+        "author": {
+            "name": "Arthur Ransome",
+            "url": "/quotes/arthur_ransome_182236"
+        },
+        "topics": [
+            {
+                "name": "Sorry",
+                "url": "/topics/sorry"
+            },
+            {
+                "name": "Chance",
+                "url": "/topics/chance"
+            },
+            {
+                "name": "Grab",
+                "url": "/topics/grab"
+            }
+        ]
+    }
+]

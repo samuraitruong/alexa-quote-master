@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/ngo_dinh_diem_400759",
+        "quote": "Follow me if I advance! Kill me if I retreat! Revenge me if I die!",
+        "author": {
+            "name": "Ngo Dinh Diem",
+            "url": "/quotes/ngo_dinh_diem_400759"
+        },
+        "topics": [
+            {
+                "name": "Revenge",
+                "url": "/topics/revenge"
+            },
+            {
+                "name": "Die",
+                "url": "/topics/die"
+            },
+            {
+                "name": "Retreat",
+                "url": "/topics/retreat"
+            }
+        ]
+    }
+]

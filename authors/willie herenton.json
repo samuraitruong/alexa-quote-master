@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/willie_herenton_307692",
+        "quote": "If the news isn't there, don't create it. If I look at local news, I don't know what's real.",
+        "author": {
+            "name": "Willie Herenton",
+            "url": "/quotes/willie_herenton_307692"
+        },
+        "topics": [
+            {
+                "name": "Create",
+                "url": "/topics/create"
+            },
+            {
+                "name": "News",
+                "url": "/topics/news"
+            },
+            {
+                "name": "Local News",
+                "url": "/topics/local_news"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/willie_herenton_507389",
+        "quote": "My primary motivation for running for the 9th Congressional District is that I strongly believe that one of the hallmarks of the American democracy is a representative form of democracy.",
+        "author": {
+            "name": "Willie Herenton",
+            "url": "/quotes/willie_herenton_507389"
+        },
+        "topics": [
+            {
+                "name": "Motivation",
+                "url": "/topics/motivation"
+            },
+            {
+                "name": "Congressional",
+                "url": "/topics/congressional"
+            }
+        ]
+    }
+]

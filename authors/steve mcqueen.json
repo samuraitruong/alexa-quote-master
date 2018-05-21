@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/steve_mcqueen_176095",
+        "quote": "I would rather wake up in the middle of nowhere than in any city on earth.",
+        "author": {
+            "name": "Steve McQueen",
+            "url": "/quotes/steve_mcqueen_176095"
+        },
+        "topics": [
+            {
+                "name": "Middle",
+                "url": "/topics/middle"
+            },
+            {
+                "name": "Nowhere",
+                "url": "/topics/nowhere"
+            },
+            {
+                "name": "Wake",
+                "url": "/topics/wake"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/steve_mcqueen_576116",
+        "quote": "When I did 'The Great Escape,' I kept thinking, 'If they were making a movie of my life, that's what they'd call it - the great escape.'",
+        "author": {
+            "name": "Steve McQueen",
+            "url": "/quotes/steve_mcqueen_576116"
+        },
+        "topics": [
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Making",
+                "url": "/topics/making"
+            },
+            {
+                "name": "Movie",
+                "url": "/topics/movie"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/steve_mcqueen_164846",
+        "quote": "I'm not sure that acting is something for a grown man to be doing.",
+        "author": {
+            "name": "Steve McQueen",
+            "url": "/quotes/steve_mcqueen_164846"
+        },
+        "topics": [
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Sure",
+                "url": "/topics/sure"
+            },
+            {
+                "name": "Grown",
+                "url": "/topics/grown"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/steve_mcqueen_576115",
+        "quote": "I'm not a great actor - let's face it. I don't have a great deal of scope. There are certain things I can do, but when I'm bad, I stink. There's something about my shaggy dog eyes that makes people think I'm good. I'm not all that good.",
+        "author": {
+            "name": "Steve McQueen",
+            "url": "/quotes/steve_mcqueen_576115"
+        },
+        "topics": [
+            {
+                "name": "Deal",
+                "url": "/topics/deal"
+            },
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    }
+]

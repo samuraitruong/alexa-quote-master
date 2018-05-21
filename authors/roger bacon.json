@@ -1,0 +1,134 @@
+[
+    {
+        "url": "/quotes/roger_bacon_192802",
+        "quote": "Reasoning draws a conclusion, but does not make the conclusion certain, unless the mind discovers it by the path of experience.",
+        "author": {
+            "name": "Roger Bacon",
+            "url": "/quotes/roger_bacon_192802"
+        },
+        "topics": [
+            {
+                "name": "Path",
+                "url": "/topics/path"
+            },
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Conclusion",
+                "url": "/topics/conclusion"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/roger_bacon_192804",
+        "quote": "The strongest arguments prove nothing so long as the conclusions are not verified by experience. Experimental science is the queen of sciences and the goal of all speculation.",
+        "author": {
+            "name": "Roger Bacon",
+            "url": "/quotes/roger_bacon_192804"
+        },
+        "topics": [
+            {
+                "name": "Goal",
+                "url": "/topics/goal"
+            },
+            {
+                "name": "Prove",
+                "url": "/topics/prove"
+            },
+            {
+                "name": "Speculation",
+                "url": "/topics/speculation"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/roger_bacon_192799",
+        "quote": "For the things of this world cannot be made known without a knowledge of mathematics.",
+        "author": {
+            "name": "Roger Bacon",
+            "url": "/quotes/roger_bacon_192799"
+        },
+        "topics": [
+            {
+                "name": "Mathematics",
+                "url": "/topics/mathematics"
+            },
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Known",
+                "url": "/topics/known"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/roger_bacon_192803",
+        "quote": "All science requires mathematics. The knowledge of mathematical things is almost innate in us. This is the easiest of sciences, a fact which is obvious in that no one's brain rejects it; for laymen and people who are utterly illiterate know how to count and reckon.",
+        "author": {
+            "name": "Roger Bacon",
+            "url": "/quotes/roger_bacon_192803"
+        },
+        "topics": [
+            {
+                "name": "Science",
+                "url": "/topics/science"
+            },
+            {
+                "name": "Mathematics",
+                "url": "/topics/mathematics"
+            },
+            {
+                "name": "Fact",
+                "url": "/topics/fact"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/roger_bacon_192800",
+        "quote": "Argument is conclusive, but it does not remove doubt, so that the mind may rest in the sure knowledge of the truth, unless it finds it by the method of experiment.",
+        "author": {
+            "name": "Roger Bacon",
+            "url": "/quotes/roger_bacon_192800"
+        },
+        "topics": [
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Rest",
+                "url": "/topics/rest"
+            },
+            {
+                "name": "Conclusive",
+                "url": "/topics/conclusive"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/roger_bacon_192801",
+        "quote": "For if any man who never saw fire proved by satisfactory arguments that fire burns. His hearer's mind would never be satisfied, nor would he avoid the fire until he put his hand in it that he might learn by experiment what argument taught.",
+        "author": {
+            "name": "Roger Bacon",
+            "url": "/quotes/roger_bacon_192801"
+        },
+        "topics": [
+            {
+                "name": "Argument",
+                "url": "/topics/argument"
+            },
+            {
+                "name": "Nor",
+                "url": "/topics/nor"
+            },
+            {
+                "name": "Put",
+                "url": "/topics/put"
+            }
+        ]
+    }
+]

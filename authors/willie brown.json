@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/willie_brown_135250",
+        "quote": "In politics, a lie unanswered becomes truth within 24 hours.",
+        "author": {
+            "name": "Willie Brown",
+            "url": "/quotes/willie_brown_135250"
+        },
+        "topics": [
+            {
+                "name": "Truth",
+                "url": "/topics/truth"
+            },
+            {
+                "name": "Politics",
+                "url": "/topics/politics"
+            },
+            {
+                "name": "Hours",
+                "url": "/topics/hours"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/willie_brown_380860",
+        "quote": "Mayors are judged by results.",
+        "author": {
+            "name": "Willie Brown",
+            "url": "/quotes/willie_brown_380860"
+        },
+        "topics": [
+            {
+                "name": "Results",
+                "url": "/topics/results"
+            },
+            {
+                "name": "Judged",
+                "url": "/topics/judged"
+            },
+            {
+                "name": "Mayors",
+                "url": "/topics/mayors"
+            }
+        ]
+    }
+]

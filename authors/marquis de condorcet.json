@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/marquis_de_condorcet_305860",
+        "quote": "Enjoy your own life without comparing it with that of another.",
+        "author": {
+            "name": "Marquis de Condorcet",
+            "url": "/quotes/marquis_de_condorcet_305860"
+        },
+        "topics": [
+            {
+                "name": "Enjoy",
+                "url": "/topics/enjoy"
+            },
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            },
+            {
+                "name": "Another",
+                "url": "/topics/another"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marquis_de_condorcet_305861",
+        "quote": "I hope to see the bringing together of all the best educated people of the earth into a worldwide Congress of Scientists.",
+        "author": {
+            "name": "Marquis de Condorcet",
+            "url": "/quotes/marquis_de_condorcet_305861"
+        },
+        "topics": [
+            {
+                "name": "Hope",
+                "url": "/topics/hope"
+            },
+            {
+                "name": "Best",
+                "url": "/topics/best"
+            },
+            {
+                "name": "Congress",
+                "url": "/topics/congress"
+            }
+        ]
+    }
+]

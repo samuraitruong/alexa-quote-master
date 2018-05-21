@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/pier_luigi_bersani_485531",
+        "quote": "The next adventure is the government, a government of change.",
+        "author": {
+            "name": "Pier Luigi Bersani",
+            "url": "/quotes/pier_luigi_bersani_485531"
+        },
+        "topics": [
+            {
+                "name": "Adventure",
+                "url": "/topics/adventure"
+            },
+            {
+                "name": "Government",
+                "url": "/topics/government"
+            },
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/pier_luigi_bersani_485532",
+        "quote": "I reiterate that the rigor and credibility brought to the world by Monti's government are for us a point of no return.",
+        "author": {
+            "name": "Pier Luigi Bersani",
+            "url": "/quotes/pier_luigi_bersani_485532"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Government",
+                "url": "/topics/government"
+            },
+            {
+                "name": "Brought",
+                "url": "/topics/brought"
+            }
+        ]
+    }
+]

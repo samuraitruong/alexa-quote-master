@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/king_george_ii_190226",
+        "quote": "We are come for your good, for all your goods.",
+        "author": {
+            "name": "King George II",
+            "url": "/quotes/king_george_ii_190226"
+        },
+        "topics": [
+            {
+                "name": "Come",
+                "url": "/topics/come"
+            },
+            {
+                "name": "Your",
+                "url": "/topics/your"
+            },
+            {
+                "name": "Goods",
+                "url": "/topics/goods"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/king_george_ii_190224",
+        "quote": "Mad, is he? Then I hope he will bite some of my other generals.",
+        "author": {
+            "name": "King George II",
+            "url": "/quotes/king_george_ii_190224"
+        },
+        "topics": [
+            {
+                "name": "Mad",
+                "url": "/topics/mad"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    }
+]

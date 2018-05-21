@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/dick_lane_291904",
+        "quote": "My object is to stop the guy with the ball before he gains another inch.",
+        "author": {
+            "name": "Dick Lane",
+            "url": "/quotes/dick_lane_291904"
+        },
+        "topics": [
+            {
+                "name": "Stop",
+                "url": "/topics/stop"
+            },
+            {
+                "name": "Ball",
+                "url": "/topics/ball"
+            },
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dick_lane_291902",
+        "quote": "I thought it was pretty good to be mentioned in a big paper, so I decided to keep the nickname.",
+        "author": {
+            "name": "Dick Lane",
+            "url": "/quotes/dick_lane_291902"
+        },
+        "topics": [
+            {
+                "name": "Pretty",
+                "url": "/topics/pretty"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Decided",
+                "url": "/topics/decided"
+            }
+        ]
+    }
+]

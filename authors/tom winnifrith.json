@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/tom_winnifrith_412879",
+        "quote": "America is practically owned by China.",
+        "author": {
+            "name": "Tom Winnifrith",
+            "url": "/quotes/tom_winnifrith_412879"
+        },
+        "topics": [
+            {
+                "name": "China",
+                "url": "/topics/china"
+            },
+            {
+                "name": "Owned",
+                "url": "/topics/owned"
+            },
+            {
+                "name": "Practically",
+                "url": "/topics/practically"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tom_winnifrith_412880",
+        "quote": "The 200 years when Britain and the US were the top two economies were an aberration and that will change. The decline of empires has happened much faster than folks think. I believe that gold will be a far better bet in 20 years than the dollar.",
+        "author": {
+            "name": "Tom Winnifrith",
+            "url": "/quotes/tom_winnifrith_412880"
+        },
+        "topics": [
+            {
+                "name": "Believe",
+                "url": "/topics/believe"
+            },
+            {
+                "name": "Two",
+                "url": "/topics/two"
+            },
+            {
+                "name": "Britain",
+                "url": "/topics/britain"
+            }
+        ]
+    }
+]

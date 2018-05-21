@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/ian_allison_409456",
+        "quote": "Sea ice conditions have remained stable in Antarctica generally.",
+        "author": {
+            "name": "Ian Allison",
+            "url": "/quotes/ian_allison_409456"
+        },
+        "topics": [
+            {
+                "name": "Ice",
+                "url": "/topics/ice"
+            },
+            {
+                "name": "Stable",
+                "url": "/topics/stable"
+            },
+            {
+                "name": "Remained",
+                "url": "/topics/remained"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ian_allison_409457",
+        "quote": "Ice shelves in general have episodic carvings and there can be large icebergs breaking off - I'm talking 100km or 200km long - every 10 or 20 or 50 years.",
+        "author": {
+            "name": "Ian Allison",
+            "url": "/quotes/ian_allison_409457"
+        },
+        "topics": [
+            {
+                "name": "Ice",
+                "url": "/topics/ice"
+            },
+            {
+                "name": "Large",
+                "url": "/topics/large"
+            },
+            {
+                "name": "Episodic",
+                "url": "/topics/episodic"
+            }
+        ]
+    }
+]

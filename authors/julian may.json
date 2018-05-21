@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/julian_may_256526",
+        "quote": "We have people who are healers and those who posses a certain animal magnetism.",
+        "author": {
+            "name": "Julian May",
+            "url": "/quotes/julian_may_256526"
+        },
+        "topics": [
+            {
+                "name": "Animal",
+                "url": "/topics/animal"
+            },
+            {
+                "name": "Healers",
+                "url": "/topics/healers"
+            },
+            {
+                "name": "Magnetism",
+                "url": "/topics/magnetism"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/julian_may_256525",
+        "quote": "Science Fiction will never run out of things to wonder about until the human race ceases to use its brain.",
+        "author": {
+            "name": "Julian May",
+            "url": "/quotes/julian_may_256525"
+        },
+        "topics": [
+            {
+                "name": "Race",
+                "url": "/topics/race"
+            },
+            {
+                "name": "Fiction",
+                "url": "/topics/fiction"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    }
+]

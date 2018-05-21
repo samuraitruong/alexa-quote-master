@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/melanie_thierry_829021",
+        "quote": "I try to be elegant.",
+        "author": {
+            "name": "Melanie Thierry",
+            "url": "/quotes/melanie_thierry_829021"
+        },
+        "topics": [
+            {
+                "name": "Try",
+                "url": "/topics/try"
+            },
+            {
+                "name": "Elegant",
+                "url": "/topics/elegant"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/melanie_thierry_829022",
+        "quote": "It's just easy to be a mother and an actress in the same time: you just have to have a good organization, and everything is just fine.",
+        "author": {
+            "name": "Melanie Thierry",
+            "url": "/quotes/melanie_thierry_829022"
+        },
+        "topics": [
+            {
+                "name": "Easy",
+                "url": "/topics/easy"
+            },
+            {
+                "name": "Actress",
+                "url": "/topics/actress"
+            },
+            {
+                "name": "Same Time",
+                "url": "/topics/same_time"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/melanie_thierry_829023",
+        "quote": "I'm an Isabel Marant woman: I love her style so much.",
+        "author": {
+            "name": "Melanie Thierry",
+            "url": "/quotes/melanie_thierry_829023"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Woman",
+                "url": "/topics/woman"
+            },
+            {
+                "name": "I Love",
+                "url": "/topics/i_love"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/melanie_thierry_829024",
+        "quote": "For Belle d'Opium, I tried to express a power that was docile and feline at once, a total release, close to enchantment. Something extreme.",
+        "author": {
+            "name": "Melanie Thierry",
+            "url": "/quotes/melanie_thierry_829024"
+        },
+        "topics": [
+            {
+                "name": "Express",
+                "url": "/topics/express"
+            },
+            {
+                "name": "Release",
+                "url": "/topics/release"
+            },
+            {
+                "name": "Docile",
+                "url": "/topics/docile"
+            }
+        ]
+    }
+]

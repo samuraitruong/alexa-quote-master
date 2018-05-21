@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/dee_brown_215998",
+        "quote": "I've tried word processors, but I think I'm too old a dog to use one.",
+        "author": {
+            "name": "Dee Brown",
+            "url": "/quotes/dee_brown_215998"
+        },
+        "topics": [
+            {
+                "name": "Computers",
+                "url": "/topics/computers"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dee_brown_216000",
+        "quote": "The Indians knew that life was equated with the earth and its resources, that America was a paradise, and they could not comprehend why the intruders from the East were determined to destroy all that was Indian as well as America itself.",
+        "author": {
+            "name": "Dee Brown",
+            "url": "/quotes/dee_brown_216000"
+        },
+        "topics": [
+            {
+                "name": "Knew",
+                "url": "/topics/knew"
+            },
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            },
+            {
+                "name": "Comprehend",
+                "url": "/topics/comprehend"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dee_brown_216095",
+        "quote": "You just don't give up. There have been times when everything seemed to conspire against getting a book done or printed, and I would feel like turning my back on the whole thing. But I came back and persisted.",
+        "author": {
+            "name": "Dee Brown",
+            "url": "/quotes/dee_brown_216095"
+        },
+        "topics": [
+            {
+                "name": "Book",
+                "url": "/topics/book"
+            },
+            {
+                "name": "Against",
+                "url": "/topics/against"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/robert_james_waller_128812",
+        "quote": "Life is never easy for those who dream.",
+        "author": {
+            "name": "Robert James Waller",
+            "url": "/quotes/robert_james_waller_128812"
+        },
+        "topics": [
+            {
+                "name": "Life",
+                "url": "/topics/life"
+            },
+            {
+                "name": "Dream",
+                "url": "/topics/dream"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_james_waller_128798",
+        "quote": "Remember the great adversity of art or anything else is a hurried life.",
+        "author": {
+            "name": "Robert James Waller",
+            "url": "/quotes/robert_james_waller_128798"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Adversity",
+                "url": "/topics/adversity"
+            },
+            {
+                "name": "Remember",
+                "url": "/topics/remember"
+            }
+        ]
+    }
+]

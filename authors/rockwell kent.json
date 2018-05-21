@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/rockwell_kent_345249",
+        "quote": "Art must unquestionably have a social value; that is, as a potential means of communication it must be addressed, and in comprehensible terms, to the understanding of mankind.",
+        "author": {
+            "name": "Rockwell Kent",
+            "url": "/quotes/rockwell_kent_345249"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Means",
+                "url": "/topics/means"
+            },
+            {
+                "name": "Unquestionably",
+                "url": "/topics/unquestionably"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rockwell_kent_114991",
+        "quote": "If to the viewer's eyes, my world appears less beautiful than his, I'm to be pitied and the viewer praised.",
+        "author": {
+            "name": "Rockwell Kent",
+            "url": "/quotes/rockwell_kent_114991"
+        },
+        "topics": [
+            {
+                "name": "Praised",
+                "url": "/topics/praised"
+            },
+            {
+                "name": "Viewer",
+                "url": "/topics/viewer"
+            },
+            {
+                "name": "Appears",
+                "url": "/topics/appears"
+            }
+        ]
+    }
+]

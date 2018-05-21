@@ -1,0 +1,244 @@
+[
+    {
+        "url": "/quotes/fred_ehrsam_855074?src=t_cryptography",
+        "quote": "When the Bitcoin white paper emerged in 2008, it was completely revolutionary. The amount of concepts that had to come together in just the right way - computer science, cryptography, and economic incentives - was astonishing.",
+        "author": {
+            "name": "Fred Ehrsam",
+            "url": "/authors/fred_ehrsam"
+        },
+        "topics": [
+            {
+                "name": "Amount",
+                "url": "/topics/amount"
+            },
+            {
+                "name": "Come",
+                "url": "/topics/come"
+            },
+            {
+                "name": "Had",
+                "url": "/topics/had"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/julian_assange_602821?src=t_cryptography",
+        "quote": "Cryptography is the essential building block of independence for organisations on the Internet, just like armies are the essential building blocks of states, because otherwise one state just takes over another.",
+        "author": {
+            "name": "Julian Assange",
+            "url": "/authors/julian_assange"
+        },
+        "topics": [
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Otherwise",
+                "url": "/topics/otherwise"
+            },
+            {
+                "name": "Armies",
+                "url": "/topics/armies"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/whitfield_diffie_324242?src=t_cryptography",
+        "quote": "Lots of people working in cryptography have no deep concern with real application issues. They are trying to discover things clever enough to write papers about.",
+        "author": {
+            "name": "Whitfield Diffie",
+            "url": "/authors/whitfield_diffie"
+        },
+        "topics": [
+            {
+                "name": "Deep",
+                "url": "/topics/deep"
+            },
+            {
+                "name": "Discover",
+                "url": "/topics/discover"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_sanborn_249912?src=t_cryptography",
+        "quote": "What affected me most profoundly was the realization that the sciences of cryptography and mathematics are very elegant, pure sciences. I found that the ends for which these pure sciences are used are less elegant.",
+        "author": {
+            "name": "James Sanborn",
+            "url": "/authors/james_sanborn"
+        },
+        "topics": [
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Profoundly",
+                "url": "/topics/profoundly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/whitfield_diffie_324773?src=t_cryptography",
+        "quote": "I thought cryptography was a technique that did not require your trusting other people-that if you encrypted your files, you would have the control to make the choice as to whether you would surrender your files.",
+        "author": {
+            "name": "Whitfield Diffie",
+            "url": "/authors/whitfield_diffie"
+        },
+        "topics": [
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Technique",
+                "url": "/topics/technique"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/whitfield_diffie_675955?src=t_cryptography",
+        "quote": "I think that the people who are trying to shut down WikiLeaks are going to have to accept this as a fact of reality that cryptography allows you to do this kind of thing.",
+        "author": {
+            "name": "Whitfield Diffie",
+            "url": "/authors/whitfield_diffie"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Shut",
+                "url": "/topics/shut"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nick_szabo_847087?src=t_cryptography",
+        "quote": "With original cryptography, you are just trying to secure one narrow thing - say, communications - and you are trying to secure it from a third party. But you can't secure it from the party you are talking to if they forward your email; it doesn't matter how well your email is encrypted.",
+        "author": {
+            "name": "Nick Szabo",
+            "url": "/authors/nick_szabo"
+        },
+        "topics": [
+            {
+                "name": "Talking",
+                "url": "/topics/talking"
+            },
+            {
+                "name": "Secure",
+                "url": "/topics/secure"
+            },
+            {
+                "name": "Your",
+                "url": "/topics/your"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_sanborn_249911?src=t_cryptography",
+        "quote": "I chose to deal with the science of cryptography. Cryptography began in mathematics. Codes were developed, even from Caesar's time, based on number theory and mathematical principles. I decided to use those principles and designed a work that is encoded.",
+        "author": {
+            "name": "James Sanborn",
+            "url": "/authors/james_sanborn"
+        },
+        "topics": [
+            {
+                "name": "Mathematics",
+                "url": "/topics/mathematics"
+            },
+            {
+                "name": "Deal",
+                "url": "/topics/deal"
+            },
+            {
+                "name": "Codes",
+                "url": "/topics/codes"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/naval_ravikant_851216?src=t_cryptography",
+        "quote": "A block chain is a series of blocks. Each block is a series of computations done by computers all over the world using serious cryptography in a way that's very hard to undo.",
+        "author": {
+            "name": "Naval Ravikant",
+            "url": "/authors/naval_ravikant"
+        },
+        "topics": [
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Chain",
+                "url": "/topics/chain"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/perianne_boring_850610?src=t_cryptography",
+        "quote": "Through decentralized cryptography, Bitcoin eliminates the need for banking intermediaries, significantly lowering transaction costs, and could liberate poverty-stricken economies around the globe by providing access to capital to the one-third of humanity that is excluded from the financial world.",
+        "author": {
+            "name": "Perianne Boring",
+            "url": "/authors/perianne_boring"
+        },
+        "topics": [
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Capital",
+                "url": "/topics/capital"
+            },
+            {
+                "name": "Providing",
+                "url": "/topics/providing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/whitfield_diffie_324774?src=t_cryptography",
+        "quote": "I understood the importance in principle of public key cryptography but it's all moved much faster than I expected. I did not expect it to be a mainstay of advanced communications technology.",
+        "author": {
+            "name": "Whitfield Diffie",
+            "url": "/authors/whitfield_diffie"
+        },
+        "topics": [
+            {
+                "name": "Principle",
+                "url": "/topics/principle"
+            },
+            {
+                "name": "Advanced",
+                "url": "/topics/advanced"
+            },
+            {
+                "name": "Moved",
+                "url": "/topics/moved"
+            }
+        ]
+    }
+]

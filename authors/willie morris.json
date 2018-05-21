@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/willie_morris_116228",
+        "quote": "His claim to his home is deep, but there are too many ghosts. He must absorb without being absorbed.",
+        "author": {
+            "name": "Willie Morris",
+            "url": "/quotes/willie_morris_116228"
+        },
+        "topics": [
+            {
+                "name": "Deep",
+                "url": "/topics/deep"
+            },
+            {
+                "name": "Being",
+                "url": "/topics/being"
+            },
+            {
+                "name": "Many",
+                "url": "/topics/many"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/willie_morris_404883",
+        "quote": "When a writer knows home in his heart, his heart must remain subtly apart from it.",
+        "author": {
+            "name": "Willie Morris",
+            "url": "/quotes/willie_morris_404883"
+        },
+        "topics": [
+            {
+                "name": "His",
+                "url": "/topics/his"
+            },
+            {
+                "name": "Remain",
+                "url": "/topics/remain"
+            },
+            {
+                "name": "Must",
+                "url": "/topics/must"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/george_m_humphrey_114544",
+        "quote": "You can't set a hen in one morning and have chicken salad for lunch.",
+        "author": {
+            "name": "George M. Humphrey",
+            "url": "/quotes/george_m_humphrey_114544"
+        },
+        "topics": [
+            {
+                "name": "Lunch",
+                "url": "/topics/lunch"
+            },
+            {
+                "name": "Chicken",
+                "url": "/topics/chicken"
+            },
+            {
+                "name": "Hen",
+                "url": "/topics/hen"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_m_humphrey_114545",
+        "quote": "It's a terribly hard job to spend a billion dollars and get your money's worth.",
+        "author": {
+            "name": "George M. Humphrey",
+            "url": "/quotes/george_m_humphrey_114545"
+        },
+        "topics": [
+            {
+                "name": "Money",
+                "url": "/topics/money"
+            },
+            {
+                "name": "Hard Job",
+                "url": "/topics/hard_job"
+            },
+            {
+                "name": "Terribly",
+                "url": "/topics/terribly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_m_humphrey_207411",
+        "quote": "The goose lays the golden egg. Payrolls make consumers.",
+        "author": {
+            "name": "George M. Humphrey",
+            "url": "/quotes/george_m_humphrey_207411"
+        },
+        "topics": [
+            {
+                "name": "Egg",
+                "url": "/topics/egg"
+            },
+            {
+                "name": "Golden",
+                "url": "/topics/golden"
+            },
+            {
+                "name": "Goose",
+                "url": "/topics/goose"
+            }
+        ]
+    }
+]

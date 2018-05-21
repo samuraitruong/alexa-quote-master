@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/tomas_luis_de_victoria_306382",
+        "quote": "Music can affect for good or ill the body as well as the mind.",
+        "author": {
+            "name": "Tomas Luis de Victoria",
+            "url": "/quotes/tomas_luis_de_victoria_306382"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Affect",
+                "url": "/topics/affect"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tomas_luis_de_victoria_306383",
+        "quote": "Music is not man's invention, but his heritage from the blessed spirits.",
+        "author": {
+            "name": "Tomas Luis de Victoria",
+            "url": "/quotes/tomas_luis_de_victoria_306383"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "Blessed",
+                "url": "/topics/blessed"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            }
+        ]
+    }
+]

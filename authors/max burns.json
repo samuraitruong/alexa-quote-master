@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/max_burns_221025",
+        "quote": "I'm not a politician. I'm not a lawyer. I'm just a country boy.",
+        "author": {
+            "name": "Max Burns",
+            "url": "/quotes/max_burns_221025"
+        },
+        "topics": [
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Just",
+                "url": "/topics/just"
+            },
+            {
+                "name": "Country Boy",
+                "url": "/topics/country_boy"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/max_burns_221027",
+        "quote": "I have spent my life reassembling the family farm.",
+        "author": {
+            "name": "Max Burns",
+            "url": "/quotes/max_burns_221027"
+        },
+        "topics": [
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Family Farm",
+                "url": "/topics/family_farm"
+            },
+            {
+                "name": "Spent",
+                "url": "/topics/spent"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/max_burns_221030",
+        "quote": "We're novices. We have friends now who are part of the freshman class who in some cases have run for Congress two and three times before they won their seat.",
+        "author": {
+            "name": "Max Burns",
+            "url": "/quotes/max_burns_221030"
+        },
+        "topics": [
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Freshman Class",
+                "url": "/topics/freshman_class"
+            },
+            {
+                "name": "Cases",
+                "url": "/topics/cases"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/max_burns_221032",
+        "quote": "If you get through the primary and you work very hard for three months and you're not successful, you go back to being normal. The only thing that changes your life forever is if you win.",
+        "author": {
+            "name": "Max Burns",
+            "url": "/quotes/max_burns_221032"
+        },
+        "topics": [
+            {
+                "name": "Normal",
+                "url": "/topics/normal"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/max_burns_221033",
+        "quote": "I've got to restructure all my personal life now in order to accommodate public service, which is fine.",
+        "author": {
+            "name": "Max Burns",
+            "url": "/quotes/max_burns_221033"
+        },
+        "topics": [
+            {
+                "name": "Personal",
+                "url": "/topics/personal"
+            },
+            {
+                "name": "Got",
+                "url": "/topics/got"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    }
+]

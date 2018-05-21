@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/riccardo_sabatini_822360",
+        "quote": "A 3D printer needs three elements: a bit of information, some raw material, some energy, and it can produce any object that was not there before.",
+        "author": {
+            "name": "Riccardo Sabatini",
+            "url": "/quotes/riccardo_sabatini_822360"
+        },
+        "topics": [
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Needs",
+                "url": "/topics/needs"
+            },
+            {
+                "name": "Raw Material",
+                "url": "/topics/raw_material"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/riccardo_sabatini_822361",
+        "quote": "I am a very particular and peculiar ethnicity. Southern European, Italians - they never fit in models.",
+        "author": {
+            "name": "Riccardo Sabatini",
+            "url": "/quotes/riccardo_sabatini_822361"
+        },
+        "topics": [
+            {
+                "name": "Southern",
+                "url": "/topics/southern"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Models",
+                "url": "/topics/models"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/riccardo_sabatini_822362",
+        "quote": "The more we learn, the more we will be confronted with decisions that we've never had to make before about life, about death, about parenting.",
+        "author": {
+            "name": "Riccardo Sabatini",
+            "url": "/quotes/riccardo_sabatini_822362"
+        },
+        "topics": [
+            {
+                "name": "Death",
+                "url": "/topics/death"
+            },
+            {
+                "name": "Learn",
+                "url": "/topics/learn"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/riccardo_sabatini_822363",
+        "quote": "We may look back in horror that we allowed our children to be born of the random processes that nature provides.",
+        "author": {
+            "name": "Riccardo Sabatini",
+            "url": "/quotes/riccardo_sabatini_822363"
+        },
+        "topics": [
+            {
+                "name": "Random",
+                "url": "/topics/random"
+            },
+            {
+                "name": "Horror",
+                "url": "/topics/horror"
+            },
+            {
+                "name": "Processes",
+                "url": "/topics/processes"
+            }
+        ]
+    }
+]

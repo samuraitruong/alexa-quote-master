@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/john_arbuthnot_130140",
+        "quote": "All political parties die at last of swallowing their own lies.",
+        "author": {
+            "name": "John Arbuthnot",
+            "url": "/quotes/john_arbuthnot_130140"
+        },
+        "topics": [
+            {
+                "name": "Die",
+                "url": "/topics/die"
+            },
+            {
+                "name": "Last",
+                "url": "/topics/last"
+            },
+            {
+                "name": "Swallowing",
+                "url": "/topics/swallowing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_arbuthnot_387751",
+        "quote": "Biography is one of the new terrors of death.",
+        "author": {
+            "name": "John Arbuthnot",
+            "url": "/quotes/john_arbuthnot_387751"
+        },
+        "topics": [
+            {
+                "name": "Death",
+                "url": "/topics/death"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Terrors",
+                "url": "/topics/terrors"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_arbuthnot_387721",
+        "quote": "Law is a bottomless pit.",
+        "author": {
+            "name": "John Arbuthnot",
+            "url": "/quotes/john_arbuthnot_387721"
+        },
+        "topics": [
+            {
+                "name": "Law",
+                "url": "/topics/law"
+            },
+            {
+                "name": "Bottomless",
+                "url": "/topics/bottomless"
+            },
+            {
+                "name": "Pit",
+                "url": "/topics/pit"
+            }
+        ]
+    }
+]

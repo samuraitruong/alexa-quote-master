@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/thomas_monaghan_345770",
+        "quote": "We're trying to create people that are going to change the world.",
+        "author": {
+            "name": "Thomas Monaghan",
+            "url": "/quotes/thomas_monaghan_345770"
+        },
+        "topics": [
+            {
+                "name": "Change The World",
+                "url": "/topics/change_the_world"
+            },
+            {
+                "name": "World",
+                "url": "/topics/world"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_monaghan_345769",
+        "quote": "There will be masses available all day long. Confession available all day long.",
+        "author": {
+            "name": "Thomas Monaghan",
+            "url": "/quotes/thomas_monaghan_345769"
+        },
+        "topics": [
+            {
+                "name": "Confession",
+                "url": "/topics/confession"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Available",
+                "url": "/topics/available"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_monaghan_345771",
+        "quote": "The biggest impact I can have for what I want to do, the results I want to have with what God's given me, is to help as many people as possible get to heaven.",
+        "author": {
+            "name": "Thomas Monaghan",
+            "url": "/quotes/thomas_monaghan_345771"
+        },
+        "topics": [
+            {
+                "name": "Impact",
+                "url": "/topics/impact"
+            },
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Given",
+                "url": "/topics/given"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/henry_fuseli_307731",
+        "quote": "Nature is a collective idea, and, though its essence exist in each individual of the species, can never in its perfection inhabit a single object.",
+        "author": {
+            "name": "Henry Fuseli",
+            "url": "/quotes/henry_fuseli_307731"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "Individual",
+                "url": "/topics/individual"
+            },
+            {
+                "name": "Though",
+                "url": "/topics/though"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henry_fuseli_380068",
+        "quote": "Blake is damned good to steal from.",
+        "author": {
+            "name": "Henry Fuseli",
+            "url": "/quotes/henry_fuseli_380068"
+        },
+        "topics": [
+            {
+                "name": "Good",
+                "url": "/topics/good"
+            },
+            {
+                "name": "Steal",
+                "url": "/topics/steal"
+            },
+            {
+                "name": "Blake",
+                "url": "/topics/blake"
+            }
+        ]
+    }
+]

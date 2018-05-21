@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/jacoby_jones_711185",
+        "quote": "I say my greatest strength is my speed, and I think that I could use some work on my concentration.",
+        "author": {
+            "name": "Jacoby Jones",
+            "url": "/quotes/jacoby_jones_711185"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jacoby_jones_711186",
+        "quote": "My favorite team while I was growing up was the New Orleans Saints. My favorite player was Joe Horn.",
+        "author": {
+            "name": "Jacoby Jones",
+            "url": "/quotes/jacoby_jones_711186"
+        },
+        "topics": [
+            {
+                "name": "Team",
+                "url": "/topics/team"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Joe",
+                "url": "/topics/joe"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jacoby_jones_711187",
+        "quote": "I am a big fan of Chad Johnson. I think that I would compare myself to him as well.",
+        "author": {
+            "name": "Jacoby Jones",
+            "url": "/quotes/jacoby_jones_711187"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Compare",
+                "url": "/topics/compare"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            }
+        ]
+    }
+]

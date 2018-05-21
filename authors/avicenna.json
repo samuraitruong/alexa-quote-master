@@ -1,0 +1,134 @@
+[
+    {
+        "url": "/quotes/avicenna_230543",
+        "quote": "Therefore in medicine we ought to know the causes of sickness and health.",
+        "author": {
+            "name": "Avicenna",
+            "url": "/quotes/avicenna_230543"
+        },
+        "topics": [
+            {
+                "name": "Know",
+                "url": "/topics/know"
+            },
+            {
+                "name": "Causes",
+                "url": "/topics/causes"
+            },
+            {
+                "name": "Therefore",
+                "url": "/topics/therefore"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/avicenna_230544",
+        "quote": "Now it is established in the sciences that no knowledge is acquired save through the study of its causes and beginnings, if it has had causes and beginnings; nor completed except by knowledge of its accidents and accompanying essentials.",
+        "author": {
+            "name": "Avicenna",
+            "url": "/quotes/avicenna_230544"
+        },
+        "topics": [
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Study",
+                "url": "/topics/study"
+            },
+            {
+                "name": "Established",
+                "url": "/topics/established"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/avicenna_230548",
+        "quote": "The world is divided into men who have wit and no religion and men who have religion and no wit.",
+        "author": {
+            "name": "Avicenna",
+            "url": "/quotes/avicenna_230548"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Divided",
+                "url": "/topics/divided"
+            },
+            {
+                "name": "Wit",
+                "url": "/topics/wit"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/avicenna_230546",
+        "quote": "That whose existence is necessary must necessarily be one essence.",
+        "author": {
+            "name": "Avicenna",
+            "url": "/quotes/avicenna_230546"
+        },
+        "topics": [
+            {
+                "name": "Essence",
+                "url": "/topics/essence"
+            },
+            {
+                "name": "Necessary",
+                "url": "/topics/necessary"
+            },
+            {
+                "name": "Must",
+                "url": "/topics/must"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/avicenna_230549",
+        "quote": "As to the mental essence, we find it in infants devoid of every mental form.",
+        "author": {
+            "name": "Avicenna",
+            "url": "/quotes/avicenna_230549"
+        },
+        "topics": [
+            {
+                "name": "Essence",
+                "url": "/topics/essence"
+            },
+            {
+                "name": "Infants",
+                "url": "/topics/infants"
+            },
+            {
+                "name": "Form",
+                "url": "/topics/form"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/avicenna_230542",
+        "quote": "The knowledge of anything, since all things have causes, is not acquired or complete unless it is known by its causes.",
+        "author": {
+            "name": "Avicenna",
+            "url": "/quotes/avicenna_230542"
+        },
+        "topics": [
+            {
+                "name": "Knowledge",
+                "url": "/topics/knowledge"
+            },
+            {
+                "name": "Unless",
+                "url": "/topics/unless"
+            },
+            {
+                "name": "Known",
+                "url": "/topics/known"
+            }
+        ]
+    }
+]

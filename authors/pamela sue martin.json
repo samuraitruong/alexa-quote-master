@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/pamela_sue_martin_494250",
+        "quote": "If I got hit by a truck, I would want to go to hospital, but if something is bothering me I will see my naturopath.",
+        "author": {
+            "name": "Pamela Sue Martin",
+            "url": "/quotes/pamela_sue_martin_494250"
+        },
+        "topics": [
+            {
+                "name": "Truck",
+                "url": "/topics/truck"
+            },
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/pamela_sue_martin_494249",
+        "quote": "I tend to worry about the minutiae of life. But living in the mountains of Idaho and having retreated from fame, I am more in tune with life.",
+        "author": {
+            "name": "Pamela Sue Martin",
+            "url": "/quotes/pamela_sue_martin_494249"
+        },
+        "topics": [
+            {
+                "name": "Mountains",
+                "url": "/topics/mountains"
+            },
+            {
+                "name": "Worry",
+                "url": "/topics/worry"
+            },
+            {
+                "name": "Living",
+                "url": "/topics/living"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/pamela_sue_martin_494251",
+        "quote": "I try to live holistically and avoid conventional medicine.",
+        "author": {
+            "name": "Pamela Sue Martin",
+            "url": "/quotes/pamela_sue_martin_494251"
+        },
+        "topics": [
+            {
+                "name": "Medicine",
+                "url": "/topics/medicine"
+            },
+            {
+                "name": "Try",
+                "url": "/topics/try"
+            },
+            {
+                "name": "Conventional",
+                "url": "/topics/conventional"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/pamela_sue_martin_494252",
+        "quote": "A naturopath once told me you should never take antibiotics except if you have pneumonia, a kidney infection or some other serious illness. That's my philosophy, too.",
+        "author": {
+            "name": "Pamela Sue Martin",
+            "url": "/quotes/pamela_sue_martin_494252"
+        },
+        "topics": [
+            {
+                "name": "Infection",
+                "url": "/topics/infection"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    }
+]

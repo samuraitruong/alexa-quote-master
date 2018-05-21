@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/georg_hermes_205455",
+        "quote": "Death is like an arrow that is already in flight, and your life lasts only until it reaches you.",
+        "author": {
+            "name": "Georg Hermes",
+            "url": "/quotes/georg_hermes_205455"
+        },
+        "topics": [
+            {
+                "name": "Death",
+                "url": "/topics/death"
+            },
+            {
+                "name": "Flight",
+                "url": "/topics/flight"
+            },
+            {
+                "name": "Lasts",
+                "url": "/topics/lasts"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/georg_hermes_205454",
+        "quote": "The soul passeth from form to form; and the mansions of her pilgrimage are manifold.",
+        "author": {
+            "name": "Georg Hermes",
+            "url": "/quotes/georg_hermes_205454"
+        },
+        "topics": [
+            {
+                "name": "Her",
+                "url": "/topics/her"
+            },
+            {
+                "name": "Mansions",
+                "url": "/topics/mansions"
+            },
+            {
+                "name": "Form",
+                "url": "/topics/form"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/georg_hermes_205453",
+        "quote": "Not all human souls but only the pious ones are divine.",
+        "author": {
+            "name": "Georg Hermes",
+            "url": "/quotes/georg_hermes_205453"
+        },
+        "topics": [
+            {
+                "name": "Divine",
+                "url": "/topics/divine"
+            },
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            },
+            {
+                "name": "Souls",
+                "url": "/topics/souls"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/georg_hermes_205452",
+        "quote": "From one Soul of the Universe are all Souls derived.",
+        "author": {
+            "name": "Georg Hermes",
+            "url": "/quotes/georg_hermes_205452"
+        },
+        "topics": [
+            {
+                "name": "Soul",
+                "url": "/topics/soul"
+            },
+            {
+                "name": "Universe",
+                "url": "/topics/universe"
+            },
+            {
+                "name": "Souls",
+                "url": "/topics/souls"
+            }
+        ]
+    }
+]

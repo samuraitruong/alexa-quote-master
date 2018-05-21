@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/roger_craig_234125",
+        "quote": "Fear can be conquered. I became a better person and a better football player when I learned that lesson.",
+        "author": {
+            "name": "Roger Craig",
+            "url": "/quotes/roger_craig_234125"
+        },
+        "topics": [
+            {
+                "name": "Football Player",
+                "url": "/topics/football_player"
+            },
+            {
+                "name": "Became",
+                "url": "/topics/became"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/roger_craig_431019",
+        "quote": "Throughout my career, I was blessed with great teams and great teammates.",
+        "author": {
+            "name": "Roger Craig",
+            "url": "/quotes/roger_craig_431019"
+        },
+        "topics": [
+            {
+                "name": "Career",
+                "url": "/topics/career"
+            },
+            {
+                "name": "Teammates",
+                "url": "/topics/teammates"
+            },
+            {
+                "name": "Teams",
+                "url": "/topics/teams"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/arthur_d_levinson_624701",
+        "quote": "Physics is a hobby of mine, as much as a person of limited intelligence can understand physics.",
+        "author": {
+            "name": "Arthur D. Levinson",
+            "url": "/quotes/arthur_d_levinson_624701"
+        },
+        "topics": [
+            {
+                "name": "Person",
+                "url": "/topics/person"
+            },
+            {
+                "name": "Mine",
+                "url": "/topics/mine"
+            },
+            {
+                "name": "Limited",
+                "url": "/topics/limited"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/arthur_d_levinson_624702",
+        "quote": "Apple is always focused on out-innovating itself... and that is something I am very proud to be a part of.",
+        "author": {
+            "name": "Arthur D. Levinson",
+            "url": "/quotes/arthur_d_levinson_624702"
+        },
+        "topics": [
+            {
+                "name": "Apple",
+                "url": "/topics/apple"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    }
+]

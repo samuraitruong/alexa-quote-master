@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/scotty_bowman_395571",
+        "quote": "There is nothing so uncertain as a sure thing.",
+        "author": {
+            "name": "Scotty Bowman",
+            "url": "/quotes/scotty_bowman_395571"
+        },
+        "topics": [
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            },
+            {
+                "name": "Sure",
+                "url": "/topics/sure"
+            },
+            {
+                "name": "Sure Thing",
+                "url": "/topics/sure_thing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/scotty_bowman_197192",
+        "quote": "I knew your father before you did, and I don't think he'd be too proud of what you're doing right now.",
+        "author": {
+            "name": "Scotty Bowman",
+            "url": "/quotes/scotty_bowman_197192"
+        },
+        "topics": [
+            {
+                "name": "Proud",
+                "url": "/topics/proud"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/scotty_bowman_197193",
+        "quote": "The better the coaching has become, the worse the game has become.",
+        "author": {
+            "name": "Scotty Bowman",
+            "url": "/quotes/scotty_bowman_197193"
+        },
+        "topics": [
+            {
+                "name": "Coaching",
+                "url": "/topics/coaching"
+            },
+            {
+                "name": "Game",
+                "url": "/topics/game"
+            },
+            {
+                "name": "Better",
+                "url": "/topics/better"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/marston_morse_370921",
+        "quote": "Mathematics are the result of mysterious powers which no one understands, and which the unconscious recognition of beauty must play an important part. Out of an infinity of designs a mathematician chooses one pattern for beauty's sake and pulls it down to earth.",
+        "author": {
+            "name": "Marston Morse",
+            "url": "/quotes/marston_morse_370921"
+        },
+        "topics": [
+            {
+                "name": "Beauty",
+                "url": "/topics/beauty"
+            },
+            {
+                "name": "Mathematics",
+                "url": "/topics/mathematics"
+            },
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marston_morse_370922",
+        "quote": "But mathematics is the sister, as well as the servant, of the arts and is touched by the same madness and genius.",
+        "author": {
+            "name": "Marston Morse",
+            "url": "/quotes/marston_morse_370922"
+        },
+        "topics": [
+            {
+                "name": "Genius",
+                "url": "/topics/genius"
+            },
+            {
+                "name": "Touched",
+                "url": "/topics/touched"
+            },
+            {
+                "name": "Servant",
+                "url": "/topics/servant"
+            }
+        ]
+    }
+]

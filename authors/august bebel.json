@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/august_bebel_190398",
+        "quote": "We aim in the domain of politics at republicanism; in the domain of economics at socialism; in the domain of what is today called religion, at atheism.",
+        "author": {
+            "name": "August Bebel",
+            "url": "/quotes/august_bebel_190398"
+        },
+        "topics": [
+            {
+                "name": "Politics",
+                "url": "/topics/politics"
+            },
+            {
+                "name": "Aim",
+                "url": "/topics/aim"
+            },
+            {
+                "name": "Republicanism",
+                "url": "/topics/republicanism"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/august_bebel_190399",
+        "quote": "Christianity is the enemy of liberty and civilization.",
+        "author": {
+            "name": "August Bebel",
+            "url": "/quotes/august_bebel_190399"
+        },
+        "topics": [
+            {
+                "name": "Enemy",
+                "url": "/topics/enemy"
+            },
+            {
+                "name": "Liberty",
+                "url": "/topics/liberty"
+            },
+            {
+                "name": "Civilization",
+                "url": "/topics/civilization"
+            }
+        ]
+    }
+]

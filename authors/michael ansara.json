@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/michael_ansara_572696",
+        "quote": "We're all human. We have our foibles, we've made mistakes, and yet there is still greatness.",
+        "author": {
+            "name": "Michael Ansara",
+            "url": "/quotes/michael_ansara_572696"
+        },
+        "topics": [
+            {
+                "name": "Greatness",
+                "url": "/topics/greatness"
+            },
+            {
+                "name": "Made",
+                "url": "/topics/made"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/michael_ansara_572697",
+        "quote": "That has been one of the best, most rewarding things about being an actor - traveling throughout the world, meeting all kinds of different people and learning about other cultures.",
+        "author": {
+            "name": "Michael Ansara",
+            "url": "/quotes/michael_ansara_572697"
+        },
+        "topics": [
+            {
+                "name": "Different People",
+                "url": "/topics/different_people"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    }
+]

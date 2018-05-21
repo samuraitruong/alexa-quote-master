@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/joey_bishop_136489",
+        "quote": "Today you can go to a gas station and find the cash register open and the toilets locked. They must think toilet paper is worth more than money.",
+        "author": {
+            "name": "Joey Bishop",
+            "url": "/quotes/joey_bishop_136489"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Cash Register",
+                "url": "/topics/cash_register"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joey_bishop_136246",
+        "quote": "My doctor is wonderful. Once, in 1955, when I couldn't afford an operation, he touched up the X-rays.",
+        "author": {
+            "name": "Joey Bishop",
+            "url": "/quotes/joey_bishop_136246"
+        },
+        "topics": [
+            {
+                "name": "Doctor",
+                "url": "/topics/doctor"
+            },
+            {
+                "name": "Wonderful",
+                "url": "/topics/wonderful"
+            },
+            {
+                "name": "Touched",
+                "url": "/topics/touched"
+            }
+        ]
+    }
+]

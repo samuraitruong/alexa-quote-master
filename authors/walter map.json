@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/walter_map_184283",
+        "quote": "If die I must, let me die drinking in an Inn.",
+        "author": {
+            "name": "Walter Map",
+            "url": "/quotes/walter_map_184283"
+        },
+        "topics": [
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Die",
+                "url": "/topics/die"
+            },
+            {
+                "name": "Drinking",
+                "url": "/topics/drinking"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/walter_map_289084",
+        "quote": "The Cistercians do not eat meat... Yet they keep pigs to the number of many thousands, and sell the bacon - though perhaps not quite all of it. The heads, legs, and feet they neither give away, throw away, nor sell. What becomes of them God knows.",
+        "author": {
+            "name": "Walter Map",
+            "url": "/quotes/walter_map_289084"
+        },
+        "topics": [
+            {
+                "name": "Feet",
+                "url": "/topics/feet"
+            },
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            },
+            {
+                "name": "Nor",
+                "url": "/topics/nor"
+            }
+        ]
+    }
+]

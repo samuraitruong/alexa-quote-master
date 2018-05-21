@@ -1,0 +1,108 @@
+[
+    {
+        "url": "/quotes/george_aiken_201028",
+        "quote": "The best policy is to declare victory and leave.",
+        "author": {
+            "name": "George Aiken",
+            "url": "/quotes/george_aiken_201028"
+        },
+        "topics": [
+            {
+                "name": "The Best Policy",
+                "url": "/topics/the_best_policy"
+            },
+            {
+                "name": "Declare",
+                "url": "/topics/declare"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_aiken_185718",
+        "quote": "If we were to wake up some morning and find that everyone was the same race, creed and color, we would find some other causes for prejudice by noon.",
+        "author": {
+            "name": "George Aiken",
+            "url": "/quotes/george_aiken_185718"
+        },
+        "topics": [
+            {
+                "name": "Race",
+                "url": "/topics/race"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_aiken_201031",
+        "quote": "True conservation provides for wise use by the general public. The American people do not want our resources preserved for the exclusive use of the wealthy. These land and water resources belong to the people, and people of all income levels should have easy access to them.",
+        "author": {
+            "name": "George Aiken",
+            "url": "/quotes/george_aiken_201031"
+        },
+        "topics": [
+            {
+                "name": "Income",
+                "url": "/topics/income"
+            },
+            {
+                "name": "Belong",
+                "url": "/topics/belong"
+            },
+            {
+                "name": "Access",
+                "url": "/topics/access"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_aiken_396109",
+        "quote": "People are people the world over. Some are good, some bad, some greedy and some generous. Nations are like people and act the same way.",
+        "author": {
+            "name": "George Aiken",
+            "url": "/quotes/george_aiken_396109"
+        },
+        "topics": [
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_aiken_396421",
+        "quote": "As one who has often felt this need, and who has found refreshment in wild places, I attest to the recreational value of wilderness.",
+        "author": {
+            "name": "George Aiken",
+            "url": "/quotes/george_aiken_396421"
+        },
+        "topics": [
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            },
+            {
+                "name": "Refreshment",
+                "url": "/topics/refreshment"
+            },
+            {
+                "name": "Felt",
+                "url": "/topics/felt"
+            }
+        ]
+    }
+]

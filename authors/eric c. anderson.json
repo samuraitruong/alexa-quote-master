@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/eric_c_anderson_404187",
+        "quote": "The private sector is motivated by profit and efficiency and the US government often is not.",
+        "author": {
+            "name": "Eric C. Anderson",
+            "url": "/quotes/eric_c_anderson_404187"
+        },
+        "topics": [
+            {
+                "name": "Efficiency",
+                "url": "/topics/efficiency"
+            },
+            {
+                "name": "Private",
+                "url": "/topics/private"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eric_c_anderson_404446",
+        "quote": "For the first time in history, a private company is organizing a mission to the moon. This mission will inspire countries of the world, citizens, our youth.",
+        "author": {
+            "name": "Eric C. Anderson",
+            "url": "/quotes/eric_c_anderson_404446"
+        },
+        "topics": [
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Private",
+                "url": "/topics/private"
+            },
+            {
+                "name": "To The Moon",
+                "url": "/topics/to_the_moon"
+            }
+        ]
+    }
+]

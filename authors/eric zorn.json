@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/eric_zorn_102681",
+        "quote": "There's no sense talking about priorities. Priorities reveal themselves. We're all transparent against the face of the clock.",
+        "author": {
+            "name": "Eric Zorn",
+            "url": "/quotes/eric_zorn_102681"
+        },
+        "topics": [
+            {
+                "name": "Against",
+                "url": "/topics/against"
+            },
+            {
+                "name": "Reveal",
+                "url": "/topics/reveal"
+            },
+            {
+                "name": "No Sense",
+                "url": "/topics/no_sense"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eric_zorn_102682",
+        "quote": "You can't buy time or save it, common idioms notwithstanding. You can only spend it.",
+        "author": {
+            "name": "Eric Zorn",
+            "url": "/quotes/eric_zorn_102682"
+        },
+        "topics": [
+            {
+                "name": "Buy",
+                "url": "/topics/buy"
+            },
+            {
+                "name": "Common",
+                "url": "/topics/common"
+            },
+            {
+                "name": "Notwithstanding",
+                "url": "/topics/notwithstanding"
+            }
+        ]
+    }
+]

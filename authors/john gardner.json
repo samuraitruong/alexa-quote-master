@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/john_gardner_174895",
+        "quote": "Talking, talking. Spinning a web of words, pale walls of dreams, between myself and all I see.",
+        "author": {
+            "name": "John Gardner",
+            "url": "/quotes/john_gardner_174895"
+        },
+        "topics": [
+            {
+                "name": "Myself",
+                "url": "/topics/myself"
+            },
+            {
+                "name": "Words",
+                "url": "/topics/words"
+            },
+            {
+                "name": "I See",
+                "url": "/topics/i_see"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_gardner_174982",
+        "quote": "One should fight like the devil the temptation to think well of editors. They are all, without exception - at least some of the time, incompetent or crazy.",
+        "author": {
+            "name": "John Gardner",
+            "url": "/quotes/john_gardner_174982"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Exception",
+                "url": "/topics/exception"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    }
+]

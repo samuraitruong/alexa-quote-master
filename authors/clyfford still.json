@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/clyfford_still_304156",
+        "quote": "A great free joy surges through me when I work... with tense slashes and a few thrusts the beautiful white fields receive their color and the work is finished in a few minutes.",
+        "author": {
+            "name": "Clyfford Still",
+            "url": "/quotes/clyfford_still_304156"
+        },
+        "topics": [
+            {
+                "name": "Color",
+                "url": "/topics/color"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Receive",
+                "url": "/topics/receive"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/clyfford_still_304157",
+        "quote": "How can we live and die and never know the difference?",
+        "author": {
+            "name": "Clyfford Still",
+            "url": "/quotes/clyfford_still_304157"
+        },
+        "topics": [
+            {
+                "name": "Die",
+                "url": "/topics/die"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "How",
+                "url": "/topics/how"
+            }
+        ]
+    }
+]

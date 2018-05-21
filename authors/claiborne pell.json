@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/claiborne_pell_355602",
+        "quote": "The strength of the United States is not the gold at Fort Knox or the weapons of mass destruction that we have, but the sum total of the education and the character of our people.",
+        "author": {
+            "name": "Claiborne Pell",
+            "url": "/quotes/claiborne_pell_355602"
+        },
+        "topics": [
+            {
+                "name": "Education",
+                "url": "/topics/education"
+            },
+            {
+                "name": "United States",
+                "url": "/topics/united_states"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/claiborne_pell_355603",
+        "quote": "People who leave Washington do so by way of the box... ballet or coffin.",
+        "author": {
+            "name": "Claiborne Pell",
+            "url": "/quotes/claiborne_pell_355603"
+        },
+        "topics": [
+            {
+                "name": "Leave",
+                "url": "/topics/leave"
+            },
+            {
+                "name": "Box",
+                "url": "/topics/box"
+            },
+            {
+                "name": "Ballet",
+                "url": "/topics/ballet"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/claiborne_pell_355604",
+        "quote": "In politics, you must let the other person have your way.",
+        "author": {
+            "name": "Claiborne Pell",
+            "url": "/quotes/claiborne_pell_355604"
+        },
+        "topics": [
+            {
+                "name": "Politics",
+                "url": "/topics/politics"
+            },
+            {
+                "name": "Person",
+                "url": "/topics/person"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/claiborne_pell_355605",
+        "quote": "My opponent called me a cream puff. Well, I rushed out and got the baker's union to endorse me.",
+        "author": {
+            "name": "Claiborne Pell",
+            "url": "/quotes/claiborne_pell_355605"
+        },
+        "topics": [
+            {
+                "name": "Union",
+                "url": "/topics/union"
+            },
+            {
+                "name": "Cream",
+                "url": "/topics/cream"
+            },
+            {
+                "name": "Baker",
+                "url": "/topics/baker"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/frank_muir_391566",
+        "quote": "Strategy is buying a bottle of fine wine when you take a lady out for dinner. Tactics is getting her to drink it.",
+        "author": {
+            "name": "Frank Muir",
+            "url": "/quotes/frank_muir_391566"
+        },
+        "topics": [
+            {
+                "name": "Dinner",
+                "url": "/topics/dinner"
+            },
+            {
+                "name": "Drink",
+                "url": "/topics/drink"
+            },
+            {
+                "name": "Bottle",
+                "url": "/topics/bottle"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/frank_muir_207360",
+        "quote": "Wit is a weapon. Jokes are a masculine way of inflicting superiority. But humor is the pursuit of a gentle grin, usually in solitude.",
+        "author": {
+            "name": "Frank Muir",
+            "url": "/quotes/frank_muir_207360"
+        },
+        "topics": [
+            {
+                "name": "Superiority",
+                "url": "/topics/superiority"
+            },
+            {
+                "name": "Wit",
+                "url": "/topics/wit"
+            },
+            {
+                "name": "Grin",
+                "url": "/topics/grin"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/bob_casale_862763",
+        "quote": "You try to make a film, and you have to come up with the money. You need a big crew; you need to ask people for favors and get permission. If you have an idea for a song, you can pretty much go into your basement with your band mates and do it.",
+        "author": {
+            "name": "Bob Casale",
+            "url": "/quotes/bob_casale_862763"
+        },
+        "topics": [
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Idea",
+                "url": "/topics/idea"
+            },
+            {
+                "name": "Basement",
+                "url": "/topics/basement"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bob_casale_862764",
+        "quote": "The successful artists are completely narcissistic and self-referential. Every song is about them. They talk about themselves. They talk about what they have. They talk about what they're going to do to somebody else. They talk about what they're going to get.",
+        "author": {
+            "name": "Bob Casale",
+            "url": "/quotes/bob_casale_862764"
+        },
+        "topics": [
+            {
+                "name": "Song",
+                "url": "/topics/song"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    }
+]

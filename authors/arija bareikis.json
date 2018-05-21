@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/arija_bareikis_655685",
+        "quote": "I grew up in Indiana. I'm a late bloomer, very naive.",
+        "author": {
+            "name": "Arija Bareikis",
+            "url": "/quotes/arija_bareikis_655685"
+        },
+        "topics": [
+            {
+                "name": "Late",
+                "url": "/topics/late"
+            },
+            {
+                "name": "Late Bloomer",
+                "url": "/topics/late_bloomer"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/arija_bareikis_562436",
+        "quote": "I think people tend to fall into their careers sometimes, and maybe that's a lucky path to follow because you actually end up doing your purpose.",
+        "author": {
+            "name": "Arija Bareikis",
+            "url": "/quotes/arija_bareikis_562436"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Lucky",
+                "url": "/topics/lucky"
+            }
+        ]
+    }
+]

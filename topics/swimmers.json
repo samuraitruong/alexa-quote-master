@@ -1,0 +1,420 @@
+[
+    {
+        "url": "/quotes/michael_phelps_167136?src=t_swimmers",
+        "quote": "I want to be able to look back and say, 'I've done everything I can, and I was successful.' I don't want to look back and say I should have done this or that. I'd like to change things for the younger generation of swimmers coming along.",
+        "author": {
+            "name": "Michael Phelps",
+            "url": "/authors/michael_phelps"
+        },
+        "topics": [
+            {
+                "name": "I Can",
+                "url": "/topics/i_can"
+            },
+            {
+                "name": "Back",
+                "url": "/topics/back"
+            },
+            {
+                "name": "Change Things",
+                "url": "/topics/change_things"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/katie_ledecky_770989?src=t_swimmers",
+        "quote": "It's always great to see young swimmers and their excitement and the joy that they have in the water.",
+        "author": {
+            "name": "Katie Ledecky",
+            "url": "/authors/katie_ledecky"
+        },
+        "topics": [
+            {
+                "name": "Young",
+                "url": "/topics/young"
+            },
+            {
+                "name": "See",
+                "url": "/topics/see"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/cameron_van_der_burgh_459617?src=t_swimmers",
+        "quote": "I cannot control what goes on in another lane and this is how I focus on the Games. There is no point in being nervous of other swimmers. It's just about focusing on yourself and what you need to do in order to perform at your best.",
+        "author": {
+            "name": "Cameron van der Burgh",
+            "url": "/authors/cameron_van_der_burgh"
+        },
+        "topics": [
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Another",
+                "url": "/topics/another"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/michael_phelps_786557?src=t_swimmers",
+        "quote": "I think everybody pees in the pool. It's kind of a normal thing to do for swimmers.",
+        "author": {
+            "name": "Michael Phelps",
+            "url": "/authors/michael_phelps"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Normal",
+                "url": "/topics/normal"
+            },
+            {
+                "name": "Everybody",
+                "url": "/topics/everybody"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/cate_campbell_754414?src=t_swimmers",
+        "quote": "The best swimmers are the ones that almost don't try the most... It's just about relaxing and enjoying it.",
+        "author": {
+            "name": "Cate Campbell",
+            "url": "/authors/cate_campbell"
+        },
+        "topics": [
+            {
+                "name": "Almost",
+                "url": "/topics/almost"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Relaxing",
+                "url": "/topics/relaxing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/katie_ledecky_770992?src=t_swimmers",
+        "quote": "It's kind of a loping stroke. It's not the prettiest stroke. But it's what's most efficient for me. And I think I kick a little more than most swimmers do.",
+        "author": {
+            "name": "Katie Ledecky",
+            "url": "/authors/katie_ledecky"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Efficient",
+                "url": "/topics/efficient"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_h_mcraven_638590?src=t_swimmers",
+        "quote": "I think ninjas are probably quieter than SEALs, but we are better swimmers, and also better with guns and blowing things up.",
+        "author": {
+            "name": "William H. McRaven",
+            "url": "/authors/william_h_mcraven"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Guns",
+                "url": "/topics/guns"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eric_shanteau_427751?src=t_swimmers",
+        "quote": "If I have one message to young swimmers about taking care of their bodies, it's definitely take care of your shoulders.",
+        "author": {
+            "name": "Eric Shanteau",
+            "url": "/authors/eric_shanteau"
+        },
+        "topics": [
+            {
+                "name": "Young",
+                "url": "/topics/young"
+            },
+            {
+                "name": "Shoulders",
+                "url": "/topics/shoulders"
+            },
+            {
+                "name": "Bodies",
+                "url": "/topics/bodies"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/natalie_coughlin_426421?src=t_swimmers",
+        "quote": "There's just something about that cold rush that I know I hate and a lot of other swimmers hate.",
+        "author": {
+            "name": "Natalie Coughlin",
+            "url": "/authors/natalie_coughlin"
+        },
+        "topics": [
+            {
+                "name": "Cold",
+                "url": "/topics/cold"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/poliana_okimoto_767582?src=t_swimmers",
+        "quote": "Pool swimmers are very slim, and they're stronger. Marathon swimmers have to train an awful lot, and they end up losing a bit of muscle mass. So we need to have a bit more fat, though that's not the case with me. Many swimmers have a little bit of extra fat though, so that they can deal with the cold and get through what is an exhausting event.",
+        "author": {
+            "name": "Poliana Okimoto",
+            "url": "/authors/poliana_okimoto"
+        },
+        "topics": [
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Deal",
+                "url": "/topics/deal"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/peter_thiel_710348?src=t_swimmers",
+        "quote": "I think competition can make people stronger at whatever it is they're competing on. If we're competing in some athletic event for competitive swimmers, really intensely competing, it's likely that both of us will become better, but it's also quite possible we'll lose sight of what's truly valuable.",
+        "author": {
+            "name": "Peter Thiel",
+            "url": "/authors/peter_thiel"
+        },
+        "topics": [
+            {
+                "name": "Competition",
+                "url": "/topics/competition"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/esther_williams_237248?src=t_swimmers",
+        "quote": "The newspapers loved pinup pictures of pretty young swimmers, and as a national champion, I got more than my share of space in the sports pages.",
+        "author": {
+            "name": "Esther Williams",
+            "url": "/authors/esther_williams"
+        },
+        "topics": [
+            {
+                "name": "Sports",
+                "url": "/topics/sports"
+            },
+            {
+                "name": "Young",
+                "url": "/topics/young"
+            },
+            {
+                "name": "Pretty",
+                "url": "/topics/pretty"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eric_weddle_839967?src=t_swimmers",
+        "quote": "I can sit back in 10, 15, 20 years, when I'm sitting with my kids, I'll be able to say that I'm sitting in Ravens Stadium during a game, and I'm watching one of the best swimmers ever win a Gold for the U.S. You know, as you get older, you cherish those kinds of moments.",
+        "author": {
+            "name": "Eric Weddle",
+            "url": "/authors/eric_weddle"
+        },
+        "topics": [
+            {
+                "name": "Best",
+                "url": "/topics/best"
+            },
+            {
+                "name": "Game",
+                "url": "/topics/game"
+            },
+            {
+                "name": "Back",
+                "url": "/topics/back"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ryan_lochte_426345?src=t_swimmers",
+        "quote": "It's so hard to express yourself, because swimmers are pretty much paying attention to a black line for hours out of a day.",
+        "author": {
+            "name": "Ryan Lochte",
+            "url": "/authors/ryan_lochte"
+        },
+        "topics": [
+            {
+                "name": "Pretty",
+                "url": "/topics/pretty"
+            },
+            {
+                "name": "Line",
+                "url": "/topics/line"
+            },
+            {
+                "name": "Hours",
+                "url": "/topics/hours"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/clare_balding_586503?src=t_swimmers",
+        "quote": "Swimmers provide much healthier role models for teenagers than the catwalk.",
+        "author": {
+            "name": "Clare Balding",
+            "url": "/authors/clare_balding"
+        },
+        "topics": [
+            {
+                "name": "Role Models",
+                "url": "/topics/role_models"
+            },
+            {
+                "name": "Role",
+                "url": "/topics/role"
+            },
+            {
+                "name": "Models",
+                "url": "/topics/models"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sophie_hannah_681932?src=t_swimmers",
+        "quote": "My favourite Friday treat is to drive out of the centre of Cambridge, where we live, and go for a swim at the health club I've just joined out in the countryside at Quy. It's a lovely pool, inside a converted barn. Usually it's just me and a couple of other swimmers there.",
+        "author": {
+            "name": "Sophie Hannah",
+            "url": "/authors/sophie_hannah"
+        },
+        "topics": [
+            {
+                "name": "Treat",
+                "url": "/topics/treat"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Couple",
+                "url": "/topics/couple"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jonathan_brownlee_752725?src=t_swimmers",
+        "quote": "I was good at swimming until everyone started to grow. The best swimmers are really tall with great big shoulders, and that just isn't us. But then a big, powerful swimmer isn't going to be so good on the bike and the run.",
+        "author": {
+            "name": "Jonathan Brownlee",
+            "url": "/authors/jonathan_brownlee"
+        },
+        "topics": [
+            {
+                "name": "Grow",
+                "url": "/topics/grow"
+            },
+            {
+                "name": "Shoulders",
+                "url": "/topics/shoulders"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/amanda_beard_178157?src=t_swimmers",
+        "quote": "I concentrate on preparing to swim my race and let the other swimmers think about me, not me about them.",
+        "author": {
+            "name": "Amanda Beard",
+            "url": "/authors/amanda_beard"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Preparing",
+                "url": "/topics/preparing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kirsty_coventry_427957?src=t_swimmers",
+        "quote": "There are younger, stronger swimmers coming up and they are hungry. I can't influence what they do, I only know what I can do and I know how greedy I am to defend my title.",
+        "author": {
+            "name": "Kirsty Coventry",
+            "url": "/authors/kirsty_coventry"
+        },
+        "topics": [
+            {
+                "name": "Younger",
+                "url": "/topics/younger"
+            },
+            {
+                "name": "Title",
+                "url": "/topics/title"
+            },
+            {
+                "name": "Am",
+                "url": "/topics/am"
+            }
+        ]
+    }
+]

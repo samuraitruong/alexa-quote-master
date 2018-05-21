@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/william_s_hart_207470",
+        "quote": "My ranch William S. Hart Park is for the benefit of the American Public of every race and creed.",
+        "author": {
+            "name": "William S. Hart",
+            "url": "/quotes/william_s_hart_207470"
+        },
+        "topics": [
+            {
+                "name": "American",
+                "url": "/topics/american"
+            },
+            {
+                "name": "Race",
+                "url": "/topics/race"
+            },
+            {
+                "name": "Hart",
+                "url": "/topics/hart"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_s_hart_207471",
+        "quote": "I have amply provided for my son during my lifetime.",
+        "author": {
+            "name": "William S. Hart",
+            "url": "/quotes/william_s_hart_207471"
+        },
+        "topics": [
+            {
+                "name": "Son",
+                "url": "/topics/son"
+            },
+            {
+                "name": "Lifetime",
+                "url": "/topics/lifetime"
+            },
+            {
+                "name": "Provided",
+                "url": "/topics/provided"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/red_mccombs_628839",
+        "quote": "From the time I was a kid, I was always interested in any and all kinds of new business ideas.",
+        "author": {
+            "name": "Red McCombs",
+            "url": "/quotes/red_mccombs_628839"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "New Business",
+                "url": "/topics/new_business"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/red_mccombs_628840",
+        "quote": "I know people like to work for me, and quite a few have gotten rich working for me.",
+        "author": {
+            "name": "Red McCombs",
+            "url": "/quotes/red_mccombs_628840"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Gotten",
+                "url": "/topics/gotten"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/red_mccombs_628841",
+        "quote": "I may not have the gun that Jesse James had when he was gunned down, but if there's a piece identified with him and the same place, then I get interested; it's always excited me.",
+        "author": {
+            "name": "Red McCombs",
+            "url": "/quotes/red_mccombs_628841"
+        },
+        "topics": [
+            {
+                "name": "Gun",
+                "url": "/topics/gun"
+            },
+            {
+                "name": "Had",
+                "url": "/topics/had"
+            },
+            {
+                "name": "James",
+                "url": "/topics/james"
+            }
+        ]
+    }
+]

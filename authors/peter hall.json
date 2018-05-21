@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/peter_hall_377172",
+        "quote": "Whoever becomes the head of the National Theater finds himself in a position like that of Nelson's Column - pigeons dump on you because you're there.",
+        "author": {
+            "name": "Peter Hall",
+            "url": "/quotes/peter_hall_377172"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Column",
+                "url": "/topics/column"
+            },
+            {
+                "name": "Nelson",
+                "url": "/topics/nelson"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/peter_hall_404757",
+        "quote": "The youth of France do not want a new neo-liberal contract.",
+        "author": {
+            "name": "Peter Hall",
+            "url": "/quotes/peter_hall_404757"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Contract",
+                "url": "/topics/contract"
+            }
+        ]
+    }
+]

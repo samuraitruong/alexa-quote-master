@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/scipio_africanus_205958",
+        "quote": "I am convinced that life is 10% what happens to me and 96% how I react to it.",
+        "author": {
+            "name": "Scipio Africanus",
+            "url": "/quotes/scipio_africanus_205958"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Convinced",
+                "url": "/topics/convinced"
+            },
+            {
+                "name": "How",
+                "url": "/topics/how"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/scipio_africanus_205956",
+        "quote": "I'm never less at leisure than when at leisure, or less alone than when alone.",
+        "author": {
+            "name": "Scipio Africanus",
+            "url": "/quotes/scipio_africanus_205956"
+        },
+        "topics": [
+            {
+                "name": "Alone",
+                "url": "/topics/alone"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Than",
+                "url": "/topics/than"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/scipio_africanus_205957",
+        "quote": "It is the part of a fool to say, I should not have thought.",
+        "author": {
+            "name": "Scipio Africanus",
+            "url": "/quotes/scipio_africanus_205957"
+        },
+        "topics": [
+            {
+                "name": "Fool",
+                "url": "/topics/fool"
+            },
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Part",
+                "url": "/topics/part"
+            }
+        ]
+    }
+]

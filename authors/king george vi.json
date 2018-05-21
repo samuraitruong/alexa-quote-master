@@ -1,0 +1,20 @@
+[
+    {
+        "url": "/quotes/king_george_vi_190507",
+        "quote": "The highest of distinctions is service to others.",
+        "author": {
+            "name": "King George VI",
+            "url": "/quotes/king_george_vi_190507"
+        },
+        "topics": [
+            {
+                "name": "Service To Others",
+                "url": "/topics/service_to_others"
+            },
+            {
+                "name": "Highest",
+                "url": "/topics/highest"
+            }
+        ]
+    }
+]

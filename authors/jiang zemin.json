@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/jiang_zemin_130573",
+        "quote": "It takes two hands to clap.",
+        "author": {
+            "name": "Jiang Zemin",
+            "url": "/quotes/jiang_zemin_130573"
+        },
+        "topics": [
+            {
+                "name": "Hands",
+                "url": "/topics/hands"
+            },
+            {
+                "name": "Takes",
+                "url": "/topics/takes"
+            },
+            {
+                "name": "Clap",
+                "url": "/topics/clap"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jiang_zemin_131051",
+        "quote": "The theory of relativity worked out by Mr. Einstein, which is in the domain of natural science, I believe can also be applied to the political field. Both democracy and human rights are relative concepts - and not absolute and general.",
+        "author": {
+            "name": "Jiang Zemin",
+            "url": "/quotes/jiang_zemin_131051"
+        },
+        "topics": [
+            {
+                "name": "Natural Science",
+                "url": "/topics/natural_science"
+            },
+            {
+                "name": "Applied",
+                "url": "/topics/applied"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jiang_zemin_145088",
+        "quote": "Talk politics, talk about study and talk positively.",
+        "author": {
+            "name": "Jiang Zemin",
+            "url": "/quotes/jiang_zemin_145088"
+        },
+        "topics": [
+            {
+                "name": "Politics",
+                "url": "/topics/politics"
+            },
+            {
+                "name": "Study",
+                "url": "/topics/study"
+            },
+            {
+                "name": "Positively",
+                "url": "/topics/positively"
+            }
+        ]
+    }
+]

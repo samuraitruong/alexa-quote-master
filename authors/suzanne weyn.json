@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/suzanne_weyn_735054",
+        "quote": "Perfect happiness would be knowing that all my family and friends were happy and safe. Then I'd go to a tropical island with my husband where it was gorgeous and fun all day long and interesting and fun all evening. Good food and dancing would be nice, too, and weekly visits from those safe and happy family and friends. Plus world peace.",
+        "author": {
+            "name": "Suzanne Weyn",
+            "url": "/quotes/suzanne_weyn_735054"
+        },
+        "topics": [
+            {
+                "name": "Happy",
+                "url": "/topics/happy"
+            },
+            {
+                "name": "Dancing",
+                "url": "/topics/dancing"
+            },
+            {
+                "name": "Perfect",
+                "url": "/topics/perfect"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/suzanne_weyn_735056",
+        "quote": "It's easy to get discouraged; just keep writing because you love to do it, and you'll keep improving.",
+        "author": {
+            "name": "Suzanne Weyn",
+            "url": "/quotes/suzanne_weyn_735056"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Improving",
+                "url": "/topics/improving"
+            },
+            {
+                "name": "Get",
+                "url": "/topics/get"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/suzanne_weyn_735055",
+        "quote": "The Civil War always moves me.",
+        "author": {
+            "name": "Suzanne Weyn",
+            "url": "/quotes/suzanne_weyn_735055"
+        },
+        "topics": [
+            {
+                "name": "Civil War",
+                "url": "/topics/civil_war"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Moves",
+                "url": "/topics/moves"
+            }
+        ]
+    }
+]

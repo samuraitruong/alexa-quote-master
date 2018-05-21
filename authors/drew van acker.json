@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/drew_van_acker_544514",
+        "quote": "Ever since I was a kid, I always wanted to be an astronaut.",
+        "author": {
+            "name": "Drew Van Acker",
+            "url": "/quotes/drew_van_acker_544514"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Ever",
+                "url": "/topics/ever"
+            },
+            {
+                "name": "Astronaut",
+                "url": "/topics/astronaut"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/drew_van_acker_661684",
+        "quote": "I've never been adamant about joining Twitter; I have nothing against it; I'm not one of those people who hates Twitter. I think it's great for what it is, but right now - I don't know. I just like to keep the mystery.",
+        "author": {
+            "name": "Drew Van Acker",
+            "url": "/quotes/drew_van_acker_661684"
+        },
+        "topics": [
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Joining",
+                "url": "/topics/joining"
+            }
+        ]
+    }
+]

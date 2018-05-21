@@ -1,0 +1,574 @@
+[
+    {
+        "url": "/quotes/bob_hope_114483?src=t_statue_of_liberty",
+        "quote": "I have a wonderful make-up crew. They're the same people restoring the Statue of Liberty.",
+        "author": {
+            "name": "Bob Hope",
+            "url": "/authors/bob_hope"
+        },
+        "topics": [
+            {
+                "name": "Funny",
+                "url": "/topics/funny"
+            },
+            {
+                "name": "Same",
+                "url": "/topics/same"
+            },
+            {
+                "name": "Make-Up",
+                "url": "/topics/make-up"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ruth_bader_ginsburg_777345?src=t_statue_of_liberty",
+        "quote": "America is known as a country that welcomes people to its shores. All kinds of people. The image of the Statue of Liberty with Emma Lazarus' famous poem. She lifts her lamp and welcomes people to the golden shore, where they will not experience prejudice because of the color of their skin, the religious faith that they follow.",
+        "author": {
+            "name": "Ruth Bader Ginsburg",
+            "url": "/authors/ruth_bader_ginsburg"
+        },
+        "topics": [
+            {
+                "name": "Color",
+                "url": "/topics/color"
+            },
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Religious",
+                "url": "/topics/religious"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/viktor_e_frankl_153416?src=t_statue_of_liberty",
+        "quote": "I recommend that the Statue of Liberty be supplemented by a Statue of Responsibility on the west coast.",
+        "author": {
+            "name": "Viktor E. Frankl",
+            "url": "/authors/viktor_e_frankl"
+        },
+        "topics": [
+            {
+                "name": "Liberty",
+                "url": "/topics/liberty"
+            },
+            {
+                "name": "Coast",
+                "url": "/topics/coast"
+            },
+            {
+                "name": "Supplemented",
+                "url": "/topics/supplemented"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robin_williams_403648?src=t_statue_of_liberty",
+        "quote": "The Statue of Liberty is no longer saying, 'Give me your poor, your tired, your huddled masses.' She's got a baseball bat and yelling, 'You want a piece of me?'",
+        "author": {
+            "name": "Robin Williams",
+            "url": "/authors/robin_williams"
+        },
+        "topics": [
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            },
+            {
+                "name": "Yelling",
+                "url": "/topics/yelling"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/chris_jordan_563200?src=t_statue_of_liberty",
+        "quote": "Activating is about changing people's perceptions of overlooked or invisible spaces. A building can become an archetype, invisible, like for a New Yorker, for example, the Statue of Liberty. You look at it, and it disappears into the thousands of times you've already seen it.",
+        "author": {
+            "name": "Chris Jordan",
+            "url": "/authors/chris_jordan"
+        },
+        "topics": [
+            {
+                "name": "Invisible",
+                "url": "/topics/invisible"
+            },
+            {
+                "name": "Overlooked",
+                "url": "/topics/overlooked"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jose_andres_653363?src=t_statue_of_liberty",
+        "quote": "The first time I saw America was from my perch on the mast of a Spanish naval ship, where I could spot the Statue of Liberty reaching proudly into the open, endless American sky.",
+        "author": {
+            "name": "Jose Andres",
+            "url": "/authors/jose_andres"
+        },
+        "topics": [
+            {
+                "name": "Ship",
+                "url": "/topics/ship"
+            },
+            {
+                "name": "Endless",
+                "url": "/topics/endless"
+            },
+            {
+                "name": "Reaching",
+                "url": "/topics/reaching"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/derek_walcott_860585?src=t_statue_of_liberty",
+        "quote": "What was moving, I think, was the fact that the statue is a woman and not a heroic, manly figure. So for all her scale and immensity, there's something soft about the Statue of Liberty, something tender about her.",
+        "author": {
+            "name": "Derek Walcott",
+            "url": "/authors/derek_walcott"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Tender",
+                "url": "/topics/tender"
+            },
+            {
+                "name": "Figure",
+                "url": "/topics/figure"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/frank_mccourt_790447?src=t_statue_of_liberty",
+        "quote": "You sail into the harbor, and Staten Island is on your left, and then you see the Statue of Liberty. This is what everyone in the world has dreams of when they think about New York. And I thought, 'My God, I'm in Heaven. I'll be dancing down Fifth Avenue like Fred Astaire with Ginger Rogers.'",
+        "author": {
+            "name": "Frank McCourt",
+            "url": "/authors/frank_mccourt"
+        },
+        "topics": [
+            {
+                "name": "Sail",
+                "url": "/topics/sail"
+            },
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Dancing",
+                "url": "/topics/dancing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/doug_henning_697772?src=t_statue_of_liberty",
+        "quote": "Now there was no wonder in the Statue of Liberty illusion because he, Copperfield, attempted to do something so large that it stretched the credibility of the audience to the point where most people didn't believe any of it anymore.",
+        "author": {
+            "name": "Doug Henning",
+            "url": "/authors/doug_henning"
+        },
+        "topics": [
+            {
+                "name": "Believe",
+                "url": "/topics/believe"
+            },
+            {
+                "name": "Point",
+                "url": "/topics/point"
+            },
+            {
+                "name": "Anymore",
+                "url": "/topics/anymore"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/daniel_libeskind_341023?src=t_statue_of_liberty",
+        "quote": "And you have to remember that I came to America as an immigrant. You know, on a ship, through the Statue of Liberty. And I saw that skyline, not just as a representation of steel and concrete and glass, but as really the substance of the American Dream.",
+        "author": {
+            "name": "Daniel Libeskind",
+            "url": "/authors/daniel_libeskind"
+        },
+        "topics": [
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Concrete",
+                "url": "/topics/concrete"
+            },
+            {
+                "name": "Steel",
+                "url": "/topics/steel"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/elaine_chao_794254?src=t_statue_of_liberty",
+        "quote": "As I looked up at the Statue of Liberty, I thought at that time, 'What a wonderful country.'",
+        "author": {
+            "name": "Elaine Chao",
+            "url": "/authors/elaine_chao"
+        },
+        "topics": [
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Looked",
+                "url": "/topics/looked"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charles_b_rangel_622437?src=t_statue_of_liberty",
+        "quote": "Living in New York City, I am reminded by the Statue of Liberty that the United States of America has always welcomed those yearning to breathe free and seek a better life.",
+        "author": {
+            "name": "Charles B. Rangel",
+            "url": "/authors/charles_b_rangel"
+        },
+        "topics": [
+            {
+                "name": "City",
+                "url": "/topics/city"
+            },
+            {
+                "name": "United",
+                "url": "/topics/united"
+            },
+            {
+                "name": "New York City",
+                "url": "/topics/new_york_city"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/buzz_aldrin_679972?src=t_statue_of_liberty",
+        "quote": "I grew up in New Jersey and never went up the Statue of Liberty.",
+        "author": {
+            "name": "Buzz Aldrin",
+            "url": "/authors/buzz_aldrin"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Liberty",
+                "url": "/topics/liberty"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marissa_jaret_winokur_619445?src=t_statue_of_liberty",
+        "quote": "You would think with me living in Los Angeles I would go to the beach all the time, but we don't. It's the same as visiting the Statue of Liberty. If you don't live in N.Y.C., it's the first stop on your family vacation, but if you live there, you only go if you have relatives visiting from out of town!",
+        "author": {
+            "name": "Marissa Jaret Winokur",
+            "url": "/authors/marissa_jaret_winokur"
+        },
+        "topics": [
+            {
+                "name": "Visiting",
+                "url": "/topics/visiting"
+            },
+            {
+                "name": "Your",
+                "url": "/topics/your"
+            },
+            {
+                "name": "Out",
+                "url": "/topics/out"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/michael_bloomberg_392634?src=t_statue_of_liberty",
+        "quote": "Many of America's and New York's sons and daughters are around the world fighting for the freedoms that the Statue of Liberty stands for.",
+        "author": {
+            "name": "Michael Bloomberg",
+            "url": "/authors/michael_bloomberg"
+        },
+        "topics": [
+            {
+                "name": "Fighting",
+                "url": "/topics/fighting"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Statue",
+                "url": "/topics/statue"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jay_leno_387560?src=t_statue_of_liberty",
+        "quote": "The crime problem in New York is getting really serious. The other day the Statue of Liberty had both hands up.",
+        "author": {
+            "name": "Jay Leno",
+            "url": "/authors/jay_leno"
+        },
+        "topics": [
+            {
+                "name": "Hands",
+                "url": "/topics/hands"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_antin_358023?src=t_statue_of_liberty",
+        "quote": "I've always had a strong feeling for the Statue of Liberty, because it became the statue of my personal liberty.",
+        "author": {
+            "name": "David Antin",
+            "url": "/authors/david_antin"
+        },
+        "topics": [
+            {
+                "name": "Strong",
+                "url": "/topics/strong"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Became",
+                "url": "/topics/became"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/andy_cohen_487768?src=t_statue_of_liberty",
+        "quote": "I run from Horatio Street down just past Battery Park City and back. It's amazing to run and see the Statue of Liberty and the ferries coming in. People think if you're not near Central Park, there's nowhere to go, but there's a whole ecosystem happening down here.",
+        "author": {
+            "name": "Andy Cohen",
+            "url": "/authors/andy_cohen"
+        },
+        "topics": [
+            {
+                "name": "City",
+                "url": "/topics/city"
+            },
+            {
+                "name": "Ecosystem",
+                "url": "/topics/ecosystem"
+            },
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/elaine_chao_794253?src=t_statue_of_liberty",
+        "quote": "When my mother, sisters and I arrived on the shores of America when I was 8 years old, the boat on which we came, a freighter, passed the Statue of Liberty.",
+        "author": {
+            "name": "Elaine Chao",
+            "url": "/authors/elaine_chao"
+        },
+        "topics": [
+            {
+                "name": "Old",
+                "url": "/topics/old"
+            },
+            {
+                "name": "Statue",
+                "url": "/topics/statue"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/susan_vreeland_726642?src=t_statue_of_liberty",
+        "quote": "'Luncheon of the Boating Party,' owned by The Phillips Collection in Washington, D.C., has served Americans as a symbol of France and French culture, both of which I love, and is as evocative and triumphant an image as that other emissary of France, the Statue of Liberty.",
+        "author": {
+            "name": "Susan Vreeland",
+            "url": "/authors/susan_vreeland"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Symbol",
+                "url": "/topics/symbol"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_l_wolper_758733?src=t_statue_of_liberty",
+        "quote": "I've asked every grammar schoolteacher in the nation to have their students write on the meaning of the Statue of Liberty. Wouldn't it be wonderful if the winning kid got up to the microphone and, in front of the world, had to dig into a pocket to pull out a crumpled sheet of paper containing the words that would move us all?",
+        "author": {
+            "name": "David L. Wolper",
+            "url": "/authors/david_l_wolper"
+        },
+        "topics": [
+            {
+                "name": "Nation",
+                "url": "/topics/nation"
+            },
+            {
+                "name": "Dig",
+                "url": "/topics/dig"
+            },
+            {
+                "name": "Schoolteacher",
+                "url": "/topics/schoolteacher"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mireille_guiliano_530734?src=t_statue_of_liberty",
+        "quote": "I love my kitchen. For Manhattan, I have a rather decent-size kitchen, and it has an opening that gives out to the dining room, which has a window with a view of the city and in the distance the Statue of Liberty.",
+        "author": {
+            "name": "Mireille Guiliano",
+            "url": "/authors/mireille_guiliano"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Distance",
+                "url": "/topics/distance"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dave_gibbons_585621?src=t_statue_of_liberty",
+        "quote": "When I first came to New York City, what I was thrilled about was not the Empire State Building, or the Statue of Liberty; it was the fireplugs in the street. These things that Jack Kirby had drawn. Or these cylindrical water towers on top of buildings that Steve Ditko's 'Spider-Man' fights used to happen in and around.",
+        "author": {
+            "name": "Dave Gibbons",
+            "url": "/authors/dave_gibbons"
+        },
+        "topics": [
+            {
+                "name": "City",
+                "url": "/topics/city"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "New York City",
+                "url": "/topics/new_york_city"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/roustam_tariko_732163?src=t_statue_of_liberty",
+        "quote": "I launched Imperia at the Statue of Liberty because I wanted to use something symbolic. I like American society because it always wants to do something new and better.",
+        "author": {
+            "name": "Roustam Tariko",
+            "url": "/authors/roustam_tariko"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Symbolic",
+                "url": "/topics/symbolic"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/don_young_185221?src=t_statue_of_liberty",
+        "quote": "I don't see any justification for the federal government owning land, other than the Statue of Liberty and maybe a few parks, maybe a few refuges. But to just own land to do nothing with it I think is a disservice to the Constitution.",
+        "author": {
+            "name": "Don Young",
+            "url": "/authors/don_young"
+        },
+        "topics": [
+            {
+                "name": "Constitution",
+                "url": "/topics/constitution"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/richard_price_188172?src=t_statue_of_liberty",
+        "quote": "If you're writing a book that takes place in New York in the moment, you can't not write about 9-11; you can't not integrate it. My main character's view is the Statue of Liberty and the Trade Center. It doesn't have to take over, but it has to be acknowledged.",
+        "author": {
+            "name": "Richard Price",
+            "url": "/authors/richard_price"
+        },
+        "topics": [
+            {
+                "name": "Book",
+                "url": "/topics/book"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Acknowledged",
+                "url": "/topics/acknowledged"
+            }
+        ]
+    }
+]

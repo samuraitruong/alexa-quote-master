@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/francis_asbury_202189",
+        "quote": "My soul is more at rest from the tempter when I am busily employed.",
+        "author": {
+            "name": "Francis Asbury",
+            "url": "/quotes/francis_asbury_202189"
+        },
+        "topics": [
+            {
+                "name": "Soul",
+                "url": "/topics/soul"
+            },
+            {
+                "name": "Rest",
+                "url": "/topics/rest"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/francis_asbury_202253",
+        "quote": "We should so work as if we were to be saved by our works; and so rely on Jesus Christ, as if we did no works.",
+        "author": {
+            "name": "Francis Asbury",
+            "url": "/quotes/francis_asbury_202253"
+        },
+        "topics": [
+            {
+                "name": "Christ",
+                "url": "/topics/christ"
+            },
+            {
+                "name": "Works",
+                "url": "/topics/works"
+            },
+            {
+                "name": "Saved",
+                "url": "/topics/saved"
+            }
+        ]
+    }
+]

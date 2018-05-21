@@ -1,0 +1,130 @@
+[
+    {
+        "url": "/quotes/charles_caleb_colton_203963?src=t_sincerest_form",
+        "quote": "Imitation is the sincerest form of flattery.",
+        "author": {
+            "name": "Charles Caleb Colton",
+            "url": "/authors/charles_caleb_colton"
+        },
+        "topics": [
+            {
+                "name": "Flattery",
+                "url": "/topics/flattery"
+            },
+            {
+                "name": "Form",
+                "url": "/topics/form"
+            },
+            {
+                "name": "Sincerest",
+                "url": "/topics/sincerest"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/roy_horn_219445?src=t_sincerest_form",
+        "quote": "Imitation is the sincerest form of pain.",
+        "author": {
+            "name": "Roy Horn",
+            "url": "/authors/roy_horn"
+        },
+        "topics": [
+            {
+                "name": "Pain",
+                "url": "/topics/pain"
+            },
+            {
+                "name": "Form",
+                "url": "/topics/form"
+            },
+            {
+                "name": "Sincerest",
+                "url": "/topics/sincerest"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joyce_brothers_122637?src=t_sincerest_form",
+        "quote": "Listening, not imitation, may be the sincerest form of flattery.",
+        "author": {
+            "name": "Joyce Brothers",
+            "url": "/authors/joyce_brothers"
+        },
+        "topics": [
+            {
+                "name": "Communication",
+                "url": "/topics/communication"
+            },
+            {
+                "name": "Listening",
+                "url": "/topics/listening"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jack_paar_379301?src=t_sincerest_form",
+        "quote": "Immigration is the sincerest form of flattery.",
+        "author": {
+            "name": "Jack Paar",
+            "url": "/authors/jack_paar"
+        },
+        "topics": [
+            {
+                "name": "Immigration",
+                "url": "/topics/immigration"
+            },
+            {
+                "name": "Form",
+                "url": "/topics/form"
+            },
+            {
+                "name": "Sincerest",
+                "url": "/topics/sincerest"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/roseanne_barr_543117?src=t_sincerest_form",
+        "quote": "Imitation is the sincerest form of show business.",
+        "author": {
+            "name": "Roseanne Barr",
+            "url": "/authors/roseanne_barr"
+        },
+        "topics": [
+            {
+                "name": "Business",
+                "url": "/topics/business"
+            },
+            {
+                "name": "Form",
+                "url": "/topics/form"
+            },
+            {
+                "name": "Sincerest",
+                "url": "/topics/sincerest"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/fred_allen_103718?src=t_sincerest_form",
+        "quote": "Imitation is the sincerest form of television.",
+        "author": {
+            "name": "Fred Allen",
+            "url": "/authors/fred_allen"
+        },
+        "topics": [
+            {
+                "name": "Television",
+                "url": "/topics/television"
+            },
+            {
+                "name": "Form",
+                "url": "/topics/form"
+            },
+            {
+                "name": "Sincerest",
+                "url": "/topics/sincerest"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/ludovic_halevy_323031",
+        "quote": "No news is good news.",
+        "author": {
+            "name": "Ludovic Halevy",
+            "url": "/quotes/ludovic_halevy_323031"
+        },
+        "topics": [
+            {
+                "name": "Good",
+                "url": "/topics/good"
+            },
+            {
+                "name": "News",
+                "url": "/topics/news"
+            },
+            {
+                "name": "Good News",
+                "url": "/topics/good_news"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ludovic_halevy_323030",
+        "quote": "In order to make money the first thing is to have no need of it.",
+        "author": {
+            "name": "Ludovic Halevy",
+            "url": "/quotes/ludovic_halevy_323030"
+        },
+        "topics": [
+            {
+                "name": "Money",
+                "url": "/topics/money"
+            },
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            },
+            {
+                "name": "The First Thing",
+                "url": "/topics/the_first_thing"
+            }
+        ]
+    }
+]

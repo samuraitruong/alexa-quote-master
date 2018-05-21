@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/hendrik_willem_van_loon_177120",
+        "quote": "Somewhere in the world there is an epigram for every dilemma.",
+        "author": {
+            "name": "Hendrik Willem Van Loon",
+            "url": "/quotes/hendrik_willem_van_loon_177120"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Somewhere",
+                "url": "/topics/somewhere"
+            },
+            {
+                "name": "Epigram",
+                "url": "/topics/epigram"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/hendrik_willem_van_loon_100892",
+        "quote": "The arts are an even better barometer of what is happening in our world than the stock market or the debates in congress.",
+        "author": {
+            "name": "Hendrik Willem Van Loon",
+            "url": "/quotes/hendrik_willem_van_loon_100892"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Congress",
+                "url": "/topics/congress"
+            },
+            {
+                "name": "Our World",
+                "url": "/topics/our_world"
+            }
+        ]
+    }
+]

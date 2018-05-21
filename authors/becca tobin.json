@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/becca_tobin_686820",
+        "quote": "I was a 'Glee' fan before I joined the show! Since my background is musical theater, it was exciting to see a TV show that incorporated music so much and in such a genius way.",
+        "author": {
+            "name": "Becca Tobin",
+            "url": "/quotes/becca_tobin_686820"
+        },
+        "topics": [
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            },
+            {
+                "name": "TV",
+                "url": "/topics/tv"
+            },
+            {
+                "name": "Musical",
+                "url": "/topics/musical"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/becca_tobin_686821",
+        "quote": "For some reason, being on time in this industry can be a lost art form, especially for actors! It's important to remember that other people are always waiting for you on set, and it's really unfair to make them wait.",
+        "author": {
+            "name": "Becca Tobin",
+            "url": "/quotes/becca_tobin_686821"
+        },
+        "topics": [
+            {
+                "name": "Reason",
+                "url": "/topics/reason"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    }
+]

@@ -1,0 +1,508 @@
+[
+    {
+        "url": "/quotes/leonardo_da_vinci_163001?src=t_sap",
+        "quote": "Iron rusts from disuse; water loses its purity from stagnation... even so does inaction sap the vigor of the mind.",
+        "author": {
+            "name": "Leonardo da Vinci",
+            "url": "/authors/leonardo_da_vinci"
+        },
+        "topics": [
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Inaction",
+                "url": "/topics/inaction"
+            },
+            {
+                "name": "Purity",
+                "url": "/topics/purity"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rodney_dangerfield_167299?src=t_sap",
+        "quote": "I looked up my family tree and found out I was the sap.",
+        "author": {
+            "name": "Rodney Dangerfield",
+            "url": "/authors/rodney_dangerfield"
+        },
+        "topics": [
+            {
+                "name": "Funny",
+                "url": "/topics/funny"
+            },
+            {
+                "name": "Found",
+                "url": "/topics/found"
+            },
+            {
+                "name": "Looked",
+                "url": "/topics/looked"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kim_barnouin_728636?src=t_sap",
+        "quote": "I am such a sap when it comes to love! I believe in love at first sight all the way. But that's just the way it happened to me with my relationships. I love the idea of two people looking at each other and electricity flying around them; it's so romantic, and it's a great feeling.",
+        "author": {
+            "name": "Kim Barnouin",
+            "url": "/authors/kim_barnouin"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Great Feeling",
+                "url": "/topics/great_feeling"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alice_oswald_620764?src=t_sap",
+        "quote": "If you bend a branch until it's horizontal, the sap will slow to a stopping point: a comma or colon, made of leaves grown into one another and over one another and hardened. Out of this pause comes a flower, which unfolds itself in spirals, as if the leaf form, unable to keep to its line, had begun to pivot.",
+        "author": {
+            "name": "Alice Oswald",
+            "url": "/authors/alice_oswald"
+        },
+        "topics": [
+            {
+                "name": "Line",
+                "url": "/topics/line"
+            },
+            {
+                "name": "Another",
+                "url": "/topics/another"
+            },
+            {
+                "name": "Begun",
+                "url": "/topics/begun"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_burroughs_760778?src=t_sap",
+        "quote": "A sap run is the sweet goodbye of winter. It is the fruit of the equal marriage of the sun and frost.",
+        "author": {
+            "name": "John Burroughs",
+            "url": "/authors/john_burroughs"
+        },
+        "topics": [
+            {
+                "name": "Marriage",
+                "url": "/topics/marriage"
+            },
+            {
+                "name": "Fruit",
+                "url": "/topics/fruit"
+            },
+            {
+                "name": "Equal",
+                "url": "/topics/equal"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marc_andreessen_529630?src=t_sap",
+        "quote": "The joke about SAP has always been, it's making '50s German manufacturing methodology, implemented in 1960s software technology, delivered to 1970-style manufacturing organizations, like, it's really - yeah, the incumbency - they are still the lingering hangover from the dot-com crash.",
+        "author": {
+            "name": "Marc Andreessen",
+            "url": "/authors/marc_andreessen"
+        },
+        "topics": [
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "German",
+                "url": "/topics/german"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/julie_burchill_507582?src=t_sap",
+        "quote": "What sort of sap doesn't know by now that picture-perfect beauty is all done with smoke and mirrors anyway?",
+        "author": {
+            "name": "Julie Burchill",
+            "url": "/authors/julie_burchill"
+        },
+        "topics": [
+            {
+                "name": "Beauty",
+                "url": "/topics/beauty"
+            },
+            {
+                "name": "Smoke",
+                "url": "/topics/smoke"
+            },
+            {
+                "name": "Mirrors",
+                "url": "/topics/mirrors"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/timothy_morton_864236?src=t_sap",
+        "quote": "The ideal job letter starts with a brilliant light. Then we realize that this brilliant light is actually sunlight, shafts of it, pouring through trees onto a thick bed of pine needles. Soft dusty resin floats in the sun shafts, invitingly. The smell of pine and sap rises from the forest floor. A twig snaps underfoot.",
+        "author": {
+            "name": "Timothy Morton",
+            "url": "/authors/timothy_morton"
+        },
+        "topics": [
+            {
+                "name": "Bed",
+                "url": "/topics/bed"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Needles",
+                "url": "/topics/needles"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charles_lindbergh_742669?src=t_sap",
+        "quote": "More and more, as civilization develops, we find the primitive to be essential to us. We root into the primitive as a tree roots into the earth. If we cut off the roots, we lose the sap without which we can't progress or even survive. I don't believe our civilization can continue very long out of contact with the primitive.",
+        "author": {
+            "name": "Charles Lindbergh",
+            "url": "/authors/charles_lindbergh"
+        },
+        "topics": [
+            {
+                "name": "Civilization",
+                "url": "/topics/civilization"
+            },
+            {
+                "name": "Cut",
+                "url": "/topics/cut"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ellen_g_white_737744?src=t_sap",
+        "quote": "Only the love that flows from the heart of Christ can heal. Only He in whom that love flows, even as the sap in the tree or the blood in the body, can restore the wounded soul.",
+        "author": {
+            "name": "Ellen G. White",
+            "url": "/authors/ellen_g_white"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Christ",
+                "url": "/topics/christ"
+            },
+            {
+                "name": "Wounded",
+                "url": "/topics/wounded"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/samuel_taylor_coleridge_166334?src=t_sap",
+        "quote": "General principles... are to the facts as the root and sap of a tree are to its leaves.",
+        "author": {
+            "name": "Samuel Taylor Coleridge",
+            "url": "/authors/samuel_taylor_coleridge"
+        },
+        "topics": [
+            {
+                "name": "General",
+                "url": "/topics/general"
+            },
+            {
+                "name": "Leaves",
+                "url": "/topics/leaves"
+            },
+            {
+                "name": "Root",
+                "url": "/topics/root"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tony_campolo_574143?src=t_sap",
+        "quote": "I'm not denying that depression can be spiritually induced. Guilt from having wronged and hurt others can bring it on. A sense of having failed to live out the will of God can give rise to depression. Certainly the fear of death and what might follow can sap the joy out of life.",
+        "author": {
+            "name": "Tony Campolo",
+            "url": "/authors/tony_campolo"
+        },
+        "topics": [
+            {
+                "name": "Life",
+                "url": "/topics/life"
+            },
+            {
+                "name": "Death",
+                "url": "/topics/death"
+            },
+            {
+                "name": "Bring",
+                "url": "/topics/bring"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/larry_ellison_442898?src=t_sap",
+        "quote": "Oracle's got 100+ enterprise applications live in the #cloud; today, SAP's got nothin' but SuccessFactors until 2020.",
+        "author": {
+            "name": "Larry Ellison",
+            "url": "/authors/larry_ellison"
+        },
+        "topics": [
+            {
+                "name": "Got",
+                "url": "/topics/got"
+            },
+            {
+                "name": "Oracle",
+                "url": "/topics/oracle"
+            },
+            {
+                "name": "Enterprise",
+                "url": "/topics/enterprise"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/fred_allen_148423?src=t_sap",
+        "quote": "I don't have to look up my family tree, because I know that I'm the sap.",
+        "author": {
+            "name": "Fred Allen",
+            "url": "/authors/fred_allen"
+        },
+        "topics": [
+            {
+                "name": "Family",
+                "url": "/topics/family"
+            },
+            {
+                "name": "Tree",
+                "url": "/topics/tree"
+            },
+            {
+                "name": "Know",
+                "url": "/topics/know"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/safra_a_catz_798151?src=t_sap",
+        "quote": "SAP is a great company, but they have their work cut out for them if they want to compete in databases.",
+        "author": {
+            "name": "Safra A. Catz",
+            "url": "/authors/safra_a_catz"
+        },
+        "topics": [
+            {
+                "name": "Cut",
+                "url": "/topics/cut"
+            },
+            {
+                "name": "Compete",
+                "url": "/topics/compete"
+            },
+            {
+                "name": "Databases",
+                "url": "/topics/databases"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/safra_a_catz_798154?src=t_sap",
+        "quote": "I literally went down to my car and thought, 'Oh my God, SAP bought Concur - maybe tomorrow they'll buy Dairy Queen.' It was the best thing that happened to me on the day I was named CEO of Oracle.",
+        "author": {
+            "name": "Safra A. Catz",
+            "url": "/authors/safra_a_catz"
+        },
+        "topics": [
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Concur",
+                "url": "/topics/concur"
+            },
+            {
+                "name": "Named",
+                "url": "/topics/named"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/anna_julia_cooper_408943?src=t_sap",
+        "quote": "Each is under the most sacred obligation not to squander the material committed to him, not to sap his strength in folly and vice, and to see at the least that he delivers a product worthy the labor and cost which have been expended on him.",
+        "author": {
+            "name": "Anna Julia Cooper",
+            "url": "/authors/anna_julia_cooper"
+        },
+        "topics": [
+            {
+                "name": "Strength",
+                "url": "/topics/strength"
+            },
+            {
+                "name": "Folly",
+                "url": "/topics/folly"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/adam_lashinsky_856000?src=t_sap",
+        "quote": "Innovation has its limits, of course, and Salesforce has proved adept at supplementing its growth with acquisitions, a tool long available to older rivals like Oracle and SAP.",
+        "author": {
+            "name": "Adam Lashinsky",
+            "url": "/authors/adam_lashinsky"
+        },
+        "topics": [
+            {
+                "name": "Innovation",
+                "url": "/topics/innovation"
+            },
+            {
+                "name": "Oracle",
+                "url": "/topics/oracle"
+            },
+            {
+                "name": "Adept",
+                "url": "/topics/adept"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/parker_harris_856843?src=t_sap",
+        "quote": "Many people have said we just need to add more products. Look at Oracle, look at SAP. Add ERP and inventory or compensation. Add all this stuff. What we realized is we're the customer company. We're the front office solution, and our customers would be really upset if we just added a whole bunch of stuff and lost focus.",
+        "author": {
+            "name": "Parker Harris",
+            "url": "/authors/parker_harris"
+        },
+        "topics": [
+            {
+                "name": "Focus",
+                "url": "/topics/focus"
+            },
+            {
+                "name": "Upset",
+                "url": "/topics/upset"
+            },
+            {
+                "name": "Added",
+                "url": "/topics/added"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/olivia_culpo_735539?src=t_sap",
+        "quote": "The show I'm obsessed with watching is 'Say Yes to the Dress!' Because I love the whole makeover idea, and I'm a sap for love, of course.",
+        "author": {
+            "name": "Olivia Culpo",
+            "url": "/authors/olivia_culpo"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Dress",
+                "url": "/topics/dress"
+            },
+            {
+                "name": "Obsessed",
+                "url": "/topics/obsessed"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_fortune_242700?src=t_sap",
+        "quote": "The main stem was then in most cases twisted in a zigzag form, which process checked the flow of the sap, and at the same time encouraged the production of side branches at those parts of the stem where they were most desired.",
+        "author": {
+            "name": "Robert Fortune",
+            "url": "/authors/robert_fortune"
+        },
+        "topics": [
+            {
+                "name": "Same",
+                "url": "/topics/same"
+            },
+            {
+                "name": "Production",
+                "url": "/topics/production"
+            },
+            {
+                "name": "Main",
+                "url": "/topics/main"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_fortune_242715?src=t_sap",
+        "quote": "We all know that any thing which retards in any way the free circulation of the sap, also prevents to a certain extent the formation of wood and leaves.",
+        "author": {
+            "name": "Robert Fortune",
+            "url": "/authors/robert_fortune"
+        },
+        "topics": [
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Extent",
+                "url": "/topics/extent"
+            },
+            {
+                "name": "Also",
+                "url": "/topics/also"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/scott_michael_foster_656853?src=t_sap",
+        "quote": "When I was growing up, my favorite movie was 'Somewhere in Time' with Christopher Reeve, which is a hugely romantic, sappy movie. I couldn't understand it when the guy didn't get the girl or the girl didn't get the guy in love stories. I was definitely a sap.",
+        "author": {
+            "name": "Scott Michael Foster",
+            "url": "/authors/scott_michael_foster"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Guy",
+                "url": "/topics/guy"
+            },
+            {
+                "name": "Movie",
+                "url": "/topics/movie"
+            }
+        ]
+    }
+]

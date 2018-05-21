@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/aijen_poo_482337",
+        "quote": "One thing I've learned, in the face of all kinds of indignities, domestic workers take so much pride in their work and love the children they care for.",
+        "author": {
+            "name": "Ai-jen Poo",
+            "url": "/quotes/aijen_poo_482337"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Learned",
+                "url": "/topics/learned"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/aijen_poo_482338",
+        "quote": "Domestic employees are at the whim of their employers.",
+        "author": {
+            "name": "Ai-jen Poo",
+            "url": "/quotes/aijen_poo_482338"
+        },
+        "topics": [
+            {
+                "name": "Domestic",
+                "url": "/topics/domestic"
+            },
+            {
+                "name": "Employers",
+                "url": "/topics/employers"
+            },
+            {
+                "name": "Whim",
+                "url": "/topics/whim"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/hildegard_knef_131871",
+        "quote": "Success and failure are greatly overrated. But failure gives you a whole lot more to talk about.",
+        "author": {
+            "name": "Hildegard Knef",
+            "url": "/quotes/hildegard_knef_131871"
+        },
+        "topics": [
+            {
+                "name": "Success",
+                "url": "/topics/success"
+            },
+            {
+                "name": "Failure",
+                "url": "/topics/failure"
+            },
+            {
+                "name": "Lot",
+                "url": "/topics/lot"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/hildegard_knef_131346",
+        "quote": "If you have to make mistakes, make them good and big, don't be middling if you can help it.",
+        "author": {
+            "name": "Hildegard Knef",
+            "url": "/quotes/hildegard_knef_131346"
+        },
+        "topics": [
+            {
+                "name": "Mistakes",
+                "url": "/topics/mistakes"
+            },
+            {
+                "name": "Help",
+                "url": "/topics/help"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            }
+        ]
+    }
+]

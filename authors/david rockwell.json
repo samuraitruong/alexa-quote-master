@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/david_rockwell_550309",
+        "quote": "Every project is an opportunity to learn, to figure out problems and challenges, to invent and reinvent.",
+        "author": {
+            "name": "David Rockwell",
+            "url": "/quotes/david_rockwell_550309"
+        },
+        "topics": [
+            {
+                "name": "Learn",
+                "url": "/topics/learn"
+            },
+            {
+                "name": "Reinvent",
+                "url": "/topics/reinvent"
+            },
+            {
+                "name": "Figure",
+                "url": "/topics/figure"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_rockwell_550310",
+        "quote": "You have to think of a restaurant as a series of impressions. But what makes my job so great is there's no one answer that's right for every restaurant.",
+        "author": {
+            "name": "David Rockwell",
+            "url": "/quotes/david_rockwell_550310"
+        },
+        "topics": [
+            {
+                "name": "Restaurant",
+                "url": "/topics/restaurant"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Makes",
+                "url": "/topics/makes"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_rockwell_550308",
+        "quote": "I don't think of myself as a brand. Branding to me feels like a position or identity that's frozen in time. I'm more interested in transitions.",
+        "author": {
+            "name": "David Rockwell",
+            "url": "/quotes/david_rockwell_550308"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Feels",
+                "url": "/topics/feels"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_rockwell_550307",
+        "quote": "I like entertainment and think mastery is good, though I don't feel like a master. If a theme means having a story that's legible, then that's certainly what we do. But we don't treat design as an add-on layer.",
+        "author": {
+            "name": "David Rockwell",
+            "url": "/quotes/david_rockwell_550307"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Means",
+                "url": "/topics/means"
+            },
+            {
+                "name": "Certainly",
+                "url": "/topics/certainly"
+            }
+        ]
+    }
+]

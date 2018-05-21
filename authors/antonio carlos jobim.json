@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/antonio_carlos_jobim_490832",
+        "quote": "I was a beach boy, and I believe I learned my songs from the birds of the Brazilian forest.",
+        "author": {
+            "name": "Antonio Carlos Jobim",
+            "url": "/quotes/antonio_carlos_jobim_490832"
+        },
+        "topics": [
+            {
+                "name": "Forest",
+                "url": "/topics/forest"
+            },
+            {
+                "name": "Learned",
+                "url": "/topics/learned"
+            },
+            {
+                "name": "Brazilian",
+                "url": "/topics/brazilian"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/antonio_carlos_jobim_490831",
+        "quote": "What really swings is the music of the United States, Cuba, the Caribbean and vicinity, and, of course, Brazil. The rest is all waltzes.",
+        "author": {
+            "name": "Antonio Carlos Jobim",
+            "url": "/quotes/antonio_carlos_jobim_490831"
+        },
+        "topics": [
+            {
+                "name": "Rest",
+                "url": "/topics/rest"
+            },
+            {
+                "name": "Brazil",
+                "url": "/topics/brazil"
+            },
+            {
+                "name": "United States",
+                "url": "/topics/united_states"
+            }
+        ]
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/giotto_di_bondone_211361",
+        "quote": "Rome is the city of echoes, the city of illusions, and the city of yearning.",
+        "author": {
+            "name": "Giotto di Bondone",
+            "url": "/quotes/giotto_di_bondone_211361"
+        },
+        "topics": [
+            {
+                "name": "Travel",
+                "url": "/topics/travel"
+            },
+            {
+                "name": "Rome",
+                "url": "/topics/rome"
+            },
+            {
+                "name": "Yearning",
+                "url": "/topics/yearning"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/giotto_di_bondone_211358",
+        "quote": "The sincere friends of this world are as ship lights in the stormiest of nights.",
+        "author": {
+            "name": "Giotto di Bondone",
+            "url": "/quotes/giotto_di_bondone_211358"
+        },
+        "topics": [
+            {
+                "name": "Friendship",
+                "url": "/topics/friendship"
+            },
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Nights",
+                "url": "/topics/nights"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/giotto_di_bondone_211362",
+        "quote": "Every painting is a voyage into a sacred harbour.",
+        "author": {
+            "name": "Giotto di Bondone",
+            "url": "/quotes/giotto_di_bondone_211362"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Painting",
+                "url": "/topics/painting"
+            },
+            {
+                "name": "Harbour",
+                "url": "/topics/harbour"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/giotto_di_bondone_211359",
+        "quote": "The human heart is as a frail craft on which we wish to reach the stars.",
+        "author": {
+            "name": "Giotto di Bondone",
+            "url": "/quotes/giotto_di_bondone_211359"
+        },
+        "topics": [
+            {
+                "name": "Wish",
+                "url": "/topics/wish"
+            },
+            {
+                "name": "Human Heart",
+                "url": "/topics/human_heart"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/giotto_di_bondone_211357",
+        "quote": "Take pleasure in your dreams; relish your principles and drape your purest feelings on the heart of a precious lover.",
+        "author": {
+            "name": "Giotto di Bondone",
+            "url": "/quotes/giotto_di_bondone_211357"
+        },
+        "topics": [
+            {
+                "name": "Pleasure",
+                "url": "/topics/pleasure"
+            },
+            {
+                "name": "Precious",
+                "url": "/topics/precious"
+            },
+            {
+                "name": "Lover",
+                "url": "/topics/lover"
+            }
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/richard_stengel_405571",
+        "quote": "If we can teach a teacher we can reach more people.",
+        "author": {
+            "name": "Richard Stengel",
+            "url": "/quotes/richard_stengel_405571"
+        },
+        "topics": [
+            {
+                "name": "Teacher",
+                "url": "/topics/teacher"
+            },
+            {
+                "name": "Reach",
+                "url": "/topics/reach"
+            },
+            {
+                "name": "More People",
+                "url": "/topics/more_people"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/richard_stengel_405572",
+        "quote": "The number of great museums and nonprofits versus the number of corporate headquarters is incredibly out of whack.",
+        "author": {
+            "name": "Richard Stengel",
+            "url": "/quotes/richard_stengel_405572"
+        },
+        "topics": [
+            {
+                "name": "Number",
+                "url": "/topics/number"
+            },
+            {
+                "name": "Headquarters",
+                "url": "/topics/headquarters"
+            }
+        ]
+    }
+]

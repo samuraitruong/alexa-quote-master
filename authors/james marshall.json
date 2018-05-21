@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/james_marshall_816326",
+        "quote": "Hot today, forgotten tomorrow. I'm not buying anything.",
+        "author": {
+            "name": "James Marshall",
+            "url": "/quotes/james_marshall_816326"
+        },
+        "topics": [
+            {
+                "name": "Today",
+                "url": "/topics/today"
+            },
+            {
+                "name": "Tomorrow",
+                "url": "/topics/tomorrow"
+            },
+            {
+                "name": "Forgotten",
+                "url": "/topics/forgotten"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_marshall_816327",
+        "quote": "I was doing 'Twin Peaks,' and Columbia called and said they wanted me to do 'Gladiator.' I thought it had the potential to be a real commercial film, so I was like a kid in a candy store.",
+        "author": {
+            "name": "James Marshall",
+            "url": "/quotes/james_marshall_816327"
+        },
+        "topics": [
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Commercial",
+                "url": "/topics/commercial"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_marshall_816328",
+        "quote": "I'll tell you, 'Fire Walk With Me' is the one for 'Twin Peaks' fans. It's much more haunted than the TV series.",
+        "author": {
+            "name": "James Marshall",
+            "url": "/quotes/james_marshall_816328"
+        },
+        "topics": [
+            {
+                "name": "Tell",
+                "url": "/topics/tell"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "TV",
+                "url": "/topics/tv"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_marshall_816329",
+        "quote": "It's like everyone wants to categorize you as this and that until you've made your own mark.",
+        "author": {
+            "name": "James Marshall",
+            "url": "/quotes/james_marshall_816329"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Everyone",
+                "url": "/topics/everyone"
+            },
+            {
+                "name": "Made",
+                "url": "/topics/made"
+            }
+        ]
+    }
+]

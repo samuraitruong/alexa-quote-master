@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/john_fowler_234819",
+        "quote": "Sun's role in the grand scheme of development is to work on the runtime environment and the APIs. The tools we produce are much more for systems programmers, not enterprise developers.",
+        "author": {
+            "name": "John Fowler",
+            "url": "/quotes/john_fowler_234819"
+        },
+        "topics": [
+            {
+                "name": "Development",
+                "url": "/topics/development"
+            },
+            {
+                "name": "Role",
+                "url": "/topics/role"
+            },
+            {
+                "name": "Scheme",
+                "url": "/topics/scheme"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_fowler_234820",
+        "quote": "Today, Web services is really about developing for the server. What it means to developers is any set of systems services that you make a Web service you to access by any kind of device with a highly interactive client, not just a browser.",
+        "author": {
+            "name": "John Fowler",
+            "url": "/quotes/john_fowler_234820"
+        },
+        "topics": [
+            {
+                "name": "Server",
+                "url": "/topics/server"
+            },
+            {
+                "name": "Means",
+                "url": "/topics/means"
+            },
+            {
+                "name": "Set",
+                "url": "/topics/set"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_fowler_234821",
+        "quote": "Today there are hundreds of millions of mobile devices, but you do have to know a bit about what each device is capable of doing in order to approach it as a developer.",
+        "author": {
+            "name": "John Fowler",
+            "url": "/quotes/john_fowler_234821"
+        },
+        "topics": [
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Mobile",
+                "url": "/topics/mobile"
+            },
+            {
+                "name": "Devices",
+                "url": "/topics/devices"
+            }
+        ]
+    }
+]

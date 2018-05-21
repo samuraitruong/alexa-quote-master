@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/lew_brown_188554",
+        "quote": "And love can come to everyone, the best things in life are free.",
+        "author": {
+            "name": "Lew Brown",
+            "url": "/quotes/lew_brown_188554"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Everyone",
+                "url": "/topics/everyone"
+            },
+            {
+                "name": "Things",
+                "url": "/topics/things"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lew_brown_395916",
+        "quote": "So how can you lose what you've never owned?",
+        "author": {
+            "name": "Lew Brown",
+            "url": "/quotes/lew_brown_395916"
+        },
+        "topics": [
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "How",
+                "url": "/topics/how"
+            },
+            {
+                "name": "Owned",
+                "url": "/topics/owned"
+            }
+        ]
+    }
+]

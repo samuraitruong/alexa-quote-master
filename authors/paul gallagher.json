@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/paul_gallagher_197657",
+        "quote": "I'm in the facial-hair phase of my career.",
+        "author": {
+            "name": "Paul Gallagher",
+            "url": "/quotes/paul_gallagher_197657"
+        },
+        "topics": [
+            {
+                "name": "Career",
+                "url": "/topics/career"
+            },
+            {
+                "name": "Phase",
+                "url": "/topics/phase"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_gallagher_197658",
+        "quote": "I thought you were supposed to be flying this thing, not pleasuring it.",
+        "author": {
+            "name": "Paul Gallagher",
+            "url": "/quotes/paul_gallagher_197658"
+        },
+        "topics": [
+            {
+                "name": "Flying",
+                "url": "/topics/flying"
+            },
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Were",
+                "url": "/topics/were"
+            }
+        ]
+    }
+]

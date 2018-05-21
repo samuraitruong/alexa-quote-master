@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/euclid_126362",
+        "quote": "The laws of nature are but the mathematical thoughts of God.",
+        "author": {
+            "name": "Euclid",
+            "url": "/quotes/euclid_126362"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "Thoughts",
+                "url": "/topics/thoughts"
+            },
+            {
+                "name": "Laws",
+                "url": "/topics/laws"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/euclid_676375",
+        "quote": "There is no royal road to geometry.",
+        "author": {
+            "name": "Euclid",
+            "url": "/quotes/euclid_676375"
+        },
+        "topics": [
+            {
+                "name": "Road",
+                "url": "/topics/road"
+            },
+            {
+                "name": "Royal",
+                "url": "/topics/royal"
+            },
+            {
+                "name": "Geometry",
+                "url": "/topics/geometry"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/george_sewell_207499",
+        "quote": "Fear is the tax that conscience pays to guilt.",
+        "author": {
+            "name": "George Sewell",
+            "url": "/quotes/george_sewell_207499"
+        },
+        "topics": [
+            {
+                "name": "Guilt",
+                "url": "/topics/guilt"
+            },
+            {
+                "name": "Conscience",
+                "url": "/topics/conscience"
+            },
+            {
+                "name": "Tax",
+                "url": "/topics/tax"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_sewell_207500",
+        "quote": "The coward sneaks to death; the brave live on.",
+        "author": {
+            "name": "George Sewell",
+            "url": "/quotes/george_sewell_207500"
+        },
+        "topics": [
+            {
+                "name": "Death",
+                "url": "/topics/death"
+            },
+            {
+                "name": "Brave",
+                "url": "/topics/brave"
+            },
+            {
+                "name": "Coward",
+                "url": "/topics/coward"
+            }
+        ]
+    }
+]

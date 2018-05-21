@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/tom_snyder_161456",
+        "quote": "When everything is coming your way, you're probably in the wrong lane.",
+        "author": {
+            "name": "Tom Snyder",
+            "url": "/quotes/tom_snyder_161456"
+        },
+        "topics": [
+            {
+                "name": "Everything",
+                "url": "/topics/everything"
+            },
+            {
+                "name": "Coming",
+                "url": "/topics/coming"
+            },
+            {
+                "name": "Your",
+                "url": "/topics/your"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tom_snyder_404944",
+        "quote": "I have never fallen in love with my own voice, but I've always had an attraction for it.",
+        "author": {
+            "name": "Tom Snyder",
+            "url": "/quotes/tom_snyder_404944"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Voice",
+                "url": "/topics/voice"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tom_snyder_102385",
+        "quote": "If we're not supposed to eat animals, how come they're made out of meat?",
+        "author": {
+            "name": "Tom Snyder",
+            "url": "/quotes/tom_snyder_102385"
+        },
+        "topics": [
+            {
+                "name": "Made",
+                "url": "/topics/made"
+            },
+            {
+                "name": "Supposed",
+                "url": "/topics/supposed"
+            },
+            {
+                "name": "How",
+                "url": "/topics/how"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tom_snyder_406905",
+        "quote": "People want a result. Immigrant voters aren't stupid, and they're going to know who's on their side.",
+        "author": {
+            "name": "Tom Snyder",
+            "url": "/quotes/tom_snyder_406905"
+        },
+        "topics": [
+            {
+                "name": "Stupid",
+                "url": "/topics/stupid"
+            },
+            {
+                "name": "Side",
+                "url": "/topics/side"
+            },
+            {
+                "name": "Voters",
+                "url": "/topics/voters"
+            }
+        ]
+    }
+]

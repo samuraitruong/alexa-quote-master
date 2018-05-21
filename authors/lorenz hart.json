@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/lorenz_hart_388178",
+        "quote": "How we love sequestering, where no pests are pestering.",
+        "author": {
+            "name": "Lorenz Hart",
+            "url": "/quotes/lorenz_hart_388178"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Where",
+                "url": "/topics/where"
+            },
+            {
+                "name": "How",
+                "url": "/topics/how"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lorenz_hart_397345",
+        "quote": "Painters of paintings, writers of books, never could tell the half.",
+        "author": {
+            "name": "Lorenz Hart",
+            "url": "/quotes/lorenz_hart_397345"
+        },
+        "topics": [
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Half",
+                "url": "/topics/half"
+            },
+            {
+                "name": "Books",
+                "url": "/topics/books"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lorenz_hart_397733",
+        "quote": "Unrequited love's a bore.",
+        "author": {
+            "name": "Lorenz Hart",
+            "url": "/quotes/lorenz_hart_397733"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Bore",
+                "url": "/topics/bore"
+            },
+            {
+                "name": "Unrequited",
+                "url": "/topics/unrequited"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lorenz_hart_398108",
+        "quote": "Wide awake I can make my most fantastic dreams come true.",
+        "author": {
+            "name": "Lorenz Hart",
+            "url": "/quotes/lorenz_hart_398108"
+        },
+        "topics": [
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "Wide Awake",
+                "url": "/topics/wide_awake"
+            },
+            {
+                "name": "Wide",
+                "url": "/topics/wide"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lorenz_hart_398268",
+        "quote": "Bewitched, bothered and bewildered am I.",
+        "author": {
+            "name": "Lorenz Hart",
+            "url": "/quotes/lorenz_hart_398268"
+        },
+        "topics": [
+            {
+                "name": "Bewitched",
+                "url": "/topics/bewitched"
+            },
+            {
+                "name": "Bewildered",
+                "url": "/topics/bewildered"
+            },
+            {
+                "name": "Am",
+                "url": "/topics/am"
+            }
+        ]
+    }
+]

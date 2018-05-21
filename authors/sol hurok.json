@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/sol_hurok_114557",
+        "quote": "The sky's the limit if you have a roof over your head.",
+        "author": {
+            "name": "Sol Hurok",
+            "url": "/quotes/sol_hurok_114557"
+        },
+        "topics": [
+            {
+                "name": "Sky",
+                "url": "/topics/sky"
+            },
+            {
+                "name": "Head",
+                "url": "/topics/head"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sol_hurok_114556",
+        "quote": "When people don't want to come, nothing will stop them.",
+        "author": {
+            "name": "Sol Hurok",
+            "url": "/quotes/sol_hurok_114556"
+        },
+        "topics": [
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Stop",
+                "url": "/topics/stop"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sol_hurok_114558",
+        "quote": "If I would be in this business for business, I wouldn't be in this business.",
+        "author": {
+            "name": "Sol Hurok",
+            "url": "/quotes/sol_hurok_114558"
+        },
+        "topics": [
+            {
+                "name": "Business",
+                "url": "/topics/business"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sol_hurok_162450",
+        "quote": "If they're not temperamental, I don't want them. It's in the nature of a great artist to be that way.",
+        "author": {
+            "name": "Sol Hurok",
+            "url": "/quotes/sol_hurok_162450"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "Artist",
+                "url": "/topics/artist"
+            },
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            }
+        ]
+    }
+]

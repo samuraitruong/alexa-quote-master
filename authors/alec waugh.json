@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/alec_waugh_112649",
+        "quote": "I am prepared to believe that a dry martini slightly impairs the palate, but think what it does for the soul.",
+        "author": {
+            "name": "Alec Waugh",
+            "url": "/quotes/alec_waugh_112649"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Martini",
+                "url": "/topics/martini"
+            },
+            {
+                "name": "Slightly",
+                "url": "/topics/slightly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alec_waugh_101102",
+        "quote": "A man desires praise that he may be reassured, that he may be quit of his doubting of himself; he is indifferent to applause when he is confident of success.",
+        "author": {
+            "name": "Alec Waugh",
+            "url": "/quotes/alec_waugh_101102"
+        },
+        "topics": [
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Confident",
+                "url": "/topics/confident"
+            },
+            {
+                "name": "Desires",
+                "url": "/topics/desires"
+            }
+        ]
+    }
+]

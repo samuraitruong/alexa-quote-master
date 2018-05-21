@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/jim_kolbe_307675",
+        "quote": "I do favor guest workers, H1B visas and student visas.",
+        "author": {
+            "name": "Jim Kolbe",
+            "url": "/quotes/jim_kolbe_307675"
+        },
+        "topics": [
+            {
+                "name": "Student",
+                "url": "/topics/student"
+            },
+            {
+                "name": "Guest",
+                "url": "/topics/guest"
+            },
+            {
+                "name": "Favor",
+                "url": "/topics/favor"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jim_kolbe_394570",
+        "quote": "I would rather be known as 'Jim Kolbe, the trade expert in Congress who happens to be gay,' rather than 'Jim Kolbe, gay congressman from Arizona.'",
+        "author": {
+            "name": "Jim Kolbe",
+            "url": "/quotes/jim_kolbe_394570"
+        },
+        "topics": [
+            {
+                "name": "Expert",
+                "url": "/topics/expert"
+            },
+            {
+                "name": "Congress",
+                "url": "/topics/congress"
+            },
+            {
+                "name": "Rather",
+                "url": "/topics/rather"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jim_kolbe_395820",
+        "quote": "I've never denied my sexual orientation. I just don't make a point of it. It isn't what I do. Clearly, I'm known for the work I've done on trade and Social Security.",
+        "author": {
+            "name": "Jim Kolbe",
+            "url": "/quotes/jim_kolbe_395820"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Orientation",
+                "url": "/topics/orientation"
+            },
+            {
+                "name": "Social",
+                "url": "/topics/social"
+            }
+        ]
+    }
+]

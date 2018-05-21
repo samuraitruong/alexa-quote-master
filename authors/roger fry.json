@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/roger_fry_161072",
+        "quote": "Art is significant deformity.",
+        "author": {
+            "name": "Roger Fry",
+            "url": "/quotes/roger_fry_161072"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Significant",
+                "url": "/topics/significant"
+            },
+            {
+                "name": "Deformity",
+                "url": "/topics/deformity"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/roger_fry_178105",
+        "quote": "Bach almost persuades me to be a Christian.",
+        "author": {
+            "name": "Roger Fry",
+            "url": "/quotes/roger_fry_178105"
+        },
+        "topics": [
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Christian",
+                "url": "/topics/christian"
+            },
+            {
+                "name": "Almost",
+                "url": "/topics/almost"
+            }
+        ]
+    }
+]

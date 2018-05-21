@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/earl_long_212427",
+        "quote": "Don't write anything you can phone. Don't phone anything you can talk. Don't talk anything you can whisper. Don't whisper anything you can smile. Don't smile anything you can nod. Don't nod anything you can wink.",
+        "author": {
+            "name": "Earl Long",
+            "url": "/quotes/earl_long_212427"
+        },
+        "topics": [
+            {
+                "name": "Phone",
+                "url": "/topics/phone"
+            },
+            {
+                "name": "Wink",
+                "url": "/topics/wink"
+            },
+            {
+                "name": "Nod",
+                "url": "/topics/nod"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/earl_long_115481",
+        "quote": "The kind of thing I'm good at is knowing every politician in the state and remembering where he itches. And I know where to scratch him.",
+        "author": {
+            "name": "Earl Long",
+            "url": "/quotes/earl_long_115481"
+        },
+        "topics": [
+            {
+                "name": "Politician",
+                "url": "/topics/politician"
+            },
+            {
+                "name": "Kind",
+                "url": "/topics/kind"
+            },
+            {
+                "name": "Itches",
+                "url": "/topics/itches"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/earl_long_212428",
+        "quote": "I can make them voting machines sing Home Sweet Home.",
+        "author": {
+            "name": "Earl Long",
+            "url": "/quotes/earl_long_212428"
+        },
+        "topics": [
+            {
+                "name": "Voting",
+                "url": "/topics/voting"
+            },
+            {
+                "name": "Sing",
+                "url": "/topics/sing"
+            },
+            {
+                "name": "Them",
+                "url": "/topics/them"
+            }
+        ]
+    }
+]

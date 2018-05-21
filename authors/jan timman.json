@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/jan_timman_278308",
+        "quote": "The more games I will play, the faster I will be back on a top spot in the world rankings.",
+        "author": {
+            "name": "Jan Timman",
+            "url": "/quotes/jan_timman_278308"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Faster",
+                "url": "/topics/faster"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jan_timman_278309",
+        "quote": "I am still full of ambition.",
+        "author": {
+            "name": "Jan Timman",
+            "url": "/quotes/jan_timman_278309"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Ambition",
+                "url": "/topics/ambition"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            }
+        ]
+    }
+]

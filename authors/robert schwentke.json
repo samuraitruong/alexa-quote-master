@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/robert_schwentke_695091",
+        "quote": "There are very few films that work like a novel.",
+        "author": {
+            "name": "Robert Schwentke",
+            "url": "/quotes/robert_schwentke_695091"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Films",
+                "url": "/topics/films"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_schwentke_695092",
+        "quote": "I don't do deleted scenes.",
+        "author": {
+            "name": "Robert Schwentke",
+            "url": "/quotes/robert_schwentke_695092"
+        },
+        "topics": [
+            {
+                "name": "Scenes",
+                "url": "/topics/scenes"
+            },
+            {
+                "name": "Deleted",
+                "url": "/topics/deleted"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_schwentke_695093",
+        "quote": "I have a family. I'm married. I'm very, very happy.",
+        "author": {
+            "name": "Robert Schwentke",
+            "url": "/quotes/robert_schwentke_695093"
+        },
+        "topics": [
+            {
+                "name": "Family",
+                "url": "/topics/family"
+            },
+            {
+                "name": "Happy",
+                "url": "/topics/happy"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    }
+]

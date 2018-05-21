@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/aeschines_177438",
+        "quote": "Be assured, fellow citizens, that in a democracy it is the laws that guard the person of the citizen and the constitution of the state, whereas the despot and the oligarch find their protection in suspicion and in armed guards.",
+        "author": {
+            "name": "Aeschines",
+            "url": "/quotes/aeschines_177438"
+        },
+        "topics": [
+            {
+                "name": "Constitution",
+                "url": "/topics/constitution"
+            },
+            {
+                "name": "Citizen",
+                "url": "/topics/citizen"
+            },
+            {
+                "name": "Laws",
+                "url": "/topics/laws"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/aeschines_177439",
+        "quote": "For then only will you be strong, when you cherish the laws, and when the revolutionary attempts of lawless men shall have ceased.",
+        "author": {
+            "name": "Aeschines",
+            "url": "/quotes/aeschines_177439"
+        },
+        "topics": [
+            {
+                "name": "Strong",
+                "url": "/topics/strong"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Laws",
+                "url": "/topics/laws"
+            }
+        ]
+    }
+]

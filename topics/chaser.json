@@ -1,0 +1,134 @@
+[
+    {
+        "url": "/quotes/sarah_brightman_550393?src=t_chaser",
+        "quote": "I think of myself not just as a dreamer, but as a dream chaser.",
+        "author": {
+            "name": "Sarah Brightman",
+            "url": "/authors/sarah_brightman"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Dreamer",
+                "url": "/topics/dreamer"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/chris_rock_167388?src=t_chaser",
+        "quote": "Right now, my job is that I'm like an ambulance chaser. I've got to look for movies with white guys falling out of them.",
+        "author": {
+            "name": "Chris Rock",
+            "url": "/authors/chris_rock"
+        },
+        "topics": [
+            {
+                "name": "Falling",
+                "url": "/topics/falling"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Them",
+                "url": "/topics/them"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gertrude_stein_401613?src=t_chaser",
+        "quote": "You'll be old and you never lived, and you kind of feel silly to lie down and die and to never have lived, to have been a job chaser and never have lived.",
+        "author": {
+            "name": "Gertrude Stein",
+            "url": "/authors/gertrude_stein"
+        },
+        "topics": [
+            {
+                "name": "Die",
+                "url": "/topics/die"
+            },
+            {
+                "name": "Old",
+                "url": "/topics/old"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/black_elk_253354?src=t_chaser",
+        "quote": "They told me I had been sick twelve days, lying like dead all the while, and that Whirlwind Chaser, who was Standing Bear's uncle and a medicine man, had brought me back to life.",
+        "author": {
+            "name": "Black Elk",
+            "url": "/authors/black_elk"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Brought",
+                "url": "/topics/brought"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sloane_crosley_506254?src=t_chaser",
+        "quote": "Our culture's obsession with vintage objects has rendered us unable to separate history from nostalgia. People want heart. They want a chaser of emotion with their aesthetics.",
+        "author": {
+            "name": "Sloane Crosley",
+            "url": "/authors/sloane_crosley"
+        },
+        "topics": [
+            {
+                "name": "Nostalgia",
+                "url": "/topics/nostalgia"
+            },
+            {
+                "name": "Separate",
+                "url": "/topics/separate"
+            },
+            {
+                "name": "Objects",
+                "url": "/topics/objects"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/chris_matthews_276737?src=t_chaser",
+        "quote": "The difference between me and them is that I'll look at Jesse Jackson and I'll see four Jesse Jacksons, and they'll just see one, the clown ambulance chaser.",
+        "author": {
+            "name": "Chris Matthews",
+            "url": "/authors/chris_matthews"
+        },
+        "topics": [
+            {
+                "name": "Look",
+                "url": "/topics/look"
+            },
+            {
+                "name": "Ambulance",
+                "url": "/topics/ambulance"
+            },
+            {
+                "name": "Them",
+                "url": "/topics/them"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/deanna_dunagan_741609",
+        "quote": "New York is hard for me. I grew up in Texas. I can't do without my car, and you can't have a car in New York.",
+        "author": {
+            "name": "Deanna Dunagan",
+            "url": "/quotes/deanna_dunagan_741609"
+        },
+        "topics": [
+            {
+                "name": "Texas",
+                "url": "/topics/texas"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Grew",
+                "url": "/topics/grew"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/deanna_dunagan_741610",
+        "quote": "Coming from West Texas at the time that I did, I didn't know you could be an actor. It didn't seem like something that actually happened.",
+        "author": {
+            "name": "Deanna Dunagan",
+            "url": "/quotes/deanna_dunagan_741610"
+        },
+        "topics": [
+            {
+                "name": "Texas",
+                "url": "/topics/texas"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/deanna_dunagan_741611",
+        "quote": "When I was a little girl, I got 'Time' magazine every week, and I wanted my face on the cover, but I've changed a lot since then.",
+        "author": {
+            "name": "Deanna Dunagan",
+            "url": "/quotes/deanna_dunagan_741611"
+        },
+        "topics": [
+            {
+                "name": "Girl",
+                "url": "/topics/girl"
+            },
+            {
+                "name": "Week",
+                "url": "/topics/week"
+            },
+            {
+                "name": "Then",
+                "url": "/topics/then"
+            }
+        ]
+    }
+]

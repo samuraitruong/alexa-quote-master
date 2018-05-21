@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/carol_channing_182025",
+        "quote": "If I talk about something I either talk about it or I DO it... the minute I talk about it it's lost all it's drive and all it's fun.",
+        "author": {
+            "name": "Carol Channing",
+            "url": "/quotes/carol_channing_182025"
+        },
+        "topics": [
+            {
+                "name": "Lost",
+                "url": "/topics/lost"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Either",
+                "url": "/topics/either"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/carol_channing_182024",
+        "quote": "Laughter is much more important than applause. Applause is almost a duty. Laughter is a reward.",
+        "author": {
+            "name": "Carol Channing",
+            "url": "/quotes/carol_channing_182024"
+        },
+        "topics": [
+            {
+                "name": "Important",
+                "url": "/topics/important"
+            },
+            {
+                "name": "Reward",
+                "url": "/topics/reward"
+            },
+            {
+                "name": "Almost",
+                "url": "/topics/almost"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/carol_channing_182026",
+        "quote": "You know, if you're lucky enough to have two smash hit shows, the traffic of the world goes through your dressing room.",
+        "author": {
+            "name": "Carol Channing",
+            "url": "/quotes/carol_channing_182026"
+        },
+        "topics": [
+            {
+                "name": "Lucky",
+                "url": "/topics/lucky"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Goes",
+                "url": "/topics/goes"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/carol_channing_182028",
+        "quote": "There's nothing like Nashville for making records.",
+        "author": {
+            "name": "Carol Channing",
+            "url": "/quotes/carol_channing_182028"
+        },
+        "topics": [
+            {
+                "name": "Nashville",
+                "url": "/topics/nashville"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Making",
+                "url": "/topics/making"
+            }
+        ]
+    }
+]

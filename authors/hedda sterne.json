@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/hedda_sterne_615891",
+        "quote": "For me, cooking is an extension of love.",
+        "author": {
+            "name": "Hedda Sterne",
+            "url": "/quotes/hedda_sterne_615891"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Extension",
+                "url": "/topics/extension"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/hedda_sterne_615888",
+        "quote": "I was not an Abstract Expressionist. Nor was I an Irascible.",
+        "author": {
+            "name": "Hedda Sterne",
+            "url": "/quotes/hedda_sterne_615888"
+        },
+        "topics": [
+            {
+                "name": "Abstract",
+                "url": "/topics/abstract"
+            },
+            {
+                "name": "Nor",
+                "url": "/topics/nor"
+            },
+            {
+                "name": "Expressionist",
+                "url": "/topics/expressionist"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/hedda_sterne_615889",
+        "quote": "I knew I wanted to be an artist at age 5 or 6. I always drew. At 8, I was permitted to study.",
+        "author": {
+            "name": "Hedda Sterne",
+            "url": "/quotes/hedda_sterne_615889"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Study",
+                "url": "/topics/study"
+            },
+            {
+                "name": "Wanted",
+                "url": "/topics/wanted"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/hedda_sterne_615890",
+        "quote": "Artists were always referred to as great artists. I thought that's what the profession was. One word: great-artist. There wasn't one moment in my life when I thought I wanted to be anything else.",
+        "author": {
+            "name": "Hedda Sterne",
+            "url": "/quotes/hedda_sterne_615890"
+        },
+        "topics": [
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Profession",
+                "url": "/topics/profession"
+            }
+        ]
+    }
+]

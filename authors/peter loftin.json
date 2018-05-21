@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/peter_loftin_687082",
+        "quote": "I'm just like any other man. I understand why people become reclusive. One of my weaknesses is that I sometimes allow people in that shouldn't be in my life.",
+        "author": {
+            "name": "Peter Loftin",
+            "url": "/quotes/peter_loftin_687082"
+        },
+        "topics": [
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Allow",
+                "url": "/topics/allow"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/peter_loftin_687083",
+        "quote": "I like being successful. Giving back is just a part of that.",
+        "author": {
+            "name": "Peter Loftin",
+            "url": "/quotes/peter_loftin_687083"
+        },
+        "topics": [
+            {
+                "name": "Back",
+                "url": "/topics/back"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Part",
+                "url": "/topics/part"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/norman_maclean_178338",
+        "quote": "At sunrise everything is luminous but not clear. It is those we live with and love and should know who elude us. You can love completely without complete understanding.",
+        "author": {
+            "name": "Norman Maclean",
+            "url": "/quotes/norman_maclean_178338"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Sunrise",
+                "url": "/topics/sunrise"
+            },
+            {
+                "name": "Clear",
+                "url": "/topics/clear"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/norman_maclean_170411",
+        "quote": "Eventually, all things merge into one, and a river runs through it.",
+        "author": {
+            "name": "Norman Maclean",
+            "url": "/quotes/norman_maclean_170411"
+        },
+        "topics": [
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Things",
+                "url": "/topics/things"
+            },
+            {
+                "name": "Merge",
+                "url": "/topics/merge"
+            }
+        ]
+    }
+]

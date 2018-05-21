@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/george_szell_144587",
+        "quote": "Conductors must give unmistakable and suggestive signals to the orchestra - not choreography to the audience.",
+        "author": {
+            "name": "George Szell",
+            "url": "/quotes/george_szell_144587"
+        },
+        "topics": [
+            {
+                "name": "Audience",
+                "url": "/topics/audience"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            },
+            {
+                "name": "Signals",
+                "url": "/topics/signals"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_szell_332725",
+        "quote": "In music one must think with the heart and feel with the brain.",
+        "author": {
+            "name": "George Szell",
+            "url": "/quotes/george_szell_332725"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Feel",
+                "url": "/topics/feel"
+            }
+        ]
+    }
+]

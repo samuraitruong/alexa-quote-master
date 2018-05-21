@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/greg_moore_405977",
+        "quote": "If you ain't got your black hat, there ain't no use in filling out an application.",
+        "author": {
+            "name": "Greg Moore",
+            "url": "/quotes/greg_moore_405977"
+        },
+        "topics": [
+            {
+                "name": "Application",
+                "url": "/topics/application"
+            },
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            },
+            {
+                "name": "Filling",
+                "url": "/topics/filling"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/greg_moore_405978",
+        "quote": "Obviously the more pucks you get to the net, the more the percentages go up.",
+        "author": {
+            "name": "Greg Moore",
+            "url": "/quotes/greg_moore_405978"
+        },
+        "topics": [
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Go",
+                "url": "/topics/go"
+            },
+            {
+                "name": "Get",
+                "url": "/topics/get"
+            }
+        ]
+    }
+]

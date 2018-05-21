@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/eric_gill_394412",
+        "quote": "Art is skill, that is the first meaning of the word.",
+        "author": {
+            "name": "Eric Gill",
+            "url": "/quotes/eric_gill_394412"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Meaning",
+                "url": "/topics/meaning"
+            },
+            {
+                "name": "Meaning Of",
+                "url": "/topics/meaning_of"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eric_gill_394099",
+        "quote": "Science is analytical, descriptive, informative. Man does not live by bread alone, but by science he attempts to do so. Hence the deadliness of all that is purely scientific.",
+        "author": {
+            "name": "Eric Gill",
+            "url": "/quotes/eric_gill_394099"
+        },
+        "topics": [
+            {
+                "name": "Bread",
+                "url": "/topics/bread"
+            },
+            {
+                "name": "Analytical",
+                "url": "/topics/analytical"
+            },
+            {
+                "name": "Purely",
+                "url": "/topics/purely"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eric_gill_113492",
+        "quote": "Without philosophy man cannot know what he makes; without religion he cannot know why.",
+        "author": {
+            "name": "Eric Gill",
+            "url": "/quotes/eric_gill_113492"
+        },
+        "topics": [
+            {
+                "name": "Know",
+                "url": "/topics/know"
+            },
+            {
+                "name": "Cannot",
+                "url": "/topics/cannot"
+            },
+            {
+                "name": "Makes",
+                "url": "/topics/makes"
+            }
+        ]
+    }
+]

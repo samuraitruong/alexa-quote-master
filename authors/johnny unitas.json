@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/johnny_unitas_160117",
+        "quote": "There is a difference between conceit and confidence. Conceit is bragging about yourself. Confidence means you believe you can get the job done.",
+        "author": {
+            "name": "Johnny Unitas",
+            "url": "/quotes/johnny_unitas_160117"
+        },
+        "topics": [
+            {
+                "name": "Confidence",
+                "url": "/topics/confidence"
+            },
+            {
+                "name": "Means",
+                "url": "/topics/means"
+            },
+            {
+                "name": "Conceit",
+                "url": "/topics/conceit"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/johnny_unitas_160116",
+        "quote": "I always thought I could play pro ball. I had confidence in my ability, You have to. If you don't who will?",
+        "author": {
+            "name": "Johnny Unitas",
+            "url": "/quotes/johnny_unitas_160116"
+        },
+        "topics": [
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/johnny_unitas_160115",
+        "quote": "Conceit is bragging about yourself. Confidence means you believe you can get the job done.",
+        "author": {
+            "name": "Johnny Unitas",
+            "url": "/quotes/johnny_unitas_160115"
+        },
+        "topics": [
+            {
+                "name": "Confidence",
+                "url": "/topics/confidence"
+            },
+            {
+                "name": "Means",
+                "url": "/topics/means"
+            },
+            {
+                "name": "Conceit",
+                "url": "/topics/conceit"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/johnny_unitas_480563",
+        "quote": "Anything I do, I always have a reason for.",
+        "author": {
+            "name": "Johnny Unitas",
+            "url": "/quotes/johnny_unitas_480563"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Reason",
+                "url": "/topics/reason"
+            },
+            {
+                "name": "Anything",
+                "url": "/topics/anything"
+            }
+        ]
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/emmanuel_teney_114246",
+        "quote": "Murder is not the crime of criminals, but that of law-abiding citizens.",
+        "author": {
+            "name": "Emmanuel Teney",
+            "url": "/quotes/emmanuel_teney_114246"
+        },
+        "topics": [
+            {
+                "name": "Crime",
+                "url": "/topics/crime"
+            },
+            {
+                "name": "Criminals",
+                "url": "/topics/criminals"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/emmanuel_teney_105084",
+        "quote": "As your faith is strengthened you will find that there is no longer the need to have a sense of control, that things will flow as they will, and that you will flow with them, to your great delight and benefit.",
+        "author": {
+            "name": "Emmanuel Teney",
+            "url": "/quotes/emmanuel_teney_105084"
+        },
+        "topics": [
+            {
+                "name": "Faith",
+                "url": "/topics/faith"
+            },
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/emmanuel_teney_110232",
+        "quote": "There are no guarantees. From the viewpoint of fear, none are strong enough. From the viewpoint of love, none are necessary.",
+        "author": {
+            "name": "Emmanuel Teney",
+            "url": "/quotes/emmanuel_teney_110232"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Strong",
+                "url": "/topics/strong"
+            },
+            {
+                "name": "Viewpoint",
+                "url": "/topics/viewpoint"
+            }
+        ]
+    }
+]

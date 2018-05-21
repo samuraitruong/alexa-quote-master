@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/carol_ann_susi_558519",
+        "quote": "I don't drive. I live in L.A., but I take the bus. I know, I'm weird!",
+        "author": {
+            "name": "Carol Ann Susi",
+            "url": "/quotes/carol_ann_susi_558519"
+        },
+        "topics": [
+            {
+                "name": "Weird",
+                "url": "/topics/weird"
+            },
+            {
+                "name": "Bus",
+                "url": "/topics/bus"
+            },
+            {
+                "name": "Take",
+                "url": "/topics/take"
+            }
+        ]
+    }
+]

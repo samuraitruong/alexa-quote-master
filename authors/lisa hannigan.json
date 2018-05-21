@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/lisa_hannigan_545657",
+        "quote": "I don't know what to do with myself when it's sunny!",
+        "author": {
+            "name": "Lisa Hannigan",
+            "url": "/quotes/lisa_hannigan_545657"
+        },
+        "topics": [
+            {
+                "name": "Myself",
+                "url": "/topics/myself"
+            },
+            {
+                "name": "Sunny",
+                "url": "/topics/sunny"
+            },
+            {
+                "name": "Know",
+                "url": "/topics/know"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lisa_hannigan_545656",
+        "quote": "If I had all the money in the world, I don't think I'd want to be in the studio for longer.",
+        "author": {
+            "name": "Lisa Hannigan",
+            "url": "/quotes/lisa_hannigan_545656"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Studio",
+                "url": "/topics/studio"
+            },
+            {
+                "name": "Longer",
+                "url": "/topics/longer"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lisa_hannigan_545658",
+        "quote": "It's a particular skill, I think, doing backing vocals. You're blending the vocals between the gaps, between the music.",
+        "author": {
+            "name": "Lisa Hannigan",
+            "url": "/quotes/lisa_hannigan_545658"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lisa_hannigan_545659",
+        "quote": "Stephen Colbert has such a loyal following; I don't know if it's the same with Jay Leno; he really inspires love in people, and there can be a lucky ricochet of that for some people.",
+        "author": {
+            "name": "Lisa Hannigan",
+            "url": "/quotes/lisa_hannigan_545659"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Lucky",
+                "url": "/topics/lucky"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lisa_hannigan_545660",
+        "quote": "I've always been a singer, but I don't know if I was always a natural performer.",
+        "author": {
+            "name": "Lisa Hannigan",
+            "url": "/quotes/lisa_hannigan_545660"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Performer",
+                "url": "/topics/performer"
+            }
+        ]
+    }
+]

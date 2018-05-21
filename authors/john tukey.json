@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/john_tukey_205951",
+        "quote": "An approximate answer to the right problem is worth a good deal more than an exact answer to an approximate problem.",
+        "author": {
+            "name": "John Tukey",
+            "url": "/quotes/john_tukey_205951"
+        },
+        "topics": [
+            {
+                "name": "Problem",
+                "url": "/topics/problem"
+            },
+            {
+                "name": "Deal",
+                "url": "/topics/deal"
+            },
+            {
+                "name": "Good Deal",
+                "url": "/topics/good_deal"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_tukey_205950",
+        "quote": "Far better an approximate answer to the right question, which is often vague, than the exact answer to the wrong question, which can always be made precise.",
+        "author": {
+            "name": "John Tukey",
+            "url": "/quotes/john_tukey_205950"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Vague",
+                "url": "/topics/vague"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_tukey_205949",
+        "quote": "Numerical quantities focus on expected values, graphical summaries on unexpected values.",
+        "author": {
+            "name": "John Tukey",
+            "url": "/quotes/john_tukey_205949"
+        },
+        "topics": [
+            {
+                "name": "Unexpected",
+                "url": "/topics/unexpected"
+            },
+            {
+                "name": "Numerical",
+                "url": "/topics/numerical"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/solomon_schechter_211495",
+        "quote": "You cannot be anything if you want to be everything.",
+        "author": {
+            "name": "Solomon Schechter",
+            "url": "/quotes/solomon_schechter_211495"
+        },
+        "topics": [
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Everything",
+                "url": "/topics/everything"
+            },
+            {
+                "name": "Cannot",
+                "url": "/topics/cannot"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/solomon_schechter_211494",
+        "quote": "By vulgarity I mean that vice of civilization which makes man ashamed of himself and his next of kin, and pretend to be somebody else.",
+        "author": {
+            "name": "Solomon Schechter",
+            "url": "/quotes/solomon_schechter_211494"
+        },
+        "topics": [
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            },
+            {
+                "name": "Ashamed",
+                "url": "/topics/ashamed"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    }
+]

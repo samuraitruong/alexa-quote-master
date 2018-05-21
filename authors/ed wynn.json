@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/ed_wynn_197141",
+        "quote": "A bachelor is a man who never makes the same mistake once.",
+        "author": {
+            "name": "Ed Wynn",
+            "url": "/quotes/ed_wynn_197141"
+        },
+        "topics": [
+            {
+                "name": "Mistake",
+                "url": "/topics/mistake"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Same",
+                "url": "/topics/same"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ed_wynn_197140",
+        "quote": "Every radish I ever pulled up seemed to have a mortgage attached to it.",
+        "author": {
+            "name": "Ed Wynn",
+            "url": "/quotes/ed_wynn_197140"
+        },
+        "topics": [
+            {
+                "name": "Mortgage",
+                "url": "/topics/mortgage"
+            },
+            {
+                "name": "Ever",
+                "url": "/topics/ever"
+            },
+            {
+                "name": "Seemed",
+                "url": "/topics/seemed"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ed_wynn_197139",
+        "quote": "I've found a formula for avoiding these exaggerated fears of age; you take care of every day - let the calendar take care of the years.",
+        "author": {
+            "name": "Ed Wynn",
+            "url": "/quotes/ed_wynn_197139"
+        },
+        "topics": [
+            {
+                "name": "Every Day",
+                "url": "/topics/every_day"
+            },
+            {
+                "name": "Calendar",
+                "url": "/topics/calendar"
+            },
+            {
+                "name": "Years",
+                "url": "/topics/years"
+            }
+        ]
+    }
+]

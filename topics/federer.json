@@ -1,0 +1,492 @@
+[
+    {
+        "url": "/quotes/bjorn_borg_439948?src=t_federer",
+        "quote": "Roger Federer is stylish.",
+        "author": {
+            "name": "Bjorn Borg",
+            "url": "/authors/bjorn_borg"
+        },
+        "topics": [
+            {
+                "name": "Stylish",
+                "url": "/topics/stylish"
+            },
+            {
+                "name": "Roger",
+                "url": "/topics/roger"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/virat_kohli_623238?src=t_federer",
+        "quote": "I love soccer, love tennis... Roger Federer has been a favourite for a long, long time. The kind of consistency he has shown, 16 Grand Slam titles... The way he handles himself in pressure situations is admirable... He is so calm... In soccer, I'm a huge fan of Barcelona... I like watching Cristiano Ronaldo, Lionel Messi and David Villa.",
+        "author": {
+            "name": "Virat Kohli",
+            "url": "/authors/virat_kohli"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Grand Slam",
+                "url": "/topics/grand_slam"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_mcenroe_789857?src=t_federer",
+        "quote": "I just remember watching Federer the first year he won Wimbledon. He was struggling with his back problem. I remember it vividly. It looked like there was a chance he was not going to finish. He had that look in his eye. Then, somehow, he found the wherewithal to dig a little deeper, and suddenly he wins the thing, and he's a different player.",
+        "author": {
+            "name": "John McEnroe",
+            "url": "/authors/john_mcenroe"
+        },
+        "topics": [
+            {
+                "name": "Year",
+                "url": "/topics/year"
+            },
+            {
+                "name": "Dig",
+                "url": "/topics/dig"
+            },
+            {
+                "name": "I Remember",
+                "url": "/topics/i_remember"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ma_long_772687?src=t_federer",
+        "quote": "It was a great privilege for me and my teammates to follow in the footsteps of sporting greats like Roger Federer and Tiger Woods.",
+        "author": {
+            "name": "Ma Long",
+            "url": "/authors/ma_long"
+        },
+        "topics": [
+            {
+                "name": "Woods",
+                "url": "/topics/woods"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Tiger Woods",
+                "url": "/topics/tiger_woods"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_mcenroe_789833?src=t_federer",
+        "quote": "Nadal and Roger Federer have great respect for each other. I think Novak Djokovic gets under those two guys' skin a little bit, and maybe they don't want to admit it, and I think that's, in a way, healthy.",
+        "author": {
+            "name": "John McEnroe",
+            "url": "/authors/john_mcenroe"
+        },
+        "topics": [
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Maybe",
+                "url": "/topics/maybe"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/katie_taylor_773137?src=t_federer",
+        "quote": "I would have loved to have met Roger Federer.",
+        "author": {
+            "name": "Katie Taylor",
+            "url": "/authors/katie_taylor"
+        },
+        "topics": [
+            {
+                "name": "Loved",
+                "url": "/topics/loved"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            },
+            {
+                "name": "Met",
+                "url": "/topics/met"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ana_ivanovic_854492?src=t_federer",
+        "quote": "I admire Roger Federer, not only for his tennis but also for his personality.",
+        "author": {
+            "name": "Ana Ivanovic",
+            "url": "/authors/ana_ivanovic"
+        },
+        "topics": [
+            {
+                "name": "Personality",
+                "url": "/topics/personality"
+            },
+            {
+                "name": "Admire",
+                "url": "/topics/admire"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marat_safin_313254?src=t_federer",
+        "quote": "You can find flaws in Agassi and Sampras, but Federer has none.",
+        "author": {
+            "name": "Marat Safin",
+            "url": "/authors/marat_safin"
+        },
+        "topics": [
+            {
+                "name": "Find",
+                "url": "/topics/find"
+            },
+            {
+                "name": "Flaws",
+                "url": "/topics/flaws"
+            },
+            {
+                "name": "None",
+                "url": "/topics/none"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/wladimir_klitschko_602273?src=t_federer",
+        "quote": "I would say that Roger Federer is pretty amazing. And Manny Pacquiao - he's such a tiny, little lightweight guy, but the way he fights makes people so excited.",
+        "author": {
+            "name": "Wladimir Klitschko",
+            "url": "/authors/wladimir_klitschko"
+        },
+        "topics": [
+            {
+                "name": "Pretty",
+                "url": "/topics/pretty"
+            },
+            {
+                "name": "Excited",
+                "url": "/topics/excited"
+            },
+            {
+                "name": "Fights",
+                "url": "/topics/fights"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/denis_shapovalov_841525?src=t_federer",
+        "quote": "Maybe for a guy like Zverev or Federer, you could say it's open a bit. For a guy like me, every match is tough, and I'm going to have to battle it out.",
+        "author": {
+            "name": "Denis Shapovalov",
+            "url": "/authors/denis_shapovalov"
+        },
+        "topics": [
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Maybe",
+                "url": "/topics/maybe"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/denis_shapovalov_841534?src=t_federer",
+        "quote": "I don't get nervous anymore. The first couple times I met Roger Federer, or Grigor Dimitrov, I was a little nervous. But now, it's more natural.",
+        "author": {
+            "name": "Denis Shapovalov",
+            "url": "/authors/denis_shapovalov"
+        },
+        "topics": [
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Natural",
+                "url": "/topics/natural"
+            },
+            {
+                "name": "Couple",
+                "url": "/topics/couple"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/denis_shapovalov_841535?src=t_federer",
+        "quote": "I can remember watching Federer win Grand Slams on TV when I was a kid trying to put myself in his shoes.",
+        "author": {
+            "name": "Denis Shapovalov",
+            "url": "/authors/denis_shapovalov"
+        },
+        "topics": [
+            {
+                "name": "Kid",
+                "url": "/topics/kid"
+            },
+            {
+                "name": "TV",
+                "url": "/topics/tv"
+            },
+            {
+                "name": "Grand Slams",
+                "url": "/topics/grand_slams"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/saina_nehwal_579943?src=t_federer",
+        "quote": "My hero is Roger Federer.",
+        "author": {
+            "name": "Saina Nehwal",
+            "url": "/authors/saina_nehwal"
+        },
+        "topics": [
+            {
+                "name": "Hero",
+                "url": "/topics/hero"
+            },
+            {
+                "name": "Roger",
+                "url": "/topics/roger"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/juan_diego_florez_753583?src=t_federer",
+        "quote": "When I'm doing sports, I always think of how it's related to singing, and when I watch tennis, I learn a lot for my singing: how the players are focused, how they use their technique, and, in the case of Roger Federer, how effortless it is and how beautiful it is to watch - like bel canto, in a way. That's how singing should be.",
+        "author": {
+            "name": "Juan Diego Florez",
+            "url": "/authors/juan_diego_florez"
+        },
+        "topics": [
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            },
+            {
+                "name": "Technique",
+                "url": "/topics/technique"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/stanislas_wawrinka_597274?src=t_federer",
+        "quote": "I am really close friends with Roger Federer and also with Benoit Paire.",
+        "author": {
+            "name": "Stanislas Wawrinka",
+            "url": "/authors/stanislas_wawrinka"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Close Friends",
+                "url": "/topics/close_friends"
+            },
+            {
+                "name": "Also",
+                "url": "/topics/also"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/stanislas_wawrinka_745495?src=t_federer",
+        "quote": "I am really close friends with Roger Federer and also with Benoit Paire. I'm going out with Benoit to the restaurant for dinner and playing PlayStation with him sometimes.",
+        "author": {
+            "name": "Stanislas Wawrinka",
+            "url": "/authors/stanislas_wawrinka"
+        },
+        "topics": [
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Close Friends",
+                "url": "/topics/close_friends"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henrik_lundqvist_612560?src=t_federer",
+        "quote": "Last time I was starstruck was when I met Roger Federer. He is one of the few athletes that I really look up to - incredibly talented both on and off the track and a great role model for tennis.",
+        "author": {
+            "name": "Henrik Lundqvist",
+            "url": "/authors/henrik_lundqvist"
+        },
+        "topics": [
+            {
+                "name": "Role",
+                "url": "/topics/role"
+            },
+            {
+                "name": "On And Off",
+                "url": "/topics/on_and_off"
+            },
+            {
+                "name": "Roger",
+                "url": "/topics/roger"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/richard_krajicek_329469?src=t_federer",
+        "quote": "Roddick can challenge him as well if he serves big consistently for the entire match. If he does that, then he is tough to break even for a guy like Federer.",
+        "author": {
+            "name": "Richard Krajicek",
+            "url": "/authors/richard_krajicek"
+        },
+        "topics": [
+            {
+                "name": "Break",
+                "url": "/topics/break"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/richard_krajicek_329483?src=t_federer",
+        "quote": "Federer can be the best ever; he has the potential. The only question is whether he has the desire.",
+        "author": {
+            "name": "Richard Krajicek",
+            "url": "/authors/richard_krajicek"
+        },
+        "topics": [
+            {
+                "name": "Desire",
+                "url": "/topics/desire"
+            },
+            {
+                "name": "Question",
+                "url": "/topics/question"
+            },
+            {
+                "name": "Ever",
+                "url": "/topics/ever"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bjorn_borg_443049?src=t_federer",
+        "quote": "You never know how long Federer is going to play, but in my opinion he has at least one or two more grand slams to win. It depends how long he stays motivated. For me, he is the greatest player to ever play the game.",
+        "author": {
+            "name": "Bjorn Borg",
+            "url": "/authors/bjorn_borg"
+        },
+        "topics": [
+            {
+                "name": "Game",
+                "url": "/topics/game"
+            },
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "In My Opinion",
+                "url": "/topics/in_my_opinion"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/doug_davidson_434887?src=t_federer",
+        "quote": "My favorite tennis player, who I'm amazed by, is Roger Federer.",
+        "author": {
+            "name": "Doug Davidson",
+            "url": "/authors/doug_davidson"
+        },
+        "topics": [
+            {
+                "name": "Amazed",
+                "url": "/topics/amazed"
+            },
+            {
+                "name": "Tennis Player",
+                "url": "/topics/tennis_player"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brad_gilbert_420395?src=t_federer",
+        "quote": "I remember Agassi playing Federer in Basel, Switzerland in 1998, and Andre was already saying at that time that Federer would be tough. Usually at the time players are 17, you can see if they will be great.",
+        "author": {
+            "name": "Brad Gilbert",
+            "url": "/authors/brad_gilbert"
+        },
+        "topics": [
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "I Remember",
+                "url": "/topics/i_remember"
+            },
+            {
+                "name": "Andre",
+                "url": "/topics/andre"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marco_chiudinelli_510312?src=t_federer",
+        "quote": "I think almost every player has a few very good friends on tour. Mine are: Yves Allegro, Roger Federer, Michael Lammer, and Ivo Klec.",
+        "author": {
+            "name": "Marco Chiudinelli",
+            "url": "/authors/marco_chiudinelli"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Mine",
+                "url": "/topics/mine"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    }
+]

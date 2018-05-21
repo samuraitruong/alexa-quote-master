@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/erik_satie_401184",
+        "quote": "When I was young, I was told: 'You'll see, when you're fifty.' I am fifty and I haven't seen a thing.",
+        "author": {
+            "name": "Erik Satie",
+            "url": "/quotes/erik_satie_401184"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Young",
+                "url": "/topics/young"
+            },
+            {
+                "name": "See",
+                "url": "/topics/see"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/erik_satie_403292",
+        "quote": "The musician is perhaps the most modest of animals, but he is also the proudest. It is he who invented the sublime art of ruining poetry.",
+        "author": {
+            "name": "Erik Satie",
+            "url": "/quotes/erik_satie_403292"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Modest",
+                "url": "/topics/modest"
+            },
+            {
+                "name": "Also",
+                "url": "/topics/also"
+            }
+        ]
+    }
+]

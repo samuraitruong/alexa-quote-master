@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/jamie_murray_751158",
+        "quote": "I love my life. I'm very fortunate for the opportunities that I have and whatever, but I haven't got to the level where people are interested in where I walk my dog or anything like that, which is fine by me.",
+        "author": {
+            "name": "Jamie Murray",
+            "url": "/quotes/jamie_murray_751158"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jamie_murray_751159",
+        "quote": "I'd love to win Wimbledon.",
+        "author": {
+            "name": "Jamie Murray",
+            "url": "/quotes/jamie_murray_751159"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Win",
+                "url": "/topics/win"
+            },
+            {
+                "name": "Wimbledon",
+                "url": "/topics/wimbledon"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jamie_murray_751160",
+        "quote": "My career's had a lot of ups and downs. Once I started playing with John Peers in 2013, that gave me a huge lift, a lot of direction, which I needed.",
+        "author": {
+            "name": "Jamie Murray",
+            "url": "/quotes/jamie_murray_751160"
+        },
+        "topics": [
+            {
+                "name": "Career",
+                "url": "/topics/career"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Downs",
+                "url": "/topics/downs"
+            }
+        ]
+    }
+]

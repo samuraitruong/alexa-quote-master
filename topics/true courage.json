@@ -1,0 +1,178 @@
+[
+    {
+        "url": "/quotes/john_petitsenn_159524?src=t_true_courage",
+        "quote": "True courage is like a kite; a contrary wind raises it higher.",
+        "author": {
+            "name": "John Petit-Senn",
+            "url": "/authors/john_petitsenn"
+        },
+        "topics": [
+            {
+                "name": "True",
+                "url": "/topics/true"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Raises",
+                "url": "/topics/raises"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/norman_schwarzkopf_455010?src=t_true_courage",
+        "quote": "True courage is being afraid, and going ahead and doing your job anyhow, that's what courage is.",
+        "author": {
+            "name": "Norman Schwarzkopf",
+            "url": "/authors/norman_schwarzkopf"
+        },
+        "topics": [
+            {
+                "name": "Courage",
+                "url": "/topics/courage"
+            },
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_freeman_clarke_158410?src=t_true_courage",
+        "quote": "Conscience is the root of all true courage; if a man would be brave let him obey his conscience.",
+        "author": {
+            "name": "James Freeman Clarke",
+            "url": "/authors/james_freeman_clarke"
+        },
+        "topics": [
+            {
+                "name": "Courage",
+                "url": "/topics/courage"
+            },
+            {
+                "name": "Him",
+                "url": "/topics/him"
+            },
+            {
+                "name": "Conscience",
+                "url": "/topics/conscience"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alexander_the_great_802534?src=t_true_courage",
+        "quote": "I wish that the Indians believed me a god, for upon the report of an enemy's valor oftentimes depends the success of a battle, and false reports have many times done as great things as true courage and resolution.",
+        "author": {
+            "name": "Alexander the Great",
+            "url": "/authors/alexander_the_great"
+        },
+        "topics": [
+            {
+                "name": "Enemy",
+                "url": "/topics/enemy"
+            },
+            {
+                "name": "Reports",
+                "url": "/topics/reports"
+            },
+            {
+                "name": "Resolution",
+                "url": "/topics/resolution"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alfred_north_whitehead_104735?src=t_true_courage",
+        "quote": "True courage is not the brutal force of vulgar heroes, but the firm resolve of virtue and reason.",
+        "author": {
+            "name": "Alfred North Whitehead",
+            "url": "/authors/alfred_north_whitehead"
+        },
+        "topics": [
+            {
+                "name": "Courage",
+                "url": "/topics/courage"
+            },
+            {
+                "name": "Reason",
+                "url": "/topics/reason"
+            },
+            {
+                "name": "Firm",
+                "url": "/topics/firm"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/michel_de_montaigne_158053?src=t_true_courage",
+        "quote": "The strangest, most generous, and proudest of all virtues is true courage.",
+        "author": {
+            "name": "Michel de Montaigne",
+            "url": "/authors/michel_de_montaigne"
+        },
+        "topics": [
+            {
+                "name": "Virtues",
+                "url": "/topics/virtues"
+            },
+            {
+                "name": "Generous",
+                "url": "/topics/generous"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jeremy_collier_158531?src=t_true_courage",
+        "quote": "True courage is a result of reasoning. A brave mind is always impregnable.",
+        "author": {
+            "name": "Jeremy Collier",
+            "url": "/authors/jeremy_collier"
+        },
+        "topics": [
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Result",
+                "url": "/topics/result"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/hill_harper_607125?src=t_true_courage",
+        "quote": "The word 'courage,' one of my favorite words, the root or the etymology of that word is 'cour,' which means heart. I think true courage is actually following your heart and not getting or succumbing to what other people's definition of what your life should be. Live your life.",
+        "author": {
+            "name": "Hill Harper",
+            "url": "/authors/hill_harper"
+        },
+        "topics": [
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Your",
+                "url": "/topics/your"
+            }
+        ]
+    }
+]

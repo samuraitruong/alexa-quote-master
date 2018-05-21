@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/anastacia_426730",
+        "quote": "I wear glasses, have a big scar, I sing loud, and I am blond. I'm sorry!",
+        "author": {
+            "name": "Anastacia",
+            "url": "/quotes/anastacia_426730"
+        },
+        "topics": [
+            {
+                "name": "Glasses",
+                "url": "/topics/glasses"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Loud",
+                "url": "/topics/loud"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/anastacia_178170",
+        "quote": "I live a very real life.",
+        "author": {
+            "name": "Anastacia",
+            "url": "/quotes/anastacia_178170"
+        },
+        "topics": [
+            {
+                "name": "Real",
+                "url": "/topics/real"
+            },
+            {
+                "name": "Real Life",
+                "url": "/topics/real_life"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/anastacia_178171",
+        "quote": "Once someone asked me three words that best describe me and I said 'Loud, Louder, and Loudest'!",
+        "author": {
+            "name": "Anastacia",
+            "url": "/quotes/anastacia_178171"
+        },
+        "topics": [
+            {
+                "name": "Words",
+                "url": "/topics/words"
+            },
+            {
+                "name": "Loud",
+                "url": "/topics/loud"
+            },
+            {
+                "name": "Louder",
+                "url": "/topics/louder"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/anastacia_394550",
+        "quote": "To make a difference is just... I think... the purpose of what life is.",
+        "author": {
+            "name": "Anastacia",
+            "url": "/quotes/anastacia_394550"
+        },
+        "topics": [
+            {
+                "name": "Purpose",
+                "url": "/topics/purpose"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/anastacia_426728",
+        "quote": "I'm a fighter by nature and nothing will ever change that.",
+        "author": {
+            "name": "Anastacia",
+            "url": "/quotes/anastacia_426728"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Ever",
+                "url": "/topics/ever"
+            }
+        ]
+    }
+]

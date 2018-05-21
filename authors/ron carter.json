@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/ron_carter_406757",
+        "quote": "I am from the planet of elegance.",
+        "author": {
+            "name": "Ron Carter",
+            "url": "/quotes/ron_carter_406757"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Elegance",
+                "url": "/topics/elegance"
+            },
+            {
+                "name": "Planet",
+                "url": "/topics/planet"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ron_carter_187563",
+        "quote": "A good bassist determines the direction of any band.",
+        "author": {
+            "name": "Ron Carter",
+            "url": "/quotes/ron_carter_187563"
+        },
+        "topics": [
+            {
+                "name": "Band",
+                "url": "/topics/band"
+            },
+            {
+                "name": "Determines",
+                "url": "/topics/determines"
+            },
+            {
+                "name": "Bassist",
+                "url": "/topics/bassist"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ron_carter_187562",
+        "quote": "I felt a responsibility to present a viable alternative to the popular electric sound.",
+        "author": {
+            "name": "Ron Carter",
+            "url": "/quotes/ron_carter_187562"
+        },
+        "topics": [
+            {
+                "name": "Responsibility",
+                "url": "/topics/responsibility"
+            },
+            {
+                "name": "Electric",
+                "url": "/topics/electric"
+            }
+        ]
+    }
+]

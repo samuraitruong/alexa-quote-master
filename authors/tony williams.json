@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/tony_williams_234709",
+        "quote": "Drummers don't write - or at least, that's what everybody believes.",
+        "author": {
+            "name": "Tony Williams",
+            "url": "/quotes/tony_williams_234709"
+        },
+        "topics": [
+            {
+                "name": "Everybody",
+                "url": "/topics/everybody"
+            },
+            {
+                "name": "Believes",
+                "url": "/topics/believes"
+            },
+            {
+                "name": "Least",
+                "url": "/topics/least"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tony_williams_234710",
+        "quote": "I've studied all my musical life, but learning is only good if you do something constructive with it.",
+        "author": {
+            "name": "Tony Williams",
+            "url": "/quotes/tony_williams_234710"
+        },
+        "topics": [
+            {
+                "name": "Learning",
+                "url": "/topics/learning"
+            },
+            {
+                "name": "Musical",
+                "url": "/topics/musical"
+            },
+            {
+                "name": "Studied",
+                "url": "/topics/studied"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tony_williams_234715",
+        "quote": "I think my playing has been orchestral throughout the years, and this is another way of expressing that. But I primarily see it as the ultimate accomplishment of a musician. Composing makes me feel like I've finally gotten all the way up the ladder as a musician.",
+        "author": {
+            "name": "Tony Williams",
+            "url": "/quotes/tony_williams_234715"
+        },
+        "topics": [
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Gotten",
+                "url": "/topics/gotten"
+            }
+        ]
+    }
+]

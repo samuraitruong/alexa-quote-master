@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/john_berry_194634",
+        "quote": "The bird of paradise alights only upon the hand that does not grasp.",
+        "author": {
+            "name": "John Berry",
+            "url": "/quotes/john_berry_194634"
+        },
+        "topics": [
+            {
+                "name": "Bird",
+                "url": "/topics/bird"
+            },
+            {
+                "name": "Grasp",
+                "url": "/topics/grasp"
+            },
+            {
+                "name": "Does",
+                "url": "/topics/does"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_berry_194633",
+        "quote": "If your library is not 'unsafe', it probably isn't doing its job.",
+        "author": {
+            "name": "John Berry",
+            "url": "/quotes/john_berry_194633"
+        },
+        "topics": [
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Library",
+                "url": "/topics/library"
+            },
+            {
+                "name": "Your",
+                "url": "/topics/your"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_berry_194635",
+        "quote": "A good idea plus capable men cannot fail; it is better than money in the bank.",
+        "author": {
+            "name": "John Berry",
+            "url": "/quotes/john_berry_194635"
+        },
+        "topics": [
+            {
+                "name": "Better",
+                "url": "/topics/better"
+            },
+            {
+                "name": "Bank",
+                "url": "/topics/bank"
+            },
+            {
+                "name": "Fail",
+                "url": "/topics/fail"
+            }
+        ]
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/harlan_howard_171024",
+        "quote": "Country music is three chords and the truth.",
+        "author": {
+            "name": "Harlan Howard",
+            "url": "/quotes/harlan_howard_171024"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "Truth",
+                "url": "/topics/truth"
+            },
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/harlan_howard_388438",
+        "quote": "I take a whole life story and compress it into three minutes.",
+        "author": {
+            "name": "Harlan Howard",
+            "url": "/quotes/harlan_howard_388438"
+        },
+        "topics": [
+            {
+                "name": "Life Story",
+                "url": "/topics/life_story"
+            },
+            {
+                "name": "Take",
+                "url": "/topics/take"
+            },
+            {
+                "name": "Compress",
+                "url": "/topics/compress"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/harlan_howard_379374",
+        "quote": "I'm always collecting emotions for future reference.",
+        "author": {
+            "name": "Harlan Howard",
+            "url": "/quotes/harlan_howard_379374"
+        },
+        "topics": [
+            {
+                "name": "Emotions",
+                "url": "/topics/emotions"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Reference",
+                "url": "/topics/reference"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/harlan_howard_278168",
+        "quote": "A lot of songs you write are just for exercise - just pencil sharpeners.",
+        "author": {
+            "name": "Harlan Howard",
+            "url": "/quotes/harlan_howard_278168"
+        },
+        "topics": [
+            {
+                "name": "Exercise",
+                "url": "/topics/exercise"
+            },
+            {
+                "name": "Lot",
+                "url": "/topics/lot"
+            },
+            {
+                "name": "Songs",
+                "url": "/topics/songs"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/harlan_howard_380042",
+        "quote": "Work is both my living and my pleasure.",
+        "author": {
+            "name": "Harlan Howard",
+            "url": "/quotes/harlan_howard_380042"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Pleasure",
+                "url": "/topics/pleasure"
+            },
+            {
+                "name": "Living",
+                "url": "/topics/living"
+            }
+        ]
+    }
+]

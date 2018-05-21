@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/stephen_douglas_190131",
+        "quote": "There are only two sides to this question. Every man must be for the United States or against it. There can be no neutrals in this war; only patriots and traitors.",
+        "author": {
+            "name": "Stephen Douglas",
+            "url": "/quotes/stephen_douglas_190131"
+        },
+        "topics": [
+            {
+                "name": "Question",
+                "url": "/topics/question"
+            },
+            {
+                "name": "United States",
+                "url": "/topics/united_states"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/stephen_douglas_190130",
+        "quote": "Slavery is not the only question which comes up in this controversy. There is a far more important one to you, and that is, what shall be done with the free negro?",
+        "author": {
+            "name": "Stephen Douglas",
+            "url": "/quotes/stephen_douglas_190130"
+        },
+        "topics": [
+            {
+                "name": "Question",
+                "url": "/topics/question"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    }
+]

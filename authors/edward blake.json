@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/edward_blake_199279",
+        "quote": "I fear the carnival of crime is beginning on our border.",
+        "author": {
+            "name": "Edward Blake",
+            "url": "/quotes/edward_blake_199279"
+        },
+        "topics": [
+            {
+                "name": "Beginning",
+                "url": "/topics/beginning"
+            },
+            {
+                "name": "Border",
+                "url": "/topics/border"
+            },
+            {
+                "name": "Carnival",
+                "url": "/topics/carnival"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edward_blake_199282",
+        "quote": "The accumulation of personal wealth and the extension of commercial transactions have developed a great and lamentable increase in certain classes of crimes, while the improvements in transport have largely facilitated the escape of fugitive criminals.",
+        "author": {
+            "name": "Edward Blake",
+            "url": "/quotes/edward_blake_199282"
+        },
+        "topics": [
+            {
+                "name": "Wealth",
+                "url": "/topics/wealth"
+            },
+            {
+                "name": "Extension",
+                "url": "/topics/extension"
+            },
+            {
+                "name": "Crimes",
+                "url": "/topics/crimes"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edward_blake_199278",
+        "quote": "As far as I can judge, not much good can be done without disturbing something or somebody.",
+        "author": {
+            "name": "Edward Blake",
+            "url": "/quotes/edward_blake_199278"
+        },
+        "topics": [
+            {
+                "name": "Disturbing",
+                "url": "/topics/disturbing"
+            },
+            {
+                "name": "As Far As",
+                "url": "/topics/as_far_as"
+            },
+            {
+                "name": "Far",
+                "url": "/topics/far"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edward_blake_199280",
+        "quote": "I may err in judgment, but I hope not in intention.",
+        "author": {
+            "name": "Edward Blake",
+            "url": "/quotes/edward_blake_199280"
+        },
+        "topics": [
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Judgment",
+                "url": "/topics/judgment"
+            },
+            {
+                "name": "Err",
+                "url": "/topics/err"
+            }
+        ]
+    }
+]

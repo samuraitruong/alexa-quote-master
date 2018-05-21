@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/alexander_volkov_185188",
+        "quote": "Your journey never ends. Life has a way of changing things in incredible ways.",
+        "author": {
+            "name": "Alexander Volkov",
+            "url": "/quotes/alexander_volkov_185188"
+        },
+        "topics": [
+            {
+                "name": "Journey",
+                "url": "/topics/journey"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Ways",
+                "url": "/topics/ways"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alexander_volkov_185186",
+        "quote": "There is no greater mystery to me than that of light traveling through darkness.",
+        "author": {
+            "name": "Alexander Volkov",
+            "url": "/quotes/alexander_volkov_185186"
+        },
+        "topics": [
+            {
+                "name": "Light",
+                "url": "/topics/light"
+            },
+            {
+                "name": "Mystery",
+                "url": "/topics/mystery"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alexander_volkov_185187",
+        "quote": "We really teach ourselves. If you want to learn, you will always find someone to learn from, be they dead or alive, great or unknown. You learn from everything you see and hear around you - if you are willing to pay attention.",
+        "author": {
+            "name": "Alexander Volkov",
+            "url": "/quotes/alexander_volkov_185187"
+        },
+        "topics": [
+            {
+                "name": "Alive",
+                "url": "/topics/alive"
+            },
+            {
+                "name": "Dead",
+                "url": "/topics/dead"
+            },
+            {
+                "name": "Willing",
+                "url": "/topics/willing"
+            }
+        ]
+    }
+]

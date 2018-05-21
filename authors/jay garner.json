@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/jay_garner_234141",
+        "quote": "We ought to be beating our chests every day. We ought to look in the mirror, stick out our chests, suck in our bellies, and say, 'Damn, we're Americans,' and smile.",
+        "author": {
+            "name": "Jay Garner",
+            "url": "/quotes/jay_garner_234141"
+        },
+        "topics": [
+            {
+                "name": "Mirror",
+                "url": "/topics/mirror"
+            },
+            {
+                "name": "Every Day",
+                "url": "/topics/every_day"
+            },
+            {
+                "name": "Beating",
+                "url": "/topics/beating"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jay_garner_381500",
+        "quote": "I think the day you start building the war plan is the day you start beginning the postwar plan.",
+        "author": {
+            "name": "Jay Garner",
+            "url": "/quotes/jay_garner_381500"
+        },
+        "topics": [
+            {
+                "name": "Beginning",
+                "url": "/topics/beginning"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    }
+]

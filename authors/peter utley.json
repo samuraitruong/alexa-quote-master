@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/peter_utley_112426",
+        "quote": "We never search for scandal, but we use it if it cries out to excess.",
+        "author": {
+            "name": "Peter Utley",
+            "url": "/quotes/peter_utley_112426"
+        },
+        "topics": [
+            {
+                "name": "Search",
+                "url": "/topics/search"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Cries",
+                "url": "/topics/cries"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/peter_utley_112425",
+        "quote": "An obituary should be an exercise in contemporary history, not a funeral oration.",
+        "author": {
+            "name": "Peter Utley",
+            "url": "/quotes/peter_utley_112425"
+        },
+        "topics": [
+            {
+                "name": "Funeral",
+                "url": "/topics/funeral"
+            },
+            {
+                "name": "Contemporary",
+                "url": "/topics/contemporary"
+            }
+        ]
+    }
+]

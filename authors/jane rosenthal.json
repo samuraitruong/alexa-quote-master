@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/jane_rosenthal_553050",
+        "quote": "I have a talent for dealing with difficult men.",
+        "author": {
+            "name": "Jane Rosenthal",
+            "url": "/quotes/jane_rosenthal_553050"
+        },
+        "topics": [
+            {
+                "name": "Talent",
+                "url": "/topics/talent"
+            },
+            {
+                "name": "Men",
+                "url": "/topics/men"
+            },
+            {
+                "name": "Dealing",
+                "url": "/topics/dealing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jane_rosenthal_553051",
+        "quote": "In another life, I could be a personal shopper.",
+        "author": {
+            "name": "Jane Rosenthal",
+            "url": "/quotes/jane_rosenthal_553051"
+        },
+        "topics": [
+            {
+                "name": "Personal",
+                "url": "/topics/personal"
+            },
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            },
+            {
+                "name": "Another",
+                "url": "/topics/another"
+            }
+        ]
+    }
+]

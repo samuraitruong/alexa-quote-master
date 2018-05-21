@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/gustav_stickley_347081",
+        "quote": "There are elements of intrinsic beauty in the simplification of a house built on the log cabin idea.",
+        "author": {
+            "name": "Gustav Stickley",
+            "url": "/quotes/gustav_stickley_347081"
+        },
+        "topics": [
+            {
+                "name": "Beauty",
+                "url": "/topics/beauty"
+            },
+            {
+                "name": "Built",
+                "url": "/topics/built"
+            },
+            {
+                "name": "Log",
+                "url": "/topics/log"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gustav_stickley_347082",
+        "quote": "The quiet rhythmic monotone of the wall of logs fills one with the rustic peace of a secluded nook in the woods.",
+        "author": {
+            "name": "Gustav Stickley",
+            "url": "/quotes/gustav_stickley_347082"
+        },
+        "topics": [
+            {
+                "name": "Peace",
+                "url": "/topics/peace"
+            },
+            {
+                "name": "Woods",
+                "url": "/topics/woods"
+            },
+            {
+                "name": "Rustic",
+                "url": "/topics/rustic"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gustav_stickley_350505",
+        "quote": "First, there is the bare beauty of the logs themselves with their long lines and firm curves. Then there is the open charm felt of the structural features which are not hidden under plaster and ornament, but are clearly revealed, a charm felt in Japanese architecture.",
+        "author": {
+            "name": "Gustav Stickley",
+            "url": "/quotes/gustav_stickley_350505"
+        },
+        "topics": [
+            {
+                "name": "Beauty",
+                "url": "/topics/beauty"
+            },
+            {
+                "name": "Hidden",
+                "url": "/topics/hidden"
+            },
+            {
+                "name": "Clearly",
+                "url": "/topics/clearly"
+            }
+        ]
+    }
+]

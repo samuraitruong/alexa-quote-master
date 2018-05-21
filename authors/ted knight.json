@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/ted_knight_180802",
+        "quote": "There are ogres and black beasts out there; you have to be constantly on guard.",
+        "author": {
+            "name": "Ted Knight",
+            "url": "/quotes/ted_knight_180802"
+        },
+        "topics": [
+            {
+                "name": "Black",
+                "url": "/topics/black"
+            },
+            {
+                "name": "Beasts",
+                "url": "/topics/beasts"
+            },
+            {
+                "name": "Guard",
+                "url": "/topics/guard"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ted_knight_180799",
+        "quote": "Of course I could have retired anytime. But retiring would drive me crazy.",
+        "author": {
+            "name": "Ted Knight",
+            "url": "/quotes/ted_knight_180799"
+        },
+        "topics": [
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            },
+            {
+                "name": "Retiring",
+                "url": "/topics/retiring"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            }
+        ]
+    }
+]

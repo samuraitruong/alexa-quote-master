@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/jerry_herman_212506",
+        "quote": "I'm trying to bring a new generation into the musical theater and to create a new audience.",
+        "author": {
+            "name": "Jerry Herman",
+            "url": "/quotes/jerry_herman_212506"
+        },
+        "topics": [
+            {
+                "name": "Generation",
+                "url": "/topics/generation"
+            },
+            {
+                "name": "Audience",
+                "url": "/topics/audience"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jerry_herman_212508",
+        "quote": "I don't want the kind of theater that I love and grew up seeing to die out.",
+        "author": {
+            "name": "Jerry Herman",
+            "url": "/quotes/jerry_herman_212508"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Die",
+                "url": "/topics/die"
+            },
+            {
+                "name": "I Love",
+                "url": "/topics/i_love"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jerry_herman_394160",
+        "quote": "I have a lot of friends who get up most mornings and go to jobs they absolutely hate. I don't think that's what life is about and I'm so fortunate that I actually love what I do.",
+        "author": {
+            "name": "Jerry Herman",
+            "url": "/quotes/jerry_herman_394160"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Jobs",
+                "url": "/topics/jobs"
+            }
+        ]
+    }
+]

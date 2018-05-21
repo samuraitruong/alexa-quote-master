@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/spencer_dryden_177887",
+        "quote": "I kept going to different colleges, but dropped out.",
+        "author": {
+            "name": "Spencer Dryden",
+            "url": "/quotes/spencer_dryden_177887"
+        },
+        "topics": [
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Colleges",
+                "url": "/topics/colleges"
+            },
+            {
+                "name": "Dropped",
+                "url": "/topics/dropped"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/spencer_dryden_177888",
+        "quote": "I was constantly being around artists and Bohemian types.",
+        "author": {
+            "name": "Spencer Dryden",
+            "url": "/quotes/spencer_dryden_177888"
+        },
+        "topics": [
+            {
+                "name": "Bohemian",
+                "url": "/topics/bohemian"
+            },
+            {
+                "name": "Types",
+                "url": "/topics/types"
+            },
+            {
+                "name": "Artists",
+                "url": "/topics/artists"
+            }
+        ]
+    }
+]

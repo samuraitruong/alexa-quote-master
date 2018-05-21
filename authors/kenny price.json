@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/kenny_price_760212",
+        "quote": "Businessmen and corporate men watch 'Hee Haw.' With that kind of audience, how can they take it off?",
+        "author": {
+            "name": "Kenny Price",
+            "url": "/quotes/kenny_price_760212"
+        },
+        "topics": [
+            {
+                "name": "Take",
+                "url": "/topics/take"
+            },
+            {
+                "name": "Businessmen",
+                "url": "/topics/businessmen"
+            },
+            {
+                "name": "How",
+                "url": "/topics/how"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kenny_price_760213",
+        "quote": "All I thought about when I was a kid was getting my guitar and entertaining people.",
+        "author": {
+            "name": "Kenny Price",
+            "url": "/quotes/kenny_price_760213"
+        },
+        "topics": [
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Kid",
+                "url": "/topics/kid"
+            },
+            {
+                "name": "Getting",
+                "url": "/topics/getting"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kenny_price_760214",
+        "quote": "'Hee Haw' began about the same time as 'Laugh-In,' but the difference was that the material on 'Laugh-In' was more sophisticated: people looked out windows. On 'Hee Haw,' they look out of cornfields.",
+        "author": {
+            "name": "Kenny Price",
+            "url": "/quotes/kenny_price_760214"
+        },
+        "topics": [
+            {
+                "name": "Sophisticated",
+                "url": "/topics/sophisticated"
+            },
+            {
+                "name": "Began",
+                "url": "/topics/began"
+            },
+            {
+                "name": "Looked",
+                "url": "/topics/looked"
+            }
+        ]
+    }
+]

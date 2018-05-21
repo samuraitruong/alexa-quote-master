@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/jeanpaul_marat_329305",
+        "quote": "Five or six hundred heads cut off would have assured your repose, freedom and happiness.",
+        "author": {
+            "name": "Jean-Paul Marat",
+            "url": "/quotes/jeanpaul_marat_329305"
+        },
+        "topics": [
+            {
+                "name": "Cut",
+                "url": "/topics/cut"
+            },
+            {
+                "name": "Six",
+                "url": "/topics/six"
+            },
+            {
+                "name": "Hundred",
+                "url": "/topics/hundred"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jeanpaul_marat_329306",
+        "quote": "God has always been hard on the poor.",
+        "author": {
+            "name": "Jean-Paul Marat",
+            "url": "/quotes/jeanpaul_marat_329306"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Poor",
+                "url": "/topics/poor"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    }
+]

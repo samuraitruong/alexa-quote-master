@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/jack_schmitt_288197",
+        "quote": "It's like trying to describe what you feel when you're standing on the rim of the Grand Canyon or remembering your first love or the birth of your child. You have to be there to really know what it's like.",
+        "author": {
+            "name": "Jack Schmitt",
+            "url": "/quotes/jack_schmitt_288197"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Your Child",
+                "url": "/topics/your_child"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jack_schmitt_288196",
+        "quote": "But I don't think we'll go there until we go back to the moon and develop a technology base for living and working and transporting ourselves through space.",
+        "author": {
+            "name": "Jack Schmitt",
+            "url": "/quotes/jack_schmitt_288196"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Transporting",
+                "url": "/topics/transporting"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jack_schmitt_288195",
+        "quote": "It's great that people are interested in Mars.",
+        "author": {
+            "name": "Jack Schmitt",
+            "url": "/quotes/jack_schmitt_288195"
+        },
+        "topics": [
+            {
+                "name": "Great",
+                "url": "/topics/great"
+            },
+            {
+                "name": "Mars",
+                "url": "/topics/mars"
+            },
+            {
+                "name": "Interested",
+                "url": "/topics/interested"
+            }
+        ]
+    }
+]

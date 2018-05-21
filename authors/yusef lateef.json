@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/yusef_lateef_184933",
+        "quote": "When the soul looks out of its body, it should see only beauty in its path. These are the sights we must hold in mind, in order to move to a higher place.",
+        "author": {
+            "name": "Yusef Lateef",
+            "url": "/quotes/yusef_lateef_184933"
+        },
+        "topics": [
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Move",
+                "url": "/topics/move"
+            },
+            {
+                "name": "Sights",
+                "url": "/topics/sights"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/yusef_lateef_184931",
+        "quote": "My music is jazz.",
+        "author": {
+            "name": "Yusef Lateef",
+            "url": "/quotes/yusef_lateef_184931"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "Jazz",
+                "url": "/topics/jazz"
+            }
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/harry_lorayne_177121",
+        "quote": "Curiosity killed the cat, but where human beings are concerned, the only thing a healthy curiosity can kill is ignorance.",
+        "author": {
+            "name": "Harry Lorayne",
+            "url": "/quotes/harry_lorayne_177121"
+        },
+        "topics": [
+            {
+                "name": "Curiosity",
+                "url": "/topics/curiosity"
+            },
+            {
+                "name": "Concerned",
+                "url": "/topics/concerned"
+            },
+            {
+                "name": "Beings",
+                "url": "/topics/beings"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/harry_lorayne_172805",
+        "quote": "Thinking clearly and effectively is the greatest asset of any human being.",
+        "author": {
+            "name": "Harry Lorayne",
+            "url": "/quotes/harry_lorayne_172805"
+        },
+        "topics": [
+            {
+                "name": "Human Being",
+                "url": "/topics/human_being"
+            },
+            {
+                "name": "Effectively",
+                "url": "/topics/effectively"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/gary_william_flake_555282",
+        "quote": "I knew, always, what I wanted to be. Even before I had my first computer, I wanted to be a computer scientist.",
+        "author": {
+            "name": "Gary William Flake",
+            "url": "/quotes/gary_william_flake_555282"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Computer",
+                "url": "/topics/computer"
+            },
+            {
+                "name": "Wanted",
+                "url": "/topics/wanted"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gary_william_flake_555283",
+        "quote": "I like change, and I like being in the middle of change.",
+        "author": {
+            "name": "Gary William Flake",
+            "url": "/quotes/gary_william_flake_555283"
+        },
+        "topics": [
+            {
+                "name": "Change",
+                "url": "/topics/change"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Middle",
+                "url": "/topics/middle"
+            }
+        ]
+    }
+]

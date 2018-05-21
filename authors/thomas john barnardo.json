@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/thomas_john_barnardo_311545",
+        "quote": "There can be only one Captain to a ship.",
+        "author": {
+            "name": "Thomas John Barnardo",
+            "url": "/quotes/thomas_john_barnardo_311545"
+        },
+        "topics": [
+            {
+                "name": "Ship",
+                "url": "/topics/ship"
+            },
+            {
+                "name": "Captain",
+                "url": "/topics/captain"
+            },
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_john_barnardo_311540",
+        "quote": "Character is better than ancestry, and personal conduct is of more importance than the highest.",
+        "author": {
+            "name": "Thomas John Barnardo",
+            "url": "/quotes/thomas_john_barnardo_311540"
+        },
+        "topics": [
+            {
+                "name": "Character",
+                "url": "/topics/character"
+            },
+            {
+                "name": "Better",
+                "url": "/topics/better"
+            },
+            {
+                "name": "Ancestry",
+                "url": "/topics/ancestry"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_john_barnardo_311544",
+        "quote": "The work to me is everything, and I would throw every rule overboard and send them to the bottom of the sea tomorrow, if I felt there were a more excellent way.",
+        "author": {
+            "name": "Thomas John Barnardo",
+            "url": "/quotes/thomas_john_barnardo_311544"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Excellent",
+                "url": "/topics/excellent"
+            },
+            {
+                "name": "Bottom",
+                "url": "/topics/bottom"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_john_barnardo_311543",
+        "quote": "Only disaster can follow divided counsels and opposing wills.",
+        "author": {
+            "name": "Thomas John Barnardo",
+            "url": "/quotes/thomas_john_barnardo_311543"
+        },
+        "topics": [
+            {
+                "name": "Divided",
+                "url": "/topics/divided"
+            },
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            },
+            {
+                "name": "Opposing",
+                "url": "/topics/opposing"
+            }
+        ]
+    }
+]

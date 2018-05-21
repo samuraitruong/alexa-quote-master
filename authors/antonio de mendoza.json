@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/antonio_de_mendoza_185764",
+        "quote": "Liberty means responsibility. That's why most men dread it.",
+        "author": {
+            "name": "Antonio de Mendoza",
+            "url": "/quotes/antonio_de_mendoza_185764"
+        },
+        "topics": [
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "Liberty",
+                "url": "/topics/liberty"
+            },
+            {
+                "name": "Means",
+                "url": "/topics/means"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/antonio_de_mendoza_273408",
+        "quote": "I made a habit always to hear the Indians; and although they very often lie to me, I do not show them any displeasure for it, for I do not believe them and I do not decide anything until I have found out the truth.",
+        "author": {
+            "name": "Antonio de Mendoza",
+            "url": "/quotes/antonio_de_mendoza_273408"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Displeasure",
+                "url": "/topics/displeasure"
+            }
+        ]
+    }
+]

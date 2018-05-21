@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/ernie_kovacs_128336",
+        "quote": "Television: A medium. So called because it's neither rare nor well done.",
+        "author": {
+            "name": "Ernie Kovacs",
+            "url": "/quotes/ernie_kovacs_128336"
+        },
+        "topics": [
+            {
+                "name": "Television",
+                "url": "/topics/television"
+            },
+            {
+                "name": "Nor",
+                "url": "/topics/nor"
+            },
+            {
+                "name": "Neither",
+                "url": "/topics/neither"
+            }
+        ]
+    }
+]

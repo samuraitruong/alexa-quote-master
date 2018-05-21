@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/shonda_rhimes_874776?src=t_home_mom",
+        "quote": "Having a strong sense of self is fundamental to you, no matter what you're doing. I don't care if you're a stay at home mom raising kids or if you're the CEO of a corporation. It's really important for your survival.",
+        "author": {
+            "name": "Shonda Rhimes",
+            "url": "/authors/shonda_rhimes"
+        },
+        "topics": [
+            {
+                "name": "Strong",
+                "url": "/topics/strong"
+            },
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Fundamental",
+                "url": "/topics/fundamental"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tori_spelling_428641?src=t_home_mom",
+        "quote": "Sometimes I do envision just being a stay at home mom but not working isn't an option for me currently.",
+        "author": {
+            "name": "Tori Spelling",
+            "url": "/authors/tori_spelling"
+        },
+        "topics": [
+            {
+                "name": "Mom",
+                "url": "/topics/mom"
+            },
+            {
+                "name": "Sometimes",
+                "url": "/topics/sometimes"
+            },
+            {
+                "name": "Being",
+                "url": "/topics/being"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ernie_isley_532112?src=t_home_mom",
+        "quote": "There was a lot of music in our home. Mom played piano in church and gave piano lessons.",
+        "author": {
+            "name": "Ernie Isley",
+            "url": "/authors/ernie_isley"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "Piano",
+                "url": "/topics/piano"
+            },
+            {
+                "name": "Lot",
+                "url": "/topics/lot"
+            }
+        ]
+    }
+]

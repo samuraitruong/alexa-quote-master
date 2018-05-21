@@ -1,0 +1,530 @@
+[
+    {
+        "url": "/quotes/miguel_de_icaza_232397",
+        "quote": "I was interested in Java the beginning, but the problem with Java is you do have to switch your platform.",
+        "author": {
+            "name": "Miguel de Icaza",
+            "url": "/quotes/miguel_de_icaza_232397"
+        },
+        "topics": [
+            {
+                "name": "Beginning",
+                "url": "/topics/beginning"
+            },
+            {
+                "name": "Problem",
+                "url": "/topics/problem"
+            },
+            {
+                "name": "Java",
+                "url": "/topics/java"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/miguel_de_icaza_232404",
+        "quote": "With .NET once an API is published it's available to all programming languages at the same time.",
+        "author": {
+            "name": "Miguel de Icaza",
+            "url": "/quotes/miguel_de_icaza_232404"
+        },
+        "topics": [
+            {
+                "name": "Same",
+                "url": "/topics/same"
+            },
+            {
+                "name": "Languages",
+                "url": "/topics/languages"
+            },
+            {
+                "name": "Once",
+                "url": "/topics/once"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/miguel_de_icaza_232375",
+        "quote": "In addition to that, Mono has produced a very large set of extra libraries.",
+        "author": {
+            "name": "Miguel de Icaza",
+            "url": "/quotes/miguel_de_icaza_232375"
+        },
+        "topics": [
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Set",
+                "url": "/topics/set"
+            },
+            {
+                "name": "Mono",
+                "url": "/topics/mono"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/miguel_de_icaza_232376",
+        "quote": "All of our code is open source, so it can be used for other projects.",
+        "author": {
+            "name": "Miguel de Icaza",
+            "url": "/quotes/miguel_de_icaza_232376"
+        },
+        "topics": [
+            {
+                "name": "Projects",
+                "url": "/topics/projects"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Code",
+                "url": "/topics/code"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/miguel_de_icaza_232379",
+        "quote": "Running the test suite like this allows us to catch problems when they are just introduced.",
+        "author": {
+            "name": "Miguel de Icaza",
+            "url": "/quotes/miguel_de_icaza_232379"
+        },
+        "topics": [
+            {
+                "name": "Test",
+                "url": "/topics/test"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Running",
+                "url": "/topics/running"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/miguel_de_icaza_232380",
+        "quote": "After releasing Mono 1.0, we started work on a new edition of Mono that will be released later in the year.",
+        "author": {
+            "name": "Miguel de Icaza",
+            "url": "/quotes/miguel_de_icaza_232380"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Mono",
+                "url": "/topics/mono"
+            },
+            {
+                "name": "Releasing",
+                "url": "/topics/releasing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/miguel_de_icaza_232382",
+        "quote": "Every piece of software written today is likely going to infringe on someone else's patent.",
+        "author": {
+            "name": "Miguel de Icaza",
+            "url": "/quotes/miguel_de_icaza_232382"
+        },
+        "topics": [
+            {
+                "name": "Computers",
+                "url": "/topics/computers"
+            },
+            {
+                "name": "Likely",
+                "url": "/topics/likely"
+            },
+            {
+                "name": "Patent",
+                "url": "/topics/patent"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/miguel_de_icaza_232383",
+        "quote": "The software patent problem is not limited to Mono. Software patents affect everyone writing software today.",
+        "author": {
+            "name": "Miguel de Icaza",
+            "url": "/quotes/miguel_de_icaza_232383"
+        },
+        "topics": [
+            {
+                "name": "Problem",
+                "url": "/topics/problem"
+            },
+            {
+                "name": "Mono",
+                "url": "/topics/mono"
+            },
+            {
+                "name": "Patent",
+                "url": "/topics/patent"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/miguel_de_icaza_232384",
+        "quote": "Our strategy in dealing with patents in Mono is the same strategy that any other software developer would take. In the event of a patent claim, we will try to find prior art to the claim of the patent.",
+        "author": {
+            "name": "Miguel de Icaza",
+            "url": "/quotes/miguel_de_icaza_232384"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Patent",
+                "url": "/topics/patent"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/miguel_de_icaza_232385",
+        "quote": "We've been using C and C++ way too much - they're nice, but they're very close to the machine and what we wanted was to empower regular users to build applications for Linux.",
+        "author": {
+            "name": "Miguel de Icaza",
+            "url": "/quotes/miguel_de_icaza_232385"
+        },
+        "topics": [
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Using",
+                "url": "/topics/using"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/miguel_de_icaza_232388",
+        "quote": "We cannot choose one desktop over the other - Gnome or KDE - because there's users for both code bases.",
+        "author": {
+            "name": "Miguel de Icaza",
+            "url": "/quotes/miguel_de_icaza_232388"
+        },
+        "topics": [
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Code",
+                "url": "/topics/code"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/miguel_de_icaza_232390",
+        "quote": "In some cases we've been building tools that are specific to Linux for the desktop, and they only work on Linux, but I see two major projects that are wildly, wildly successful: Mozilla and OpenOffice, and those two programs are cross platform.",
+        "author": {
+            "name": "Miguel de Icaza",
+            "url": "/quotes/miguel_de_icaza_232390"
+        },
+        "topics": [
+            {
+                "name": "Projects",
+                "url": "/topics/projects"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/miguel_de_icaza_232391",
+        "quote": "So if we're going to build new applications that require a large time investment, like say movie editing - today that doesn't matter for the enterprise desktop, but eventually it will when we get closer to consumers - you really need to have a cross-platform story.",
+        "author": {
+            "name": "Miguel de Icaza",
+            "url": "/quotes/miguel_de_icaza_232391"
+        },
+        "topics": [
+            {
+                "name": "Matter",
+                "url": "/topics/matter"
+            },
+            {
+                "name": "Enterprise",
+                "url": "/topics/enterprise"
+            },
+            {
+                "name": "Movie",
+                "url": "/topics/movie"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/miguel_de_icaza_232392",
+        "quote": "We all love Linux, but it's also a fact that some people might not be able to migrate.",
+        "author": {
+            "name": "Miguel de Icaza",
+            "url": "/quotes/miguel_de_icaza_232392"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Fact",
+                "url": "/topics/fact"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/miguel_de_icaza_232393",
+        "quote": "I think that by October the whole company has to migrate to OpenOffice, and then I think it's by June next year we all migrate to Linux - you don't want to migrate 6,000 people both operating system and office suite in a single jump.",
+        "author": {
+            "name": "Miguel de Icaza",
+            "url": "/quotes/miguel_de_icaza_232393"
+        },
+        "topics": [
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            },
+            {
+                "name": "Year",
+                "url": "/topics/year"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/miguel_de_icaza_232394",
+        "quote": "We have a lot of existing customers which are also considering Linux desktop migrations and rolling out some of these programs, so we're learning from them.",
+        "author": {
+            "name": "Miguel de Icaza",
+            "url": "/quotes/miguel_de_icaza_232394"
+        },
+        "topics": [
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Considering",
+                "url": "/topics/considering"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/miguel_de_icaza_232396",
+        "quote": "I've never worked with the Java community.",
+        "author": {
+            "name": "Miguel de Icaza",
+            "url": "/quotes/miguel_de_icaza_232396"
+        },
+        "topics": [
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Java",
+                "url": "/topics/java"
+            },
+            {
+                "name": "Worked",
+                "url": "/topics/worked"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/miguel_de_icaza_232398",
+        "quote": "Well Microsoft really does develop some really interesting technology.",
+        "author": {
+            "name": "Miguel de Icaza",
+            "url": "/quotes/miguel_de_icaza_232398"
+        },
+        "topics": [
+            {
+                "name": "Interesting",
+                "url": "/topics/interesting"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Does",
+                "url": "/topics/does"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/miguel_de_icaza_232399",
+        "quote": "Not to go too far, but Microsoft is probably used by most people out there.",
+        "author": {
+            "name": "Miguel de Icaza",
+            "url": "/quotes/miguel_de_icaza_232399"
+        },
+        "topics": [
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "Too",
+                "url": "/topics/too"
+            },
+            {
+                "name": "Far",
+                "url": "/topics/far"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/miguel_de_icaza_232400",
+        "quote": "Some scientists use TeX or LatEX but for most people Word is the thing that writers use these days.",
+        "author": {
+            "name": "Miguel de Icaza",
+            "url": "/quotes/miguel_de_icaza_232400"
+        },
+        "topics": [
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Scientists",
+                "url": "/topics/scientists"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/miguel_de_icaza_232401",
+        "quote": "When it comes to .NET they've done a really outstanding job.",
+        "author": {
+            "name": "Miguel de Icaza",
+            "url": "/quotes/miguel_de_icaza_232401"
+        },
+        "topics": [
+            {
+                "name": "Job",
+                "url": "/topics/job"
+            },
+            {
+                "name": "Net",
+                "url": "/topics/net"
+            },
+            {
+                "name": "Outstanding",
+                "url": "/topics/outstanding"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/miguel_de_icaza_232403",
+        "quote": "In the GNOME project we tried to keep the platform language independent.",
+        "author": {
+            "name": "Miguel de Icaza",
+            "url": "/quotes/miguel_de_icaza_232403"
+        },
+        "topics": [
+            {
+                "name": "Independent",
+                "url": "/topics/independent"
+            },
+            {
+                "name": "Tried",
+                "url": "/topics/tried"
+            },
+            {
+                "name": "Keep",
+                "url": "/topics/keep"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/miguel_de_icaza_232405",
+        "quote": "It's strategic for us - lots of people will develop applications in .NET.",
+        "author": {
+            "name": "Miguel de Icaza",
+            "url": "/quotes/miguel_de_icaza_232405"
+        },
+        "topics": [
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Strategic",
+                "url": "/topics/strategic"
+            },
+            {
+                "name": "Lots",
+                "url": "/topics/lots"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/miguel_de_icaza_232407",
+        "quote": "They have a beautiful security system and we're emulating the whole security infrastructure.",
+        "author": {
+            "name": "Miguel de Icaza",
+            "url": "/quotes/miguel_de_icaza_232407"
+        },
+        "topics": [
+            {
+                "name": "Beautiful",
+                "url": "/topics/beautiful"
+            },
+            {
+                "name": "Security",
+                "url": "/topics/security"
+            },
+            {
+                "name": "System",
+                "url": "/topics/system"
+            }
+        ]
+    }
+]

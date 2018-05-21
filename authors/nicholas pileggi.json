@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/nicholas_pileggi_399487",
+        "quote": "As far back as I can remember, I always wanted to be a gangster.",
+        "author": {
+            "name": "Nicholas Pileggi",
+            "url": "/quotes/nicholas_pileggi_399487"
+        },
+        "topics": [
+            {
+                "name": "Remember",
+                "url": "/topics/remember"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Wanted",
+                "url": "/topics/wanted"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nicholas_pileggi_399263",
+        "quote": "Let me tell you something. Nobody goes to jail unless they want to. Unless they make themselves get caught. They don't have things organized.",
+        "author": {
+            "name": "Nicholas Pileggi",
+            "url": "/quotes/nicholas_pileggi_399263"
+        },
+        "topics": [
+            {
+                "name": "Tell",
+                "url": "/topics/tell"
+            },
+            {
+                "name": "Goes",
+                "url": "/topics/goes"
+            },
+            {
+                "name": "Caught",
+                "url": "/topics/caught"
+            }
+        ]
+    }
+]

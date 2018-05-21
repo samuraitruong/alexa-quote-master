@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/e_g_marshall_618969",
+        "quote": "My full name is E.G. Marshall. I am known by no other.",
+        "author": {
+            "name": "E. G. Marshall",
+            "url": "/quotes/e_g_marshall_618969"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Marshall",
+                "url": "/topics/marshall"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/e_g_marshall_618970",
+        "quote": "I used to watch movies - silent movies - and stock companies and theater whenever I could.",
+        "author": {
+            "name": "E. G. Marshall",
+            "url": "/quotes/e_g_marshall_618970"
+        },
+        "topics": [
+            {
+                "name": "Silent",
+                "url": "/topics/silent"
+            },
+            {
+                "name": "Movies",
+                "url": "/topics/movies"
+            },
+            {
+                "name": "Companies",
+                "url": "/topics/companies"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/e_g_marshall_618971",
+        "quote": "I try to think what the character is thinking. Then, hopefully, I begin to feel it. I act and react not because I'm recalling a dog killed by a fire engine, but because I'm concentrating on what the character is going through.",
+        "author": {
+            "name": "E. G. Marshall",
+            "url": "/quotes/e_g_marshall_618971"
+        },
+        "topics": [
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Concentrating",
+                "url": "/topics/concentrating"
+            }
+        ]
+    }
+]

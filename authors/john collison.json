@@ -1,0 +1,376 @@
+[
+    {
+        "url": "/quotes/john_collison_542577",
+        "quote": "Part of Stripe's vision is linking people better on the web.",
+        "author": {
+            "name": "John Collison",
+            "url": "/quotes/john_collison_542577"
+        },
+        "topics": [
+            {
+                "name": "Vision",
+                "url": "/topics/vision"
+            },
+            {
+                "name": "Better",
+                "url": "/topics/better"
+            },
+            {
+                "name": "Web",
+                "url": "/topics/web"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_collison_542590",
+        "quote": "Stripe is building payment infrastructure for the Web, so we make it easy to accept credit cards online. Before Stripe, the way you'd do this is using the legacy banking structure. It was slow, it was complex, it was expensive. It had this very chilling effect on e-commerce.",
+        "author": {
+            "name": "John Collison",
+            "url": "/quotes/john_collison_542590"
+        },
+        "topics": [
+            {
+                "name": "Legacy",
+                "url": "/topics/legacy"
+            },
+            {
+                "name": "Cards",
+                "url": "/topics/cards"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_collison_542574",
+        "quote": "Coming from Ireland, it's quite hard to do a startup because you're culturally so far away from what everyone else is doing. In the Bay Area, it's much easier. It's the equivalent of an actor or actress moving to Hollywood.",
+        "author": {
+            "name": "John Collison",
+            "url": "/quotes/john_collison_542574"
+        },
+        "topics": [
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Bay Area",
+                "url": "/topics/bay_area"
+            },
+            {
+                "name": "Equivalent",
+                "url": "/topics/equivalent"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_collison_542575",
+        "quote": "I think a lot of people learn to code messing around with things while in secondary school. And for me, it started up as a hobby and a plaything, and I just became more curious over time.",
+        "author": {
+            "name": "John Collison",
+            "url": "/quotes/john_collison_542575"
+        },
+        "topics": [
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Messing",
+                "url": "/topics/messing"
+            },
+            {
+                "name": "Became",
+                "url": "/topics/became"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_collison_542576",
+        "quote": "Our idea with starting Stripe was to build better payments technology for people building things on the web.",
+        "author": {
+            "name": "John Collison",
+            "url": "/quotes/john_collison_542576"
+        },
+        "topics": [
+            {
+                "name": "Better",
+                "url": "/topics/better"
+            },
+            {
+                "name": "Build",
+                "url": "/topics/build"
+            },
+            {
+                "name": "Web",
+                "url": "/topics/web"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_collison_542578",
+        "quote": "With PayPal, you have to send people over to their website... whereas with Stripe, we offer a way to integrate payments into the website, on the website or into a mobile app. That is what all the best businesses care about, so we make it very easy, very fast, very simple and very cheap to do this.",
+        "author": {
+            "name": "John Collison",
+            "url": "/quotes/john_collison_542578"
+        },
+        "topics": [
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Payments",
+                "url": "/topics/payments"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_collison_542579",
+        "quote": "My brother and I were born in an Irish county called Tipperary. We were both very math- and science-inclined in high school. My dad trained as an electrical engineer, and my mom is in microbiology.",
+        "author": {
+            "name": "John Collison",
+            "url": "/quotes/john_collison_542579"
+        },
+        "topics": [
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Trained",
+                "url": "/topics/trained"
+            },
+            {
+                "name": "Dad",
+                "url": "/topics/dad"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_collison_542580",
+        "quote": "Auctomatic was a compressed start-up experience, going from start to launch to acquisition in under a year. We spent a long time building the product before getting our first customer, whereas with Stripe we made sure we had paying customers from the very start.",
+        "author": {
+            "name": "John Collison",
+            "url": "/quotes/john_collison_542580"
+        },
+        "topics": [
+            {
+                "name": "Year",
+                "url": "/topics/year"
+            },
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_collison_542581",
+        "quote": "It's easy to talk to people over the Web, but it's not very easy to trigger transactions. That's the thing we set out to fix with Stripe.",
+        "author": {
+            "name": "John Collison",
+            "url": "/quotes/john_collison_542581"
+        },
+        "topics": [
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Set",
+                "url": "/topics/set"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_collison_542582",
+        "quote": "We hired extremely slowly at the beginning. It took us a year to get to four people. It's hard to hire as a very small company, and we wanted to make sure we found people who cared a lot about what Stripe was doing.",
+        "author": {
+            "name": "John Collison",
+            "url": "/quotes/john_collison_542582"
+        },
+        "topics": [
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_collison_542583",
+        "quote": "The Internet is a testament to a connected system that works - it's a global network where any computer can reach another, and easily transfer information across.",
+        "author": {
+            "name": "John Collison",
+            "url": "/quotes/john_collison_542583"
+        },
+        "topics": [
+            {
+                "name": "Reach",
+                "url": "/topics/reach"
+            },
+            {
+                "name": "Works",
+                "url": "/topics/works"
+            },
+            {
+                "name": "Another",
+                "url": "/topics/another"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_collison_542584",
+        "quote": "When a country doesn't have a good economic infrastructure, that harms the country. With Stripe, the idea is that by providing better infrastructure, by linking the Internet economically, by making it easier for these online businesses to exist, it'll make the web better.",
+        "author": {
+            "name": "John Collison",
+            "url": "/quotes/john_collison_542584"
+        },
+        "topics": [
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Making",
+                "url": "/topics/making"
+            },
+            {
+                "name": "Providing",
+                "url": "/topics/providing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_collison_542585",
+        "quote": "You know the way trees break through the canopy in the rainforest and they go from having this tiny column of light to having all this light - the Internet is kind of like that.",
+        "author": {
+            "name": "John Collison",
+            "url": "/quotes/john_collison_542585"
+        },
+        "topics": [
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Break",
+                "url": "/topics/break"
+            },
+            {
+                "name": "Having",
+                "url": "/topics/having"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_collison_542586",
+        "quote": "With Stripe, people who previously operated online or offline in a very limited capacity now have all the tools to work like a real online business. That's a very valuable thing.",
+        "author": {
+            "name": "John Collison",
+            "url": "/quotes/john_collison_542586"
+        },
+        "topics": [
+            {
+                "name": "Business",
+                "url": "/topics/business"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Limited",
+                "url": "/topics/limited"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_collison_542587",
+        "quote": "Marketplaces by their nature tend to grow faster than most other companies.",
+        "author": {
+            "name": "John Collison",
+            "url": "/quotes/john_collison_542587"
+        },
+        "topics": [
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "Faster",
+                "url": "/topics/faster"
+            },
+            {
+                "name": "Tend",
+                "url": "/topics/tend"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_collison_542588",
+        "quote": "One of the really fascinating areas is marketplaces that take advantage of mobile devices. Ridesharing is the obvious example, but that's just the start of it, of selling goods and services with lightweight mobile apps.",
+        "author": {
+            "name": "John Collison",
+            "url": "/quotes/john_collison_542588"
+        },
+        "topics": [
+            {
+                "name": "Mobile",
+                "url": "/topics/mobile"
+            },
+            {
+                "name": "Advantage",
+                "url": "/topics/advantage"
+            },
+            {
+                "name": "Devices",
+                "url": "/topics/devices"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_collison_542589",
+        "quote": "Stripe really did come about because we were really appalled by how hard it was to charge for things online.",
+        "author": {
+            "name": "John Collison",
+            "url": "/quotes/john_collison_542589"
+        },
+        "topics": [
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Come",
+                "url": "/topics/come"
+            },
+            {
+                "name": "Charge",
+                "url": "/topics/charge"
+            }
+        ]
+    }
+]

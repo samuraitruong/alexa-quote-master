@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/whitney_macmillan_719547",
+        "quote": "Food has become such an interesting issue in the nation and the world.",
+        "author": {
+            "name": "Whitney MacMillan",
+            "url": "/quotes/whitney_macmillan_719547"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Nation",
+                "url": "/topics/nation"
+            },
+            {
+                "name": "Issue",
+                "url": "/topics/issue"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/whitney_macmillan_719548",
+        "quote": "How many soaps does P&G make? In a sense, they're all the same. Can you tell me the difference between trading soybeans, cotton and rubber? They're all soaps to us.",
+        "author": {
+            "name": "Whitney MacMillan",
+            "url": "/quotes/whitney_macmillan_719548"
+        },
+        "topics": [
+            {
+                "name": "Tell",
+                "url": "/topics/tell"
+            },
+            {
+                "name": "Soaps",
+                "url": "/topics/soaps"
+            },
+            {
+                "name": "Trading",
+                "url": "/topics/trading"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/whitney_macmillan_719549",
+        "quote": "We don't look at what happens in our business in six-month periods.",
+        "author": {
+            "name": "Whitney MacMillan",
+            "url": "/quotes/whitney_macmillan_719549"
+        },
+        "topics": [
+            {
+                "name": "Business",
+                "url": "/topics/business"
+            },
+            {
+                "name": "Look",
+                "url": "/topics/look"
+            },
+            {
+                "name": "Periods",
+                "url": "/topics/periods"
+            }
+        ]
+    }
+]

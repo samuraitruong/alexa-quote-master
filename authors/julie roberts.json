@@ -1,0 +1,108 @@
+[
+    {
+        "url": "/quotes/julie_roberts_520724",
+        "quote": "I love going to coffee shops and just sitting and listening.",
+        "author": {
+            "name": "Julie Roberts",
+            "url": "/quotes/julie_roberts_520724"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Listening",
+                "url": "/topics/listening"
+            },
+            {
+                "name": "I Love",
+                "url": "/topics/i_love"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/julie_roberts_520720",
+        "quote": "A circumstance that I was dealing with when recording my second album was I was diagnosed with multiple sclerosis.",
+        "author": {
+            "name": "Julie Roberts",
+            "url": "/quotes/julie_roberts_520720"
+        },
+        "topics": [
+            {
+                "name": "Dealing",
+                "url": "/topics/dealing"
+            },
+            {
+                "name": "Album",
+                "url": "/topics/album"
+            },
+            {
+                "name": "Circumstance",
+                "url": "/topics/circumstance"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/julie_roberts_520721",
+        "quote": "Life is like a movie to me. Everybody has their own movie that's playing out every day, and you're writing it.",
+        "author": {
+            "name": "Julie Roberts",
+            "url": "/quotes/julie_roberts_520721"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Everybody",
+                "url": "/topics/everybody"
+            },
+            {
+                "name": "Movie",
+                "url": "/topics/movie"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/julie_roberts_520722",
+        "quote": "I didn't have a good childhood growing up.",
+        "author": {
+            "name": "Julie Roberts",
+            "url": "/quotes/julie_roberts_520722"
+        },
+        "topics": [
+            {
+                "name": "Growing",
+                "url": "/topics/growing"
+            },
+            {
+                "name": "Good Childhood",
+                "url": "/topics/good_childhood"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/julie_roberts_520723",
+        "quote": "My Christmases have always just been very simple and about family.",
+        "author": {
+            "name": "Julie Roberts",
+            "url": "/quotes/julie_roberts_520723"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Christmas",
+                "url": "/topics/christmas"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    }
+]

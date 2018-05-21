@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/neil_meron_621479",
+        "quote": "The Oscars is a sport. There's the excitement of watching something live, as it happens.",
+        "author": {
+            "name": "Neil Meron",
+            "url": "/quotes/neil_meron_621479"
+        },
+        "topics": [
+            {
+                "name": "Excitement",
+                "url": "/topics/excitement"
+            },
+            {
+                "name": "Watching",
+                "url": "/topics/watching"
+            },
+            {
+                "name": "Sport",
+                "url": "/topics/sport"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/neil_meron_621480",
+        "quote": "It's a very tough job to host a show and a very tough job to produce a show, and you're in a no-win position.",
+        "author": {
+            "name": "Neil Meron",
+            "url": "/quotes/neil_meron_621480"
+        },
+        "topics": [
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Host",
+                "url": "/topics/host"
+            },
+            {
+                "name": "No-Win",
+                "url": "/topics/no-win"
+            }
+        ]
+    }
+]

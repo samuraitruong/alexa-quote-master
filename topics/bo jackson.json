@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/landon_donovan_651274?src=t_bo_jackson",
+        "quote": "I remember - when I was little, I remember playing 'Tecmo Bowl,' and I would be so excited to be Bo Jackson in the game that I wanted to watch him play in real life.",
+        "author": {
+            "name": "Landon Donovan",
+            "url": "/authors/landon_donovan"
+        },
+        "topics": [
+            {
+                "name": "Game",
+                "url": "/topics/game"
+            },
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "I Remember",
+                "url": "/topics/i_remember"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dick_schaap_316207?src=t_bo_jackson",
+        "quote": "My top three were Jim Brown, Wilt Chamberlain and Bo Jackson.",
+        "author": {
+            "name": "Dick Schaap",
+            "url": "/authors/dick_schaap"
+        },
+        "topics": [
+            {
+                "name": "Top",
+                "url": "/topics/top"
+            },
+            {
+                "name": "Chamberlain",
+                "url": "/topics/chamberlain"
+            },
+            {
+                "name": "Jackson",
+                "url": "/topics/jackson"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jamal_lewis_231573?src=t_bo_jackson",
+        "quote": "I really liked watching Bo Jackson run just because of his size and his speed.",
+        "author": {
+            "name": "Jamal Lewis",
+            "url": "/authors/jamal_lewis"
+        },
+        "topics": [
+            {
+                "name": "Watching",
+                "url": "/topics/watching"
+            },
+            {
+                "name": "Run",
+                "url": "/topics/run"
+            },
+            {
+                "name": "Really",
+                "url": "/topics/really"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jamal_lewis_231575?src=t_bo_jackson",
+        "quote": "Watching Bo Jackson, seeing his size, his speed, a lot of his abilities, really drove me.",
+        "author": {
+            "name": "Jamal Lewis",
+            "url": "/authors/jamal_lewis"
+        },
+        "topics": [
+            {
+                "name": "Speed",
+                "url": "/topics/speed"
+            },
+            {
+                "name": "Watching",
+                "url": "/topics/watching"
+            },
+            {
+                "name": "Drove",
+                "url": "/topics/drove"
+            }
+        ]
+    }
+]

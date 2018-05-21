@@ -1,0 +1,134 @@
+[
+    {
+        "url": "/quotes/joe_louis_539722",
+        "quote": "You need a lot of different types of people to make the world better.",
+        "author": {
+            "name": "Joe Louis",
+            "url": "/quotes/joe_louis_539722"
+        },
+        "topics": [
+            {
+                "name": "Better",
+                "url": "/topics/better"
+            },
+            {
+                "name": "Lot",
+                "url": "/topics/lot"
+            },
+            {
+                "name": "Types",
+                "url": "/topics/types"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joe_louis_391800",
+        "quote": "Once that bell rings you're on your own. It's just you and the other guy.",
+        "author": {
+            "name": "Joe Louis",
+            "url": "/quotes/joe_louis_391800"
+        },
+        "topics": [
+            {
+                "name": "Rings",
+                "url": "/topics/rings"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Once",
+                "url": "/topics/once"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joe_louis_131692",
+        "quote": "I made the most of my ability and I did my best with my title.",
+        "author": {
+            "name": "Joe Louis",
+            "url": "/quotes/joe_louis_131692"
+        },
+        "topics": [
+            {
+                "name": "Best",
+                "url": "/topics/best"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "Made",
+                "url": "/topics/made"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joe_louis_378492",
+        "quote": "Every man's got to figure to get beat sometime.",
+        "author": {
+            "name": "Joe Louis",
+            "url": "/quotes/joe_louis_378492"
+        },
+        "topics": [
+            {
+                "name": "Sometime",
+                "url": "/topics/sometime"
+            },
+            {
+                "name": "Get",
+                "url": "/topics/get"
+            },
+            {
+                "name": "Figure",
+                "url": "/topics/figure"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joe_louis_106817",
+        "quote": "I don't like money, actually, but it quiets my nerves.",
+        "author": {
+            "name": "Joe Louis",
+            "url": "/quotes/joe_louis_106817"
+        },
+        "topics": [
+            {
+                "name": "Money",
+                "url": "/topics/money"
+            },
+            {
+                "name": "Actually",
+                "url": "/topics/actually"
+            },
+            {
+                "name": "Nerves",
+                "url": "/topics/nerves"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joe_louis_539723",
+        "quote": "When I was boxing I made five million and wound up broke, owing the government a million.",
+        "author": {
+            "name": "Joe Louis",
+            "url": "/quotes/joe_louis_539723"
+        },
+        "topics": [
+            {
+                "name": "Government",
+                "url": "/topics/government"
+            },
+            {
+                "name": "Broke",
+                "url": "/topics/broke"
+            },
+            {
+                "name": "Wound",
+                "url": "/topics/wound"
+            }
+        ]
+    }
+]

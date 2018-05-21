@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/edward_de_bono_401794?src=t_average_intelligence",
+        "quote": "Many highly intelligent people are poor thinkers. Many people of average intelligence are skilled thinkers. The power of a car is separate from the way the car is driven.",
+        "author": {
+            "name": "Edward de Bono",
+            "url": "/authors/edward_de_bono"
+        },
+        "topics": [
+            {
+                "name": "Average",
+                "url": "/topics/average"
+            },
+            {
+                "name": "Thinkers",
+                "url": "/topics/thinkers"
+            },
+            {
+                "name": "Separate",
+                "url": "/topics/separate"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/andre_maurois_115811?src=t_average_intelligence",
+        "quote": "People are what you make them. A scornful look turns into a complete fool a man of average intelligence. A contemptuous indifference turns into an enemy a woman who, well treated, might have been an angel.",
+        "author": {
+            "name": "Andre Maurois",
+            "url": "/authors/andre_maurois"
+        },
+        "topics": [
+            {
+                "name": "Woman",
+                "url": "/topics/woman"
+            },
+            {
+                "name": "Average",
+                "url": "/topics/average"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henry_adams_138364?src=t_average_intelligence",
+        "quote": "There is no such thing as an underestimate of average intelligence.",
+        "author": {
+            "name": "Henry Adams",
+            "url": "/authors/henry_adams"
+        },
+        "topics": [
+            {
+                "name": "Underestimate",
+                "url": "/topics/underestimate"
+            },
+            {
+                "name": "Average",
+                "url": "/topics/average"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/pat_brown_255560?src=t_average_intelligence",
+        "quote": "In reality, serial killers are of average intelligence.",
+        "author": {
+            "name": "Pat Brown",
+            "url": "/authors/pat_brown"
+        },
+        "topics": [
+            {
+                "name": "Reality",
+                "url": "/topics/reality"
+            },
+            {
+                "name": "Average",
+                "url": "/topics/average"
+            },
+            {
+                "name": "Serial",
+                "url": "/topics/serial"
+            }
+        ]
+    }
+]

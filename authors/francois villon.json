@@ -1,0 +1,60 @@
+[
+    {
+        "url": "/quotes/francois_villon_145399",
+        "quote": "But where are the snows of yester year?",
+        "author": {
+            "name": "Francois Villon",
+            "url": "/quotes/francois_villon_145399"
+        },
+        "topics": [
+            {
+                "name": "Year",
+                "url": "/topics/year"
+            },
+            {
+                "name": "Where",
+                "url": "/topics/where"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/francois_villon_145400",
+        "quote": "Good talkers are only found in Paris.",
+        "author": {
+            "name": "Francois Villon",
+            "url": "/quotes/francois_villon_145400"
+        },
+        "topics": [
+            {
+                "name": "Paris",
+                "url": "/topics/paris"
+            },
+            {
+                "name": "Found",
+                "url": "/topics/found"
+            },
+            {
+                "name": "Talkers",
+                "url": "/topics/talkers"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/francois_villon_145401",
+        "quote": "My days are gone a-wandering.",
+        "author": {
+            "name": "Francois Villon",
+            "url": "/quotes/francois_villon_145401"
+        },
+        "topics": [
+            {
+                "name": "Days",
+                "url": "/topics/days"
+            },
+            {
+                "name": "Gone",
+                "url": "/topics/gone"
+            }
+        ]
+    }
+]

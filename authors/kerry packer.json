@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/kerry_packer_404230",
+        "quote": "The good news is there's no devil. The bad news is there's no heaven. There's nothing.",
+        "author": {
+            "name": "Kerry Packer",
+            "url": "/quotes/kerry_packer_404230"
+        },
+        "topics": [
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            },
+            {
+                "name": "News",
+                "url": "/topics/news"
+            },
+            {
+                "name": "Good News",
+                "url": "/topics/good_news"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kerry_packer_174684",
+        "quote": "I agree completely with my son James when he says 'Internet is like electricity. The latter lights up everything, while the former lights up knowledge'.",
+        "author": {
+            "name": "Kerry Packer",
+            "url": "/quotes/kerry_packer_174684"
+        },
+        "topics": [
+            {
+                "name": "Electricity",
+                "url": "/topics/electricity"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "James",
+                "url": "/topics/james"
+            }
+        ]
+    }
+]

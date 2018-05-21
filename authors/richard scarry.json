@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/richard_scarry_527369",
+        "quote": "Wherever I go, I'm watching. Even on vacation, when I'm in an airport or a railroad station, I look around, snap pictures, and find out how people do things.",
+        "author": {
+            "name": "Richard Scarry",
+            "url": "/quotes/richard_scarry_527369"
+        },
+        "topics": [
+            {
+                "name": "Railroad",
+                "url": "/topics/railroad"
+            },
+            {
+                "name": "Watching",
+                "url": "/topics/watching"
+            },
+            {
+                "name": "Go",
+                "url": "/topics/go"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/richard_scarry_527368",
+        "quote": "I am very happy when people write that they have worn out my books, or that they are held together by Scotch tape. I consider that the ultimate compliment.",
+        "author": {
+            "name": "Richard Scarry",
+            "url": "/quotes/richard_scarry_527368"
+        },
+        "topics": [
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Worn",
+                "url": "/topics/worn"
+            },
+            {
+                "name": "Held",
+                "url": "/topics/held"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/richard_scarry_527367",
+        "quote": "I'm not interested in creating a book that is read once and then placed on the shelf and forgotten.",
+        "author": {
+            "name": "Richard Scarry",
+            "url": "/quotes/richard_scarry_527367"
+        },
+        "topics": [
+            {
+                "name": "Read",
+                "url": "/topics/read"
+            },
+            {
+                "name": "Placed",
+                "url": "/topics/placed"
+            },
+            {
+                "name": "Once",
+                "url": "/topics/once"
+            }
+        ]
+    }
+]

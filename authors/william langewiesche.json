@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/william_langewiesche_404579",
+        "quote": "You should not see the desert simply as some faraway place of little rain. There are many forms of thirst.",
+        "author": {
+            "name": "William Langewiesche",
+            "url": "/quotes/william_langewiesche_404579"
+        },
+        "topics": [
+            {
+                "name": "Rain",
+                "url": "/topics/rain"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Thirst",
+                "url": "/topics/thirst"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_langewiesche_404576",
+        "quote": "The mastery of the turn is the story of how aviation became practical as a means of transportation. It is the story of how the world became small.",
+        "author": {
+            "name": "William Langewiesche",
+            "url": "/quotes/william_langewiesche_404576"
+        },
+        "topics": [
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "How",
+                "url": "/topics/how"
+            },
+            {
+                "name": "Became",
+                "url": "/topics/became"
+            }
+        ]
+    }
+]

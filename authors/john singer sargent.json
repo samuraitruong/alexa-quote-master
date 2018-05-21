@@ -1,0 +1,200 @@
+[
+    {
+        "url": "/quotes/john_singer_sargent_201942",
+        "quote": "You can't do sketches enough. Sketch everything and keep your curiosity fresh.",
+        "author": {
+            "name": "John Singer Sargent",
+            "url": "/quotes/john_singer_sargent_201942"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Curiosity",
+                "url": "/topics/curiosity"
+            },
+            {
+                "name": "Sketches",
+                "url": "/topics/sketches"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_singer_sargent_201940",
+        "quote": "A portrait is a painting with something wrong with the mouth.",
+        "author": {
+            "name": "John Singer Sargent",
+            "url": "/quotes/john_singer_sargent_201940"
+        },
+        "topics": [
+            {
+                "name": "Painting",
+                "url": "/topics/painting"
+            },
+            {
+                "name": "Portrait",
+                "url": "/topics/portrait"
+            },
+            {
+                "name": "Mouth",
+                "url": "/topics/mouth"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_singer_sargent_533024",
+        "quote": "A person with normal eyesight would have nothing to know in the way of 'Impressionism' unless he were in a blinding light or in the dusk or dark.",
+        "author": {
+            "name": "John Singer Sargent",
+            "url": "/quotes/john_singer_sargent_533024"
+        },
+        "topics": [
+            {
+                "name": "Normal",
+                "url": "/topics/normal"
+            },
+            {
+                "name": "Eyesight",
+                "url": "/topics/eyesight"
+            },
+            {
+                "name": "Dusk",
+                "url": "/topics/dusk"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_singer_sargent_201939",
+        "quote": "Every time I paint a portrait I lose a friend.",
+        "author": {
+            "name": "John Singer Sargent",
+            "url": "/quotes/john_singer_sargent_201939"
+        },
+        "topics": [
+            {
+                "name": "Age",
+                "url": "/topics/age"
+            },
+            {
+                "name": "Lose",
+                "url": "/topics/lose"
+            },
+            {
+                "name": "Friend",
+                "url": "/topics/friend"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_singer_sargent_201941",
+        "quote": "I do not judge, I only chronicle.",
+        "author": {
+            "name": "John Singer Sargent",
+            "url": "/quotes/john_singer_sargent_201941"
+        },
+        "topics": [
+            {
+                "name": "Judge",
+                "url": "/topics/judge"
+            },
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            },
+            {
+                "name": "Do Not Judge",
+                "url": "/topics/do_not_judge"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_singer_sargent_201946",
+        "quote": "Mine is the horny hand of toil.",
+        "author": {
+            "name": "John Singer Sargent",
+            "url": "/quotes/john_singer_sargent_201946"
+        },
+        "topics": [
+            {
+                "name": "Toil",
+                "url": "/topics/toil"
+            },
+            {
+                "name": "Horny",
+                "url": "/topics/horny"
+            },
+            {
+                "name": "Mine",
+                "url": "/topics/mine"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_singer_sargent_533023",
+        "quote": "'Impressionism' was the name given to a certain form of observation when Monet, not content with using his eyes to see what things were or what they looked like as everybody had done before him, turned his attention to noting what took place on his own retina (as an oculist would test his own vision).",
+        "author": {
+            "name": "John Singer Sargent",
+            "url": "/quotes/john_singer_sargent_533023"
+        },
+        "topics": [
+            {
+                "name": "Everybody",
+                "url": "/topics/everybody"
+            },
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            },
+            {
+                "name": "Turned",
+                "url": "/topics/turned"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_singer_sargent_533022",
+        "quote": "It is certain that at certain times talent entirely overcomes thought or poetry.",
+        "author": {
+            "name": "John Singer Sargent",
+            "url": "/quotes/john_singer_sargent_533022"
+        },
+        "topics": [
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Times",
+                "url": "/topics/times"
+            },
+            {
+                "name": "Overcomes",
+                "url": "/topics/overcomes"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_singer_sargent_533025",
+        "quote": "The habit of breaking up one's colour to make it brilliant dates from further back than Impressionism - Couture advocates it in a little book called 'Causeries d'Atelier' written about 1860 - it is part of the technique of Impressionism but used for quite a different reason.",
+        "author": {
+            "name": "John Singer Sargent",
+            "url": "/quotes/john_singer_sargent_533025"
+        },
+        "topics": [
+            {
+                "name": "Book",
+                "url": "/topics/book"
+            },
+            {
+                "name": "Reason",
+                "url": "/topics/reason"
+            },
+            {
+                "name": "Part",
+                "url": "/topics/part"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/joe_mays_405263",
+        "quote": "The universe of mortgage lending has gotten to the point where there is a place in it for everybody.",
+        "author": {
+            "name": "Joe Mays",
+            "url": "/quotes/joe_mays_405263"
+        },
+        "topics": [
+            {
+                "name": "Everybody",
+                "url": "/topics/everybody"
+            },
+            {
+                "name": "Lending",
+                "url": "/topics/lending"
+            },
+            {
+                "name": "Mortgage",
+                "url": "/topics/mortgage"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joe_mays_405474",
+        "quote": "I like my friends to be the hitters. The pitchers, they all have the same brain as I do. The hitters see the game from a different perspective.",
+        "author": {
+            "name": "Joe Mays",
+            "url": "/quotes/joe_mays_405474"
+        },
+        "topics": [
+            {
+                "name": "Game",
+                "url": "/topics/game"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Pitchers",
+                "url": "/topics/pitchers"
+            }
+        ]
+    }
+]

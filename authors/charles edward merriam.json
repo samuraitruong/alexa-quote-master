@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/charles_edward_merriam_144849",
+        "quote": "Chicago is unique. It is the only completely corrupt city in America.",
+        "author": {
+            "name": "Charles Edward Merriam",
+            "url": "/quotes/charles_edward_merriam_144849"
+        },
+        "topics": [
+            {
+                "name": "City",
+                "url": "/topics/city"
+            },
+            {
+                "name": "Unique",
+                "url": "/topics/unique"
+            },
+            {
+                "name": "Corrupt",
+                "url": "/topics/corrupt"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charles_edward_merriam_166659",
+        "quote": "If nothing is to be done in the given situation, he must invent plausible reasons for doing nothing; and if something must be done, he must suggest the something. The unpardonable sin is to propose nothing, when action is imperative.",
+        "author": {
+            "name": "Charles Edward Merriam",
+            "url": "/quotes/charles_edward_merriam_166659"
+        },
+        "topics": [
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Reasons",
+                "url": "/topics/reasons"
+            },
+            {
+                "name": "Given",
+                "url": "/topics/given"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charles_edward_merriam_166660",
+        "quote": "It not infrequently happens that persons without any other special qualification than the drama of their lives are precipitated into important political positions.",
+        "author": {
+            "name": "Charles Edward Merriam",
+            "url": "/quotes/charles_edward_merriam_166660"
+        },
+        "topics": [
+            {
+                "name": "Political",
+                "url": "/topics/political"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Lives",
+                "url": "/topics/lives"
+            }
+        ]
+    }
+]

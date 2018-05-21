@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/patrick_geddes_392096",
+        "quote": "But a city is more than a place in space, it is a drama in time.",
+        "author": {
+            "name": "Patrick Geddes",
+            "url": "/quotes/patrick_geddes_392096"
+        },
+        "topics": [
+            {
+                "name": "City",
+                "url": "/topics/city"
+            },
+            {
+                "name": "Drama",
+                "url": "/topics/drama"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/patrick_geddes_394813",
+        "quote": "Each social formation, through each of its material activities, exerts its influence upon the civic whole; and each of its ideas and ideals wins also its place and power.",
+        "author": {
+            "name": "Patrick Geddes",
+            "url": "/quotes/patrick_geddes_394813"
+        },
+        "topics": [
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Wins",
+                "url": "/topics/wins"
+            },
+            {
+                "name": "Ideals",
+                "url": "/topics/ideals"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/patrick_geddes_228489",
+        "quote": "Instead of isolating our school and our many subjects from the every day world, we intend to plant it not merely in the French capital, but in what for next summer at least will be the focal point, the capital of the entire civilized world.",
+        "author": {
+            "name": "Patrick Geddes",
+            "url": "/quotes/patrick_geddes_228489"
+        },
+        "topics": [
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            },
+            {
+                "name": "Capital",
+                "url": "/topics/capital"
+            },
+            {
+                "name": "Civilized",
+                "url": "/topics/civilized"
+            }
+        ]
+    }
+]

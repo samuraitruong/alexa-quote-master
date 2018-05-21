@@ -1,0 +1,394 @@
+[
+    {
+        "url": "/quotes/eric_s_raymond_233529",
+        "quote": "The beginnings of the hacker culture as we know it today can be conveniently dated to 1961, the year MIT acquired the first PDP-1.",
+        "author": {
+            "name": "Eric S. Raymond",
+            "url": "/quotes/eric_s_raymond_233529"
+        },
+        "topics": [
+            {
+                "name": "Hacker",
+                "url": "/topics/hacker"
+            },
+            {
+                "name": "Year",
+                "url": "/topics/year"
+            },
+            {
+                "name": "Conveniently",
+                "url": "/topics/conveniently"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eric_s_raymond_233543",
+        "quote": "A critical factor in its success was that the X developers were willing to give the sources away for free in accordance with the hacker ethic, and able to distribute them over the Internet.",
+        "author": {
+            "name": "Eric S. Raymond",
+            "url": "/quotes/eric_s_raymond_233543"
+        },
+        "topics": [
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eric_s_raymond_671663",
+        "quote": "When are programmers happy? They're happy when they're not underutilized - when they're not bored - and also when they're not overburdened with inappropriate specifications or meaningless bureaucracies. In other words, programmers are happiest when they're working efficiently. This is a general preference in creative work.",
+        "author": {
+            "name": "Eric S. Raymond",
+            "url": "/quotes/eric_s_raymond_671663"
+        },
+        "topics": [
+            {
+                "name": "Happy",
+                "url": "/topics/happy"
+            },
+            {
+                "name": "Happiest",
+                "url": "/topics/happiest"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eric_s_raymond_233545",
+        "quote": "Berkeley hackers liked to see themselves as rebels against soulless corporate empires.",
+        "author": {
+            "name": "Eric S. Raymond",
+            "url": "/quotes/eric_s_raymond_233545"
+        },
+        "topics": [
+            {
+                "name": "See",
+                "url": "/topics/see"
+            },
+            {
+                "name": "Corporate",
+                "url": "/topics/corporate"
+            },
+            {
+                "name": "Berkeley",
+                "url": "/topics/berkeley"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eric_s_raymond_233536",
+        "quote": "Thompson and Ritchie were among the first to realize that hardware and compiler technology had become good enough that an entire operating system could be written in C, and by 1978 the whole environment had been successfully ported to several machines of different types.",
+        "author": {
+            "name": "Eric S. Raymond",
+            "url": "/quotes/eric_s_raymond_233536"
+        },
+        "topics": [
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Had",
+                "url": "/topics/had"
+            },
+            {
+                "name": "Several",
+                "url": "/topics/several"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eric_s_raymond_233526",
+        "quote": "In the beginning, there were Real Programmers.",
+        "author": {
+            "name": "Eric S. Raymond",
+            "url": "/quotes/eric_s_raymond_233526"
+        },
+        "topics": [
+            {
+                "name": "Beginning",
+                "url": "/topics/beginning"
+            },
+            {
+                "name": "Programmers",
+                "url": "/topics/programmers"
+            },
+            {
+                "name": "Were",
+                "url": "/topics/were"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eric_s_raymond_233541",
+        "quote": "The workstation-class machines built by Sun and others opened up new worlds for hackers.",
+        "author": {
+            "name": "Eric S. Raymond",
+            "url": "/quotes/eric_s_raymond_233541"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Worlds",
+                "url": "/topics/worlds"
+            },
+            {
+                "name": "Built",
+                "url": "/topics/built"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eric_s_raymond_233547",
+        "quote": "For the first time, individual hackers could afford to have home machines comparable in power and storage capacity to the minicomputers of ten years earlier - Unix engines capable of supporting a full development environment and talking to the Internet.",
+        "author": {
+            "name": "Eric S. Raymond",
+            "url": "/quotes/eric_s_raymond_233547"
+        },
+        "topics": [
+            {
+                "name": "Talking",
+                "url": "/topics/talking"
+            },
+            {
+                "name": "Capable",
+                "url": "/topics/capable"
+            },
+            {
+                "name": "Storage",
+                "url": "/topics/storage"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eric_s_raymond_671659",
+        "quote": "As a Facebook user, do I have control of the data Facebook keeps about me? Concretely: can I examine and modify that data using tools of my choosing which are built for my needs?",
+        "author": {
+            "name": "Eric S. Raymond",
+            "url": "/quotes/eric_s_raymond_671659"
+        },
+        "topics": [
+            {
+                "name": "Needs",
+                "url": "/topics/needs"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Using",
+                "url": "/topics/using"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eric_s_raymond_671660",
+        "quote": "Does Facebook act as though I own my online life, or as though it does? Concretely: Can I control what data it shares with other users, with advertisers, and with business partners?",
+        "author": {
+            "name": "Eric S. Raymond",
+            "url": "/quotes/eric_s_raymond_671660"
+        },
+        "topics": [
+            {
+                "name": "Data",
+                "url": "/topics/data"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Though",
+                "url": "/topics/though"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eric_s_raymond_671664",
+        "quote": "People are happiest when they're the most productive. People enjoy tasks, especially creative tasks, when the tasks are in the optimal-challenge zone: not too hard and not too easy. To some extent, that has always been true. But it becomes even more true as work becomes more about brains and creativity.",
+        "author": {
+            "name": "Eric S. Raymond",
+            "url": "/quotes/eric_s_raymond_671664"
+        },
+        "topics": [
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Extent",
+                "url": "/topics/extent"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eric_s_raymond_671665",
+        "quote": "People who study primate societies make a distinction between two kinds of cultural interactions, agonic and hedonic. In agonic societies, you gain status by asserting dominance over others. In hedonic societies, you gain status by drawing attention to yourself. Open source is a hedonic culture.",
+        "author": {
+            "name": "Eric S. Raymond",
+            "url": "/quotes/eric_s_raymond_671665"
+        },
+        "topics": [
+            {
+                "name": "Study",
+                "url": "/topics/study"
+            },
+            {
+                "name": "Distinction",
+                "url": "/topics/distinction"
+            },
+            {
+                "name": "Kinds",
+                "url": "/topics/kinds"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eric_s_raymond_233531",
+        "quote": "The ARPAnet was the first transcontinental, high-speed computer network.",
+        "author": {
+            "name": "Eric S. Raymond",
+            "url": "/quotes/eric_s_raymond_233531"
+        },
+        "topics": [
+            {
+                "name": "First",
+                "url": "/topics/first"
+            },
+            {
+                "name": "Computer",
+                "url": "/topics/computer"
+            },
+            {
+                "name": "High-Speed",
+                "url": "/topics/high-speed"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eric_s_raymond_233537",
+        "quote": "If Unix could present the same face, the same capabilities, on machines of many different types, it could serve as a common software environment for all of them.",
+        "author": {
+            "name": "Eric S. Raymond",
+            "url": "/quotes/eric_s_raymond_233537"
+        },
+        "topics": [
+            {
+                "name": "Capabilities",
+                "url": "/topics/capabilities"
+            },
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            },
+            {
+                "name": "Types",
+                "url": "/topics/types"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eric_s_raymond_233549",
+        "quote": "In early 1993, a hostile observer might have had grounds for thinking that the Unix story was almost played out, and with it the fortunes of the hacker tribe.",
+        "author": {
+            "name": "Eric S. Raymond",
+            "url": "/quotes/eric_s_raymond_233549"
+        },
+        "topics": [
+            {
+                "name": "Almost",
+                "url": "/topics/almost"
+            },
+            {
+                "name": "Hostile",
+                "url": "/topics/hostile"
+            },
+            {
+                "name": "Might",
+                "url": "/topics/might"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eric_s_raymond_233551",
+        "quote": "Linux evolved in a completely different way. From nearly the beginning, it was rather casually hacked on by huge numbers of volunteers coordinating only through the Internet.",
+        "author": {
+            "name": "Eric S. Raymond",
+            "url": "/quotes/eric_s_raymond_233551"
+        },
+        "topics": [
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Coordinating",
+                "url": "/topics/coordinating"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eric_s_raymond_671661",
+        "quote": "Does Facebook behave like a tool in my hand, or a firehose designed to spew at me in accordance with other peoples' agendas? Concretely: can I write my own client to present a filtered view of the Facebook stream, or have other people do that for me?",
+        "author": {
+            "name": "Eric S. Raymond",
+            "url": "/quotes/eric_s_raymond_671661"
+        },
+        "topics": [
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "I Write",
+                "url": "/topics/i_write"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eric_s_raymond_671662",
+        "quote": "Money is just a way to keep score. The best people in any field are motivated by passion. That becomes more true the higher the skill level gets.",
+        "author": {
+            "name": "Eric S. Raymond",
+            "url": "/quotes/eric_s_raymond_671662"
+        },
+        "topics": [
+            {
+                "name": "Motivated",
+                "url": "/topics/motivated"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Level",
+                "url": "/topics/level"
+            }
+        ]
+    }
+]

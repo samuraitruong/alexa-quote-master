@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/judith_r_faulkner_743958",
+        "quote": "I like to keep some privacy, be a normal person.",
+        "author": {
+            "name": "Judith R. Faulkner",
+            "url": "/quotes/judith_r_faulkner_743958"
+        },
+        "topics": [
+            {
+                "name": "Normal",
+                "url": "/topics/normal"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/judith_r_faulkner_743959",
+        "quote": "I like to go around, and people not knowing who I am.",
+        "author": {
+            "name": "Judith R. Faulkner",
+            "url": "/quotes/judith_r_faulkner_743959"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Knowing",
+                "url": "/topics/knowing"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/judith_r_faulkner_743956",
+        "quote": "I get so many requests for interviews. If I talk to everyone, we can't do our job with our customers and work on our software. It would be hard to stay focused.",
+        "author": {
+            "name": "Judith R. Faulkner",
+            "url": "/quotes/judith_r_faulkner_743956"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "Everyone",
+                "url": "/topics/everyone"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/judith_r_faulkner_743957",
+        "quote": "I was an undergrad math major and a grad student in computer science. I'm hugely introverted, not atypical of math majors.",
+        "author": {
+            "name": "Judith R. Faulkner",
+            "url": "/quotes/judith_r_faulkner_743957"
+        },
+        "topics": [
+            {
+                "name": "Student",
+                "url": "/topics/student"
+            },
+            {
+                "name": "Introverted",
+                "url": "/topics/introverted"
+            },
+            {
+                "name": "Hugely",
+                "url": "/topics/hugely"
+            }
+        ]
+    }
+]

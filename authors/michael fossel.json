@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/michael_fossel_818385",
+        "quote": "Going to the moon was a fable. Resetting aging is a fable, but that's what we're setting out to do.",
+        "author": {
+            "name": "Michael Fossel",
+            "url": "/quotes/michael_fossel_818385"
+        },
+        "topics": [
+            {
+                "name": "Moon",
+                "url": "/topics/moon"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "To The Moon",
+                "url": "/topics/to_the_moon"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/michael_fossel_818383",
+        "quote": "We will never conquer death.",
+        "author": {
+            "name": "Michael Fossel",
+            "url": "/quotes/michael_fossel_818383"
+        },
+        "topics": [
+            {
+                "name": "Death",
+                "url": "/topics/death"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/michael_fossel_818384",
+        "quote": "Telomerase Activation is the single most promising approach to reversing the effects of aging.",
+        "author": {
+            "name": "Michael Fossel",
+            "url": "/quotes/michael_fossel_818384"
+        },
+        "topics": [
+            {
+                "name": "Single",
+                "url": "/topics/single"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "Effects",
+                "url": "/topics/effects"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/michael_fossel_818386",
+        "quote": "If you asked me what caused aging, I would say free radicals and molecules, which spontaneously shift and form and cause damage in all our cells and genes. The body usually repairs and replaces the damage in these genes. But as you get older, the aging clock turns down those defenses.",
+        "author": {
+            "name": "Michael Fossel",
+            "url": "/quotes/michael_fossel_818386"
+        },
+        "topics": [
+            {
+                "name": "Damage",
+                "url": "/topics/damage"
+            },
+            {
+                "name": "Spontaneously",
+                "url": "/topics/spontaneously"
+            }
+        ]
+    }
+]

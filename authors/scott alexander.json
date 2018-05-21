@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/scott_alexander_154522",
+        "quote": "All good is hard. All evil is easy. Dying, losing, cheating, and mediocrity is easy. Stay away from easy.",
+        "author": {
+            "name": "Scott Alexander",
+            "url": "/quotes/scott_alexander_154522"
+        },
+        "topics": [
+            {
+                "name": "Dying",
+                "url": "/topics/dying"
+            },
+            {
+                "name": "Mediocrity",
+                "url": "/topics/mediocrity"
+            },
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/scott_alexander_154535",
+        "quote": "Making money is a hobby that will complement any other hobbies you have, beautifully.",
+        "author": {
+            "name": "Scott Alexander",
+            "url": "/quotes/scott_alexander_154535"
+        },
+        "topics": [
+            {
+                "name": "Money",
+                "url": "/topics/money"
+            },
+            {
+                "name": "Making",
+                "url": "/topics/making"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/scott_alexander_154534",
+        "quote": "The basic rule of free enterprise: You must give in order to get.",
+        "author": {
+            "name": "Scott Alexander",
+            "url": "/quotes/scott_alexander_154534"
+        },
+        "topics": [
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            },
+            {
+                "name": "Enterprise",
+                "url": "/topics/enterprise"
+            },
+            {
+                "name": "Get",
+                "url": "/topics/get"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/scott_alexander_165711",
+        "quote": "The best way to make happy money is to make money your hobby and not your god.",
+        "author": {
+            "name": "Scott Alexander",
+            "url": "/quotes/scott_alexander_165711"
+        },
+        "topics": [
+            {
+                "name": "Happy",
+                "url": "/topics/happy"
+            },
+            {
+                "name": "Money",
+                "url": "/topics/money"
+            },
+            {
+                "name": "Best Way",
+                "url": "/topics/best_way"
+            }
+        ]
+    }
+]

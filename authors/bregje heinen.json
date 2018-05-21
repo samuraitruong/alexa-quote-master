@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/bregje_heinen_627956",
+        "quote": "I don't really work out that much. I don't go to the gym.",
+        "author": {
+            "name": "Bregje Heinen",
+            "url": "/quotes/bregje_heinen_627956"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Go",
+                "url": "/topics/go"
+            },
+            {
+                "name": "Work Out",
+                "url": "/topics/work_out"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bregje_heinen_627957",
+        "quote": "My mom is really skinny, too. I got it from her. I've never done yoga before.",
+        "author": {
+            "name": "Bregje Heinen",
+            "url": "/quotes/bregje_heinen_627957"
+        },
+        "topics": [
+            {
+                "name": "Mom",
+                "url": "/topics/mom"
+            },
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            },
+            {
+                "name": "Yoga",
+                "url": "/topics/yoga"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bregje_heinen_627958",
+        "quote": "I do like to walk a lot. Mostly in New York. When I'm going somewhere, I'd rather just walk there.",
+        "author": {
+            "name": "Bregje Heinen",
+            "url": "/quotes/bregje_heinen_627958"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Mostly",
+                "url": "/topics/mostly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bregje_heinen_627959",
+        "quote": "People would tell me sometimes that I should model, but I was like, 'I don't know!'",
+        "author": {
+            "name": "Bregje Heinen",
+            "url": "/quotes/bregje_heinen_627959"
+        },
+        "topics": [
+            {
+                "name": "Tell",
+                "url": "/topics/tell"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            }
+        ]
+    }
+]

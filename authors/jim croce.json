@@ -1,0 +1,108 @@
+[
+    {
+        "url": "/quotes/jim_croce_678704",
+        "quote": "There's something about approaching universal truths with the simplicity of the acoustic guitar. You can take it anywhere, and it helps me reach listeners of all ages and walks of life.",
+        "author": {
+            "name": "Jim Croce",
+            "url": "/quotes/jim_croce_678704"
+        },
+        "topics": [
+            {
+                "name": "Acoustic Guitar",
+                "url": "/topics/acoustic_guitar"
+            },
+            {
+                "name": "Listeners",
+                "url": "/topics/listeners"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jim_croce_678703",
+        "quote": "I'm no missionary, and I can't wear any armor, either. I just gotta be the way I am.",
+        "author": {
+            "name": "Jim Croce",
+            "url": "/quotes/jim_croce_678703"
+        },
+        "topics": [
+            {
+                "name": "Wear",
+                "url": "/topics/wear"
+            },
+            {
+                "name": "Gotta",
+                "url": "/topics/gotta"
+            },
+            {
+                "name": "Am",
+                "url": "/topics/am"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jim_croce_678706",
+        "quote": "If you dig it, do it. If you really dig it, do it twice.",
+        "author": {
+            "name": "Jim Croce",
+            "url": "/quotes/jim_croce_678706"
+        },
+        "topics": [
+            {
+                "name": "You",
+                "url": "/topics/you"
+            },
+            {
+                "name": "Twice",
+                "url": "/topics/twice"
+            },
+            {
+                "name": "Dig",
+                "url": "/topics/dig"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jim_croce_678705",
+        "quote": "I never really thought of my neighborhood in South Philly as being a neighborhood; it was more a state of mind. For people who aren't familiar with those kinds of places, it's a whole different thing. Like, 42nd Street in New York City is a state of mind.",
+        "author": {
+            "name": "Jim Croce",
+            "url": "/quotes/jim_croce_678705"
+        },
+        "topics": [
+            {
+                "name": "City",
+                "url": "/topics/city"
+            },
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "South",
+                "url": "/topics/south"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jim_croce_338909",
+        "quote": "If you dig it, do it. If you dig it a lot, do it twice.",
+        "author": {
+            "name": "Jim Croce",
+            "url": "/quotes/jim_croce_338909"
+        },
+        "topics": [
+            {
+                "name": "Twice",
+                "url": "/topics/twice"
+            },
+            {
+                "name": "Dig",
+                "url": "/topics/dig"
+            },
+            {
+                "name": "Lot",
+                "url": "/topics/lot"
+            }
+        ]
+    }
+]

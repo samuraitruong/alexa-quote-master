@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/carl_stokes_202135",
+        "quote": "My style will be management by being on the street, management by walking around. Third persons won't have to tell me what's going on in our city. I'll hear it, I'll see it, I'll touch it myself.",
+        "author": {
+            "name": "Carl Stokes",
+            "url": "/quotes/carl_stokes_202135"
+        },
+        "topics": [
+            {
+                "name": "City",
+                "url": "/topics/city"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/carl_stokes_202137",
+        "quote": "What has been happening the last four years in City Hall is that they have been closing recreation centers, closing libraries. We have not looked after our children in City Hall.",
+        "author": {
+            "name": "Carl Stokes",
+            "url": "/quotes/carl_stokes_202137"
+        },
+        "topics": [
+            {
+                "name": "City",
+                "url": "/topics/city"
+            },
+            {
+                "name": "Last",
+                "url": "/topics/last"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    }
+]

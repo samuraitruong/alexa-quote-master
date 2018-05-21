@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/gaston_lachaise_680620",
+        "quote": "All art is a confession.",
+        "author": {
+            "name": "Gaston Lachaise",
+            "url": "/quotes/gaston_lachaise_680620"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Confession",
+                "url": "/topics/confession"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gaston_lachaise_680619",
+        "quote": "In Paris, I met a young American person who immediately became the primary inspiration which awakened my vision and the leading influence that had directed my forces. Throughout my career as an artist, I refer to this person by the word 'Woman.'",
+        "author": {
+            "name": "Gaston Lachaise",
+            "url": "/quotes/gaston_lachaise_680619"
+        },
+        "topics": [
+            {
+                "name": "Woman",
+                "url": "/topics/woman"
+            },
+            {
+                "name": "Career",
+                "url": "/topics/career"
+            },
+            {
+                "name": "Became",
+                "url": "/topics/became"
+            }
+        ]
+    }
+]

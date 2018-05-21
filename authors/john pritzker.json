@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/john_pritzker_743953",
+        "quote": "Hyatt lost its appeal because it was too big a machine. It's easy to systematize economies of scale, but you slowly lose who you are.",
+        "author": {
+            "name": "John Pritzker",
+            "url": "/quotes/john_pritzker_743953"
+        },
+        "topics": [
+            {
+                "name": "Lose",
+                "url": "/topics/lose"
+            },
+            {
+                "name": "Scale",
+                "url": "/topics/scale"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_pritzker_743954",
+        "quote": "I like walking into a smaller hotel where the desk clerk recognizes me.",
+        "author": {
+            "name": "John Pritzker",
+            "url": "/quotes/john_pritzker_743954"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Clerk",
+                "url": "/topics/clerk"
+            },
+            {
+                "name": "Smaller",
+                "url": "/topics/smaller"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_pritzker_743955",
+        "quote": "All you need to do is to get clients in the hotel door; then they hand you their wallets for five days.",
+        "author": {
+            "name": "John Pritzker",
+            "url": "/quotes/john_pritzker_743955"
+        },
+        "topics": [
+            {
+                "name": "Door",
+                "url": "/topics/door"
+            },
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            },
+            {
+                "name": "Clients",
+                "url": "/topics/clients"
+            }
+        ]
+    }
+]

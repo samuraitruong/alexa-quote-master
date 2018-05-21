@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/charles_frohman_312108",
+        "quote": "Why fear death? It is the most beautiful adventure in life.",
+        "author": {
+            "name": "Charles Frohman",
+            "url": "/quotes/charles_frohman_312108"
+        },
+        "topics": [
+            {
+                "name": "Beautiful",
+                "url": "/topics/beautiful"
+            },
+            {
+                "name": "Adventure",
+                "url": "/topics/adventure"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charles_frohman_316075",
+        "quote": "This little ship you sent is more wonderful than the big one that takes me away from you.",
+        "author": {
+            "name": "Charles Frohman",
+            "url": "/quotes/charles_frohman_316075"
+        },
+        "topics": [
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Big One",
+                "url": "/topics/big_one"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charles_frohman_316076",
+        "quote": "When you consider all the stars I have managed, mere submarines make me smile.",
+        "author": {
+            "name": "Charles Frohman",
+            "url": "/quotes/charles_frohman_316076"
+        },
+        "topics": [
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Mere",
+                "url": "/topics/mere"
+            },
+            {
+                "name": "Consider",
+                "url": "/topics/consider"
+            }
+        ]
+    }
+]

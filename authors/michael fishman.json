@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/michael_fishman_576911",
+        "quote": "It's very rewarding if I make a difference to a kid.",
+        "author": {
+            "name": "Michael Fishman",
+            "url": "/quotes/michael_fishman_576911"
+        },
+        "topics": [
+            {
+                "name": "Kid",
+                "url": "/topics/kid"
+            },
+            {
+                "name": "Rewarding",
+                "url": "/topics/rewarding"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/michael_fishman_576912",
+        "quote": "I'm a homebody. I like having my parents around.",
+        "author": {
+            "name": "Michael Fishman",
+            "url": "/quotes/michael_fishman_576912"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Having",
+                "url": "/topics/having"
+            },
+            {
+                "name": "Homebody",
+                "url": "/topics/homebody"
+            }
+        ]
+    }
+]

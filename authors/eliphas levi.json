@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/eliphas_levi_130396",
+        "quote": "A good teacher must be able to put himself in the place of those who find learning hard.",
+        "author": {
+            "name": "Eliphas Levi",
+            "url": "/quotes/eliphas_levi_130396"
+        },
+        "topics": [
+            {
+                "name": "Learning",
+                "url": "/topics/learning"
+            },
+            {
+                "name": "Good",
+                "url": "/topics/good"
+            },
+            {
+                "name": "Put",
+                "url": "/topics/put"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eliphas_levi_130386",
+        "quote": "Order is never observed; it is disorder that attracts attention because it is awkward and intrusive.",
+        "author": {
+            "name": "Eliphas Levi",
+            "url": "/quotes/eliphas_levi_130386"
+        },
+        "topics": [
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Disorder",
+                "url": "/topics/disorder"
+            },
+            {
+                "name": "Intrusive",
+                "url": "/topics/intrusive"
+            }
+        ]
+    }
+]

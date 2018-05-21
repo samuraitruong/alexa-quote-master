@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/michael_reed_288604",
+        "quote": "Any fool can say he is wise but only someone wise can admit he is a fool.",
+        "author": {
+            "name": "Michael Reed",
+            "url": "/quotes/michael_reed_288604"
+        },
+        "topics": [
+            {
+                "name": "Wise",
+                "url": "/topics/wise"
+            },
+            {
+                "name": "Admit",
+                "url": "/topics/admit"
+            },
+            {
+                "name": "Someone",
+                "url": "/topics/someone"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/michael_reed_288603",
+        "quote": "Not really interested in covering other bands songs to be honest.",
+        "author": {
+            "name": "Michael Reed",
+            "url": "/quotes/michael_reed_288603"
+        },
+        "topics": [
+            {
+                "name": "Songs",
+                "url": "/topics/songs"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Covering",
+                "url": "/topics/covering"
+            }
+        ]
+    }
+]

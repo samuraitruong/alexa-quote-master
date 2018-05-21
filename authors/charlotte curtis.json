@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/charlotte_curtis_111623",
+        "quote": "His venture sounds like a banana peel awaiting its victim.",
+        "author": {
+            "name": "Charlotte Curtis",
+            "url": "/quotes/charlotte_curtis_111623"
+        },
+        "topics": [
+            {
+                "name": "Banana",
+                "url": "/topics/banana"
+            },
+            {
+                "name": "Sounds",
+                "url": "/topics/sounds"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charlotte_curtis_111625",
+        "quote": "The nearest we have to a Henry James or an Edith Wharton of the East Coast's Wasp upper classes.",
+        "author": {
+            "name": "Charlotte Curtis",
+            "url": "/quotes/charlotte_curtis_111625"
+        },
+        "topics": [
+            {
+                "name": "Coast",
+                "url": "/topics/coast"
+            },
+            {
+                "name": "Wasp",
+                "url": "/topics/wasp"
+            },
+            {
+                "name": "Henry",
+                "url": "/topics/henry"
+            }
+        ]
+    }
+]

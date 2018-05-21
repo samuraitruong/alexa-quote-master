@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/ilya_ehrenburg_173050",
+        "quote": "Knowledge has outstripped character development, and the young today are given an education rather than an upbringing.",
+        "author": {
+            "name": "Ilya Ehrenburg",
+            "url": "/quotes/ilya_ehrenburg_173050"
+        },
+        "topics": [
+            {
+                "name": "Development",
+                "url": "/topics/development"
+            },
+            {
+                "name": "Young",
+                "url": "/topics/young"
+            },
+            {
+                "name": "Given",
+                "url": "/topics/given"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ilya_ehrenburg_175168",
+        "quote": "You could cover the whole earth with asphalt, but sooner or later green grass would break through.",
+        "author": {
+            "name": "Ilya Ehrenburg",
+            "url": "/quotes/ilya_ehrenburg_175168"
+        },
+        "topics": [
+            {
+                "name": "Green",
+                "url": "/topics/green"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Sooner",
+                "url": "/topics/sooner"
+            }
+        ]
+    }
+]

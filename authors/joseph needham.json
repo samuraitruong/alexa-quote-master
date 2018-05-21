@@ -1,0 +1,60 @@
+[
+    {
+        "url": "/quotes/joseph_needham_208075",
+        "quote": "Daoist thought is the root of science and technology in China.",
+        "author": {
+            "name": "Joseph Needham",
+            "url": "/quotes/joseph_needham_208075"
+        },
+        "topics": [
+            {
+                "name": "Science And Technology",
+                "url": "/topics/science_and_technology"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joseph_needham_208076",
+        "quote": "The hierarchy of relations, from the molecular structure of carbon to the equilibrium of the species and ecological whole, will perhaps be the leading idea of the future.",
+        "author": {
+            "name": "Joseph Needham",
+            "url": "/quotes/joseph_needham_208076"
+        },
+        "topics": [
+            {
+                "name": "Leading",
+                "url": "/topics/leading"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Ecological",
+                "url": "/topics/ecological"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joseph_needham_208077",
+        "quote": "Although there is a very large literature, still growing almost daily, on the Chinese calendar, its interest is, we suggest, much more archaeological and historical than scientific.",
+        "author": {
+            "name": "Joseph Needham",
+            "url": "/quotes/joseph_needham_208077"
+        },
+        "topics": [
+            {
+                "name": "Calendar",
+                "url": "/topics/calendar"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            }
+        ]
+    }
+]

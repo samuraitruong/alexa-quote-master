@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/gina_lollobrigida_176595",
+        "quote": "A woman at 20 is like ice, at 30 she is warm and at 40 she is hot.",
+        "author": {
+            "name": "Gina Lollobrigida",
+            "url": "/quotes/gina_lollobrigida_176595"
+        },
+        "topics": [
+            {
+                "name": "Woman",
+                "url": "/topics/woman"
+            },
+            {
+                "name": "She",
+                "url": "/topics/she"
+            },
+            {
+                "name": "Warm",
+                "url": "/topics/warm"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gina_lollobrigida_176596",
+        "quote": "I do what I like now. I just don't have time for it all.",
+        "author": {
+            "name": "Gina Lollobrigida",
+            "url": "/quotes/gina_lollobrigida_176596"
+        },
+        "topics": [
+            {
+                "name": "Time",
+                "url": "/topics/time"
+            },
+            {
+                "name": "Now",
+                "url": "/topics/now"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    }
+]

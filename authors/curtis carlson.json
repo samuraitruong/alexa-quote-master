@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/curtis_carlson_158555",
+        "quote": "I consider a goal as a journey rather than a destination. And each year I set a new goal.",
+        "author": {
+            "name": "Curtis Carlson",
+            "url": "/quotes/curtis_carlson_158555"
+        },
+        "topics": [
+            {
+                "name": "Goal",
+                "url": "/topics/goal"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Set",
+                "url": "/topics/set"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/curtis_carlson_158553",
+        "quote": "Only as long as a company can produce a desired, worthwhile, and needed product or service, and can command the public, will it receive the public dollar and succeed.",
+        "author": {
+            "name": "Curtis Carlson",
+            "url": "/quotes/curtis_carlson_158553"
+        },
+        "topics": [
+            {
+                "name": "Product",
+                "url": "/topics/product"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Receive",
+                "url": "/topics/receive"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/curtis_carlson_158552",
+        "quote": "All my life I knew that there was all the money you could want out there. All you have to do is go after it.",
+        "author": {
+            "name": "Curtis Carlson",
+            "url": "/quotes/curtis_carlson_158552"
+        },
+        "topics": [
+            {
+                "name": "Money",
+                "url": "/topics/money"
+            },
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            }
+        ]
+    }
+]

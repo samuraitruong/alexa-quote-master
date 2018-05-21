@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/john_oneill_126623",
+        "quote": "I am a sociologist, God help me.",
+        "author": {
+            "name": "John O'Neill",
+            "url": "/quotes/john_oneill_126623"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Help",
+                "url": "/topics/help"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_oneill_406247",
+        "quote": "I don't want my kids going through what I went through - police stopping you, searching you and all that malarkey.",
+        "author": {
+            "name": "John O'Neill",
+            "url": "/quotes/john_oneill_406247"
+        },
+        "topics": [
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_oneill_406248",
+        "quote": "I saw some war heroes... John Kerry is not a war hero. He couldn't tie the shoes of some of the people in Coastal Division 11.",
+        "author": {
+            "name": "John O'Neill",
+            "url": "/quotes/john_oneill_406248"
+        },
+        "topics": [
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Saw",
+                "url": "/topics/saw"
+            },
+            {
+                "name": "John Kerry",
+                "url": "/topics/john_kerry"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_oneill_406249",
+        "quote": "In painting feathers, you want to create the look of feathers, but if you try to paint all the feathers, you have nothing but disaster.",
+        "author": {
+            "name": "John O'Neill",
+            "url": "/quotes/john_oneill_406249"
+        },
+        "topics": [
+            {
+                "name": "Painting",
+                "url": "/topics/painting"
+            },
+            {
+                "name": "Feathers",
+                "url": "/topics/feathers"
+            },
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_oneill_406250",
+        "quote": "We said we would leave no stone unturned to get to Germany and now we are applying the same philosophy towards our tournament preparations.",
+        "author": {
+            "name": "John O'Neill",
+            "url": "/quotes/john_oneill_406250"
+        },
+        "topics": [
+            {
+                "name": "Germany",
+                "url": "/topics/germany"
+            },
+            {
+                "name": "Applying",
+                "url": "/topics/applying"
+            },
+            {
+                "name": "Towards",
+                "url": "/topics/towards"
+            }
+        ]
+    }
+]

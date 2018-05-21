@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/stephen_phillips_256475",
+        "quote": "I am not old but mellow like good wine.",
+        "author": {
+            "name": "Stephen Phillips",
+            "url": "/quotes/stephen_phillips_256475"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Mellow",
+                "url": "/topics/mellow"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/stephen_phillips_256476",
+        "quote": "They who grasp the world, The Kingdom, and the power, and the glory, Must pay with deepest misery of spirit, Atoning unto God for a brief brightness.",
+        "author": {
+            "name": "Stephen Phillips",
+            "url": "/quotes/stephen_phillips_256476"
+        },
+        "topics": [
+            {
+                "name": "Misery",
+                "url": "/topics/misery"
+            },
+            {
+                "name": "Brief",
+                "url": "/topics/brief"
+            },
+            {
+                "name": "Unto",
+                "url": "/topics/unto"
+            }
+        ]
+    }
+]

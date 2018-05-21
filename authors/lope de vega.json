@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/lope_de_vega_204857",
+        "quote": "Harmony is pure love, for love is complete agreement.",
+        "author": {
+            "name": "Lope de Vega",
+            "url": "/quotes/lope_de_vega_204857"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Harmony",
+                "url": "/topics/harmony"
+            },
+            {
+                "name": "Agreement",
+                "url": "/topics/agreement"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lope_de_vega_204851",
+        "quote": "There is no greater glory than love, nor any greater punishment than jealousy.",
+        "author": {
+            "name": "Lope de Vega",
+            "url": "/quotes/lope_de_vega_204851"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Jealousy",
+                "url": "/topics/jealousy"
+            },
+            {
+                "name": "Nor",
+                "url": "/topics/nor"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lope_de_vega_204855",
+        "quote": "With a few flowers in my garden, half a dozen pictures and some books, I live without envy.",
+        "author": {
+            "name": "Lope de Vega",
+            "url": "/quotes/lope_de_vega_204855"
+        },
+        "topics": [
+            {
+                "name": "Flowers",
+                "url": "/topics/flowers"
+            },
+            {
+                "name": "Half",
+                "url": "/topics/half"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lope_de_vega_204850",
+        "quote": "Dreaming of a tomorrow, which tomorrow, will be as distant then as 'tis today.",
+        "author": {
+            "name": "Lope de Vega",
+            "url": "/quotes/lope_de_vega_204850"
+        },
+        "topics": [
+            {
+                "name": "Dreams",
+                "url": "/topics/dreams"
+            },
+            {
+                "name": "Dreaming",
+                "url": "/topics/dreaming"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lope_de_vega_204852",
+        "quote": "Profits on the exchange are the treasures of goblins.",
+        "author": {
+            "name": "Lope de Vega",
+            "url": "/quotes/lope_de_vega_204852"
+        },
+        "topics": [
+            {
+                "name": "Treasures",
+                "url": "/topics/treasures"
+            },
+            {
+                "name": "Exchange",
+                "url": "/topics/exchange"
+            },
+            {
+                "name": "Profits",
+                "url": "/topics/profits"
+            }
+        ]
+    }
+]

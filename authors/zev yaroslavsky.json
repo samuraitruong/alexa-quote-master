@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/zev_yaroslavsky_405726",
+        "quote": "I am disappointed and disturbed by both the NFL and the Dodgers - but much more by the Dodgers.",
+        "author": {
+            "name": "Zev Yaroslavsky",
+            "url": "/quotes/zev_yaroslavsky_405726"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Disappointed",
+                "url": "/topics/disappointed"
+            },
+            {
+                "name": "Dodgers",
+                "url": "/topics/dodgers"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/zev_yaroslavsky_405727",
+        "quote": "We'll have to marshal our forces in Washington. It won't be easy. That doesn't mean it can't be done.",
+        "author": {
+            "name": "Zev Yaroslavsky",
+            "url": "/quotes/zev_yaroslavsky_405727"
+        },
+        "topics": [
+            {
+                "name": "Mean",
+                "url": "/topics/mean"
+            },
+            {
+                "name": "Forces",
+                "url": "/topics/forces"
+            },
+            {
+                "name": "Marshal",
+                "url": "/topics/marshal"
+            }
+        ]
+    }
+]

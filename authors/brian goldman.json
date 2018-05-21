@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/brian_goldman_545261",
+        "quote": "Show me any health professional - great and not so great - who says they don't make mistakes or haven't made one in years, and I'll show you someone who has trouble admitting the truth.",
+        "author": {
+            "name": "Brian Goldman",
+            "url": "/quotes/brian_goldman_545261"
+        },
+        "topics": [
+            {
+                "name": "Health",
+                "url": "/topics/health"
+            },
+            {
+                "name": "Show",
+                "url": "/topics/show"
+            },
+            {
+                "name": "Made",
+                "url": "/topics/made"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brian_goldman_545262",
+        "quote": "Good doctors exercise judgment. They make the call and - right or wrong - live with the consequences and learn from them. The redefined M.D. is flawed, but comfortable inside their own skin.",
+        "author": {
+            "name": "Brian Goldman",
+            "url": "/quotes/brian_goldman_545262"
+        },
+        "topics": [
+            {
+                "name": "Skin",
+                "url": "/topics/skin"
+            },
+            {
+                "name": "Learn",
+                "url": "/topics/learn"
+            },
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brian_goldman_545263",
+        "quote": "The redefined M.D. is able to access the still, small voice that says I'm about to make a mistake - or I've just made one and I need to undo it before it's too late.",
+        "author": {
+            "name": "Brian Goldman",
+            "url": "/quotes/brian_goldman_545263"
+        },
+        "topics": [
+            {
+                "name": "Voice",
+                "url": "/topics/voice"
+            },
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Too Late",
+                "url": "/topics/too_late"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/empedocles_188476",
+        "quote": "The nature of God is a circle of which the center is everywhere and the circumference is nowhere.",
+        "author": {
+            "name": "Empedocles",
+            "url": "/quotes/empedocles_188476"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "Nowhere",
+                "url": "/topics/nowhere"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/empedocles_188478",
+        "quote": "Happy is he who has gained the wealth of divine thoughts, wretched is he whose beliefs about the gods are dark.",
+        "author": {
+            "name": "Empedocles",
+            "url": "/quotes/empedocles_188478"
+        },
+        "topics": [
+            {
+                "name": "Happy",
+                "url": "/topics/happy"
+            },
+            {
+                "name": "Thoughts",
+                "url": "/topics/thoughts"
+            },
+            {
+                "name": "Wealth",
+                "url": "/topics/wealth"
+            }
+        ]
+    }
+]

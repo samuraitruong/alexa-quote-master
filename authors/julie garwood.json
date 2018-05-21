@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/julie_garwood_461927",
+        "quote": "I like writing about friends.",
+        "author": {
+            "name": "Julie Garwood",
+            "url": "/quotes/julie_garwood_461927"
+        },
+        "topics": [
+            {
+                "name": "Writing",
+                "url": "/topics/writing"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/julie_garwood_461926",
+        "quote": "I just want to make people smile.",
+        "author": {
+            "name": "Julie Garwood",
+            "url": "/quotes/julie_garwood_461926"
+        },
+        "topics": [
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Just",
+                "url": "/topics/just"
+            },
+            {
+                "name": "Make",
+                "url": "/topics/make"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/julie_garwood_461928",
+        "quote": "Women bond differently, and I don't think men understand that.",
+        "author": {
+            "name": "Julie Garwood",
+            "url": "/quotes/julie_garwood_461928"
+        },
+        "topics": [
+            {
+                "name": "Men",
+                "url": "/topics/men"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Differently",
+                "url": "/topics/differently"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/julie_garwood_461929",
+        "quote": "I love historical romance, absolutely love it.",
+        "author": {
+            "name": "Julie Garwood",
+            "url": "/quotes/julie_garwood_461929"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Romance",
+                "url": "/topics/romance"
+            },
+            {
+                "name": "I Love",
+                "url": "/topics/i_love"
+            }
+        ]
+    }
+]

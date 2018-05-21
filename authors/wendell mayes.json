@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/wendell_mayes_402870",
+        "quote": "Some smart man once said that on the most exalted throne in the world, we are seated on nothing but our own arse.",
+        "author": {
+            "name": "Wendell Mayes",
+            "url": "/quotes/wendell_mayes_402870"
+        },
+        "topics": [
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            },
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/wendell_mayes_401926",
+        "quote": "Indecision is a virus that can run through an army and destroy its will to win or even to survive.",
+        "author": {
+            "name": "Wendell Mayes",
+            "url": "/quotes/wendell_mayes_401926"
+        },
+        "topics": [
+            {
+                "name": "Survive",
+                "url": "/topics/survive"
+            },
+            {
+                "name": "Army",
+                "url": "/topics/army"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/wendell_mayes_401937",
+        "quote": "We all know the Navy is never wrong, but in this case it was a little weak on being right.",
+        "author": {
+            "name": "Wendell Mayes",
+            "url": "/quotes/wendell_mayes_401937"
+        },
+        "topics": [
+            {
+                "name": "Know",
+                "url": "/topics/know"
+            },
+            {
+                "name": "Navy",
+                "url": "/topics/navy"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            }
+        ]
+    }
+]

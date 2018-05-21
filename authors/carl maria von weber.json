@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/carl_maria_von_weber_212398",
+        "quote": "An artist's sphere of influence is the world.",
+        "author": {
+            "name": "Carl Maria von Weber",
+            "url": "/quotes/carl_maria_von_weber_212398"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Artist",
+                "url": "/topics/artist"
+            },
+            {
+                "name": "Sphere",
+                "url": "/topics/sphere"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/carl_maria_von_weber_688102",
+        "quote": "What love is to man, music is to the arts and to mankind. Music is love itself - it is the purest, most ethereal language of passion, showing in a thousand ways all possible changes of color and feeling; and though true in only a single instance, it yet can be understood by thousands of men - who all feel differently.",
+        "author": {
+            "name": "Carl Maria von Weber",
+            "url": "/quotes/carl_maria_von_weber_688102"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Color",
+                "url": "/topics/color"
+            },
+            {
+                "name": "Instance",
+                "url": "/topics/instance"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/carl_maria_von_weber_212397",
+        "quote": "What love is to man, music is to the arts and to mankind.",
+        "author": {
+            "name": "Carl Maria von Weber",
+            "url": "/quotes/carl_maria_von_weber_212397"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "Mankind",
+                "url": "/topics/mankind"
+            }
+        ]
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/taylor_cole_579429",
+        "quote": "Nice girls aren't always what they seem.",
+        "author": {
+            "name": "Taylor Cole",
+            "url": "/quotes/taylor_cole_579429"
+        },
+        "topics": [
+            {
+                "name": "Nice",
+                "url": "/topics/nice"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Seem",
+                "url": "/topics/seem"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/taylor_cole_579430",
+        "quote": "I went to a Catholic school with 40 kids total. There were no cliques, but I suppose I was the 'sporty good girl.'",
+        "author": {
+            "name": "Taylor Cole",
+            "url": "/quotes/taylor_cole_579430"
+        },
+        "topics": [
+            {
+                "name": "Catholic School",
+                "url": "/topics/catholic_school"
+            },
+            {
+                "name": "Cliques",
+                "url": "/topics/cliques"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/taylor_cole_579431",
+        "quote": "I grew up playing golf, and if I were ever good enough to play professionally, I would get to travel the world while playing a sport I love.",
+        "author": {
+            "name": "Taylor Cole",
+            "url": "/quotes/taylor_cole_579431"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Enough",
+                "url": "/topics/enough"
+            }
+        ]
+    }
+]

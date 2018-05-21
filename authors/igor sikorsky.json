@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/igor_sikorsky_113146",
+        "quote": "The work of the individual still remains the spark that moves mankind ahead even more than teamwork.",
+        "author": {
+            "name": "Igor Sikorsky",
+            "url": "/quotes/igor_sikorsky_113146"
+        },
+        "topics": [
+            {
+                "name": "Business",
+                "url": "/topics/business"
+            },
+            {
+                "name": "Mankind",
+                "url": "/topics/mankind"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            }
+        ]
+    }
+]

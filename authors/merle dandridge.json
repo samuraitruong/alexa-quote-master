@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/merle_dandridge_575149",
+        "quote": "I worked really hard in college, and I came out a completely different person and performer than when I went in. I did the work, and I found a craft.",
+        "author": {
+            "name": "Merle Dandridge",
+            "url": "/quotes/merle_dandridge_575149"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "College",
+                "url": "/topics/college"
+            },
+            {
+                "name": "Performer",
+                "url": "/topics/performer"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/merle_dandridge_575150",
+        "quote": "I like to stretch myself and push the envelope, so anything that's new or different or not of my daily routine, I am so for.",
+        "author": {
+            "name": "Merle Dandridge",
+            "url": "/quotes/merle_dandridge_575150"
+        },
+        "topics": [
+            {
+                "name": "Myself",
+                "url": "/topics/myself"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    }
+]

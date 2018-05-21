@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/john_mason_good_120910",
+        "quote": "Happiness consists in activity. It is running steam, not a stagnant pool.",
+        "author": {
+            "name": "John Mason Good",
+            "url": "/quotes/john_mason_good_120910"
+        },
+        "topics": [
+            {
+                "name": "Happiness",
+                "url": "/topics/happiness"
+            },
+            {
+                "name": "Activity",
+                "url": "/topics/activity"
+            },
+            {
+                "name": "Running",
+                "url": "/topics/running"
+            }
+        ]
+    }
+]

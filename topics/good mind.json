@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/rene_descartes_100799?src=t_good_mind",
+        "quote": "It is not enough to have a good mind; the main thing is to use it well.",
+        "author": {
+            "name": "Rene Descartes",
+            "url": "/authors/rene_descartes"
+        },
+        "topics": [
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Brainy",
+                "url": "/topics/brainy"
+            },
+            {
+                "name": "Main Thing",
+                "url": "/topics/main_thing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jean_de_la_bruyere_385334?src=t_good_mind",
+        "quote": "A mediocre mind thinks it writes divinely; a good mind thinks it writes reasonably.",
+        "author": {
+            "name": "Jean de la Bruyere",
+            "url": "/authors/jean_de_la_bruyere"
+        },
+        "topics": [
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Mediocre",
+                "url": "/topics/mediocre"
+            },
+            {
+                "name": "Divinely",
+                "url": "/topics/divinely"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lori_greiner_433544?src=t_good_mind",
+        "quote": "I prefer to like the people I invest in, but it's not an absolute necessity, as long as they have a good mind and I know they'll do whatever it takes to be successful.",
+        "author": {
+            "name": "Lori Greiner",
+            "url": "/authors/lori_greiner"
+        },
+        "topics": [
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Prefer",
+                "url": "/topics/prefer"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rae_dawn_chong_439926?src=t_good_mind",
+        "quote": "I have a good mind but I don't like to bore anyone with it.",
+        "author": {
+            "name": "Rae Dawn Chong",
+            "url": "/authors/rae_dawn_chong"
+        },
+        "topics": [
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Anyone",
+                "url": "/topics/anyone"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bert_kalmar_400002?src=t_good_mind",
+        "quote": "I've got a good mind to join a club and beat you over the head with it!",
+        "author": {
+            "name": "Bert Kalmar",
+            "url": "/authors/bert_kalmar"
+        },
+        "topics": [
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Head",
+                "url": "/topics/head"
+            }
+        ]
+    }
+]

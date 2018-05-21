@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/tom_guiry_656933",
+        "quote": "I work in a hospital as a patient transporter to make ends meet for my three kids.",
+        "author": {
+            "name": "Tom Guiry",
+            "url": "/quotes/tom_guiry_656933"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Meet",
+                "url": "/topics/meet"
+            },
+            {
+                "name": "Patient",
+                "url": "/topics/patient"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tom_guiry_570830",
+        "quote": "If you don't get famous when you're a kid, it makes the transition to adult actor easier.",
+        "author": {
+            "name": "Tom Guiry",
+            "url": "/quotes/tom_guiry_570830"
+        },
+        "topics": [
+            {
+                "name": "Famous",
+                "url": "/topics/famous"
+            },
+            {
+                "name": "Actor",
+                "url": "/topics/actor"
+            },
+            {
+                "name": "Get",
+                "url": "/topics/get"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tom_guiry_570831",
+        "quote": "Having my son made me grow up. I'm keeping my dangers in the movies.",
+        "author": {
+            "name": "Tom Guiry",
+            "url": "/quotes/tom_guiry_570831"
+        },
+        "topics": [
+            {
+                "name": "Son",
+                "url": "/topics/son"
+            },
+            {
+                "name": "Movies",
+                "url": "/topics/movies"
+            },
+            {
+                "name": "Having",
+                "url": "/topics/having"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tom_guiry_656932",
+        "quote": "I've come to learn that you can be very, very talented, but if you're not at the right place at the right time... It's a lot of luck.",
+        "author": {
+            "name": "Tom Guiry",
+            "url": "/quotes/tom_guiry_656932"
+        },
+        "topics": [
+            {
+                "name": "Luck",
+                "url": "/topics/luck"
+            },
+            {
+                "name": "Right Place",
+                "url": "/topics/right_place"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tom_guiry_656934",
+        "quote": "That's what's great about baseball: some people are exceptional at the game, but still, even people that aren't very athletic, like me - I played Little League! It's one of those games in sports where even if you're not the greatest, you can still play.",
+        "author": {
+            "name": "Tom Guiry",
+            "url": "/quotes/tom_guiry_656934"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    }
+]

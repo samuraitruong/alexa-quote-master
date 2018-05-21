@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/mamie_eisenhower_639969",
+        "quote": "Ike runs the country, and I turn the pork chops.",
+        "author": {
+            "name": "Mamie Eisenhower",
+            "url": "/quotes/mamie_eisenhower_639969"
+        },
+        "topics": [
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Ike",
+                "url": "/topics/ike"
+            },
+            {
+                "name": "Chops",
+                "url": "/topics/chops"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mamie_eisenhower_639970",
+        "quote": "I had a career. His name was Ike.",
+        "author": {
+            "name": "Mamie Eisenhower",
+            "url": "/quotes/mamie_eisenhower_639970"
+        },
+        "topics": [
+            {
+                "name": "Career",
+                "url": "/topics/career"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            },
+            {
+                "name": "Ike",
+                "url": "/topics/ike"
+            }
+        ]
+    }
+]

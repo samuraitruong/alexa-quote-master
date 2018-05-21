@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/kari_wahlgren_569972",
+        "quote": "I'm a huge Wonder Woman fan - I have about 12 coffee mugs at home!",
+        "author": {
+            "name": "Kari Wahlgren",
+            "url": "/quotes/kari_wahlgren_569972"
+        },
+        "topics": [
+            {
+                "name": "Coffee",
+                "url": "/topics/coffee"
+            },
+            {
+                "name": "Woman",
+                "url": "/topics/woman"
+            },
+            {
+                "name": "Fan",
+                "url": "/topics/fan"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kari_wahlgren_569969",
+        "quote": "I love cartoons, I love comic books and graphic novels. 'Batman: The Animated Series' was a huge influence on me when I was younger.",
+        "author": {
+            "name": "Kari Wahlgren",
+            "url": "/quotes/kari_wahlgren_569969"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Younger",
+                "url": "/topics/younger"
+            },
+            {
+                "name": "Comic Books",
+                "url": "/topics/comic_books"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kari_wahlgren_569970",
+        "quote": "I always knew that I wanted to do voiceovers as part of my career. I just kind of didn't expect it to take off the way it did. I couldn't be happier. I love the chance to play so many different characters every day.",
+        "author": {
+            "name": "Kari Wahlgren",
+            "url": "/quotes/kari_wahlgren_569970"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Career",
+                "url": "/topics/career"
+            },
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kari_wahlgren_569971",
+        "quote": "The people that are fans of animation are really the people that are keeping the art form of animation alive. If you like cartoons, support the cartoons.",
+        "author": {
+            "name": "Kari Wahlgren",
+            "url": "/quotes/kari_wahlgren_569971"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Alive",
+                "url": "/topics/alive"
+            },
+            {
+                "name": "Keeping",
+                "url": "/topics/keeping"
+            }
+        ]
+    }
+]

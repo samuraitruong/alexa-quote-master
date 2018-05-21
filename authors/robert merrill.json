@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/robert_merrill_177919",
+        "quote": "When in doubt, sing loud.",
+        "author": {
+            "name": "Robert Merrill",
+            "url": "/quotes/robert_merrill_177919"
+        },
+        "topics": [
+            {
+                "name": "Doubt",
+                "url": "/topics/doubt"
+            },
+            {
+                "name": "Sing",
+                "url": "/topics/sing"
+            },
+            {
+                "name": "Loud",
+                "url": "/topics/loud"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_merrill_116005",
+        "quote": "If you think you've hit a false note, sing loud. When in doubt, sing loud.",
+        "author": {
+            "name": "Robert Merrill",
+            "url": "/quotes/robert_merrill_116005"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Loud",
+                "url": "/topics/loud"
+            },
+            {
+                "name": "Note",
+                "url": "/topics/note"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_merrill_116006",
+        "quote": "I felt I was painting with a Popsicle.",
+        "author": {
+            "name": "Robert Merrill",
+            "url": "/quotes/robert_merrill_116006"
+        },
+        "topics": [
+            {
+                "name": "Painting",
+                "url": "/topics/painting"
+            },
+            {
+                "name": "Felt",
+                "url": "/topics/felt"
+            }
+        ]
+    }
+]

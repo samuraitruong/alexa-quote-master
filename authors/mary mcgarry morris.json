@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/mary_mcgarry_morris_683133",
+        "quote": "I'm a quiet person, and I live a quiet, pleasant, ordinary, simple life.",
+        "author": {
+            "name": "Mary McGarry Morris",
+            "url": "/quotes/mary_mcgarry_morris_683133"
+        },
+        "topics": [
+            {
+                "name": "Simple Life",
+                "url": "/topics/simple_life"
+            },
+            {
+                "name": "Person",
+                "url": "/topics/person"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mary_mcgarry_morris_683134",
+        "quote": "I don't even use profanity when I'm angry. I think people expected I'd have written a nice romance or something.",
+        "author": {
+            "name": "Mary McGarry Morris",
+            "url": "/quotes/mary_mcgarry_morris_683134"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Romance",
+                "url": "/topics/romance"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    }
+]

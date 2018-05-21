@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/henry_alford_177502",
+        "quote": "I know not if the dark or bright shall be by lot; if that wherein my hopes delight be best or not.",
+        "author": {
+            "name": "Henry Alford",
+            "url": "/quotes/henry_alford_177502"
+        },
+        "topics": [
+            {
+                "name": "Dark",
+                "url": "/topics/dark"
+            },
+            {
+                "name": "Bright",
+                "url": "/topics/bright"
+            },
+            {
+                "name": "Lot",
+                "url": "/topics/lot"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henry_alford_177504",
+        "quote": "Law is king of all.",
+        "author": {
+            "name": "Henry Alford",
+            "url": "/quotes/henry_alford_177504"
+        },
+        "topics": [
+            {
+                "name": "Law",
+                "url": "/topics/law"
+            },
+            {
+                "name": "King",
+                "url": "/topics/king"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/celia_rivenbark_620784",
+        "quote": "I don't have a college degree. I started working at 19 on a tiny newspaper. I've covered everything from weddings to crime to criminal weddings.",
+        "author": {
+            "name": "Celia Rivenbark",
+            "url": "/quotes/celia_rivenbark_620784"
+        },
+        "topics": [
+            {
+                "name": "College",
+                "url": "/topics/college"
+            },
+            {
+                "name": "Newspaper",
+                "url": "/topics/newspaper"
+            },
+            {
+                "name": "Weddings",
+                "url": "/topics/weddings"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/celia_rivenbark_620785",
+        "quote": "Writing humor is not something every single person can do.",
+        "author": {
+            "name": "Celia Rivenbark",
+            "url": "/quotes/celia_rivenbark_620785"
+        },
+        "topics": [
+            {
+                "name": "Humor",
+                "url": "/topics/humor"
+            },
+            {
+                "name": "Single",
+                "url": "/topics/single"
+            },
+            {
+                "name": "Person",
+                "url": "/topics/person"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/celia_rivenbark_620786",
+        "quote": "Sometimes, at parties, people demand I tell a joke. It's like pointing a gun at my feet and telling me to dance.",
+        "author": {
+            "name": "Celia Rivenbark",
+            "url": "/quotes/celia_rivenbark_620786"
+        },
+        "topics": [
+            {
+                "name": "Feet",
+                "url": "/topics/feet"
+            },
+            {
+                "name": "Gun",
+                "url": "/topics/gun"
+            },
+            {
+                "name": "Telling",
+                "url": "/topics/telling"
+            }
+        ]
+    }
+]

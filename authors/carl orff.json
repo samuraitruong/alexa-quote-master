@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/carl_orff_303565",
+        "quote": "Tell me, I forget, show me, I remember, involve me, I understand.",
+        "author": {
+            "name": "Carl Orff",
+            "url": "/quotes/carl_orff_303565"
+        },
+        "topics": [
+            {
+                "name": "Remember",
+                "url": "/topics/remember"
+            },
+            {
+                "name": "Forget",
+                "url": "/topics/forget"
+            },
+            {
+                "name": "I Remember",
+                "url": "/topics/i_remember"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/carl_orff_304029",
+        "quote": "Since the beginning of time, children have not liked to study. They would much rather play, and if you have their interests at heart, you will let them learn while they play; they will find that what they have mastered is child's play.",
+        "author": {
+            "name": "Carl Orff",
+            "url": "/quotes/carl_orff_304029"
+        },
+        "topics": [
+            {
+                "name": "Beginning",
+                "url": "/topics/beginning"
+            },
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Study",
+                "url": "/topics/study"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/kamal_ahmed_221411",
+        "quote": "Ah, the pleasure, the joy - a big news story that runs and runs, that is played down by some of our journalistic colleagues, saying 'it'll never happen', only to be confirmed by the Home Secretary.",
+        "author": {
+            "name": "Kamal Ahmed",
+            "url": "/quotes/kamal_ahmed_221411"
+        },
+        "topics": [
+            {
+                "name": "News",
+                "url": "/topics/news"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Big News",
+                "url": "/topics/big_news"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kamal_ahmed_221412",
+        "quote": "As we saw in the Queen's Speech, anti-social behaviour - a phenomenon that I believe to be a genuine worry that is also being fed by a lot of scare stories - is the political theme of the moment.",
+        "author": {
+            "name": "Kamal Ahmed",
+            "url": "/quotes/kamal_ahmed_221412"
+        },
+        "topics": [
+            {
+                "name": "Worry",
+                "url": "/topics/worry"
+            },
+            {
+                "name": "Stories",
+                "url": "/topics/stories"
+            },
+            {
+                "name": "Fed",
+                "url": "/topics/fed"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kamal_ahmed_221413",
+        "quote": "Of, course it always cheers a news editor when a story has what we describe as 'legs' therefore it, erm, runs.",
+        "author": {
+            "name": "Kamal Ahmed",
+            "url": "/quotes/kamal_ahmed_221413"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "News",
+                "url": "/topics/news"
+            },
+            {
+                "name": "Editor",
+                "url": "/topics/editor"
+            }
+        ]
+    }
+]

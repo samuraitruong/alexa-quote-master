@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/frank_waters_454384",
+        "quote": "The whole westward expansion myth is seen as romantic. But it's a joke, a blot on American history.",
+        "author": {
+            "name": "Frank Waters",
+            "url": "/quotes/frank_waters_454384"
+        },
+        "topics": [
+            {
+                "name": "Westward",
+                "url": "/topics/westward"
+            },
+            {
+                "name": "Myth",
+                "url": "/topics/myth"
+            },
+            {
+                "name": "Blot",
+                "url": "/topics/blot"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/frank_waters_490501",
+        "quote": "The vast sage desert undulates with almost imperceptible tides like the oceans.",
+        "author": {
+            "name": "Frank Waters",
+            "url": "/quotes/frank_waters_490501"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Sage",
+                "url": "/topics/sage"
+            },
+            {
+                "name": "Almost",
+                "url": "/topics/almost"
+            }
+        ]
+    }
+]

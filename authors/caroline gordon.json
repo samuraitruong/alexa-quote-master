@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/caroline_gordon_190817",
+        "quote": "We do not judge great art. It judges us.",
+        "author": {
+            "name": "Caroline Gordon",
+            "url": "/quotes/caroline_gordon_190817"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Great Art",
+                "url": "/topics/great_art"
+            },
+            {
+                "name": "Do Not Judge",
+                "url": "/topics/do_not_judge"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/caroline_gordon_190816",
+        "quote": "A well-composed book is a magic carpet on which we are wafted to a world that we cannot enter in any other way.",
+        "author": {
+            "name": "Caroline Gordon",
+            "url": "/quotes/caroline_gordon_190816"
+        },
+        "topics": [
+            {
+                "name": "Magic",
+                "url": "/topics/magic"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    }
+]

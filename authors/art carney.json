@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/art_carney_315951",
+        "quote": "There I was, an 18-year-old mimic rooming with a blind whistler.",
+        "author": {
+            "name": "Art Carney",
+            "url": "/quotes/art_carney_315951"
+        },
+        "topics": [
+            {
+                "name": "Blind",
+                "url": "/topics/blind"
+            },
+            {
+                "name": "Mimic",
+                "url": "/topics/mimic"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/art_carney_315952",
+        "quote": "You're looking at an actor whose price has just doubled.",
+        "author": {
+            "name": "Art Carney",
+            "url": "/quotes/art_carney_315952"
+        },
+        "topics": [
+            {
+                "name": "Looking",
+                "url": "/topics/looking"
+            },
+            {
+                "name": "Price",
+                "url": "/topics/price"
+            },
+            {
+                "name": "Actor",
+                "url": "/topics/actor"
+            }
+        ]
+    }
+]

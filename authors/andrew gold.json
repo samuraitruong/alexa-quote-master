@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/andrew_gold_496282",
+        "quote": "It was clear from the beginning that I was going to be a musician.",
+        "author": {
+            "name": "Andrew Gold",
+            "url": "/quotes/andrew_gold_496282"
+        },
+        "topics": [
+            {
+                "name": "Beginning",
+                "url": "/topics/beginning"
+            },
+            {
+                "name": "Clear",
+                "url": "/topics/clear"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/andrew_gold_496283",
+        "quote": "I think the '60s and '70s were the peak period for the singer-songwriter, for sure.",
+        "author": {
+            "name": "Andrew Gold",
+            "url": "/quotes/andrew_gold_496283"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Period",
+                "url": "/topics/period"
+            }
+        ]
+    }
+]

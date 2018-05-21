@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/margaret_young_207325",
+        "quote": "The way it actually works is the reverse. You must first be who you really are, then do what you need to do, in order to have what you want.",
+        "author": {
+            "name": "Margaret Young",
+            "url": "/quotes/margaret_young_207325"
+        },
+        "topics": [
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            },
+            {
+                "name": "Works",
+                "url": "/topics/works"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/margaret_young_207324",
+        "quote": "Often people attempt to live their lives backwards; they try to have more things, or more money, in order to do more of what they want, so they will be happier.",
+        "author": {
+            "name": "Margaret Young",
+            "url": "/quotes/margaret_young_207324"
+        },
+        "topics": [
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Lives",
+                "url": "/topics/lives"
+            }
+        ]
+    }
+]

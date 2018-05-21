@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/totie_fields_312007",
+        "quote": "I've been on a diet for two weeks and all I've lost is two weeks.",
+        "author": {
+            "name": "Totie Fields",
+            "url": "/quotes/totie_fields_312007"
+        },
+        "topics": [
+            {
+                "name": "Diet",
+                "url": "/topics/diet"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Weeks",
+                "url": "/topics/weeks"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/totie_fields_391633",
+        "quote": "Shirley Temple had charisma as a child. But it cleared up as an adult.",
+        "author": {
+            "name": "Totie Fields",
+            "url": "/quotes/totie_fields_391633"
+        },
+        "topics": [
+            {
+                "name": "Temple",
+                "url": "/topics/temple"
+            },
+            {
+                "name": "Had",
+                "url": "/topics/had"
+            },
+            {
+                "name": "Shirley",
+                "url": "/topics/shirley"
+            }
+        ]
+    }
+]

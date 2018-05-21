@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/jim_steinman_163797",
+        "quote": "You'll never find your gold on a sandy beach.",
+        "author": {
+            "name": "Jim Steinman",
+            "url": "/quotes/jim_steinman_163797"
+        },
+        "topics": [
+            {
+                "name": "Gold",
+                "url": "/topics/gold"
+            },
+            {
+                "name": "Find",
+                "url": "/topics/find"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jim_steinman_507520",
+        "quote": "If you don't go over the top you can't see what's on the other side.",
+        "author": {
+            "name": "Jim Steinman",
+            "url": "/quotes/jim_steinman_507520"
+        },
+        "topics": [
+            {
+                "name": "See",
+                "url": "/topics/see"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jim_steinman_163917",
+        "quote": "Come on, come on! And there'll be no turning back! You were only killing time and it can kill you right back. Come on, come on! It's time to burn up the fuse. You got nothing to do and even less to lose.",
+        "author": {
+            "name": "Jim Steinman",
+            "url": "/quotes/jim_steinman_163917"
+        },
+        "topics": [
+            {
+                "name": "Lose",
+                "url": "/topics/lose"
+            },
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            },
+            {
+                "name": "Burn",
+                "url": "/topics/burn"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jim_steinman_507521",
+        "quote": "Todd Rundgren is a genius, and I don't use that word a lot.",
+        "author": {
+            "name": "Jim Steinman",
+            "url": "/quotes/jim_steinman_507521"
+        },
+        "topics": [
+            {
+                "name": "Genius",
+                "url": "/topics/genius"
+            },
+            {
+                "name": "Lot",
+                "url": "/topics/lot"
+            },
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            }
+        ]
+    }
+]

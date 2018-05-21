@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/manly_hall_126335",
+        "quote": "Words are potent weapons for all causes, good or bad.",
+        "author": {
+            "name": "Manly Hall",
+            "url": "/quotes/manly_hall_126335"
+        },
+        "topics": [
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            },
+            {
+                "name": "Potent",
+                "url": "/topics/potent"
+            },
+            {
+                "name": "Causes",
+                "url": "/topics/causes"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/manly_hall_163989",
+        "quote": "It is only a step from boredom to disillusionment, which leads naturally to self-pity, which in turn ends in chaos.",
+        "author": {
+            "name": "Manly Hall",
+            "url": "/quotes/manly_hall_163989"
+        },
+        "topics": [
+            {
+                "name": "Boredom",
+                "url": "/topics/boredom"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Naturally",
+                "url": "/topics/naturally"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/manly_hall_391678",
+        "quote": "The end of science is not to prove a theory, but to improve mankind.",
+        "author": {
+            "name": "Manly Hall",
+            "url": "/quotes/manly_hall_391678"
+        },
+        "topics": [
+            {
+                "name": "Mankind",
+                "url": "/topics/mankind"
+            },
+            {
+                "name": "Prove",
+                "url": "/topics/prove"
+            },
+            {
+                "name": "Improve",
+                "url": "/topics/improve"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/manly_hall_387755",
+        "quote": "Moderation is the secret of survival.",
+        "author": {
+            "name": "Manly Hall",
+            "url": "/quotes/manly_hall_387755"
+        },
+        "topics": [
+            {
+                "name": "Survival",
+                "url": "/topics/survival"
+            },
+            {
+                "name": "Moderation",
+                "url": "/topics/moderation"
+            },
+            {
+                "name": "Secret",
+                "url": "/topics/secret"
+            }
+        ]
+    }
+]

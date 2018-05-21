@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/raph_koster_687984",
+        "quote": "It's about who owns the servers. The servers that store your metrics. The servers that shout the ads. The servers that transmit your chat. The servers that geofence your every movement.",
+        "author": {
+            "name": "Raph Koster",
+            "url": "/quotes/raph_koster_687984"
+        },
+        "topics": [
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Store",
+                "url": "/topics/store"
+            },
+            {
+                "name": "Transmit",
+                "url": "/topics/transmit"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/raph_koster_687983",
+        "quote": "It's time to wake up to the fact that you're just another avatar in someone else's MMO. Worse: From where they stand, all-powerful Big Data analysts that they are, you look an awful lot like a bot.",
+        "author": {
+            "name": "Raph Koster",
+            "url": "/quotes/raph_koster_687983"
+        },
+        "topics": [
+            {
+                "name": "Fact",
+                "url": "/topics/fact"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Awful Lot",
+                "url": "/topics/awful_lot"
+            }
+        ]
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "url": "/quotes/mike_marsh_343070",
+        "quote": "Only a couple of companies in the world have the experience of building these machines, although the market need, if RFID did take off, would be for about 1 million of the machines running in parallel.",
+        "author": {
+            "name": "Mike Marsh",
+            "url": "/quotes/mike_marsh_343070"
+        },
+        "topics": [
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Couple",
+                "url": "/topics/couple"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mike_marsh_343065",
+        "quote": "The scanning of barcodes, or the reading of RFID transponders, generates data that is used in a software package to provide management or control information.",
+        "author": {
+            "name": "Mike Marsh",
+            "url": "/quotes/mike_marsh_343065"
+        },
+        "topics": [
+            {
+                "name": "Data",
+                "url": "/topics/data"
+            },
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "Package",
+                "url": "/topics/package"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mike_marsh_343067",
+        "quote": "The chip comes from silicon foundries who have been running their plants for the past fifty years, understand mass manufacture, and are the area that is most likely to understand the volume increase problem.",
+        "author": {
+            "name": "Mike Marsh",
+            "url": "/quotes/mike_marsh_343067"
+        },
+        "topics": [
+            {
+                "name": "Area",
+                "url": "/topics/area"
+            },
+            {
+                "name": "Likely",
+                "url": "/topics/likely"
+            },
+            {
+                "name": "Chip",
+                "url": "/topics/chip"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mike_marsh_343063",
+        "quote": "They will therefore not be in a hurry to risk their entire business by expanding too rapidly, but they are the major indicator of whether the manufacturing industry accepts there is a sustainable business in RFID production.",
+        "author": {
+            "name": "Mike Marsh",
+            "url": "/quotes/mike_marsh_343063"
+        },
+        "topics": [
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Indicator",
+                "url": "/topics/indicator"
+            },
+            {
+                "name": "Expanding",
+                "url": "/topics/expanding"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mike_marsh_343064",
+        "quote": "The transponder requirements have three major sections, namely the chip; the antenna; and the assembly of the chip and the antenna onto the goods being labelled.",
+        "author": {
+            "name": "Mike Marsh",
+            "url": "/quotes/mike_marsh_343064"
+        },
+        "topics": [
+            {
+                "name": "Requirements",
+                "url": "/topics/requirements"
+            },
+            {
+                "name": "Antenna",
+                "url": "/topics/antenna"
+            },
+            {
+                "name": "Chip",
+                "url": "/topics/chip"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mike_marsh_343069",
+        "quote": "RFID is going to get its technical embedding time it needs as serious players are not going to get involved on a sufficient scale with something that might not work.",
+        "author": {
+            "name": "Mike Marsh",
+            "url": "/quotes/mike_marsh_343069"
+        },
+        "topics": [
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Needs",
+                "url": "/topics/needs"
+            },
+            {
+                "name": "Technical",
+                "url": "/topics/technical"
+            }
+        ]
+    }
+]

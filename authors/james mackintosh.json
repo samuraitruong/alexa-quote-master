@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/james_mackintosh_186344",
+        "quote": "It is right to be contented with what we have, never with what we are.",
+        "author": {
+            "name": "James Mackintosh",
+            "url": "/quotes/james_mackintosh_186344"
+        },
+        "topics": [
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Right",
+                "url": "/topics/right"
+            },
+            {
+                "name": "Contented",
+                "url": "/topics/contented"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_mackintosh_186345",
+        "quote": "Men are never so good or so bad as their opinions.",
+        "author": {
+            "name": "James Mackintosh",
+            "url": "/quotes/james_mackintosh_186345"
+        },
+        "topics": [
+            {
+                "name": "Men",
+                "url": "/topics/men"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_mackintosh_186346",
+        "quote": "Whatever is popular deserves attention.",
+        "author": {
+            "name": "James Mackintosh",
+            "url": "/quotes/james_mackintosh_186346"
+        },
+        "topics": [
+            {
+                "name": "Attention",
+                "url": "/topics/attention"
+            },
+            {
+                "name": "Popular",
+                "url": "/topics/popular"
+            },
+            {
+                "name": "Deserves",
+                "url": "/topics/deserves"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_mackintosh_186347",
+        "quote": "Maxims are the condensed good sense of nations.",
+        "author": {
+            "name": "James Mackintosh",
+            "url": "/quotes/james_mackintosh_186347"
+        },
+        "topics": [
+            {
+                "name": "Sense",
+                "url": "/topics/sense"
+            },
+            {
+                "name": "Maxims",
+                "url": "/topics/maxims"
+            },
+            {
+                "name": "Good Sense",
+                "url": "/topics/good_sense"
+            }
+        ]
+    }
+]

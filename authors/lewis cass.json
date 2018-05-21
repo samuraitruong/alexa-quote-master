@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/lewis_cass_106124",
+        "quote": "People may doubt what you say, but they will believe what you do.",
+        "author": {
+            "name": "Lewis Cass",
+            "url": "/quotes/lewis_cass_106124"
+        },
+        "topics": [
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Doubt",
+                "url": "/topics/doubt"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lewis_cass_120060",
+        "quote": "Only the most acute and active animals are capable of boredom. - A theme for a great poet would be God's boredom on the seventh day of creation.",
+        "author": {
+            "name": "Lewis Cass",
+            "url": "/quotes/lewis_cass_120060"
+        },
+        "topics": [
+            {
+                "name": "Boredom",
+                "url": "/topics/boredom"
+            },
+            {
+                "name": "Active",
+                "url": "/topics/active"
+            },
+            {
+                "name": "Acute",
+                "url": "/topics/acute"
+            }
+        ]
+    }
+]

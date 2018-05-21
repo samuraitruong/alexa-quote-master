@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/thomas_holcroft_414024",
+        "quote": "Love and a red rose can't be hid.",
+        "author": {
+            "name": "Thomas Holcroft",
+            "url": "/quotes/thomas_holcroft_414024"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Red",
+                "url": "/topics/red"
+            },
+            {
+                "name": "Hid",
+                "url": "/topics/hid"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_holcroft_362067",
+        "quote": "Be patient, my soul: thou hath suffered worse than this.",
+        "author": {
+            "name": "Thomas Holcroft",
+            "url": "/quotes/thomas_holcroft_362067"
+        },
+        "topics": [
+            {
+                "name": "My Soul",
+                "url": "/topics/my_soul"
+            },
+            {
+                "name": "Patient",
+                "url": "/topics/patient"
+            },
+            {
+                "name": "Suffered",
+                "url": "/topics/suffered"
+            }
+        ]
+    }
+]

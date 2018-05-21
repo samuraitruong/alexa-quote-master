@@ -1,0 +1,420 @@
+[
+    {
+        "url": "/quotes/eric_kandel_639549?src=t_computational",
+        "quote": "The brain is a complex biological organ possessing immense computational capability: it constructs our sensory experience, regulates our thoughts and emotions, and controls our actions.",
+        "author": {
+            "name": "Eric Kandel",
+            "url": "/authors/eric_kandel"
+        },
+        "topics": [
+            {
+                "name": "Thoughts",
+                "url": "/topics/thoughts"
+            },
+            {
+                "name": "Emotions",
+                "url": "/topics/emotions"
+            },
+            {
+                "name": "Organ",
+                "url": "/topics/organ"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tony_hoare_620780?src=t_computational",
+        "quote": "An ultimate joint challenge for the biological and the computational sciences is the understanding of the mechanisms of the human brain, and its relationship with the human mind.",
+        "author": {
+            "name": "Tony Hoare",
+            "url": "/authors/tony_hoare"
+        },
+        "topics": [
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Ultimate",
+                "url": "/topics/ultimate"
+            },
+            {
+                "name": "Joint",
+                "url": "/topics/joint"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nicholas_a_christakis_563961?src=t_computational",
+        "quote": "It is time to create new social science departments that reflect the breadth and complexity of the problems we face as well as the novelty of 21st-century science. These would include departments of biosocial science, network science, neuroeconomics, behavioral genetics and computational social science.",
+        "author": {
+            "name": "Nicholas A. Christakis",
+            "url": "/authors/nicholas_a_christakis"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Complexity",
+                "url": "/topics/complexity"
+            },
+            {
+                "name": "Include",
+                "url": "/topics/include"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/noam_chomsky_635933?src=t_computational",
+        "quote": "As Bromberger observed, rules are understood to be elements of the computational systems that determine the sound and meaning of the infinite array of expressions of a language; the information so derived is accessed by other systems in language use.",
+        "author": {
+            "name": "Noam Chomsky",
+            "url": "/authors/noam_chomsky"
+        },
+        "topics": [
+            {
+                "name": "Infinite",
+                "url": "/topics/infinite"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Determine",
+                "url": "/topics/determine"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dennis_ritchie_586156?src=t_computational",
+        "quote": "My work was fairly theoretical. It was in recursive function theory. And in particular, hierarchies of functions in terms of computational complexity. I got involved in real computers and programming mainly by being - well, I was interested even as I came to graduate school.",
+        "author": {
+            "name": "Dennis Ritchie",
+            "url": "/authors/dennis_ritchie"
+        },
+        "topics": [
+            {
+                "name": "Complexity",
+                "url": "/topics/complexity"
+            },
+            {
+                "name": "Got",
+                "url": "/topics/got"
+            },
+            {
+                "name": "Theoretical",
+                "url": "/topics/theoretical"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/daniel_levitin_869046?src=t_computational",
+        "quote": "I think of the brain as a computational device: It has a bunch of little components that perform calculations on some small aspect of the problem, and another part of the brain has to stitch it all together, like a tapestry or a quilt.",
+        "author": {
+            "name": "Daniel Levitin",
+            "url": "/authors/daniel_levitin"
+        },
+        "topics": [
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Stitch",
+                "url": "/topics/stitch"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/evgeny_morozov_555005?src=t_computational",
+        "quote": "In addition to their 'do no evil' motto, Googlers have always been guided by another, much less explicit philosophy: 'computational arrogance.'",
+        "author": {
+            "name": "Evgeny Morozov",
+            "url": "/authors/evgeny_morozov"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Another",
+                "url": "/topics/another"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/steve_jurvetson_822248?src=t_computational",
+        "quote": "Biotech 1.0 is slow, like a lab science, and Version 2.0 is more like computational sciences.",
+        "author": {
+            "name": "Steve Jurvetson",
+            "url": "/authors/steve_jurvetson"
+        },
+        "topics": [
+            {
+                "name": "Slow",
+                "url": "/topics/slow"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Sciences",
+                "url": "/topics/sciences"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/chris_sacca_838228?src=t_computational",
+        "quote": "Uber has an information advantage, a computational advantage. There's massive structural advantages to the player who's smartest about how to deploy cars, where to deploy cars, how to adjust pricing dynamics, how to ensure supply of drivers - the party that understands best the behavior of riders.",
+        "author": {
+            "name": "Chris Sacca",
+            "url": "/authors/chris_sacca"
+        },
+        "topics": [
+            {
+                "name": "Best",
+                "url": "/topics/best"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Riders",
+                "url": "/topics/riders"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/seth_lloyd_240707?src=t_computational",
+        "quote": "I would suggest, merely as a metaphor here, but also as the basis for a scientific program to investigate the computational capacity of the universe, that this is also a reasonable explanation for why the universe is complex.",
+        "author": {
+            "name": "Seth Lloyd",
+            "url": "/authors/seth_lloyd"
+        },
+        "topics": [
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            },
+            {
+                "name": "Reasonable",
+                "url": "/topics/reasonable"
+            },
+            {
+                "name": "Scientific",
+                "url": "/topics/scientific"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/seth_lloyd_240711?src=t_computational",
+        "quote": "In this metaphor we actually have a picture of the computational universe, a metaphor which I hope to make scientifically precise as part of a research program.",
+        "author": {
+            "name": "Seth Lloyd",
+            "url": "/authors/seth_lloyd"
+        },
+        "topics": [
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Program",
+                "url": "/topics/program"
+            },
+            {
+                "name": "Part",
+                "url": "/topics/part"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_eagleman_448130?src=t_computational",
+        "quote": "The three-pound organ in your skull - with its pink consistency of Jell-o - is an alien kind of computational material. It is composed of miniaturized, self-configuring parts, and it vastly outstrips anything we've dreamt of building.",
+        "author": {
+            "name": "David Eagleman",
+            "url": "/authors/david_eagleman"
+        },
+        "topics": [
+            {
+                "name": "Pink",
+                "url": "/topics/pink"
+            },
+            {
+                "name": "Kind",
+                "url": "/topics/kind"
+            },
+            {
+                "name": "Organ",
+                "url": "/topics/organ"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kip_thorne_874792?src=t_computational",
+        "quote": "In subjects that physicists think of as purely quantum, classical ideas and classical computational techniques can often be powerful.",
+        "author": {
+            "name": "Kip Thorne",
+            "url": "/authors/kip_thorne"
+        },
+        "topics": [
+            {
+                "name": "Powerful",
+                "url": "/topics/powerful"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Purely",
+                "url": "/topics/purely"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/justine_bateman_658149?src=t_computational",
+        "quote": "I'm consumed with tech - medical, computational, impossible tech. So, I don't know exactly what I'll wind up doing, where I'll go with all this schooling, but I'm willing that it be better than my dogmatic vision of it all.",
+        "author": {
+            "name": "Justine Bateman",
+            "url": "/authors/justine_bateman"
+        },
+        "topics": [
+            {
+                "name": "Medical",
+                "url": "/topics/medical"
+            },
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Consumed",
+                "url": "/topics/consumed"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/miguel_nicolelis_654314?src=t_computational",
+        "quote": "We basically created a computational unit out of two brains.",
+        "author": {
+            "name": "Miguel Nicolelis",
+            "url": "/authors/miguel_nicolelis"
+        },
+        "topics": [
+            {
+                "name": "Brains",
+                "url": "/topics/brains"
+            },
+            {
+                "name": "Created",
+                "url": "/topics/created"
+            },
+            {
+                "name": "Unit",
+                "url": "/topics/unit"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bram_cohen_219766?src=t_computational",
+        "quote": "My father taught me Basic and rudimentary C, I learned everything else on my own, including studying computational complexity on my own. That's more a function of my age than anything else though - back when I was in school there were hardly any programming classes.",
+        "author": {
+            "name": "Bram Cohen",
+            "url": "/authors/bram_cohen"
+        },
+        "topics": [
+            {
+                "name": "Father",
+                "url": "/topics/father"
+            },
+            {
+                "name": "Complexity",
+                "url": "/topics/complexity"
+            },
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_c_merton_730903?src=t_computational",
+        "quote": "The special sphere of finance within economics is the study of allocation and deployment of economic resources, both spatially and across time, in an uncertain environment. To capture the influence and interaction of time and uncertainty effectively requires sophisticated mathematical and computational tools.",
+        "author": {
+            "name": "Robert C. Merton",
+            "url": "/authors/robert_c_merton"
+        },
+        "topics": [
+            {
+                "name": "Tools",
+                "url": "/topics/tools"
+            },
+            {
+                "name": "Study",
+                "url": "/topics/study"
+            },
+            {
+                "name": "Sophisticated",
+                "url": "/topics/sophisticated"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edward_boyden_550969?src=t_computational",
+        "quote": "What I'm really interested in is this idea of a 'brain co-processor' - a device that can record from, and deliver information to, so many points in the brain, with a computational infrastructure in between - a computer that can process the information and compute exactly what needs to be restored.",
+        "author": {
+            "name": "Edward Boyden",
+            "url": "/authors/edward_boyden"
+        },
+        "topics": [
+            {
+                "name": "Idea",
+                "url": "/topics/idea"
+            },
+            {
+                "name": "Deliver",
+                "url": "/topics/deliver"
+            },
+            {
+                "name": "Points",
+                "url": "/topics/points"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/michael_levitt_610601?src=t_computational",
+        "quote": "It's sort of nice in more general terms to see that computational science, computational biology is being recognized. It's become a very large field, and it's always in some ways been the poor sister, or the ugly sister, to experimental biology.",
+        "author": {
+            "name": "Michael Levitt",
+            "url": "/authors/michael_levitt"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    }
+]

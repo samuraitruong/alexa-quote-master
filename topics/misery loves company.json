@@ -1,0 +1,134 @@
+[
+    {
+        "url": "/quotes/addison_mizner_158655?src=t_misery_loves_company",
+        "quote": "Misery loves company, but company does not reciprocate.",
+        "author": {
+            "name": "Addison Mizner",
+            "url": "/authors/addison_mizner"
+        },
+        "topics": [
+            {
+                "name": "Does",
+                "url": "/topics/does"
+            },
+            {
+                "name": "Reciprocate",
+                "url": "/topics/reciprocate"
+            },
+            {
+                "name": "Loves",
+                "url": "/topics/loves"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_ray_118512?src=t_misery_loves_company",
+        "quote": "Misery loves company.",
+        "author": {
+            "name": "John Ray",
+            "url": "/authors/john_ray"
+        },
+        "topics": [
+            {
+                "name": "Company",
+                "url": "/topics/company"
+            },
+            {
+                "name": "Misery",
+                "url": "/topics/misery"
+            },
+            {
+                "name": "Loves",
+                "url": "/topics/loves"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/karl_malone_417634?src=t_misery_loves_company",
+        "quote": "Misery loves company. This is a Hollywood soap opera, and I'm not going to be a star in another Bryant soap opera.",
+        "author": {
+            "name": "Karl Malone",
+            "url": "/authors/karl_malone"
+        },
+        "topics": [
+            {
+                "name": "Star",
+                "url": "/topics/star"
+            },
+            {
+                "name": "Hollywood",
+                "url": "/topics/hollywood"
+            },
+            {
+                "name": "Opera",
+                "url": "/topics/opera"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henry_david_thoreau_164242?src=t_misery_loves_company",
+        "quote": "If misery loves company, misery has company enough.",
+        "author": {
+            "name": "Henry David Thoreau",
+            "url": "/authors/henry_david_thoreau"
+        },
+        "topics": [
+            {
+                "name": "Company",
+                "url": "/topics/company"
+            },
+            {
+                "name": "Misery",
+                "url": "/topics/misery"
+            },
+            {
+                "name": "Loves",
+                "url": "/topics/loves"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brian_moore_116161?src=t_misery_loves_company",
+        "quote": "If misery loves company, then triumph demands an audience.",
+        "author": {
+            "name": "Brian Moore",
+            "url": "/authors/brian_moore"
+        },
+        "topics": [
+            {
+                "name": "Triumph",
+                "url": "/topics/triumph"
+            },
+            {
+                "name": "Audience",
+                "url": "/topics/audience"
+            },
+            {
+                "name": "Loves",
+                "url": "/topics/loves"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/harvey_pekar_471915?src=t_misery_loves_company",
+        "quote": "Misery loves company. There's a lot to that.",
+        "author": {
+            "name": "Harvey Pekar",
+            "url": "/authors/harvey_pekar"
+        },
+        "topics": [
+            {
+                "name": "Misery",
+                "url": "/topics/misery"
+            },
+            {
+                "name": "Lot",
+                "url": "/topics/lot"
+            },
+            {
+                "name": "Loves",
+                "url": "/topics/loves"
+            }
+        ]
+    }
+]

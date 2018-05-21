@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/henry_wells_224136",
+        "quote": "Westward, ever westward.",
+        "author": {
+            "name": "Henry Wells",
+            "url": "/quotes/henry_wells_224136"
+        },
+        "topics": [
+            {
+                "name": "Westward",
+                "url": "/topics/westward"
+            },
+            {
+                "name": "Ever",
+                "url": "/topics/ever"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henry_wells_224137",
+        "quote": "We are now after 7 months operation making money here.",
+        "author": {
+            "name": "Henry Wells",
+            "url": "/quotes/henry_wells_224137"
+        },
+        "topics": [
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            },
+            {
+                "name": "Making",
+                "url": "/topics/making"
+            },
+            {
+                "name": "Months",
+                "url": "/topics/months"
+            }
+        ]
+    }
+]

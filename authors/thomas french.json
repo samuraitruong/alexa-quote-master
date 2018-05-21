@@ -1,0 +1,60 @@
+[
+    {
+        "url": "/quotes/thomas_french_621636",
+        "quote": "What's the reality of being inside a zoo, for the animals and for the people who love and care for those animals? There's a lot of joy, and there's a lot of loss.",
+        "author": {
+            "name": "Thomas French",
+            "url": "/quotes/thomas_french_621636"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Inside",
+                "url": "/topics/inside"
+            },
+            {
+                "name": "Being",
+                "url": "/topics/being"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_french_621635",
+        "quote": "All zoos are both beguiling and repellent.",
+        "author": {
+            "name": "Thomas French",
+            "url": "/quotes/thomas_french_621635"
+        },
+        "topics": [
+            {
+                "name": "Both",
+                "url": "/topics/both"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_french_621634",
+        "quote": "Freedom is a human concept. We have these very romanticized, sentimentalized notions of freedom. And for species - monkeys and other creatures - freedom is a pretty risky, complex proposition that's not always for their benefit.",
+        "author": {
+            "name": "Thomas French",
+            "url": "/quotes/thomas_french_621634"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    }
+]

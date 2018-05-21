@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/tim_leiweke_555378",
+        "quote": "If you look around world, the great brands are Real Madrid, Manchester United. The Yankees, the Cowboys and the Lakers are there. We should aspire with the Maple Leafs to be there.",
+        "author": {
+            "name": "Tim Leiweke",
+            "url": "/quotes/tim_leiweke_555378"
+        },
+        "topics": [
+            {
+                "name": "United",
+                "url": "/topics/united"
+            },
+            {
+                "name": "Brands",
+                "url": "/topics/brands"
+            },
+            {
+                "name": "Lakers",
+                "url": "/topics/lakers"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tim_leiweke_555377",
+        "quote": "The Raptors have to aspire to be the Heat and the Lakers.",
+        "author": {
+            "name": "Tim Leiweke",
+            "url": "/quotes/tim_leiweke_555377"
+        },
+        "topics": [
+            {
+                "name": "Heat",
+                "url": "/topics/heat"
+            },
+            {
+                "name": "Aspire",
+                "url": "/topics/aspire"
+            },
+            {
+                "name": "Lakers",
+                "url": "/topics/lakers"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tim_leiweke_555376",
+        "quote": "I'm honored and excited to be chosen to lead MLSE, a world-class sports and entertainment organization with the major league teams, premier facilities and employee team that rank with the very best across North America and internationally.",
+        "author": {
+            "name": "Tim Leiweke",
+            "url": "/quotes/tim_leiweke_555376"
+        },
+        "topics": [
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "World-Class",
+                "url": "/topics/world-class"
+            }
+        ]
+    }
+]

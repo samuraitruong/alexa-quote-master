@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/john_magaro_492698",
+        "quote": "I enjoy singing.",
+        "author": {
+            "name": "John Magaro",
+            "url": "/quotes/john_magaro_492698"
+        },
+        "topics": [
+            {
+                "name": "Singing",
+                "url": "/topics/singing"
+            },
+            {
+                "name": "Enjoy",
+                "url": "/topics/enjoy"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_magaro_492697",
+        "quote": "Everything that David Chase does has a tremendous amount of specificity. He is very detail oriented.",
+        "author": {
+            "name": "John Magaro",
+            "url": "/quotes/john_magaro_492697"
+        },
+        "topics": [
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Amount",
+                "url": "/topics/amount"
+            },
+            {
+                "name": "Does",
+                "url": "/topics/does"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_magaro_492699",
+        "quote": "It is certainly good to have fans but I am always focusing on the next thing and continuing to do good work. Onward and upward.",
+        "author": {
+            "name": "John Magaro",
+            "url": "/quotes/john_magaro_492699"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            },
+            {
+                "name": "Certainly",
+                "url": "/topics/certainly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_magaro_662956",
+        "quote": "I am now trying to trust the universe to take care of me and not necessarily rely on other people to make me happy.",
+        "author": {
+            "name": "John Magaro",
+            "url": "/quotes/john_magaro_662956"
+        },
+        "topics": [
+            {
+                "name": "Trust",
+                "url": "/topics/trust"
+            },
+            {
+                "name": "Happy",
+                "url": "/topics/happy"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    }
+]

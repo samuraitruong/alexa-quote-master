@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/james_humes_154730",
+        "quote": "The art of communication is the language of leadership.",
+        "author": {
+            "name": "James Humes",
+            "url": "/quotes/james_humes_154730"
+        },
+        "topics": [
+            {
+                "name": "Leadership",
+                "url": "/topics/leadership"
+            },
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Language",
+                "url": "/topics/language"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_humes_154732",
+        "quote": "Every time you have to speak, you are auditioning for leadership.",
+        "author": {
+            "name": "James Humes",
+            "url": "/quotes/james_humes_154732"
+        },
+        "topics": [
+            {
+                "name": "Leadership",
+                "url": "/topics/leadership"
+            },
+            {
+                "name": "Time",
+                "url": "/topics/time"
+            },
+            {
+                "name": "Speak",
+                "url": "/topics/speak"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_humes_165730",
+        "quote": "One secret of leadership is that the mind of a leader never turns off. Leaders even when they are sightseers or spectators, are active; not passive observers.",
+        "author": {
+            "name": "James Humes",
+            "url": "/quotes/james_humes_165730"
+        },
+        "topics": [
+            {
+                "name": "Leader",
+                "url": "/topics/leader"
+            },
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Spectators",
+                "url": "/topics/spectators"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_humes_154734",
+        "quote": "Most speakers speak ten minutes too long.",
+        "author": {
+            "name": "James Humes",
+            "url": "/quotes/james_humes_154734"
+        },
+        "topics": [
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "Minutes",
+                "url": "/topics/minutes"
+            },
+            {
+                "name": "Too",
+                "url": "/topics/too"
+            }
+        ]
+    }
+]

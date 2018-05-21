@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/george_rogers_clark_198318",
+        "quote": "I am George Rogers Clark. You have just become a prisoner of the Commonwealth of Virginia.",
+        "author": {
+            "name": "George Rogers Clark",
+            "url": "/quotes/george_rogers_clark_198318"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Prisoner",
+                "url": "/topics/prisoner"
+            },
+            {
+                "name": "Clark",
+                "url": "/topics/clark"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_rogers_clark_198319",
+        "quote": "Damn the sword! When Virginia wanted a sword, I gave her one. Now she sends me a toy! I require bread!",
+        "author": {
+            "name": "George Rogers Clark",
+            "url": "/quotes/george_rogers_clark_198319"
+        },
+        "topics": [
+            {
+                "name": "Bread",
+                "url": "/topics/bread"
+            },
+            {
+                "name": "Require",
+                "url": "/topics/require"
+            },
+            {
+                "name": "Sends",
+                "url": "/topics/sends"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_rogers_clark_198320",
+        "quote": "The sword is very handsome. I am too old and infirm, as you see, to ever use a sword again, but I am glad that my old mother state has not entirely forgotten me.",
+        "author": {
+            "name": "George Rogers Clark",
+            "url": "/quotes/george_rogers_clark_198320"
+        },
+        "topics": [
+            {
+                "name": "Handsome",
+                "url": "/topics/handsome"
+            },
+            {
+                "name": "Old",
+                "url": "/topics/old"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    }
+]

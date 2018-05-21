@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/ruben_dario_243328",
+        "quote": "Sweet as sweetest Grecian honey will my song be when I sing, O Beloved, in the season of the Spring!",
+        "author": {
+            "name": "Ruben Dario",
+            "url": "/quotes/ruben_dario_243328"
+        },
+        "topics": [
+            {
+                "name": "Song",
+                "url": "/topics/song"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Beloved",
+                "url": "/topics/beloved"
+            }
+        ]
+    }
+]

@@ -1,0 +1,104 @@
+[
+    {
+        "url": "/quotes/bob_barr_509352?src=t_jurist",
+        "quote": "The legal principle placing the burden of proof on accusers rather than the accused can be traced back to Second and Third Century Roman jurist, Julius Paulus Prudentissimus. Yet, this ancient concept, which forms the legal and moral cornerstone of the American judicial system, is quickly being undermined in the name of 'national security.'",
+        "author": {
+            "name": "Bob Barr",
+            "url": "/authors/bob_barr"
+        },
+        "topics": [
+            {
+                "name": "Judicial System",
+                "url": "/topics/judicial_system"
+            },
+            {
+                "name": "Principle",
+                "url": "/topics/principle"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/noam_chomsky_635828?src=t_jurist",
+        "quote": "The first scholarly edition of Magna Carta was published by the eminent jurist William Blackstone. It was not an easy task. There was no good text available.",
+        "author": {
+            "name": "Noam Chomsky",
+            "url": "/authors/noam_chomsky"
+        },
+        "topics": [
+            {
+                "name": "Available",
+                "url": "/topics/available"
+            },
+            {
+                "name": "Edition",
+                "url": "/topics/edition"
+            },
+            {
+                "name": "Magna",
+                "url": "/topics/magna"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/frederick_soddy_310179?src=t_jurist",
+        "quote": "But what sin is to the moralist and crime to the jurist so to the scientific man is ignorance.",
+        "author": {
+            "name": "Frederick Soddy",
+            "url": "/authors/frederick_soddy"
+        },
+        "topics": [
+            {
+                "name": "Ignorance",
+                "url": "/topics/ignorance"
+            },
+            {
+                "name": "Sin",
+                "url": "/topics/sin"
+            },
+            {
+                "name": "Scientific",
+                "url": "/topics/scientific"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henry_james_sumner_maine_326396?src=t_jurist",
+        "quote": "The inquiries of the jurist are in truth prosecuted much as inquiry in physic and physiology was prosecuted before observation had taken the place of assumption.",
+        "author": {
+            "name": "Henry James Sumner Maine",
+            "url": "/authors/henry_james_sumner_maine"
+        },
+        "topics": [
+            {
+                "name": "Observation",
+                "url": "/topics/observation"
+            },
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/saddam_hussein_406798?src=t_jurist",
+        "quote": "There is much to be said for having an experienced international jurist who is entirely unconnected with the allied invaders, on the tribunal.",
+        "author": {
+            "name": "Saddam Hussein",
+            "url": "/authors/saddam_hussein"
+        },
+        "topics": [
+            {
+                "name": "Said",
+                "url": "/topics/said"
+            },
+            {
+                "name": "International",
+                "url": "/topics/international"
+            },
+            {
+                "name": "Having",
+                "url": "/topics/having"
+            }
+        ]
+    }
+]

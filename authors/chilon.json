@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/chilon_133142",
+        "quote": "Prefer a loss to a dishonest gain; the one brings pain at the moment, the other for all time.",
+        "author": {
+            "name": "Chilon",
+            "url": "/quotes/chilon_133142"
+        },
+        "topics": [
+            {
+                "name": "Pain",
+                "url": "/topics/pain"
+            },
+            {
+                "name": "Loss",
+                "url": "/topics/loss"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/chilon_131345",
+        "quote": "When strong, be merciful, if you would have the respect, not the fear of your neighbors.",
+        "author": {
+            "name": "Chilon",
+            "url": "/quotes/chilon_131345"
+        },
+        "topics": [
+            {
+                "name": "Strong",
+                "url": "/topics/strong"
+            },
+            {
+                "name": "Neighbors",
+                "url": "/topics/neighbors"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            }
+        ]
+    }
+]

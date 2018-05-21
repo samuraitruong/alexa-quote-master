@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/leonard_bailey_174901",
+        "quote": "More than 100 people are involved in a transplant operation... and we can't waste time and resources if there is a chance the caretakers aren't up for an awesome responsibility.",
+        "author": {
+            "name": "Leonard Bailey",
+            "url": "/quotes/leonard_bailey_174901"
+        },
+        "topics": [
+            {
+                "name": "Chance",
+                "url": "/topics/chance"
+            },
+            {
+                "name": "Waste Time",
+                "url": "/topics/waste_time"
+            },
+            {
+                "name": "Waste",
+                "url": "/topics/waste"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/leonard_bailey_174900",
+        "quote": "You can't serve up hearts like cherries jubilee.",
+        "author": {
+            "name": "Leonard Bailey",
+            "url": "/quotes/leonard_bailey_174900"
+        },
+        "topics": [
+            {
+                "name": "Hearts",
+                "url": "/topics/hearts"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Cherries",
+                "url": "/topics/cherries"
+            }
+        ]
+    }
+]

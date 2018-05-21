@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/cheryl_crawford_265711",
+        "quote": "Lee's great gifts are teaching and inspirational guidance, not administration and management.",
+        "author": {
+            "name": "Cheryl Crawford",
+            "url": "/quotes/cheryl_crawford_265711"
+        },
+        "topics": [
+            {
+                "name": "Management",
+                "url": "/topics/management"
+            },
+            {
+                "name": "Guidance",
+                "url": "/topics/guidance"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/cheryl_crawford_265712",
+        "quote": "My major task was to keep us solvent.",
+        "author": {
+            "name": "Cheryl Crawford",
+            "url": "/quotes/cheryl_crawford_265712"
+        },
+        "topics": [
+            {
+                "name": "Task",
+                "url": "/topics/task"
+            },
+            {
+                "name": "Major",
+                "url": "/topics/major"
+            },
+            {
+                "name": "Keep",
+                "url": "/topics/keep"
+            }
+        ]
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "url": "/quotes/roger_caras_104849",
+        "quote": "Dogs are not our whole life, but they make our lives whole.",
+        "author": {
+            "name": "Roger Caras",
+            "url": "/quotes/roger_caras_104849"
+        },
+        "topics": [
+            {
+                "name": "Pet",
+                "url": "/topics/pet"
+            },
+            {
+                "name": "Dogs",
+                "url": "/topics/dogs"
+            },
+            {
+                "name": "Lives",
+                "url": "/topics/lives"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/roger_caras_378487",
+        "quote": "Cats don't like change without their consent.",
+        "author": {
+            "name": "Roger Caras",
+            "url": "/quotes/roger_caras_378487"
+        },
+        "topics": [
+            {
+                "name": "Cats",
+                "url": "/topics/cats"
+            },
+            {
+                "name": "Pet",
+                "url": "/topics/pet"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/roger_caras_388722",
+        "quote": "Some of our greatest historical and artistic treasures we place in museums; others, we take for walks.",
+        "author": {
+            "name": "Roger Caras",
+            "url": "/quotes/roger_caras_388722"
+        },
+        "topics": [
+            {
+                "name": "Walks",
+                "url": "/topics/walks"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Take",
+                "url": "/topics/take"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/roger_caras_392985",
+        "quote": "If you don't own a dog, at least one, there is not necessarily anything wrong with you, but there may be something wrong with your life.",
+        "author": {
+            "name": "Roger Caras",
+            "url": "/quotes/roger_caras_392985"
+        },
+        "topics": [
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            },
+            {
+                "name": "Least",
+                "url": "/topics/least"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/roger_caras_161385",
+        "quote": "There are only three sins - causing pain, causing fear, and causing anguish. The rest is window dressing.",
+        "author": {
+            "name": "Roger Caras",
+            "url": "/quotes/roger_caras_161385"
+        },
+        "topics": [
+            {
+                "name": "Pain",
+                "url": "/topics/pain"
+            },
+            {
+                "name": "Rest",
+                "url": "/topics/rest"
+            },
+            {
+                "name": "Anguish",
+                "url": "/topics/anguish"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/roger_caras_378488",
+        "quote": "I am as confounded by dogs as I am indebted to them.",
+        "author": {
+            "name": "Roger Caras",
+            "url": "/quotes/roger_caras_378488"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Dogs",
+                "url": "/topics/dogs"
+            },
+            {
+                "name": "Confounded",
+                "url": "/topics/confounded"
+            }
+        ]
+    }
+]

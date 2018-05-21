@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/tammy_wynette_166380",
+        "quote": "Sometimes it's hard to be a woman giving all your love to just one man.",
+        "author": {
+            "name": "Tammy Wynette",
+            "url": "/quotes/tammy_wynette_166380"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Woman",
+                "url": "/topics/woman"
+            },
+            {
+                "name": "Just One",
+                "url": "/topics/just_one"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tammy_wynette_166381",
+        "quote": "Stand by your man. Give him two arms to cling to and something warm to come to.",
+        "author": {
+            "name": "Tammy Wynette",
+            "url": "/quotes/tammy_wynette_166381"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Warm",
+                "url": "/topics/warm"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            }
+        ]
+    }
+]

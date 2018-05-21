@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/brian_higgins_221544",
+        "quote": "I oppose the president's plan to privatize Social Security.",
+        "author": {
+            "name": "Brian Higgins",
+            "url": "/quotes/brian_higgins_221544"
+        },
+        "topics": [
+            {
+                "name": "Security",
+                "url": "/topics/security"
+            },
+            {
+                "name": "Social",
+                "url": "/topics/social"
+            },
+            {
+                "name": "Oppose",
+                "url": "/topics/oppose"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brian_higgins_221545",
+        "quote": "We need to spend more money to insure that our troops are properly equipped.",
+        "author": {
+            "name": "Brian Higgins",
+            "url": "/quotes/brian_higgins_221545"
+        },
+        "topics": [
+            {
+                "name": "Money",
+                "url": "/topics/money"
+            },
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            },
+            {
+                "name": "Properly",
+                "url": "/topics/properly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brian_higgins_395856",
+        "quote": "The only risk we run is by doing nothing.",
+        "author": {
+            "name": "Brian Higgins",
+            "url": "/quotes/brian_higgins_395856"
+        },
+        "topics": [
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            },
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brian_higgins_443157",
+        "quote": "I'm the most independent and conservative Democrat in New York State.",
+        "author": {
+            "name": "Brian Higgins",
+            "url": "/quotes/brian_higgins_443157"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Conservative",
+                "url": "/topics/conservative"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            }
+        ]
+    }
+]

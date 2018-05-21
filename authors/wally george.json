@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/wally_george_221661",
+        "quote": "I am always the 'good guy', and I take on the idiotic jerks of the nation.",
+        "author": {
+            "name": "Wally George",
+            "url": "/quotes/wally_george_221661"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Take",
+                "url": "/topics/take"
+            },
+            {
+                "name": "Idiotic",
+                "url": "/topics/idiotic"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/wally_george_221663",
+        "quote": "I learned that kids in show business are so different from regular, average students. They would gather behind you and help you to succeed in any way possible.",
+        "author": {
+            "name": "Wally George",
+            "url": "/quotes/wally_george_221663"
+        },
+        "topics": [
+            {
+                "name": "Business",
+                "url": "/topics/business"
+            },
+            {
+                "name": "Behind",
+                "url": "/topics/behind"
+            },
+            {
+                "name": "Average",
+                "url": "/topics/average"
+            }
+        ]
+    }
+]

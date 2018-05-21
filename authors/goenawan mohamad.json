@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/goenawan_mohamad_581916",
+        "quote": "Age is not our fault.",
+        "author": {
+            "name": "Goenawan Mohamad",
+            "url": "/quotes/goenawan_mohamad_581916"
+        },
+        "topics": [
+            {
+                "name": "Age",
+                "url": "/topics/age"
+            },
+            {
+                "name": "Fault",
+                "url": "/topics/fault"
+            },
+            {
+                "name": "Our",
+                "url": "/topics/our"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/goenawan_mohamad_581917",
+        "quote": "I fear if I cannot think again, if my mind suddenly goes blank. It will be embarrassing.",
+        "author": {
+            "name": "Goenawan Mohamad",
+            "url": "/quotes/goenawan_mohamad_581917"
+        },
+        "topics": [
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Blank",
+                "url": "/topics/blank"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/goenawan_mohamad_581918",
+        "quote": "What I like about theater is its team work. Theater is also all-time creativity.",
+        "author": {
+            "name": "Goenawan Mohamad",
+            "url": "/quotes/goenawan_mohamad_581918"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Theater",
+                "url": "/topics/theater"
+            }
+        ]
+    }
+]

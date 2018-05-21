@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/edmond_halley_176572",
+        "quote": "Scarce any problem will appear more hard and difficult, than that of determining the distance of the Sun from the Earth very near the truth: but even this... will without much labour be effected.",
+        "author": {
+            "name": "Edmond Halley",
+            "url": "/quotes/edmond_halley_176572"
+        },
+        "topics": [
+            {
+                "name": "Distance",
+                "url": "/topics/distance"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edmond_halley_176573",
+        "quote": "This sight... is by far the noblest astronomy affords.",
+        "author": {
+            "name": "Edmond Halley",
+            "url": "/quotes/edmond_halley_176573"
+        },
+        "topics": [
+            {
+                "name": "Sight",
+                "url": "/topics/sight"
+            },
+            {
+                "name": "Noblest",
+                "url": "/topics/noblest"
+            },
+            {
+                "name": "Far",
+                "url": "/topics/far"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edmond_halley_234202",
+        "quote": "Nearer the gods no mortal may approach.",
+        "author": {
+            "name": "Edmond Halley",
+            "url": "/quotes/edmond_halley_234202"
+        },
+        "topics": [
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Gods",
+                "url": "/topics/gods"
+            },
+            {
+                "name": "Nearer",
+                "url": "/topics/nearer"
+            }
+        ]
+    }
+]

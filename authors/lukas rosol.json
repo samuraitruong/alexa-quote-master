@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/lukas_rosol_510297",
+        "quote": "Every single match, every single point, I have to concentrate.",
+        "author": {
+            "name": "Lukas Rosol",
+            "url": "/quotes/lukas_rosol_510297"
+        },
+        "topics": [
+            {
+                "name": "Single",
+                "url": "/topics/single"
+            },
+            {
+                "name": "Match",
+                "url": "/topics/match"
+            },
+            {
+                "name": "Every",
+                "url": "/topics/every"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lukas_rosol_510298",
+        "quote": "Sometimes I can wake up and I can beat anyone.",
+        "author": {
+            "name": "Lukas Rosol",
+            "url": "/quotes/lukas_rosol_510298"
+        },
+        "topics": [
+            {
+                "name": "Sometimes",
+                "url": "/topics/sometimes"
+            },
+            {
+                "name": "Wake",
+                "url": "/topics/wake"
+            },
+            {
+                "name": "Anyone",
+                "url": "/topics/anyone"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lukas_rosol_650303",
+        "quote": "Sometimes, how I said already, I just wake up and play good. And sometimes I'm so tired.",
+        "author": {
+            "name": "Lukas Rosol",
+            "url": "/quotes/lukas_rosol_650303"
+        },
+        "topics": [
+            {
+                "name": "Tired",
+                "url": "/topics/tired"
+            },
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Sometimes",
+                "url": "/topics/sometimes"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lukas_rosol_650304",
+        "quote": "For me, it's important to stay healthy more than it is to have one good victory.",
+        "author": {
+            "name": "Lukas Rosol",
+            "url": "/quotes/lukas_rosol_650304"
+        },
+        "topics": [
+            {
+                "name": "Important",
+                "url": "/topics/important"
+            },
+            {
+                "name": "Healthy",
+                "url": "/topics/healthy"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lukas_rosol_650305",
+        "quote": "I never had goals to be in the top 10 or top five in the world. I just try to find the borders, find what level I can reach. I have a good team around me, so hopefully it's going to get even better.",
+        "author": {
+            "name": "Lukas Rosol",
+            "url": "/quotes/lukas_rosol_650305"
+        },
+        "topics": [
+            {
+                "name": "Reach",
+                "url": "/topics/reach"
+            },
+            {
+                "name": "Borders",
+                "url": "/topics/borders"
+            },
+            {
+                "name": "Had",
+                "url": "/topics/had"
+            }
+        ]
+    }
+]

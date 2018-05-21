@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/vic_willis_628027",
+        "quote": "Don't believe those tales you hear about my being all-in. Wait until you see me in action for your team and then form your opinion of my worth to your team. I assure you that I am delighted to be a Pirate and that I will do my best to bring another pennant to the Smoky City.",
+        "author": {
+            "name": "Vic Willis",
+            "url": "/quotes/vic_willis_628027"
+        },
+        "topics": [
+            {
+                "name": "Pirate",
+                "url": "/topics/pirate"
+            },
+            {
+                "name": "Wait",
+                "url": "/topics/wait"
+            },
+            {
+                "name": "Smoky",
+                "url": "/topics/smoky"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/vic_willis_628028",
+        "quote": "I feel very much satisfied to play in Baltimore.",
+        "author": {
+            "name": "Vic Willis",
+            "url": "/quotes/vic_willis_628028"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Baltimore",
+                "url": "/topics/baltimore"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    }
+]

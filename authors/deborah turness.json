@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/deborah_turness_728250",
+        "quote": "It is both an honour and a privilege to be asked to lead NBC News. The power of the brand, the scale of the legacy, the depth of the talent all make this organisation truly great.",
+        "author": {
+            "name": "Deborah Turness",
+            "url": "/quotes/deborah_turness_728250"
+        },
+        "topics": [
+            {
+                "name": "Legacy",
+                "url": "/topics/legacy"
+            },
+            {
+                "name": "News",
+                "url": "/topics/news"
+            },
+            {
+                "name": "Honour",
+                "url": "/topics/honour"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/deborah_turness_728251",
+        "quote": "News is the best drama on television because it's real.",
+        "author": {
+            "name": "Deborah Turness",
+            "url": "/quotes/deborah_turness_728251"
+        },
+        "topics": [
+            {
+                "name": "Television",
+                "url": "/topics/television"
+            },
+            {
+                "name": "Drama",
+                "url": "/topics/drama"
+            },
+            {
+                "name": "News",
+                "url": "/topics/news"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/david_wooster_200246",
+        "quote": "I am dying, but with a strong hope and persuasion that my country will gain her independence.",
+        "author": {
+            "name": "David Wooster",
+            "url": "/quotes/david_wooster_200246"
+        },
+        "topics": [
+            {
+                "name": "Strong",
+                "url": "/topics/strong"
+            },
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_wooster_200247",
+        "quote": "My life has ever been devoted to her service from my youth up, though never before in a cause like this - a cause for which I would most cheerfully risk and lay down my life.",
+        "author": {
+            "name": "David Wooster",
+            "url": "/quotes/david_wooster_200247"
+        },
+        "topics": [
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    }
+]

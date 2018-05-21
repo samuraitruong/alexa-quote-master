@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/brendan_eich_851476",
+        "quote": "Brave browsers block everything: initial signaling/analytics scripts that start the programmatic advertising 'dirty pipe', impression-tracking pixels, and ad-click confirmation signals.",
+        "author": {
+            "name": "Brendan Eich",
+            "url": "/quotes/brendan_eich_851476"
+        },
+        "topics": [
+            {
+                "name": "Start",
+                "url": "/topics/start"
+            },
+            {
+                "name": "Dirty",
+                "url": "/topics/dirty"
+            },
+            {
+                "name": "Initial",
+                "url": "/topics/initial"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brendan_eich_851477",
+        "quote": "Brave plays the long game on behalf of users first, and also publishers, to win a better Web with fast, safe browsing, anonymous micropayments, and user control over data.",
+        "author": {
+            "name": "Brendan Eich",
+            "url": "/quotes/brendan_eich_851477"
+        },
+        "topics": [
+            {
+                "name": "Game",
+                "url": "/topics/game"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Plays",
+                "url": "/topics/plays"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brendan_eich_851478",
+        "quote": "The main idea with Brave is that you don't have to think about Bitcoin; you just have this frictionless payment system.",
+        "author": {
+            "name": "Brendan Eich",
+            "url": "/quotes/brendan_eich_851478"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Idea",
+                "url": "/topics/idea"
+            }
+        ]
+    }
+]

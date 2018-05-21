@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/gates_mcfadden_176587",
+        "quote": "Just learning to think in another language allows you to see your own culture in a better viewpoint.",
+        "author": {
+            "name": "Gates McFadden",
+            "url": "/quotes/gates_mcfadden_176587"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Viewpoint",
+                "url": "/topics/viewpoint"
+            },
+            {
+                "name": "Another",
+                "url": "/topics/another"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gates_mcfadden_176586",
+        "quote": "I love a lot of things, and I'm pretty much obsessive about most things I do, whether it be gardening, or architecture, or music. I'd be an obsessive hairdresser.",
+        "author": {
+            "name": "Gates McFadden",
+            "url": "/quotes/gates_mcfadden_176586"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Gardening",
+                "url": "/topics/gardening"
+            },
+            {
+                "name": "Pretty",
+                "url": "/topics/pretty"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gates_mcfadden_176588",
+        "quote": "Life is so fast these days, and we're exposed to so much information. Television makes us a witness to such misery.",
+        "author": {
+            "name": "Gates McFadden",
+            "url": "/quotes/gates_mcfadden_176588"
+        },
+        "topics": [
+            {
+                "name": "Television",
+                "url": "/topics/television"
+            },
+            {
+                "name": "Misery",
+                "url": "/topics/misery"
+            },
+            {
+                "name": "Makes",
+                "url": "/topics/makes"
+            }
+        ]
+    }
+]

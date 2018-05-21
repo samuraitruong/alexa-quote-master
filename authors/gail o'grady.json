@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/gail_ogrady_562008",
+        "quote": "I think the paparazzi is a necessary evil... and if ya don't like it, and ya don't want to do this, go to Iowa and do some community theatre. It's all about self-promotion, and it's not always the fun part of it.",
+        "author": {
+            "name": "Gail O'Grady",
+            "url": "/quotes/gail_ogrady_562008"
+        },
+        "topics": [
+            {
+                "name": "Iowa",
+                "url": "/topics/iowa"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gail_ogrady_655637",
+        "quote": "The only reality show that I do tune in for is 'Shark Tank.'",
+        "author": {
+            "name": "Gail O'Grady",
+            "url": "/quotes/gail_ogrady_655637"
+        },
+        "topics": [
+            {
+                "name": "Shark",
+                "url": "/topics/shark"
+            },
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            },
+            {
+                "name": "Show",
+                "url": "/topics/show"
+            }
+        ]
+    }
+]

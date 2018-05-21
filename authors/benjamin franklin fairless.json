@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/benjamin_franklin_fairles_173580",
+        "quote": "What is the recipe for successful achievement? To my mind there are just four essential ingredients: Choose a career you love, give it the best there is in you, seize your opportunities, and be a member of the team.",
+        "author": {
+            "name": "Benjamin Franklin Fairless",
+            "url": "/quotes/benjamin_franklin_fairles_173580"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/benjamin_franklin_fairles_112171",
+        "quote": "What five members of the Supreme Court say the law is may be something vastly different from what Congress intended the law to be.",
+        "author": {
+            "name": "Benjamin Franklin Fairless",
+            "url": "/quotes/benjamin_franklin_fairles_112171"
+        },
+        "topics": [
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Law",
+                "url": "/topics/law"
+            },
+            {
+                "name": "Congress",
+                "url": "/topics/congress"
+            }
+        ]
+    }
+]

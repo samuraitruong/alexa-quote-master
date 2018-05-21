@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/sam_farr_506177",
+        "quote": "To make agriculture sustainable, the grower has got to be able to make a profit.",
+        "author": {
+            "name": "Sam Farr",
+            "url": "/quotes/sam_farr_506177"
+        },
+        "topics": [
+            {
+                "name": "Agriculture",
+                "url": "/topics/agriculture"
+            },
+            {
+                "name": "Sustainable",
+                "url": "/topics/sustainable"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sam_farr_227806",
+        "quote": "Peace Corps helps promote global acceptance of the principles of international peace and non-violent co-existence among people of diverse cultures and systems of government.",
+        "author": {
+            "name": "Sam Farr",
+            "url": "/quotes/sam_farr_227806"
+        },
+        "topics": [
+            {
+                "name": "People",
+                "url": "/topics/people"
+            },
+            {
+                "name": "Global",
+                "url": "/topics/global"
+            },
+            {
+                "name": "Corps",
+                "url": "/topics/corps"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sam_farr_506176",
+        "quote": "When I was in the California legislature in the '80s, the organic growers, who were sort of the small hippie farmers in those days, brought it to my attention that there were no regulations on organic labeling. In essence, anybody could just grow a thing any way they wanted and put 'organic' on it.",
+        "author": {
+            "name": "Sam Farr",
+            "url": "/quotes/sam_farr_506176"
+        },
+        "topics": [
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Essence",
+                "url": "/topics/essence"
+            },
+            {
+                "name": "Brought",
+                "url": "/topics/brought"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sam_farr_227807",
+        "quote": "If the U.N. didn't exist, we'd be inventing it right now.",
+        "author": {
+            "name": "Sam Farr",
+            "url": "/quotes/sam_farr_227807"
+        },
+        "topics": [
+            {
+                "name": "Now",
+                "url": "/topics/now"
+            },
+            {
+                "name": "Exist",
+                "url": "/topics/exist"
+            },
+            {
+                "name": "Inventing",
+                "url": "/topics/inventing"
+            }
+        ]
+    }
+]

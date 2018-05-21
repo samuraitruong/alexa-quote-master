@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/alex_lowe_193722?src=t_natural_fear",
+        "quote": "Identifying and overcoming natural fear is one of the pleasing struggles intrinsic to climbing.",
+        "author": {
+            "name": "Alex Lowe",
+            "url": "/authors/alex_lowe"
+        },
+        "topics": [
+            {
+                "name": "Natural",
+                "url": "/topics/natural"
+            },
+            {
+                "name": "Identifying",
+                "url": "/topics/identifying"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/terrence_howard_288916?src=t_natural_fear",
+        "quote": "I've always had a natural fear of the police, or abuse of their power.",
+        "author": {
+            "name": "Terrence Howard",
+            "url": "/authors/terrence_howard"
+        },
+        "topics": [
+            {
+                "name": "Police",
+                "url": "/topics/police"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Abuse",
+                "url": "/topics/abuse"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/francis_bacon_161634?src=t_natural_fear",
+        "quote": "Men fear death as children fear to go in the dark; and as that natural fear in children is increased by tales, so is the other.",
+        "author": {
+            "name": "Francis Bacon",
+            "url": "/authors/francis_bacon"
+        },
+        "topics": [
+            {
+                "name": "Death",
+                "url": "/topics/death"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Increased",
+                "url": "/topics/increased"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eric_hoffer_152411?src=t_natural_fear",
+        "quote": "We have perhaps a natural fear of ends. We would rather be always on the way than arrive. Given the means, we hang on to them and often forget the ends.",
+        "author": {
+            "name": "Eric Hoffer",
+            "url": "/authors/eric_hoffer"
+        },
+        "topics": [
+            {
+                "name": "Fear",
+                "url": "/topics/fear"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Given",
+                "url": "/topics/given"
+            }
+        ]
+    }
+]

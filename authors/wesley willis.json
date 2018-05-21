@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/wesley_willis_202772",
+        "quote": "Schizophrenia demons live in my head.",
+        "author": {
+            "name": "Wesley Willis",
+            "url": "/quotes/wesley_willis_202772"
+        },
+        "topics": [
+            {
+                "name": "Live",
+                "url": "/topics/live"
+            },
+            {
+                "name": "Schizophrenia",
+                "url": "/topics/schizophrenia"
+            },
+            {
+                "name": "Head",
+                "url": "/topics/head"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/wesley_willis_202775",
+        "quote": "Quit shouting those rerun songs at me.",
+        "author": {
+            "name": "Wesley Willis",
+            "url": "/quotes/wesley_willis_202775"
+        },
+        "topics": [
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Songs",
+                "url": "/topics/songs"
+            },
+            {
+                "name": "Shouting",
+                "url": "/topics/shouting"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/wesley_willis_640284",
+        "quote": "I'm not gonna be warded off the joy music bus.",
+        "author": {
+            "name": "Wesley Willis",
+            "url": "/quotes/wesley_willis_640284"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "Joy",
+                "url": "/topics/joy"
+            },
+            {
+                "name": "Bus",
+                "url": "/topics/bus"
+            }
+        ]
+    }
+]

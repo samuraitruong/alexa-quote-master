@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/john_nelson_darby_225233?src=t_epistle",
+        "quote": "The Epistle is a correction of profession without life, and most valuable in this respect.",
+        "author": {
+            "name": "John Nelson Darby",
+            "url": "/authors/john_nelson_darby"
+        },
+        "topics": [
+            {
+                "name": "Correction",
+                "url": "/topics/correction"
+            },
+            {
+                "name": "Profession",
+                "url": "/topics/profession"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_strachan_231880?src=t_epistle",
+        "quote": "In this Epistle, the Apostle seeks, with great earnestness, to confirm the Christian converts in the belief of that Gospel, which he had so faithfully preached.",
+        "author": {
+            "name": "John Strachan",
+            "url": "/authors/john_strachan"
+        },
+        "topics": [
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Had",
+                "url": "/topics/had"
+            },
+            {
+                "name": "Faithfully",
+                "url": "/topics/faithfully"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_strachan_231881?src=t_epistle",
+        "quote": "This Epistle, is therefore a legacy to the Christians of all ages.",
+        "author": {
+            "name": "John Strachan",
+            "url": "/authors/john_strachan"
+        },
+        "topics": [
+            {
+                "name": "Legacy",
+                "url": "/topics/legacy"
+            },
+            {
+                "name": "Christians",
+                "url": "/topics/christians"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/hans_kung_239569?src=t_epistle",
+        "quote": "The Epistle to the Romans is an extremely important synthesis of the whole theology of St. Paul.",
+        "author": {
+            "name": "Hans Kung",
+            "url": "/authors/hans_kung"
+        },
+        "topics": [
+            {
+                "name": "Important",
+                "url": "/topics/important"
+            },
+            {
+                "name": "Romans",
+                "url": "/topics/romans"
+            },
+            {
+                "name": "Synthesis",
+                "url": "/topics/synthesis"
+            }
+        ]
+    }
+]

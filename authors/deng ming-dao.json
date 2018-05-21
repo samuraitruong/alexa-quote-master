@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/deng_mingdao_615488",
+        "quote": "Shared dining fortifies us.",
+        "author": {
+            "name": "Deng Ming-Dao",
+            "url": "/quotes/deng_mingdao_615488"
+        },
+        "topics": [
+            {
+                "name": "Dining",
+                "url": "/topics/dining"
+            },
+            {
+                "name": "Us",
+                "url": "/topics/us"
+            },
+            {
+                "name": "Shared",
+                "url": "/topics/shared"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/deng_mingdao_615485",
+        "quote": "The traditional family table is round. No corners. No sides. No head. No tail. Everything is smooth. The food is in the center, and each family member reaches over the same distance. Someone you love is next to you on each side, and no one is last or at the end. The person farthest away from you is also the person facing you.",
+        "author": {
+            "name": "Deng Ming-Dao",
+            "url": "/quotes/deng_mingdao_615485"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            },
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/deng_mingdao_615487",
+        "quote": "Sharing the same meal reaffirms kinship.",
+        "author": {
+            "name": "Deng Ming-Dao",
+            "url": "/quotes/deng_mingdao_615487"
+        },
+        "topics": [
+            {
+                "name": "Meal",
+                "url": "/topics/meal"
+            },
+            {
+                "name": "Same",
+                "url": "/topics/same"
+            },
+            {
+                "name": "Kinship",
+                "url": "/topics/kinship"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/deng_mingdao_615486",
+        "quote": "If you are what you eat, then you are shaped by what you share as you eat.",
+        "author": {
+            "name": "Deng Ming-Dao",
+            "url": "/quotes/deng_mingdao_615486"
+        },
+        "topics": [
+            {
+                "name": "Eat",
+                "url": "/topics/eat"
+            },
+            {
+                "name": "Share",
+                "url": "/topics/share"
+            },
+            {
+                "name": "Shaped",
+                "url": "/topics/shaped"
+            }
+        ]
+    }
+]

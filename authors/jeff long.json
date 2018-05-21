@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/jeff_long_404590",
+        "quote": "If you can't believe, you can't achieve.",
+        "author": {
+            "name": "Jeff Long",
+            "url": "/quotes/jeff_long_404590"
+        },
+        "topics": [
+            {
+                "name": "Believe",
+                "url": "/topics/believe"
+            },
+            {
+                "name": "Achieve",
+                "url": "/topics/achieve"
+            },
+            {
+                "name": "You",
+                "url": "/topics/you"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jeff_long_404681",
+        "quote": "It's kind of hard to get deep with Rodgers and Hammerstein. I can't think of a moral in the music - it's just fun.",
+        "author": {
+            "name": "Jeff Long",
+            "url": "/quotes/jeff_long_404681"
+        },
+        "topics": [
+            {
+                "name": "Deep",
+                "url": "/topics/deep"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Kind",
+                "url": "/topics/kind"
+            }
+        ]
+    }
+]

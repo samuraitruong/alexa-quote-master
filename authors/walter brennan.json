@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/walter_brennan_570841",
+        "quote": "I never made a movie I would not take my family to see.",
+        "author": {
+            "name": "Walter Brennan",
+            "url": "/quotes/walter_brennan_570841"
+        },
+        "topics": [
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "See",
+                "url": "/topics/see"
+            },
+            {
+                "name": "Take",
+                "url": "/topics/take"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/walter_brennan_570842",
+        "quote": "I'm not a glamour boy, and I never get the girl. I like to play old people, because there's something to them. Did you ever see anybody under 30 with any real character or expression in his face?",
+        "author": {
+            "name": "Walter Brennan",
+            "url": "/quotes/walter_brennan_570842"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Boy",
+                "url": "/topics/boy"
+            },
+            {
+                "name": "Anybody",
+                "url": "/topics/anybody"
+            }
+        ]
+    }
+]

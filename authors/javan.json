@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/javan_391878",
+        "quote": "Listen closely as those around you speak; great truths are revealed in jest.",
+        "author": {
+            "name": "Javan",
+            "url": "/quotes/javan_391878"
+        },
+        "topics": [
+            {
+                "name": "Closely",
+                "url": "/topics/closely"
+            },
+            {
+                "name": "Truths",
+                "url": "/topics/truths"
+            },
+            {
+                "name": "Revealed",
+                "url": "/topics/revealed"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/javan_100723",
+        "quote": "Love can sometimes be magic. But magic can sometimes... just be an illusion.",
+        "author": {
+            "name": "Javan",
+            "url": "/quotes/javan_100723"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Magic",
+                "url": "/topics/magic"
+            },
+            {
+                "name": "Just Be",
+                "url": "/topics/just_be"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/javan_106562",
+        "quote": "I don't wish to be everything to everyone, but I would like to be something to someone.",
+        "author": {
+            "name": "Javan",
+            "url": "/quotes/javan_106562"
+        },
+        "topics": [
+            {
+                "name": "Wish",
+                "url": "/topics/wish"
+            },
+            {
+                "name": "Someone",
+                "url": "/topics/someone"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            }
+        ]
+    }
+]

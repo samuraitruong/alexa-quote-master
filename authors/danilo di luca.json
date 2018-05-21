@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/danilo_di_luca_585119",
+        "quote": "Whatever I won in cycling, I won with my own skills. I never won anything I couldn't win. For example, I never won a time trial at 60 kph, whereas others have and maybe still do.",
+        "author": {
+            "name": "Danilo Di Luca",
+            "url": "/quotes/danilo_di_luca_585119"
+        },
+        "topics": [
+            {
+                "name": "My Own",
+                "url": "/topics/my_own"
+            },
+            {
+                "name": "Maybe",
+                "url": "/topics/maybe"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/danilo_di_luca_585120",
+        "quote": "Big defeats make us learn.",
+        "author": {
+            "name": "Danilo Di Luca",
+            "url": "/quotes/danilo_di_luca_585120"
+        },
+        "topics": [
+            {
+                "name": "Learn",
+                "url": "/topics/learn"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Defeats",
+                "url": "/topics/defeats"
+            }
+        ]
+    }
+]

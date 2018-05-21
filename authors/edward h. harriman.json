@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/edward_h_harriman_104928",
+        "quote": "Much good work is lost for the lack of a little more.",
+        "author": {
+            "name": "Edward H. Harriman",
+            "url": "/quotes/edward_h_harriman_104928"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Lost",
+                "url": "/topics/lost"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edward_h_harriman_121573",
+        "quote": "Every man should make up his own mind that if he expect to succeed, he must give an honest return for the other man's dollar.",
+        "author": {
+            "name": "Edward H. Harriman",
+            "url": "/quotes/edward_h_harriman_121573"
+        },
+        "topics": [
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    }
+]

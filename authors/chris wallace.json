@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/chris_wallace_185935",
+        "quote": "I think a lot of people in television news look at the cable networks with great envy.",
+        "author": {
+            "name": "Chris Wallace",
+            "url": "/quotes/chris_wallace_185935"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "News",
+                "url": "/topics/news"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/chris_wallace_379771",
+        "quote": "You've got to keep an open mind.",
+        "author": {
+            "name": "Chris Wallace",
+            "url": "/quotes/chris_wallace_379771"
+        },
+        "topics": [
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Got",
+                "url": "/topics/got"
+            },
+            {
+                "name": "Keep",
+                "url": "/topics/keep"
+            }
+        ]
+    }
+]

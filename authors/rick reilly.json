@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/rick_reilly_403892",
+        "quote": "I write the story that nobody reads. Someday, I'm going to write it in German to see if anyone notices.",
+        "author": {
+            "name": "Rick Reilly",
+            "url": "/quotes/rick_reilly_403892"
+        },
+        "topics": [
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "German",
+                "url": "/topics/german"
+            },
+            {
+                "name": "I Write",
+                "url": "/topics/i_write"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rick_reilly_441494",
+        "quote": "Maybe I'm just getting old, but I remember when your average NFL player would come to the sideline, spit out three bicuspids, Scotch-tape his humerus together and get back out there.",
+        "author": {
+            "name": "Rick Reilly",
+            "url": "/quotes/rick_reilly_441494"
+        },
+        "topics": [
+            {
+                "name": "Average",
+                "url": "/topics/average"
+            },
+            {
+                "name": "I Remember",
+                "url": "/topics/i_remember"
+            },
+            {
+                "name": "Maybe",
+                "url": "/topics/maybe"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rick_reilly_441495",
+        "quote": "I was a terrible Sugar Babies addict, so I had more cavities than the surface of the moon.",
+        "author": {
+            "name": "Rick Reilly",
+            "url": "/quotes/rick_reilly_441495"
+        },
+        "topics": [
+            {
+                "name": "Moon",
+                "url": "/topics/moon"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Surface",
+                "url": "/topics/surface"
+            }
+        ]
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/harry_bertoia_311896",
+        "quote": "The urge for good design is the same as the urge to go on living.",
+        "author": {
+            "name": "Harry Bertoia",
+            "url": "/quotes/harry_bertoia_311896"
+        },
+        "topics": [
+            {
+                "name": "Living",
+                "url": "/topics/living"
+            },
+            {
+                "name": "Design",
+                "url": "/topics/design"
+            },
+            {
+                "name": "Same",
+                "url": "/topics/same"
+            }
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/vernon_lee_207609",
+        "quote": "The greatest pleasure of reading consists in re-reading.",
+        "author": {
+            "name": "Vernon Lee",
+            "url": "/quotes/vernon_lee_207609"
+        },
+        "topics": [
+            {
+                "name": "Reading",
+                "url": "/topics/reading"
+            },
+            {
+                "name": "Greatest Pleasure",
+                "url": "/topics/greatest_pleasure"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/vernon_lee_207610",
+        "quote": "There is too little courtship in the world.",
+        "author": {
+            "name": "Vernon Lee",
+            "url": "/quotes/vernon_lee_207610"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Too",
+                "url": "/topics/too"
+            },
+            {
+                "name": "Courtship",
+                "url": "/topics/courtship"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/horace_gray_311949",
+        "quote": "Botanically speaking, tomatoes are the fruit of a vine, just as are cucumbers, squashes, beans and peas.",
+        "author": {
+            "name": "Horace Gray",
+            "url": "/quotes/horace_gray_311949"
+        },
+        "topics": [
+            {
+                "name": "Tomatoes",
+                "url": "/topics/tomatoes"
+            },
+            {
+                "name": "Speaking",
+                "url": "/topics/speaking"
+            },
+            {
+                "name": "Peas",
+                "url": "/topics/peas"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/horace_gray_350503",
+        "quote": "Every citizen or subject of another country, while domiciled here, is within the allegiance and the protection, and consequently subject to the jurisdiction, of the United States.",
+        "author": {
+            "name": "Horace Gray",
+            "url": "/quotes/horace_gray_350503"
+        },
+        "topics": [
+            {
+                "name": "United States",
+                "url": "/topics/united_states"
+            },
+            {
+                "name": "Citizen",
+                "url": "/topics/citizen"
+            },
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            }
+        ]
+    }
+]

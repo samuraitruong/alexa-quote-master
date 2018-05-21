@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/leo_mckern_308712",
+        "quote": "It is easy to believe in freedom of speech for those with whom we agree.",
+        "author": {
+            "name": "Leo McKern",
+            "url": "/quotes/leo_mckern_308712"
+        },
+        "topics": [
+            {
+                "name": "Freedom",
+                "url": "/topics/freedom"
+            },
+            {
+                "name": "Speech",
+                "url": "/topics/speech"
+            },
+            {
+                "name": "Whom",
+                "url": "/topics/whom"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/leo_mckern_307286",
+        "quote": "I consider that my best performance ever was as Peer Gynt.",
+        "author": {
+            "name": "Leo McKern",
+            "url": "/quotes/leo_mckern_307286"
+        },
+        "topics": [
+            {
+                "name": "Performance",
+                "url": "/topics/performance"
+            },
+            {
+                "name": "Peer",
+                "url": "/topics/peer"
+            },
+            {
+                "name": "Ever",
+                "url": "/topics/ever"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/leo_mckern_307287",
+        "quote": "If I get an obit in the Times, they will say, of course, known to millions as Rumpole.",
+        "author": {
+            "name": "Leo McKern",
+            "url": "/quotes/leo_mckern_307287"
+        },
+        "topics": [
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Times",
+                "url": "/topics/times"
+            },
+            {
+                "name": "Known",
+                "url": "/topics/known"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/julius_boros_404703",
+        "quote": "Retire to what? I already play golf and fish for a living.",
+        "author": {
+            "name": "Julius Boros",
+            "url": "/quotes/julius_boros_404703"
+        },
+        "topics": [
+            {
+                "name": "Golf",
+                "url": "/topics/golf"
+            },
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Living",
+                "url": "/topics/living"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/julius_boros_234322",
+        "quote": "By the time you get to your ball, if you don't know what to do with it, try another sport.",
+        "author": {
+            "name": "Julius Boros",
+            "url": "/quotes/julius_boros_234322"
+        },
+        "topics": [
+            {
+                "name": "Ball",
+                "url": "/topics/ball"
+            },
+            {
+                "name": "Get",
+                "url": "/topics/get"
+            },
+            {
+                "name": "By The Time",
+                "url": "/topics/by_the_time"
+            }
+        ]
+    }
+]

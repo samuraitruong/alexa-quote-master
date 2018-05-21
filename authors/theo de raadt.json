@@ -1,0 +1,134 @@
+[
+    {
+        "url": "/quotes/theo_de_raadt_243265",
+        "quote": "I work on OpenBSD fulltime, as the project leader. I set some directions, increase communication between the developers, and try to be involved in nearly every aspect of the base system.",
+        "author": {
+            "name": "Theo de Raadt",
+            "url": "/quotes/theo_de_raadt_243265"
+        },
+        "topics": [
+            {
+                "name": "Leader",
+                "url": "/topics/leader"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Set",
+                "url": "/topics/set"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/theo_de_raadt_243267",
+        "quote": "I started working on OpenBSD, and many earlier projects, because I have always felt that vendor systems were not designed for quality.",
+        "author": {
+            "name": "Theo de Raadt",
+            "url": "/quotes/theo_de_raadt_243267"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Projects",
+                "url": "/topics/projects"
+            },
+            {
+                "name": "Felt",
+                "url": "/topics/felt"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/theo_de_raadt_243268",
+        "quote": "The primary goal of a vendor is to make money.",
+        "author": {
+            "name": "Theo de Raadt",
+            "url": "/quotes/theo_de_raadt_243268"
+        },
+        "topics": [
+            {
+                "name": "Money",
+                "url": "/topics/money"
+            },
+            {
+                "name": "Goal",
+                "url": "/topics/goal"
+            },
+            {
+                "name": "Primary Goal",
+                "url": "/topics/primary_goal"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/theo_de_raadt_243269",
+        "quote": "In some industry markets, high quality can be tied to making more money, but I am sure by now all of us know the computer industry is not like that.",
+        "author": {
+            "name": "Theo de Raadt",
+            "url": "/quotes/theo_de_raadt_243269"
+        },
+        "topics": [
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Making",
+                "url": "/topics/making"
+            },
+            {
+                "name": "Tied",
+                "url": "/topics/tied"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/theo_de_raadt_444461",
+        "quote": "Linux has never been about quality. There are so many parts of the system that are just these cheap little hacks, and it happens to run.",
+        "author": {
+            "name": "Theo de Raadt",
+            "url": "/quotes/theo_de_raadt_444461"
+        },
+        "topics": [
+            {
+                "name": "Run",
+                "url": "/topics/run"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/theo_de_raadt_444462",
+        "quote": "Linux people do what they do because they hate Microsoft.",
+        "author": {
+            "name": "Theo de Raadt",
+            "url": "/quotes/theo_de_raadt_444462"
+        },
+        "topics": [
+            {
+                "name": "Hate",
+                "url": "/topics/hate"
+            },
+            {
+                "name": "Linux",
+                "url": "/topics/linux"
+            },
+            {
+                "name": "Because",
+                "url": "/topics/because"
+            }
+        ]
+    }
+]

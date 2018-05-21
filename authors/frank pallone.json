@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/frank_pallone_622618",
+        "quote": "It's important for us as Democrats to stick together.",
+        "author": {
+            "name": "Frank Pallone",
+            "url": "/quotes/frank_pallone_622618"
+        },
+        "topics": [
+            {
+                "name": "Important",
+                "url": "/topics/important"
+            },
+            {
+                "name": "Democrats",
+                "url": "/topics/democrats"
+            },
+            {
+                "name": "Stick",
+                "url": "/topics/stick"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/frank_pallone_622619",
+        "quote": "My whole purpose really is to try to help working families to find better jobs and get better benefits and look out for the little guy.",
+        "author": {
+            "name": "Frank Pallone",
+            "url": "/quotes/frank_pallone_622619"
+        },
+        "topics": [
+            {
+                "name": "Purpose",
+                "url": "/topics/purpose"
+            },
+            {
+                "name": "Jobs",
+                "url": "/topics/jobs"
+            },
+            {
+                "name": "Benefits",
+                "url": "/topics/benefits"
+            }
+        ]
+    }
+]

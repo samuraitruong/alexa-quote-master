@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/michael_dukakis_172411",
+        "quote": "I do not believe in people owning guns. Guns should be owned only by the police and military. I am going to do everything I can to disarm this state.",
+        "author": {
+            "name": "Michael Dukakis",
+            "url": "/quotes/michael_dukakis_172411"
+        },
+        "topics": [
+            {
+                "name": "Believe",
+                "url": "/topics/believe"
+            },
+            {
+                "name": "Guns",
+                "url": "/topics/guns"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/michael_dukakis_404239",
+        "quote": "Like a good general, I treated everyone who wasn't with me as against me.",
+        "author": {
+            "name": "Michael Dukakis",
+            "url": "/quotes/michael_dukakis_404239"
+        },
+        "topics": [
+            {
+                "name": "General",
+                "url": "/topics/general"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Treated",
+                "url": "/topics/treated"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/howard_lindsay_197493",
+        "quote": "I shall give you hunger, and pain, and sleepless nights. Also beauty, and satisfactions known to few, and glimpses of the heavenly life. None of these you shall have continually, and of their coming and going you shall not be foretold.",
+        "author": {
+            "name": "Howard Lindsay",
+            "url": "/quotes/howard_lindsay_197493"
+        },
+        "topics": [
+            {
+                "name": "Beauty",
+                "url": "/topics/beauty"
+            },
+            {
+                "name": "Pain",
+                "url": "/topics/pain"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/howard_lindsay_197492",
+        "quote": "Every so often, we pass laws repealing human nature.",
+        "author": {
+            "name": "Howard Lindsay",
+            "url": "/quotes/howard_lindsay_197492"
+        },
+        "topics": [
+            {
+                "name": "Laws",
+                "url": "/topics/laws"
+            },
+            {
+                "name": "Pass",
+                "url": "/topics/pass"
+            },
+            {
+                "name": "Repealing",
+                "url": "/topics/repealing"
+            }
+        ]
+    }
+]

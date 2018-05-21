@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/casey_johnson_682841",
+        "quote": "I got a car when I was 16. I didn't even have a driver's license.",
+        "author": {
+            "name": "Casey Johnson",
+            "url": "/quotes/casey_johnson_682841"
+        },
+        "topics": [
+            {
+                "name": "Car",
+                "url": "/topics/car"
+            },
+            {
+                "name": "Driver",
+                "url": "/topics/driver"
+            },
+            {
+                "name": "License",
+                "url": "/topics/license"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/casey_johnson_682842",
+        "quote": "I live in a free country. And I have so much more than I need.",
+        "author": {
+            "name": "Casey Johnson",
+            "url": "/quotes/casey_johnson_682842"
+        },
+        "topics": [
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/casey_johnson_682843",
+        "quote": "My entire personality changes when I'm in L.A.",
+        "author": {
+            "name": "Casey Johnson",
+            "url": "/quotes/casey_johnson_682843"
+        },
+        "topics": [
+            {
+                "name": "Personality",
+                "url": "/topics/personality"
+            },
+            {
+                "name": "Changes",
+                "url": "/topics/changes"
+            },
+            {
+                "name": "Entire",
+                "url": "/topics/entire"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/casey_johnson_682844",
+        "quote": "Drama seems to kind of surround me.",
+        "author": {
+            "name": "Casey Johnson",
+            "url": "/quotes/casey_johnson_682844"
+        },
+        "topics": [
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Drama",
+                "url": "/topics/drama"
+            },
+            {
+                "name": "Kind",
+                "url": "/topics/kind"
+            }
+        ]
+    }
+]

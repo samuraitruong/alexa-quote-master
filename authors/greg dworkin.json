@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/greg_dworkin_409431",
+        "quote": "One billion people in 175 countries will mark Earth Day. That puts tea parties in perspective, doesn't it?",
+        "author": {
+            "name": "Greg Dworkin",
+            "url": "/quotes/greg_dworkin_409431"
+        },
+        "topics": [
+            {
+                "name": "People",
+                "url": "/topics/people"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Countries",
+                "url": "/topics/countries"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/greg_dworkin_409430",
+        "quote": "There are fewer and fewer Republicans.",
+        "author": {
+            "name": "Greg Dworkin",
+            "url": "/quotes/greg_dworkin_409430"
+        },
+        "topics": [
+            {
+                "name": "Republicans",
+                "url": "/topics/republicans"
+            },
+            {
+                "name": "Fewer",
+                "url": "/topics/fewer"
+            }
+        ]
+    }
+]

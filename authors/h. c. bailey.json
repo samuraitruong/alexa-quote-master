@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/h_c_bailey_173108",
+        "quote": "Faith is a higher faculty than reason.",
+        "author": {
+            "name": "H. C. Bailey",
+            "url": "/quotes/h_c_bailey_173108"
+        },
+        "topics": [
+            {
+                "name": "Faith",
+                "url": "/topics/faith"
+            },
+            {
+                "name": "Reason",
+                "url": "/topics/reason"
+            },
+            {
+                "name": "Than",
+                "url": "/topics/than"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/h_c_bailey_177125",
+        "quote": "In order to be a realist you must believe in miracles.",
+        "author": {
+            "name": "H. C. Bailey",
+            "url": "/quotes/h_c_bailey_177125"
+        },
+        "topics": [
+            {
+                "name": "Believe",
+                "url": "/topics/believe"
+            },
+            {
+                "name": "Realist",
+                "url": "/topics/realist"
+            },
+            {
+                "name": "Must",
+                "url": "/topics/must"
+            }
+        ]
+    }
+]

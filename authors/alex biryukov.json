@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/alex_biryukov_860325",
+        "quote": "It's hard to predict the future, but some people think that Bitcoin could do to finance what the Internet did to communications.",
+        "author": {
+            "name": "Alex Biryukov",
+            "url": "/quotes/alex_biryukov_860325"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alex_biryukov_860326",
+        "quote": "In general, Tor architecture is not suited for protecting anonymity of long-term, popular web services.",
+        "author": {
+            "name": "Alex Biryukov",
+            "url": "/quotes/alex_biryukov_860326"
+        },
+        "topics": [
+            {
+                "name": "General",
+                "url": "/topics/general"
+            },
+            {
+                "name": "Protecting",
+                "url": "/topics/protecting"
+            },
+            {
+                "name": "Suited",
+                "url": "/topics/suited"
+            }
+        ]
+    }
+]

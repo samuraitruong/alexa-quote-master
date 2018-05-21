@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/james_hilton_390428",
+        "quote": "If net neutrality goes away, it will fundamentally change everything about the Internet.",
+        "author": {
+            "name": "James Hilton",
+            "url": "/quotes/james_hilton_390428"
+        },
+        "topics": [
+            {
+                "name": "Computers",
+                "url": "/topics/computers"
+            },
+            {
+                "name": "Fundamentally",
+                "url": "/topics/fundamentally"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_hilton_194120",
+        "quote": "Surely there comes a time when counting the cost and paying the price aren't things to think about any more. All that matters is value - the ultimate value of what one does.",
+        "author": {
+            "name": "James Hilton",
+            "url": "/quotes/james_hilton_194120"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Counting",
+                "url": "/topics/counting"
+            },
+            {
+                "name": "Surely",
+                "url": "/topics/surely"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_hilton_194121",
+        "quote": "If you forgive people enough you belong to them, and they to you, whether either person likes it or not squatter's rights of the heart.",
+        "author": {
+            "name": "James Hilton",
+            "url": "/quotes/james_hilton_194121"
+        },
+        "topics": [
+            {
+                "name": "Forgive",
+                "url": "/topics/forgive"
+            },
+            {
+                "name": "Belong",
+                "url": "/topics/belong"
+            },
+            {
+                "name": "Them",
+                "url": "/topics/them"
+            }
+        ]
+    }
+]

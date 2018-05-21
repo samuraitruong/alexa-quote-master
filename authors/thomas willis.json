@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/thomas_willis_200100",
+        "quote": "I beg my Children to be just and virtuous, never to disgrace my name or theirs, and then they are out of fortune's power.",
+        "author": {
+            "name": "Thomas Willis",
+            "url": "/quotes/thomas_willis_200100"
+        },
+        "topics": [
+            {
+                "name": "Disgrace",
+                "url": "/topics/disgrace"
+            },
+            {
+                "name": "Fortune",
+                "url": "/topics/fortune"
+            },
+            {
+                "name": "Beg",
+                "url": "/topics/beg"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_willis_200099",
+        "quote": "Diabetes is caused by melancholy.",
+        "author": {
+            "name": "Thomas Willis",
+            "url": "/quotes/thomas_willis_200099"
+        },
+        "topics": [
+            {
+                "name": "Diabetes",
+                "url": "/topics/diabetes"
+            },
+            {
+                "name": "Melancholy",
+                "url": "/topics/melancholy"
+            },
+            {
+                "name": "Caused",
+                "url": "/topics/caused"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_willis_200103",
+        "quote": "Sometimes a great wound or concussion of the head, especially which happens by falling headlong from an high place, brings a prejudice and weakness to the animal faculty, dulling the understanding.",
+        "author": {
+            "name": "Thomas Willis",
+            "url": "/quotes/thomas_willis_200103"
+        },
+        "topics": [
+            {
+                "name": "Sometimes",
+                "url": "/topics/sometimes"
+            },
+            {
+                "name": "Falling",
+                "url": "/topics/falling"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_willis_200104",
+        "quote": "Those who are born of parents broken with old age, or of such as are not yet ripe or are too young, or of drunkards, soft or effeminate men, want a great and liberal ingenuity or wit.",
+        "author": {
+            "name": "Thomas Willis",
+            "url": "/quotes/thomas_willis_200104"
+        },
+        "topics": [
+            {
+                "name": "Broken",
+                "url": "/topics/broken"
+            },
+            {
+                "name": "Young",
+                "url": "/topics/young"
+            },
+            {
+                "name": "Wit",
+                "url": "/topics/wit"
+            }
+        ]
+    }
+]

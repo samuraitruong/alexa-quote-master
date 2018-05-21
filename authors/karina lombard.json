@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/karina_lombard_569975",
+        "quote": "I don't wear perfume, and I rarely wear jewelry.",
+        "author": {
+            "name": "Karina Lombard",
+            "url": "/quotes/karina_lombard_569975"
+        },
+        "topics": [
+            {
+                "name": "Jewelry",
+                "url": "/topics/jewelry"
+            },
+            {
+                "name": "Wear",
+                "url": "/topics/wear"
+            },
+            {
+                "name": "Rarely",
+                "url": "/topics/rarely"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/karina_lombard_569974",
+        "quote": "With me, what you see is what you get.",
+        "author": {
+            "name": "Karina Lombard",
+            "url": "/quotes/karina_lombard_569974"
+        },
+        "topics": [
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "See",
+                "url": "/topics/see"
+            },
+            {
+                "name": "Get",
+                "url": "/topics/get"
+            }
+        ]
+    }
+]

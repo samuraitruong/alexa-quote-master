@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/veronica_lake_326132",
+        "quote": "I've reached a point in my life where it's the little things that matter... I was always a rebel and probably could have got much farther had I changed my attitude. But when you think about it, I got pretty far without changing attitudes. I'm happier with that.",
+        "author": {
+            "name": "Veronica Lake",
+            "url": "/quotes/veronica_lake_326132"
+        },
+        "topics": [
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Rebel",
+                "url": "/topics/rebel"
+            },
+            {
+                "name": "Farther",
+                "url": "/topics/farther"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/veronica_lake_184278",
+        "quote": "You could put all the talent I had into your left eye and still not suffer from impaired vision.",
+        "author": {
+            "name": "Veronica Lake",
+            "url": "/quotes/veronica_lake_184278"
+        },
+        "topics": [
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            },
+            {
+                "name": "Had",
+                "url": "/topics/had"
+            },
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/veronica_lake_322318",
+        "quote": "I wasn't a sex symbol, I was a sex zombie.",
+        "author": {
+            "name": "Veronica Lake",
+            "url": "/quotes/veronica_lake_322318"
+        },
+        "topics": [
+            {
+                "name": "Sex",
+                "url": "/topics/sex"
+            },
+            {
+                "name": "Symbol",
+                "url": "/topics/symbol"
+            },
+            {
+                "name": "Sex Symbol",
+                "url": "/topics/sex_symbol"
+            }
+        ]
+    }
+]

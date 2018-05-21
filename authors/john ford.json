@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/john_ford_139188",
+        "quote": "Revenge proves its own executioner.",
+        "author": {
+            "name": "John Ford",
+            "url": "/quotes/john_ford_139188"
+        },
+        "topics": [
+            {
+                "name": "Revenge",
+                "url": "/topics/revenge"
+            },
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            },
+            {
+                "name": "Executioner",
+                "url": "/topics/executioner"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_ford_389165",
+        "quote": "It is easier to get an actor to be a cowboy than to get a cowboy to be an actor.",
+        "author": {
+            "name": "John Ford",
+            "url": "/quotes/john_ford_389165"
+        },
+        "topics": [
+            {
+                "name": "Actor",
+                "url": "/topics/actor"
+            },
+            {
+                "name": "Cowboy",
+                "url": "/topics/cowboy"
+            },
+            {
+                "name": "Get",
+                "url": "/topics/get"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_ford_401230",
+        "quote": "Anybody can direct a picture once they know the fundamentals. Directing is not a mystery, it's not an art. The main thing about directing is: photograph the people's eyes.",
+        "author": {
+            "name": "John Ford",
+            "url": "/quotes/john_ford_401230"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Fundamentals",
+                "url": "/topics/fundamentals"
+            },
+            {
+                "name": "Anybody",
+                "url": "/topics/anybody"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_ford_128167",
+        "quote": "How did I get to Hollywood? By train.",
+        "author": {
+            "name": "John Ford",
+            "url": "/quotes/john_ford_128167"
+        },
+        "topics": [
+            {
+                "name": "Hollywood",
+                "url": "/topics/hollywood"
+            },
+            {
+                "name": "Get",
+                "url": "/topics/get"
+            },
+            {
+                "name": "How",
+                "url": "/topics/how"
+            }
+        ]
+    }
+]

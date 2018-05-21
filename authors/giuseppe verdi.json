@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/giuseppe_verdi_185262",
+        "quote": "You may have the universe if I may have Italy.",
+        "author": {
+            "name": "Giuseppe Verdi",
+            "url": "/quotes/giuseppe_verdi_185262"
+        },
+        "topics": [
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Universe",
+                "url": "/topics/universe"
+            },
+            {
+                "name": "You",
+                "url": "/topics/you"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/giuseppe_verdi_185263",
+        "quote": "I adore art... when I am alone with my notes, my heart pounds and the tears stream from my eyes, and my emotion and my joys are too much to bear.",
+        "author": {
+            "name": "Giuseppe Verdi",
+            "url": "/quotes/giuseppe_verdi_185263"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Tears",
+                "url": "/topics/tears"
+            },
+            {
+                "name": "Notes",
+                "url": "/topics/notes"
+            }
+        ]
+    }
+]

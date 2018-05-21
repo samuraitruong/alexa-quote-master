@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/paul_brunton_127424",
+        "quote": "Solitude is strength; to depend on the presence of the crowd is weakness. The man who needs a mob to nerve him is much more alone than he imagines.",
+        "author": {
+            "name": "Paul Brunton",
+            "url": "/quotes/paul_brunton_127424"
+        },
+        "topics": [
+            {
+                "name": "Strength",
+                "url": "/topics/strength"
+            },
+            {
+                "name": "Mob",
+                "url": "/topics/mob"
+            },
+            {
+                "name": "Needs",
+                "url": "/topics/needs"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_brunton_127447",
+        "quote": "Worry is spiritual short sight. Its cure is intelligent faith.",
+        "author": {
+            "name": "Paul Brunton",
+            "url": "/quotes/paul_brunton_127447"
+        },
+        "topics": [
+            {
+                "name": "Faith",
+                "url": "/topics/faith"
+            },
+            {
+                "name": "Worry",
+                "url": "/topics/worry"
+            },
+            {
+                "name": "Sight",
+                "url": "/topics/sight"
+            }
+        ]
+    }
+]

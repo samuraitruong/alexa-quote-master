@@ -1,0 +1,130 @@
+[
+    {
+        "url": "/quotes/pamela_anderson_129466?src=t_important_moments",
+        "quote": "Tattoos are like stories - they're symbolic of the important moments in your life. Sitting down, talking about where you got each tattoo and what it symbolizes, is really beautiful.",
+        "author": {
+            "name": "Pamela Anderson",
+            "url": "/authors/pamela_anderson"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Stories",
+                "url": "/topics/stories"
+            },
+            {
+                "name": "Symbolic",
+                "url": "/topics/symbolic"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jim_morrison_167320?src=t_important_moments",
+        "quote": "I see myself as an intelligent, sensitive human, with the soul of a clown which forces me to blow it at the most important moments.",
+        "author": {
+            "name": "Jim Morrison",
+            "url": "/authors/jim_morrison"
+        },
+        "topics": [
+            {
+                "name": "The Most Important",
+                "url": "/topics/the_most_important"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/agatha_christie_158409?src=t_important_moments",
+        "quote": "One doesn't recognize the really important moments in one's life until it's too late.",
+        "author": {
+            "name": "Agatha Christie",
+            "url": "/authors/agatha_christie"
+        },
+        "topics": [
+            {
+                "name": "Too Late",
+                "url": "/topics/too_late"
+            },
+            {
+                "name": "Recognize",
+                "url": "/topics/recognize"
+            },
+            {
+                "name": "Really",
+                "url": "/topics/really"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jim_morrison_109342?src=t_important_moments",
+        "quote": "I think of myself as an intelligent, sensitive human being with the soul of a clown which always forces me to blow it at the most important moments.",
+        "author": {
+            "name": "Jim Morrison",
+            "url": "/authors/jim_morrison"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jon_cryer_455729?src=t_important_moments",
+        "quote": "I try to save being angry for the really important moments - for special occasions.",
+        "author": {
+            "name": "Jon Cryer",
+            "url": "/authors/jon_cryer"
+        },
+        "topics": [
+            {
+                "name": "Moments",
+                "url": "/topics/moments"
+            },
+            {
+                "name": "Special",
+                "url": "/topics/special"
+            },
+            {
+                "name": "Important",
+                "url": "/topics/important"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/judy_woodruff_504958?src=t_important_moments",
+        "quote": "And I've been incredibly lucky to have a long career in journalism that has given me a front-row seat to some of the most important moments in modern American political life.",
+        "author": {
+            "name": "Judy Woodruff",
+            "url": "/authors/judy_woodruff"
+        },
+        "topics": [
+            {
+                "name": "Lucky",
+                "url": "/topics/lucky"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Given",
+                "url": "/topics/given"
+            }
+        ]
+    }
+]

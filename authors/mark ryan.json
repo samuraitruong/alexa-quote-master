@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/mark_ryan_618550",
+        "quote": "You can't please everyone, but I've always felt you cannot ultimately lose if you give everything you try 110%. You'll always learn something useful, even from a failure, that can be applied to the next challenge or project.",
+        "author": {
+            "name": "Mark Ryan",
+            "url": "/quotes/mark_ryan_618550"
+        },
+        "topics": [
+            {
+                "name": "Project",
+                "url": "/topics/project"
+            },
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            },
+            {
+                "name": "Applied",
+                "url": "/topics/applied"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mark_ryan_618551",
+        "quote": "The real magic is in making the intangible idea, the creative impulse, manifest and live in our reality.",
+        "author": {
+            "name": "Mark Ryan",
+            "url": "/quotes/mark_ryan_618551"
+        },
+        "topics": [
+            {
+                "name": "Magic",
+                "url": "/topics/magic"
+            },
+            {
+                "name": "Intangible",
+                "url": "/topics/intangible"
+            },
+            {
+                "name": "Making",
+                "url": "/topics/making"
+            }
+        ]
+    }
+]

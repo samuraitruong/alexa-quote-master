@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/henry_hyde_185857",
+        "quote": "There are so many women on the floor of Congress, it looks like a mall.",
+        "author": {
+            "name": "Henry Hyde",
+            "url": "/quotes/henry_hyde_185857"
+        },
+        "topics": [
+            {
+                "name": "Looks",
+                "url": "/topics/looks"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Congress",
+                "url": "/topics/congress"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henry_hyde_400310",
+        "quote": "America is hungry for people who believe in something.",
+        "author": {
+            "name": "Henry Hyde",
+            "url": "/quotes/henry_hyde_400310"
+        },
+        "topics": [
+            {
+                "name": "Believe",
+                "url": "/topics/believe"
+            },
+            {
+                "name": "People",
+                "url": "/topics/people"
+            },
+            {
+                "name": "Hungry",
+                "url": "/topics/hungry"
+            }
+        ]
+    }
+]

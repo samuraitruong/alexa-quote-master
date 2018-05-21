@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/berglind_icey_570440",
+        "quote": "I like exotic guys who have a lot of sexual energy. I drive army tanks and I snowboard, so he has to keep up.",
+        "author": {
+            "name": "Berglind Icey",
+            "url": "/quotes/berglind_icey_570440"
+        },
+        "topics": [
+            {
+                "name": "Army",
+                "url": "/topics/army"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Lot",
+                "url": "/topics/lot"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/berglind_icey_570439",
+        "quote": "I've studied psychology. I'm fascinated by the human mind, and I love people.",
+        "author": {
+            "name": "Berglind Icey",
+            "url": "/quotes/berglind_icey_570439"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "I Love",
+                "url": "/topics/i_love"
+            }
+        ]
+    }
+]

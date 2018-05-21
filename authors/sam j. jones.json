@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/sam_j_jones_220499",
+        "quote": "I'm not going to be able to play it like somebody else.",
+        "author": {
+            "name": "Sam J. Jones",
+            "url": "/quotes/sam_j_jones_220499"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sam_j_jones_220504",
+        "quote": "I'm not saying that Sam J. Jones was Flash Gordon - there's no such thing. No actor can be the person, that's a bunch of crap. People pay to see an actor be himself, whether he plays Hamlet or whatever.",
+        "author": {
+            "name": "Sam J. Jones",
+            "url": "/quotes/sam_j_jones_220504"
+        },
+        "topics": [
+            {
+                "name": "Pay",
+                "url": "/topics/pay"
+            },
+            {
+                "name": "Hamlet",
+                "url": "/topics/hamlet"
+            },
+            {
+                "name": "Plays",
+                "url": "/topics/plays"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sam_j_jones_441910",
+        "quote": "You reach a point in your career when the weeks turn into a month or more of the phone not ringing.",
+        "author": {
+            "name": "Sam J. Jones",
+            "url": "/quotes/sam_j_jones_441910"
+        },
+        "topics": [
+            {
+                "name": "Career",
+                "url": "/topics/career"
+            },
+            {
+                "name": "Weeks",
+                "url": "/topics/weeks"
+            },
+            {
+                "name": "Ringing",
+                "url": "/topics/ringing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sam_j_jones_441911",
+        "quote": "I feel I belong in the movie business and I belong in the security business. It's a natural for me.",
+        "author": {
+            "name": "Sam J. Jones",
+            "url": "/quotes/sam_j_jones_441911"
+        },
+        "topics": [
+            {
+                "name": "Security",
+                "url": "/topics/security"
+            },
+            {
+                "name": "Belong",
+                "url": "/topics/belong"
+            },
+            {
+                "name": "Movie",
+                "url": "/topics/movie"
+            }
+        ]
+    }
+]

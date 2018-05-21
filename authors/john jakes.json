@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/john_jakes_201937",
+        "quote": "Be yourself. Above all, let who you are, what you are, what you believe shine through every sentence you write, every piece you finish.",
+        "author": {
+            "name": "John Jakes",
+            "url": "/quotes/john_jakes_201937"
+        },
+        "topics": [
+            {
+                "name": "Believe",
+                "url": "/topics/believe"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Sentence",
+                "url": "/topics/sentence"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_jakes_201935",
+        "quote": "The house burned an hour before midnight on the last day of April. The wild, distant ringing of the fire bells woke George Hazard. He stumbled through the dark hallway, then upstairs to the mansion tower, and stepped outside into the narrow balcony.",
+        "author": {
+            "name": "John Jakes",
+            "url": "/quotes/john_jakes_201935"
+        },
+        "topics": [
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Bells",
+                "url": "/topics/bells"
+            },
+            {
+                "name": "Ringing",
+                "url": "/topics/ringing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_jakes_201934",
+        "quote": "The first treasure California began to surrender after the Gold Rush as the oldest: her land.",
+        "author": {
+            "name": "John Jakes",
+            "url": "/quotes/john_jakes_201934"
+        },
+        "topics": [
+            {
+                "name": "Gold",
+                "url": "/topics/gold"
+            },
+            {
+                "name": "Her",
+                "url": "/topics/her"
+            },
+            {
+                "name": "Began",
+                "url": "/topics/began"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_jakes_201936",
+        "quote": "No writer should minimize the factor that affects everyone, but is beyond control: luck.",
+        "author": {
+            "name": "John Jakes",
+            "url": "/quotes/john_jakes_201936"
+        },
+        "topics": [
+            {
+                "name": "Luck",
+                "url": "/topics/luck"
+            },
+            {
+                "name": "Everyone",
+                "url": "/topics/everyone"
+            },
+            {
+                "name": "Minimize",
+                "url": "/topics/minimize"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_jakes_201938",
+        "quote": "The pain comes from knowing that we have never been safe, and therefore will never be safe again. It comes from knowing we can never be so ignorant again. It comes from knowing we can never be children again. Losing innocence. Remembering heaven. That was the essence of hell.",
+        "author": {
+            "name": "John Jakes",
+            "url": "/quotes/john_jakes_201938"
+        },
+        "topics": [
+            {
+                "name": "Pain",
+                "url": "/topics/pain"
+            },
+            {
+                "name": "Innocence",
+                "url": "/topics/innocence"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    }
+]

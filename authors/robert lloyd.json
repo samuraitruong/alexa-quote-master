@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/robert_lloyd_126612",
+        "quote": "Slow and steady wins the race.",
+        "author": {
+            "name": "Robert Lloyd",
+            "url": "/quotes/robert_lloyd_126612"
+        },
+        "topics": [
+            {
+                "name": "Wisdom",
+                "url": "/topics/wisdom"
+            },
+            {
+                "name": "Slow",
+                "url": "/topics/slow"
+            },
+            {
+                "name": "Wins",
+                "url": "/topics/wins"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_lloyd_378223",
+        "quote": "Judge of a jest when you have done laughing.",
+        "author": {
+            "name": "Robert Lloyd",
+            "url": "/quotes/robert_lloyd_378223"
+        },
+        "topics": [
+            {
+                "name": "Done",
+                "url": "/topics/done"
+            },
+            {
+                "name": "Judge",
+                "url": "/topics/judge"
+            },
+            {
+                "name": "Jest",
+                "url": "/topics/jest"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_lloyd_388633",
+        "quote": "I don't really care who gets their inspiration from where, it's the end results that count.",
+        "author": {
+            "name": "Robert Lloyd",
+            "url": "/quotes/robert_lloyd_388633"
+        },
+        "topics": [
+            {
+                "name": "Inspiration",
+                "url": "/topics/inspiration"
+            },
+            {
+                "name": "Count",
+                "url": "/topics/count"
+            },
+            {
+                "name": "Gets",
+                "url": "/topics/gets"
+            }
+        ]
+    }
+]

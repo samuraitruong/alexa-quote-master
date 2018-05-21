@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/julia_phillips_193194",
+        "quote": "Reagan and Bush... made the world safe for hypocrisy.",
+        "author": {
+            "name": "Julia Phillips",
+            "url": "/quotes/julia_phillips_193194"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Reagan",
+                "url": "/topics/reagan"
+            },
+            {
+                "name": "Bush",
+                "url": "/topics/bush"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/julia_phillips_193192",
+        "quote": "Hollywood is a place that attracts people with massive holes in their souls.",
+        "author": {
+            "name": "Julia Phillips",
+            "url": "/quotes/julia_phillips_193192"
+        },
+        "topics": [
+            {
+                "name": "Hollywood",
+                "url": "/topics/hollywood"
+            },
+            {
+                "name": "Souls",
+                "url": "/topics/souls"
+            },
+            {
+                "name": "Massive",
+                "url": "/topics/massive"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/john_gilmour_194352",
+        "quote": "The internet interprets censorship as damage and routes around it.",
+        "author": {
+            "name": "John Gilmour",
+            "url": "/quotes/john_gilmour_194352"
+        },
+        "topics": [
+            {
+                "name": "Censorship",
+                "url": "/topics/censorship"
+            },
+            {
+                "name": "Damage",
+                "url": "/topics/damage"
+            },
+            {
+                "name": "Routes",
+                "url": "/topics/routes"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_gilmour_389572",
+        "quote": "Violence is always the last option, but if that time comes, it is the ONLY option.",
+        "author": {
+            "name": "John Gilmour",
+            "url": "/quotes/john_gilmour_389572"
+        },
+        "topics": [
+            {
+                "name": "Last",
+                "url": "/topics/last"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            }
+        ]
+    }
+]

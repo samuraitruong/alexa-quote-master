@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/carol_lynley_369734",
+        "quote": "I am not whiny!",
+        "author": {
+            "name": "Carol Lynley",
+            "url": "/quotes/carol_lynley_369734"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Am",
+                "url": "/topics/am"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/carol_lynley_369737",
+        "quote": "I am a film buff.",
+        "author": {
+            "name": "Carol Lynley",
+            "url": "/quotes/carol_lynley_369737"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Film",
+                "url": "/topics/film"
+            },
+            {
+                "name": "Am",
+                "url": "/topics/am"
+            }
+        ]
+    }
+]

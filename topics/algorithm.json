@@ -1,0 +1,768 @@
+[
+    {
+        "url": "/quotes/ramez_naam_832453?src=t_algorithm",
+        "quote": "The real use of AI in industry is generally for very narrow pattern-matchers - a better search algorithm, an object-detection algorithm, etc. These things are tools which we can use - for good or evil. But they're nothing like self-aware beings.",
+        "author": {
+            "name": "Ramez Naam",
+            "url": "/authors/ramez_naam"
+        },
+        "topics": [
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            },
+            {
+                "name": "Industry",
+                "url": "/topics/industry"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/janine_benyus_560645?src=t_algorithm",
+        "quote": "Trees and bones are constantly reforming themselves along lines of stress. This algorithm has been put into a software program that's now being used to make bridges lightweight, to make building beams lightweight.",
+        "author": {
+            "name": "Janine Benyus",
+            "url": "/authors/janine_benyus"
+        },
+        "topics": [
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Program",
+                "url": "/topics/program"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/pardis_sabeti_775106?src=t_algorithm",
+        "quote": "When I was working on my Ph.D., I developed a computer algorithm to look for rapid changes in populations' DNA. Our DNA changes constantly over generations, but if certain changes spread through a population more quickly than others, they are probably the beneficial results of natural selection. This is the protection we give ourselves to survive.",
+        "author": {
+            "name": "Pardis Sabeti",
+            "url": "/authors/pardis_sabeti"
+        },
+        "topics": [
+            {
+                "name": "Generations",
+                "url": "/topics/generations"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Rapid",
+                "url": "/topics/rapid"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/michael_shermer_232353?src=t_algorithm",
+        "quote": "In comparison, Google is brilliant because it uses an algorithm that ranks Web pages by the number of links to them, with those links themselves valued by the number of links to their page of origin.",
+        "author": {
+            "name": "Michael Shermer",
+            "url": "/authors/michael_shermer"
+        },
+        "topics": [
+            {
+                "name": "Comparison",
+                "url": "/topics/comparison"
+            },
+            {
+                "name": "Brilliant",
+                "url": "/topics/brilliant"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/carl_honore_633749?src=t_algorithm",
+        "quote": "We know that no algorithm can solve global poverty; no pill can cure a chronic illness; no box of chocolates can mend a broken relationship; no educational DVD can transform a child into a baby Einstein; no drone strike can end a terrorist conflict. Sadly, there is no such thing as 'One Tip to a Flat Stomach.'",
+        "author": {
+            "name": "Carl Honore",
+            "url": "/authors/carl_honore"
+        },
+        "topics": [
+            {
+                "name": "Box",
+                "url": "/topics/box"
+            },
+            {
+                "name": "Global",
+                "url": "/topics/global"
+            },
+            {
+                "name": "Stomach",
+                "url": "/topics/stomach"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jeremy_stoppelman_614350?src=t_algorithm",
+        "quote": "Where folks like Google have fallen down is in just putting a little review box up, then closing their eyes and letting the algorithm take care of itself. Yelp is a technology company, but also a company that understands how people want to connect with one another.",
+        "author": {
+            "name": "Jeremy Stoppelman",
+            "url": "/authors/jeremy_stoppelman"
+        },
+        "topics": [
+            {
+                "name": "Box",
+                "url": "/topics/box"
+            },
+            {
+                "name": "Another",
+                "url": "/topics/another"
+            },
+            {
+                "name": "Putting",
+                "url": "/topics/putting"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rob_huebel_756945?src=t_algorithm",
+        "quote": "I have a real problem now when I go onto Netflix: it takes me a half hour to pick something out. They've got to figure something out, whether it's their algorithm... Maybe if they had it curated like a video store: 'Will Ferrell recommends this movie' or 'Jennifer Lawrence recommends these 10 movies.'",
+        "author": {
+            "name": "Rob Huebel",
+            "url": "/authors/rob_huebel"
+        },
+        "topics": [
+            {
+                "name": "Movie",
+                "url": "/topics/movie"
+            },
+            {
+                "name": "Half",
+                "url": "/topics/half"
+            },
+            {
+                "name": "Jennifer",
+                "url": "/topics/jennifer"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/anthony_goldbloom_542598?src=t_algorithm",
+        "quote": "You want to evaluate future borrowers, but in order to train an algorithm that will help you identify future defaults, you have to train it and evaluate it on past data.",
+        "author": {
+            "name": "Anthony Goldbloom",
+            "url": "/authors/anthony_goldbloom"
+        },
+        "topics": [
+            {
+                "name": "Data",
+                "url": "/topics/data"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Identify",
+                "url": "/topics/identify"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/philip_m_parker_683079?src=t_algorithm",
+        "quote": "There are a lot of people, who want to be writers, who stumble at a blank page. You could imagine an algorithm that could give writers a first draft or a starter kit, so it could enable people to be more prolific in their writing.",
+        "author": {
+            "name": "Philip M. Parker",
+            "url": "/authors/philip_m_parker"
+        },
+        "topics": [
+            {
+                "name": "Stumble",
+                "url": "/topics/stumble"
+            },
+            {
+                "name": "Blank",
+                "url": "/topics/blank"
+            },
+            {
+                "name": "Prolific",
+                "url": "/topics/prolific"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ellen_ullman_849294?src=t_algorithm",
+        "quote": "Programming is the art of algorithm design and the craft of debugging errant code.",
+        "author": {
+            "name": "Ellen Ullman",
+            "url": "/authors/ellen_ullman"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Design",
+                "url": "/topics/design"
+            },
+            {
+                "name": "Code",
+                "url": "/topics/code"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/margrethe_vestager_884632?src=t_algorithm",
+        "quote": "You have to teach your algorithm what it can do and what it cannot do because, otherwise, there is a risk that the algorithms will learn the tricks of the old cartels.",
+        "author": {
+            "name": "Margrethe Vestager",
+            "url": "/authors/margrethe_vestager"
+        },
+        "topics": [
+            {
+                "name": "Learn",
+                "url": "/topics/learn"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Otherwise",
+                "url": "/topics/otherwise"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ashley_rickards_514234?src=t_algorithm",
+        "quote": "Frankly, the reason I joined MENSA is because I was dating a guy at the time who spoke five languages and could solve a Rubik's Cube literally with his eyes closed because it's just an algorithm.",
+        "author": {
+            "name": "Ashley Rickards",
+            "url": "/authors/ashley_rickards"
+        },
+        "topics": [
+            {
+                "name": "Reason",
+                "url": "/topics/reason"
+            },
+            {
+                "name": "Languages",
+                "url": "/topics/languages"
+            },
+            {
+                "name": "Spoke",
+                "url": "/topics/spoke"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/donald_knuth_181629?src=t_algorithm",
+        "quote": "An algorithm must be seen to be believed.",
+        "author": {
+            "name": "Donald Knuth",
+            "url": "/authors/donald_knuth"
+        },
+        "topics": [
+            {
+                "name": "Must",
+                "url": "/topics/must"
+            },
+            {
+                "name": "Seen",
+                "url": "/topics/seen"
+            },
+            {
+                "name": "Believed",
+                "url": "/topics/believed"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/hasso_plattner_680505?src=t_algorithm",
+        "quote": "This is where the world is going: direct access from anywhere to any type of data, whether it's a small piece of data or a small answer but a long algorithm to create that answer. The user doesn't care about this.",
+        "author": {
+            "name": "Hasso Plattner",
+            "url": "/authors/hasso_plattner"
+        },
+        "topics": [
+            {
+                "name": "Data",
+                "url": "/topics/data"
+            },
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Access",
+                "url": "/topics/access"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/clayton_m_christensen_753748?src=t_algorithm",
+        "quote": "I helped start a ceramics company called CPS Technologies. We took it public in 1987 at $12 a share. Three months later, there was this horrible cliff: Black Monday. Fidelity had bought 15 percent of our stock, and their algorithm caused them to dump it all onto the market that day. We dropped from $12 to $2.",
+        "author": {
+            "name": "Clayton M. Christensen",
+            "url": "/authors/clayton_m_christensen"
+        },
+        "topics": [
+            {
+                "name": "Cliff",
+                "url": "/topics/cliff"
+            },
+            {
+                "name": "Fidelity",
+                "url": "/topics/fidelity"
+            },
+            {
+                "name": "Dropped",
+                "url": "/topics/dropped"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/shawn_amos_692697?src=t_algorithm",
+        "quote": "Despite all of our technological advances, content creation still requires time, inspiration, and a certain amount of sweat. There aren't any shortcuts. You can't write an algorithm for it. You can't predict it. You can't code it.",
+        "author": {
+            "name": "Shawn Amos",
+            "url": "/authors/shawn_amos"
+        },
+        "topics": [
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            },
+            {
+                "name": "Amount",
+                "url": "/topics/amount"
+            },
+            {
+                "name": "Code",
+                "url": "/topics/code"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/burnie_burns_772513?src=t_algorithm",
+        "quote": "YouTube's algorithm doesn't know what's going on in the world.",
+        "author": {
+            "name": "Burnie Burns",
+            "url": "/authors/burnie_burns"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "YouTube",
+                "url": "/topics/youtube"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/yuval_noah_harari_863241?src=t_algorithm",
+        "quote": "Take Google Maps or Waze. On the one hand, they amplify human ability - you are able to reach your destination faster and more easily. But at the same time, you are shifting the authority to the algorithm and losing your ability to find your own way.",
+        "author": {
+            "name": "Yuval Noah Harari",
+            "url": "/authors/yuval_noah_harari"
+        },
+        "topics": [
+            {
+                "name": "Destination",
+                "url": "/topics/destination"
+            },
+            {
+                "name": "Reach",
+                "url": "/topics/reach"
+            },
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joshua_cohen_722033?src=t_algorithm",
+        "quote": "The birth of the search engine, it's nothing new: it's essentially embedded in our literature; it's how ideas relate, how the mind makes connections. I mean, connections are made online through links, and within an algorithm, they're made through degrees of relevancy between different terms.",
+        "author": {
+            "name": "Joshua Cohen",
+            "url": "/authors/joshua_cohen"
+        },
+        "topics": [
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Degrees",
+                "url": "/topics/degrees"
+            },
+            {
+                "name": "Our",
+                "url": "/topics/our"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/greg_boyle_858449?src=t_algorithm",
+        "quote": "Metro police can't infuse hope into those for whom hope is foreign. The algorithm does not exist that can heal the traumatized. Data-driven predictions won't result in the delivery of mental health services.",
+        "author": {
+            "name": "Greg Boyle",
+            "url": "/authors/greg_boyle"
+        },
+        "topics": [
+            {
+                "name": "Health",
+                "url": "/topics/health"
+            },
+            {
+                "name": "Mental",
+                "url": "/topics/mental"
+            },
+            {
+                "name": "Delivery",
+                "url": "/topics/delivery"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/richard_ayoade_523075?src=t_algorithm",
+        "quote": "I suppose I sort of like effects that have some organic elements rather than ones that are entirely generated by a computer. Just because, no matter how complex the algorithm is, it's still an algorithm.",
+        "author": {
+            "name": "Richard Ayoade",
+            "url": "/authors/richard_ayoade"
+        },
+        "topics": [
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/peter_eisenman_547330?src=t_algorithm",
+        "quote": "The problem with digital architecture is that an algorithm can produce endless variations, so an architect has many choices.",
+        "author": {
+            "name": "Peter Eisenman",
+            "url": "/authors/peter_eisenman"
+        },
+        "topics": [
+            {
+                "name": "Problem",
+                "url": "/topics/problem"
+            },
+            {
+                "name": "Digital",
+                "url": "/topics/digital"
+            },
+            {
+                "name": "Variations",
+                "url": "/topics/variations"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tim_bernerslee_373099?src=t_algorithm",
+        "quote": "The Google algorithm was a significant development. I've had thank-you emails from people whose lives have been saved by information on a medical website or who have found the love of their life on a dating website.",
+        "author": {
+            "name": "Tim Berners-Lee",
+            "url": "/authors/tim_bernerslee"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Development",
+                "url": "/topics/development"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marissa_mayer_746985?src=t_algorithm",
+        "quote": "I took a computer-science course to fill a prerequisite at Stanford, and I realized that every day was a new problem, and every day you got to think about how to solve something new, how to reason through something new, how to develop an algorithm to solve for something you hadn't worked on before.",
+        "author": {
+            "name": "Marissa Mayer",
+            "url": "/authors/marissa_mayer"
+        },
+        "topics": [
+            {
+                "name": "Reason",
+                "url": "/topics/reason"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sam_yagan_729054?src=t_algorithm",
+        "quote": "We think we have the best matching algorithm, we think we have the best members. So why wouldn't we want to just shine the light onto just how our processes work, what the real data are, and let people come to their own conclusions.",
+        "author": {
+            "name": "Sam Yagan",
+            "url": "/authors/sam_yagan"
+        },
+        "topics": [
+            {
+                "name": "Data",
+                "url": "/topics/data"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Processes",
+                "url": "/topics/processes"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marilyn_minter_774881?src=t_algorithm",
+        "quote": "I don't follow anybody. I just flip through whatever Instagram sends me. I like to keep my algorithm pure, so I only ever like pictures of art. It's a rabbit hole for me because I'm a total voyeur.",
+        "author": {
+            "name": "Marilyn Minter",
+            "url": "/authors/marilyn_minter"
+        },
+        "topics": [
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Instagram",
+                "url": "/topics/instagram"
+            },
+            {
+                "name": "Anybody",
+                "url": "/topics/anybody"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/carl_honore_633770?src=t_algorithm",
+        "quote": "We live in a culture that's been hijacked by the management consultant ethos. We want everything boiled down to a Power Point slide. We want metrics and 'show me the numbers.' That runs counter to the immensely complex nature of so many social, economic and political problems. You cannot devise an algorithm to fix them.",
+        "author": {
+            "name": "Carl Honore",
+            "url": "/authors/carl_honore"
+        },
+        "topics": [
+            {
+                "name": "Show",
+                "url": "/topics/show"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Immensely",
+                "url": "/topics/immensely"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/margaret_wertheim_553359?src=t_algorithm",
+        "quote": "Nature doesn't feel compelled to stick to a mathematically precise algorithm; in fact, nature probably can't stick to an algorithm.",
+        "author": {
+            "name": "Margaret Wertheim",
+            "url": "/authors/margaret_wertheim"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "Fact",
+                "url": "/topics/fact"
+            },
+            {
+                "name": "Compelled",
+                "url": "/topics/compelled"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/guy_kawasaki_757148?src=t_algorithm",
+        "quote": "The right algorithm is to put off seeking funds for as long as physically possible. And in an ideal world, a startup would never have to seek funds at all.",
+        "author": {
+            "name": "Guy Kawasaki",
+            "url": "/authors/guy_kawasaki"
+        },
+        "topics": [
+            {
+                "name": "Right",
+                "url": "/topics/right"
+            },
+            {
+                "name": "Ideal World",
+                "url": "/topics/ideal_world"
+            },
+            {
+                "name": "Ideal",
+                "url": "/topics/ideal"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_mcafee_755484?src=t_algorithm",
+        "quote": "My well-discussed 'paranoia' urges me to believe that some tiny segment of the NSA's parsing algorithm is finely tuned to my voice.",
+        "author": {
+            "name": "John McAfee",
+            "url": "/authors/john_mcafee"
+        },
+        "topics": [
+            {
+                "name": "Voice",
+                "url": "/topics/voice"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Paranoia",
+                "url": "/topics/paranoia"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jerry_saltz_489525?src=t_algorithm",
+        "quote": "A metaphysical tour de force of untethered meaning and involuting interlocking contrapuntal rhythms, 'The Clock' is more than a movie or even a work of art. It is so strange and other-ish that it becomes a stream-of-consciousness algorithm unto itself - something almost inhuman.",
+        "author": {
+            "name": "Jerry Saltz",
+            "url": "/authors/jerry_saltz"
+        },
+        "topics": [
+            {
+                "name": "Metaphysical",
+                "url": "/topics/metaphysical"
+            },
+            {
+                "name": "Movie",
+                "url": "/topics/movie"
+            },
+            {
+                "name": "Rhythms",
+                "url": "/topics/rhythms"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_middleditch_870953?src=t_algorithm",
+        "quote": "I don't program, so I don't belong in Silicon Valley. If I did belong in Silicon Valley, I'd be there creating a revolutionary compression algorithm for billions of dollars.",
+        "author": {
+            "name": "Thomas Middleditch",
+            "url": "/authors/thomas_middleditch"
+        },
+        "topics": [
+            {
+                "name": "Belong",
+                "url": "/topics/belong"
+            },
+            {
+                "name": "Billions",
+                "url": "/topics/billions"
+            },
+            {
+                "name": "Dollars",
+                "url": "/topics/dollars"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/daniel_lyons_863403?src=t_algorithm",
+        "quote": "The world of online marketing, where HubSpot operates, though, has a reputation for being kind of grubby. Our customers include people who make a living bombarding people with email offers or gaming Google's search algorithm or figuring out which kind of misleading subject line is most likely to trick someone into opening a message.",
+        "author": {
+            "name": "Daniel Lyons",
+            "url": "/authors/daniel_lyons"
+        },
+        "topics": [
+            {
+                "name": "Reputation",
+                "url": "/topics/reputation"
+            },
+            {
+                "name": "Line",
+                "url": "/topics/line"
+            },
+            {
+                "name": "Subject",
+                "url": "/topics/subject"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/peggy_johnson_886893?src=t_algorithm",
+        "quote": "If an acquisition can speed a process or fill a gap, we'll jump right to that. It's about timing, need... it's not necessarily an algorithm.",
+        "author": {
+            "name": "Peggy Johnson",
+            "url": "/authors/peggy_johnson"
+        },
+        "topics": [
+            {
+                "name": "Timing",
+                "url": "/topics/timing"
+            },
+            {
+                "name": "Process",
+                "url": "/topics/process"
+            },
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/franklin_foer_855709?src=t_algorithm",
+        "quote": "Once upon a time, if you were going to get a loan from me, I would have had to look at your file, and I would have to make a decision about whether youre going to get a loan. Maybe we would meet and talk about it. There would be some level of human involvement and human interaction. Now, a lot of this is determined by an algorithm.",
+        "author": {
+            "name": "Franklin Foer",
+            "url": "/authors/franklin_foer"
+        },
+        "topics": [
+            {
+                "name": "Loan",
+                "url": "/topics/loan"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Maybe",
+                "url": "/topics/maybe"
+            }
+        ]
+    }
+]

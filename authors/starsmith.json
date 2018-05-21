@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/starsmith_549845",
+        "quote": "When I've worked with established artists, I've naturally been more restricted, but you still have to take risks and push yourself to do something different.",
+        "author": {
+            "name": "Starsmith",
+            "url": "/quotes/starsmith_549845"
+        },
+        "topics": [
+            {
+                "name": "Established",
+                "url": "/topics/established"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/starsmith_549846",
+        "quote": "One chance can make the rest of your career.",
+        "author": {
+            "name": "Starsmith",
+            "url": "/quotes/starsmith_549846"
+        },
+        "topics": [
+            {
+                "name": "Chance",
+                "url": "/topics/chance"
+            },
+            {
+                "name": "Career",
+                "url": "/topics/career"
+            },
+            {
+                "name": "Rest",
+                "url": "/topics/rest"
+            }
+        ]
+    }
+]

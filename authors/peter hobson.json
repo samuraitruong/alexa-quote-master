@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/peter_hobson_405537",
+        "quote": "It's a journey, it's a fight everyday. There was a real effort to stay in the program... So far this has been a very successful rehab.",
+        "author": {
+            "name": "Peter Hobson",
+            "url": "/quotes/peter_hobson_405537"
+        },
+        "topics": [
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Rehab",
+                "url": "/topics/rehab"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/peter_hobson_405538",
+        "quote": "One of the things that's often forgotten about drug rehabilitation, it's not a destiny. It's a journey.",
+        "author": {
+            "name": "Peter Hobson",
+            "url": "/quotes/peter_hobson_405538"
+        },
+        "topics": [
+            {
+                "name": "Destiny",
+                "url": "/topics/destiny"
+            },
+            {
+                "name": "Rehabilitation",
+                "url": "/topics/rehabilitation"
+            }
+        ]
+    }
+]

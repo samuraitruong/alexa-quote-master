@@ -1,0 +1,156 @@
+[
+    {
+        "url": "/quotes/rasmus_lerdorf_649672",
+        "quote": "If you want to build an open source project, you can't let your ego stand in the way. You can't rewrite everybody's patches, you can't second-guess everybody, and you have to give people equal control.",
+        "author": {
+            "name": "Rasmus Lerdorf",
+            "url": "/quotes/rasmus_lerdorf_649672"
+        },
+        "topics": [
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            },
+            {
+                "name": "Everybody",
+                "url": "/topics/everybody"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rasmus_lerdorf_184078",
+        "quote": "This is your silly web browser doing that. The file is correctly named.",
+        "author": {
+            "name": "Rasmus Lerdorf",
+            "url": "/quotes/rasmus_lerdorf_184078"
+        },
+        "topics": [
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Correctly",
+                "url": "/topics/correctly"
+            },
+            {
+                "name": "Named",
+                "url": "/topics/named"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rasmus_lerdorf_184077",
+        "quote": "The file is a gzipped tar file. Your browser is playing tricks with you and trying to be smart.",
+        "author": {
+            "name": "Rasmus Lerdorf",
+            "url": "/quotes/rasmus_lerdorf_184077"
+        },
+        "topics": [
+            {
+                "name": "Trying",
+                "url": "/topics/trying"
+            },
+            {
+                "name": "File",
+                "url": "/topics/file"
+            },
+            {
+                "name": "Tar",
+                "url": "/topics/tar"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rasmus_lerdorf_184079",
+        "quote": "When the world becomes standard, I will start caring about standards.",
+        "author": {
+            "name": "Rasmus Lerdorf",
+            "url": "/quotes/rasmus_lerdorf_184079"
+        },
+        "topics": [
+            {
+                "name": "Caring",
+                "url": "/topics/caring"
+            },
+            {
+                "name": "Standards",
+                "url": "/topics/standards"
+            },
+            {
+                "name": "Standard",
+                "url": "/topics/standard"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rasmus_lerdorf_649669",
+        "quote": "Personally, I tend to be more interested in security and performance-related issues than other things.",
+        "author": {
+            "name": "Rasmus Lerdorf",
+            "url": "/quotes/rasmus_lerdorf_649669"
+        },
+        "topics": [
+            {
+                "name": "Security",
+                "url": "/topics/security"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Tend",
+                "url": "/topics/tend"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rasmus_lerdorf_649670",
+        "quote": "I've never used Sybase in my life. How would I make an intelligent decision about this versus that with a Sybase extension?",
+        "author": {
+            "name": "Rasmus Lerdorf",
+            "url": "/quotes/rasmus_lerdorf_649670"
+        },
+        "topics": [
+            {
+                "name": "Decision",
+                "url": "/topics/decision"
+            },
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Extension",
+                "url": "/topics/extension"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rasmus_lerdorf_649671",
+        "quote": "I'm OK with procedural code, and the web is a top-down type of problem. It makes sense to me that you have HTML, you spit out a bunch of HTML, then you call a function to do something and then call another function.",
+        "author": {
+            "name": "Rasmus Lerdorf",
+            "url": "/quotes/rasmus_lerdorf_649671"
+        },
+        "topics": [
+            {
+                "name": "Code",
+                "url": "/topics/code"
+            },
+            {
+                "name": "Another",
+                "url": "/topics/another"
+            },
+            {
+                "name": "Makes",
+                "url": "/topics/makes"
+            }
+        ]
+    }
+]

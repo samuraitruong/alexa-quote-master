@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/brian_krause_577734",
+        "quote": "When I was a kid, I used to be afraid of the dark. I would stand at my door, turn the light off and dive into bed. One night, as I did that, there was this gigantic spider next to my pillow. I hit the bed and bounced straight back up When I turned the light back on, it was already gone. I could not sleep in my room for days.",
+        "author": {
+            "name": "Brian Krause",
+            "url": "/quotes/brian_krause_577734"
+        },
+        "topics": [
+            {
+                "name": "Door",
+                "url": "/topics/door"
+            },
+            {
+                "name": "Bed",
+                "url": "/topics/bed"
+            },
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brian_krause_662028",
+        "quote": "When I was a kid, I used to be afraid of the dark. I would stand at my door, turn the light off and dive into bed.",
+        "author": {
+            "name": "Brian Krause",
+            "url": "/quotes/brian_krause_662028"
+        },
+        "topics": [
+            {
+                "name": "Door",
+                "url": "/topics/door"
+            },
+            {
+                "name": "Bed",
+                "url": "/topics/bed"
+            },
+            {
+                "name": "Kid",
+                "url": "/topics/kid"
+            }
+        ]
+    }
+]

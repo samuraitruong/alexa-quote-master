@@ -1,0 +1,134 @@
+[
+    {
+        "url": "/quotes/anthony_burgess_136600?src=t_snore",
+        "quote": "Laugh and the world laughs with you, snore and you sleep alone.",
+        "author": {
+            "name": "Anthony Burgess",
+            "url": "/authors/anthony_burgess"
+        },
+        "topics": [
+            {
+                "name": "Funny",
+                "url": "/topics/funny"
+            },
+            {
+                "name": "Alone",
+                "url": "/topics/alone"
+            },
+            {
+                "name": "Sleep",
+                "url": "/topics/sleep"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_murray_464011?src=t_snore",
+        "quote": "Sometimes I snore, like when I get really tired.",
+        "author": {
+            "name": "Bill Murray",
+            "url": "/authors/bill_murray"
+        },
+        "topics": [
+            {
+                "name": "Sometimes",
+                "url": "/topics/sometimes"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Get",
+                "url": "/topics/get"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tyra_banks_452198?src=t_snore",
+        "quote": "I feel more comfortable when I'm lighter - I sleep better, I snore less, I have more endurance when I work out, my arms look better.",
+        "author": {
+            "name": "Tyra Banks",
+            "url": "/authors/tyra_banks"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Feel",
+                "url": "/topics/feel"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/helen_reddy_289720?src=t_snore",
+        "quote": "You're not going to find a man whose socks don't get dirty or who doesn't snore.",
+        "author": {
+            "name": "Helen Reddy",
+            "url": "/authors/helen_reddy"
+        },
+        "topics": [
+            {
+                "name": "Find",
+                "url": "/topics/find"
+            },
+            {
+                "name": "Dirty",
+                "url": "/topics/dirty"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/len_goodman_495620?src=t_snore",
+        "quote": "I am good in bed - I don't snore. I don't take the duvet. I just lay there and go straight off to sleep. That's all you want out of a bloke.",
+        "author": {
+            "name": "Len Goodman",
+            "url": "/authors/len_goodman"
+        },
+        "topics": [
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Bed",
+                "url": "/topics/bed"
+            },
+            {
+                "name": "Lay",
+                "url": "/topics/lay"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/phyllis_george_388570?src=t_snore",
+        "quote": "Life is what you make it: If you snooze, you lose; and if you snore, you lose more.",
+        "author": {
+            "name": "Phyllis George",
+            "url": "/authors/phyllis_george"
+        },
+        "topics": [
+            {
+                "name": "Lose",
+                "url": "/topics/lose"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Make",
+                "url": "/topics/make"
+            }
+        ]
+    }
+]

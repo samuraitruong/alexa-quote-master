@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/claude_williams_192967",
+        "quote": "I used to like whiskey. But it's been a long time since I've been drunk.",
+        "author": {
+            "name": "Claude Williams",
+            "url": "/quotes/claude_williams_192967"
+        },
+        "topics": [
+            {
+                "name": "Drunk",
+                "url": "/topics/drunk"
+            },
+            {
+                "name": "Long Time",
+                "url": "/topics/long_time"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/claude_williams_192965",
+        "quote": "I don't see any reason to quit playing. I'll be doing this at least till I get to a hundred and something. You know, I ain't got far to go. But I'm still going to be playing, as long as I have good ideas, and can play as I do.",
+        "author": {
+            "name": "Claude Williams",
+            "url": "/quotes/claude_williams_192965"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Reason",
+                "url": "/topics/reason"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/claude_williams_192966",
+        "quote": "I'm a sweet eater. I love lemon pie and sweet potato pie.",
+        "author": {
+            "name": "Claude Williams",
+            "url": "/quotes/claude_williams_192966"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Lemon",
+                "url": "/topics/lemon"
+            },
+            {
+                "name": "I Love",
+                "url": "/topics/i_love"
+            }
+        ]
+    }
+]

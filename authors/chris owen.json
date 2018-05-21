@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/chris_owen_584564",
+        "quote": "I enjoy comedy and drama. A nice balance of both is great.",
+        "author": {
+            "name": "Chris Owen",
+            "url": "/quotes/chris_owen_584564"
+        },
+        "topics": [
+            {
+                "name": "Balance",
+                "url": "/topics/balance"
+            },
+            {
+                "name": "Drama",
+                "url": "/topics/drama"
+            },
+            {
+                "name": "Comedy",
+                "url": "/topics/comedy"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/chris_owen_584565",
+        "quote": "'Angus' was my first real film, but I had been acting for about 3 threes before that as well.",
+        "author": {
+            "name": "Chris Owen",
+            "url": "/quotes/chris_owen_584565"
+        },
+        "topics": [
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    }
+]

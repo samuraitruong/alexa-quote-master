@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/roy_campanella_318218",
+        "quote": "You have to have a lot of little boy in you to play baseball for a living.",
+        "author": {
+            "name": "Roy Campanella",
+            "url": "/quotes/roy_campanella_318218"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Living",
+                "url": "/topics/living"
+            },
+            {
+                "name": "Lot",
+                "url": "/topics/lot"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/roy_campanella_318216",
+        "quote": "I never want to quit playing ball. They'll have to cut this uniform off of me to get me out of it.",
+        "author": {
+            "name": "Roy Campanella",
+            "url": "/quotes/roy_campanella_318216"
+        },
+        "topics": [
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Cut",
+                "url": "/topics/cut"
+            },
+            {
+                "name": "Off",
+                "url": "/topics/off"
+            }
+        ]
+    }
+]

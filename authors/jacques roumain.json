@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/jacques_roumain_398629",
+        "quote": "You cannot eat a cluster of grapes at once, but it is very easy if you eat them one by one.",
+        "author": {
+            "name": "Jacques Roumain",
+            "url": "/quotes/jacques_roumain_398629"
+        },
+        "topics": [
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Cluster",
+                "url": "/topics/cluster"
+            },
+            {
+                "name": "Once",
+                "url": "/topics/once"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jacques_roumain_388186",
+        "quote": "Experience is the cane of the blind.",
+        "author": {
+            "name": "Jacques Roumain",
+            "url": "/quotes/jacques_roumain_388186"
+        },
+        "topics": [
+            {
+                "name": "Experience",
+                "url": "/topics/experience"
+            },
+            {
+                "name": "Blind",
+                "url": "/topics/blind"
+            },
+            {
+                "name": "Cane",
+                "url": "/topics/cane"
+            }
+        ]
+    }
+]

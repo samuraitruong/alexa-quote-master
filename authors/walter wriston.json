@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/walter_wriston_131035",
+        "quote": "Judgment comes from experience - and experience comes from bad judgment.",
+        "author": {
+            "name": "Walter Wriston",
+            "url": "/quotes/walter_wriston_131035"
+        },
+        "topics": [
+            {
+                "name": "Experience",
+                "url": "/topics/experience"
+            },
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            },
+            {
+                "name": "Judgment",
+                "url": "/topics/judgment"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/walter_wriston_129862",
+        "quote": "The person who figures out how to harness the collective genius of his or her organization is going to blow the competition away.",
+        "author": {
+            "name": "Walter Wriston",
+            "url": "/quotes/walter_wriston_129862"
+        },
+        "topics": [
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Figures",
+                "url": "/topics/figures"
+            }
+        ]
+    }
+]

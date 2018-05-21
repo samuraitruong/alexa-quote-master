@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/juliette_goglia_569883",
+        "quote": "I've been watching Michael J. Fox since I was a toddler, basically. I watched all the 'Back to the Future' movies! I've been a fan my whole life.",
+        "author": {
+            "name": "Juliette Goglia",
+            "url": "/quotes/juliette_goglia_569883"
+        },
+        "topics": [
+            {
+                "name": "Back",
+                "url": "/topics/back"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Whole",
+                "url": "/topics/whole"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/juliette_goglia_569884",
+        "quote": "I love singing! I grew up in musical theater.",
+        "author": {
+            "name": "Juliette Goglia",
+            "url": "/quotes/juliette_goglia_569884"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Singing",
+                "url": "/topics/singing"
+            },
+            {
+                "name": "I Love",
+                "url": "/topics/i_love"
+            }
+        ]
+    }
+]

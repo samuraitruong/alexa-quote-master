@@ -1,0 +1,38 @@
+[
+    {
+        "url": "/quotes/ayub_khan_404526",
+        "quote": "We have an active program. We have nuclear weapons, we are a nuclear power. We have an advanced missiles program.",
+        "author": {
+            "name": "Ayub Khan",
+            "url": "/quotes/ayub_khan_404526"
+        },
+        "topics": [
+            {
+                "name": "Nuclear Power",
+                "url": "/topics/nuclear_power"
+            },
+            {
+                "name": "Advanced",
+                "url": "/topics/advanced"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ayub_khan_404557",
+        "quote": "Pakistan has made no mention of ending our tests. We have a missile program, and it is in the national interest whatever we want to do.",
+        "author": {
+            "name": "Ayub Khan",
+            "url": "/quotes/ayub_khan_404557"
+        },
+        "topics": [
+            {
+                "name": "Made",
+                "url": "/topics/made"
+            },
+            {
+                "name": "National Interest",
+                "url": "/topics/national_interest"
+            }
+        ]
+    }
+]

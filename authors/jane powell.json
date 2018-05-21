@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/jane_powell_405258",
+        "quote": "I didn't quit movies. They quit me.",
+        "author": {
+            "name": "Jane Powell",
+            "url": "/quotes/jane_powell_405258"
+        },
+        "topics": [
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Movies",
+                "url": "/topics/movies"
+            },
+            {
+                "name": "Quit",
+                "url": "/topics/quit"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jane_powell_405457",
+        "quote": "We need to ditch the idea that there is any value in the strong and silent man being in any way attractive. Being silent isn't being strong, it's being a victim.",
+        "author": {
+            "name": "Jane Powell",
+            "url": "/quotes/jane_powell_405457"
+        },
+        "topics": [
+            {
+                "name": "Strong",
+                "url": "/topics/strong"
+            },
+            {
+                "name": "Silent",
+                "url": "/topics/silent"
+            },
+            {
+                "name": "Attractive",
+                "url": "/topics/attractive"
+            }
+        ]
+    }
+]

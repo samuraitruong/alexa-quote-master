@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/john_peel_170433",
+        "quote": "I never make stupid mistakes. Only very, very clever ones.",
+        "author": {
+            "name": "John Peel",
+            "url": "/quotes/john_peel_170433"
+        },
+        "topics": [
+            {
+                "name": "Stupid",
+                "url": "/topics/stupid"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_peel_382045",
+        "quote": "I think a lot of the stuff I'm playing now is crap.",
+        "author": {
+            "name": "John Peel",
+            "url": "/quotes/john_peel_382045"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Lot",
+                "url": "/topics/lot"
+            },
+            {
+                "name": "Crap",
+                "url": "/topics/crap"
+            }
+        ]
+    }
+]

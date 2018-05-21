@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/b_r_hayden_160129",
+        "quote": "Nothing is so envied as genius, nothing so hopeless of attainment by labor alone. Though labor always accompanies the greatest genius, without the intellectual gift labor alone will do little.",
+        "author": {
+            "name": "B. R. Hayden",
+            "url": "/quotes/b_r_hayden_160129"
+        },
+        "topics": [
+            {
+                "name": "Gift",
+                "url": "/topics/gift"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Accompanies",
+                "url": "/topics/accompanies"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/b_r_hayden_160131",
+        "quote": "Religion and education are no match for evil without the grace of God.",
+        "author": {
+            "name": "B. R. Hayden",
+            "url": "/quotes/b_r_hayden_160131"
+        },
+        "topics": [
+            {
+                "name": "Education",
+                "url": "/topics/education"
+            },
+            {
+                "name": "Grace",
+                "url": "/topics/grace"
+            },
+            {
+                "name": "Match",
+                "url": "/topics/match"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/b_r_hayden_160132",
+        "quote": "Love and death are the two great hinges on which all human sympathies turn.",
+        "author": {
+            "name": "B. R. Hayden",
+            "url": "/quotes/b_r_hayden_160132"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Death",
+                "url": "/topics/death"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    }
+]

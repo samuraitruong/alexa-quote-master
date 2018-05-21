@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/pierre_nicole_211012",
+        "quote": "We need a reason to speak but none to keep silent.",
+        "author": {
+            "name": "Pierre Nicole",
+            "url": "/quotes/pierre_nicole_211012"
+        },
+        "topics": [
+            {
+                "name": "Silent",
+                "url": "/topics/silent"
+            },
+            {
+                "name": "Reason",
+                "url": "/topics/reason"
+            },
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/pierre_nicole_211013",
+        "quote": "When we hide our failings from others, we seek to hide them from ourselves, and it is in the latter attempt that we are most successful.",
+        "author": {
+            "name": "Pierre Nicole",
+            "url": "/quotes/pierre_nicole_211013"
+        },
+        "topics": [
+            {
+                "name": "Our",
+                "url": "/topics/our"
+            },
+            {
+                "name": "Them",
+                "url": "/topics/them"
+            },
+            {
+                "name": "Failings",
+                "url": "/topics/failings"
+            }
+        ]
+    }
+]

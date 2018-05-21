@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/john_langdon_229182",
+        "quote": "As both a fine artist and a graphic designer, I specialize in the visual presentation of words.",
+        "author": {
+            "name": "John Langdon",
+            "url": "/quotes/john_langdon_229182"
+        },
+        "topics": [
+            {
+                "name": "Artist",
+                "url": "/topics/artist"
+            },
+            {
+                "name": "Presentation",
+                "url": "/topics/presentation"
+            },
+            {
+                "name": "Fine",
+                "url": "/topics/fine"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_langdon_229183",
+        "quote": "Language, philosophy, and science are interwoven into the design of words, which are manipulated to create surprising illusions.",
+        "author": {
+            "name": "John Langdon",
+            "url": "/quotes/john_langdon_229183"
+        },
+        "topics": [
+            {
+                "name": "Words",
+                "url": "/topics/words"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Interwoven",
+                "url": "/topics/interwoven"
+            }
+        ]
+    }
+]

@@ -1,0 +1,156 @@
+[
+    {
+        "url": "/quotes/fred_brooks_211980",
+        "quote": "The fundamental problem with program maintenance is that fixing a defect has a substantial chance of introducing another.",
+        "author": {
+            "name": "Fred Brooks",
+            "url": "/quotes/fred_brooks_211980"
+        },
+        "topics": [
+            {
+                "name": "Problem",
+                "url": "/topics/problem"
+            },
+            {
+                "name": "Defect",
+                "url": "/topics/defect"
+            },
+            {
+                "name": "Fixing",
+                "url": "/topics/fixing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/fred_brooks_211983",
+        "quote": "There is no single development, in either technology or management technique, which by itself promises even one order-of-magnitude improvement within a decade in productivity, in reliability, in simplicity.",
+        "author": {
+            "name": "Fred Brooks",
+            "url": "/quotes/fred_brooks_211983"
+        },
+        "topics": [
+            {
+                "name": "Development",
+                "url": "/topics/development"
+            },
+            {
+                "name": "Decade",
+                "url": "/topics/decade"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/fred_brooks_185640",
+        "quote": "Good judgment comes from experience and experience comes from bad judgment.",
+        "author": {
+            "name": "Fred Brooks",
+            "url": "/quotes/fred_brooks_185640"
+        },
+        "topics": [
+            {
+                "name": "Experience",
+                "url": "/topics/experience"
+            },
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            },
+            {
+                "name": "Judgment",
+                "url": "/topics/judgment"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/fred_brooks_271282",
+        "quote": "How does a project get to be a year behind schedule? One day at a time.",
+        "author": {
+            "name": "Fred Brooks",
+            "url": "/quotes/fred_brooks_271282"
+        },
+        "topics": [
+            {
+                "name": "Behind",
+                "url": "/topics/behind"
+            },
+            {
+                "name": "Schedule",
+                "url": "/topics/schedule"
+            },
+            {
+                "name": "How",
+                "url": "/topics/how"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/fred_brooks_211981",
+        "quote": "Systematically identity top designers as early as possible. The best are often not the most experienced.",
+        "author": {
+            "name": "Fred Brooks",
+            "url": "/quotes/fred_brooks_211981"
+        },
+        "topics": [
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "Top",
+                "url": "/topics/top"
+            },
+            {
+                "name": "Designers",
+                "url": "/topics/designers"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/fred_brooks_211982",
+        "quote": "How does a project get to be a year late? One day at a time.",
+        "author": {
+            "name": "Fred Brooks",
+            "url": "/quotes/fred_brooks_211982"
+        },
+        "topics": [
+            {
+                "name": "Late",
+                "url": "/topics/late"
+            },
+            {
+                "name": "One Day At A Time",
+                "url": "/topics/one_day_at_a_time"
+            },
+            {
+                "name": "How",
+                "url": "/topics/how"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/fred_brooks_211986",
+        "quote": "Adding manpower to a late software project makes it later.",
+        "author": {
+            "name": "Fred Brooks",
+            "url": "/quotes/fred_brooks_211986"
+        },
+        "topics": [
+            {
+                "name": "Late",
+                "url": "/topics/late"
+            },
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "Later",
+                "url": "/topics/later"
+            }
+        ]
+    }
+]

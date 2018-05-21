@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/edward_cocker_319650",
+        "quote": "When Honor's sun declines, and Wealth takes wings, Then Learning shines, the best of precious things.",
+        "author": {
+            "name": "Edward Cocker",
+            "url": "/quotes/edward_cocker_319650"
+        },
+        "topics": [
+            {
+                "name": "Wealth",
+                "url": "/topics/wealth"
+            },
+            {
+                "name": "Precious",
+                "url": "/topics/precious"
+            },
+            {
+                "name": "Shines",
+                "url": "/topics/shines"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edward_cocker_319649",
+        "quote": "Learn avidly. Question repeatedly what you have learned. Analyze it carefully. Then put what you have learned into practice intelligently.",
+        "author": {
+            "name": "Edward Cocker",
+            "url": "/quotes/edward_cocker_319649"
+        },
+        "topics": [
+            {
+                "name": "Practice",
+                "url": "/topics/practice"
+            },
+            {
+                "name": "Learn",
+                "url": "/topics/learn"
+            },
+            {
+                "name": "Repeatedly",
+                "url": "/topics/repeatedly"
+            }
+        ]
+    }
+]

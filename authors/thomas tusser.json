@@ -1,0 +1,156 @@
+[
+    {
+        "url": "/quotes/thomas_tusser_176204",
+        "quote": "Sweet April showers do spring May flowers.",
+        "author": {
+            "name": "Thomas Tusser",
+            "url": "/quotes/thomas_tusser_176204"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "Spring",
+                "url": "/topics/spring"
+            },
+            {
+                "name": "Showers",
+                "url": "/topics/showers"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_tusser_101875",
+        "quote": "A fool and his money are soon parted.",
+        "author": {
+            "name": "Thomas Tusser",
+            "url": "/quotes/thomas_tusser_101875"
+        },
+        "topics": [
+            {
+                "name": "Money",
+                "url": "/topics/money"
+            },
+            {
+                "name": "Fool",
+                "url": "/topics/fool"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_tusser_176208",
+        "quote": "Seek home for rest, for home is best.",
+        "author": {
+            "name": "Thomas Tusser",
+            "url": "/quotes/thomas_tusser_176208"
+        },
+        "topics": [
+            {
+                "name": "Home",
+                "url": "/topics/home"
+            },
+            {
+                "name": "Best",
+                "url": "/topics/best"
+            },
+            {
+                "name": "Rest",
+                "url": "/topics/rest"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_tusser_176209",
+        "quote": "Make hunger thy sauce, as a medicine for health.",
+        "author": {
+            "name": "Thomas Tusser",
+            "url": "/quotes/thomas_tusser_176209"
+        },
+        "topics": [
+            {
+                "name": "Health",
+                "url": "/topics/health"
+            },
+            {
+                "name": "Medicine",
+                "url": "/topics/medicine"
+            },
+            {
+                "name": "Thy",
+                "url": "/topics/thy"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_tusser_176207",
+        "quote": "Who quick be to borrow and slow be to pay, their credit is naught, go they ever so gay.",
+        "author": {
+            "name": "Thomas Tusser",
+            "url": "/quotes/thomas_tusser_176207"
+        },
+        "topics": [
+            {
+                "name": "Quick",
+                "url": "/topics/quick"
+            },
+            {
+                "name": "Ever",
+                "url": "/topics/ever"
+            },
+            {
+                "name": "Naught",
+                "url": "/topics/naught"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_tusser_176203",
+        "quote": "At Christmas play and make good cheer, for Christmas comes but once a year.",
+        "author": {
+            "name": "Thomas Tusser",
+            "url": "/quotes/thomas_tusser_176203"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Christmas",
+                "url": "/topics/christmas"
+            },
+            {
+                "name": "Good Cheer",
+                "url": "/topics/good_cheer"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_tusser_176206",
+        "quote": "God sendeth and giveth both mouth and meat.",
+        "author": {
+            "name": "Thomas Tusser",
+            "url": "/quotes/thomas_tusser_176206"
+        },
+        "topics": [
+            {
+                "name": "Mouth",
+                "url": "/topics/mouth"
+            },
+            {
+                "name": "Meat",
+                "url": "/topics/meat"
+            },
+            {
+                "name": "Giveth",
+                "url": "/topics/giveth"
+            }
+        ]
+    }
+]

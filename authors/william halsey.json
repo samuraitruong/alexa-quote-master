@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/william_halsey_132014",
+        "quote": "I never trust a fighting man who doesnt smoke or drink.",
+        "author": {
+            "name": "William Halsey",
+            "url": "/quotes/william_halsey_132014"
+        },
+        "topics": [
+            {
+                "name": "Trust",
+                "url": "/topics/trust"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Smoke",
+                "url": "/topics/smoke"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_halsey_126229",
+        "quote": "There are no extraordinary men... just extraordinary circumstances that ordinary men are forced to deal with.",
+        "author": {
+            "name": "William Halsey",
+            "url": "/quotes/william_halsey_126229"
+        },
+        "topics": [
+            {
+                "name": "History",
+                "url": "/topics/history"
+            },
+            {
+                "name": "Deal",
+                "url": "/topics/deal"
+            },
+            {
+                "name": "Extraordinary",
+                "url": "/topics/extraordinary"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_halsey_144959",
+        "quote": "If you want to go anywhere in modern war, in the air, on the sea, on the land, you must have command of the air.",
+        "author": {
+            "name": "William Halsey",
+            "url": "/quotes/william_halsey_144959"
+        },
+        "topics": [
+            {
+                "name": "War",
+                "url": "/topics/war"
+            },
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Go",
+                "url": "/topics/go"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/philip_glass_200892",
+        "quote": "Traditions are imploding and exploding everywhere - everything is coming together, for better or worse, and we can no longer pretend we're all living in different worlds because we're on different continents.",
+        "author": {
+            "name": "Philip Glass",
+            "url": "/quotes/philip_glass_200892"
+        },
+        "topics": [
+            {
+                "name": "Living",
+                "url": "/topics/living"
+            },
+            {
+                "name": "Worlds",
+                "url": "/topics/worlds"
+            },
+            {
+                "name": "Exploding",
+                "url": "/topics/exploding"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/philip_glass_200891",
+        "quote": "What came to me as a revelation was the use of rhythm in developing an overall structure in music.",
+        "author": {
+            "name": "Philip Glass",
+            "url": "/quotes/philip_glass_200891"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            },
+            {
+                "name": "Revelation",
+                "url": "/topics/revelation"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/philip_glass_200893",
+        "quote": "I travel the world, and I'm happy to say that America is still the great melting pot - maybe a chunky stew rather than a melting pot at this point, but you know what I mean.",
+        "author": {
+            "name": "Philip Glass",
+            "url": "/quotes/philip_glass_200893"
+        },
+        "topics": [
+            {
+                "name": "Melting Pot",
+                "url": "/topics/melting_pot"
+            },
+            {
+                "name": "Maybe",
+                "url": "/topics/maybe"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            }
+        ]
+    }
+]

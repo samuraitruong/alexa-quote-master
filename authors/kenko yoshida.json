@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/kenko_yoshida_170721",
+        "quote": "To sit alone in the lamplight with a book spread out before you, and hold intimate converse with men of unseen generations - such is a pleasure beyond compare.",
+        "author": {
+            "name": "Kenko Yoshida",
+            "url": "/quotes/kenko_yoshida_170721"
+        },
+        "topics": [
+            {
+                "name": "Pleasure",
+                "url": "/topics/pleasure"
+            },
+            {
+                "name": "Compare",
+                "url": "/topics/compare"
+            },
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kenko_yoshida_178352",
+        "quote": "A certain recluse, I know not who, once said that no bonds attached him to this life, and the only thing he would regret leaving was the sky.",
+        "author": {
+            "name": "Kenko Yoshida",
+            "url": "/quotes/kenko_yoshida_178352"
+        },
+        "topics": [
+            {
+                "name": "Sky",
+                "url": "/topics/sky"
+            },
+            {
+                "name": "Regret",
+                "url": "/topics/regret"
+            },
+            {
+                "name": "The Only Thing",
+                "url": "/topics/the_only_thing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kenko_yoshida_178353",
+        "quote": "The truth is at the beginning of anything and its end are alike touching.",
+        "author": {
+            "name": "Kenko Yoshida",
+            "url": "/quotes/kenko_yoshida_178353"
+        },
+        "topics": [
+            {
+                "name": "Truth",
+                "url": "/topics/truth"
+            },
+            {
+                "name": "Beginning",
+                "url": "/topics/beginning"
+            },
+            {
+                "name": "Alike",
+                "url": "/topics/alike"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kenko_yoshida_178354",
+        "quote": "Leave undone whatever you hesitate to do.",
+        "author": {
+            "name": "Kenko Yoshida",
+            "url": "/quotes/kenko_yoshida_178354"
+        },
+        "topics": [
+            {
+                "name": "Leave",
+                "url": "/topics/leave"
+            },
+            {
+                "name": "Hesitate",
+                "url": "/topics/hesitate"
+            },
+            {
+                "name": "Whatever",
+                "url": "/topics/whatever"
+            }
+        ]
+    }
+]

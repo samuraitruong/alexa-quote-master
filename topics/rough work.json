@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/oliver_wendell_holmes_sr_165544?src=t_rough_work",
+        "quote": "Rough work, iconoclasm, but the only way to get at truth.",
+        "author": {
+            "name": "Oliver Wendell Holmes, Sr.",
+            "url": "/authors/oliver_wendell_holmes_sr"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Truth",
+                "url": "/topics/truth"
+            },
+            {
+                "name": "Rough",
+                "url": "/topics/rough"
+            }
+        ]
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/tim_bray_442758",
+        "quote": "It's like this: The time between having an idea and its public launch is measured in days not months, weeks not years.",
+        "author": {
+            "name": "Tim Bray",
+            "url": "/quotes/tim_bray_442758"
+        },
+        "topics": [
+            {
+                "name": "Measured",
+                "url": "/topics/measured"
+            },
+            {
+                "name": "Having",
+                "url": "/topics/having"
+            },
+            {
+                "name": "Months",
+                "url": "/topics/months"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tim_bray_202700",
+        "quote": "Publishing a protocol under the name Atom that tries to capture all of the prior art in this stage and might provide a good basis for winding down the syndication wars.",
+        "author": {
+            "name": "Tim Bray",
+            "url": "/quotes/tim_bray_202700"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Tries",
+                "url": "/topics/tries"
+            },
+            {
+                "name": "Might",
+                "url": "/topics/might"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tim_bray_442756",
+        "quote": "Enterprise Systems, I mean. And not just a little bit, either. Orders of magnitude wrong. Billions and billions of dollars worth of wrong. Hang-our-heads-in-shame wrong. It's time to stop the madness.",
+        "author": {
+            "name": "Tim Bray",
+            "url": "/quotes/tim_bray_442756"
+        },
+        "topics": [
+            {
+                "name": "Madness",
+                "url": "/topics/madness"
+            },
+            {
+                "name": "Dollars",
+                "url": "/topics/dollars"
+            },
+            {
+                "name": "Billions",
+                "url": "/topics/billions"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tim_bray_442757",
+        "quote": "The community of developers whose work you see on the Web, who probably don't know what ADO or UML or JPA even stand for, deploy better systems at less cost in less time at lower risk than we see in the Enterprise. This is true even when you factor in the greater flexibility and velocity of startups.",
+        "author": {
+            "name": "Tim Bray",
+            "url": "/quotes/tim_bray_442757"
+        },
+        "topics": [
+            {
+                "name": "See",
+                "url": "/topics/see"
+            },
+            {
+                "name": "Enterprise",
+                "url": "/topics/enterprise"
+            },
+            {
+                "name": "Developers",
+                "url": "/topics/developers"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tim_bray_442759",
+        "quote": "It's not going to be easy; Enterprise IT has spent decades growing a defensive culture based on the premise that you only get noticed when you screw up, so that must be avoided at all costs.",
+        "author": {
+            "name": "Tim Bray",
+            "url": "/quotes/tim_bray_442759"
+        },
+        "topics": [
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Costs",
+                "url": "/topics/costs"
+            },
+            {
+                "name": "Based",
+                "url": "/topics/based"
+            }
+        ]
+    }
+]

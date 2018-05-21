@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/henry_addington_320327",
+        "quote": "It is with deep regret that the determination to assemble Parliament has been so long delayed.",
+        "author": {
+            "name": "Henry Addington",
+            "url": "/quotes/henry_addington_320327"
+        },
+        "topics": [
+            {
+                "name": "Deep",
+                "url": "/topics/deep"
+            },
+            {
+                "name": "Regret",
+                "url": "/topics/regret"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henry_addington_320326",
+        "quote": "I hate liberality - nine times out of ten it is cowardice, and the tenth time lack of principle.",
+        "author": {
+            "name": "Henry Addington",
+            "url": "/quotes/henry_addington_320326"
+        },
+        "topics": [
+            {
+                "name": "Principle",
+                "url": "/topics/principle"
+            },
+            {
+                "name": "Times",
+                "url": "/topics/times"
+            },
+            {
+                "name": "Nine",
+                "url": "/topics/nine"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/john_keble_119929",
+        "quote": "Peace is the first thing the angels sang.",
+        "author": {
+            "name": "John Keble",
+            "url": "/quotes/john_keble_119929"
+        },
+        "topics": [
+            {
+                "name": "Peace",
+                "url": "/topics/peace"
+            },
+            {
+                "name": "Sang",
+                "url": "/topics/sang"
+            },
+            {
+                "name": "The First Thing",
+                "url": "/topics/the_first_thing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_keble_107372",
+        "quote": "And help us, this and every day, to live more nearly as we pray.",
+        "author": {
+            "name": "John Keble",
+            "url": "/quotes/john_keble_107372"
+        },
+        "topics": [
+            {
+                "name": "Help",
+                "url": "/topics/help"
+            },
+            {
+                "name": "Every Day",
+                "url": "/topics/every_day"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_keble_133133",
+        "quote": "As fire kindled by fire, so is the poet's mind kindled by contact with a brother poet.",
+        "author": {
+            "name": "John Keble",
+            "url": "/quotes/john_keble_133133"
+        },
+        "topics": [
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Fire",
+                "url": "/topics/fire"
+            },
+            {
+                "name": "Contact",
+                "url": "/topics/contact"
+            }
+        ]
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "url": "/quotes/voltaire_125633?src=t_tableau",
+        "quote": "Indeed, history is nothing more than a tableau of crimes and misfortunes.",
+        "author": {
+            "name": "Voltaire",
+            "url": "/authors/voltaire"
+        },
+        "topics": [
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Misfortunes",
+                "url": "/topics/misfortunes"
+            },
+            {
+                "name": "Crimes",
+                "url": "/topics/crimes"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/h_p_lovecraft_745835?src=t_tableau",
+        "quote": "There are, I think, four distinct types of weird story: one expressing a mood or feeling, another expressing a pictorial conception, a third expressing a general situation, condition, legend or intellectual conception, and a fourth explaining a definite tableau or specific dramatic situation or climax.",
+        "author": {
+            "name": "H. P. Lovecraft",
+            "url": "/authors/h_p_lovecraft"
+        },
+        "topics": [
+            {
+                "name": "Legend",
+                "url": "/topics/legend"
+            },
+            {
+                "name": "Mood",
+                "url": "/topics/mood"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eliot_spitzer_434956?src=t_tableau",
+        "quote": "Jimmy Carter laid out policies that we now look back at and say, 'Gee, that actually made sense.' But you also need to explain it and convey and communicate in a way that provides that tableau, that understanding.",
+        "author": {
+            "name": "Eliot Spitzer",
+            "url": "/authors/eliot_spitzer"
+        },
+        "topics": [
+            {
+                "name": "Explain",
+                "url": "/topics/explain"
+            },
+            {
+                "name": "Communicate",
+                "url": "/topics/communicate"
+            },
+            {
+                "name": "Laid",
+                "url": "/topics/laid"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tony_curtis_268909?src=t_tableau",
+        "quote": "Even on a personal note, my dressing table downstairs is crowded with things, like a mini landscape. It's a city with buildings and towers and roads. There's a pool and a little park. When I move something around it becomes a different tableau.",
+        "author": {
+            "name": "Tony Curtis",
+            "url": "/authors/tony_curtis"
+        },
+        "topics": [
+            {
+                "name": "City",
+                "url": "/topics/city"
+            },
+            {
+                "name": "Note",
+                "url": "/topics/note"
+            },
+            {
+                "name": "Around",
+                "url": "/topics/around"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/cecilia_bartoli_202868?src=t_tableau",
+        "quote": "The goal is always to make a nice tableau painting with the voice. The more color I can find, the more shadow I can find - the goal is always to make more nuance and colors.",
+        "author": {
+            "name": "Cecilia Bartoli",
+            "url": "/authors/cecilia_bartoli"
+        },
+        "topics": [
+            {
+                "name": "Voice",
+                "url": "/topics/voice"
+            },
+            {
+                "name": "Goal",
+                "url": "/topics/goal"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lucinda_franks_116769?src=t_tableau",
+        "quote": "The simple tableau is so rich with meaning that whether represented on the mantelpiece or in the mind, it seems suspended, complete unto itself, somewhere in eternity.",
+        "author": {
+            "name": "Lucinda Franks",
+            "url": "/authors/lucinda_franks"
+        },
+        "topics": [
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Eternity",
+                "url": "/topics/eternity"
+            },
+            {
+                "name": "Unto",
+                "url": "/topics/unto"
+            }
+        ]
+    }
+]

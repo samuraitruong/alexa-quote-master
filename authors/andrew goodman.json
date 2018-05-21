@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/andrew_goodman_197226",
+        "quote": "The road to freedom must be uphill, even if it is arduous and frustrating.",
+        "author": {
+            "name": "Andrew Goodman",
+            "url": "/quotes/andrew_goodman_197226"
+        },
+        "topics": [
+            {
+                "name": "Freedom",
+                "url": "/topics/freedom"
+            },
+            {
+                "name": "Road",
+                "url": "/topics/road"
+            },
+            {
+                "name": "Even",
+                "url": "/topics/even"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/andrew_goodman_197230",
+        "quote": "The current neglect of the problem can only irritate this deplorable state of affairs. The Black Muslims should constitute a warning to our society, a warning that must be heeded if we are to preserve the society.",
+        "author": {
+            "name": "Andrew Goodman",
+            "url": "/quotes/andrew_goodman_197230"
+        },
+        "topics": [
+            {
+                "name": "Black",
+                "url": "/topics/black"
+            },
+            {
+                "name": "Preserve",
+                "url": "/topics/preserve"
+            },
+            {
+                "name": "Deplorable",
+                "url": "/topics/deplorable"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/andrew_goodman_405280",
+        "quote": "Whoever moves into a community has a vested interest in it.",
+        "author": {
+            "name": "Andrew Goodman",
+            "url": "/quotes/andrew_goodman_405280"
+        },
+        "topics": [
+            {
+                "name": "Interest",
+                "url": "/topics/interest"
+            },
+            {
+                "name": "Whoever",
+                "url": "/topics/whoever"
+            },
+            {
+                "name": "Moves",
+                "url": "/topics/moves"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/andrew_goodman_197227",
+        "quote": "A people must have dignity and identity.",
+        "author": {
+            "name": "Andrew Goodman",
+            "url": "/quotes/andrew_goodman_197227"
+        },
+        "topics": [
+            {
+                "name": "Identity",
+                "url": "/topics/identity"
+            },
+            {
+                "name": "Dignity",
+                "url": "/topics/dignity"
+            },
+            {
+                "name": "Must",
+                "url": "/topics/must"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/william_harvey_187251",
+        "quote": "All we know is still infinitely less than all that remains unknown.",
+        "author": {
+            "name": "William Harvey",
+            "url": "/quotes/william_harvey_187251"
+        },
+        "topics": [
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            },
+            {
+                "name": "Than",
+                "url": "/topics/than"
+            },
+            {
+                "name": "Infinitely",
+                "url": "/topics/infinitely"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_harvey_380832",
+        "quote": "There is a lust in man no charm can tame: Of loudly publishing his neighbor's shame: On eagles wings immortal scandals fly, while virtuous actions are born and die.",
+        "author": {
+            "name": "William Harvey",
+            "url": "/quotes/william_harvey_380832"
+        },
+        "topics": [
+            {
+                "name": "Shame",
+                "url": "/topics/shame"
+            },
+            {
+                "name": "Die",
+                "url": "/topics/die"
+            },
+            {
+                "name": "Loudly",
+                "url": "/topics/loudly"
+            }
+        ]
+    }
+]

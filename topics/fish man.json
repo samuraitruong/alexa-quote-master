@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/thomas_keller_218581?src=t_fish_man",
+        "quote": "Then, as the day progresses, depending on how the product is coming in - for instance, the fish man will fax us and say black bass is great - throughout the day, we'll also make judgment calls and adapt to what's available.",
+        "author": {
+            "name": "Thomas Keller",
+            "url": "/authors/thomas_keller"
+        },
+        "topics": [
+            {
+                "name": "Available",
+                "url": "/topics/available"
+            },
+            {
+                "name": "How",
+                "url": "/topics/how"
+            },
+            {
+                "name": "Instance",
+                "url": "/topics/instance"
+            }
+        ]
+    }
+]

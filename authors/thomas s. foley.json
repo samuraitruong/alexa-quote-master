@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/thomas_s_foley_126540",
+        "quote": "If you don't drink, smoke, or drive a car, you're a tax evader.",
+        "author": {
+            "name": "Thomas S. Foley",
+            "url": "/quotes/thomas_s_foley_126540"
+        },
+        "topics": [
+            {
+                "name": "Car",
+                "url": "/topics/car"
+            },
+            {
+                "name": "Tax",
+                "url": "/topics/tax"
+            },
+            {
+                "name": "Smoke",
+                "url": "/topics/smoke"
+            }
+        ]
+    }
+]

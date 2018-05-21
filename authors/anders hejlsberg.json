@@ -1,0 +1,134 @@
+[
+    {
+        "url": "/quotes/anders_hejlsberg_719413",
+        "quote": "I felt there was a need for us to build a new programming language. I also had come to see that Microsoft functions best when it controls its own destiny.",
+        "author": {
+            "name": "Anders Hejlsberg",
+            "url": "/quotes/anders_hejlsberg_719413"
+        },
+        "topics": [
+            {
+                "name": "Destiny",
+                "url": "/topics/destiny"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Controls",
+                "url": "/topics/controls"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/anders_hejlsberg_719414",
+        "quote": "It gives you great pleasure to know that millions of developers, day to day, make their living using the software that you created.",
+        "author": {
+            "name": "Anders Hejlsberg",
+            "url": "/quotes/anders_hejlsberg_719414"
+        },
+        "topics": [
+            {
+                "name": "Living",
+                "url": "/topics/living"
+            },
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "Using",
+                "url": "/topics/using"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/anders_hejlsberg_719415",
+        "quote": "I love working with smart people and being challenged. I also like working on stuff that's relevant. That's my adrenaline shot.",
+        "author": {
+            "name": "Anders Hejlsberg",
+            "url": "/quotes/anders_hejlsberg_719415"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Also",
+                "url": "/topics/also"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/anders_hejlsberg_719416",
+        "quote": "Metaprograms are programs that manipulate themselves or other programs as data.",
+        "author": {
+            "name": "Anders Hejlsberg",
+            "url": "/quotes/anders_hejlsberg_719416"
+        },
+        "topics": [
+            {
+                "name": "Data",
+                "url": "/topics/data"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Themselves",
+                "url": "/topics/themselves"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/anders_hejlsberg_719417",
+        "quote": "I have no people reporting to me and don't expect to. My competency is in the tech realm.",
+        "author": {
+            "name": "Anders Hejlsberg",
+            "url": "/quotes/anders_hejlsberg_719417"
+        },
+        "topics": [
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Expect",
+                "url": "/topics/expect"
+            },
+            {
+                "name": "Tech",
+                "url": "/topics/tech"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/anders_hejlsberg_719418",
+        "quote": "I work day-to-day on C# and .Net and work at home two days a week so I can do deep thinking, writing and reflecting.",
+        "author": {
+            "name": "Anders Hejlsberg",
+            "url": "/quotes/anders_hejlsberg_719418"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Deep",
+                "url": "/topics/deep"
+            },
+            {
+                "name": "Week",
+                "url": "/topics/week"
+            }
+        ]
+    }
+]

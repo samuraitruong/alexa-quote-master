@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/cheryl_lynn_289642",
+        "quote": "I didn't have time for talent shows and stuff like that. I was into books and studying real hard.",
+        "author": {
+            "name": "Cheryl Lynn",
+            "url": "/quotes/cheryl_lynn_289642"
+        },
+        "topics": [
+            {
+                "name": "Studying",
+                "url": "/topics/studying"
+            },
+            {
+                "name": "Books",
+                "url": "/topics/books"
+            },
+            {
+                "name": "Shows",
+                "url": "/topics/shows"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/cheryl_lynn_289643",
+        "quote": "It wasn't until my last year of college, 1976, that I decided well, maybe he's right. Delbert had been pushing me since high school to put 100% into my music.",
+        "author": {
+            "name": "Cheryl Lynn",
+            "url": "/quotes/cheryl_lynn_289643"
+        },
+        "topics": [
+            {
+                "name": "College",
+                "url": "/topics/college"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Last Year",
+                "url": "/topics/last_year"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/cheryl_lynn_289645",
+        "quote": "I was upset with Delbert, because there he was going again and pushing me out in front, without asking me.",
+        "author": {
+            "name": "Cheryl Lynn",
+            "url": "/quotes/cheryl_lynn_289645"
+        },
+        "topics": [
+            {
+                "name": "Upset",
+                "url": "/topics/upset"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Asking",
+                "url": "/topics/asking"
+            }
+        ]
+    }
+]

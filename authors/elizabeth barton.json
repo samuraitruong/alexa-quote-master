@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/elizabeth_barton_221341",
+        "quote": "I hold communications with saints and angels, even with satan himself.",
+        "author": {
+            "name": "Elizabeth Barton",
+            "url": "/quotes/elizabeth_barton_221341"
+        },
+        "topics": [
+            {
+                "name": "Satan",
+                "url": "/topics/satan"
+            },
+            {
+                "name": "Even",
+                "url": "/topics/even"
+            },
+            {
+                "name": "Communications",
+                "url": "/topics/communications"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/elizabeth_barton_221340",
+        "quote": "Attacks of divine transports are of pride and I accept the part assigned.",
+        "author": {
+            "name": "Elizabeth Barton",
+            "url": "/quotes/elizabeth_barton_221340"
+        },
+        "topics": [
+            {
+                "name": "Pride",
+                "url": "/topics/pride"
+            },
+            {
+                "name": "Transports",
+                "url": "/topics/transports"
+            },
+            {
+                "name": "Attacks",
+                "url": "/topics/attacks"
+            }
+        ]
+    }
+]

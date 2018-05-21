@@ -1,0 +1,104 @@
+[
+    {
+        "url": "/quotes/giovanni_boccaccio_201234",
+        "quote": "While farmers generally allow one rooster for ten hens, ten men are scarcely sufficient to service one woman.",
+        "author": {
+            "name": "Giovanni Boccaccio",
+            "url": "/quotes/giovanni_boccaccio_201234"
+        },
+        "topics": [
+            {
+                "name": "Woman",
+                "url": "/topics/woman"
+            },
+            {
+                "name": "Rooster",
+                "url": "/topics/rooster"
+            },
+            {
+                "name": "Allow",
+                "url": "/topics/allow"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/giovanni_boccaccio_201233",
+        "quote": "People tend to believe the bad rather than the good.",
+        "author": {
+            "name": "Giovanni Boccaccio",
+            "url": "/quotes/giovanni_boccaccio_201233"
+        },
+        "topics": [
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            },
+            {
+                "name": "Rather",
+                "url": "/topics/rather"
+            },
+            {
+                "name": "Tend",
+                "url": "/topics/tend"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/giovanni_boccaccio_201231",
+        "quote": "Do as we say, and not as we do.",
+        "author": {
+            "name": "Giovanni Boccaccio",
+            "url": "/quotes/giovanni_boccaccio_201231"
+        },
+        "topics": [
+            {
+                "name": "Say",
+                "url": "/topics/say"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/giovanni_boccaccio_201232",
+        "quote": "Human it is to have compassion on the unhappy.",
+        "author": {
+            "name": "Giovanni Boccaccio",
+            "url": "/quotes/giovanni_boccaccio_201232"
+        },
+        "topics": [
+            {
+                "name": "Compassion",
+                "url": "/topics/compassion"
+            },
+            {
+                "name": "Unhappy",
+                "url": "/topics/unhappy"
+            },
+            {
+                "name": "Human",
+                "url": "/topics/human"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/giovanni_boccaccio_201230",
+        "quote": "Heaven would indeed be heaven if lovers were there permitted as much enjoyment as they had experienced on earth.",
+        "author": {
+            "name": "Giovanni Boccaccio",
+            "url": "/quotes/giovanni_boccaccio_201230"
+        },
+        "topics": [
+            {
+                "name": "Enjoyment",
+                "url": "/topics/enjoyment"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            },
+            {
+                "name": "Permitted",
+                "url": "/topics/permitted"
+            }
+        ]
+    }
+]

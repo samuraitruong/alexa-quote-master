@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/huey_long_178118",
+        "quote": "Hard work is damn near as overrated as monogamy.",
+        "author": {
+            "name": "Huey Long",
+            "url": "/quotes/huey_long_178118"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Damn",
+                "url": "/topics/damn"
+            },
+            {
+                "name": "Overrated",
+                "url": "/topics/overrated"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/huey_long_166844",
+        "quote": "One of these days the people of Louisiana are going to get good government - and they aren't going to like it.",
+        "author": {
+            "name": "Huey Long",
+            "url": "/quotes/huey_long_166844"
+        },
+        "topics": [
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Louisiana",
+                "url": "/topics/louisiana"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/huey_long_178116",
+        "quote": "The time has come for all good men to rise above principle.",
+        "author": {
+            "name": "Huey Long",
+            "url": "/quotes/huey_long_178116"
+        },
+        "topics": [
+            {
+                "name": "Men",
+                "url": "/topics/men"
+            },
+            {
+                "name": "Good Men",
+                "url": "/topics/good_men"
+            },
+            {
+                "name": "Principle",
+                "url": "/topics/principle"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/huey_long_178117",
+        "quote": "I do not want the voice of the people shut out.",
+        "author": {
+            "name": "Huey Long",
+            "url": "/quotes/huey_long_178117"
+        },
+        "topics": [
+            {
+                "name": "Voice",
+                "url": "/topics/voice"
+            },
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Shut",
+                "url": "/topics/shut"
+            }
+        ]
+    }
+]

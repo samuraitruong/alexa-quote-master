@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/sarah_doudney_686910",
+        "quote": "There are women to whom nature has granted the gift of silent emotion. They have mobile faces, changeful eyes, soft lips, which express joy or desolation naturally, and with the charm of perfect simplicity and truth.",
+        "author": {
+            "name": "Sarah Doudney",
+            "url": "/quotes/sarah_doudney_686910"
+        },
+        "topics": [
+            {
+                "name": "Gift",
+                "url": "/topics/gift"
+            },
+            {
+                "name": "Silent",
+                "url": "/topics/silent"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sarah_doudney_686909",
+        "quote": "If you set out to do a good deed, you may do a hundred small kindnesses on the way.",
+        "author": {
+            "name": "Sarah Doudney",
+            "url": "/quotes/sarah_doudney_686909"
+        },
+        "topics": [
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Hundred",
+                "url": "/topics/hundred"
+            },
+            {
+                "name": "Set",
+                "url": "/topics/set"
+            }
+        ]
+    }
+]

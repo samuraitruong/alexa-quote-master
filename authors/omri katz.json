@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/omri_katz_849943",
+        "quote": "I always look for my mistakes so I can correct them in the future.",
+        "author": {
+            "name": "Omri Katz",
+            "url": "/quotes/omri_katz_849943"
+        },
+        "topics": [
+            {
+                "name": "Future",
+                "url": "/topics/future"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Correct",
+                "url": "/topics/correct"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/omri_katz_849944",
+        "quote": "I'm having more fun working on 'Eerie, Indiana' because I have the leading role, and this is more of a lighter type of show.",
+        "author": {
+            "name": "Omri Katz",
+            "url": "/quotes/omri_katz_849944"
+        },
+        "topics": [
+            {
+                "name": "Role",
+                "url": "/topics/role"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Having",
+                "url": "/topics/having"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/omri_katz_849945",
+        "quote": "I would love to work with the great movie actors of our time.",
+        "author": {
+            "name": "Omri Katz",
+            "url": "/quotes/omri_katz_849945"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Movie Actors",
+                "url": "/topics/movie_actors"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/omri_katz_849946",
+        "quote": "I think 'Eerie, Indiana' is a show for young people.",
+        "author": {
+            "name": "Omri Katz",
+            "url": "/quotes/omri_katz_849946"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Young People",
+                "url": "/topics/young_people"
+            },
+            {
+                "name": "Eerie",
+                "url": "/topics/eerie"
+            }
+        ]
+    }
+]

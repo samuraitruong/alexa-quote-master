@@ -1,0 +1,134 @@
+[
+    {
+        "url": "/quotes/francois_mauriac_400877?src=t_human_love",
+        "quote": "Human love is often but the encounter of two weaknesses.",
+        "author": {
+            "name": "Francois Mauriac",
+            "url": "/authors/francois_mauriac"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Weaknesses",
+                "url": "/topics/weaknesses"
+            },
+            {
+                "name": "Often",
+                "url": "/topics/often"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dietrich_bonhoeffer_395249?src=t_human_love",
+        "quote": "Human love has little regard for the truth. It makes the truth relative, since nothing, not even the truth, must come between it and the beloved person.",
+        "author": {
+            "name": "Dietrich Bonhoeffer",
+            "url": "/authors/dietrich_bonhoeffer"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Truth",
+                "url": "/topics/truth"
+            },
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nathaniel_parker_willis_204547?src=t_human_love",
+        "quote": "If there is anything that keeps the mind open to angel visits, and repels the ministry of ill, it is human love.",
+        "author": {
+            "name": "Nathaniel Parker Willis",
+            "url": "/authors/nathaniel_parker_willis"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Ill",
+                "url": "/topics/ill"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/saint_francis_de_sales_633571?src=t_human_love",
+        "quote": "The thoughts of those moved by natural human love are almost completely fastened on the beloved, their hearts are filled with passion for it, and their mouths full of its praises.",
+        "author": {
+            "name": "Saint Francis de Sales",
+            "url": "/authors/saint_francis_de_sales"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Thoughts",
+                "url": "/topics/thoughts"
+            },
+            {
+                "name": "Natural",
+                "url": "/topics/natural"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/a_n_wilson_437042?src=t_human_love",
+        "quote": "Truth comes to us mediated by human love.",
+        "author": {
+            "name": "A. N. Wilson",
+            "url": "/authors/a_n_wilson"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Truth",
+                "url": "/topics/truth"
+            },
+            {
+                "name": "Human",
+                "url": "/topics/human"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_graves_158821?src=t_human_love",
+        "quote": "What we now call 'finance' is, I hold, an intellectual perversion of what began as warm human love.",
+        "author": {
+            "name": "Robert Graves",
+            "url": "/authors/robert_graves"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Warm",
+                "url": "/topics/warm"
+            },
+            {
+                "name": "Call",
+                "url": "/topics/call"
+            }
+        ]
+    }
+]

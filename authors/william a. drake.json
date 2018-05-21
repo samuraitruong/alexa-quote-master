@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/william_a_drake_388163",
+        "quote": "A man who is not with a woman is a dead man.",
+        "author": {
+            "name": "William A. Drake",
+            "url": "/quotes/william_a_drake_388163"
+        },
+        "topics": [
+            {
+                "name": "Woman",
+                "url": "/topics/woman"
+            },
+            {
+                "name": "Man",
+                "url": "/topics/man"
+            },
+            {
+                "name": "Dead",
+                "url": "/topics/dead"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_a_drake_399430",
+        "quote": "Believe me, if a man doesn't know death, he doesn't know life.",
+        "author": {
+            "name": "William A. Drake",
+            "url": "/quotes/william_a_drake_399430"
+        },
+        "topics": [
+            {
+                "name": "Death",
+                "url": "/topics/death"
+            },
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Know",
+                "url": "/topics/know"
+            }
+        ]
+    }
+]

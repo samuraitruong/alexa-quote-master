@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/lord_john_russell_176872",
+        "quote": "A proverb is the wisdom of many and the wit of one.",
+        "author": {
+            "name": "Lord John Russell",
+            "url": "/quotes/lord_john_russell_176872"
+        },
+        "topics": [
+            {
+                "name": "Wit",
+                "url": "/topics/wit"
+            },
+            {
+                "name": "Proverb",
+                "url": "/topics/proverb"
+            },
+            {
+                "name": "Many",
+                "url": "/topics/many"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lord_john_russell_400785",
+        "quote": "It is impossible that the whisper of a faction should prevail against the voice of a nation.",
+        "author": {
+            "name": "Lord John Russell",
+            "url": "/quotes/lord_john_russell_400785"
+        },
+        "topics": [
+            {
+                "name": "Voice",
+                "url": "/topics/voice"
+            },
+            {
+                "name": "Nation",
+                "url": "/topics/nation"
+            },
+            {
+                "name": "Against",
+                "url": "/topics/against"
+            }
+        ]
+    }
+]

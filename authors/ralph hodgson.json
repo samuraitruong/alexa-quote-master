@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/ralph_hodgson_101961",
+        "quote": "The handwriting on the wall may be a forgery.",
+        "author": {
+            "name": "Ralph Hodgson",
+            "url": "/quotes/ralph_hodgson_101961"
+        },
+        "topics": [
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Handwriting",
+                "url": "/topics/handwriting"
+            },
+            {
+                "name": "Forgery",
+                "url": "/topics/forgery"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ralph_hodgson_160558",
+        "quote": "Time, you old gypsy man, will you not stay, put up your caravan just for one day?",
+        "author": {
+            "name": "Ralph Hodgson",
+            "url": "/quotes/ralph_hodgson_160558"
+        },
+        "topics": [
+            {
+                "name": "Gypsy",
+                "url": "/topics/gypsy"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Old",
+                "url": "/topics/old"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ralph_hodgson_131111",
+        "quote": "Some things have to be believed to be seen.",
+        "author": {
+            "name": "Ralph Hodgson",
+            "url": "/quotes/ralph_hodgson_131111"
+        },
+        "topics": [
+            {
+                "name": "Things",
+                "url": "/topics/things"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Believed",
+                "url": "/topics/believed"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ralph_hodgson_160557",
+        "quote": "Did anyone ever have a boring dream?",
+        "author": {
+            "name": "Ralph Hodgson",
+            "url": "/quotes/ralph_hodgson_160557"
+        },
+        "topics": [
+            {
+                "name": "Boring",
+                "url": "/topics/boring"
+            },
+            {
+                "name": "Dream",
+                "url": "/topics/dream"
+            },
+            {
+                "name": "Ever",
+                "url": "/topics/ever"
+            }
+        ]
+    }
+]

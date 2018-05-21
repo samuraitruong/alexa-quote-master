@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/william_paley_116630",
+        "quote": "There's a certain amount of disorder that has to be reorganized.",
+        "author": {
+            "name": "William Paley",
+            "url": "/quotes/william_paley_116630"
+        },
+        "topics": [
+            {
+                "name": "Disorder",
+                "url": "/topics/disorder"
+            },
+            {
+                "name": "Amount",
+                "url": "/topics/amount"
+            },
+            {
+                "name": "Certain",
+                "url": "/topics/certain"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_paley_173121",
+        "quote": "Who can refute a sneer?",
+        "author": {
+            "name": "William Paley",
+            "url": "/quotes/william_paley_173121"
+        },
+        "topics": [
+            {
+                "name": "Who",
+                "url": "/topics/who"
+            },
+            {
+                "name": "Refute",
+                "url": "/topics/refute"
+            },
+            {
+                "name": "Sneer",
+                "url": "/topics/sneer"
+            }
+        ]
+    }
+]

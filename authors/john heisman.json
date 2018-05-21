@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/john_heisman_378463",
+        "quote": "When you find your opponent's weak spot, hammer it.",
+        "author": {
+            "name": "John Heisman",
+            "url": "/quotes/john_heisman_378463"
+        },
+        "topics": [
+            {
+                "name": "Find",
+                "url": "/topics/find"
+            },
+            {
+                "name": "Hammer",
+                "url": "/topics/hammer"
+            },
+            {
+                "name": "Opponent",
+                "url": "/topics/opponent"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_heisman_160399",
+        "quote": "When in doubt, punt!",
+        "author": {
+            "name": "John Heisman",
+            "url": "/quotes/john_heisman_160399"
+        },
+        "topics": [
+            {
+                "name": "Doubt",
+                "url": "/topics/doubt"
+            },
+            {
+                "name": "When In Doubt",
+                "url": "/topics/when_in_doubt"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_heisman_160388",
+        "quote": "Gentlemen, it is better to have died as a small boy than to fumble this football.",
+        "author": {
+            "name": "John Heisman",
+            "url": "/quotes/john_heisman_160388"
+        },
+        "topics": [
+            {
+                "name": "Better",
+                "url": "/topics/better"
+            },
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Than",
+                "url": "/topics/than"
+            }
+        ]
+    }
+]

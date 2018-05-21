@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/peter_thomson_380512",
+        "quote": "Use your brain, not your endurance.",
+        "author": {
+            "name": "Peter Thomson",
+            "url": "/quotes/peter_thomson_380512"
+        },
+        "topics": [
+            {
+                "name": "Brain",
+                "url": "/topics/brain"
+            },
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            },
+            {
+                "name": "Your",
+                "url": "/topics/your"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/peter_thomson_207423",
+        "quote": "You can think best when you're happiest.",
+        "author": {
+            "name": "Peter Thomson",
+            "url": "/quotes/peter_thomson_207423"
+        },
+        "topics": [
+            {
+                "name": "Best",
+                "url": "/topics/best"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Happiest",
+                "url": "/topics/happiest"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/peter_thomson_207424",
+        "quote": "A light, tender, sensitive touch is worth a ton of brawn.",
+        "author": {
+            "name": "Peter Thomson",
+            "url": "/quotes/peter_thomson_207424"
+        },
+        "topics": [
+            {
+                "name": "Light",
+                "url": "/topics/light"
+            },
+            {
+                "name": "Tender",
+                "url": "/topics/tender"
+            },
+            {
+                "name": "Ton",
+                "url": "/topics/ton"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/peter_thomson_381750",
+        "quote": "The difference between winning and losing is always a mental one.",
+        "author": {
+            "name": "Peter Thomson",
+            "url": "/quotes/peter_thomson_381750"
+        },
+        "topics": [
+            {
+                "name": "Winning",
+                "url": "/topics/winning"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Difference",
+                "url": "/topics/difference"
+            }
+        ]
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/vern_buchanan_671770",
+        "quote": "My kids have played sports all their life, and one thing I've tried to teach them when you lose, you try to be a gentleman about it.",
+        "author": {
+            "name": "Vern Buchanan",
+            "url": "/quotes/vern_buchanan_671770"
+        },
+        "topics": [
+            {
+                "name": "Sports",
+                "url": "/topics/sports"
+            },
+            {
+                "name": "Lose",
+                "url": "/topics/lose"
+            },
+            {
+                "name": "Teach",
+                "url": "/topics/teach"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/vern_buchanan_671771",
+        "quote": "Anytime you have a tight race and you lose, it's not pleasant.",
+        "author": {
+            "name": "Vern Buchanan",
+            "url": "/quotes/vern_buchanan_671771"
+        },
+        "topics": [
+            {
+                "name": "Lose",
+                "url": "/topics/lose"
+            },
+            {
+                "name": "Race",
+                "url": "/topics/race"
+            },
+            {
+                "name": "Pleasant",
+                "url": "/topics/pleasant"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/vern_buchanan_671772",
+        "quote": "I'm going to reach out to everybody, Democrat, Republican and independent. I'm going to work with all the people in the district, and whether they're an 'R' or a 'D' doesn't matter.",
+        "author": {
+            "name": "Vern Buchanan",
+            "url": "/quotes/vern_buchanan_671772"
+        },
+        "topics": [
+            {
+                "name": "Independent",
+                "url": "/topics/independent"
+            },
+            {
+                "name": "Everybody",
+                "url": "/topics/everybody"
+            }
+        ]
+    }
+]

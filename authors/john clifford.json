@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/john_clifford_397572",
+        "quote": "I don't belong in the world. That's what it is. Something separates me from other people.",
+        "author": {
+            "name": "John Clifford",
+            "url": "/quotes/john_clifford_397572"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Belong",
+                "url": "/topics/belong"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_clifford_406197",
+        "quote": "The avian influenza found in mainland British Columbia poses no significant threat to human health.",
+        "author": {
+            "name": "John Clifford",
+            "url": "/quotes/john_clifford_406197"
+        },
+        "topics": [
+            {
+                "name": "Influenza",
+                "url": "/topics/influenza"
+            },
+            {
+                "name": "Human Health",
+                "url": "/topics/human_health"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_clifford_406198",
+        "quote": "We remain very confident in the safety of U.S. beef.",
+        "author": {
+            "name": "John Clifford",
+            "url": "/quotes/john_clifford_406198"
+        },
+        "topics": [
+            {
+                "name": "Safety",
+                "url": "/topics/safety"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Remain",
+                "url": "/topics/remain"
+            }
+        ]
+    }
+]

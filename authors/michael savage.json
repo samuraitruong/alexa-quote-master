@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/michael_savage_504790",
+        "quote": "Don't take too much comfort in the fact that you're successful today because tomorrow could bring failure. There's no surety in life.",
+        "author": {
+            "name": "Michael Savage",
+            "url": "/quotes/michael_savage_504790"
+        },
+        "topics": [
+            {
+                "name": "Tomorrow",
+                "url": "/topics/tomorrow"
+            },
+            {
+                "name": "Fact",
+                "url": "/topics/fact"
+            },
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/michael_savage_185946",
+        "quote": "Fox would hire me in a minute. And believe it or not, CNN would, too.",
+        "author": {
+            "name": "Michael Savage",
+            "url": "/quotes/michael_savage_185946"
+        },
+        "topics": [
+            {
+                "name": "Hire",
+                "url": "/topics/hire"
+            },
+            {
+                "name": "CNN",
+                "url": "/topics/cnn"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            }
+        ]
+    }
+]

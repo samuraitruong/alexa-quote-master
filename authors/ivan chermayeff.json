@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/ivan_chermayeff_170012",
+        "quote": "Design is directed toward human beings. To design is to solve human problems by identifying them and executing the best solution.",
+        "author": {
+            "name": "Ivan Chermayeff",
+            "url": "/quotes/ivan_chermayeff_170012"
+        },
+        "topics": [
+            {
+                "name": "Design",
+                "url": "/topics/design"
+            },
+            {
+                "name": "Directed",
+                "url": "/topics/directed"
+            },
+            {
+                "name": "Them",
+                "url": "/topics/them"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/kelly_overton_568437",
+        "quote": "Working with real wolves has been exhilarating. They're so amazing. They're these beautiful, brilliant animals and they're great to work with.",
+        "author": {
+            "name": "Kelly Overton",
+            "url": "/quotes/kelly_overton_568437"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Brilliant",
+                "url": "/topics/brilliant"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kelly_overton_658080",
+        "quote": "Being a mom kind of grounded me in a way. Your body takes on a whole new meaning.",
+        "author": {
+            "name": "Kelly Overton",
+            "url": "/quotes/kelly_overton_658080"
+        },
+        "topics": [
+            {
+                "name": "Mom",
+                "url": "/topics/mom"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Kind",
+                "url": "/topics/kind"
+            }
+        ]
+    }
+]

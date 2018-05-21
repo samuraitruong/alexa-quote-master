@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/felicia_hemans_338690",
+        "quote": "Gird your hearts with silent fortitude, suffering yet hoping all things.",
+        "author": {
+            "name": "Felicia Hemans",
+            "url": "/quotes/felicia_hemans_338690"
+        },
+        "topics": [
+            {
+                "name": "Suffering",
+                "url": "/topics/suffering"
+            },
+            {
+                "name": "Silent",
+                "url": "/topics/silent"
+            },
+            {
+                "name": "Hoping",
+                "url": "/topics/hoping"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/felicia_hemans_120588",
+        "quote": "Strength is born in the deep silence of long-suffering hearts; not amid joy.",
+        "author": {
+            "name": "Felicia Hemans",
+            "url": "/quotes/felicia_hemans_120588"
+        },
+        "topics": [
+            {
+                "name": "Strength",
+                "url": "/topics/strength"
+            },
+            {
+                "name": "Deep",
+                "url": "/topics/deep"
+            },
+            {
+                "name": "Joy",
+                "url": "/topics/joy"
+            }
+        ]
+    }
+]

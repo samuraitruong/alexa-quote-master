@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/texas_guinan_312085",
+        "quote": "A politician is a fellow who will lay down your life for his country.",
+        "author": {
+            "name": "Texas Guinan",
+            "url": "/quotes/texas_guinan_312085"
+        },
+        "topics": [
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/texas_guinan_395004",
+        "quote": "A guy who'd cheat on his wife would cheat at cards.",
+        "author": {
+            "name": "Texas Guinan",
+            "url": "/quotes/texas_guinan_395004"
+        },
+        "topics": [
+            {
+                "name": "Cards",
+                "url": "/topics/cards"
+            },
+            {
+                "name": "Cheat",
+                "url": "/topics/cheat"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            }
+        ]
+    }
+]

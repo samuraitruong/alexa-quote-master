@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/james_northcote_312048",
+        "quote": "Half the things that people do not succeed in are through fear of making the attempt.",
+        "author": {
+            "name": "James Northcote",
+            "url": "/quotes/james_northcote_312048"
+        },
+        "topics": [
+            {
+                "name": "Half",
+                "url": "/topics/half"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Making",
+                "url": "/topics/making"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_northcote_354544",
+        "quote": "Learned men are the cisterns of knowledge, not the fountainheads.",
+        "author": {
+            "name": "James Northcote",
+            "url": "/quotes/james_northcote_354544"
+        },
+        "topics": [
+            {
+                "name": "Knowledge",
+                "url": "/topics/knowledge"
+            },
+            {
+                "name": "Men",
+                "url": "/topics/men"
+            },
+            {
+                "name": "Learned",
+                "url": "/topics/learned"
+            }
+        ]
+    }
+]

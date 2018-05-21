@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/andre_bazin_394702",
+        "quote": "Photography does not create eternity, as art does; it embalms time, rescuing it simply from its proper corruption.",
+        "author": {
+            "name": "Andre Bazin",
+            "url": "/quotes/andre_bazin_394702"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Eternity",
+                "url": "/topics/eternity"
+            },
+            {
+                "name": "Rescuing",
+                "url": "/topics/rescuing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/andre_bazin_312120",
+        "quote": "The 'Western' is the only genre whose origins are almost identical with those of the cinema itself.",
+        "author": {
+            "name": "Andre Bazin",
+            "url": "/quotes/andre_bazin_312120"
+        },
+        "topics": [
+            {
+                "name": "Itself",
+                "url": "/topics/itself"
+            },
+            {
+                "name": "Identical",
+                "url": "/topics/identical"
+            },
+            {
+                "name": "Almost",
+                "url": "/topics/almost"
+            }
+        ]
+    }
+]

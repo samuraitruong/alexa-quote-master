@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/reiko_aylesworth_570674",
+        "quote": "I didn't know a soul when I got to New York, and I felt really displaced. The first week I was euphoric, and then I realized how isolating the city can be.",
+        "author": {
+            "name": "Reiko Aylesworth",
+            "url": "/quotes/reiko_aylesworth_570674"
+        },
+        "topics": [
+            {
+                "name": "Week",
+                "url": "/topics/week"
+            },
+            {
+                "name": "City",
+                "url": "/topics/city"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/reiko_aylesworth_825383",
+        "quote": "I like alternative music, so I like to hear new bands.",
+        "author": {
+            "name": "Reiko Aylesworth",
+            "url": "/quotes/reiko_aylesworth_825383"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/reiko_aylesworth_825384",
+        "quote": "I love my neighborhood: There are Russian families, the artistic community, the gay community, and industry professionals - all ethnicities and ages are represented. That's the kind of neighborhood that I grew up in.",
+        "author": {
+            "name": "Reiko Aylesworth",
+            "url": "/quotes/reiko_aylesworth_825384"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Kind",
+                "url": "/topics/kind"
+            },
+            {
+                "name": "Russian",
+                "url": "/topics/russian"
+            }
+        ]
+    }
+]

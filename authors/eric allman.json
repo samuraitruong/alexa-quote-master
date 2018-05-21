@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/eric_allman_216012",
+        "quote": "I like to eat good food. I cook and collect wine. I like going for long walks when I can.",
+        "author": {
+            "name": "Eric Allman",
+            "url": "/quotes/eric_allman_216012"
+        },
+        "topics": [
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Cook",
+                "url": "/topics/cook"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eric_allman_405890",
+        "quote": "The intellectual property situation is bad and getting worse. To be a programmer, it requires that you understand as much law as you do technology.",
+        "author": {
+            "name": "Eric Allman",
+            "url": "/quotes/eric_allman_405890"
+        },
+        "topics": [
+            {
+                "name": "Law",
+                "url": "/topics/law"
+            },
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            },
+            {
+                "name": "Programmer",
+                "url": "/topics/programmer"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eric_allman_216009",
+        "quote": "Personally, one of the down sides of founding a company is that there is always too much work to do, and sadly I find I don't have much time to code any more.",
+        "author": {
+            "name": "Eric Allman",
+            "url": "/quotes/eric_allman_216009"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Code",
+                "url": "/topics/code"
+            },
+            {
+                "name": "Sadly",
+                "url": "/topics/sadly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eric_allman_405891",
+        "quote": "This is like the telephone problem - no one wants to have the first one. But we are seeing a lot of people who want some sort of technology to solve the spam problem.",
+        "author": {
+            "name": "Eric Allman",
+            "url": "/quotes/eric_allman_405891"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "First One",
+                "url": "/topics/first_one"
+            }
+        ]
+    }
+]

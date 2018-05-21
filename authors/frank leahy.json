@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/frank_leahy_105934",
+        "quote": "Egotism is the anesthetic that dulls the pain of stupidity.",
+        "author": {
+            "name": "Frank Leahy",
+            "url": "/quotes/frank_leahy_105934"
+        },
+        "topics": [
+            {
+                "name": "Pain",
+                "url": "/topics/pain"
+            },
+            {
+                "name": "Stupidity",
+                "url": "/topics/stupidity"
+            },
+            {
+                "name": "Anesthetic",
+                "url": "/topics/anesthetic"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/frank_leahy_326069",
+        "quote": "When the going gets tough, let the tough get going.",
+        "author": {
+            "name": "Frank Leahy",
+            "url": "/quotes/frank_leahy_326069"
+        },
+        "topics": [
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Get",
+                "url": "/topics/get"
+            },
+            {
+                "name": "Gets",
+                "url": "/topics/gets"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/frank_leahy_326068",
+        "quote": "There are no shortcuts in life - only those we imagine.",
+        "author": {
+            "name": "Frank Leahy",
+            "url": "/quotes/frank_leahy_326068"
+        },
+        "topics": [
+            {
+                "name": "Imagination",
+                "url": "/topics/imagination"
+            },
+            {
+                "name": "Imagine",
+                "url": "/topics/imagine"
+            },
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/frank_leahy_326067",
+        "quote": "Give me a lead of 14-0 at halftime and I will dictate the final score.",
+        "author": {
+            "name": "Frank Leahy",
+            "url": "/quotes/frank_leahy_326067"
+        },
+        "topics": [
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            },
+            {
+                "name": "Score",
+                "url": "/topics/score"
+            },
+            {
+                "name": "Halftime",
+                "url": "/topics/halftime"
+            }
+        ]
+    }
+]

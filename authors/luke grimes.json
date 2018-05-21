@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/luke_grimes_684434",
+        "quote": "I'm not really a fan of organized religion.",
+        "author": {
+            "name": "Luke Grimes",
+            "url": "/quotes/luke_grimes_684434"
+        },
+        "topics": [
+            {
+                "name": "Fan",
+                "url": "/topics/fan"
+            },
+            {
+                "name": "Organized Religion",
+                "url": "/topics/organized_religion"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/luke_grimes_684435",
+        "quote": "It's really odd to be up close to an icon like Bruce Willis. You're used to seeing him on a screen, 50 feet tall. To think, 'Hmm, I'm taller than you are' is just weird.",
+        "author": {
+            "name": "Luke Grimes",
+            "url": "/quotes/luke_grimes_684435"
+        },
+        "topics": [
+            {
+                "name": "Feet",
+                "url": "/topics/feet"
+            },
+            {
+                "name": "Icon",
+                "url": "/topics/icon"
+            },
+            {
+                "name": "Screen",
+                "url": "/topics/screen"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/luke_grimes_684436",
+        "quote": "I don't really invest too much in the future.",
+        "author": {
+            "name": "Luke Grimes",
+            "url": "/quotes/luke_grimes_684436"
+        },
+        "topics": [
+            {
+                "name": "Future",
+                "url": "/topics/future"
+            },
+            {
+                "name": "Invest",
+                "url": "/topics/invest"
+            },
+            {
+                "name": "Too",
+                "url": "/topics/too"
+            }
+        ]
+    }
+]

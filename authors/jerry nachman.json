@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/jerry_nachman_174904",
+        "quote": "There's a lot of peer pressure to not do positive stories out of Iraq... I think there's a sense that the administration got a pass during the hot days of war and now that the war is over it's time to even out the deck somewhat.",
+        "author": {
+            "name": "Jerry Nachman",
+            "url": "/quotes/jerry_nachman_174904"
+        },
+        "topics": [
+            {
+                "name": "Hot",
+                "url": "/topics/hot"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Administration",
+                "url": "/topics/administration"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jerry_nachman_174918",
+        "quote": "I didn't miss the rat race, but I kinda missed the rats.",
+        "author": {
+            "name": "Jerry Nachman",
+            "url": "/quotes/jerry_nachman_174918"
+        },
+        "topics": [
+            {
+                "name": "Missed",
+                "url": "/topics/missed"
+            },
+            {
+                "name": "Race",
+                "url": "/topics/race"
+            },
+            {
+                "name": "Rat",
+                "url": "/topics/rat"
+            }
+        ]
+    }
+]

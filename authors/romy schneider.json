@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/romy_schneider_612523",
+        "quote": "Memories are the best things in life, I think.",
+        "author": {
+            "name": "Romy Schneider",
+            "url": "/quotes/romy_schneider_612523"
+        },
+        "topics": [
+            {
+                "name": "Memories",
+                "url": "/topics/memories"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/romy_schneider_612526",
+        "quote": "I don't know anything about life, but everything about cinema.",
+        "author": {
+            "name": "Romy Schneider",
+            "url": "/quotes/romy_schneider_612526"
+        },
+        "topics": [
+            {
+                "name": "Cinema",
+                "url": "/topics/cinema"
+            },
+            {
+                "name": "Know",
+                "url": "/topics/know"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/romy_schneider_612525",
+        "quote": "I wish to present myself in front of the camera, each time under the features of a different woman. I would like to live and apprehend the problems, the conflicts, the feelings and the impulses of women radically different from me.",
+        "author": {
+            "name": "Romy Schneider",
+            "url": "/quotes/romy_schneider_612525"
+        },
+        "topics": [
+            {
+                "name": "Woman",
+                "url": "/topics/woman"
+            },
+            {
+                "name": "Wish",
+                "url": "/topics/wish"
+            },
+            {
+                "name": "Each Time",
+                "url": "/topics/each_time"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/romy_schneider_612522",
+        "quote": "I have the feeling that I was born in Vienna in order to live in Paris.",
+        "author": {
+            "name": "Romy Schneider",
+            "url": "/quotes/romy_schneider_612522"
+        },
+        "topics": [
+            {
+                "name": "Paris",
+                "url": "/topics/paris"
+            },
+            {
+                "name": "Born",
+                "url": "/topics/born"
+            },
+            {
+                "name": "I Was Born",
+                "url": "/topics/i_was_born"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/romy_schneider_612524",
+        "quote": "One can remain eternally young if, each day, one grows rich by marvelous moments.",
+        "author": {
+            "name": "Romy Schneider",
+            "url": "/quotes/romy_schneider_612524"
+        },
+        "topics": [
+            {
+                "name": "Young",
+                "url": "/topics/young"
+            },
+            {
+                "name": "Grows",
+                "url": "/topics/grows"
+            },
+            {
+                "name": "Remain",
+                "url": "/topics/remain"
+            }
+        ]
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "url": "/quotes/bill_blass_173559",
+        "quote": "Red is the ultimate cure for sadness.",
+        "author": {
+            "name": "Bill Blass",
+            "url": "/quotes/bill_blass_173559"
+        },
+        "topics": [
+            {
+                "name": "Sad",
+                "url": "/topics/sad"
+            },
+            {
+                "name": "Red",
+                "url": "/topics/red"
+            },
+            {
+                "name": "Ultimate",
+                "url": "/topics/ultimate"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_blass_100220",
+        "quote": "When in doubt wear red.",
+        "author": {
+            "name": "Bill Blass",
+            "url": "/quotes/bill_blass_100220"
+        },
+        "topics": [
+            {
+                "name": "Red",
+                "url": "/topics/red"
+            },
+            {
+                "name": "Doubt",
+                "url": "/topics/doubt"
+            },
+            {
+                "name": "Wear",
+                "url": "/topics/wear"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_blass_100422",
+        "quote": "Style is primarily a matter of instinct.",
+        "author": {
+            "name": "Bill Blass",
+            "url": "/quotes/bill_blass_100422"
+        },
+        "topics": [
+            {
+                "name": "Style",
+                "url": "/topics/style"
+            },
+            {
+                "name": "Matter",
+                "url": "/topics/matter"
+            },
+            {
+                "name": "Instinct",
+                "url": "/topics/instinct"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_blass_110634",
+        "quote": "Sometimes the eye gets so accustomed that if you don't have a change, you're bored. It's the same with fashion, you know. And that, I suppose, is what style is about.",
+        "author": {
+            "name": "Bill Blass",
+            "url": "/quotes/bill_blass_110634"
+        },
+        "topics": [
+            {
+                "name": "Change",
+                "url": "/topics/change"
+            },
+            {
+                "name": "Sometimes",
+                "url": "/topics/sometimes"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_blass_173558",
+        "quote": "Each individual piece is a calculated attempt to entice women to add to their wardrobe.",
+        "author": {
+            "name": "Bill Blass",
+            "url": "/quotes/bill_blass_173558"
+        },
+        "topics": [
+            {
+                "name": "Individual",
+                "url": "/topics/individual"
+            },
+            {
+                "name": "Add",
+                "url": "/topics/add"
+            },
+            {
+                "name": "Piece",
+                "url": "/topics/piece"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_blass_173560",
+        "quote": "Something about glamour interested me. All my schoolbooks had drawings of women on terraces with a cocktail and a cigarette.",
+        "author": {
+            "name": "Bill Blass",
+            "url": "/quotes/bill_blass_173560"
+        },
+        "topics": [
+            {
+                "name": "Cigarette",
+                "url": "/topics/cigarette"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Had",
+                "url": "/topics/had"
+            }
+        ]
+    }
+]

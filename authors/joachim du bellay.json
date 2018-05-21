@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/joachim_du_bellay_305372",
+        "quote": "France, mother of arts, of warfare, and of laws.",
+        "author": {
+            "name": "Joachim du Bellay",
+            "url": "/quotes/joachim_du_bellay_305372"
+        },
+        "topics": [
+            {
+                "name": "Mother",
+                "url": "/topics/mother"
+            },
+            {
+                "name": "Laws",
+                "url": "/topics/laws"
+            },
+            {
+                "name": "Warfare",
+                "url": "/topics/warfare"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joachim_du_bellay_305374",
+        "quote": "In my opinion butlers ought To know their place, and not to play The Old Retainer night and day.",
+        "author": {
+            "name": "Joachim du Bellay",
+            "url": "/quotes/joachim_du_bellay_305374"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Old",
+                "url": "/topics/old"
+            },
+            {
+                "name": "In My Opinion",
+                "url": "/topics/in_my_opinion"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joachim_du_bellay_305373",
+        "quote": "Happy the man who, like Ulysses, has made a fine voyage, or has won the Golden Fleece, and then returns, experienced and knowledgeable, to spend the rest of his life among his family.",
+        "author": {
+            "name": "Joachim du Bellay",
+            "url": "/quotes/joachim_du_bellay_305373"
+        },
+        "topics": [
+            {
+                "name": "Rest",
+                "url": "/topics/rest"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Made",
+                "url": "/topics/made"
+            }
+        ]
+    }
+]

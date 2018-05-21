@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/albrecht_kossel_692051",
+        "quote": "The living cell almost always contains, locked in its interior, the visible or invisible products of its physiological activity or its nourishment.",
+        "author": {
+            "name": "Albrecht Kossel",
+            "url": "/quotes/albrecht_kossel_692051"
+        },
+        "topics": [
+            {
+                "name": "Living",
+                "url": "/topics/living"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Visible",
+                "url": "/topics/visible"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/albrecht_kossel_692052",
+        "quote": "The more the relationships of the nitrogen-rich substances to the cell nucleus were recognized, the more the question of the arrangement of the nitrogen and carbon atoms in the molecule came to stand out.",
+        "author": {
+            "name": "Albrecht Kossel",
+            "url": "/quotes/albrecht_kossel_692052"
+        },
+        "topics": [
+            {
+                "name": "Question",
+                "url": "/topics/question"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Substances",
+                "url": "/topics/substances"
+            }
+        ]
+    }
+]

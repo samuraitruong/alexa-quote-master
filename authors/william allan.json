@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/william_allan_232985",
+        "quote": "Father, in spite of all this spending of money in learning Latin, I will be a painter.",
+        "author": {
+            "name": "William Allan",
+            "url": "/quotes/william_allan_232985"
+        },
+        "topics": [
+            {
+                "name": "Painter",
+                "url": "/topics/painter"
+            },
+            {
+                "name": "Spite",
+                "url": "/topics/spite"
+            },
+            {
+                "name": "Spending",
+                "url": "/topics/spending"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_allan_232986",
+        "quote": "I will be a historical painter.",
+        "author": {
+            "name": "William Allan",
+            "url": "/quotes/william_allan_232986"
+        },
+        "topics": [
+            {
+                "name": "Painter",
+                "url": "/topics/painter"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Historical",
+                "url": "/topics/historical"
+            }
+        ]
+    }
+]

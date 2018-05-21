@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/daniel_oconnell_174907",
+        "quote": "Nothing is politically right which is morally wrong.",
+        "author": {
+            "name": "Daniel O'Connell",
+            "url": "/quotes/daniel_oconnell_174907"
+        },
+        "topics": [
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Politically",
+                "url": "/topics/politically"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/daniel_oconnell_174937",
+        "quote": "There is nothing politically right that is morally wrong.",
+        "author": {
+            "name": "Daniel O'Connell",
+            "url": "/quotes/daniel_oconnell_174937"
+        },
+        "topics": [
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            },
+            {
+                "name": "Right",
+                "url": "/topics/right"
+            },
+            {
+                "name": "Politically",
+                "url": "/topics/politically"
+            }
+        ]
+    }
+]

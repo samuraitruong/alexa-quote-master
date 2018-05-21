@@ -1,0 +1,548 @@
+[
+    {
+        "url": "/quotes/brian_krzanich_725302?src=t_intel",
+        "quote": "I am deeply honored by the opportunity to lead Intel. We have amazing assets, tremendous talent, and an unmatched legacy of innovation and execution. I look forward to working with our leadership team and employees worldwide to continue our proud legacy while moving even faster into ultra-mobility to lead Intel into the next era.",
+        "author": {
+            "name": "Brian Krzanich",
+            "url": "/authors/brian_krzanich"
+        },
+        "topics": [
+            {
+                "name": "Legacy",
+                "url": "/topics/legacy"
+            },
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            },
+            {
+                "name": "While",
+                "url": "/topics/while"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nicolas_berggruen_543318?src=t_intel",
+        "quote": "Think of everything in Seattle - Microsoft, Amazon, Starbucks. Then you go down to Silicon Valley - Intel, Apple, Google, Facebook, Twitter. What does New York produce?",
+        "author": {
+            "name": "Nicolas Berggruen",
+            "url": "/authors/nicolas_berggruen"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Starbucks",
+                "url": "/topics/starbucks"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jerry_yang_710713?src=t_intel",
+        "quote": "Companies such as Microsoft, Cisco and Intel were just starting at their 10-year anniversary.",
+        "author": {
+            "name": "Jerry Yang",
+            "url": "/authors/jerry_yang"
+        },
+        "topics": [
+            {
+                "name": "Microsoft",
+                "url": "/topics/microsoft"
+            },
+            {
+                "name": "Companies",
+                "url": "/topics/companies"
+            },
+            {
+                "name": "Were",
+                "url": "/topics/were"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/al_gore_130534?src=t_intel",
+        "quote": "How could this Y2K be a problem in a country where we have Intel and Microsoft?",
+        "author": {
+            "name": "Al Gore",
+            "url": "/authors/al_gore"
+        },
+        "topics": [
+            {
+                "name": "Problem",
+                "url": "/topics/problem"
+            },
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "How",
+                "url": "/topics/how"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_t_chambers_821329?src=t_intel",
+        "quote": "The industry has to learn how to do CEO succession well. If your definition of success is Intel or Microsoft or HP or IBM, that's not a good track record, and yet they are the most successful ones.",
+        "author": {
+            "name": "John T. Chambers",
+            "url": "/authors/john_t_chambers"
+        },
+        "topics": [
+            {
+                "name": "CEO",
+                "url": "/topics/ceo"
+            },
+            {
+                "name": "Industry",
+                "url": "/topics/industry"
+            },
+            {
+                "name": "Your",
+                "url": "/topics/your"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nancy_gibbs_663233?src=t_intel",
+        "quote": "Decision making in a democracy depends above all on knowledge and not just the intel available to presidents and policymakers.",
+        "author": {
+            "name": "Nancy Gibbs",
+            "url": "/authors/nancy_gibbs"
+        },
+        "topics": [
+            {
+                "name": "Decision",
+                "url": "/topics/decision"
+            },
+            {
+                "name": "Making",
+                "url": "/topics/making"
+            },
+            {
+                "name": "Depends",
+                "url": "/topics/depends"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/fred_ehrsam_850305?src=t_intel",
+        "quote": "OpenAI is doing important work by releasing tools which promote AI to be developed in the open. Compute power is largely produced by NVIDIA and Intel and still relatively expensive but openly purchasable. Blockchains may be the key final ingredient by providing massive pools of open training data.",
+        "author": {
+            "name": "Fred Ehrsam",
+            "url": "/authors/fred_ehrsam"
+        },
+        "topics": [
+            {
+                "name": "Data",
+                "url": "/topics/data"
+            },
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Providing",
+                "url": "/topics/providing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brian_krzanich_725319?src=t_intel",
+        "quote": "Intel is not the right person to be making clothing or even wristbands. We want to provide the fashion industry with the technical solutions.",
+        "author": {
+            "name": "Brian Krzanich",
+            "url": "/authors/brian_krzanich"
+        },
+        "topics": [
+            {
+                "name": "Solutions",
+                "url": "/topics/solutions"
+            },
+            {
+                "name": "Technical",
+                "url": "/topics/technical"
+            },
+            {
+                "name": "Making",
+                "url": "/topics/making"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/renee_james_732061?src=t_intel",
+        "quote": "Intel has been my second family. It is an amazing company that has changed the way people live their lives, and I am proud to have contributed to that in a meaningful way.",
+        "author": {
+            "name": "Renee James",
+            "url": "/authors/renee_james"
+        },
+        "topics": [
+            {
+                "name": "Proud",
+                "url": "/topics/proud"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Lives",
+                "url": "/topics/lives"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/susan_wojcicki_508613?src=t_intel",
+        "quote": "My most radical shift was leaving Intel and joining Google, a small startup at the time, even though I was pregnant.",
+        "author": {
+            "name": "Susan Wojcicki",
+            "url": "/authors/susan_wojcicki"
+        },
+        "topics": [
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Joining",
+                "url": "/topics/joining"
+            },
+            {
+                "name": "Radical",
+                "url": "/topics/radical"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/elliott_abrams_641311?src=t_intel",
+        "quote": "What does 'politicizing intelligence' mean? Using intel, or more often, partial intel, to produce an effect in line with White House policies rather than giving a full picture of a particular situation.",
+        "author": {
+            "name": "Elliott Abrams",
+            "url": "/authors/elliott_abrams"
+        },
+        "topics": [
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Rather",
+                "url": "/topics/rather"
+            },
+            {
+                "name": "Using",
+                "url": "/topics/using"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/julian_treasure_864484?src=t_intel",
+        "quote": "You or I never buy an Intel product explicitly, and yet their sonic logo is far better known and more powerful than its visual equivalent. It's probably worth hundreds of millions of dollars.",
+        "author": {
+            "name": "Julian Treasure",
+            "url": "/authors/julian_treasure"
+        },
+        "topics": [
+            {
+                "name": "Buy",
+                "url": "/topics/buy"
+            },
+            {
+                "name": "Equivalent",
+                "url": "/topics/equivalent"
+            },
+            {
+                "name": "Explicitly",
+                "url": "/topics/explicitly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ehud_olmert_769973?src=t_intel",
+        "quote": "Israel stands proudly at the forefront of international achievement. The world's leading corporations - Google, Intel and Motorola, to name but a few - maintain research and development facilities here, and our technology start-ups continue to be acquired by the likes of AOL, eBay and IBM.",
+        "author": {
+            "name": "Ehud Olmert",
+            "url": "/authors/ehud_olmert"
+        },
+        "topics": [
+            {
+                "name": "Achievement",
+                "url": "/topics/achievement"
+            },
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            },
+            {
+                "name": "Leading",
+                "url": "/topics/leading"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jim_cramer_235649?src=t_intel",
+        "quote": "The mutual fund industry provided the money for Intel and Motorola and Hewlett-Packard to crush the competitors.",
+        "author": {
+            "name": "Jim Cramer",
+            "url": "/authors/jim_cramer"
+        },
+        "topics": [
+            {
+                "name": "Crush",
+                "url": "/topics/crush"
+            },
+            {
+                "name": "Competitors",
+                "url": "/topics/competitors"
+            },
+            {
+                "name": "Mutual",
+                "url": "/topics/mutual"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/diane_greene_875222?src=t_intel",
+        "quote": "Paul Otellini, the former CEO of Intel, I worked with while I was still with VMware. I knew Ram Shriram through the tech industry.",
+        "author": {
+            "name": "Diane Greene",
+            "url": "/authors/diane_greene"
+        },
+        "topics": [
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            },
+            {
+                "name": "Tech",
+                "url": "/topics/tech"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brit_morin_753782?src=t_intel",
+        "quote": "There is a lack of female venture capitalists, and so there are fewer female-oriented businesses getting funded. Intel has done a good job of creating a message across Intel, and they are putting their money where their mouth is.",
+        "author": {
+            "name": "Brit Morin",
+            "url": "/authors/brit_morin"
+        },
+        "topics": [
+            {
+                "name": "Message",
+                "url": "/topics/message"
+            },
+            {
+                "name": "Putting",
+                "url": "/topics/putting"
+            },
+            {
+                "name": "Fewer",
+                "url": "/topics/fewer"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/roman_coppola_492085?src=t_intel",
+        "quote": "The short film project I just finished for W Hotels and Intel, I didn't have my script finished until a few days before we began filming. We edited it very quickly and now it's up online. It was great to conceive an idea and have it premiere just a few weeks later, compared to a feature, which takes a year or more.",
+        "author": {
+            "name": "Roman Coppola",
+            "url": "/authors/roman_coppola"
+        },
+        "topics": [
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Weeks",
+                "url": "/topics/weeks"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_r_clapper_798177?src=t_intel",
+        "quote": "The first week in intelligence school, you learn there are only two conditions in life. There is policy success, or there is intel failure. There is no other condition in life.",
+        "author": {
+            "name": "James R. Clapper",
+            "url": "/authors/james_r_clapper"
+        },
+        "topics": [
+            {
+                "name": "Learn",
+                "url": "/topics/learn"
+            },
+            {
+                "name": "Week",
+                "url": "/topics/week"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/janis_karpinski_335460?src=t_intel",
+        "quote": "The vast majority of prisoners at Abu Ghraib, even after interrogation, had no further intel value whatsoever.",
+        "author": {
+            "name": "Janis Karpinski",
+            "url": "/authors/janis_karpinski"
+        },
+        "topics": [
+            {
+                "name": "Whatsoever",
+                "url": "/topics/whatsoever"
+            },
+            {
+                "name": "Vast Majority",
+                "url": "/topics/vast_majority"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kevin_rollins_299920?src=t_intel",
+        "quote": "Intel's still our main partner. We have not announced anything with AMD and don't have anything planned, but we're constantly being aware to make sure our customers get the best technology.",
+        "author": {
+            "name": "Kevin Rollins",
+            "url": "/authors/kevin_rollins"
+        },
+        "topics": [
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            },
+            {
+                "name": "Sure",
+                "url": "/topics/sure"
+            },
+            {
+                "name": "Main",
+                "url": "/topics/main"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/michael_j_saylor_620442?src=t_intel",
+        "quote": "There's nothing more frustrating than seeing cynics sit there and say, 'Well, nobody can make any more money because Microsoft and Intel own everything.' Is the software industry mature, or is it embryonic? I would say it's embryonic. There will be a hundred more Microsofts, not just one.",
+        "author": {
+            "name": "Michael J. Saylor",
+            "url": "/authors/michael_j_saylor"
+        },
+        "topics": [
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "Mature",
+                "url": "/topics/mature"
+            },
+            {
+                "name": "Hundred",
+                "url": "/topics/hundred"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/arthur_rock_239101?src=t_intel",
+        "quote": "And we invested three hundred thousand dollars, became the lead investor and I became Chairman of the Board of Scientific Data Systems, as I was at Intel for a while.",
+        "author": {
+            "name": "Arthur Rock",
+            "url": "/authors/arthur_rock"
+        },
+        "topics": [
+            {
+                "name": "Data",
+                "url": "/topics/data"
+            },
+            {
+                "name": "Became",
+                "url": "/topics/became"
+            },
+            {
+                "name": "Hundred",
+                "url": "/topics/hundred"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/arthur_rock_239108?src=t_intel",
+        "quote": "And then lo and behold IBM, Apple and Motorola took an ad in all the newspapers, double page ad, and said, announcing the chip that they were now able to manufacture it and that they were going to kill Intel.",
+        "author": {
+            "name": "Arthur Rock",
+            "url": "/authors/arthur_rock"
+        },
+        "topics": [
+            {
+                "name": "Chip",
+                "url": "/topics/chip"
+            },
+            {
+                "name": "Took",
+                "url": "/topics/took"
+            },
+            {
+                "name": "Ad",
+                "url": "/topics/ad"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/arthur_rock_239109?src=t_intel",
+        "quote": "Killing Intel, I, I just had to resign from the Apple Board.",
+        "author": {
+            "name": "Arthur Rock",
+            "url": "/authors/arthur_rock"
+        },
+        "topics": [
+            {
+                "name": "Apple",
+                "url": "/topics/apple"
+            },
+            {
+                "name": "Just",
+                "url": "/topics/just"
+            },
+            {
+                "name": "Had",
+                "url": "/topics/had"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/hector_ruiz_559771?src=t_intel",
+        "quote": "Intel continues... to abuse their monopoly, and that's why, around the world, governments and regulatory agencies continue to go after them.",
+        "author": {
+            "name": "Hector Ruiz",
+            "url": "/authors/hector_ruiz"
+        },
+        "topics": [
+            {
+                "name": "Go",
+                "url": "/topics/go"
+            },
+            {
+                "name": "Abuse",
+                "url": "/topics/abuse"
+            },
+            {
+                "name": "Regulatory",
+                "url": "/topics/regulatory"
+            }
+        ]
+    }
+]

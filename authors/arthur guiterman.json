@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/arthur_guiterman_107927",
+        "quote": "Don't tell your friends about your indigestion. 'How are you' is a greeting, not a question.",
+        "author": {
+            "name": "Arthur Guiterman",
+            "url": "/quotes/arthur_guiterman_107927"
+        },
+        "topics": [
+            {
+                "name": "Tell",
+                "url": "/topics/tell"
+            },
+            {
+                "name": "Question",
+                "url": "/topics/question"
+            },
+            {
+                "name": "How",
+                "url": "/topics/how"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/arthur_guiterman_140948",
+        "quote": "Admitting Error clears the Score, And proves you Wiser than before.",
+        "author": {
+            "name": "Arthur Guiterman",
+            "url": "/quotes/arthur_guiterman_140948"
+        },
+        "topics": [
+            {
+                "name": "Wiser",
+                "url": "/topics/wiser"
+            },
+            {
+                "name": "Score",
+                "url": "/topics/score"
+            },
+            {
+                "name": "Admitting",
+                "url": "/topics/admitting"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/mallory_factor_621781",
+        "quote": "New York is not going to be a foreign place to me. They didn't revoke my visa.",
+        "author": {
+            "name": "Mallory Factor",
+            "url": "/quotes/mallory_factor_621781"
+        },
+        "topics": [
+            {
+                "name": "New York",
+                "url": "/topics/new_york"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mallory_factor_621782",
+        "quote": "The fundamental goal of Republicans and Democrats is to get themselves re-elected.",
+        "author": {
+            "name": "Mallory Factor",
+            "url": "/quotes/mallory_factor_621782"
+        },
+        "topics": [
+            {
+                "name": "Goal",
+                "url": "/topics/goal"
+            },
+            {
+                "name": "Democrats",
+                "url": "/topics/democrats"
+            },
+            {
+                "name": "Re-Elected",
+                "url": "/topics/re-elected"
+            }
+        ]
+    }
+]

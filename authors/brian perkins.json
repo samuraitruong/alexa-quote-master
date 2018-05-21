@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/brian_perkins_195140",
+        "quote": "Would you love a man of a broken shell after the passing of a women's soul?",
+        "author": {
+            "name": "Brian Perkins",
+            "url": "/quotes/brian_perkins_195140"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Broken",
+                "url": "/topics/broken"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brian_perkins_195142",
+        "quote": "This sounds an extraordinary statement to make, but in fact all truth is very ordinary.",
+        "author": {
+            "name": "Brian Perkins",
+            "url": "/quotes/brian_perkins_195142"
+        },
+        "topics": [
+            {
+                "name": "Extraordinary",
+                "url": "/topics/extraordinary"
+            },
+            {
+                "name": "Fact",
+                "url": "/topics/fact"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brian_perkins_195143",
+        "quote": "It is peoples' fantasies of what is true that is so extraordinary. That that we were born and that we face eternal extinction after death is an extraordinary fantasy.",
+        "author": {
+            "name": "Brian Perkins",
+            "url": "/quotes/brian_perkins_195143"
+        },
+        "topics": [
+            {
+                "name": "Death",
+                "url": "/topics/death"
+            },
+            {
+                "name": "Fantasy",
+                "url": "/topics/fantasy"
+            },
+            {
+                "name": "Fantasies",
+                "url": "/topics/fantasies"
+            }
+        ]
+    }
+]

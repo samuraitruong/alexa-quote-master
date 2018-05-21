@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/henry_f_ashurst_135562",
+        "quote": "No man is fit to be a Senator... unless he is willing to surrender his political life for great principle.",
+        "author": {
+            "name": "Henry F. Ashurst",
+            "url": "/quotes/henry_f_ashurst_135562"
+        },
+        "topics": [
+            {
+                "name": "Principle",
+                "url": "/topics/principle"
+            },
+            {
+                "name": "Willing",
+                "url": "/topics/willing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henry_f_ashurst_135563",
+        "quote": "When I have to choose between voting for the people or the special interests, I always stick with the special interests. They remember. The people forget.",
+        "author": {
+            "name": "Henry F. Ashurst",
+            "url": "/quotes/henry_f_ashurst_135563"
+        },
+        "topics": [
+            {
+                "name": "Voting",
+                "url": "/topics/voting"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Choose",
+                "url": "/topics/choose"
+            }
+        ]
+    }
+]

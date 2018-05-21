@@ -1,0 +1,104 @@
+[
+    {
+        "url": "/quotes/richard_jefferson_176822",
+        "quote": "Businessmen... were not born chief executives. They were often people first.",
+        "author": {
+            "name": "Richard Jefferson",
+            "url": "/quotes/richard_jefferson_176822"
+        },
+        "topics": [
+            {
+                "name": "Executives",
+                "url": "/topics/executives"
+            },
+            {
+                "name": "Businessmen",
+                "url": "/topics/businessmen"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/richard_jefferson_394071",
+        "quote": "I try to be as efficient as possible.",
+        "author": {
+            "name": "Richard Jefferson",
+            "url": "/quotes/richard_jefferson_394071"
+        },
+        "topics": [
+            {
+                "name": "Possible",
+                "url": "/topics/possible"
+            },
+            {
+                "name": "Try",
+                "url": "/topics/try"
+            },
+            {
+                "name": "Efficient",
+                "url": "/topics/efficient"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/richard_jefferson_394722",
+        "quote": "I'm insanely optimistic. For odd, weird reasons, things always work out.",
+        "author": {
+            "name": "Richard Jefferson",
+            "url": "/quotes/richard_jefferson_394722"
+        },
+        "topics": [
+            {
+                "name": "Weird",
+                "url": "/topics/weird"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Optimistic",
+                "url": "/topics/optimistic"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/richard_jefferson_649667",
+        "quote": "I want to play for a championship team. I want to win a championship.",
+        "author": {
+            "name": "Richard Jefferson",
+            "url": "/quotes/richard_jefferson_649667"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Championship Team",
+                "url": "/topics/championship_team"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/richard_jefferson_649668",
+        "quote": "If I get an opportunity to play for a championship team, I'm going to go hunting for that. I have no loyalty.",
+        "author": {
+            "name": "Richard Jefferson",
+            "url": "/quotes/richard_jefferson_649668"
+        },
+        "topics": [
+            {
+                "name": "Loyalty",
+                "url": "/topics/loyalty"
+            },
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            }
+        ]
+    }
+]

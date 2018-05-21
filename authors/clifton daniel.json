@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/clifton_daniel_162669",
+        "quote": "Write about society as news and treat it like sociology.",
+        "author": {
+            "name": "Clifton Daniel",
+            "url": "/quotes/clifton_daniel_162669"
+        },
+        "topics": [
+            {
+                "name": "Society",
+                "url": "/topics/society"
+            },
+            {
+                "name": "Treat",
+                "url": "/topics/treat"
+            },
+            {
+                "name": "News",
+                "url": "/topics/news"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/clifton_daniel_396060",
+        "quote": "I would say that President Roosevelt probably was more intimately in touch with the press corps at the White House than President Truman was.",
+        "author": {
+            "name": "Clifton Daniel",
+            "url": "/quotes/clifton_daniel_396060"
+        },
+        "topics": [
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Touch",
+                "url": "/topics/touch"
+            },
+            {
+                "name": "Roosevelt",
+                "url": "/topics/roosevelt"
+            }
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/vine_deloria_jr_121676",
+        "quote": "Western civilization, unfortunately, does not link knowledge and morality but rather, it connects knowledge and power and makes them equivalent.",
+        "author": {
+            "name": "Vine Deloria, Jr.",
+            "url": "/quotes/vine_deloria_jr_121676"
+        },
+        "topics": [
+            {
+                "name": "Civilization",
+                "url": "/topics/civilization"
+            },
+            {
+                "name": "Equivalent",
+                "url": "/topics/equivalent"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/vine_deloria_jr_103977",
+        "quote": "When asked by an anthropologist what the Indians called America before the white man came, an Indian said simply, 'Ours.'",
+        "author": {
+            "name": "Vine Deloria, Jr.",
+            "url": "/quotes/vine_deloria_jr_103977"
+        },
+        "topics": [
+            {
+                "name": "America",
+                "url": "/topics/america"
+            },
+            {
+                "name": "Indians",
+                "url": "/topics/indians"
+            },
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            }
+        ]
+    }
+]

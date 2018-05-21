@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/john_biddle_225000",
+        "quote": "After a long, impartial enquiry of the truth, and after much and earnest calling upon God, to give unto me the spirit and revelation in the knowledge of Him, I find myself obliged, both by the principles of reason and Scripture, to embrace the opinion I now hold forth.",
+        "author": {
+            "name": "John Biddle",
+            "url": "/quotes/john_biddle_225000"
+        },
+        "topics": [
+            {
+                "name": "Reason",
+                "url": "/topics/reason"
+            },
+            {
+                "name": "Obliged",
+                "url": "/topics/obliged"
+            },
+            {
+                "name": "Revelation",
+                "url": "/topics/revelation"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_biddle_225001",
+        "quote": "What shall befall me in the pursuance of this work, I refer to the disposal of Almighty God, whose glory is dearer to me, not only than my liberty, but than my life.",
+        "author": {
+            "name": "John Biddle",
+            "url": "/quotes/john_biddle_225001"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Almighty God",
+                "url": "/topics/almighty_god"
+            }
+        ]
+    }
+]

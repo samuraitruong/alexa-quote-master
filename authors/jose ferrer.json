@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/jose_ferrer_542301",
+        "quote": "I am more important than my problems.",
+        "author": {
+            "name": "Jose Ferrer",
+            "url": "/quotes/jose_ferrer_542301"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Important",
+                "url": "/topics/important"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jose_ferrer_542302",
+        "quote": "The truth is I made a few good movies in the '50s, then went into freefall.",
+        "author": {
+            "name": "Jose Ferrer",
+            "url": "/quotes/jose_ferrer_542302"
+        },
+        "topics": [
+            {
+                "name": "Made",
+                "url": "/topics/made"
+            },
+            {
+                "name": "Good Movies",
+                "url": "/topics/good_movies"
+            },
+            {
+                "name": "Then",
+                "url": "/topics/then"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/william_wirt_172758",
+        "quote": "Seize the moment of excited curiosity on any subject to solve your doubts; for if you let it pass, the desire may never return, and you may remain in ignorance.",
+        "author": {
+            "name": "William Wirt",
+            "url": "/quotes/william_wirt_172758"
+        },
+        "topics": [
+            {
+                "name": "Curiosity",
+                "url": "/topics/curiosity"
+            },
+            {
+                "name": "Desire",
+                "url": "/topics/desire"
+            },
+            {
+                "name": "Doubts",
+                "url": "/topics/doubts"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_wirt_296233",
+        "quote": "He is a great simpleton who imagines that the chief power of wealth is to supply wants. In ninety-nine cases out of a hundred it creates more wants than it supplies.",
+        "author": {
+            "name": "William Wirt",
+            "url": "/quotes/william_wirt_296233"
+        },
+        "topics": [
+            {
+                "name": "Wealth",
+                "url": "/topics/wealth"
+            },
+            {
+                "name": "Hundred",
+                "url": "/topics/hundred"
+            },
+            {
+                "name": "Cases",
+                "url": "/topics/cases"
+            }
+        ]
+    }
+]

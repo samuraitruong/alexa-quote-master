@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/annalise_basso_794872",
+        "quote": "I'm terrified of goats.",
+        "author": {
+            "name": "Annalise Basso",
+            "url": "/quotes/annalise_basso_794872"
+        },
+        "topics": [
+            {
+                "name": "Goats",
+                "url": "/topics/goats"
+            },
+            {
+                "name": "Terrified",
+                "url": "/topics/terrified"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/annalise_basso_794870",
+        "quote": "Generally speaking, I like all music, but Pink Floyd and Muse are my favorite bands.",
+        "author": {
+            "name": "Annalise Basso",
+            "url": "/quotes/annalise_basso_794870"
+        },
+        "topics": [
+            {
+                "name": "Pink",
+                "url": "/topics/pink"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Floyd",
+                "url": "/topics/floyd"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/annalise_basso_794871",
+        "quote": "I try to play 'Maneater' by Daryl Hall and John Oates at least once when I drive somewhere. It gets me so 'hype,' as the kids would say.",
+        "author": {
+            "name": "Annalise Basso",
+            "url": "/quotes/annalise_basso_794871"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Hall",
+                "url": "/topics/hall"
+            },
+            {
+                "name": "Least",
+                "url": "/topics/least"
+            }
+        ]
+    }
+]

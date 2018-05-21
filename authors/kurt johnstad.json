@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/kurt_johnstad_860330",
+        "quote": "It's how I've lived my life. You show up, work hard, and be humble.",
+        "author": {
+            "name": "Kurt Johnstad",
+            "url": "/quotes/kurt_johnstad_860330"
+        },
+        "topics": [
+            {
+                "name": "Humble",
+                "url": "/topics/humble"
+            },
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Be Humble",
+                "url": "/topics/be_humble"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kurt_johnstad_860329",
+        "quote": "Save for a few people in my life, every close male relationship that I have, they're all warriors, whether they're SEALs, competitive martial artists, or professional mountain climbers. They have a certain code.",
+        "author": {
+            "name": "Kurt Johnstad",
+            "url": "/quotes/kurt_johnstad_860329"
+        },
+        "topics": [
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Save",
+                "url": "/topics/save"
+            },
+            {
+                "name": "Code",
+                "url": "/topics/code"
+            }
+        ]
+    }
+]

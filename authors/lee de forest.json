@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/lee_de_forest_333236",
+        "quote": "Short waves will be generally used in the kitchen for roasting and baking, almost instantaneously.",
+        "author": {
+            "name": "Lee De Forest",
+            "url": "/quotes/lee_de_forest_333236"
+        },
+        "topics": [
+            {
+                "name": "Waves",
+                "url": "/topics/waves"
+            },
+            {
+                "name": "Baking",
+                "url": "/topics/baking"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lee_de_forest_333238",
+        "quote": "To place a man in a multi-stage rocket and project him into the controlling gravitational field of the moon where the passengers can make scientific observations, perhaps land alive, and then return to earth - all that constitutes a wild dream worthy of Jules Verne.",
+        "author": {
+            "name": "Lee De Forest",
+            "url": "/quotes/lee_de_forest_333238"
+        },
+        "topics": [
+            {
+                "name": "Alive",
+                "url": "/topics/alive"
+            },
+            {
+                "name": "Rocket",
+                "url": "/topics/rocket"
+            },
+            {
+                "name": "Scientific",
+                "url": "/topics/scientific"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lee_de_forest_333237",
+        "quote": "While theoretically and technically television may be feasible, commercially and financially it is an impossibility.",
+        "author": {
+            "name": "Lee De Forest",
+            "url": "/quotes/lee_de_forest_333237"
+        },
+        "topics": [
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Commercially",
+                "url": "/topics/commercially"
+            }
+        ]
+    }
+]

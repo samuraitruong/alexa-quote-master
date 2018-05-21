@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/luigi_barzini_161317",
+        "quote": "They eat the dainty food of famous chefs with the same pleasure with which they devour gross peasant dishes, mostly composed of garlic and tomatoes, or fisherman's octopus and shrimps, fried in heavily scented olive oil on a little deserted beach.",
+        "author": {
+            "name": "Luigi Barzini",
+            "url": "/quotes/luigi_barzini_161317"
+        },
+        "topics": [
+            {
+                "name": "Octopus",
+                "url": "/topics/octopus"
+            },
+            {
+                "name": "Peasant",
+                "url": "/topics/peasant"
+            },
+            {
+                "name": "Mostly",
+                "url": "/topics/mostly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/luigi_barzini_100983",
+        "quote": "Public and private food in America has become eatable, here and there extremely good. Only the fried potatoes go unchanged, as deadly as before.",
+        "author": {
+            "name": "Luigi Barzini",
+            "url": "/quotes/luigi_barzini_100983"
+        },
+        "topics": [
+            {
+                "name": "Potatoes",
+                "url": "/topics/potatoes"
+            },
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            },
+            {
+                "name": "Private",
+                "url": "/topics/private"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/luigi_barzini_395800",
+        "quote": "To put up a show is to face life's injustices with one of the few weapons available to a desperate and brave people, their imagination.",
+        "author": {
+            "name": "Luigi Barzini",
+            "url": "/quotes/luigi_barzini_395800"
+        },
+        "topics": [
+            {
+                "name": "Desperate",
+                "url": "/topics/desperate"
+            },
+            {
+                "name": "Show",
+                "url": "/topics/show"
+            },
+            {
+                "name": "Available",
+                "url": "/topics/available"
+            }
+        ]
+    }
+]

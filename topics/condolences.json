@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/valentina_tereshkova_734067?src=t_condolences",
+        "quote": "I am deeply grieved by the loss of the crew of Columbia. I express my sincere condolences to the families and friends of the astronauts. I believe that their names will remain as the bright sparkling stars in the universe and will light the way for those who will follow them on the difficult roads of space exploration.",
+        "author": {
+            "name": "Valentina Tereshkova",
+            "url": "/authors/valentina_tereshkova"
+        },
+        "topics": [
+            {
+                "name": "History",
+                "url": "/topics/history"
+            },
+            {
+                "name": "Bright",
+                "url": "/topics/bright"
+            },
+            {
+                "name": "Astronauts",
+                "url": "/topics/astronauts"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/muammar_algaddafi_178775?src=t_condolences",
+        "quote": "We have been terrorised by what happened in America and we express our condolences to the American people who suffered from this unexpected catastrophe and a new world war.",
+        "author": {
+            "name": "Muammar al-Gaddafi",
+            "url": "/authors/muammar_algaddafi"
+        },
+        "topics": [
+            {
+                "name": "Unexpected",
+                "url": "/topics/unexpected"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/helen_clark_405994?src=t_condolences",
+        "quote": "We just sent our condolences to the President of the United States and the American people on what is a terrible, terrible tragedy.",
+        "author": {
+            "name": "Helen Clark",
+            "url": "/authors/helen_clark"
+        },
+        "topics": [
+            {
+                "name": "United States",
+                "url": "/topics/united_states"
+            },
+            {
+                "name": "United",
+                "url": "/topics/united"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jacques_chirac_192923?src=t_condolences",
+        "quote": "These irresponsible acts, which cannot have any justification whatsoever, are to be fully condemned. In these appalling circumstances, I want to offer you the most sincere condolences, both in my name and in that of the French people.",
+        "author": {
+            "name": "Jacques Chirac",
+            "url": "/authors/jacques_chirac"
+        },
+        "topics": [
+            {
+                "name": "Offer",
+                "url": "/topics/offer"
+            },
+            {
+                "name": "French People",
+                "url": "/topics/french_people"
+            },
+            {
+                "name": "Acts",
+                "url": "/topics/acts"
+            }
+        ]
+    }
+]

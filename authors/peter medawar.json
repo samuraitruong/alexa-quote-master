@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/peter_medawar_107870",
+        "quote": "Today the world changes so quickly that in growing up we take leave not just of youth but of the world we were young in.",
+        "author": {
+            "name": "Peter Medawar",
+            "url": "/quotes/peter_medawar_107870"
+        },
+        "topics": [
+            {
+                "name": "Society",
+                "url": "/topics/society"
+            },
+            {
+                "name": "Young",
+                "url": "/topics/young"
+            },
+            {
+                "name": "Quickly",
+                "url": "/topics/quickly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/peter_medawar_120961",
+        "quote": "I cannot give any scientist of any age better advice than this: the intensity of a conviction that a hypothesis is true has no bearing over whether it is true or not.",
+        "author": {
+            "name": "Peter Medawar",
+            "url": "/quotes/peter_medawar_120961"
+        },
+        "topics": [
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            },
+            {
+                "name": "Scientist",
+                "url": "/topics/scientist"
+            }
+        ]
+    }
+]

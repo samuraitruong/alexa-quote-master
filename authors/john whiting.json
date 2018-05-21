@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/john_whiting_404813",
+        "quote": "PAYE means pay as you earn but it could also mean Pretty Accurate Yet Estimated.",
+        "author": {
+            "name": "John Whiting",
+            "url": "/quotes/john_whiting_404813"
+        },
+        "topics": [
+            {
+                "name": "Pretty",
+                "url": "/topics/pretty"
+            },
+            {
+                "name": "Means",
+                "url": "/topics/means"
+            },
+            {
+                "name": "Accurate",
+                "url": "/topics/accurate"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_whiting_405244",
+        "quote": "Unmarried couples should get married - that's an excellent tax avoidance measure, if a bit drastic.",
+        "author": {
+            "name": "John Whiting",
+            "url": "/quotes/john_whiting_405244"
+        },
+        "topics": [
+            {
+                "name": "Tax",
+                "url": "/topics/tax"
+            },
+            {
+                "name": "Excellent",
+                "url": "/topics/excellent"
+            },
+            {
+                "name": "Unmarried",
+                "url": "/topics/unmarried"
+            }
+        ]
+    }
+]

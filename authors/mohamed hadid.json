@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/mohamed_hadid_808901",
+        "quote": "I create homes that feel like a home - it could be a palace or a mansion - but each one has a comfortable feeling.",
+        "author": {
+            "name": "Mohamed Hadid",
+            "url": "/quotes/mohamed_hadid_808901"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Palace",
+                "url": "/topics/palace"
+            },
+            {
+                "name": "Each One",
+                "url": "/topics/each_one"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mohamed_hadid_808900",
+        "quote": "I don't follow trends, so I make my own.",
+        "author": {
+            "name": "Mohamed Hadid",
+            "url": "/quotes/mohamed_hadid_808900"
+        },
+        "topics": [
+            {
+                "name": "My Own",
+                "url": "/topics/my_own"
+            },
+            {
+                "name": "Follow",
+                "url": "/topics/follow"
+            },
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mohamed_hadid_808902",
+        "quote": "Many people have beautiful homes and beautiful things, but other people haven't ever seen them. So why have them?",
+        "author": {
+            "name": "Mohamed Hadid",
+            "url": "/quotes/mohamed_hadid_808902"
+        },
+        "topics": [
+            {
+                "name": "Beautiful Things",
+                "url": "/topics/beautiful_things"
+            },
+            {
+                "name": "Why",
+                "url": "/topics/why"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/john_vanbrugh_145349",
+        "quote": "A slighted woman knows no bounds.",
+        "author": {
+            "name": "John Vanbrugh",
+            "url": "/quotes/john_vanbrugh_145349"
+        },
+        "topics": [
+            {
+                "name": "Woman",
+                "url": "/topics/woman"
+            },
+            {
+                "name": "Slighted",
+                "url": "/topics/slighted"
+            },
+            {
+                "name": "Bounds",
+                "url": "/topics/bounds"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_vanbrugh_108227",
+        "quote": "Once a woman has given you her heart, you can never get rid of the rest of her.",
+        "author": {
+            "name": "John Vanbrugh",
+            "url": "/quotes/john_vanbrugh_108227"
+        },
+        "topics": [
+            {
+                "name": "Rest",
+                "url": "/topics/rest"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Given",
+                "url": "/topics/given"
+            }
+        ]
+    }
+]

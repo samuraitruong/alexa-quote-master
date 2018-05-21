@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/georges_carpentier_404128",
+        "quote": "Attack is only one half of the art of boxing.",
+        "author": {
+            "name": "Georges Carpentier",
+            "url": "/quotes/georges_carpentier_404128"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Half",
+                "url": "/topics/half"
+            },
+            {
+                "name": "Attack",
+                "url": "/topics/attack"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/georges_carpentier_404071",
+        "quote": "Life is very interesting if you make mistakes.",
+        "author": {
+            "name": "Georges Carpentier",
+            "url": "/quotes/georges_carpentier_404071"
+        },
+        "topics": [
+            {
+                "name": "Mistakes",
+                "url": "/topics/mistakes"
+            },
+            {
+                "name": "Interesting",
+                "url": "/topics/interesting"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    }
+]

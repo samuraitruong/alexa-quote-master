@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/hank_ketcham_177119",
+        "quote": "Flattery is like chewing gum. Enjoy it but don't swallow it.",
+        "author": {
+            "name": "Hank Ketcham",
+            "url": "/quotes/hank_ketcham_177119"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Chewing Gum",
+                "url": "/topics/chewing_gum"
+            },
+            {
+                "name": "Swallow",
+                "url": "/topics/swallow"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/hank_ketcham_115009",
+        "quote": "No more turkey, but I'd like some more of the bread it ate.",
+        "author": {
+            "name": "Hank Ketcham",
+            "url": "/quotes/hank_ketcham_115009"
+        },
+        "topics": [
+            {
+                "name": "Bread",
+                "url": "/topics/bread"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Ate",
+                "url": "/topics/ate"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/hank_ketcham_400648",
+        "quote": "Anyone in the humor business isn't thinking clearly if he doesn't surround himself with idea people. Otherwise, you settle for mediocrity - or you burn yourself out.",
+        "author": {
+            "name": "Hank Ketcham",
+            "url": "/quotes/hank_ketcham_400648"
+        },
+        "topics": [
+            {
+                "name": "Business",
+                "url": "/topics/business"
+            },
+            {
+                "name": "Burn",
+                "url": "/topics/burn"
+            },
+            {
+                "name": "Otherwise",
+                "url": "/topics/otherwise"
+            }
+        ]
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/wendy_carlos_179865",
+        "quote": "As human beings we do change, grow, adapt, perhaps even learn and become wiser.",
+        "author": {
+            "name": "Wendy Carlos",
+            "url": "/quotes/wendy_carlos_179865"
+        },
+        "topics": [
+            {
+                "name": "Grow",
+                "url": "/topics/grow"
+            },
+            {
+                "name": "Wiser",
+                "url": "/topics/wiser"
+            },
+            {
+                "name": "Perhaps",
+                "url": "/topics/perhaps"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/wendy_carlos_179864",
+        "quote": "A nice blend of prediction and surprise seem to be at the heart of the best art.",
+        "author": {
+            "name": "Wendy Carlos",
+            "url": "/quotes/wendy_carlos_179864"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Surprise",
+                "url": "/topics/surprise"
+            },
+            {
+                "name": "Blend",
+                "url": "/topics/blend"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/wendy_carlos_179866",
+        "quote": "Composition has almost always been solitary.",
+        "author": {
+            "name": "Wendy Carlos",
+            "url": "/quotes/wendy_carlos_179866"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Composition",
+                "url": "/topics/composition"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/wendy_carlos_179868",
+        "quote": "I'm really a very weak musicologist. Wish it weren't so, but there's only so much you can dig deeply into in one lifetime, as if you hadn't noticed.",
+        "author": {
+            "name": "Wendy Carlos",
+            "url": "/quotes/wendy_carlos_179868"
+        },
+        "topics": [
+            {
+                "name": "Dig",
+                "url": "/topics/dig"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Noticed",
+                "url": "/topics/noticed"
+            }
+        ]
+    }
+]

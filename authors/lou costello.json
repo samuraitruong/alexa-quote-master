@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/lou_costello_197971",
+        "quote": "That was the best ice cream soda I ever tasted.",
+        "author": {
+            "name": "Lou Costello",
+            "url": "/quotes/lou_costello_197971"
+        },
+        "topics": [
+            {
+                "name": "Best",
+                "url": "/topics/best"
+            },
+            {
+                "name": "Ever",
+                "url": "/topics/ever"
+            },
+            {
+                "name": "Tasted",
+                "url": "/topics/tasted"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lou_costello_270924",
+        "quote": "A husband is what's left of a sweetheart after the nerve has been killed.",
+        "author": {
+            "name": "Lou Costello",
+            "url": "/quotes/lou_costello_270924"
+        },
+        "topics": [
+            {
+                "name": "Left",
+                "url": "/topics/left"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Sweetheart",
+                "url": "/topics/sweetheart"
+            }
+        ]
+    }
+]

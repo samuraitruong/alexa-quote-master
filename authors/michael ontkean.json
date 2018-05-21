@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/michael_ontkean_694025",
+        "quote": "We all go through times when we need help.",
+        "author": {
+            "name": "Michael Ontkean",
+            "url": "/quotes/michael_ontkean_694025"
+        },
+        "topics": [
+            {
+                "name": "Help",
+                "url": "/topics/help"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Times",
+                "url": "/topics/times"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/michael_ontkean_694026",
+        "quote": "I just stepped off the show biz bus and changed gears.",
+        "author": {
+            "name": "Michael Ontkean",
+            "url": "/quotes/michael_ontkean_694026"
+        },
+        "topics": [
+            {
+                "name": "Bus",
+                "url": "/topics/bus"
+            },
+            {
+                "name": "Show",
+                "url": "/topics/show"
+            },
+            {
+                "name": "Stepped",
+                "url": "/topics/stepped"
+            }
+        ]
+    }
+]

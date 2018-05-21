@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/john_wilkins_187369",
+        "quote": "Garner up pleasant thoughts in your mind, for pleasant thoughts make pleasant lives.",
+        "author": {
+            "name": "John Wilkins",
+            "url": "/quotes/john_wilkins_187369"
+        },
+        "topics": [
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Thoughts",
+                "url": "/topics/thoughts"
+            },
+            {
+                "name": "Lives",
+                "url": "/topics/lives"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_wilkins_187570",
+        "quote": "It is an excellent rule to be observed in all disputes, that men should give soft words and hard arguments; that they should not so much strive to vex as to convince each other.",
+        "author": {
+            "name": "John Wilkins",
+            "url": "/quotes/john_wilkins_187570"
+        },
+        "topics": [
+            {
+                "name": "Excellent",
+                "url": "/topics/excellent"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    }
+]

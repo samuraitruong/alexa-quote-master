@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/maurice_herzog_525105",
+        "quote": "There are other Annapurnas in the lives of men.",
+        "author": {
+            "name": "Maurice Herzog",
+            "url": "/quotes/maurice_herzog_525105"
+        },
+        "topics": [
+            {
+                "name": "Men",
+                "url": "/topics/men"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Lives",
+                "url": "/topics/lives"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/maurice_herzog_525106",
+        "quote": "'Annapurna' is a sort of novel. It's a novel, but a true novel.",
+        "author": {
+            "name": "Maurice Herzog",
+            "url": "/quotes/maurice_herzog_525106"
+        },
+        "topics": [
+            {
+                "name": "True",
+                "url": "/topics/true"
+            },
+            {
+                "name": "Novel",
+                "url": "/topics/novel"
+            },
+            {
+                "name": "Sort",
+                "url": "/topics/sort"
+            }
+        ]
+    }
+]

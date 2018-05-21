@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/judith_moore_209823",
+        "quote": "I hate myself because I am not beautiful.",
+        "author": {
+            "name": "Judith Moore",
+            "url": "/quotes/judith_moore_209823"
+        },
+        "topics": [
+            {
+                "name": "Beautiful",
+                "url": "/topics/beautiful"
+            },
+            {
+                "name": "Myself",
+                "url": "/topics/myself"
+            },
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/judith_moore_209825",
+        "quote": "Among the reasons people keep sad stories to themselves is that they do not want anyone to feel sorry for them. I don't. I don't want you to feel sorry for me.",
+        "author": {
+            "name": "Judith Moore",
+            "url": "/quotes/judith_moore_209825"
+        },
+        "topics": [
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Reasons",
+                "url": "/topics/reasons"
+            },
+            {
+                "name": "Stories",
+                "url": "/topics/stories"
+            }
+        ]
+    }
+]

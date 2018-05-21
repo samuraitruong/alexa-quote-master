@@ -1,0 +1,108 @@
+[
+    {
+        "url": "/quotes/boozoo_chavis_397581",
+        "quote": "I'm not trying to be something I ain't. That's right. I'm me.",
+        "author": {
+            "name": "Boozoo Chavis",
+            "url": "/quotes/boozoo_chavis_397581"
+        },
+        "topics": [
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Trying",
+                "url": "/topics/trying"
+            },
+            {
+                "name": "Right",
+                "url": "/topics/right"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/boozoo_chavis_397632",
+        "quote": "Don't tell me to watch the beat. You watch me.",
+        "author": {
+            "name": "Boozoo Chavis",
+            "url": "/quotes/boozoo_chavis_397632"
+        },
+        "topics": [
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Tell",
+                "url": "/topics/tell"
+            },
+            {
+                "name": "Watch",
+                "url": "/topics/watch"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/boozoo_chavis_397857",
+        "quote": "Nothing from nothing leaves nothing.",
+        "author": {
+            "name": "Boozoo Chavis",
+            "url": "/quotes/boozoo_chavis_397857"
+        },
+        "topics": [
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            },
+            {
+                "name": "Leaves",
+                "url": "/topics/leaves"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/boozoo_chavis_398659",
+        "quote": "I'm Creole, and I'm down to earth.",
+        "author": {
+            "name": "Boozoo Chavis",
+            "url": "/quotes/boozoo_chavis_398659"
+        },
+        "topics": [
+            {
+                "name": "Earth",
+                "url": "/topics/earth"
+            },
+            {
+                "name": "Down",
+                "url": "/topics/down"
+            },
+            {
+                "name": "Creole",
+                "url": "/topics/creole"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/boozoo_chavis_399039",
+        "quote": "I keep up the tradition, the zydeco.",
+        "author": {
+            "name": "Boozoo Chavis",
+            "url": "/quotes/boozoo_chavis_399039"
+        },
+        "topics": [
+            {
+                "name": "Tradition",
+                "url": "/topics/tradition"
+            },
+            {
+                "name": "Keep",
+                "url": "/topics/keep"
+            },
+            {
+                "name": "Up",
+                "url": "/topics/up"
+            }
+        ]
+    }
+]

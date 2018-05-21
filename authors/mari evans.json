@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/mari_evans_170172",
+        "quote": "To identify the enemy is to free the mind.",
+        "author": {
+            "name": "Mari Evans",
+            "url": "/quotes/mari_evans_170172"
+        },
+        "topics": [
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Enemy",
+                "url": "/topics/enemy"
+            },
+            {
+                "name": "Identify",
+                "url": "/topics/identify"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mari_evans_271838",
+        "quote": "I try for a poetic language that says, This is who we are, where we have been, where we are. This is where we must go. And this is what we must do.",
+        "author": {
+            "name": "Mari Evans",
+            "url": "/quotes/mari_evans_271838"
+        },
+        "topics": [
+            {
+                "name": "Go",
+                "url": "/topics/go"
+            },
+            {
+                "name": "Poetic",
+                "url": "/topics/poetic"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    }
+]

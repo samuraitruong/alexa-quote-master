@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/noah_graycabey_572128",
+        "quote": "My friends love to tease me about the fact that I won't be able to drive until I'm a sophomore in college.",
+        "author": {
+            "name": "Noah Gray-Cabey",
+            "url": "/quotes/noah_graycabey_572128"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "College",
+                "url": "/topics/college"
+            },
+            {
+                "name": "Fact",
+                "url": "/topics/fact"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/noah_graycabey_572129",
+        "quote": "My dad actually taught me how to play piano. I was classically trained, but I've started to branch off a little bit into blues and jazz. That's my new thing.",
+        "author": {
+            "name": "Noah Gray-Cabey",
+            "url": "/quotes/noah_graycabey_572129"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Trained",
+                "url": "/topics/trained"
+            },
+            {
+                "name": "Dad",
+                "url": "/topics/dad"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/noah_graycabey_572130",
+        "quote": "I am a big lover of the environment. I actually come from Maine, which is pretty much all environment.",
+        "author": {
+            "name": "Noah Gray-Cabey",
+            "url": "/quotes/noah_graycabey_572130"
+        },
+        "topics": [
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Maine",
+                "url": "/topics/maine"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/noah_graycabey_572131",
+        "quote": "I went through a period of time when math was my favorite subject. Then math wasn't as fun so much.",
+        "author": {
+            "name": "Noah Gray-Cabey",
+            "url": "/quotes/noah_graycabey_572131"
+        },
+        "topics": [
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Subject",
+                "url": "/topics/subject"
+            },
+            {
+                "name": "Period",
+                "url": "/topics/period"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/noah_graycabey_572132",
+        "quote": "I actually don't want to be an actor for the rest of my life. I'd like to go on to be a lawyer or a doctor, and I definitely would like to get into politics.",
+        "author": {
+            "name": "Noah Gray-Cabey",
+            "url": "/quotes/noah_graycabey_572132"
+        },
+        "topics": [
+            {
+                "name": "Politics",
+                "url": "/topics/politics"
+            },
+            {
+                "name": "Rest",
+                "url": "/topics/rest"
+            },
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            }
+        ]
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/fritz_haber_675013",
+        "quote": "Under natural conditions, the soil does not lose its fixed nitrogen.",
+        "author": {
+            "name": "Fritz Haber",
+            "url": "/quotes/fritz_haber_675013"
+        },
+        "topics": [
+            {
+                "name": "Natural",
+                "url": "/topics/natural"
+            },
+            {
+                "name": "Does",
+                "url": "/topics/does"
+            },
+            {
+                "name": "Nitrogen",
+                "url": "/topics/nitrogen"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/fritz_haber_675011",
+        "quote": "The Swedish Academy of Sciences has seen fit, by awarding the Nobel Prize, to honour the method of producing ammonia from nitrogen and hydrogen.",
+        "author": {
+            "name": "Fritz Haber",
+            "url": "/quotes/fritz_haber_675011"
+        },
+        "topics": [
+            {
+                "name": "Honour",
+                "url": "/topics/honour"
+            },
+            {
+                "name": "Swedish",
+                "url": "/topics/swedish"
+            },
+            {
+                "name": "Method",
+                "url": "/topics/method"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/fritz_haber_675012",
+        "quote": "Gaseous nitrogen combines with gaseous hydrogen in simple quantitative proportions to produce gaseous ammonia.",
+        "author": {
+            "name": "Fritz Haber",
+            "url": "/quotes/fritz_haber_675012"
+        },
+        "topics": [
+            {
+                "name": "Quantitative",
+                "url": "/topics/quantitative"
+            },
+            {
+                "name": "Nitrogen",
+                "url": "/topics/nitrogen"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/fritz_haber_675014",
+        "quote": "Agricultural husbandry essentially maintains the balance of bound nitrogen.",
+        "author": {
+            "name": "Fritz Haber",
+            "url": "/quotes/fritz_haber_675014"
+        },
+        "topics": [
+            {
+                "name": "Balance",
+                "url": "/topics/balance"
+            },
+            {
+                "name": "Agricultural",
+                "url": "/topics/agricultural"
+            },
+            {
+                "name": "Bound",
+                "url": "/topics/bound"
+            }
+        ]
+    }
+]

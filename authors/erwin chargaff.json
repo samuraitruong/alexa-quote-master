@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/erwin_chargaff_111216",
+        "quote": "Science is wonderfully equipped to answer the question 'How?' but it gets terribly confused when you ask the question 'Why?'",
+        "author": {
+            "name": "Erwin Chargaff",
+            "url": "/quotes/erwin_chargaff_111216"
+        },
+        "topics": [
+            {
+                "name": "Science",
+                "url": "/topics/science"
+            },
+            {
+                "name": "Question",
+                "url": "/topics/question"
+            },
+            {
+                "name": "Equipped",
+                "url": "/topics/equipped"
+            }
+        ]
+    }
+]

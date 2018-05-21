@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/fritz_weaver_221350",
+        "quote": "She had in mind a different kind of looking person, because his appearance is not at all like mine.",
+        "author": {
+            "name": "Fritz Weaver",
+            "url": "/quotes/fritz_weaver_221350"
+        },
+        "topics": [
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Mine",
+                "url": "/topics/mine"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/fritz_weaver_221352",
+        "quote": "The performance of a lifetime is the perfect thing to be doing at this age because I can use the age.",
+        "author": {
+            "name": "Fritz Weaver",
+            "url": "/quotes/fritz_weaver_221352"
+        },
+        "topics": [
+            {
+                "name": "Performance",
+                "url": "/topics/performance"
+            },
+            {
+                "name": "Perfect",
+                "url": "/topics/perfect"
+            },
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            }
+        ]
+    }
+]

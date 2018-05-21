@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/allen_neuharth_161623",
+        "quote": "I quit being afraid when my first venture failed and the sky didn't fall down.",
+        "author": {
+            "name": "Allen Neuharth",
+            "url": "/quotes/allen_neuharth_161623"
+        },
+        "topics": [
+            {
+                "name": "Sky",
+                "url": "/topics/sky"
+            },
+            {
+                "name": "Failed",
+                "url": "/topics/failed"
+            },
+            {
+                "name": "Being",
+                "url": "/topics/being"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/allen_neuharth_173514",
+        "quote": "Everyone should fail in a big way at least once before reaching forty.",
+        "author": {
+            "name": "Allen Neuharth",
+            "url": "/quotes/allen_neuharth_173514"
+        },
+        "topics": [
+            {
+                "name": "Fail",
+                "url": "/topics/fail"
+            },
+            {
+                "name": "Everyone",
+                "url": "/topics/everyone"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            }
+        ]
+    }
+]

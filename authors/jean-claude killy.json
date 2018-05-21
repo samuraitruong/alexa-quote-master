@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/jeanclaude_killy_131376",
+        "quote": "The best and fastest way to learn a sport is to watch and imitate a champion.",
+        "author": {
+            "name": "Jean-Claude Killy",
+            "url": "/quotes/jeanclaude_killy_131376"
+        },
+        "topics": [
+            {
+                "name": "Learn",
+                "url": "/topics/learn"
+            },
+            {
+                "name": "Watch",
+                "url": "/topics/watch"
+            },
+            {
+                "name": "Fastest",
+                "url": "/topics/fastest"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jeanclaude_killy_177945",
+        "quote": "To win you have to risk loss.",
+        "author": {
+            "name": "Jean-Claude Killy",
+            "url": "/quotes/jeanclaude_killy_177945"
+        },
+        "topics": [
+            {
+                "name": "Loss",
+                "url": "/topics/loss"
+            },
+            {
+                "name": "Win",
+                "url": "/topics/win"
+            },
+            {
+                "name": "Risk",
+                "url": "/topics/risk"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jeanclaude_killy_177946",
+        "quote": "Winning tastes good.",
+        "author": {
+            "name": "Jean-Claude Killy",
+            "url": "/quotes/jeanclaude_killy_177946"
+        },
+        "topics": [
+            {
+                "name": "Good",
+                "url": "/topics/good"
+            },
+            {
+                "name": "Winning",
+                "url": "/topics/winning"
+            },
+            {
+                "name": "Tastes",
+                "url": "/topics/tastes"
+            }
+        ]
+    }
+]

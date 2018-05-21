@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/ippy_aiona_542842",
+        "quote": "Growing up, I was always in the kitchen. Even in third grade, I made cooking videos called 'The Little Italian.' Very little production value, but it was good.",
+        "author": {
+            "name": "Ippy Aiona",
+            "url": "/quotes/ippy_aiona_542842"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Production",
+                "url": "/topics/production"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ippy_aiona_542843",
+        "quote": "I may look like a laid-back Hawaiian, but I'm 240 pounds, and when I'm walking around that kitchen, you don't want to get in my way.",
+        "author": {
+            "name": "Ippy Aiona",
+            "url": "/quotes/ippy_aiona_542843"
+        },
+        "topics": [
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    }
+]

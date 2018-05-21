@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/marco_polo_185084",
+        "quote": "I have not told half of what I saw.",
+        "author": {
+            "name": "Marco Polo",
+            "url": "/quotes/marco_polo_185084"
+        },
+        "topics": [
+            {
+                "name": "Half",
+                "url": "/topics/half"
+            },
+            {
+                "name": "Saw",
+                "url": "/topics/saw"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marco_polo_185082",
+        "quote": "Without stones there is no arch.",
+        "author": {
+            "name": "Marco Polo",
+            "url": "/quotes/marco_polo_185082"
+        },
+        "topics": [
+            {
+                "name": "Stones",
+                "url": "/topics/stones"
+            },
+            {
+                "name": "Arch",
+                "url": "/topics/arch"
+            },
+            {
+                "name": "Without",
+                "url": "/topics/without"
+            }
+        ]
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/cher_wang_645204",
+        "quote": "I always have this imagination, something I want to use. I don't understand the idea of leisure time.",
+        "author": {
+            "name": "Cher Wang",
+            "url": "/quotes/cher_wang_645204"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            },
+            {
+                "name": "Leisure Time",
+                "url": "/topics/leisure_time"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/cher_wang_645205",
+        "quote": "Within HTC, hundreds of ideas are tested and discarded to find those rare ideas that define the HTC user experience.",
+        "author": {
+            "name": "Cher Wang",
+            "url": "/quotes/cher_wang_645205"
+        },
+        "topics": [
+            {
+                "name": "Within",
+                "url": "/topics/within"
+            },
+            {
+                "name": "Discarded",
+                "url": "/topics/discarded"
+            },
+            {
+                "name": "Tested",
+                "url": "/topics/tested"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/cher_wang_645206",
+        "quote": "Since the beginning, HTC has focused on developing strong research and development capabilities and keeping a close eye on consumer, market and technology trends.",
+        "author": {
+            "name": "Cher Wang",
+            "url": "/quotes/cher_wang_645206"
+        },
+        "topics": [
+            {
+                "name": "Strong",
+                "url": "/topics/strong"
+            },
+            {
+                "name": "Development",
+                "url": "/topics/development"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/cher_wang_645207",
+        "quote": "There is usually an 'X factor' that is hard to define. For HTC, I think it is our culture. We embrace the best of our Eastern roots and combine it with the best of the Western cultures where we have leadership and offices. It makes the culture colorful as well as energetic and creative.",
+        "author": {
+            "name": "Cher Wang",
+            "url": "/quotes/cher_wang_645207"
+        },
+        "topics": [
+            {
+                "name": "Best",
+                "url": "/topics/best"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Offices",
+                "url": "/topics/offices"
+            }
+        ]
+    }
+]

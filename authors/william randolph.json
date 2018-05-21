@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/william_randolph_172392",
+        "quote": "The greatest right in the world is the right to be wrong.",
+        "author": {
+            "name": "William Randolph",
+            "url": "/quotes/william_randolph_172392"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Greatest",
+                "url": "/topics/greatest"
+            },
+            {
+                "name": "Right",
+                "url": "/topics/right"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_randolph_183367",
+        "quote": "A politician will do anything to keep his job - even become a patriot.",
+        "author": {
+            "name": "William Randolph",
+            "url": "/quotes/william_randolph_183367"
+        },
+        "topics": [
+            {
+                "name": "Politics",
+                "url": "/topics/politics"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_randolph_183368",
+        "quote": "Truth is not only stranger than fiction, it is more interesting.",
+        "author": {
+            "name": "William Randolph",
+            "url": "/quotes/william_randolph_183368"
+        },
+        "topics": [
+            {
+                "name": "Truth",
+                "url": "/topics/truth"
+            },
+            {
+                "name": "Fiction",
+                "url": "/topics/fiction"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            }
+        ]
+    }
+]

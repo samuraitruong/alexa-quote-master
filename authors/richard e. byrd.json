@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/richard_e_byrd_122079",
+        "quote": "Few men during their lifetime comes anywhere near exhausting the resources dwelling within them. There are deep wells of strength that are never used.",
+        "author": {
+            "name": "Richard E. Byrd",
+            "url": "/quotes/richard_e_byrd_122079"
+        },
+        "topics": [
+            {
+                "name": "Strength",
+                "url": "/topics/strength"
+            },
+            {
+                "name": "Deep",
+                "url": "/topics/deep"
+            },
+            {
+                "name": "Few Men",
+                "url": "/topics/few_men"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/richard_e_byrd_111027",
+        "quote": "A static hero is a public liability. Progress grows out of motion.",
+        "author": {
+            "name": "Richard E. Byrd",
+            "url": "/quotes/richard_e_byrd_111027"
+        },
+        "topics": [
+            {
+                "name": "Static",
+                "url": "/topics/static"
+            },
+            {
+                "name": "Public",
+                "url": "/topics/public"
+            },
+            {
+                "name": "Grows",
+                "url": "/topics/grows"
+            }
+        ]
+    }
+]

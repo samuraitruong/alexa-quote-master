@@ -1,0 +1,60 @@
+[
+    {
+        "url": "/quotes/gelila_bekele_531947",
+        "quote": "I'm learning simplicity and how to wear my body. I'm enjoying life and trying to be the best me.",
+        "author": {
+            "name": "Gelila Bekele",
+            "url": "/quotes/gelila_bekele_531947"
+        },
+        "topics": [
+            {
+                "name": "Wear",
+                "url": "/topics/wear"
+            },
+            {
+                "name": "Enjoying Life",
+                "url": "/topics/enjoying_life"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gelila_bekele_531948",
+        "quote": "Modeling is not something you excel because you are clever but is based on physical appearance, but then you have to be a businesswoman, like, to keep your longevity.",
+        "author": {
+            "name": "Gelila Bekele",
+            "url": "/quotes/gelila_bekele_531948"
+        },
+        "topics": [
+            {
+                "name": "Modeling",
+                "url": "/topics/modeling"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Based",
+                "url": "/topics/based"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gelila_bekele_531946",
+        "quote": "Life is a perspective and for me, if a human being has access to school, clean water, food, proper health care, that is the basis of human rights.",
+        "author": {
+            "name": "Gelila Bekele",
+            "url": "/quotes/gelila_bekele_531946"
+        },
+        "topics": [
+            {
+                "name": "Human Being",
+                "url": "/topics/human_being"
+            },
+            {
+                "name": "Clean Water",
+                "url": "/topics/clean_water"
+            }
+        ]
+    }
+]

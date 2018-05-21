@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/ann_miller_183251",
+        "quote": "Honestly, I have had to live like a high priestess in this show. It is a very, very lonely life. When you work the way I work - that means hard - there's no time for play.",
+        "author": {
+            "name": "Ann Miller",
+            "url": "/quotes/ann_miller_183251"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Means",
+                "url": "/topics/means"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ann_miller_183249",
+        "quote": "I never played politics, I was never a party girl, and I never slept with any of the producers.",
+        "author": {
+            "name": "Ann Miller",
+            "url": "/quotes/ann_miller_183249"
+        },
+        "topics": [
+            {
+                "name": "Politics",
+                "url": "/topics/politics"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Slept",
+                "url": "/topics/slept"
+            }
+        ]
+    }
+]

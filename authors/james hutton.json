@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/james_hutton_182579",
+        "quote": "What more can we require? Nothing but time.",
+        "author": {
+            "name": "James Hutton",
+            "url": "/quotes/james_hutton_182579"
+        },
+        "topics": [
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Require",
+                "url": "/topics/require"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_hutton_182578",
+        "quote": "The past history of our globe must be explained by what can be seen to be happening now. No powers are to be employed that are not natural to the globe, no action to be admitted except those of which we know the principle.",
+        "author": {
+            "name": "James Hutton",
+            "url": "/quotes/james_hutton_182578"
+        },
+        "topics": [
+            {
+                "name": "Principle",
+                "url": "/topics/principle"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Admitted",
+                "url": "/topics/admitted"
+            }
+        ]
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/toby_turner_704213",
+        "quote": "Reading is what people did before YouTube, and I love retro stuff!",
+        "author": {
+            "name": "Toby Turner",
+            "url": "/quotes/toby_turner_704213"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "YouTube",
+                "url": "/topics/youtube"
+            },
+            {
+                "name": "I Love",
+                "url": "/topics/i_love"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/toby_turner_573008",
+        "quote": "I have a couple of games I've wanted to make in the 'Tobuscus Adventures' universe.",
+        "author": {
+            "name": "Toby Turner",
+            "url": "/quotes/toby_turner_573008"
+        },
+        "topics": [
+            {
+                "name": "Universe",
+                "url": "/topics/universe"
+            },
+            {
+                "name": "Wanted",
+                "url": "/topics/wanted"
+            },
+            {
+                "name": "Couple",
+                "url": "/topics/couple"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/toby_turner_704211",
+        "quote": "In the beginning, YouTube content wasn't up to the same standard as traditional media. Now, people are using it as a launchpad.",
+        "author": {
+            "name": "Toby Turner",
+            "url": "/quotes/toby_turner_704211"
+        },
+        "topics": [
+            {
+                "name": "YouTube",
+                "url": "/topics/youtube"
+            },
+            {
+                "name": "Standard",
+                "url": "/topics/standard"
+            },
+            {
+                "name": "Using",
+                "url": "/topics/using"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/toby_turner_704212",
+        "quote": "I'm excited to bring my characters to life in book form.",
+        "author": {
+            "name": "Toby Turner",
+            "url": "/quotes/toby_turner_704212"
+        },
+        "topics": [
+            {
+                "name": "Excited",
+                "url": "/topics/excited"
+            },
+            {
+                "name": "Characters",
+                "url": "/topics/characters"
+            },
+            {
+                "name": "Form",
+                "url": "/topics/form"
+            }
+        ]
+    }
+]

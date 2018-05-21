@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/ann_sothern_183252",
+        "quote": "I finally realized the happy medium, 'honey blonde' was the correct color and line for me.",
+        "author": {
+            "name": "Ann Sothern",
+            "url": "/quotes/ann_sothern_183252"
+        },
+        "topics": [
+            {
+                "name": "Color",
+                "url": "/topics/color"
+            },
+            {
+                "name": "Honey",
+                "url": "/topics/honey"
+            },
+            {
+                "name": "Correct",
+                "url": "/topics/correct"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ann_sothern_183254",
+        "quote": "Hollywood sold its stars on good looks and personality buildups. We weren't really actresses in a true sense, we were just big names - the products of a good publicity department.",
+        "author": {
+            "name": "Ann Sothern",
+            "url": "/quotes/ann_sothern_183254"
+        },
+        "topics": [
+            {
+                "name": "Hollywood",
+                "url": "/topics/hollywood"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Sold",
+                "url": "/topics/sold"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/amrita_acharia_556754",
+        "quote": "I love leather. I'm very much a leather jacket, leather trousers kind of girl.",
+        "author": {
+            "name": "Amrita Acharia",
+            "url": "/quotes/amrita_acharia_556754"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "I Love",
+                "url": "/topics/i_love"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/amrita_acharia_556753",
+        "quote": "I wasn't even going to do acting. I don't know how it even happened, to be honest. I was going to go into psychology or something like that. Or business. And then some moment of madness took over and I decided, 'Oh, I'm gonna go to London and try to be an actor.'",
+        "author": {
+            "name": "Amrita Acharia",
+            "url": "/quotes/amrita_acharia_556753"
+        },
+        "topics": [
+            {
+                "name": "Moment",
+                "url": "/topics/moment"
+            },
+            {
+                "name": "London",
+                "url": "/topics/london"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    }
+]

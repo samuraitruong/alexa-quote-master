@@ -1,0 +1,302 @@
+[
+    {
+        "url": "/quotes/mitchell_baker_208872?src=t_mozilla",
+        "quote": "The Mozilla Foundation is an independent, nonprofit organization.",
+        "author": {
+            "name": "Mitchell Baker",
+            "url": "/authors/mitchell_baker"
+        },
+        "topics": [
+            {
+                "name": "Independent",
+                "url": "/topics/independent"
+            },
+            {
+                "name": "Nonprofit",
+                "url": "/topics/nonprofit"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/margaret_heffernan_556958?src=t_mozilla",
+        "quote": "Huge open source organizations like Red Hat and Mozilla manage the collaboration of hundreds of people who don't know one another and have spent no time hanging around the water cooler.",
+        "author": {
+            "name": "Margaret Heffernan",
+            "url": "/authors/margaret_heffernan"
+        },
+        "topics": [
+            {
+                "name": "No Time",
+                "url": "/topics/no_time"
+            },
+            {
+                "name": "Source",
+                "url": "/topics/source"
+            },
+            {
+                "name": "Another",
+                "url": "/topics/another"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/howard_rheingold_560056?src=t_mozilla",
+        "quote": "Open source production has shown us that world-class software, like Linux and Mozilla, can be created with neither the bureaucratic structure of the firm nor the incentives of the marketplace as we've known them.",
+        "author": {
+            "name": "Howard Rheingold",
+            "url": "/authors/howard_rheingold"
+        },
+        "topics": [
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "World-Class",
+                "url": "/topics/world-class"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mitch_kapor_690390?src=t_mozilla",
+        "quote": "I tell people that the history of Mozilla and Firefox is so one of a kind that it should not be used - ever - as an example of what's possible.",
+        "author": {
+            "name": "Mitch Kapor",
+            "url": "/authors/mitch_kapor"
+        },
+        "topics": [
+            {
+                "name": "Kind",
+                "url": "/topics/kind"
+            },
+            {
+                "name": "Tell",
+                "url": "/topics/tell"
+            },
+            {
+                "name": "The History Of",
+                "url": "/topics/the_history_of"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mitchell_baker_208876?src=t_mozilla",
+        "quote": "The Mozilla project is big in terms of lines of code and complexity.",
+        "author": {
+            "name": "Mitchell Baker",
+            "url": "/authors/mitchell_baker"
+        },
+        "topics": [
+            {
+                "name": "Complexity",
+                "url": "/topics/complexity"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Code",
+                "url": "/topics/code"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mitchell_baker_208904?src=t_mozilla",
+        "quote": "Of course, it's hard to support full-time programmers, so we do get funds from a set of companies that are interested in the health of the Mozilla project and so are willing to support the people working for the Foundation as well.",
+        "author": {
+            "name": "Mitchell Baker",
+            "url": "/authors/mitchell_baker"
+        },
+        "topics": [
+            {
+                "name": "Willing",
+                "url": "/topics/willing"
+            },
+            {
+                "name": "Full-Time",
+                "url": "/topics/full-time"
+            },
+            {
+                "name": "Set",
+                "url": "/topics/set"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mitchell_baker_672228?src=t_mozilla",
+        "quote": "Mozilla has one foot in the Valley, Silicon Valley product technology, and partly one foot in the social enterprise space.",
+        "author": {
+            "name": "Mitchell Baker",
+            "url": "/authors/mitchell_baker"
+        },
+        "topics": [
+            {
+                "name": "Product",
+                "url": "/topics/product"
+            },
+            {
+                "name": "Social",
+                "url": "/topics/social"
+            },
+            {
+                "name": "Silicon",
+                "url": "/topics/silicon"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mitchell_baker_672230?src=t_mozilla",
+        "quote": "I think HTML5 is one area where Mozilla has done very poorly at actually communicating what we have done.",
+        "author": {
+            "name": "Mitchell Baker",
+            "url": "/authors/mitchell_baker"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Area",
+                "url": "/topics/area"
+            },
+            {
+                "name": "Poorly",
+                "url": "/topics/poorly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mitchell_baker_672238?src=t_mozilla",
+        "quote": "You can get anything from Mozilla Firefox-based themes to nature themes to your own photographs.",
+        "author": {
+            "name": "Mitchell Baker",
+            "url": "/authors/mitchell_baker"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "Photographs",
+                "url": "/topics/photographs"
+            },
+            {
+                "name": "Themes",
+                "url": "/topics/themes"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mitchell_baker_672247?src=t_mozilla",
+        "quote": "When people think of Mozilla, they generally think of the browser, but Mozilla is really much more than that. Mozilla is of interest to people who want an end-user application like our browser that's not tied directly into the Windows platform.",
+        "author": {
+            "name": "Mitchell Baker",
+            "url": "/authors/mitchell_baker"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Tied",
+                "url": "/topics/tied"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mitchell_baker_672248?src=t_mozilla",
+        "quote": "WorldGate offers interactive set-top-box applications. Its customers want to interact with the Web as an adjunct to other things they can do, and WorldGate allows that through the layout engine in Mozilla, called Gecko.",
+        "author": {
+            "name": "Mitchell Baker",
+            "url": "/authors/mitchell_baker"
+        },
+        "topics": [
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Offers",
+                "url": "/topics/offers"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/miguel_de_icaza_232390?src=t_mozilla",
+        "quote": "In some cases we've been building tools that are specific to Linux for the desktop, and they only work on Linux, but I see two major projects that are wildly, wildly successful: Mozilla and OpenOffice, and those two programs are cross platform.",
+        "author": {
+            "name": "Miguel de Icaza",
+            "url": "/authors/miguel_de_icaza"
+        },
+        "topics": [
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Projects",
+                "url": "/topics/projects"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/andy_hertzfeld_322515?src=t_mozilla",
+        "quote": "I got bitten by the free software bug in February of 1998 around the time of the Mozilla announcement.",
+        "author": {
+            "name": "Andy Hertzfeld",
+            "url": "/authors/andy_hertzfeld"
+        },
+        "topics": [
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "February",
+                "url": "/topics/february"
+            },
+            {
+                "name": "Bitten",
+                "url": "/topics/bitten"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mike_schroepfer_739169?src=t_mozilla",
+        "quote": "I joined Facebook in the summer of 2008 - before that I was at Mozilla.",
+        "author": {
+            "name": "Mike Schroepfer",
+            "url": "/authors/mike_schroepfer"
+        },
+        "topics": [
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            },
+            {
+                "name": "Facebook",
+                "url": "/topics/facebook"
+            },
+            {
+                "name": "Joined",
+                "url": "/topics/joined"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/terry_brennan_171378",
+        "quote": "If you're old and you lose, they say you're outmoded. If you're young and you lose, they say you're green. So don't lose.",
+        "author": {
+            "name": "Terry Brennan",
+            "url": "/quotes/terry_brennan_171378"
+        },
+        "topics": [
+            {
+                "name": "Green",
+                "url": "/topics/green"
+            },
+            {
+                "name": "Young",
+                "url": "/topics/young"
+            },
+            {
+                "name": "Old",
+                "url": "/topics/old"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/terry_brennan_185379",
+        "quote": "When you've got something to prove, there's nothing greater than a challenge.",
+        "author": {
+            "name": "Terry Brennan",
+            "url": "/quotes/terry_brennan_185379"
+        },
+        "topics": [
+            {
+                "name": "Prove",
+                "url": "/topics/prove"
+            },
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            },
+            {
+                "name": "Than",
+                "url": "/topics/than"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/terry_brennan_185380",
+        "quote": "What's the worst thing that can happen to a quarterback? He loses his confidence.",
+        "author": {
+            "name": "Terry Brennan",
+            "url": "/quotes/terry_brennan_185380"
+        },
+        "topics": [
+            {
+                "name": "Happen",
+                "url": "/topics/happen"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            },
+            {
+                "name": "Worst Thing",
+                "url": "/topics/worst_thing"
+            }
+        ]
+    }
+]

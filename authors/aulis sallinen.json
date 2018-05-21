@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/aulis_sallinen_388138",
+        "quote": "These days people wallow in enormous masses of sound.",
+        "author": {
+            "name": "Aulis Sallinen",
+            "url": "/quotes/aulis_sallinen_388138"
+        },
+        "topics": [
+            {
+                "name": "Sound",
+                "url": "/topics/sound"
+            },
+            {
+                "name": "Days",
+                "url": "/topics/days"
+            },
+            {
+                "name": "Wallow",
+                "url": "/topics/wallow"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/aulis_sallinen_388230",
+        "quote": "I feel that all good art is powerful and simple.",
+        "author": {
+            "name": "Aulis Sallinen",
+            "url": "/quotes/aulis_sallinen_388230"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Powerful",
+                "url": "/topics/powerful"
+            },
+            {
+                "name": "Good Art",
+                "url": "/topics/good_art"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/aulis_sallinen_388237",
+        "quote": "I really believe in melody.",
+        "author": {
+            "name": "Aulis Sallinen",
+            "url": "/quotes/aulis_sallinen_388237"
+        },
+        "topics": [
+            {
+                "name": "Believe",
+                "url": "/topics/believe"
+            },
+            {
+                "name": "Melody",
+                "url": "/topics/melody"
+            },
+            {
+                "name": "Really",
+                "url": "/topics/really"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/aulis_sallinen_391893",
+        "quote": "If music leaves any impression at all, it does so without regard to stylistic issues.",
+        "author": {
+            "name": "Aulis Sallinen",
+            "url": "/quotes/aulis_sallinen_391893"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "Stylistic",
+                "url": "/topics/stylistic"
+            },
+            {
+                "name": "Leaves",
+                "url": "/topics/leaves"
+            }
+        ]
+    }
+]

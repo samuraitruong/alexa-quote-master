@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/andre_boucourechliev_370206",
+        "quote": "At the end of the competition, I played the Liszt concerto and I felt my head was on the block. Well, I won.",
+        "author": {
+            "name": "Andre Boucourechliev",
+            "url": "/quotes/andre_boucourechliev_370206"
+        },
+        "topics": [
+            {
+                "name": "Head",
+                "url": "/topics/head"
+            },
+            {
+                "name": "Concerto",
+                "url": "/topics/concerto"
+            },
+            {
+                "name": "Won",
+                "url": "/topics/won"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/andre_boucourechliev_370207",
+        "quote": "I always knew I would live in France.",
+        "author": {
+            "name": "Andre Boucourechliev",
+            "url": "/quotes/andre_boucourechliev_370207"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Knew",
+                "url": "/topics/knew"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            }
+        ]
+    }
+]

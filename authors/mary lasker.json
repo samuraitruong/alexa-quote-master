@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/mary_lasker_546951",
+        "quote": "Without money nothing gets done.",
+        "author": {
+            "name": "Mary Lasker",
+            "url": "/quotes/mary_lasker_546951"
+        },
+        "topics": [
+            {
+                "name": "Money",
+                "url": "/topics/money"
+            },
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            },
+            {
+                "name": "Gets",
+                "url": "/topics/gets"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mary_lasker_546950",
+        "quote": "I am opposed to heart attacks and cancer and strokes the way I am opposed to sin.",
+        "author": {
+            "name": "Mary Lasker",
+            "url": "/quotes/mary_lasker_546950"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Opposed",
+                "url": "/topics/opposed"
+            },
+            {
+                "name": "Strokes",
+                "url": "/topics/strokes"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mary_lasker_546952",
+        "quote": "Nobody would have me in their laboratory for five minutes. I couldn't cut up a frog, and I certainly couldn't perform surgery. I'm better at making it possible for other people.",
+        "author": {
+            "name": "Mary Lasker",
+            "url": "/quotes/mary_lasker_546952"
+        },
+        "topics": [
+            {
+                "name": "Making",
+                "url": "/topics/making"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Certainly",
+                "url": "/topics/certainly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mary_lasker_546953",
+        "quote": "In Democratic administrations, I visit the White House.",
+        "author": {
+            "name": "Mary Lasker",
+            "url": "/quotes/mary_lasker_546953"
+        },
+        "topics": [
+            {
+                "name": "White House",
+                "url": "/topics/white_house"
+            },
+            {
+                "name": "White",
+                "url": "/topics/white"
+            },
+            {
+                "name": "Visit",
+                "url": "/topics/visit"
+            }
+        ]
+    }
+]

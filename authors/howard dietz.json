@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/howard_dietz_111816",
+        "quote": "Composers shouldn't think too much - it interferes with their plagiarism.",
+        "author": {
+            "name": "Howard Dietz",
+            "url": "/quotes/howard_dietz_111816"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Composers",
+                "url": "/topics/composers"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/howard_dietz_399747",
+        "quote": "The world is a stage, the stage is a world of entertainment.",
+        "author": {
+            "name": "Howard Dietz",
+            "url": "/quotes/howard_dietz_399747"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Entertainment",
+                "url": "/topics/entertainment"
+            },
+            {
+                "name": "Stage",
+                "url": "/topics/stage"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/howard_dietz_111817",
+        "quote": "A day away from Tallulah is like a month in the country.",
+        "author": {
+            "name": "Howard Dietz",
+            "url": "/quotes/howard_dietz_111817"
+        },
+        "topics": [
+            {
+                "name": "Month",
+                "url": "/topics/month"
+            },
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/howard_dietz_398775",
+        "quote": "Time hurries by, we're here and gone.",
+        "author": {
+            "name": "Howard Dietz",
+            "url": "/quotes/howard_dietz_398775"
+        },
+        "topics": [
+            {
+                "name": "Time",
+                "url": "/topics/time"
+            },
+            {
+                "name": "Gone",
+                "url": "/topics/gone"
+            },
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/howard_dietz_399279",
+        "quote": "I'll go my way by myself, love is only a dance.",
+        "author": {
+            "name": "Howard Dietz",
+            "url": "/quotes/howard_dietz_399279"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Myself",
+                "url": "/topics/myself"
+            },
+            {
+                "name": "Go",
+                "url": "/topics/go"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/evelyn_de_morgan_348592",
+        "quote": "Art is eternal, but life is short.",
+        "author": {
+            "name": "Evelyn de Morgan",
+            "url": "/quotes/evelyn_de_morgan_348592"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Life Is Short",
+                "url": "/topics/life_is_short"
+            },
+            {
+                "name": "Eternal",
+                "url": "/topics/eternal"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/evelyn_de_morgan_348591",
+        "quote": "I will make up for it now, I have not a moment to lose.",
+        "author": {
+            "name": "Evelyn de Morgan",
+            "url": "/quotes/evelyn_de_morgan_348591"
+        },
+        "topics": [
+            {
+                "name": "Lose",
+                "url": "/topics/lose"
+            },
+            {
+                "name": "Now",
+                "url": "/topics/now"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    }
+]

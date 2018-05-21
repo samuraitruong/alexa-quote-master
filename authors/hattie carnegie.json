@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/hattie_carnegie_546572",
+        "quote": "My clothes are built to show off the woman who wears them. I like them to be simple... to move well, to move with the times and a little ahead of the times.",
+        "author": {
+            "name": "Hattie Carnegie",
+            "url": "/quotes/hattie_carnegie_546572"
+        },
+        "topics": [
+            {
+                "name": "Woman",
+                "url": "/topics/woman"
+            },
+            {
+                "name": "Move",
+                "url": "/topics/move"
+            },
+            {
+                "name": "Built",
+                "url": "/topics/built"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/hattie_carnegie_546574",
+        "quote": "Taste is so much more important than fashion.",
+        "author": {
+            "name": "Hattie Carnegie",
+            "url": "/quotes/hattie_carnegie_546574"
+        },
+        "topics": [
+            {
+                "name": "Important",
+                "url": "/topics/important"
+            },
+            {
+                "name": "Taste",
+                "url": "/topics/taste"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/hattie_carnegie_546571",
+        "quote": "I've had three husbands, but my real romance is my work.",
+        "author": {
+            "name": "Hattie Carnegie",
+            "url": "/quotes/hattie_carnegie_546571"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Romance",
+                "url": "/topics/romance"
+            },
+            {
+                "name": "Had",
+                "url": "/topics/had"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/hattie_carnegie_546573",
+        "quote": "To show the American woman herself off to best advantage - that has always been my aim and that is my real biography.",
+        "author": {
+            "name": "Hattie Carnegie",
+            "url": "/quotes/hattie_carnegie_546573"
+        },
+        "topics": [
+            {
+                "name": "Woman",
+                "url": "/topics/woman"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    }
+]

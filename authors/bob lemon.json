@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/bob_lemon_104231",
+        "quote": "The two most important things in life are good friends and a strong bullpen.",
+        "author": {
+            "name": "Bob Lemon",
+            "url": "/quotes/bob_lemon_104231"
+        },
+        "topics": [
+            {
+                "name": "Sports",
+                "url": "/topics/sports"
+            },
+            {
+                "name": "Important",
+                "url": "/topics/important"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bob_lemon_276470",
+        "quote": "I had bad days on the field. But I didn't take them home with me. I left them in a bar along the way home.",
+        "author": {
+            "name": "Bob Lemon",
+            "url": "/quotes/bob_lemon_276470"
+        },
+        "topics": [
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            },
+            {
+                "name": "Way Home",
+                "url": "/topics/way_home"
+            },
+            {
+                "name": "Had",
+                "url": "/topics/had"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bob_lemon_276468",
+        "quote": "Baseball was made for kids, and grown-ups only screw it up.",
+        "author": {
+            "name": "Bob Lemon",
+            "url": "/quotes/bob_lemon_276468"
+        },
+        "topics": [
+            {
+                "name": "Made",
+                "url": "/topics/made"
+            },
+            {
+                "name": "Screw",
+                "url": "/topics/screw"
+            },
+            {
+                "name": "Grown-Ups",
+                "url": "/topics/grown-ups"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bob_lemon_276469",
+        "quote": "I don't care how long you've been around, you'll never see it all.",
+        "author": {
+            "name": "Bob Lemon",
+            "url": "/quotes/bob_lemon_276469"
+        },
+        "topics": [
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "How",
+                "url": "/topics/how"
+            }
+        ]
+    }
+]

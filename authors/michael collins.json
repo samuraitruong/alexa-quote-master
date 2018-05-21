@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/michael_collins_111443",
+        "quote": "I knew I was alone in a way that no earthling has ever been before.",
+        "author": {
+            "name": "Michael Collins",
+            "url": "/quotes/michael_collins_111443"
+        },
+        "topics": [
+            {
+                "name": "Alone",
+                "url": "/topics/alone"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Ever",
+                "url": "/topics/ever"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/michael_collins_380994",
+        "quote": "Early this morning, I signed my death warrant.",
+        "author": {
+            "name": "Michael Collins",
+            "url": "/quotes/michael_collins_380994"
+        },
+        "topics": [
+            {
+                "name": "Death",
+                "url": "/topics/death"
+            },
+            {
+                "name": "Signed",
+                "url": "/topics/signed"
+            },
+            {
+                "name": "Warrant",
+                "url": "/topics/warrant"
+            }
+        ]
+    }
+]

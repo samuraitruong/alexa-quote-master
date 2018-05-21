@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/marvin_davis_111675",
+        "quote": "As men get older, the toys get more expensive.",
+        "author": {
+            "name": "Marvin Davis",
+            "url": "/quotes/marvin_davis_111675"
+        },
+        "topics": [
+            {
+                "name": "Age",
+                "url": "/topics/age"
+            },
+            {
+                "name": "Toys",
+                "url": "/topics/toys"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marvin_davis_280097",
+        "quote": "The three of us pitched in $15,000 a piece to get it started.",
+        "author": {
+            "name": "Marvin Davis",
+            "url": "/quotes/marvin_davis_280097"
+        },
+        "topics": [
+            {
+                "name": "Started",
+                "url": "/topics/started"
+            },
+            {
+                "name": "Get",
+                "url": "/topics/get"
+            },
+            {
+                "name": "Piece",
+                "url": "/topics/piece"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marvin_davis_280099",
+        "quote": "There's no need to travel further. The Los Angeles area is big enough for us.",
+        "author": {
+            "name": "Marvin Davis",
+            "url": "/quotes/marvin_davis_280099"
+        },
+        "topics": [
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Area",
+                "url": "/topics/area"
+            },
+            {
+                "name": "Los",
+                "url": "/topics/los"
+            }
+        ]
+    }
+]

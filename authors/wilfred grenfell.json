@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/wilfred_grenfell_127361",
+        "quote": "The service we render others is the rent we pay for our room on earth.",
+        "author": {
+            "name": "Wilfred Grenfell",
+            "url": "/quotes/wilfred_grenfell_127361"
+        },
+        "topics": [
+            {
+                "name": "Service",
+                "url": "/topics/service"
+            },
+            {
+                "name": "Earth",
+                "url": "/topics/earth"
+            },
+            {
+                "name": "Pay",
+                "url": "/topics/pay"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/wilfred_grenfell_175216",
+        "quote": "Courage is always the surest wisdom.",
+        "author": {
+            "name": "Wilfred Grenfell",
+            "url": "/quotes/wilfred_grenfell_175216"
+        },
+        "topics": [
+            {
+                "name": "Courage",
+                "url": "/topics/courage"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Surest",
+                "url": "/topics/surest"
+            }
+        ]
+    }
+]

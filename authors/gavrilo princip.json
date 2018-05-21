@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/gavrilo_princip_309302",
+        "quote": "I aimed at the Archduke. I do not remember what I thought at that moment.",
+        "author": {
+            "name": "Gavrilo Princip",
+            "url": "/quotes/gavrilo_princip_309302"
+        },
+        "topics": [
+            {
+                "name": "Moment",
+                "url": "/topics/moment"
+            },
+            {
+                "name": "Remember",
+                "url": "/topics/remember"
+            },
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gavrilo_princip_309301",
+        "quote": "I am the son of peasants and I know what is happening in the villages. That is why I wanted to take revenge, and I regret nothing.",
+        "author": {
+            "name": "Gavrilo Princip",
+            "url": "/quotes/gavrilo_princip_309301"
+        },
+        "topics": [
+            {
+                "name": "Revenge",
+                "url": "/topics/revenge"
+            },
+            {
+                "name": "Regret",
+                "url": "/topics/regret"
+            },
+            {
+                "name": "Villages",
+                "url": "/topics/villages"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gavrilo_princip_309300",
+        "quote": "I only know that I fired twice, or perhaps several times, without knowing whether I had hit or missed.",
+        "author": {
+            "name": "Gavrilo Princip",
+            "url": "/quotes/gavrilo_princip_309300"
+        },
+        "topics": [
+            {
+                "name": "Missed",
+                "url": "/topics/missed"
+            },
+            {
+                "name": "Fired",
+                "url": "/topics/fired"
+            },
+            {
+                "name": "Several",
+                "url": "/topics/several"
+            }
+        ]
+    }
+]

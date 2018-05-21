@@ -1,0 +1,104 @@
+[
+    {
+        "url": "/quotes/stirling_moss_399161",
+        "quote": "Motion is tranquility.",
+        "author": {
+            "name": "Stirling Moss",
+            "url": "/quotes/stirling_moss_399161"
+        },
+        "topics": [
+            {
+                "name": "Tranquility",
+                "url": "/topics/tranquility"
+            },
+            {
+                "name": "Motion",
+                "url": "/topics/motion"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/stirling_moss_184811",
+        "quote": "It is necessary to relax your muscles when you can. Relaxing your brain is fatal.",
+        "author": {
+            "name": "Stirling Moss",
+            "url": "/quotes/stirling_moss_184811"
+        },
+        "topics": [
+            {
+                "name": "Relax",
+                "url": "/topics/relax"
+            },
+            {
+                "name": "Muscles",
+                "url": "/topics/muscles"
+            },
+            {
+                "name": "Necessary",
+                "url": "/topics/necessary"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/stirling_moss_400965",
+        "quote": "There are two things no man will admit he cannot do well: drive and make love.",
+        "author": {
+            "name": "Stirling Moss",
+            "url": "/quotes/stirling_moss_400965"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Admit",
+                "url": "/topics/admit"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/stirling_moss_401160",
+        "quote": "I believe that if a man wanted to walk on water, and was prepared to give up everything in life, he could do it.",
+        "author": {
+            "name": "Stirling Moss",
+            "url": "/quotes/stirling_moss_401160"
+        },
+        "topics": [
+            {
+                "name": "Prepared",
+                "url": "/topics/prepared"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            },
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/stirling_moss_404167",
+        "quote": "Movement is tranquility.",
+        "author": {
+            "name": "Stirling Moss",
+            "url": "/quotes/stirling_moss_404167"
+        },
+        "topics": [
+            {
+                "name": "Tranquility",
+                "url": "/topics/tranquility"
+            },
+            {
+                "name": "Movement",
+                "url": "/topics/movement"
+            }
+        ]
+    }
+]

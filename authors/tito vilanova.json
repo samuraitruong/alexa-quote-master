@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/tito_vilanova_487244",
+        "quote": "You should never get nervous about anything. What today seems important tomorrow isn't so any more.",
+        "author": {
+            "name": "Tito Vilanova",
+            "url": "/quotes/tito_vilanova_487244"
+        },
+        "topics": [
+            {
+                "name": "Tomorrow",
+                "url": "/topics/tomorrow"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tito_vilanova_487245",
+        "quote": "Coming from bad results, you have more tension and you get more into the game, maybe. You never know which is best. I prefer to come from good results. You have more confidence and you believe you are doing things well. But in football everything can change very quickly.",
+        "author": {
+            "name": "Tito Vilanova",
+            "url": "/quotes/tito_vilanova_487245"
+        },
+        "topics": [
+            {
+                "name": "Game",
+                "url": "/topics/game"
+            },
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    }
+]

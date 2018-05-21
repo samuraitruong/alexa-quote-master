@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/harry_callahan_164533",
+        "quote": "I wish more people felt that photography was an adventure the same as life itself and felt that their individual feelings were worth expressing. To me, that makes photography more exciting.",
+        "author": {
+            "name": "Harry Callahan",
+            "url": "/quotes/harry_callahan_164533"
+        },
+        "topics": [
+            {
+                "name": "I Wish",
+                "url": "/topics/i_wish"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "More People",
+                "url": "/topics/more_people"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/harry_callahan_142094",
+        "quote": "Experience is the best teacher of all. And for that, there are no guarantees that one will become an artist. Only the journey matters.",
+        "author": {
+            "name": "Harry Callahan",
+            "url": "/quotes/harry_callahan_142094"
+        },
+        "topics": [
+            {
+                "name": "Journey",
+                "url": "/topics/journey"
+            },
+            {
+                "name": "Artist",
+                "url": "/topics/artist"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/fred_w_friendly_116789",
+        "quote": "Television was supposed to be a national park. Instead it has become a money machine. It's a commodity now, just like pork bellies.",
+        "author": {
+            "name": "Fred W. Friendly",
+            "url": "/quotes/fred_w_friendly_116789"
+        },
+        "topics": [
+            {
+                "name": "Television",
+                "url": "/topics/television"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Commodity",
+                "url": "/topics/commodity"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/fred_w_friendly_116788",
+        "quote": "Television makes so much at its worst that it can't afford to do its best.",
+        "author": {
+            "name": "Fred W. Friendly",
+            "url": "/quotes/fred_w_friendly_116788"
+        },
+        "topics": [
+            {
+                "name": "Television",
+                "url": "/topics/television"
+            },
+            {
+                "name": "Afford",
+                "url": "/topics/afford"
+            },
+            {
+                "name": "Makes",
+                "url": "/topics/makes"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/fred_w_friendly_116787",
+        "quote": "A composite is a euphemism for a lie. It's disorderly. It's dishonest and it's not journalism.",
+        "author": {
+            "name": "Fred W. Friendly",
+            "url": "/quotes/fred_w_friendly_116787"
+        },
+        "topics": [
+            {
+                "name": "Lie",
+                "url": "/topics/lie"
+            },
+            {
+                "name": "Dishonest",
+                "url": "/topics/dishonest"
+            },
+            {
+                "name": "Composite",
+                "url": "/topics/composite"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/fred_w_friendly_100391",
+        "quote": "TV is bigger than any story it reports. It's the greatest teaching tool since the printing press.",
+        "author": {
+            "name": "Fred W. Friendly",
+            "url": "/quotes/fred_w_friendly_100391"
+        },
+        "topics": [
+            {
+                "name": "Teacher",
+                "url": "/topics/teacher"
+            },
+            {
+                "name": "Reports",
+                "url": "/topics/reports"
+            },
+            {
+                "name": "TV",
+                "url": "/topics/tv"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/fred_w_friendly_122843",
+        "quote": "The news is the one thing the networks can point to with pride. Everything else they do is crap, and they know it.",
+        "author": {
+            "name": "Fred W. Friendly",
+            "url": "/quotes/fred_w_friendly_122843"
+        },
+        "topics": [
+            {
+                "name": "News",
+                "url": "/topics/news"
+            },
+            {
+                "name": "One Thing",
+                "url": "/topics/one_thing"
+            },
+            {
+                "name": "Networks",
+                "url": "/topics/networks"
+            }
+        ]
+    }
+]

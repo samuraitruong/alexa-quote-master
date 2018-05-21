@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/sherwood_anderson_170284",
+        "quote": "I go about looking at horses and cattle. They eat grass, make love, work when they have to, bear their young. I am sick with envy of them.",
+        "author": {
+            "name": "Sherwood Anderson",
+            "url": "/quotes/sherwood_anderson_170284"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Envy",
+                "url": "/topics/envy"
+            },
+            {
+                "name": "Young",
+                "url": "/topics/young"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sherwood_anderson_183487",
+        "quote": "Everyone in the world is Christ and they are all crucified.",
+        "author": {
+            "name": "Sherwood Anderson",
+            "url": "/quotes/sherwood_anderson_183487"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Christ",
+                "url": "/topics/christ"
+            },
+            {
+                "name": "Crucified",
+                "url": "/topics/crucified"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sherwood_anderson_183488",
+        "quote": "I am a lover and have not found my thing to love.",
+        "author": {
+            "name": "Sherwood Anderson",
+            "url": "/quotes/sherwood_anderson_183488"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Found",
+                "url": "/topics/found"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sherwood_anderson_183489",
+        "quote": "That in the beginning when the world was young there were a great many thoughts but no such thing as truth. Man made the truths himself and each truth was a composite of a great many vague thoughts. All about in the world were truths and they were all beautiful.",
+        "author": {
+            "name": "Sherwood Anderson",
+            "url": "/quotes/sherwood_anderson_183489"
+        },
+        "topics": [
+            {
+                "name": "Beginning",
+                "url": "/topics/beginning"
+            },
+            {
+                "name": "Thoughts",
+                "url": "/topics/thoughts"
+            },
+            {
+                "name": "Vague",
+                "url": "/topics/vague"
+            }
+        ]
+    }
+]

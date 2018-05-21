@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/robert_southwell_306180",
+        "quote": "Hoist up sail while gale doth last, Tide and wind stay no man's pleasure.",
+        "author": {
+            "name": "Robert Southwell",
+            "url": "/quotes/robert_southwell_306180"
+        },
+        "topics": [
+            {
+                "name": "Tide",
+                "url": "/topics/tide"
+            },
+            {
+                "name": "Doth",
+                "url": "/topics/doth"
+            },
+            {
+                "name": "Gale",
+                "url": "/topics/gale"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_southwell_306181",
+        "quote": "When Fortune smiles, I smile to think how quickly she will frown.",
+        "author": {
+            "name": "Robert Southwell",
+            "url": "/quotes/robert_southwell_306181"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "She",
+                "url": "/topics/she"
+            },
+            {
+                "name": "How",
+                "url": "/topics/how"
+            }
+        ]
+    }
+]

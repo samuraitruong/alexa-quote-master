@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/george_morgan_215732",
+        "quote": "Is Abundant Success in all his honest undertakings.",
+        "author": {
+            "name": "George Morgan",
+            "url": "/quotes/george_morgan_215732"
+        },
+        "topics": [
+            {
+                "name": "Success",
+                "url": "/topics/success"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            },
+            {
+                "name": "Abundant",
+                "url": "/topics/abundant"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_morgan_215734",
+        "quote": "For my own part I continue of the same Disposition.",
+        "author": {
+            "name": "George Morgan",
+            "url": "/quotes/george_morgan_215734"
+        },
+        "topics": [
+            {
+                "name": "My Own",
+                "url": "/topics/my_own"
+            },
+            {
+                "name": "Same",
+                "url": "/topics/same"
+            },
+            {
+                "name": "Disposition",
+                "url": "/topics/disposition"
+            }
+        ]
+    }
+]

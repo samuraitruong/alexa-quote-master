@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/james_irwin_190686",
+        "quote": "The Earth reminded us of a Christmas tree ornament hanging in the blackness of space. As we got farther and farther away it diminished in size. Finally it shrank to the size of a marble, the most beautiful marble you can imagine.",
+        "author": {
+            "name": "James Irwin",
+            "url": "/quotes/james_irwin_190686"
+        },
+        "topics": [
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            },
+            {
+                "name": "Imagine",
+                "url": "/topics/imagine"
+            },
+            {
+                "name": "Blackness",
+                "url": "/topics/blackness"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_irwin_190685",
+        "quote": "I felt the power of God as I'd never felt it before.",
+        "author": {
+            "name": "James Irwin",
+            "url": "/quotes/james_irwin_190685"
+        },
+        "topics": [
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            },
+            {
+                "name": "Felt",
+                "url": "/topics/felt"
+            }
+        ]
+    }
+]

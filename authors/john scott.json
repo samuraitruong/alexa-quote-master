@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/john_scott_187995",
+        "quote": "It seems we are capable of immense love and loyalty, and as capable of deceit and atrocity. It's probably this shocking ambivalence that makes us unique.",
+        "author": {
+            "name": "John Scott",
+            "url": "/quotes/john_scott_187995"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Loyalty",
+                "url": "/topics/loyalty"
+            },
+            {
+                "name": "Atrocity",
+                "url": "/topics/atrocity"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_scott_187996",
+        "quote": "In my books I might hold the mirror to my own face. If others would like to borrow the mirror, they're welcome. The books aren't there to accuse others - merely to raise issues and keep the debates alive.",
+        "author": {
+            "name": "John Scott",
+            "url": "/quotes/john_scott_187996"
+        },
+        "topics": [
+            {
+                "name": "Mirror",
+                "url": "/topics/mirror"
+            },
+            {
+                "name": "Alive",
+                "url": "/topics/alive"
+            },
+            {
+                "name": "Accuse",
+                "url": "/topics/accuse"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_scott_187998",
+        "quote": "The Architect is just one of a series of works which examine the confrontation of innocence and experience, illustrating the complex ethics of power that exist between reader and writer, critic and artist, the human and the divine.",
+        "author": {
+            "name": "John Scott",
+            "url": "/quotes/john_scott_187998"
+        },
+        "topics": [
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Works",
+                "url": "/topics/works"
+            },
+            {
+                "name": "Illustrating",
+                "url": "/topics/illustrating"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_scott_187990",
+        "quote": "The older I get, the more I seek to use a plain prose style, concentrating more on story.",
+        "author": {
+            "name": "John Scott",
+            "url": "/quotes/john_scott_187990"
+        },
+        "topics": [
+            {
+                "name": "Prose",
+                "url": "/topics/prose"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Concentrating",
+                "url": "/topics/concentrating"
+            }
+        ]
+    }
+]

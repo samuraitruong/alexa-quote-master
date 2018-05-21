@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/robin_skelton_223119",
+        "quote": "I have no history but the length of my bones.",
+        "author": {
+            "name": "Robin Skelton",
+            "url": "/quotes/robin_skelton_223119"
+        },
+        "topics": [
+            {
+                "name": "History",
+                "url": "/topics/history"
+            },
+            {
+                "name": "Bones",
+                "url": "/topics/bones"
+            },
+            {
+                "name": "Length",
+                "url": "/topics/length"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robin_skelton_223120",
+        "quote": "Men who like women rarely fall in love.",
+        "author": {
+            "name": "Robin Skelton",
+            "url": "/quotes/robin_skelton_223120"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Fall",
+                "url": "/topics/fall"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    }
+]

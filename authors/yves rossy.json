@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/yves_rossy_563043",
+        "quote": "As a child, I first wanted to be a cook because my mother was such a good cook.",
+        "author": {
+            "name": "Yves Rossy",
+            "url": "/quotes/yves_rossy_563043"
+        },
+        "topics": [
+            {
+                "name": "Mother",
+                "url": "/topics/mother"
+            },
+            {
+                "name": "Cook",
+                "url": "/topics/cook"
+            },
+            {
+                "name": "Wanted",
+                "url": "/topics/wanted"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/yves_rossy_563044",
+        "quote": "I was a pilot and flying hang gliders, paragliders, aerobatics airplanes, and then I discovered skydiving. Free fall. Free. With nothing around you, just a parachute on your back. And you go down. But you don't feel like you're going down. Total freedom.",
+        "author": {
+            "name": "Yves Rossy",
+            "url": "/quotes/yves_rossy_563044"
+        },
+        "topics": [
+            {
+                "name": "Skydiving",
+                "url": "/topics/skydiving"
+            },
+            {
+                "name": "Hang",
+                "url": "/topics/hang"
+            },
+            {
+                "name": "Discovered",
+                "url": "/topics/discovered"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/yves_rossy_563040",
+        "quote": "I was always pretty good at designing things.",
+        "author": {
+            "name": "Yves Rossy",
+            "url": "/quotes/yves_rossy_563040"
+        },
+        "topics": [
+            {
+                "name": "Pretty",
+                "url": "/topics/pretty"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Pretty Good",
+                "url": "/topics/pretty_good"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/yves_rossy_563041",
+        "quote": "When I was young I had an apprenticeship as an engineer.",
+        "author": {
+            "name": "Yves Rossy",
+            "url": "/quotes/yves_rossy_563041"
+        },
+        "topics": [
+            {
+                "name": "Young",
+                "url": "/topics/young"
+            },
+            {
+                "name": "Apprenticeship",
+                "url": "/topics/apprenticeship"
+            },
+            {
+                "name": "Had",
+                "url": "/topics/had"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/yves_rossy_563042",
+        "quote": "When you're in a fighter jet and there's a dark layer of clouds with just one blue hole with the sun going through it, you shoot for that hole. You go vertical into the light, and suddenly, instead of gray and dark, it's light and blue. You are totally connected with the elements. You are in another world.",
+        "author": {
+            "name": "Yves Rossy",
+            "url": "/quotes/yves_rossy_563042"
+        },
+        "topics": [
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Vertical",
+                "url": "/topics/vertical"
+            },
+            {
+                "name": "Another",
+                "url": "/topics/another"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/ethan_allen_193075",
+        "quote": "In those parts of the world where learning and science has prevailed, miracles have ceased; but in those parts of it as are barbarous and ignorant, miracles are still in vogue.",
+        "author": {
+            "name": "Ethan Allen",
+            "url": "/quotes/ethan_allen_193075"
+        },
+        "topics": [
+            {
+                "name": "Learning",
+                "url": "/topics/learning"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            },
+            {
+                "name": "Prevailed",
+                "url": "/topics/prevailed"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ethan_allen_193074",
+        "quote": "Those who invalidate reason ought seriously to consider whether they argue against reason with or without reason.",
+        "author": {
+            "name": "Ethan Allen",
+            "url": "/quotes/ethan_allen_193074"
+        },
+        "topics": [
+            {
+                "name": "Reason",
+                "url": "/topics/reason"
+            },
+            {
+                "name": "Against",
+                "url": "/topics/against"
+            },
+            {
+                "name": "Whether",
+                "url": "/topics/whether"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ethan_allen_193076",
+        "quote": "While we are under the tyranny of Priests, it will ever be their interest, to invalidate the law of nature and reason, in order to establish systems incompatible therewith.",
+        "author": {
+            "name": "Ethan Allen",
+            "url": "/quotes/ethan_allen_193076"
+        },
+        "topics": [
+            {
+                "name": "Law",
+                "url": "/topics/law"
+            },
+            {
+                "name": "Tyranny",
+                "url": "/topics/tyranny"
+            },
+            {
+                "name": "Reason",
+                "url": "/topics/reason"
+            }
+        ]
+    }
+]

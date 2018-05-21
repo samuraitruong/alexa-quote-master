@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/alice_duer_miller_169984",
+        "quote": "When a woman like that whom I've seen so much, All of a sudden drops out of touch; Is always busy and never can, Spare you a moment, it means a man.",
+        "author": {
+            "name": "Alice Duer Miller",
+            "url": "/quotes/alice_duer_miller_169984"
+        },
+        "topics": [
+            {
+                "name": "Woman",
+                "url": "/topics/woman"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Means",
+                "url": "/topics/means"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alice_duer_miller_180716",
+        "quote": "I was not out to paint beautiful pictures; even painting good pictures was not important to me. I wanted only to help the truth burst forth.",
+        "author": {
+            "name": "Alice Duer Miller",
+            "url": "/quotes/alice_duer_miller_180716"
+        },
+        "topics": [
+            {
+                "name": "Good",
+                "url": "/topics/good"
+            },
+            {
+                "name": "Paint",
+                "url": "/topics/paint"
+            },
+            {
+                "name": "Forth",
+                "url": "/topics/forth"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/larry_merchant_197613",
+        "quote": "Too much youth, hunger, mission, and talent.",
+        "author": {
+            "name": "Larry Merchant",
+            "url": "/quotes/larry_merchant_197613"
+        },
+        "topics": [
+            {
+                "name": "Talent",
+                "url": "/topics/talent"
+            },
+            {
+                "name": "Mission",
+                "url": "/topics/mission"
+            },
+            {
+                "name": "Too",
+                "url": "/topics/too"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/larry_merchant_197616",
+        "quote": "Follow the wisdom of the great actor, James Cagney, you hit your mark, you look the other guy in the eye, and you tell the truth.",
+        "author": {
+            "name": "Larry Merchant",
+            "url": "/quotes/larry_merchant_197616"
+        },
+        "topics": [
+            {
+                "name": "Tell",
+                "url": "/topics/tell"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "James",
+                "url": "/topics/james"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/harry_essex_388235",
+        "quote": "Somebody ought to tell him his ambition is showing.",
+        "author": {
+            "name": "Harry Essex",
+            "url": "/quotes/harry_essex_388235"
+        },
+        "topics": [
+            {
+                "name": "Ambition",
+                "url": "/topics/ambition"
+            },
+            {
+                "name": "Tell",
+                "url": "/topics/tell"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/harry_essex_395774",
+        "quote": "Well, it seems to me a scientist has need for both vision and confidence.",
+        "author": {
+            "name": "Harry Essex",
+            "url": "/quotes/harry_essex_395774"
+        },
+        "topics": [
+            {
+                "name": "Vision",
+                "url": "/topics/vision"
+            },
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            },
+            {
+                "name": "Scientist",
+                "url": "/topics/scientist"
+            }
+        ]
+    }
+]

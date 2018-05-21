@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/hal_ashby_538230",
+        "quote": "I basically have a very positive philosophy of life, because I don't feel I have anything to lose. Most things are going to turn out okay.",
+        "author": {
+            "name": "Hal Ashby",
+            "url": "/quotes/hal_ashby_538230"
+        },
+        "topics": [
+            {
+                "name": "Okay",
+                "url": "/topics/okay"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/hal_ashby_538231",
+        "quote": "I don't like to tell lies.",
+        "author": {
+            "name": "Hal Ashby",
+            "url": "/quotes/hal_ashby_538231"
+        },
+        "topics": [
+            {
+                "name": "Tell",
+                "url": "/topics/tell"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Lies",
+                "url": "/topics/lies"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/john_lancaster_spalding_101366",
+        "quote": "The doubt of an earnest, thoughtful, patient and laborious mind is worthy of respect. In such doubt may be found indeed more faith than in half the creeds.",
+        "author": {
+            "name": "John Lancaster Spalding",
+            "url": "/quotes/john_lancaster_spalding_101366"
+        },
+        "topics": [
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Half",
+                "url": "/topics/half"
+            },
+            {
+                "name": "Laborious",
+                "url": "/topics/laborious"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_lancaster_spalding_101613",
+        "quote": "As memory may be a paradise from which we cannot be driven, it may also be a hell from which we cannot escape.",
+        "author": {
+            "name": "John Lancaster Spalding",
+            "url": "/quotes/john_lancaster_spalding_101613"
+        },
+        "topics": [
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Memory",
+                "url": "/topics/memory"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_lancaster_spalding_108609",
+        "quote": "We are more disturbed by a calamity which threatens us than by one which has befallen us.",
+        "author": {
+            "name": "John Lancaster Spalding",
+            "url": "/quotes/john_lancaster_spalding_108609"
+        },
+        "topics": [
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Calamity",
+                "url": "/topics/calamity"
+            },
+            {
+                "name": "Disturbed",
+                "url": "/topics/disturbed"
+            }
+        ]
+    }
+]

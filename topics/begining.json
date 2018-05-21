@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/alphonse_de_lamartine_134597?src=t_begining",
+        "quote": "There is a woman at the begining of all great things.",
+        "author": {
+            "name": "Alphonse de Lamartine",
+            "url": "/authors/alphonse_de_lamartine"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Woman",
+                "url": "/topics/woman"
+            },
+            {
+                "name": "Things",
+                "url": "/topics/things"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rudolph_valentino_326986?src=t_begining",
+        "quote": "I am begining to look more and more like my miserable imitators.",
+        "author": {
+            "name": "Rudolph Valentino",
+            "url": "/authors/rudolph_valentino"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Imitators",
+                "url": "/topics/imitators"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mike_judge_236118?src=t_begining",
+        "quote": "One thing I always heard from the begining when I talked about this being a movie - was that the rule is that animated movies don't work unless they're Disney movies for kids. Unless they're family movies.",
+        "author": {
+            "name": "Mike Judge",
+            "url": "/authors/mike_judge"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Movie",
+                "url": "/topics/movie"
+            }
+        ]
+    }
+]

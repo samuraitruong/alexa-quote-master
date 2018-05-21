@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/eric_bentley_178319",
+        "quote": "Geography is about maps, but biography is about chaps.",
+        "author": {
+            "name": "Eric Bentley",
+            "url": "/quotes/eric_bentley_178319"
+        },
+        "topics": [
+            {
+                "name": "Geography",
+                "url": "/topics/geography"
+            },
+            {
+                "name": "Maps",
+                "url": "/topics/maps"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eric_bentley_105853",
+        "quote": "If one truly has lost hope, one would not be on hand to say so.",
+        "author": {
+            "name": "Eric Bentley",
+            "url": "/quotes/eric_bentley_105853"
+        },
+        "topics": [
+            {
+                "name": "Lost",
+                "url": "/topics/lost"
+            },
+            {
+                "name": "Say",
+                "url": "/topics/say"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eric_bentley_178320",
+        "quote": "Ours is the age of substitutes: instead of language, we have jargon: instead of principles, slogans: and, instead of genuine ideas, bright ideas.",
+        "author": {
+            "name": "Eric Bentley",
+            "url": "/quotes/eric_bentley_178320"
+        },
+        "topics": [
+            {
+                "name": "Slogans",
+                "url": "/topics/slogans"
+            },
+            {
+                "name": "Ours",
+                "url": "/topics/ours"
+            },
+            {
+                "name": "Substitutes",
+                "url": "/topics/substitutes"
+            }
+        ]
+    }
+]

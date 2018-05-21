@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/naval_ravikant_851230?src=t_satoshi",
+        "quote": "Cryptocurrencies are an emergent property of the Internet - almost a fifth protocol in the Internet suite. If Satoshi Nakomoto did not exist, it would still be necessary to invent them.",
+        "author": {
+            "name": "Naval Ravikant",
+            "url": "/authors/naval_ravikant"
+        },
+        "topics": [
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            },
+            {
+                "name": "Almost",
+                "url": "/topics/almost"
+            },
+            {
+                "name": "Necessary",
+                "url": "/topics/necessary"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/steve_hanke_743972?src=t_satoshi",
+        "quote": "In 2008, Bitcoin was mysteriously introduced to the world in an obscure, technical paper written under the pseudonym Satoshi Nakamoto. By late 2013, the financial press was filled with reportage on Bitcoin and its dramatic price increase.",
+        "author": {
+            "name": "Steve Hanke",
+            "url": "/authors/steve_hanke"
+        },
+        "topics": [
+            {
+                "name": "Financial",
+                "url": "/topics/financial"
+            },
+            {
+                "name": "Technical",
+                "url": "/topics/technical"
+            }
+        ]
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/sholem_asch_176189",
+        "quote": "The sword conquered for a while, but the spirit conquers for ever!",
+        "author": {
+            "name": "Sholem Asch",
+            "url": "/quotes/sholem_asch_176189"
+        },
+        "topics": [
+            {
+                "name": "Sword",
+                "url": "/topics/sword"
+            },
+            {
+                "name": "Conquered",
+                "url": "/topics/conquered"
+            },
+            {
+                "name": "Ever",
+                "url": "/topics/ever"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sholem_asch_108661",
+        "quote": "Writing comes more easily if you have something to say.",
+        "author": {
+            "name": "Sholem Asch",
+            "url": "/quotes/sholem_asch_108661"
+        },
+        "topics": [
+            {
+                "name": "Writing",
+                "url": "/topics/writing"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Easily",
+                "url": "/topics/easily"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sholem_asch_176191",
+        "quote": "The lash may force men to physical labor, it cannot force them to spiritual creativity.",
+        "author": {
+            "name": "Sholem Asch",
+            "url": "/quotes/sholem_asch_176191"
+        },
+        "topics": [
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Men",
+                "url": "/topics/men"
+            },
+            {
+                "name": "Lash",
+                "url": "/topics/lash"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sholem_asch_401705",
+        "quote": "An illness is like a journey into a far country; it sifts all one's experience and removes it to a point so remote that it appears like a vision.",
+        "author": {
+            "name": "Sholem Asch",
+            "url": "/quotes/sholem_asch_401705"
+        },
+        "topics": [
+            {
+                "name": "Journey",
+                "url": "/topics/journey"
+            },
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    }
+]

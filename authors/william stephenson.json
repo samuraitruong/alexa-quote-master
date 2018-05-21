@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/william_stephenson_207473",
+        "quote": "This is the wonderful thing about espionage, nothing exists any more.",
+        "author": {
+            "name": "William Stephenson",
+            "url": "/quotes/william_stephenson_207473"
+        },
+        "topics": [
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Espionage",
+                "url": "/topics/espionage"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_stephenson_207472",
+        "quote": "We were trained to live by our wits, in any circumstance.",
+        "author": {
+            "name": "William Stephenson",
+            "url": "/quotes/william_stephenson_207472"
+        },
+        "topics": [
+            {
+                "name": "Trained",
+                "url": "/topics/trained"
+            },
+            {
+                "name": "Circumstance",
+                "url": "/topics/circumstance"
+            },
+            {
+                "name": "Were",
+                "url": "/topics/were"
+            }
+        ]
+    }
+]

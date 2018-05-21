@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/betty_comden_645015",
+        "quote": "At the Brooklyn Ethical Culture School, we learned to express ourselves, and I've been expressing myself ever since.",
+        "author": {
+            "name": "Betty Comden",
+            "url": "/quotes/betty_comden_645015"
+        },
+        "topics": [
+            {
+                "name": "Myself",
+                "url": "/topics/myself"
+            },
+            {
+                "name": "Learned",
+                "url": "/topics/learned"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/betty_comden_645016",
+        "quote": "The song 'Some Other Time...' is full of emotion. In wartime, it had a tremendously poignant feeling.",
+        "author": {
+            "name": "Betty Comden",
+            "url": "/quotes/betty_comden_645016"
+        },
+        "topics": [
+            {
+                "name": "Song",
+                "url": "/topics/song"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/betty_comden_645017",
+        "quote": "Broadway's not what it used to be.",
+        "author": {
+            "name": "Betty Comden",
+            "url": "/quotes/betty_comden_645017"
+        },
+        "topics": [
+            {
+                "name": "Broadway",
+                "url": "/topics/broadway"
+            },
+            {
+                "name": "Used",
+                "url": "/topics/used"
+            }
+        ]
+    }
+]

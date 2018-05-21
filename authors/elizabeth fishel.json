@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/elizabeth_fishel_112235",
+        "quote": "A sister is both your mirror - and your opposite.",
+        "author": {
+            "name": "Elizabeth Fishel",
+            "url": "/quotes/elizabeth_fishel_112235"
+        },
+        "topics": [
+            {
+                "name": "Mirror",
+                "url": "/topics/mirror"
+            },
+            {
+                "name": "Opposite",
+                "url": "/topics/opposite"
+            },
+            {
+                "name": "Your",
+                "url": "/topics/your"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/elizabeth_fishel_391298",
+        "quote": "Both within the family and without, our sisters hold up our mirrors: our images of who we are and of who we can dare to be.",
+        "author": {
+            "name": "Elizabeth Fishel",
+            "url": "/quotes/elizabeth_fishel_391298"
+        },
+        "topics": [
+            {
+                "name": "Family",
+                "url": "/topics/family"
+            },
+            {
+                "name": "Mirrors",
+                "url": "/topics/mirrors"
+            },
+            {
+                "name": "Images",
+                "url": "/topics/images"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/elizabeth_fishel_112236",
+        "quote": "Comparison is a death knell to sibling harmony.",
+        "author": {
+            "name": "Elizabeth Fishel",
+            "url": "/quotes/elizabeth_fishel_112236"
+        },
+        "topics": [
+            {
+                "name": "Sibling",
+                "url": "/topics/sibling"
+            },
+            {
+                "name": "Harmony",
+                "url": "/topics/harmony"
+            },
+            {
+                "name": "Comparison",
+                "url": "/topics/comparison"
+            }
+        ]
+    }
+]

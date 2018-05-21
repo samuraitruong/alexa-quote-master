@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/william_hall_402026",
+        "quote": "We go on and on about our differences. But, you know, our differences are less important than our similarities. People have a lot in common with one another, whether they see that or not.",
+        "author": {
+            "name": "William Hall",
+            "url": "/quotes/william_hall_402026"
+        },
+        "topics": [
+            {
+                "name": "Differences",
+                "url": "/topics/differences"
+            },
+            {
+                "name": "Go",
+                "url": "/topics/go"
+            },
+            {
+                "name": "Another",
+                "url": "/topics/another"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_hall_186007",
+        "quote": "The sexes were made for each other, and only in the wise and loving union of the two is the fullness of health and duty and happiness to be expected.",
+        "author": {
+            "name": "William Hall",
+            "url": "/quotes/william_hall_186007"
+        },
+        "topics": [
+            {
+                "name": "Made",
+                "url": "/topics/made"
+            },
+            {
+                "name": "Fullness",
+                "url": "/topics/fullness"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    }
+]

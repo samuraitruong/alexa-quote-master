@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/mick_miller_131403",
+        "quote": "I don't like people who take drugs... customs men for example.",
+        "author": {
+            "name": "Mick Miller",
+            "url": "/quotes/mick_miller_131403"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Take",
+                "url": "/topics/take"
+            },
+            {
+                "name": "For Example",
+                "url": "/topics/for_example"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mick_miller_131406",
+        "quote": "I went to watch Pavarotti once. He doesn't like it when you join in.",
+        "author": {
+            "name": "Mick Miller",
+            "url": "/quotes/mick_miller_131406"
+        },
+        "topics": [
+            {
+                "name": "Watch",
+                "url": "/topics/watch"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Once",
+                "url": "/topics/once"
+            }
+        ]
+    }
+]

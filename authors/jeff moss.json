@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/jeff_moss_609851",
+        "quote": "I got my first computer at, I don't know, when I was 11 years old? 10?",
+        "author": {
+            "name": "Jeff Moss",
+            "url": "/quotes/jeff_moss_609851"
+        },
+        "topics": [
+            {
+                "name": "Know",
+                "url": "/topics/know"
+            },
+            {
+                "name": "Computer",
+                "url": "/topics/computer"
+            },
+            {
+                "name": "Old",
+                "url": "/topics/old"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jeff_moss_609852",
+        "quote": "Your mistakes get to follow you for the rest of your life. I don't know if that's good for people who are young and are just starting to explore the Internet.",
+        "author": {
+            "name": "Jeff Moss",
+            "url": "/quotes/jeff_moss_609852"
+        },
+        "topics": [
+            {
+                "name": "Rest",
+                "url": "/topics/rest"
+            },
+            {
+                "name": "Explore",
+                "url": "/topics/explore"
+            },
+            {
+                "name": "Young",
+                "url": "/topics/young"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jeff_moss_609853",
+        "quote": "I've met some smart people doing security work in the government, and they're starting to reach out to a broader audience, which I think is a good thing.",
+        "author": {
+            "name": "Jeff Moss",
+            "url": "/quotes/jeff_moss_609853"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jeff_moss_609854",
+        "quote": "That was the division in the hacking world: There were people who were exploring it and the people who were trying to make money from it. And, generally, you stayed away from anyone who was trying to make money from it.",
+        "author": {
+            "name": "Jeff Moss",
+            "url": "/quotes/jeff_moss_609854"
+        },
+        "topics": [
+            {
+                "name": "People",
+                "url": "/topics/people"
+            },
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            },
+            {
+                "name": "Generally",
+                "url": "/topics/generally"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jeff_moss_609855",
+        "quote": "I have an aversion to news nuggets, so I find myself looking for sites that offer more analysis.",
+        "author": {
+            "name": "Jeff Moss",
+            "url": "/quotes/jeff_moss_609855"
+        },
+        "topics": [
+            {
+                "name": "News",
+                "url": "/topics/news"
+            },
+            {
+                "name": "Offer",
+                "url": "/topics/offer"
+            },
+            {
+                "name": "Aversion",
+                "url": "/topics/aversion"
+            }
+        ]
+    }
+]

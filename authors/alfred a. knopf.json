@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/alfred_a_knopf_142521",
+        "quote": "An economist is a man who states the obvious in terms of the incomprehensible.",
+        "author": {
+            "name": "Alfred A. Knopf",
+            "url": "/quotes/alfred_a_knopf_142521"
+        },
+        "topics": [
+            {
+                "name": "Obvious",
+                "url": "/topics/obvious"
+            },
+            {
+                "name": "Economist",
+                "url": "/topics/economist"
+            },
+            {
+                "name": "Terms",
+                "url": "/topics/terms"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alfred_a_knopf_185980",
+        "quote": "The writer who can't do his job looks to his editor to do it for him, though he won't dream of sharing his royalties with that editor.",
+        "author": {
+            "name": "Alfred A. Knopf",
+            "url": "/quotes/alfred_a_knopf_185980"
+        },
+        "topics": [
+            {
+                "name": "Sharing",
+                "url": "/topics/sharing"
+            },
+            {
+                "name": "Editor",
+                "url": "/topics/editor"
+            },
+            {
+                "name": "Though",
+                "url": "/topics/though"
+            }
+        ]
+    }
+]

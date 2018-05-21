@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/achille_maramotti_177532",
+        "quote": "Fashion is never in crisis because clothes are always necessary.",
+        "author": {
+            "name": "Achille Maramotti",
+            "url": "/quotes/achille_maramotti_177532"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Crisis",
+                "url": "/topics/crisis"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/achille_maramotti_177531",
+        "quote": "Families don't make projects for five years, they make projects for generations.",
+        "author": {
+            "name": "Achille Maramotti",
+            "url": "/quotes/achille_maramotti_177531"
+        },
+        "topics": [
+            {
+                "name": "Generations",
+                "url": "/topics/generations"
+            },
+            {
+                "name": "Projects",
+                "url": "/topics/projects"
+            },
+            {
+                "name": "Make",
+                "url": "/topics/make"
+            }
+        ]
+    }
+]

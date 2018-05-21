@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/douglas_jerrold_400715",
+        "quote": "Love's like the measles, all the worse when it comes late in life.",
+        "author": {
+            "name": "Douglas Jerrold",
+            "url": "/quotes/douglas_jerrold_400715"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Late",
+                "url": "/topics/late"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/douglas_jerrold_404926",
+        "quote": "A coquette is like a recruiting sergeant, always on the lookout for fresh victims.",
+        "author": {
+            "name": "Douglas Jerrold",
+            "url": "/quotes/douglas_jerrold_404926"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Sergeant",
+                "url": "/topics/sergeant"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/douglas_jerrold_406934",
+        "quote": "A conservative is a man who will not look at the new moon out of respect for that 'ancient institution' the old one.",
+        "author": {
+            "name": "Douglas Jerrold",
+            "url": "/quotes/douglas_jerrold_406934"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Conservative",
+                "url": "/topics/conservative"
+            },
+            {
+                "name": "Old One",
+                "url": "/topics/old_one"
+            }
+        ]
+    }
+]

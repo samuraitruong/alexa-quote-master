@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/joe_hill_185269",
+        "quote": "Work and pray, live on hay, you'll get pie in the sky when you die.",
+        "author": {
+            "name": "Joe Hill",
+            "url": "/quotes/joe_hill_185269"
+        },
+        "topics": [
+            {
+                "name": "Sky",
+                "url": "/topics/sky"
+            },
+            {
+                "name": "Die",
+                "url": "/topics/die"
+            },
+            {
+                "name": "Hay",
+                "url": "/topics/hay"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joe_hill_185270",
+        "quote": "If the workers took a notion they could stop all speeding trains; every ship upon the ocean they can tie with mighty chains.",
+        "author": {
+            "name": "Joe Hill",
+            "url": "/quotes/joe_hill_185270"
+        },
+        "topics": [
+            {
+                "name": "Chains",
+                "url": "/topics/chains"
+            },
+            {
+                "name": "Speeding",
+                "url": "/topics/speeding"
+            },
+            {
+                "name": "Took",
+                "url": "/topics/took"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joe_hill_170253",
+        "quote": "I will die like a true-blue rebel. Don't waste any time in mourning - organize.",
+        "author": {
+            "name": "Joe Hill",
+            "url": "/quotes/joe_hill_170253"
+        },
+        "topics": [
+            {
+                "name": "Die",
+                "url": "/topics/die"
+            },
+            {
+                "name": "Rebel",
+                "url": "/topics/rebel"
+            },
+            {
+                "name": "Waste",
+                "url": "/topics/waste"
+            }
+        ]
+    }
+]

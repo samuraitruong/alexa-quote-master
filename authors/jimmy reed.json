@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/jimmy_reed_197593",
+        "quote": "If you just stop and think, baby, honey, love is a funny thing. Whatever you put in, that's what you expect to gain.",
+        "author": {
+            "name": "Jimmy Reed",
+            "url": "/quotes/jimmy_reed_197593"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Funny Thing",
+                "url": "/topics/funny_thing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jimmy_reed_197592",
+        "quote": "What you sees, is what you gets.",
+        "author": {
+            "name": "Jimmy Reed",
+            "url": "/quotes/jimmy_reed_197592"
+        },
+        "topics": [
+            {
+                "name": "You",
+                "url": "/topics/you"
+            },
+            {
+                "name": "Sees",
+                "url": "/topics/sees"
+            },
+            {
+                "name": "Gets",
+                "url": "/topics/gets"
+            }
+        ]
+    }
+]

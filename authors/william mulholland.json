@@ -1,0 +1,56 @@
+[
+    {
+        "url": "/quotes/william_mulholland_221253",
+        "quote": "There it is. Take it.",
+        "author": {
+            "name": "William Mulholland",
+            "url": "/quotes/william_mulholland_221253"
+        },
+        "topics": [
+            {
+                "name": "Take",
+                "url": "/topics/take"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_mulholland_221254",
+        "quote": "If there is an error of human judgment, I am the human.",
+        "author": {
+            "name": "William Mulholland",
+            "url": "/quotes/william_mulholland_221254"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Judgment",
+                "url": "/topics/judgment"
+            },
+            {
+                "name": "Error",
+                "url": "/topics/error"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_mulholland_221255",
+        "quote": "I envy the dead.",
+        "author": {
+            "name": "William Mulholland",
+            "url": "/quotes/william_mulholland_221255"
+        },
+        "topics": [
+            {
+                "name": "Envy",
+                "url": "/topics/envy"
+            },
+            {
+                "name": "Dead",
+                "url": "/topics/dead"
+            }
+        ]
+    }
+]

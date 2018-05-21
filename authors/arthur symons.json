@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/arthur_symons_190393",
+        "quote": "A realist, in Venice, would become a romantic by mere faithfulness to what he saw before him.",
+        "author": {
+            "name": "Arthur Symons",
+            "url": "/quotes/arthur_symons_190393"
+        },
+        "topics": [
+            {
+                "name": "Venice",
+                "url": "/topics/venice"
+            },
+            {
+                "name": "Faithfulness",
+                "url": "/topics/faithfulness"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/arthur_symons_190394",
+        "quote": "As perfume doth remain In the folds where it hath lain, So the thought of you, remaining Deeply folded in my brain, Will not leave me: all things leave me: You remain.",
+        "author": {
+            "name": "Arthur Symons",
+            "url": "/quotes/arthur_symons_190394"
+        },
+        "topics": [
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Remain",
+                "url": "/topics/remain"
+            }
+        ]
+    }
+]

@@ -1,0 +1,130 @@
+[
+    {
+        "url": "/quotes/mikhail_gorbachev_398813?src=t_evil_empire",
+        "quote": "It seems that the most important thing about Reagan was his anti-Communism and his reputation as a hawk who saw the Soviet Union as an 'evil empire.'",
+        "author": {
+            "name": "Mikhail Gorbachev",
+            "url": "/authors/mikhail_gorbachev"
+        },
+        "topics": [
+            {
+                "name": "The Most Important",
+                "url": "/topics/the_most_important"
+            },
+            {
+                "name": "Reagan",
+                "url": "/topics/reagan"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mitt_romney_409402?src=t_evil_empire",
+        "quote": "The words spoken by the leader of the free world can expand the frontiers of freedom or shrink them. When Ronald Reagan called on Gorbachev to 'tear down this wall', a surge of confidence rose that would ultimately breach the bounds of the evil empire.",
+        "author": {
+            "name": "Mitt Romney",
+            "url": "/authors/mitt_romney"
+        },
+        "topics": [
+            {
+                "name": "Leader",
+                "url": "/topics/leader"
+            },
+            {
+                "name": "Down",
+                "url": "/topics/down"
+            },
+            {
+                "name": "Reagan",
+                "url": "/topics/reagan"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_foster_bennett_168992?src=t_evil_empire",
+        "quote": "The world has fundamentally changed. It fundamentally changed when the Berlin Wall came down and the 'evil empire' ceased to exist. We are engaged around the world whether we like it or not.",
+        "author": {
+            "name": "Robert Foster Bennett",
+            "url": "/authors/robert_foster_bennett"
+        },
+        "topics": [
+            {
+                "name": "Down",
+                "url": "/topics/down"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Engaged",
+                "url": "/topics/engaged"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_pullman_861746?src=t_evil_empire",
+        "quote": "That's how we invaded Iraq, through the fear of an 'evil empire,' and it just makes people feel like bulls with the toreadors - you see red, and you charge.",
+        "author": {
+            "name": "Bill Pullman",
+            "url": "/authors/bill_pullman"
+        },
+        "topics": [
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Charge",
+                "url": "/topics/charge"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mark_bittman_412275?src=t_evil_empire",
+        "quote": "The current health crisis, however, is a little more the work of the evil empire. We were told, we were assured, that the more meat and dairy and poultry we ate, the healthier we'd be.",
+        "author": {
+            "name": "Mark Bittman",
+            "url": "/authors/mark_bittman"
+        },
+        "topics": [
+            {
+                "name": "Crisis",
+                "url": "/topics/crisis"
+            },
+            {
+                "name": "However",
+                "url": "/topics/however"
+            },
+            {
+                "name": "Poultry",
+                "url": "/topics/poultry"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/seth_gordon_483773?src=t_evil_empire",
+        "quote": "There's no longer a monolithic evil empire somewhere, spreading a different philosophy of life. That doesn't exist.",
+        "author": {
+            "name": "Seth Gordon",
+            "url": "/authors/seth_gordon"
+        },
+        "topics": [
+            {
+                "name": "Life",
+                "url": "/topics/life"
+            },
+            {
+                "name": "Philosophy",
+                "url": "/topics/philosophy"
+            },
+            {
+                "name": "Spreading",
+                "url": "/topics/spreading"
+            }
+        ]
+    }
+]

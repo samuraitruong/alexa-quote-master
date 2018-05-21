@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/wyatt_earp_132804",
+        "quote": "Fast is fine, but accuracy is everything.",
+        "author": {
+            "name": "Wyatt Earp",
+            "url": "/quotes/wyatt_earp_132804"
+        },
+        "topics": [
+            {
+                "name": "Fast",
+                "url": "/topics/fast"
+            },
+            {
+                "name": "Accuracy",
+                "url": "/topics/accuracy"
+            },
+            {
+                "name": "Fine",
+                "url": "/topics/fine"
+            }
+        ]
+    }
+]

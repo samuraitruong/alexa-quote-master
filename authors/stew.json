@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/stew_554254",
+        "quote": "Romance can end, but I don't think art really ends, as romantic as that might sound.",
+        "author": {
+            "name": "Stew",
+            "url": "/quotes/stew_554254"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Romance",
+                "url": "/topics/romance"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/stew_554255",
+        "quote": "Musicians are always eclectic. Musicians are always curious and hungry for new things.",
+        "author": {
+            "name": "Stew",
+            "url": "/quotes/stew_554255"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Hungry",
+                "url": "/topics/hungry"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/stew_554256",
+        "quote": "I love finding out why people don't love things. And if you ask people why they don't like things, particularly when they get into this sort of culture box, you find out that they're not liking things because of what people are going to think about them, and not because of what the things actually sound like.",
+        "author": {
+            "name": "Stew",
+            "url": "/quotes/stew_554256"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Sound",
+                "url": "/topics/sound"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    }
+]

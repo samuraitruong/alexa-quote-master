@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/fra_angelico_338717",
+        "quote": "He who does Christ's work must stay with Christ always.",
+        "author": {
+            "name": "Fra Angelico",
+            "url": "/quotes/fra_angelico_338717"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Christ",
+                "url": "/topics/christ"
+            },
+            {
+                "name": "Does",
+                "url": "/topics/does"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/fra_angelico_694342",
+        "quote": "I can paint pictures, but I cannot rule men.",
+        "author": {
+            "name": "Fra Angelico",
+            "url": "/quotes/fra_angelico_694342"
+        },
+        "topics": [
+            {
+                "name": "Men",
+                "url": "/topics/men"
+            },
+            {
+                "name": "Paint",
+                "url": "/topics/paint"
+            },
+            {
+                "name": "Cannot",
+                "url": "/topics/cannot"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/fra_angelico_694343",
+        "quote": "He who wishes to paint Christ's story must live with Christ.",
+        "author": {
+            "name": "Fra Angelico",
+            "url": "/quotes/fra_angelico_694343"
+        },
+        "topics": [
+            {
+                "name": "Paint",
+                "url": "/topics/paint"
+            },
+            {
+                "name": "Christ",
+                "url": "/topics/christ"
+            },
+            {
+                "name": "Must",
+                "url": "/topics/must"
+            }
+        ]
+    }
+]

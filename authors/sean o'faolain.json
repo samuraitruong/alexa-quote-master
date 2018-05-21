@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/sean_ofaolain_234282",
+        "quote": "Pessimists are usually kind. The gay, bubbling over, have to time for the pitiful.",
+        "author": {
+            "name": "Sean O'Faolain",
+            "url": "/quotes/sean_ofaolain_234282"
+        },
+        "topics": [
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Pitiful",
+                "url": "/topics/pitiful"
+            },
+            {
+                "name": "Pessimists",
+                "url": "/topics/pessimists"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sean_ofaolain_395572",
+        "quote": "There is only one admirable form of the imagination: the imagination that is so intense that it creates a new reality, that it makes things happen.",
+        "author": {
+            "name": "Sean O'Faolain",
+            "url": "/quotes/sean_ofaolain_395572"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Happen",
+                "url": "/topics/happen"
+            },
+            {
+                "name": "Admirable",
+                "url": "/topics/admirable"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/william_atherton_573785",
+        "quote": "If you have to be the antagonist, you often have a lot more creative powers. You have a lot more color to you.",
+        "author": {
+            "name": "William Atherton",
+            "url": "/quotes/william_atherton_573785"
+        },
+        "topics": [
+            {
+                "name": "Color",
+                "url": "/topics/color"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Lot",
+                "url": "/topics/lot"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_atherton_573784",
+        "quote": "I'm a farm boy from Connecticut, and I adopted urban life.",
+        "author": {
+            "name": "William Atherton",
+            "url": "/quotes/william_atherton_573784"
+        },
+        "topics": [
+            {
+                "name": "Farm",
+                "url": "/topics/farm"
+            },
+            {
+                "name": "Urban",
+                "url": "/topics/urban"
+            },
+            {
+                "name": "Connecticut",
+                "url": "/topics/connecticut"
+            }
+        ]
+    }
+]

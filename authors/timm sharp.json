@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/timm_sharp_614230",
+        "quote": "Integrity is incredibly important to me. As long as you're authentic, you can do no wrong.",
+        "author": {
+            "name": "Timm Sharp",
+            "url": "/quotes/timm_sharp_614230"
+        },
+        "topics": [
+            {
+                "name": "Integrity",
+                "url": "/topics/integrity"
+            },
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Important",
+                "url": "/topics/important"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/timm_sharp_614231",
+        "quote": "My first job, I was Chuck E. at Chuck E. Cheese's.",
+        "author": {
+            "name": "Timm Sharp",
+            "url": "/quotes/timm_sharp_614231"
+        },
+        "topics": [
+            {
+                "name": "Job",
+                "url": "/topics/job"
+            },
+            {
+                "name": "First Job",
+                "url": "/topics/first_job"
+            },
+            {
+                "name": "Chuck",
+                "url": "/topics/chuck"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/paavo_nurmi_311931",
+        "quote": "Mind is everything. Muscle - pieces of rubber. All that I am, I am because of my mind.",
+        "author": {
+            "name": "Paavo Nurmi",
+            "url": "/quotes/paavo_nurmi_311931"
+        },
+        "topics": [
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Pieces",
+                "url": "/topics/pieces"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paavo_nurmi_387786",
+        "quote": "All that I am, I am because of my mind.",
+        "author": {
+            "name": "Paavo Nurmi",
+            "url": "/quotes/paavo_nurmi_387786"
+        },
+        "topics": [
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Because",
+                "url": "/topics/because"
+            }
+        ]
+    }
+]

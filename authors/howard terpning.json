@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/howard_terpning_714143",
+        "quote": "I personally don't care for abstract art. I have always felt, 'To each his own.' There's art out there for everybody.",
+        "author": {
+            "name": "Howard Terpning",
+            "url": "/quotes/howard_terpning_714143"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Everybody",
+                "url": "/topics/everybody"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/howard_terpning_714142",
+        "quote": "Before I reached 10 years old, I knew I was going to be an artist.",
+        "author": {
+            "name": "Howard Terpning",
+            "url": "/quotes/howard_terpning_714142"
+        },
+        "topics": [
+            {
+                "name": "Artist",
+                "url": "/topics/artist"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            }
+        ]
+    }
+]

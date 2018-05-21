@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/enid_nemy_116368",
+        "quote": "Even at the United Nations, where legend has it that the building was designed so that there could be no corner offices, the expanse of glass in individual offices is said to be a dead giveaway as to rank. Five windows are excellent, one window not so great.",
+        "author": {
+            "name": "Enid Nemy",
+            "url": "/quotes/enid_nemy_116368"
+        },
+        "topics": [
+            {
+                "name": "Architecture",
+                "url": "/topics/architecture"
+            },
+            {
+                "name": "Legend",
+                "url": "/topics/legend"
+            },
+            {
+                "name": "United",
+                "url": "/topics/united"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/enid_nemy_117586",
+        "quote": "Windows are as essential to office prestige as Christmas is to retailing.",
+        "author": {
+            "name": "Enid Nemy",
+            "url": "/quotes/enid_nemy_117586"
+        },
+        "topics": [
+            {
+                "name": "Windows",
+                "url": "/topics/windows"
+            },
+            {
+                "name": "Office",
+                "url": "/topics/office"
+            },
+            {
+                "name": "Retailing",
+                "url": "/topics/retailing"
+            }
+        ]
+    }
+]

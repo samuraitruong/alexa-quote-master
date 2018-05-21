@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/faizon_love_655680",
+        "quote": "One of my favorite guys when I was young... I've always loved Bill Cosby. I've always wanted to direct him in something.",
+        "author": {
+            "name": "Faizon Love",
+            "url": "/quotes/faizon_love_655680"
+        },
+        "topics": [
+            {
+                "name": "Young",
+                "url": "/topics/young"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Direct",
+                "url": "/topics/direct"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/faizon_love_561525",
+        "quote": "'The Replacements' is where I met Jon Favreau, and we just clicked like, you know, like kids at a camp.",
+        "author": {
+            "name": "Faizon Love",
+            "url": "/quotes/faizon_love_561525"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Jon",
+                "url": "/topics/jon"
+            },
+            {
+                "name": "Clicked",
+                "url": "/topics/clicked"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/faizon_love_655681",
+        "quote": "'The Replacements' is where I met Jon Favreau, and we just clicked like, you know, like kids at a camp. And he wrote my next movie, which was 'Made.'",
+        "author": {
+            "name": "Faizon Love",
+            "url": "/quotes/faizon_love_655681"
+        },
+        "topics": [
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Movie",
+                "url": "/topics/movie"
+            }
+        ]
+    }
+]

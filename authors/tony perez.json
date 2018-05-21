@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/tony_perez_197438",
+        "quote": "I could feel it in my bones, how I missed the heat of my country and the love of my family.",
+        "author": {
+            "name": "Tony Perez",
+            "url": "/quotes/tony_perez_197438"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Heat",
+                "url": "/topics/heat"
+            },
+            {
+                "name": "How",
+                "url": "/topics/how"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tony_perez_197440",
+        "quote": "When it came to foods it was a guessing game.",
+        "author": {
+            "name": "Tony Perez",
+            "url": "/quotes/tony_perez_197440"
+        },
+        "topics": [
+            {
+                "name": "Game",
+                "url": "/topics/game"
+            },
+            {
+                "name": "Foods",
+                "url": "/topics/foods"
+            },
+            {
+                "name": "Came",
+                "url": "/topics/came"
+            }
+        ]
+    }
+]

@@ -1,0 +1,178 @@
+[
+    {
+        "url": "/quotes/socrates_125872?src=t_wisest_man",
+        "quote": "I am the wisest man alive, for I know one thing, and that is that I know nothing.",
+        "author": {
+            "name": "Socrates",
+            "url": "/authors/socrates"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Alive",
+                "url": "/topics/alive"
+            },
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_godwin_184367?src=t_wisest_man",
+        "quote": "The philosophy of the wisest man that ever existed, is mainly derived from the act of introspection.",
+        "author": {
+            "name": "William Godwin",
+            "url": "/authors/william_godwin"
+        },
+        "topics": [
+            {
+                "name": "Act",
+                "url": "/topics/act"
+            },
+            {
+                "name": "Introspection",
+                "url": "/topics/introspection"
+            },
+            {
+                "name": "Ever",
+                "url": "/topics/ever"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bryant_h_mcgill_168257?src=t_wisest_man",
+        "quote": "Remember that the greatest fool in the world may ask more than the wisest man can answer.",
+        "author": {
+            "name": "Bryant H. McGill",
+            "url": "/authors/bryant_h_mcgill"
+        },
+        "topics": [
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Remember",
+                "url": "/topics/remember"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charles_caleb_colton_125338?src=t_wisest_man",
+        "quote": "Examinations are formidable even to the best prepared, for the greatest fool may ask more than the wisest man can answer.",
+        "author": {
+            "name": "Charles Caleb Colton",
+            "url": "/authors/charles_caleb_colton"
+        },
+        "topics": [
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Prepared",
+                "url": "/topics/prepared"
+            },
+            {
+                "name": "Formidable",
+                "url": "/topics/formidable"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/johann_wolfgang_von_goeth_150609?src=t_wisest_man",
+        "quote": "Who is the wisest man? He who neither knows or wishes for anything else than what happens.",
+        "author": {
+            "name": "Johann Wolfgang von Goethe",
+            "url": "/authors/johann_wolfgang_von_goeth"
+        },
+        "topics": [
+            {
+                "name": "Wisest",
+                "url": "/topics/wisest"
+            },
+            {
+                "name": "Else",
+                "url": "/topics/else"
+            },
+            {
+                "name": "Anything Else",
+                "url": "/topics/anything_else"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joe_biden_676840?src=t_wisest_man",
+        "quote": "On the way back from Mumbai to go meet with President Xi in China, I stopped in Singapore to meet with a guy named Lee Kuan Yew, who most foreign policy experts around the world say is the wisest man in the Orient.",
+        "author": {
+            "name": "Joe Biden",
+            "url": "/authors/joe_biden"
+        },
+        "topics": [
+            {
+                "name": "Back",
+                "url": "/topics/back"
+            },
+            {
+                "name": "Mumbai",
+                "url": "/topics/mumbai"
+            },
+            {
+                "name": "Named",
+                "url": "/topics/named"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jules_verne_664830?src=t_wisest_man",
+        "quote": "The wisest man may be a blind father.",
+        "author": {
+            "name": "Jules Verne",
+            "url": "/authors/jules_verne"
+        },
+        "topics": [
+            {
+                "name": "Father",
+                "url": "/topics/father"
+            },
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Blind",
+                "url": "/topics/blind"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jose_saramago_457298?src=t_wisest_man",
+        "quote": "The wisest man I ever knew in my whole life could not read or write.",
+        "author": {
+            "name": "Jose Saramago",
+            "url": "/authors/jose_saramago"
+        },
+        "topics": [
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            },
+            {
+                "name": "Ever",
+                "url": "/topics/ever"
+            },
+            {
+                "name": "Read",
+                "url": "/topics/read"
+            }
+        ]
+    }
+]

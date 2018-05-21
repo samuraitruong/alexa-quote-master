@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/george_sanders_178323",
+        "quote": "Good-bye. I am leaving because I am bored.",
+        "author": {
+            "name": "George Sanders",
+            "url": "/quotes/george_sanders_178323"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Because",
+                "url": "/topics/because"
+            },
+            {
+                "name": "Good-Bye",
+                "url": "/topics/good-bye"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_sanders_162019",
+        "quote": "Dear World, I am leaving because I am bored. I feel I have lived long enough. I am leaving you with your worries in this sweet cesspool. Good luck.",
+        "author": {
+            "name": "George Sanders",
+            "url": "/quotes/george_sanders_162019"
+        },
+        "topics": [
+            {
+                "name": "Good Luck",
+                "url": "/topics/good_luck"
+            },
+            {
+                "name": "Luck",
+                "url": "/topics/luck"
+            },
+            {
+                "name": "Feel",
+                "url": "/topics/feel"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_sanders_119592",
+        "quote": "People of Wealth and the so called upper class suffer the most from boredom.",
+        "author": {
+            "name": "George Sanders",
+            "url": "/quotes/george_sanders_119592"
+        },
+        "topics": [
+            {
+                "name": "Wealth",
+                "url": "/topics/wealth"
+            },
+            {
+                "name": "Boredom",
+                "url": "/topics/boredom"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_sanders_178322",
+        "quote": "Acting is like roller skating. Once you know how to do it, it is neither stimulating nor exciting.",
+        "author": {
+            "name": "George Sanders",
+            "url": "/quotes/george_sanders_178322"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Nor",
+                "url": "/topics/nor"
+            },
+            {
+                "name": "How",
+                "url": "/topics/how"
+            }
+        ]
+    }
+]

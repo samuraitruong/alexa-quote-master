@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/jennifer_finnigan_697880",
+        "quote": "My favorite genre of movies growing up was the romantic comedy.",
+        "author": {
+            "name": "Jennifer Finnigan",
+            "url": "/quotes/jennifer_finnigan_697880"
+        },
+        "topics": [
+            {
+                "name": "Growing Up",
+                "url": "/topics/growing_up"
+            },
+            {
+                "name": "Growing",
+                "url": "/topics/growing"
+            },
+            {
+                "name": "Movies",
+                "url": "/topics/movies"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jennifer_finnigan_697881",
+        "quote": "I know it's a cliche, but I've been happy to go to work every day.",
+        "author": {
+            "name": "Jennifer Finnigan",
+            "url": "/quotes/jennifer_finnigan_697881"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Cliche",
+                "url": "/topics/cliche"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jennifer_finnigan_697882",
+        "quote": "'Monday Mornings' is so utterly different - in so many ways - from anything else I've done, really. I also desperately wanted an ensemble piece, but I couldn't have dreamed of being a part of something like this. I am so lucky.",
+        "author": {
+            "name": "Jennifer Finnigan",
+            "url": "/quotes/jennifer_finnigan_697882"
+        },
+        "topics": [
+            {
+                "name": "Lucky",
+                "url": "/topics/lucky"
+            },
+            {
+                "name": "Ensemble",
+                "url": "/topics/ensemble"
+            },
+            {
+                "name": "Part",
+                "url": "/topics/part"
+            }
+        ]
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/jean_moulin_254204",
+        "quote": "My task is becoming more and more delicate, while the difficulties increase constantly.",
+        "author": {
+            "name": "Jean Moulin",
+            "url": "/quotes/jean_moulin_254204"
+        },
+        "topics": [
+            {
+                "name": "Delicate",
+                "url": "/topics/delicate"
+            },
+            {
+                "name": "Task",
+                "url": "/topics/task"
+            },
+            {
+                "name": "Becoming",
+                "url": "/topics/becoming"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jean_moulin_254202",
+        "quote": "I am determined to hold on as long as possible, but if I should disappear, I should not have had the time to familiarize my successors with the necessary information.",
+        "author": {
+            "name": "Jean Moulin",
+            "url": "/quotes/jean_moulin_254202"
+        },
+        "topics": [
+            {
+                "name": "Possible",
+                "url": "/topics/possible"
+            },
+            {
+                "name": "Had",
+                "url": "/topics/had"
+            },
+            {
+                "name": "Necessary",
+                "url": "/topics/necessary"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jean_moulin_254207",
+        "quote": "These three movements were born spontaneously and independently of the initiative of a few French patriots who had a place in the old political groups and parties.",
+        "author": {
+            "name": "Jean Moulin",
+            "url": "/quotes/jean_moulin_254207"
+        },
+        "topics": [
+            {
+                "name": "Initiative",
+                "url": "/topics/initiative"
+            },
+            {
+                "name": "Spontaneously",
+                "url": "/topics/spontaneously"
+            }
+        ]
+    }
+]

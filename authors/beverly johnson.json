@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/beverly_johnson_130802",
+        "quote": "Everyone should have enough money to get plastic surgery.",
+        "author": {
+            "name": "Beverly Johnson",
+            "url": "/quotes/beverly_johnson_130802"
+        },
+        "topics": [
+            {
+                "name": "Money",
+                "url": "/topics/money"
+            },
+            {
+                "name": "Everyone",
+                "url": "/topics/everyone"
+            },
+            {
+                "name": "Plastic",
+                "url": "/topics/plastic"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/beverly_johnson_163660",
+        "quote": "My husband was just OK looking. I was in labor and I said to him, 'What if she's ugly? You're ugly.'",
+        "author": {
+            "name": "Beverly Johnson",
+            "url": "/quotes/beverly_johnson_163660"
+        },
+        "topics": [
+            {
+                "name": "Husband",
+                "url": "/topics/husband"
+            },
+            {
+                "name": "Ugly",
+                "url": "/topics/ugly"
+            },
+            {
+                "name": "Him",
+                "url": "/topics/him"
+            }
+        ]
+    }
+]

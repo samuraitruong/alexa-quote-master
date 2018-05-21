@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/henry_james_byron_176705",
+        "quote": "Life's to short for chess.",
+        "author": {
+            "name": "Henry James Byron",
+            "url": "/quotes/henry_james_byron_176705"
+        },
+        "topics": [
+            {
+                "name": "Life",
+                "url": "/topics/life"
+            },
+            {
+                "name": "Short",
+                "url": "/topics/short"
+            },
+            {
+                "name": "Chess",
+                "url": "/topics/chess"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henry_james_byron_270607",
+        "quote": "Life's too short for chess.",
+        "author": {
+            "name": "Henry James Byron",
+            "url": "/quotes/henry_james_byron_270607"
+        },
+        "topics": [
+            {
+                "name": "Short",
+                "url": "/topics/short"
+            },
+            {
+                "name": "Chess",
+                "url": "/topics/chess"
+            },
+            {
+                "name": "Too",
+                "url": "/topics/too"
+            }
+        ]
+    }
+]

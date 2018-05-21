@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/john_brown_gordon_234816",
+        "quote": "No people in the history of the world have ever been so misunderstood, so misjudged, and so cruelly maligned.",
+        "author": {
+            "name": "John Brown Gordon",
+            "url": "/quotes/john_brown_gordon_234816"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Ever",
+                "url": "/topics/ever"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_brown_gordon_234815",
+        "quote": "General Lee, this is no place for you. These men behind you are Georgians and Virginians. They have never failed you and will not fail you here. Will you boys?",
+        "author": {
+            "name": "John Brown Gordon",
+            "url": "/quotes/john_brown_gordon_234815"
+        },
+        "topics": [
+            {
+                "name": "Behind",
+                "url": "/topics/behind"
+            },
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_brown_gordon_234814",
+        "quote": "I was shot down by a fifth ball, which struck me squarely in the face, and passed out.",
+        "author": {
+            "name": "John Brown Gordon",
+            "url": "/quotes/john_brown_gordon_234814"
+        },
+        "topics": [
+            {
+                "name": "Ball",
+                "url": "/topics/ball"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Squarely",
+                "url": "/topics/squarely"
+            }
+        ]
+    }
+]

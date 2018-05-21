@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/charles_seymour_113026",
+        "quote": "We seek the truth and will endure the consequences.",
+        "author": {
+            "name": "Charles Seymour",
+            "url": "/quotes/charles_seymour_113026"
+        },
+        "topics": [
+            {
+                "name": "Truth",
+                "url": "/topics/truth"
+            },
+            {
+                "name": "Consequences",
+                "url": "/topics/consequences"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charles_seymour_122176",
+        "quote": "Think wrongly if you please, but in all cases, think for yourself.",
+        "author": {
+            "name": "Charles Seymour",
+            "url": "/quotes/charles_seymour_122176"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Cases",
+                "url": "/topics/cases"
+            },
+            {
+                "name": "Wrongly",
+                "url": "/topics/wrongly"
+            }
+        ]
+    }
+]

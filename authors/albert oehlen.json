@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/albert_oehlen_515419",
+        "quote": "I want to make beautiful paintings. But I don't make beautiful paintings by putting beautiful paint on a canvas with a beautiful motif. It just doesn't work. I expect my paintings to be strong and surprising.",
+        "author": {
+            "name": "Albert Oehlen",
+            "url": "/quotes/albert_oehlen_515419"
+        },
+        "topics": [
+            {
+                "name": "Strong",
+                "url": "/topics/strong"
+            },
+            {
+                "name": "Canvas",
+                "url": "/topics/canvas"
+            },
+            {
+                "name": "Putting",
+                "url": "/topics/putting"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/albert_oehlen_515418",
+        "quote": "I'm not a big theory person. So when I get asked questions that demand serious statements, I just make it up.",
+        "author": {
+            "name": "Albert Oehlen",
+            "url": "/quotes/albert_oehlen_515418"
+        },
+        "topics": [
+            {
+                "name": "Questions",
+                "url": "/topics/questions"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Statements",
+                "url": "/topics/statements"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/albert_oehlen_515420",
+        "quote": "If someone stands in front of one of my paintings and says, 'This is just a mess', the word 'just' is not so good, but 'mess' might be right. Why not a mess? If it makes you say, 'Wow, I've never seen anything like that', that's beautiful.",
+        "author": {
+            "name": "Albert Oehlen",
+            "url": "/quotes/albert_oehlen_515420"
+        },
+        "topics": [
+            {
+                "name": "Good",
+                "url": "/topics/good"
+            },
+            {
+                "name": "Why",
+                "url": "/topics/why"
+            },
+            {
+                "name": "Mess",
+                "url": "/topics/mess"
+            }
+        ]
+    }
+]

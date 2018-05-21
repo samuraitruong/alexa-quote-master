@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/tom_mcmillan_170813",
+        "quote": "For 200 years we've been conquering nature. Now we're beating it to death.",
+        "author": {
+            "name": "Tom McMillan",
+            "url": "/quotes/tom_mcmillan_170813"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "Death",
+                "url": "/topics/death"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tom_mcmillan_404736",
+        "quote": "No matter what other plans are out there, this is the best plan.",
+        "author": {
+            "name": "Tom McMillan",
+            "url": "/quotes/tom_mcmillan_404736"
+        },
+        "topics": [
+            {
+                "name": "Best",
+                "url": "/topics/best"
+            },
+            {
+                "name": "Plans",
+                "url": "/topics/plans"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    }
+]

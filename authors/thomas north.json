@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/thomas_north_207453",
+        "quote": "I give with reason.",
+        "author": {
+            "name": "Thomas North",
+            "url": "/quotes/thomas_north_207453"
+        },
+        "topics": [
+            {
+                "name": "Reason",
+                "url": "/topics/reason"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_north_207454",
+        "quote": "Without saying word to anybody, cover thy face.",
+        "author": {
+            "name": "Thomas North",
+            "url": "/quotes/thomas_north_207454"
+        },
+        "topics": [
+            {
+                "name": "Face",
+                "url": "/topics/face"
+            },
+            {
+                "name": "Thy",
+                "url": "/topics/thy"
+            },
+            {
+                "name": "Cover",
+                "url": "/topics/cover"
+            }
+        ]
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/alec_issigonis_312014",
+        "quote": "A camel is a horse designed by committee.",
+        "author": {
+            "name": "Alec Issigonis",
+            "url": "/quotes/alec_issigonis_312014"
+        },
+        "topics": [
+            {
+                "name": "Horse",
+                "url": "/topics/horse"
+            },
+            {
+                "name": "Design",
+                "url": "/topics/design"
+            },
+            {
+                "name": "Committee",
+                "url": "/topics/committee"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alec_issigonis_402500",
+        "quote": "I feel very, very proud that so many people have copied me.",
+        "author": {
+            "name": "Alec Issigonis",
+            "url": "/quotes/alec_issigonis_402500"
+        },
+        "topics": [
+            {
+                "name": "Proud",
+                "url": "/topics/proud"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Copied",
+                "url": "/topics/copied"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alec_issigonis_399741",
+        "quote": "The public don't know what they want; it's my job to tell them.",
+        "author": {
+            "name": "Alec Issigonis",
+            "url": "/quotes/alec_issigonis_399741"
+        },
+        "topics": [
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Tell",
+                "url": "/topics/tell"
+            },
+            {
+                "name": "Public",
+                "url": "/topics/public"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alec_issigonis_395814",
+        "quote": "It is much easier to drive without having an accident.",
+        "author": {
+            "name": "Alec Issigonis",
+            "url": "/quotes/alec_issigonis_395814"
+        },
+        "topics": [
+            {
+                "name": "Drive",
+                "url": "/topics/drive"
+            },
+            {
+                "name": "Having",
+                "url": "/topics/having"
+            },
+            {
+                "name": "Easier",
+                "url": "/topics/easier"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alec_issigonis_399885",
+        "quote": "An expert is someone who tells you why you can't do something.",
+        "author": {
+            "name": "Alec Issigonis",
+            "url": "/quotes/alec_issigonis_399885"
+        },
+        "topics": [
+            {
+                "name": "Someone",
+                "url": "/topics/someone"
+            },
+            {
+                "name": "Expert",
+                "url": "/topics/expert"
+            },
+            {
+                "name": "Tells",
+                "url": "/topics/tells"
+            }
+        ]
+    }
+]

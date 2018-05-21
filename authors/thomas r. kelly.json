@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/thomas_r_kelly_191158",
+        "quote": "We have mistaken the nature of poverty, and thought it was economic poverty. No, it is poverty of soul, deprivation of God's recreating, loving peace.",
+        "author": {
+            "name": "Thomas R. Kelly",
+            "url": "/quotes/thomas_r_kelly_191158"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Loving",
+                "url": "/topics/loving"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_r_kelly_191157",
+        "quote": "The deepest need of men is not food and clothing and shelter, important as they are. It is God.",
+        "author": {
+            "name": "Thomas R. Kelly",
+            "url": "/quotes/thomas_r_kelly_191157"
+        },
+        "topics": [
+            {
+                "name": "Important",
+                "url": "/topics/important"
+            },
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            },
+            {
+                "name": "Shelter",
+                "url": "/topics/shelter"
+            }
+        ]
+    }
+]

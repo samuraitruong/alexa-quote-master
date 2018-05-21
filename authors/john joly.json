@@ -1,0 +1,108 @@
+[
+    {
+        "url": "/quotes/john_joly_403076",
+        "quote": "That the sea is one of the most beautiful and magnificent sights in Nature, all admit.",
+        "author": {
+            "name": "John Joly",
+            "url": "/quotes/john_joly_403076"
+        },
+        "topics": [
+            {
+                "name": "Beautiful",
+                "url": "/topics/beautiful"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "Sights",
+                "url": "/topics/sights"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_joly_396132",
+        "quote": "Geological age plays the same part in our views of the duration of the universe as the Earth's orbital radius does in our views of the immensity of space.",
+        "author": {
+            "name": "John Joly",
+            "url": "/quotes/john_joly_396132"
+        },
+        "topics": [
+            {
+                "name": "Part",
+                "url": "/topics/part"
+            },
+            {
+                "name": "Our",
+                "url": "/topics/our"
+            },
+            {
+                "name": "Plays",
+                "url": "/topics/plays"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_joly_399452",
+        "quote": "All great results in our universe are founded in motions and forces the most minute.",
+        "author": {
+            "name": "John Joly",
+            "url": "/quotes/john_joly_399452"
+        },
+        "topics": [
+            {
+                "name": "Universe",
+                "url": "/topics/universe"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "Forces",
+                "url": "/topics/forces"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_joly_286596",
+        "quote": "The sediments of the past are many miles in collective thickness: yet the feeble silt of the rivers built them all from base to summit.",
+        "author": {
+            "name": "John Joly",
+            "url": "/quotes/john_joly_286596"
+        },
+        "topics": [
+            {
+                "name": "Past",
+                "url": "/topics/past"
+            },
+            {
+                "name": "Rivers",
+                "url": "/topics/rivers"
+            },
+            {
+                "name": "Built",
+                "url": "/topics/built"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_joly_397854",
+        "quote": "We live in an epoch of denudation.",
+        "author": {
+            "name": "John Joly",
+            "url": "/quotes/john_joly_397854"
+        },
+        "topics": [
+            {
+                "name": "Live",
+                "url": "/topics/live"
+            },
+            {
+                "name": "Epoch",
+                "url": "/topics/epoch"
+            }
+        ]
+    }
+]

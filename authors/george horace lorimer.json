@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/george_horace_lorimer_130710",
+        "quote": "You've got to get up every morning with determination if you're going to go to bed with satisfaction.",
+        "author": {
+            "name": "George Horace Lorimer",
+            "url": "/quotes/george_horace_lorimer_130710"
+        },
+        "topics": [
+            {
+                "name": "Bed",
+                "url": "/topics/bed"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Get",
+                "url": "/topics/get"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_horace_lorimer_106813",
+        "quote": "It's good to have money and the things that money can buy, but it's good, too, to check up once in a while and make sure that you haven't lost the things that money can't buy.",
+        "author": {
+            "name": "George Horace Lorimer",
+            "url": "/quotes/george_horace_lorimer_106813"
+        },
+        "topics": [
+            {
+                "name": "Sure",
+                "url": "/topics/sure"
+            },
+            {
+                "name": "Check",
+                "url": "/topics/check"
+            },
+            {
+                "name": "Buy",
+                "url": "/topics/buy"
+            }
+        ]
+    }
+]

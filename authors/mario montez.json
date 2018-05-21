@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/mario_montez_624748",
+        "quote": "No matter what I do, it somehow comes out right - even if it was a mistake!",
+        "author": {
+            "name": "Mario Montez",
+            "url": "/quotes/mario_montez_624748"
+        },
+        "topics": [
+            {
+                "name": "Mistake",
+                "url": "/topics/mistake"
+            },
+            {
+                "name": "Even",
+                "url": "/topics/even"
+            },
+            {
+                "name": "Somehow",
+                "url": "/topics/somehow"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mario_montez_624749",
+        "quote": "I know when I'm not wanted.",
+        "author": {
+            "name": "Mario Montez",
+            "url": "/quotes/mario_montez_624749"
+        },
+        "topics": [
+            {
+                "name": "Know",
+                "url": "/topics/know"
+            },
+            {
+                "name": "Wanted",
+                "url": "/topics/wanted"
+            }
+        ]
+    }
+]

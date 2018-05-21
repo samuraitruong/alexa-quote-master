@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/ben_sweetland_122130",
+        "quote": "Success is a journey, not a destination.",
+        "author": {
+            "name": "Ben Sweetland",
+            "url": "/quotes/ben_sweetland_122130"
+        },
+        "topics": [
+            {
+                "name": "Success",
+                "url": "/topics/success"
+            },
+            {
+                "name": "Journey",
+                "url": "/topics/journey"
+            },
+            {
+                "name": "Success Is",
+                "url": "/topics/success_is"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ben_sweetland_101231",
+        "quote": "We cannot hold a torch to light another's path without brightening our own.",
+        "author": {
+            "name": "Ben Sweetland",
+            "url": "/quotes/ben_sweetland_101231"
+        },
+        "topics": [
+            {
+                "name": "Path",
+                "url": "/topics/path"
+            },
+            {
+                "name": "Light",
+                "url": "/topics/light"
+            },
+            {
+                "name": "We Cannot",
+                "url": "/topics/we_cannot"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ben_sweetland_173537",
+        "quote": "The world is full of abundance and opportunity, but far too many people come to the fountain of life with a sieve instead of a tank car... a teaspoon instead of a steam shovel. They expect little and as a result they get little.",
+        "author": {
+            "name": "Ben Sweetland",
+            "url": "/quotes/ben_sweetland_173537"
+        },
+        "topics": [
+            {
+                "name": "Fountain",
+                "url": "/topics/fountain"
+            },
+            {
+                "name": "Abundance",
+                "url": "/topics/abundance"
+            },
+            {
+                "name": "Shovel",
+                "url": "/topics/shovel"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ben_sweetland_173539",
+        "quote": "Wonder if there is life on another planet? Let's suppose there is. Suppose further, that only one star in a trillion has a planet that could support life. If that were the case, then there would be at least 100 million planets that harbored life.",
+        "author": {
+            "name": "Ben Sweetland",
+            "url": "/quotes/ben_sweetland_173539"
+        },
+        "topics": [
+            {
+                "name": "Star",
+                "url": "/topics/star"
+            },
+            {
+                "name": "Planet",
+                "url": "/topics/planet"
+            },
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            }
+        ]
+    }
+]

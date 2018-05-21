@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/aaron_burr_136604",
+        "quote": "Never do today what you can do tomorrow. Something may occur to make you regret your premature action.",
+        "author": {
+            "name": "Aaron Burr",
+            "url": "/quotes/aaron_burr_136604"
+        },
+        "topics": [
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Premature",
+                "url": "/topics/premature"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/aaron_burr_389551",
+        "quote": "The rule of my life is to make business a pleasure, and pleasure my business.",
+        "author": {
+            "name": "Aaron Burr",
+            "url": "/quotes/aaron_burr_389551"
+        },
+        "topics": [
+            {
+                "name": "Business",
+                "url": "/topics/business"
+            },
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Pleasure",
+                "url": "/topics/pleasure"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/aaron_burr_379494",
+        "quote": "Go West, young man.",
+        "author": {
+            "name": "Aaron Burr",
+            "url": "/quotes/aaron_burr_379494"
+        },
+        "topics": [
+            {
+                "name": "Young Man",
+                "url": "/topics/young_man"
+            },
+            {
+                "name": "Young",
+                "url": "/topics/young"
+            },
+            {
+                "name": "Go",
+                "url": "/topics/go"
+            }
+        ]
+    }
+]

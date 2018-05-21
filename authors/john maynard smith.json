@@ -1,0 +1,152 @@
+[
+    {
+        "url": "/quotes/john_maynard_smith_262350",
+        "quote": "I think we invent jargon because it saves times talking to one-another.",
+        "author": {
+            "name": "John Maynard Smith",
+            "url": "/quotes/john_maynard_smith_262350"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Times",
+                "url": "/topics/times"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_maynard_smith_262304",
+        "quote": "Genetics is about how information is stored and transmitted between generations.",
+        "author": {
+            "name": "John Maynard Smith",
+            "url": "/quotes/john_maynard_smith_262304"
+        },
+        "topics": [
+            {
+                "name": "Genetics",
+                "url": "/topics/genetics"
+            },
+            {
+                "name": "How",
+                "url": "/topics/how"
+            },
+            {
+                "name": "Stored",
+                "url": "/topics/stored"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_maynard_smith_262308",
+        "quote": "Information imposes certain criteria on how it can be stored.",
+        "author": {
+            "name": "John Maynard Smith",
+            "url": "/quotes/john_maynard_smith_262308"
+        },
+        "topics": [
+            {
+                "name": "How",
+                "url": "/topics/how"
+            },
+            {
+                "name": "Criteria",
+                "url": "/topics/criteria"
+            },
+            {
+                "name": "Stored",
+                "url": "/topics/stored"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_maynard_smith_262328",
+        "quote": "The evolution of sex is the hardest problem in evolutionary biology.",
+        "author": {
+            "name": "John Maynard Smith",
+            "url": "/quotes/john_maynard_smith_262328"
+        },
+        "topics": [
+            {
+                "name": "Problem",
+                "url": "/topics/problem"
+            },
+            {
+                "name": "Biology",
+                "url": "/topics/biology"
+            },
+            {
+                "name": "Sex",
+                "url": "/topics/sex"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_maynard_smith_262330",
+        "quote": "You couldn't have human society without language.",
+        "author": {
+            "name": "John Maynard Smith",
+            "url": "/quotes/john_maynard_smith_262330"
+        },
+        "topics": [
+            {
+                "name": "Society",
+                "url": "/topics/society"
+            },
+            {
+                "name": "Human Society",
+                "url": "/topics/human_society"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_maynard_smith_262335",
+        "quote": "Societies depend on agreed rules.",
+        "author": {
+            "name": "John Maynard Smith",
+            "url": "/quotes/john_maynard_smith_262335"
+        },
+        "topics": [
+            {
+                "name": "Rules",
+                "url": "/topics/rules"
+            },
+            {
+                "name": "Depend",
+                "url": "/topics/depend"
+            },
+            {
+                "name": "Societies",
+                "url": "/topics/societies"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_maynard_smith_262349",
+        "quote": "Language changes very fast.",
+        "author": {
+            "name": "John Maynard Smith",
+            "url": "/quotes/john_maynard_smith_262349"
+        },
+        "topics": [
+            {
+                "name": "Changes",
+                "url": "/topics/changes"
+            },
+            {
+                "name": "Fast",
+                "url": "/topics/fast"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    }
+]

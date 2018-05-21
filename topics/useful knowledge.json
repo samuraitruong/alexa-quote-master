@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/sam_houston_187120?src=t_useful_knowledge",
+        "quote": "The benefits of education and of useful knowledge, generally diffused through a community, are essential to the preservation of a free government.",
+        "author": {
+            "name": "Sam Houston",
+            "url": "/authors/sam_houston"
+        },
+        "topics": [
+            {
+                "name": "Education",
+                "url": "/topics/education"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Benefits",
+                "url": "/topics/benefits"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/samuel_johnson_138881?src=t_useful_knowledge",
+        "quote": "Leisure and curiosity might soon make great advances in useful knowledge, were they not diverted by minute emulation and laborious trifles.",
+        "author": {
+            "name": "Samuel Johnson",
+            "url": "/authors/samuel_johnson"
+        },
+        "topics": [
+            {
+                "name": "Curiosity",
+                "url": "/topics/curiosity"
+            },
+            {
+                "name": "Might",
+                "url": "/topics/might"
+            },
+            {
+                "name": "Laborious",
+                "url": "/topics/laborious"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/albert_j_nock_403245?src=t_useful_knowledge",
+        "quote": "The business of a scientific school is the dissemination of useful knowledge, and this is a noble enterprise and indispensable withal; society can not exist unless it goes on.",
+        "author": {
+            "name": "Albert J. Nock",
+            "url": "/authors/albert_j_nock"
+        },
+        "topics": [
+            {
+                "name": "Business",
+                "url": "/topics/business"
+            },
+            {
+                "name": "Enterprise",
+                "url": "/topics/enterprise"
+            },
+            {
+                "name": "Goes",
+                "url": "/topics/goes"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/albert_j_nock_408859?src=t_useful_knowledge",
+        "quote": "Perhaps the prevalence of pedantry may be largely accounted for by the common error of thinking that, because useful knowledge should be remembered, any kind of knowledge that is at all worth learning should be remembered too.",
+        "author": {
+            "name": "Albert J. Nock",
+            "url": "/authors/albert_j_nock"
+        },
+        "topics": [
+            {
+                "name": "Learning",
+                "url": "/topics/learning"
+            },
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Kind",
+                "url": "/topics/kind"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/albert_j_nock_408861?src=t_useful_knowledge",
+        "quote": "Life has obliged him to remember so much useful knowledge that he has lost not only his history, but his whole original cargo of useless knowledge; history, languages, literatures, the higher mathematics, or what you will - are all gone.",
+        "author": {
+            "name": "Albert J. Nock",
+            "url": "/authors/albert_j_nock"
+        },
+        "topics": [
+            {
+                "name": "Mathematics",
+                "url": "/topics/mathematics"
+            },
+            {
+                "name": "Whole",
+                "url": "/topics/whole"
+            },
+            {
+                "name": "Obliged",
+                "url": "/topics/obliged"
+            }
+        ]
+    }
+]

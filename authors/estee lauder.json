@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/estee_lauder_115247",
+        "quote": "If you don't sell, it's not the product that's wrong, it's you.",
+        "author": {
+            "name": "Estee Lauder",
+            "url": "/quotes/estee_lauder_115247"
+        },
+        "topics": [
+            {
+                "name": "Product",
+                "url": "/topics/product"
+            },
+            {
+                "name": "You",
+                "url": "/topics/you"
+            },
+            {
+                "name": "Sell",
+                "url": "/topics/sell"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/estee_lauder_115248",
+        "quote": "Look for a sweet person. Forget rich.",
+        "author": {
+            "name": "Estee Lauder",
+            "url": "/quotes/estee_lauder_115248"
+        },
+        "topics": [
+            {
+                "name": "Forget",
+                "url": "/topics/forget"
+            },
+            {
+                "name": "Rich",
+                "url": "/topics/rich"
+            },
+            {
+                "name": "Person",
+                "url": "/topics/person"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/estee_lauder_115245",
+        "quote": "When you stop talking, you've lost your customer. When you turn your back, you've lost her.",
+        "author": {
+            "name": "Estee Lauder",
+            "url": "/quotes/estee_lauder_115245"
+        },
+        "topics": [
+            {
+                "name": "Communication",
+                "url": "/topics/communication"
+            },
+            {
+                "name": "Her",
+                "url": "/topics/her"
+            },
+            {
+                "name": "Stop",
+                "url": "/topics/stop"
+            }
+        ]
+    }
+]

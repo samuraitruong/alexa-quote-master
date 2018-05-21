@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/bobby_moore_140429",
+        "quote": "If you never concede a goal, you're going to win more games than you lose.",
+        "author": {
+            "name": "Bobby Moore",
+            "url": "/quotes/bobby_moore_140429"
+        },
+        "topics": [
+            {
+                "name": "Goal",
+                "url": "/topics/goal"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bobby_moore_164481",
+        "quote": "At least is was a victory and at least we won.",
+        "author": {
+            "name": "Bobby Moore",
+            "url": "/quotes/bobby_moore_164481"
+        },
+        "topics": [
+            {
+                "name": "Victory",
+                "url": "/topics/victory"
+            },
+            {
+                "name": "Won",
+                "url": "/topics/won"
+            },
+            {
+                "name": "Least",
+                "url": "/topics/least"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bobby_moore_377811",
+        "quote": "Pele was the most complete player I've ever seen.",
+        "author": {
+            "name": "Bobby Moore",
+            "url": "/quotes/bobby_moore_377811"
+        },
+        "topics": [
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "Ever",
+                "url": "/topics/ever"
+            },
+            {
+                "name": "Pele",
+                "url": "/topics/pele"
+            }
+        ]
+    }
+]

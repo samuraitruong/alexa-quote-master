@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/charlotte_lennox_187240",
+        "quote": "The law has no power over heroes.",
+        "author": {
+            "name": "Charlotte Lennox",
+            "url": "/quotes/charlotte_lennox_187240"
+        },
+        "topics": [
+            {
+                "name": "Power",
+                "url": "/topics/power"
+            },
+            {
+                "name": "Law",
+                "url": "/topics/law"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charlotte_lennox_187241",
+        "quote": "When a person is found less guilty than he is suspected, he is concluded more innocent than he really is.",
+        "author": {
+            "name": "Charlotte Lennox",
+            "url": "/quotes/charlotte_lennox_187241"
+        },
+        "topics": [
+            {
+                "name": "Guilty",
+                "url": "/topics/guilty"
+            },
+            {
+                "name": "Person",
+                "url": "/topics/person"
+            },
+            {
+                "name": "Found",
+                "url": "/topics/found"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/claude_c_hopkins_103010",
+        "quote": "People don't buy from clowns.",
+        "author": {
+            "name": "Claude C. Hopkins",
+            "url": "/quotes/claude_c_hopkins_103010"
+        },
+        "topics": [
+            {
+                "name": "People",
+                "url": "/topics/people"
+            },
+            {
+                "name": "Buy",
+                "url": "/topics/buy"
+            },
+            {
+                "name": "Clowns",
+                "url": "/topics/clowns"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/claude_c_hopkins_103063",
+        "quote": "The right name is an advertisement in itself.",
+        "author": {
+            "name": "Claude C. Hopkins",
+            "url": "/quotes/claude_c_hopkins_103063"
+        },
+        "topics": [
+            {
+                "name": "Name",
+                "url": "/topics/name"
+            },
+            {
+                "name": "Advertisement",
+                "url": "/topics/advertisement"
+            },
+            {
+                "name": "Itself",
+                "url": "/topics/itself"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/claude_c_hopkins_103307",
+        "quote": "The time has come when advertising in some hands has reached the status of a science.",
+        "author": {
+            "name": "Claude C. Hopkins",
+            "url": "/quotes/claude_c_hopkins_103307"
+        },
+        "topics": [
+            {
+                "name": "Hands",
+                "url": "/topics/hands"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Reached",
+                "url": "/topics/reached"
+            }
+        ]
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/charlie_carver_772257",
+        "quote": "I love my bro, but not always being with him is good for us.",
+        "author": {
+            "name": "Charlie Carver",
+            "url": "/quotes/charlie_carver_772257"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "I Love",
+                "url": "/topics/i_love"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charlie_carver_772255",
+        "quote": "What an amazing place Beacon Hills is.",
+        "author": {
+            "name": "Charlie Carver",
+            "url": "/quotes/charlie_carver_772255"
+        },
+        "topics": [
+            {
+                "name": "Amazing",
+                "url": "/topics/amazing"
+            },
+            {
+                "name": "Beacon",
+                "url": "/topics/beacon"
+            },
+            {
+                "name": "Hills",
+                "url": "/topics/hills"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charlie_carver_772256",
+        "quote": "The 'Teen Wolf' fans are so great.",
+        "author": {
+            "name": "Charlie Carver",
+            "url": "/quotes/charlie_carver_772256"
+        },
+        "topics": [
+            {
+                "name": "Great",
+                "url": "/topics/great"
+            },
+            {
+                "name": "Teen",
+                "url": "/topics/teen"
+            },
+            {
+                "name": "Wolf",
+                "url": "/topics/wolf"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charlie_carver_772258",
+        "quote": "If I snowboard, I will eat it.",
+        "author": {
+            "name": "Charlie Carver",
+            "url": "/quotes/charlie_carver_772258"
+        },
+        "topics": [
+            {
+                "name": "Eat",
+                "url": "/topics/eat"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    }
+]

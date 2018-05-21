@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/grace_metalious_132766",
+        "quote": "I looked into that empty bottle and I saw myself.",
+        "author": {
+            "name": "Grace Metalious",
+            "url": "/quotes/grace_metalious_132766"
+        },
+        "topics": [
+            {
+                "name": "Myself",
+                "url": "/topics/myself"
+            },
+            {
+                "name": "Saw",
+                "url": "/topics/saw"
+            },
+            {
+                "name": "Looked",
+                "url": "/topics/looked"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/grace_metalious_116020",
+        "quote": "Even Tom Sawyer had a girlfriend and to talk about adults without talking about their sex drives is like talking about a window without glass.",
+        "author": {
+            "name": "Grace Metalious",
+            "url": "/quotes/grace_metalious_116020"
+        },
+        "topics": [
+            {
+                "name": "Glass",
+                "url": "/topics/glass"
+            },
+            {
+                "name": "Sex",
+                "url": "/topics/sex"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/grace_metalious_133697",
+        "quote": "To talk about adults without talking about their sex drives is like talking about a window without glass.",
+        "author": {
+            "name": "Grace Metalious",
+            "url": "/quotes/grace_metalious_133697"
+        },
+        "topics": [
+            {
+                "name": "Glass",
+                "url": "/topics/glass"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Drives",
+                "url": "/topics/drives"
+            }
+        ]
+    }
+]

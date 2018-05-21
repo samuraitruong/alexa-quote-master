@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/andreas_antonopoulos_851474",
+        "quote": "It will take time for the idea of decentralized trust through computation to become a part of mainstream consciousness, and until then, the idea creates cognitive dissonance for those accustomed to centralized trust systems.",
+        "author": {
+            "name": "Andreas Antonopoulos",
+            "url": "/quotes/andreas_antonopoulos_851474"
+        },
+        "topics": [
+            {
+                "name": "Trust",
+                "url": "/topics/trust"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/andreas_antonopoulos_851473",
+        "quote": "What happens when an industry transitions from using one or more 'smart' and centralized networks to using a common, decentralized, open, and dumb network? A tsunami of innovation that was pent up for decades is suddenly released.",
+        "author": {
+            "name": "Andreas Antonopoulos",
+            "url": "/quotes/andreas_antonopoulos_851473"
+        },
+        "topics": [
+            {
+                "name": "Innovation",
+                "url": "/topics/innovation"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Using",
+                "url": "/topics/using"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/andreas_antonopoulos_851475",
+        "quote": "Gradually, decentralized trust will be accepted as a new and effective trust model. We have seen this evolution of understanding before - on the Internet.",
+        "author": {
+            "name": "Andreas Antonopoulos",
+            "url": "/quotes/andreas_antonopoulos_851475"
+        },
+        "topics": [
+            {
+                "name": "Trust",
+                "url": "/topics/trust"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/andreas_antonopoulos_851471",
+        "quote": "I just spent the last 8 months working on the second edition of 'Mastering Bitcoin,' and I couldn't even scratch the surface of all the innovation that is happening in BTC.",
+        "author": {
+            "name": "Andreas Antonopoulos",
+            "url": "/quotes/andreas_antonopoulos_851471"
+        },
+        "topics": [
+            {
+                "name": "Innovation",
+                "url": "/topics/innovation"
+            },
+            {
+                "name": "Last",
+                "url": "/topics/last"
+            },
+            {
+                "name": "Months",
+                "url": "/topics/months"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/andreas_antonopoulos_851472",
+        "quote": "Bitcoin offers one service: securely time-stamped, scripted transactions. Everything else is built on the edge-devices as an application. Bitcoin allows any application to be developed independently, without permission, on the edge of the network.",
+        "author": {
+            "name": "Andreas Antonopoulos",
+            "url": "/quotes/andreas_antonopoulos_851472"
+        },
+        "topics": [
+            {
+                "name": "Permission",
+                "url": "/topics/permission"
+            },
+            {
+                "name": "Built",
+                "url": "/topics/built"
+            },
+            {
+                "name": "Offers",
+                "url": "/topics/offers"
+            }
+        ]
+    }
+]

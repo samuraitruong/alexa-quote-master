@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/charles_macklin_337537",
+        "quote": "Good laws are the offspring of bad actions.",
+        "author": {
+            "name": "Charles Macklin",
+            "url": "/quotes/charles_macklin_337537"
+        },
+        "topics": [
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            },
+            {
+                "name": "Laws",
+                "url": "/topics/laws"
+            },
+            {
+                "name": "Offspring",
+                "url": "/topics/offspring"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charles_macklin_339071",
+        "quote": "Every tub must stand upon its bottom.",
+        "author": {
+            "name": "Charles Macklin",
+            "url": "/quotes/charles_macklin_339071"
+        },
+        "topics": [
+            {
+                "name": "Tub",
+                "url": "/topics/tub"
+            },
+            {
+                "name": "Bottom",
+                "url": "/topics/bottom"
+            },
+            {
+                "name": "Must",
+                "url": "/topics/must"
+            }
+        ]
+    }
+]

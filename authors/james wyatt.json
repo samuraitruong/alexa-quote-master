@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/james_wyatt_202454",
+        "quote": "Revived in this country the long forgotten beauties of Gothic architecture.",
+        "author": {
+            "name": "James Wyatt",
+            "url": "/quotes/james_wyatt_202454"
+        },
+        "topics": [
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Forgotten",
+                "url": "/topics/forgotten"
+            },
+            {
+                "name": "Gothic",
+                "url": "/topics/gothic"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_wyatt_202451",
+        "quote": "Lost are many great commissions by such neglect.",
+        "author": {
+            "name": "James Wyatt",
+            "url": "/quotes/james_wyatt_202451"
+        },
+        "topics": [
+            {
+                "name": "Great",
+                "url": "/topics/great"
+            },
+            {
+                "name": "Lost",
+                "url": "/topics/lost"
+            },
+            {
+                "name": "Many",
+                "url": "/topics/many"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_wyatt_202452",
+        "quote": "Employ oneself upon trifling professional matters which others could do.",
+        "author": {
+            "name": "James Wyatt",
+            "url": "/quotes/james_wyatt_202452"
+        },
+        "topics": [
+            {
+                "name": "Matters",
+                "url": "/topics/matters"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Employ",
+                "url": "/topics/employ"
+            }
+        ]
+    }
+]

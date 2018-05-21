@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/alain_bouchard_553541",
+        "quote": "When you know who your customers are, that can give you an edge on the competition.",
+        "author": {
+            "name": "Alain Bouchard",
+            "url": "/quotes/alain_bouchard_553541"
+        },
+        "topics": [
+            {
+                "name": "Know",
+                "url": "/topics/know"
+            },
+            {
+                "name": "Edge",
+                "url": "/topics/edge"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alain_bouchard_553542",
+        "quote": "I discovered early in my career as an entrepreneur that I'm not good at many things, and I said 'I need help.'",
+        "author": {
+            "name": "Alain Bouchard",
+            "url": "/quotes/alain_bouchard_553542"
+        },
+        "topics": [
+            {
+                "name": "Career",
+                "url": "/topics/career"
+            },
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            },
+            {
+                "name": "Discovered",
+                "url": "/topics/discovered"
+            }
+        ]
+    }
+]

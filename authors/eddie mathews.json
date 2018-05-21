@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/eddie_mathews_139797",
+        "quote": "It's only a hitch when you're in a slump. When you're hitting the ball its called rhythm.",
+        "author": {
+            "name": "Eddie Mathews",
+            "url": "/quotes/eddie_mathews_139797"
+        },
+        "topics": [
+            {
+                "name": "Ball",
+                "url": "/topics/ball"
+            },
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            },
+            {
+                "name": "Hitch",
+                "url": "/topics/hitch"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eddie_mathews_164410",
+        "quote": "I don't know where Hank Aaron will break Ruth's record but I can tell you one thing - ten years from the day he hits it three million people will say they were there.",
+        "author": {
+            "name": "Eddie Mathews",
+            "url": "/quotes/eddie_mathews_164410"
+        },
+        "topics": [
+            {
+                "name": "Tell",
+                "url": "/topics/tell"
+            },
+            {
+                "name": "Hank",
+                "url": "/topics/hank"
+            },
+            {
+                "name": "Ruth",
+                "url": "/topics/ruth"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/william_randolph_hearst_160584",
+        "quote": "A politician will do anything to keep his job, even become a patriot.",
+        "author": {
+            "name": "William Randolph Hearst",
+            "url": "/quotes/william_randolph_hearst_160584"
+        },
+        "topics": [
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            },
+            {
+                "name": "Even",
+                "url": "/topics/even"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_randolph_hearst_160583",
+        "quote": "Don't be afraid to make a mistake, your readers might like it.",
+        "author": {
+            "name": "William Randolph Hearst",
+            "url": "/quotes/william_randolph_hearst_160583"
+        },
+        "topics": [
+            {
+                "name": "Mistake",
+                "url": "/topics/mistake"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Readers",
+                "url": "/topics/readers"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_randolph_hearst_160582",
+        "quote": "In suggesting gifts: Money is appropriate, and one size fits all.",
+        "author": {
+            "name": "William Randolph Hearst",
+            "url": "/quotes/william_randolph_hearst_160582"
+        },
+        "topics": [
+            {
+                "name": "Money",
+                "url": "/topics/money"
+            },
+            {
+                "name": "Size",
+                "url": "/topics/size"
+            },
+            {
+                "name": "Appropriate",
+                "url": "/topics/appropriate"
+            }
+        ]
+    }
+]

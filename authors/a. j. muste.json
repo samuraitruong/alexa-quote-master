@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/a_j_muste_408728",
+        "quote": "We cannot have peace if we are only concerned with peace. War is not an accident. It is the logical outcome of a certain way of life. If we want to attack war, we have to attack that way of life.",
+        "author": {
+            "name": "A. J. Muste",
+            "url": "/quotes/a_j_muste_408728"
+        },
+        "topics": [
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Concerned",
+                "url": "/topics/concerned"
+            },
+            {
+                "name": "Certain Way",
+                "url": "/topics/certain_way"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/a_j_muste_173114",
+        "quote": "There is no way to peace; peace is the way.",
+        "author": {
+            "name": "A. J. Muste",
+            "url": "/quotes/a_j_muste_173114"
+        },
+        "topics": [
+            {
+                "name": "Peace",
+                "url": "/topics/peace"
+            },
+            {
+                "name": "Way",
+                "url": "/topics/way"
+            }
+        ]
+    }
+]

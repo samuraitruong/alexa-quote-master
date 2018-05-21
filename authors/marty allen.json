@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/marty_allen_170287",
+        "quote": "A study of economics usually reveals that the best time to buy anything is last year.",
+        "author": {
+            "name": "Marty Allen",
+            "url": "/quotes/marty_allen_170287"
+        },
+        "topics": [
+            {
+                "name": "Economics",
+                "url": "/topics/economics"
+            },
+            {
+                "name": "Study",
+                "url": "/topics/study"
+            },
+            {
+                "name": "Best Time",
+                "url": "/topics/best_time"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marty_allen_184436",
+        "quote": "If a man works like a horse for his money, there are a lot of girls anxious to take him down the bridal path.",
+        "author": {
+            "name": "Marty Allen",
+            "url": "/quotes/marty_allen_184436"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Works",
+                "url": "/topics/works"
+            },
+            {
+                "name": "Bridal",
+                "url": "/topics/bridal"
+            }
+        ]
+    }
+]

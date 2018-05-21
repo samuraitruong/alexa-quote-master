@@ -1,0 +1,218 @@
+[
+    {
+        "url": "/quotes/martin_luther_king_jr_109228?src=t_measure_of_a_man",
+        "quote": "The ultimate measure of a man is not where he stands in moments of comfort and convenience, but where he stands at times of challenge and controversy.",
+        "author": {
+            "name": "Martin Luther King, Jr.",
+            "url": "/authors/martin_luther_king_jr"
+        },
+        "topics": [
+            {
+                "name": "Convenience",
+                "url": "/topics/convenience"
+            },
+            {
+                "name": "Ultimate",
+                "url": "/topics/ultimate"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/j_k_rowling_178389?src=t_measure_of_a_man",
+        "quote": "If you want to see the true measure of a man, watch how he treats his inferiors, not his equals.",
+        "author": {
+            "name": "J. K. Rowling",
+            "url": "/authors/j_k_rowling"
+        },
+        "topics": [
+            {
+                "name": "Equality",
+                "url": "/topics/equality"
+            },
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "True Measure",
+                "url": "/topics/true_measure"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/samuel_johnson_103605?src=t_measure_of_a_man",
+        "quote": "The true measure of a man is how he treats someone who can do him absolutely no good.",
+        "author": {
+            "name": "Samuel Johnson",
+            "url": "/authors/samuel_johnson"
+        },
+        "topics": [
+            {
+                "name": "Good",
+                "url": "/topics/good"
+            },
+            {
+                "name": "Him",
+                "url": "/topics/him"
+            },
+            {
+                "name": "True Measure",
+                "url": "/topics/true_measure"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/plato_377565?src=t_measure_of_a_man",
+        "quote": "The measure of a man is what he does with power.",
+        "author": {
+            "name": "Plato",
+            "url": "/authors/plato"
+        },
+        "topics": [
+            {
+                "name": "Man",
+                "url": "/topics/man"
+            },
+            {
+                "name": "Measure",
+                "url": "/topics/measure"
+            },
+            {
+                "name": "Does",
+                "url": "/topics/does"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joe_biden_446888?src=t_measure_of_a_man",
+        "quote": "My dad always said, 'Champ, the measure of a man is not how often he is knocked down, but how quickly he gets up.'",
+        "author": {
+            "name": "Joe Biden",
+            "url": "/authors/joe_biden"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Dad",
+                "url": "/topics/dad"
+            },
+            {
+                "name": "Quickly",
+                "url": "/topics/quickly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_south_155167?src=t_measure_of_a_man",
+        "quote": "If there be any truer measure of a man than by what he does, it must be by what he gives.",
+        "author": {
+            "name": "Robert South",
+            "url": "/authors/robert_south"
+        },
+        "topics": [
+            {
+                "name": "Measure",
+                "url": "/topics/measure"
+            },
+            {
+                "name": "Does",
+                "url": "/topics/does"
+            },
+            {
+                "name": "Than",
+                "url": "/topics/than"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lord_kelvin_389571?src=t_measure_of_a_man",
+        "quote": "The true measure of a man is what he would do if he knew he would never be caught.",
+        "author": {
+            "name": "Lord Kelvin",
+            "url": "/authors/lord_kelvin"
+        },
+        "topics": [
+            {
+                "name": "Measure",
+                "url": "/topics/measure"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Caught",
+                "url": "/topics/caught"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/peter_nivio_zarlenga_120346?src=t_measure_of_a_man",
+        "quote": "The measure of a man is the way he bears up under misfortune.",
+        "author": {
+            "name": "Peter Nivio Zarlenga",
+            "url": "/authors/peter_nivio_zarlenga"
+        },
+        "topics": [
+            {
+                "name": "Man",
+                "url": "/topics/man"
+            },
+            {
+                "name": "Measure",
+                "url": "/topics/measure"
+            },
+            {
+                "name": "Misfortune",
+                "url": "/topics/misfortune"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/graydon_carter_546550?src=t_measure_of_a_man",
+        "quote": "I have always thought you could take the measure of a man by his sports manners - that is to say, the way in which he conducts himself on the playing field, or even over a game of chess or cards.",
+        "author": {
+            "name": "Graydon Carter",
+            "url": "/authors/graydon_carter"
+        },
+        "topics": [
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Game",
+                "url": "/topics/game"
+            },
+            {
+                "name": "Cards",
+                "url": "/topics/cards"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/j_c_watts_465444?src=t_measure_of_a_man",
+        "quote": "The measure of a man is not how great his faith is, but how great his love is. We must not let government programs disconnect our souls from each other.",
+        "author": {
+            "name": "J. C. Watts",
+            "url": "/authors/j_c_watts"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Disconnect",
+                "url": "/topics/disconnect"
+            }
+        ]
+    }
+]

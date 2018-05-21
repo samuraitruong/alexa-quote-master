@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/dennis_basso_544208",
+        "quote": "I am not quite Martha Stewart, but I do like cooking and gardening.",
+        "author": {
+            "name": "Dennis Basso",
+            "url": "/quotes/dennis_basso_544208"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Martha",
+                "url": "/topics/martha"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dennis_basso_544207",
+        "quote": "I love dressing Nicole Kidman... And I like dressing regular people. You know why? They buy the clothes!",
+        "author": {
+            "name": "Dennis Basso",
+            "url": "/quotes/dennis_basso_544207"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Regular People",
+                "url": "/topics/regular_people"
+            }
+        ]
+    }
+]

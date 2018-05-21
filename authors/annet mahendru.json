@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/annet_mahendru_562415",
+        "quote": "When you're really having fun, you're always doing it a little bit in a way that you're not supposed to. That's when great things happen.",
+        "author": {
+            "name": "Annet Mahendru",
+            "url": "/quotes/annet_mahendru_562415"
+        },
+        "topics": [
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Happen",
+                "url": "/topics/happen"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/annet_mahendru_562414",
+        "quote": "My dad is from India, my mom is from Russia. Fortunately, we moved a lot. I went to a lot of different schools and completely different cultures, so that's my background.",
+        "author": {
+            "name": "Annet Mahendru",
+            "url": "/quotes/annet_mahendru_562414"
+        },
+        "topics": [
+            {
+                "name": "Mom",
+                "url": "/topics/mom"
+            },
+            {
+                "name": "Dad",
+                "url": "/topics/dad"
+            },
+            {
+                "name": "Moved",
+                "url": "/topics/moved"
+            }
+        ]
+    }
+]

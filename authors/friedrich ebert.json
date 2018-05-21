@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/friedrich_ebert_316329",
+        "quote": "Freedom and Justice are twin sisters.",
+        "author": {
+            "name": "Friedrich Ebert",
+            "url": "/quotes/friedrich_ebert_316329"
+        },
+        "topics": [
+            {
+                "name": "Freedom",
+                "url": "/topics/freedom"
+            },
+            {
+                "name": "Justice",
+                "url": "/topics/justice"
+            },
+            {
+                "name": "Sisters",
+                "url": "/topics/sisters"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/friedrich_ebert_316332",
+        "quote": "Without democracy there is no freedom. Violence, no matter who is using it, is always reactionary.",
+        "author": {
+            "name": "Friedrich Ebert",
+            "url": "/quotes/friedrich_ebert_316332"
+        },
+        "topics": [
+            {
+                "name": "Freedom",
+                "url": "/topics/freedom"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Using",
+                "url": "/topics/using"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/friedrich_ebert_316331",
+        "quote": "Thus we have at least a national song that unites all Germans, and is the symbol of our sixty-million nation.",
+        "author": {
+            "name": "Friedrich Ebert",
+            "url": "/quotes/friedrich_ebert_316331"
+        },
+        "topics": [
+            {
+                "name": "Song",
+                "url": "/topics/song"
+            },
+            {
+                "name": "Symbol",
+                "url": "/topics/symbol"
+            },
+            {
+                "name": "Thus",
+                "url": "/topics/thus"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/emanuel_azenberg_146644",
+        "quote": "This is an industry that doesn't have the common cold... It has cholera.",
+        "author": {
+            "name": "Emanuel Azenberg",
+            "url": "/quotes/emanuel_azenberg_146644"
+        },
+        "topics": [
+            {
+                "name": "Cold",
+                "url": "/topics/cold"
+            },
+            {
+                "name": "Industry",
+                "url": "/topics/industry"
+            },
+            {
+                "name": "Common",
+                "url": "/topics/common"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/emanuel_azenberg_146643",
+        "quote": "Will the theater disappear? No. Is it healthy? Also no.",
+        "author": {
+            "name": "Emanuel Azenberg",
+            "url": "/quotes/emanuel_azenberg_146643"
+        },
+        "topics": [
+            {
+                "name": "Healthy",
+                "url": "/topics/healthy"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Theater",
+                "url": "/topics/theater"
+            }
+        ]
+    }
+]

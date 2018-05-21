@@ -1,0 +1,218 @@
+[
+    {
+        "url": "/quotes/hugh_grant_340333?src=t_bridget_jones",
+        "quote": "I think that's the whole point of Bridget Jones. It's all about that it's okay to fail.",
+        "author": {
+            "name": "Hugh Grant",
+            "url": "/authors/hugh_grant"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Okay",
+                "url": "/topics/okay"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jillian_michaels_778888?src=t_bridget_jones",
+        "quote": "I'm part Bridget Jones, part Larry David. I'm shy; I'm prude.",
+        "author": {
+            "name": "Jillian Michaels",
+            "url": "/authors/jillian_michaels"
+        },
+        "topics": [
+            {
+                "name": "Shy",
+                "url": "/topics/shy"
+            },
+            {
+                "name": "Part",
+                "url": "/topics/part"
+            },
+            {
+                "name": "Larry",
+                "url": "/topics/larry"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/colin_firth_341079?src=t_bridget_jones",
+        "quote": "Bridget Jones is part of literary lore now and actually to be a part of it is enormously flattering.",
+        "author": {
+            "name": "Colin Firth",
+            "url": "/authors/colin_firth"
+        },
+        "topics": [
+            {
+                "name": "Actually",
+                "url": "/topics/actually"
+            },
+            {
+                "name": "Lore",
+                "url": "/topics/lore"
+            },
+            {
+                "name": "Part",
+                "url": "/topics/part"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sonny_mehta_793732?src=t_bridget_jones",
+        "quote": "I have been waiting a long time to see what's next for Bridget Jones, and I am beyond thrilled she's back.",
+        "author": {
+            "name": "Sonny Mehta",
+            "url": "/authors/sonny_mehta"
+        },
+        "topics": [
+            {
+                "name": "Waiting",
+                "url": "/topics/waiting"
+            },
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sheridan_smith_569839?src=t_bridget_jones",
+        "quote": "Every girl wants to play Bridget Jones.",
+        "author": {
+            "name": "Sheridan Smith",
+            "url": "/authors/sheridan_smith"
+        },
+        "topics": [
+            {
+                "name": "Girl",
+                "url": "/topics/girl"
+            },
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Wants",
+                "url": "/topics/wants"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/melanie_mayron_710059?src=t_bridget_jones",
+        "quote": "When 'Ally McBeal' started, I went, 'Oh, my God.' It's like what I was doing. 'Bridget Jones' was in the same vein. I identify with all of them.",
+        "author": {
+            "name": "Melanie Mayron",
+            "url": "/authors/melanie_mayron"
+        },
+        "topics": [
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Vein",
+                "url": "/topics/vein"
+            },
+            {
+                "name": "Oh My God",
+                "url": "/topics/oh_my_god"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/helen_fielding_456231?src=t_bridget_jones",
+        "quote": "I was writing an earnest novel about cruises in the Caribbean and I just started writing 'Bridget Jones' to get some money, to finance this earnest work, and then I chucked it out.",
+        "author": {
+            "name": "Helen Fielding",
+            "url": "/authors/helen_fielding"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/daisy_donovan_241199?src=t_bridget_jones",
+        "quote": "Bridget Jones has a lot to answer for.",
+        "author": {
+            "name": "Daisy Donovan",
+            "url": "/authors/daisy_donovan"
+        },
+        "topics": [
+            {
+                "name": "Answer",
+                "url": "/topics/answer"
+            },
+            {
+                "name": "Lot",
+                "url": "/topics/lot"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/daisy_donovan_241201?src=t_bridget_jones",
+        "quote": "All Bridget Jones did was give us a word for it - singleton - which was the worst possible thing.",
+        "author": {
+            "name": "Daisy Donovan",
+            "url": "/authors/daisy_donovan"
+        },
+        "topics": [
+            {
+                "name": "Possible",
+                "url": "/topics/possible"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sharon_maguire_785436?src=t_bridget_jones",
+        "quote": "'Bridget Jones' is meant to be a funny night out, but with emotional truth. I wanted to make it a classic that you can pick up in 10 years and not cringe over.",
+        "author": {
+            "name": "Sharon Maguire",
+            "url": "/authors/sharon_maguire"
+        },
+        "topics": [
+            {
+                "name": "Night",
+                "url": "/topics/night"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Meant",
+                "url": "/topics/meant"
+            }
+        ]
+    }
+]

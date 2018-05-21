@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/temuera_morrison_572440",
+        "quote": "Sometimes I think, 'Oh, I wish I just had a nice job where you're getting a salary.' Just sometimes.",
+        "author": {
+            "name": "Temuera Morrison",
+            "url": "/quotes/temuera_morrison_572440"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Wish",
+                "url": "/topics/i_wish"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/temuera_morrison_572439",
+        "quote": "I'm just a simple man trying to make his way in the universe.",
+        "author": {
+            "name": "Temuera Morrison",
+            "url": "/quotes/temuera_morrison_572439"
+        },
+        "topics": [
+            {
+                "name": "Trying",
+                "url": "/topics/trying"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            },
+            {
+                "name": "His Way",
+                "url": "/topics/his_way"
+            }
+        ]
+    }
+]

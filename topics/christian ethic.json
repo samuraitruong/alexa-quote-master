@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/carrie_fisher_392809?src=t_christian_ethic",
+        "quote": "I don't think Christmas is necessarily about things. It's about being good to one another, it's about the Christian ethic, it's about kindness.",
+        "author": {
+            "name": "Carrie Fisher",
+            "url": "/authors/carrie_fisher"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Christmas",
+                "url": "/topics/christmas"
+            },
+            {
+                "name": "Another",
+                "url": "/topics/another"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_rockefeller_253709?src=t_christian_ethic",
+        "quote": "The Christian ethic played an essential part in my upbringing.",
+        "author": {
+            "name": "David Rockefeller",
+            "url": "/authors/david_rockefeller"
+        },
+        "topics": [
+            {
+                "name": "Christian",
+                "url": "/topics/christian"
+            },
+            {
+                "name": "Essential Part",
+                "url": "/topics/essential_part"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_rockefeller_613167?src=t_christian_ethic",
+        "quote": "Money can add very much to one's ability to lead a constructive life, not only pleasant for oneself, but, hopefully, beneficial to others. My grandfather, along with Carnegie, was a pioneer in philanthropy, which my father then practiced on a very large scale. The Christian ethic played an essential part in my upbringing.",
+        "author": {
+            "name": "David Rockefeller",
+            "url": "/authors/david_rockefeller"
+        },
+        "topics": [
+            {
+                "name": "Father",
+                "url": "/topics/father"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Essential Part",
+                "url": "/topics/essential_part"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/horst_koehler_178619?src=t_christian_ethic",
+        "quote": "I will be guided by the Christian ethic and an awareness that human action is by nature transient.",
+        "author": {
+            "name": "Horst Koehler",
+            "url": "/authors/horst_koehler"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "Awareness",
+                "url": "/topics/awareness"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    }
+]

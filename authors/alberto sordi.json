@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/alberto_sordi_188397",
+        "quote": "Take care, these Italians, full of failings, are neither you, nor me; they are your neighbors, the ones you meet on the staircase and whom you do not like to greet.",
+        "author": {
+            "name": "Alberto Sordi",
+            "url": "/quotes/alberto_sordi_188397"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Greet",
+                "url": "/topics/greet"
+            },
+            {
+                "name": "Italians",
+                "url": "/topics/italians"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alberto_sordi_188398",
+        "quote": "I adopt a very simple approach. I observe and reflect real life and ordinary people and sooner or later that raises a laugh.",
+        "author": {
+            "name": "Alberto Sordi",
+            "url": "/quotes/alberto_sordi_188398"
+        },
+        "topics": [
+            {
+                "name": "Simple",
+                "url": "/topics/simple"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Sooner",
+                "url": "/topics/sooner"
+            }
+        ]
+    }
+]

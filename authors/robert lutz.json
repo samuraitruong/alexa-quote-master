@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/robert_lutz_404385",
+        "quote": "People who think it doesn't matter who owns our auto industry are flat wrong.",
+        "author": {
+            "name": "Robert Lutz",
+            "url": "/quotes/robert_lutz_404385"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Auto Industry",
+                "url": "/topics/auto_industry"
+            },
+            {
+                "name": "Auto",
+                "url": "/topics/auto"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_lutz_404382",
+        "quote": "Imminent GM bankruptcy was always fiction, created by Wall Street and the media.",
+        "author": {
+            "name": "Robert Lutz",
+            "url": "/quotes/robert_lutz_404382"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Fiction",
+                "url": "/topics/fiction"
+            },
+            {
+                "name": "Imminent",
+                "url": "/topics/imminent"
+            }
+        ]
+    }
+]

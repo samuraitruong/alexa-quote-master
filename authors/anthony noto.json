@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/anthony_noto_714201",
+        "quote": "I honestly think I'm the kind of person that is driven by fear of failure rather than striving for success. I tend to go to bed scared and wake up terrified.",
+        "author": {
+            "name": "Anthony Noto",
+            "url": "/quotes/anthony_noto_714201"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Bed",
+                "url": "/topics/bed"
+            },
+            {
+                "name": "Honestly",
+                "url": "/topics/honestly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/anthony_noto_714202",
+        "quote": "The only way people can really be excellent is with truth, so you have to have a CFO who will have the intellectual capacity and conviction to tell you you're wrong and try to support that with data.",
+        "author": {
+            "name": "Anthony Noto",
+            "url": "/quotes/anthony_noto_714202"
+        },
+        "topics": [
+            {
+                "name": "Data",
+                "url": "/topics/data"
+            },
+            {
+                "name": "Excellent",
+                "url": "/topics/excellent"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/anthony_noto_714203",
+        "quote": "Today, I think a CFO needs to be more of an operating CFO: someone who's using the financial data and the data of the company to help drive strategy, the allocation of capital, and the management of risks.",
+        "author": {
+            "name": "Anthony Noto",
+            "url": "/quotes/anthony_noto_714203"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Needs",
+                "url": "/topics/needs"
+            },
+            {
+                "name": "Using",
+                "url": "/topics/using"
+            }
+        ]
+    }
+]

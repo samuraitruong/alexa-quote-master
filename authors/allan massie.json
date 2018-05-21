@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/allan_massie_403301",
+        "quote": "Do you know what a soldier is, young man? He's the chap who makes it possible for civilised folk to despise war.",
+        "author": {
+            "name": "Allan Massie",
+            "url": "/quotes/allan_massie_403301"
+        },
+        "topics": [
+            {
+                "name": "War",
+                "url": "/topics/war"
+            },
+            {
+                "name": "Young",
+                "url": "/topics/young"
+            },
+            {
+                "name": "Makes",
+                "url": "/topics/makes"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/allan_massie_397286",
+        "quote": "We are responsible for actions performed in response to circumstances for which we are not responsible.",
+        "author": {
+            "name": "Allan Massie",
+            "url": "/quotes/allan_massie_397286"
+        },
+        "topics": [
+            {
+                "name": "Circumstances",
+                "url": "/topics/circumstances"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/allan_massie_392613",
+        "quote": "Blunders are an inescapable feature of war, because choice in military affairs lies generally between the bad and the worse.",
+        "author": {
+            "name": "Allan Massie",
+            "url": "/quotes/allan_massie_392613"
+        },
+        "topics": [
+            {
+                "name": "War",
+                "url": "/topics/war"
+            },
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            },
+            {
+                "name": "Worse",
+                "url": "/topics/worse"
+            }
+        ]
+    }
+]

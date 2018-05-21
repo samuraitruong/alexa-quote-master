@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/david_ansen_393369",
+        "quote": "We define ourselves, in part, by the discriminations we make. The value of what we love is enriched by our understanding of what we dislike.",
+        "author": {
+            "name": "David Ansen",
+            "url": "/quotes/david_ansen_393369"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Dislike",
+                "url": "/topics/dislike"
+            },
+            {
+                "name": "Enriched",
+                "url": "/topics/enriched"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_ansen_379818",
+        "quote": "We are the movies and the movies are us.",
+        "author": {
+            "name": "David Ansen",
+            "url": "/quotes/david_ansen_379818"
+        },
+        "topics": [
+            {
+                "name": "Movies",
+                "url": "/topics/movies"
+            },
+            {
+                "name": "Us",
+                "url": "/topics/us"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/vernon_duke_207458",
+        "quote": "Well we really meant you to visit Paris in May, but the rhythm required two syllables.",
+        "author": {
+            "name": "Vernon Duke",
+            "url": "/quotes/vernon_duke_207458"
+        },
+        "topics": [
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Paris",
+                "url": "/topics/paris"
+            },
+            {
+                "name": "Meant",
+                "url": "/topics/meant"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/vernon_duke_395934",
+        "quote": "Autumn in New York, why does it seem so inviting?",
+        "author": {
+            "name": "Vernon Duke",
+            "url": "/quotes/vernon_duke_395934"
+        },
+        "topics": [
+            {
+                "name": "New York",
+                "url": "/topics/new_york"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Inviting",
+                "url": "/topics/inviting"
+            }
+        ]
+    }
+]

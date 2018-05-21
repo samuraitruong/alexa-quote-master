@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/carlo_ponti_538803",
+        "quote": "I don't make deals, I make pictures.",
+        "author": {
+            "name": "Carlo Ponti",
+            "url": "/quotes/carlo_ponti_538803"
+        },
+        "topics": [
+            {
+                "name": "Pictures",
+                "url": "/topics/pictures"
+            },
+            {
+                "name": "Deals",
+                "url": "/topics/deals"
+            },
+            {
+                "name": "Make",
+                "url": "/topics/make"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/carlo_ponti_538804",
+        "quote": "People talk about making art films - experimental films. I can make an art film every day of the week. Nothing to it. What's difficult is to combine a commercial film with art.",
+        "author": {
+            "name": "Carlo Ponti",
+            "url": "/quotes/carlo_ponti_538804"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Making",
+                "url": "/topics/making"
+            },
+            {
+                "name": "Films",
+                "url": "/topics/films"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/carlo_ponti_538805",
+        "quote": "I don't like actors, I like women.",
+        "author": {
+            "name": "Carlo Ponti",
+            "url": "/quotes/carlo_ponti_538805"
+        },
+        "topics": [
+            {
+                "name": "Women",
+                "url": "/topics/women"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/carlo_ponti_538806",
+        "quote": "There is no sense in making a film that no-one will go and see, just to create a perfect, but useless, work of art.",
+        "author": {
+            "name": "Carlo Ponti",
+            "url": "/quotes/carlo_ponti_538806"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Perfect",
+                "url": "/topics/perfect"
+            },
+            {
+                "name": "Making",
+                "url": "/topics/making"
+            }
+        ]
+    }
+]

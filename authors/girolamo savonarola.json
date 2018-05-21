@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/girolamo_savonarola_305057",
+        "quote": "The whole world knows that His glory has not been spread by force and weapons, but by poor fishermen.",
+        "author": {
+            "name": "Girolamo Savonarola",
+            "url": "/quotes/girolamo_savonarola_305057"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/girolamo_savonarola_305056",
+        "quote": "It came from God, and so is Christ true, and Christ is thy God, who is in heaven and awaits thee.",
+        "author": {
+            "name": "Girolamo Savonarola",
+            "url": "/quotes/girolamo_savonarola_305056"
+        },
+        "topics": [
+            {
+                "name": "Christ",
+                "url": "/topics/christ"
+            },
+            {
+                "name": "Thy",
+                "url": "/topics/thy"
+            },
+            {
+                "name": "Thee",
+                "url": "/topics/thee"
+            }
+        ]
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/alan_perlis_177294?src=t_specification",
+        "quote": "It is easier to change the specification to fit the program than vice versa.",
+        "author": {
+            "name": "Alan Perlis",
+            "url": "/authors/alan_perlis"
+        },
+        "topics": [
+            {
+                "name": "Change",
+                "url": "/topics/change"
+            },
+            {
+                "name": "Fit",
+                "url": "/topics/fit"
+            },
+            {
+                "name": "Vice",
+                "url": "/topics/vice"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/wadada_leo_smith_798336?src=t_specification",
+        "quote": "Jazz infers a style, but creative music has a wider field and wider specification about it. We know it from people like Scott Joplin and on through Bessie Smith.",
+        "author": {
+            "name": "Wadada Leo Smith",
+            "url": "/authors/wadada_leo_smith"
+        },
+        "topics": [
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Wider",
+                "url": "/topics/wider"
+            },
+            {
+                "name": "Smith",
+                "url": "/topics/smith"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/annabelle_selldorf_556354?src=t_specification",
+        "quote": "I remember, as a young architect, people always talked about I. M. Pei's concrete. He had a particular specification no one else knew.",
+        "author": {
+            "name": "Annabelle Selldorf",
+            "url": "/authors/annabelle_selldorf"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Concrete",
+                "url": "/topics/concrete"
+            },
+            {
+                "name": "I Remember",
+                "url": "/topics/i_remember"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nathan_sawaya_728041?src=t_specification",
+        "quote": "My work sells for �10,000-plus, but my most lucrative piece was a private project that was sold for more than six figures -dollars, that is. The process of the Lego can take weeks, months, or even days. Each one I deliver to specification to each gallery because they want them brought to them fully formed.",
+        "author": {
+            "name": "Nathan Sawaya",
+            "url": "/authors/nathan_sawaya"
+        },
+        "topics": [
+            {
+                "name": "Private",
+                "url": "/topics/private"
+            },
+            {
+                "name": "Each One",
+                "url": "/topics/each_one"
+            },
+            {
+                "name": "Weeks",
+                "url": "/topics/weeks"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/emily_martin_729103?src=t_specification",
+        "quote": "Menstruation not only carries with it the connotation of a productive system that has failed to produce; it also carries the idea of production gone awry, making products of no use, not to specification, unsalable, wasted, scrap.",
+        "author": {
+            "name": "Emily Martin",
+            "url": "/authors/emily_martin"
+        },
+        "topics": [
+            {
+                "name": "Idea",
+                "url": "/topics/idea"
+            },
+            {
+                "name": "Making",
+                "url": "/topics/making"
+            },
+            {
+                "name": "Connotation",
+                "url": "/topics/connotation"
+            }
+        ]
+    }
+]

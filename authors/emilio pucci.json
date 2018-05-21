@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/emilio_pucci_539558",
+        "quote": "When a man has seen the aerodynamic shape of a Caravelle jet at an airport, he doesn't need aerodynamic furniture.",
+        "author": {
+            "name": "Emilio Pucci",
+            "url": "/quotes/emilio_pucci_539558"
+        },
+        "topics": [
+            {
+                "name": "Furniture",
+                "url": "/topics/furniture"
+            },
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            },
+            {
+                "name": "Shape",
+                "url": "/topics/shape"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/emilio_pucci_539559",
+        "quote": "Gaiety is one of the most important elements I brought to fashion. I brought it through color.",
+        "author": {
+            "name": "Emilio Pucci",
+            "url": "/quotes/emilio_pucci_539559"
+        },
+        "topics": [
+            {
+                "name": "Important",
+                "url": "/topics/important"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "Gaiety",
+                "url": "/topics/gaiety"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/millicent_martin_238301",
+        "quote": "Charles Pierce, Bea Arthur, and I were like a terrible little trio.",
+        "author": {
+            "name": "Millicent Martin",
+            "url": "/quotes/millicent_martin_238301"
+        },
+        "topics": [
+            {
+                "name": "Trio",
+                "url": "/topics/trio"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Arthur",
+                "url": "/topics/arthur"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/millicent_martin_238302",
+        "quote": "I feel it's like being a kid and dressing up, because that's what Baby Jane is.",
+        "author": {
+            "name": "Millicent Martin",
+            "url": "/quotes/millicent_martin_238302"
+        },
+        "topics": [
+            {
+                "name": "Kid",
+                "url": "/topics/kid"
+            },
+            {
+                "name": "Feel",
+                "url": "/topics/feel"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    }
+]

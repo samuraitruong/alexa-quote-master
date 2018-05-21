@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/paul_whiteman_202263",
+        "quote": "Jazz came to America three hundred years ago in chains.",
+        "author": {
+            "name": "Paul Whiteman",
+            "url": "/quotes/paul_whiteman_202263"
+        },
+        "topics": [
+            {
+                "name": "Hundred",
+                "url": "/topics/hundred"
+            },
+            {
+                "name": "Hundred Years",
+                "url": "/topics/hundred_years"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_whiteman_202264",
+        "quote": "Jazz is the folk music of the machine age.",
+        "author": {
+            "name": "Paul Whiteman",
+            "url": "/quotes/paul_whiteman_202264"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "Jazz",
+                "url": "/topics/jazz"
+            },
+            {
+                "name": "Folk Music",
+                "url": "/topics/folk_music"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_whiteman_202265",
+        "quote": "Jazz tickles your muscles, symphonies stretch your soul.",
+        "author": {
+            "name": "Paul Whiteman",
+            "url": "/quotes/paul_whiteman_202265"
+        },
+        "topics": [
+            {
+                "name": "Stretch",
+                "url": "/topics/stretch"
+            },
+            {
+                "name": "Muscles",
+                "url": "/topics/muscles"
+            },
+            {
+                "name": "Symphonies",
+                "url": "/topics/symphonies"
+            }
+        ]
+    }
+]

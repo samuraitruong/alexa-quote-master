@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/albert_r_broccoli_538212",
+        "quote": "For every dollar you give away, you'll get a hundred back. And for every buck you steal, you'll lose a thousand.",
+        "author": {
+            "name": "Albert R. Broccoli",
+            "url": "/quotes/albert_r_broccoli_538212"
+        },
+        "topics": [
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            },
+            {
+                "name": "Hundred",
+                "url": "/topics/hundred"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/albert_r_broccoli_538211",
+        "quote": "I love looking at the old Bond films. Maybe it's purely out of reminiscence, the nostalgic things you think about. But there were some very good films made, and I think that the public has enjoyed them, too.",
+        "author": {
+            "name": "Albert R. Broccoli",
+            "url": "/quotes/albert_r_broccoli_538211"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Purely",
+                "url": "/topics/purely"
+            }
+        ]
+    }
+]

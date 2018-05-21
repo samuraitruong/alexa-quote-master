@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/alain_delon_260727",
+        "quote": "You believe in God, then you don't believe anymore and when you have a big problem, you pray anyway.",
+        "author": {
+            "name": "Alain Delon",
+            "url": "/quotes/alain_delon_260727"
+        },
+        "topics": [
+            {
+                "name": "Problem",
+                "url": "/topics/problem"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Big Problem",
+                "url": "/topics/big_problem"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alain_delon_260725",
+        "quote": "I knew everything and received everything. But real happiness, is giving.",
+        "author": {
+            "name": "Alain Delon",
+            "url": "/quotes/alain_delon_260725"
+        },
+        "topics": [
+            {
+                "name": "Happiness",
+                "url": "/topics/happiness"
+            },
+            {
+                "name": "Real Happiness",
+                "url": "/topics/real_happiness"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alain_delon_260724",
+        "quote": "In love, we have to dare everything if we really love.",
+        "author": {
+            "name": "Alain Delon",
+            "url": "/quotes/alain_delon_260724"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Everything",
+                "url": "/topics/everything"
+            },
+            {
+                "name": "Dare",
+                "url": "/topics/dare"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alain_delon_260723",
+        "quote": "I do very well three things: my job, stupidities and children.",
+        "author": {
+            "name": "Alain Delon",
+            "url": "/quotes/alain_delon_260723"
+        },
+        "topics": [
+            {
+                "name": "Children",
+                "url": "/topics/children"
+            },
+            {
+                "name": "Things",
+                "url": "/topics/things"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    }
+]

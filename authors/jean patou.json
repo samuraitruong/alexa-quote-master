@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/jean_patou_619268",
+        "quote": "When I create a sports costume, I remember that it must not look - how do you say? - 'bedraggled.'",
+        "author": {
+            "name": "Jean Patou",
+            "url": "/quotes/jean_patou_619268"
+        },
+        "topics": [
+            {
+                "name": "Sports",
+                "url": "/topics/sports"
+            },
+            {
+                "name": "Say",
+                "url": "/topics/say"
+            },
+            {
+                "name": "I Remember",
+                "url": "/topics/i_remember"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jean_patou_619270",
+        "quote": "The American woman is a charming creature. She is of a type most unusual and delightful... And their feet and ankles are the most perfect in the world.",
+        "author": {
+            "name": "Jean Patou",
+            "url": "/quotes/jean_patou_619270"
+        },
+        "topics": [
+            {
+                "name": "Woman",
+                "url": "/topics/woman"
+            },
+            {
+                "name": "Feet",
+                "url": "/topics/feet"
+            },
+            {
+                "name": "Perfect",
+                "url": "/topics/perfect"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jean_patou_619271",
+        "quote": "To be truly 'soigne,' a man should have 80 suits.",
+        "author": {
+            "name": "Jean Patou",
+            "url": "/quotes/jean_patou_619271"
+        },
+        "topics": [
+            {
+                "name": "Man",
+                "url": "/topics/man"
+            },
+            {
+                "name": "Should",
+                "url": "/topics/should"
+            },
+            {
+                "name": "Truly",
+                "url": "/topics/truly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jean_patou_619269",
+        "quote": "I wouldn't know how to design. I couldn't even if I wanted to, for I can't draw, and a pair of scissors in my hands becomes a dangerous weapon.",
+        "author": {
+            "name": "Jean Patou",
+            "url": "/quotes/jean_patou_619269"
+        },
+        "topics": [
+            {
+                "name": "Hands",
+                "url": "/topics/hands"
+            },
+            {
+                "name": "Dangerous",
+                "url": "/topics/dangerous"
+            },
+            {
+                "name": "Draw",
+                "url": "/topics/draw"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/lara_jean_chorostecki_570179",
+        "quote": "I have a fear of things growing on things. I don't know where it came from. But I go hiking a lot, and sometimes I can't handle moss growing on trees or tumors on trees or mushrooms.",
+        "author": {
+            "name": "Lara Jean Chorostecki",
+            "url": "/quotes/lara_jean_chorostecki_570179"
+        },
+        "topics": [
+            {
+                "name": "Sometimes",
+                "url": "/topics/sometimes"
+            },
+            {
+                "name": "Hiking",
+                "url": "/topics/hiking"
+            },
+            {
+                "name": "Go",
+                "url": "/topics/go"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lara_jean_chorostecki_570178",
+        "quote": "I have a passion for animals and spend a lot of my spare time working with various organizations here in Toronto.",
+        "author": {
+            "name": "Lara Jean Chorostecki",
+            "url": "/quotes/lara_jean_chorostecki_570178"
+        },
+        "topics": [
+            {
+                "name": "Toronto",
+                "url": "/topics/toronto"
+            },
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            },
+            {
+                "name": "Spare Time",
+                "url": "/topics/spare_time"
+            }
+        ]
+    }
+]

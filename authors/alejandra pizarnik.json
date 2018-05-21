@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/alejandra_pizarnik_832132",
+        "quote": "To write is to give meaning to suffering.",
+        "author": {
+            "name": "Alejandra Pizarnik",
+            "url": "/quotes/alejandra_pizarnik_832132"
+        },
+        "topics": [
+            {
+                "name": "Suffering",
+                "url": "/topics/suffering"
+            },
+            {
+                "name": "Meaning",
+                "url": "/topics/meaning"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alejandra_pizarnik_832133",
+        "quote": "I redo the body of my poem like someone who tries to cure her own wound.",
+        "author": {
+            "name": "Alejandra Pizarnik",
+            "url": "/quotes/alejandra_pizarnik_832133"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            },
+            {
+                "name": "Tries",
+                "url": "/topics/tries"
+            }
+        ]
+    }
+]

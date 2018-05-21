@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/alger_hiss_309529",
+        "quote": "I am amazed; until the day I die I shall wonder how Whittaker Chambers got into my house to use my typewriter.",
+        "author": {
+            "name": "Alger Hiss",
+            "url": "/quotes/alger_hiss_309529"
+        },
+        "topics": [
+            {
+                "name": "Die",
+                "url": "/topics/die"
+            },
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            },
+            {
+                "name": "Chambers",
+                "url": "/topics/chambers"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alger_hiss_116850",
+        "quote": "In the future the way that Whittaker Chambers was able to carry out forgery by typewriter will be disclosed.",
+        "author": {
+            "name": "Alger Hiss",
+            "url": "/quotes/alger_hiss_116850"
+        },
+        "topics": [
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Forgery",
+                "url": "/topics/forgery"
+            },
+            {
+                "name": "Chambers",
+                "url": "/topics/chambers"
+            }
+        ]
+    }
+]

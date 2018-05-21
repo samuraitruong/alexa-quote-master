@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/giovanni_falcone_170783",
+        "quote": "He who doesn't fear death dies only once.",
+        "author": {
+            "name": "Giovanni Falcone",
+            "url": "/quotes/giovanni_falcone_170783"
+        },
+        "topics": [
+            {
+                "name": "Death",
+                "url": "/topics/death"
+            },
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            },
+            {
+                "name": "Once",
+                "url": "/topics/once"
+            }
+        ]
+    }
+]

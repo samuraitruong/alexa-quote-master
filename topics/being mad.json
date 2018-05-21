@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/sting_366012?src=t_being_mad",
+        "quote": "I'm very much afraid of being mad - that's my one fear.",
+        "author": {
+            "name": "Sting",
+            "url": "/authors/sting"
+        },
+        "topics": [
+            {
+                "name": "Mad",
+                "url": "/topics/mad"
+            },
+            {
+                "name": "Afraid",
+                "url": "/topics/afraid"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/diogenes_107599?src=t_being_mad",
+        "quote": "Most men are within a finger's breadth of being mad.",
+        "author": {
+            "name": "Diogenes",
+            "url": "/authors/diogenes"
+        },
+        "topics": [
+            {
+                "name": "Mad",
+                "url": "/topics/mad"
+            },
+            {
+                "name": "Finger",
+                "url": "/topics/finger"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_dryden_161865?src=t_being_mad",
+        "quote": "There is a pleasure in being mad which none but madmen know.",
+        "author": {
+            "name": "John Dryden",
+            "url": "/authors/john_dryden"
+        },
+        "topics": [
+            {
+                "name": "Mad",
+                "url": "/topics/mad"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Madmen",
+                "url": "/topics/madmen"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lydia_lunch_219236?src=t_being_mad",
+        "quote": "I'm a very sympathetic person, but that doesn't always come across in my work because I'm too busy being mad at everything.",
+        "author": {
+            "name": "Lydia Lunch",
+            "url": "/authors/lydia_lunch"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Sympathetic",
+                "url": "/topics/sympathetic"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/amy_clampitt_331506?src=t_being_mad",
+        "quote": "Women who are inclined to write poetry at all are inspired by being mad at something.",
+        "author": {
+            "name": "Amy Clampitt",
+            "url": "/authors/amy_clampitt"
+        },
+        "topics": [
+            {
+                "name": "Mad",
+                "url": "/topics/mad"
+            },
+            {
+                "name": "Inspired",
+                "url": "/topics/inspired"
+            },
+            {
+                "name": "Inclined",
+                "url": "/topics/inclined"
+            }
+        ]
+    }
+]

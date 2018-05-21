@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/hodding_carter_138325",
+        "quote": "Television news is like a lightning flash. It makes a loud noise, lights up everything around it, leaves everything else in darkness and then is suddenly gone.",
+        "author": {
+            "name": "Hodding Carter",
+            "url": "/quotes/hodding_carter_138325"
+        },
+        "topics": [
+            {
+                "name": "Lightning",
+                "url": "/topics/lightning"
+            },
+            {
+                "name": "News",
+                "url": "/topics/news"
+            },
+            {
+                "name": "Loud",
+                "url": "/topics/loud"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/hodding_carter_391293",
+        "quote": "Within the last three years the amount of classified materials has doubled to 15.6 million decisions to classify documents.",
+        "author": {
+            "name": "Hodding Carter",
+            "url": "/quotes/hodding_carter_391293"
+        },
+        "topics": [
+            {
+                "name": "Last",
+                "url": "/topics/last"
+            },
+            {
+                "name": "Classify",
+                "url": "/topics/classify"
+            },
+            {
+                "name": "Amount",
+                "url": "/topics/amount"
+            }
+        ]
+    }
+]

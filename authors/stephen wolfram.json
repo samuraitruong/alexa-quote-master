@@ -1,0 +1,156 @@
+[
+    {
+        "url": "/quotes/stephen_wolfram_228576",
+        "quote": "Well, the first thing to say is that we've worked hard to maintain compatibility, so that any program written with an earlier version of Mathematica can run without change in 3.0, and any notebook can be converted.",
+        "author": {
+            "name": "Stephen Wolfram",
+            "url": "/quotes/stephen_wolfram_228576"
+        },
+        "topics": [
+            {
+                "name": "Change",
+                "url": "/topics/change"
+            },
+            {
+                "name": "Say",
+                "url": "/topics/say"
+            },
+            {
+                "name": "Maintain",
+                "url": "/topics/maintain"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/stephen_wolfram_228578",
+        "quote": "There are a few very small incompatible changes - I really doubt most people will ever run into them.",
+        "author": {
+            "name": "Stephen Wolfram",
+            "url": "/quotes/stephen_wolfram_228578"
+        },
+        "topics": [
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/stephen_wolfram_228579",
+        "quote": "The most important precedents deal with the whole idea of symbolic programming - the notion of setting up symbolic expressions that can represent anything one wants, and then having functions that operate on both their structure and content.",
+        "author": {
+            "name": "Stephen Wolfram",
+            "url": "/quotes/stephen_wolfram_228579"
+        },
+        "topics": [
+            {
+                "name": "Deal",
+                "url": "/topics/deal"
+            },
+            {
+                "name": "Idea",
+                "url": "/topics/idea"
+            },
+            {
+                "name": "Functions",
+                "url": "/topics/functions"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/stephen_wolfram_228580",
+        "quote": "The fact that the same symbolic programming primitives work for those as work for math kinds of things, I think, really validates the idea of symbolic programming being something pretty general.",
+        "author": {
+            "name": "Stephen Wolfram",
+            "url": "/quotes/stephen_wolfram_228580"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Pretty",
+                "url": "/topics/pretty"
+            },
+            {
+                "name": "Symbolic",
+                "url": "/topics/symbolic"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/stephen_wolfram_228581",
+        "quote": "You kind of alluded to it in your introduction. I mean, for the last 300 or so years, the exact sciences have been dominated by what is really a good idea, which is the idea that one can describe the natural world using mathematical equations.",
+        "author": {
+            "name": "Stephen Wolfram",
+            "url": "/quotes/stephen_wolfram_228581"
+        },
+        "topics": [
+            {
+                "name": "Idea",
+                "url": "/topics/idea"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Your",
+                "url": "/topics/your"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/stephen_wolfram_228583",
+        "quote": "The thing that got me started on the science that I've been building now for about 20 years or so was the question of okay, if mathematical equations can't make progress in understanding complex phenomena in the natural world, how might we make progress?",
+        "author": {
+            "name": "Stephen Wolfram",
+            "url": "/quotes/stephen_wolfram_228583"
+        },
+        "topics": [
+            {
+                "name": "Got",
+                "url": "/topics/got"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/stephen_wolfram_228585",
+        "quote": "So the thing I realized rather gradually - I must say starting about 20 years ago now that we know about computers and things - there's a possibility of a more general basis for rules to describe nature.",
+        "author": {
+            "name": "Stephen Wolfram",
+            "url": "/quotes/stephen_wolfram_228585"
+        },
+        "topics": [
+            {
+                "name": "Rules",
+                "url": "/topics/rules"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Rather",
+                "url": "/topics/rather"
+            }
+        ]
+    }
+]

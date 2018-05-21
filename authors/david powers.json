@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/david_powers_192968",
+        "quote": "I'm just a newsboy who met a President.",
+        "author": {
+            "name": "David Powers",
+            "url": "/quotes/david_powers_192968"
+        },
+        "topics": [
+            {
+                "name": "Just",
+                "url": "/topics/just"
+            },
+            {
+                "name": "Who",
+                "url": "/topics/who"
+            },
+            {
+                "name": "Met",
+                "url": "/topics/met"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_powers_192969",
+        "quote": "President Kennedy was the greatest man I ever met, and the best friend I ever had.",
+        "author": {
+            "name": "David Powers",
+            "url": "/quotes/david_powers_192969"
+        },
+        "topics": [
+            {
+                "name": "Best",
+                "url": "/topics/best"
+            },
+            {
+                "name": "Had",
+                "url": "/topics/had"
+            },
+            {
+                "name": "President Kennedy",
+                "url": "/topics/president_kennedy"
+            }
+        ]
+    }
+]

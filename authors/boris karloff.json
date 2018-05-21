@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/boris_karloff_141873",
+        "quote": "The monster was the best friend I ever had.",
+        "author": {
+            "name": "Boris Karloff",
+            "url": "/quotes/boris_karloff_141873"
+        },
+        "topics": [
+            {
+                "name": "Best",
+                "url": "/topics/best"
+            },
+            {
+                "name": "Friend",
+                "url": "/topics/friend"
+            },
+            {
+                "name": "Ever",
+                "url": "/topics/ever"
+            }
+        ]
+    }
+]

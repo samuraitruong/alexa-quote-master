@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/hirohito_142945",
+        "quote": "The war has developed not necessarily to Japan's advantage.",
+        "author": {
+            "name": "Hirohito",
+            "url": "/quotes/hirohito_142945"
+        },
+        "topics": [
+            {
+                "name": "War",
+                "url": "/topics/war"
+            },
+            {
+                "name": "Japan",
+                "url": "/topics/japan"
+            },
+            {
+                "name": "Advantage",
+                "url": "/topics/advantage"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/hirohito_116848",
+        "quote": "That most unfortunate war, which I deeply deplore.",
+        "author": {
+            "name": "Hirohito",
+            "url": "/quotes/hirohito_116848"
+        },
+        "topics": [
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Unfortunate",
+                "url": "/topics/unfortunate"
+            }
+        ]
+    }
+]

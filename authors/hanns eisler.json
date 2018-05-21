@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/hanns_eisler_309148",
+        "quote": "A composer knows that music is written by human beings for human beings and that music is a continuation of life, not something separated from it.",
+        "author": {
+            "name": "Hanns Eisler",
+            "url": "/quotes/hanns_eisler_309148"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "Composer",
+                "url": "/topics/composer"
+            },
+            {
+                "name": "Separated",
+                "url": "/topics/separated"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/hanns_eisler_309147",
+        "quote": "Someone who knows only music, understands nothing about it.",
+        "author": {
+            "name": "Hanns Eisler",
+            "url": "/quotes/hanns_eisler_309147"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "Someone",
+                "url": "/topics/someone"
+            },
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/janos_bolyai_184858",
+        "quote": "One must do no violence to nature, nor model it in conformity to any blindly formed chimera.",
+        "author": {
+            "name": "Janos Bolyai",
+            "url": "/quotes/janos_bolyai_184858"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "Nor",
+                "url": "/topics/nor"
+            },
+            {
+                "name": "Must",
+                "url": "/topics/must"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/janos_bolyai_184859",
+        "quote": "Out of nothing I have created a strange new universe.",
+        "author": {
+            "name": "Janos Bolyai",
+            "url": "/quotes/janos_bolyai_184859"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            },
+            {
+                "name": "Created",
+                "url": "/topics/created"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/janos_bolyai_184857",
+        "quote": "Mathematical discoveries, like springtime violets in the woods, have their season which no man can hasten or retard.",
+        "author": {
+            "name": "Janos Bolyai",
+            "url": "/quotes/janos_bolyai_184857"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Springtime",
+                "url": "/topics/springtime"
+            }
+        ]
+    }
+]

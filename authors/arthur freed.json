@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/arthur_freed_169868",
+        "quote": "I'm singing in the rain, just singing in the rain; What a wonderful feeling, I'm happy again.",
+        "author": {
+            "name": "Arthur Freed",
+            "url": "/quotes/arthur_freed_169868"
+        },
+        "topics": [
+            {
+                "name": "Rain",
+                "url": "/topics/rain"
+            },
+            {
+                "name": "Happy",
+                "url": "/topics/happy"
+            },
+            {
+                "name": "Singing",
+                "url": "/topics/singing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/arthur_freed_102638",
+        "quote": "Don't try to be different. Just be good. To be good is different enough.",
+        "author": {
+            "name": "Arthur Freed",
+            "url": "/quotes/arthur_freed_102638"
+        },
+        "topics": [
+            {
+                "name": "Try",
+                "url": "/topics/try"
+            },
+            {
+                "name": "Enough",
+                "url": "/topics/enough"
+            },
+            {
+                "name": "Just Be",
+                "url": "/topics/just_be"
+            }
+        ]
+    }
+]

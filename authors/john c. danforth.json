@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/john_c_danforth_381521",
+        "quote": "The loudest voices we hear are those who advocate conflict, divisiveness.",
+        "author": {
+            "name": "John C. Danforth",
+            "url": "/quotes/john_c_danforth_381521"
+        },
+        "topics": [
+            {
+                "name": "Loudest",
+                "url": "/topics/loudest"
+            },
+            {
+                "name": "Advocate",
+                "url": "/topics/advocate"
+            },
+            {
+                "name": "Voices",
+                "url": "/topics/voices"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_c_danforth_111645",
+        "quote": "I was to Japanese visitors to Washington what the Mona Lisa is to Americans visiting Paris.",
+        "author": {
+            "name": "John C. Danforth",
+            "url": "/quotes/john_c_danforth_111645"
+        },
+        "topics": [
+            {
+                "name": "Japanese",
+                "url": "/topics/japanese"
+            },
+            {
+                "name": "Visiting",
+                "url": "/topics/visiting"
+            },
+            {
+                "name": "Visitors",
+                "url": "/topics/visitors"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_c_danforth_111646",
+        "quote": "Japan is a great nation. It should begin to act like one.",
+        "author": {
+            "name": "John C. Danforth",
+            "url": "/quotes/john_c_danforth_111646"
+        },
+        "topics": [
+            {
+                "name": "Nation",
+                "url": "/topics/nation"
+            },
+            {
+                "name": "Act",
+                "url": "/topics/act"
+            },
+            {
+                "name": "Japan",
+                "url": "/topics/japan"
+            }
+        ]
+    }
+]

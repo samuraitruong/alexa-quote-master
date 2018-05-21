@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/lord_alfred_douglas_166444",
+        "quote": "I am the Love that dare not speak its name.",
+        "author": {
+            "name": "Lord Alfred Douglas",
+            "url": "/quotes/lord_alfred_douglas_166444"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Name",
+                "url": "/topics/name"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lord_alfred_douglas_194231",
+        "quote": "All good poetry is forged slowly and patiently, link by link, with sweat and blood and tears.",
+        "author": {
+            "name": "Lord Alfred Douglas",
+            "url": "/quotes/lord_alfred_douglas_194231"
+        },
+        "topics": [
+            {
+                "name": "Tears",
+                "url": "/topics/tears"
+            },
+            {
+                "name": "Forged",
+                "url": "/topics/forged"
+            },
+            {
+                "name": "Patiently",
+                "url": "/topics/patiently"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lord_alfred_douglas_390944",
+        "quote": "Wilde is the greatest force for evil that has appeared in Europe during the last 350 years.",
+        "author": {
+            "name": "Lord Alfred Douglas",
+            "url": "/quotes/lord_alfred_douglas_390944"
+        },
+        "topics": [
+            {
+                "name": "Last",
+                "url": "/topics/last"
+            },
+            {
+                "name": "Appeared",
+                "url": "/topics/appeared"
+            },
+            {
+                "name": "Wilde",
+                "url": "/topics/wilde"
+            }
+        ]
+    }
+]

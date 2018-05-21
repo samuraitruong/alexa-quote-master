@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/lucy_peng_847814",
+        "quote": "Consumers expect a safe, convenient, and affordable globalised payment platform.",
+        "author": {
+            "name": "Lucy Peng",
+            "url": "/quotes/lucy_peng_847814"
+        },
+        "topics": [
+            {
+                "name": "Safe",
+                "url": "/topics/safe"
+            },
+            {
+                "name": "Expect",
+                "url": "/topics/expect"
+            },
+            {
+                "name": "Affordable",
+                "url": "/topics/affordable"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lucy_peng_847813",
+        "quote": "Online payment will continue to play an ever-growing and significant role in the development of e-commerce as well as the stimulation of consumer demand.",
+        "author": {
+            "name": "Lucy Peng",
+            "url": "/quotes/lucy_peng_847813"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Development",
+                "url": "/topics/development"
+            },
+            {
+                "name": "Role",
+                "url": "/topics/role"
+            }
+        ]
+    }
+]

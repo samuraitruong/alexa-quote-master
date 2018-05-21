@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/benito_juarez_312056",
+        "quote": "Respect for the rights of others means peace.",
+        "author": {
+            "name": "Benito Juarez",
+            "url": "/quotes/benito_juarez_312056"
+        },
+        "topics": [
+            {
+                "name": "Peace",
+                "url": "/topics/peace"
+            },
+            {
+                "name": "Rights",
+                "url": "/topics/rights"
+            },
+            {
+                "name": "Means",
+                "url": "/topics/means"
+            }
+        ]
+    }
+]

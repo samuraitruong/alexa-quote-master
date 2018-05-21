@@ -1,0 +1,200 @@
+[
+    {
+        "url": "/quotes/mao_zedong_382243?src=t_political_work",
+        "quote": "Political work is the life-blood of all economic work.",
+        "author": {
+            "name": "Mao Zedong",
+            "url": "/authors/mao_zedong"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Political",
+                "url": "/topics/political"
+            },
+            {
+                "name": "Economic",
+                "url": "/topics/economic"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/holly_near_381437?src=t_political_work",
+        "quote": "My creativity and my political work are linked. I don't do this work out of guilt or out of responsibility.",
+        "author": {
+            "name": "Holly Near",
+            "url": "/authors/holly_near"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Political",
+                "url": "/topics/political"
+            },
+            {
+                "name": "Guilt",
+                "url": "/topics/guilt"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gary_hume_730542?src=t_political_work",
+        "quote": "I don't make political work. I don't make work that criticises the state. I make as human work as I can.",
+        "author": {
+            "name": "Gary Hume",
+            "url": "/authors/gary_hume"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Political",
+                "url": "/topics/political"
+            },
+            {
+                "name": "State",
+                "url": "/topics/state"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alexei_navalny_477903?src=t_political_work",
+        "quote": "I've always seen my campaigns against corruption as political work of a purer form than what opposition leaders usually do. All they do is hold roundtables and release political statements, which is all well and good. But there are concrete things that need to get done in order to achieve the basic goal of every opposition politician.",
+        "author": {
+            "name": "Alexei Navalny",
+            "url": "/authors/alexei_navalny"
+        },
+        "topics": [
+            {
+                "name": "Against",
+                "url": "/topics/against"
+            },
+            {
+                "name": "Concrete",
+                "url": "/topics/concrete"
+            },
+            {
+                "name": "Release",
+                "url": "/topics/release"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/judith_ellen_foster_403441?src=t_political_work",
+        "quote": "The country needs the political work of women today as much as it has ever needed woman in any other work at any other time.",
+        "author": {
+            "name": "Judith Ellen Foster",
+            "url": "/authors/judith_ellen_foster"
+        },
+        "topics": [
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Needs",
+                "url": "/topics/needs"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/vladimir_putin_601149?src=t_political_work",
+        "quote": "A figure who receives money from abroad for his political work, and thus serves some foreign interest, cannot be a politician in Russia.",
+        "author": {
+            "name": "Vladimir Putin",
+            "url": "/authors/vladimir_putin"
+        },
+        "topics": [
+            {
+                "name": "Abroad",
+                "url": "/topics/abroad"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Figure",
+                "url": "/topics/figure"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/milton_friedman_387118?src=t_political_work",
+        "quote": "Most of the energy of political work is devoted to correcting the effects of mismanagement of government.",
+        "author": {
+            "name": "Milton Friedman",
+            "url": "/authors/milton_friedman"
+        },
+        "topics": [
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "Devoted",
+                "url": "/topics/devoted"
+            },
+            {
+                "name": "Effects",
+                "url": "/topics/effects"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/winona_laduke_644061?src=t_political_work",
+        "quote": "Spirituality is the foundation of all my political work.",
+        "author": {
+            "name": "Winona LaDuke",
+            "url": "/authors/winona_laduke"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Foundation",
+                "url": "/topics/foundation"
+            },
+            {
+                "name": "Political",
+                "url": "/topics/political"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alan_cranston_180951?src=t_political_work",
+        "quote": "I don't think there's any one definition, but to do effective political work you have to have vision and practicality, and learn how to persuade people that what you feel needs to be done does need to be done.",
+        "author": {
+            "name": "Alan Cranston",
+            "url": "/authors/alan_cranston"
+        },
+        "topics": [
+            {
+                "name": "Learn",
+                "url": "/topics/learn"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Needs",
+                "url": "/topics/needs"
+            }
+        ]
+    }
+]

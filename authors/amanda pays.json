@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/amanda_pays_409044",
+        "quote": "Comfort rules. You want to be able to sit in a good chair comfortably for a few hours and be able to talk and enjoy a glass of wine. There's nothing worse than sitting in an uncomfortable chair.",
+        "author": {
+            "name": "Amanda Pays",
+            "url": "/quotes/amanda_pays_409044"
+        },
+        "topics": [
+            {
+                "name": "Glass",
+                "url": "/topics/glass"
+            },
+            {
+                "name": "Chair",
+                "url": "/topics/chair"
+            },
+            {
+                "name": "Hours",
+                "url": "/topics/hours"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/amanda_pays_405118",
+        "quote": "I painted one dining room red and I must say, the conversation became very heated in that room.",
+        "author": {
+            "name": "Amanda Pays",
+            "url": "/quotes/amanda_pays_405118"
+        },
+        "topics": [
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Became",
+                "url": "/topics/became"
+            },
+            {
+                "name": "Painted",
+                "url": "/topics/painted"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/kaspar_hauser_227651",
+        "quote": "I want to be a soldier as my father was.",
+        "author": {
+            "name": "Kaspar Hauser",
+            "url": "/quotes/kaspar_hauser_227651"
+        },
+        "topics": [
+            {
+                "name": "Father",
+                "url": "/topics/father"
+            },
+            {
+                "name": "Soldier",
+                "url": "/topics/soldier"
+            },
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kaspar_hauser_227653",
+        "quote": "Many cats are the death of the mouse.",
+        "author": {
+            "name": "Kaspar Hauser",
+            "url": "/quotes/kaspar_hauser_227653"
+        },
+        "topics": [
+            {
+                "name": "Cats",
+                "url": "/topics/cats"
+            },
+            {
+                "name": "Pet",
+                "url": "/topics/pet"
+            },
+            {
+                "name": "Mouse",
+                "url": "/topics/mouse"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kaspar_hauser_227655",
+        "quote": "Why you kill me? I never did you anything. Not kill me! I beg not to be locked up. Never let me out of my prison - not kill me! You kill me before I understand what life is. You must tell me why you locked me up!",
+        "author": {
+            "name": "Kaspar Hauser",
+            "url": "/quotes/kaspar_hauser_227655"
+        },
+        "topics": [
+            {
+                "name": "Tell",
+                "url": "/topics/tell"
+            },
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            },
+            {
+                "name": "Beg",
+                "url": "/topics/beg"
+            }
+        ]
+    }
+]

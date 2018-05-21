@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/beth_anderson_182260",
+        "quote": "Women's music is underrepresented.",
+        "author": {
+            "name": "Beth Anderson",
+            "url": "/quotes/beth_anderson_182260"
+        },
+        "topics": [
+            {
+                "name": "Women",
+                "url": "/topics/women"
+            },
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/beth_anderson_182262",
+        "quote": "Everything is just better in California - the wine, the food, fruits and vegetables, the comforts of living. Even the instrumentalists are generous and curious. Everything is wonderful.",
+        "author": {
+            "name": "Beth Anderson",
+            "url": "/quotes/beth_anderson_182262"
+        },
+        "topics": [
+            {
+                "name": "Living",
+                "url": "/topics/living"
+            },
+            {
+                "name": "Curious",
+                "url": "/topics/curious"
+            },
+            {
+                "name": "Wonderful",
+                "url": "/topics/wonderful"
+            }
+        ]
+    }
+]

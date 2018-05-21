@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/maurice_de_vlaminck_311930",
+        "quote": "Good painting is like good cooking; it can be tasted, but not explained.",
+        "author": {
+            "name": "Maurice de Vlaminck",
+            "url": "/quotes/maurice_de_vlaminck_311930"
+        },
+        "topics": [
+            {
+                "name": "Painting",
+                "url": "/topics/painting"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Tasted",
+                "url": "/topics/tasted"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/maurice_de_vlaminck_317114",
+        "quote": "When I get my hands on painting materials I don't give a damn about other people's painting... every generation must start again afresh.",
+        "author": {
+            "name": "Maurice de Vlaminck",
+            "url": "/quotes/maurice_de_vlaminck_317114"
+        },
+        "topics": [
+            {
+                "name": "Generation",
+                "url": "/topics/generation"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/maurice_de_vlaminck_317113",
+        "quote": "In art, theories are as useful as a doctor's prescription; one must be sick to believe them.",
+        "author": {
+            "name": "Maurice de Vlaminck",
+            "url": "/quotes/maurice_de_vlaminck_317113"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Doctor",
+                "url": "/topics/doctor"
+            },
+            {
+                "name": "Prescription",
+                "url": "/topics/prescription"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/danny_sugerman_398756",
+        "quote": "Not everyone can or wants to go straight.",
+        "author": {
+            "name": "Danny Sugerman",
+            "url": "/quotes/danny_sugerman_398756"
+        },
+        "topics": [
+            {
+                "name": "Straight",
+                "url": "/topics/straight"
+            },
+            {
+                "name": "Everyone",
+                "url": "/topics/everyone"
+            },
+            {
+                "name": "Go",
+                "url": "/topics/go"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/danny_sugerman_403622",
+        "quote": "To put someone in jail for using drugs in the privacy of his hotel room is just barbaric.",
+        "author": {
+            "name": "Danny Sugerman",
+            "url": "/quotes/danny_sugerman_403622"
+        },
+        "topics": [
+            {
+                "name": "His",
+                "url": "/topics/his"
+            },
+            {
+                "name": "Barbaric",
+                "url": "/topics/barbaric"
+            },
+            {
+                "name": "Using",
+                "url": "/topics/using"
+            }
+        ]
+    }
+]

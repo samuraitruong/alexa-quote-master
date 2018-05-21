@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/carl_zeiss_228380",
+        "quote": "I remember the great atmosphere and the great stadium.",
+        "author": {
+            "name": "Carl Zeiss",
+            "url": "/quotes/carl_zeiss_228380"
+        },
+        "topics": [
+            {
+                "name": "Remember",
+                "url": "/topics/remember"
+            },
+            {
+                "name": "Atmosphere",
+                "url": "/topics/atmosphere"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/carl_zeiss_228381",
+        "quote": "It was in the Seventies but I still recall what was a good night for my club. Of course, the stadium has changed now but I have heard that the atmosphere is still the same.",
+        "author": {
+            "name": "Carl Zeiss",
+            "url": "/quotes/carl_zeiss_228381"
+        },
+        "topics": [
+            {
+                "name": "Seventies",
+                "url": "/topics/seventies"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            },
+            {
+                "name": "Atmosphere",
+                "url": "/topics/atmosphere"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/john_james_ingalls_105015",
+        "quote": "In the democracy of the dead all men at last are equal. There is neither rank nor station nor prerogative in the republic of the grave.",
+        "author": {
+            "name": "John James Ingalls",
+            "url": "/quotes/john_james_ingalls_105015"
+        },
+        "topics": [
+            {
+                "name": "Last",
+                "url": "/topics/last"
+            },
+            {
+                "name": "Grave",
+                "url": "/topics/grave"
+            },
+            {
+                "name": "Republic",
+                "url": "/topics/republic"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_james_ingalls_169393",
+        "quote": "There is neither rank nor station nor prerogative in the republic of the grave.",
+        "author": {
+            "name": "John James Ingalls",
+            "url": "/quotes/john_james_ingalls_169393"
+        },
+        "topics": [
+            {
+                "name": "Nor",
+                "url": "/topics/nor"
+            },
+            {
+                "name": "Republic",
+                "url": "/topics/republic"
+            },
+            {
+                "name": "Prerogative",
+                "url": "/topics/prerogative"
+            }
+        ]
+    }
+]

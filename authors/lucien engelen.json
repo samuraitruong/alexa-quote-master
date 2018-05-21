@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/lucien_engelen_561406",
+        "quote": "We tend not to use the biggest resource in healthcare - the patients themselves. So I'm trying to figure out possible uses for digital technologies like Facebook but also real-life social networks to improve healthcare provision.",
+        "author": {
+            "name": "Lucien Engelen",
+            "url": "/quotes/lucien_engelen_561406"
+        },
+        "topics": [
+            {
+                "name": "Social Networks",
+                "url": "/topics/social_networks"
+            },
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lucien_engelen_561407",
+        "quote": "It's a misconception that people over 65 do not use computers. They love them; they are always consulting Dr Google.",
+        "author": {
+            "name": "Lucien Engelen",
+            "url": "/quotes/lucien_engelen_561407"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            }
+        ]
+    }
+]

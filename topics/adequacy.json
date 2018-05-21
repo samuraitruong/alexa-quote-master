@@ -1,0 +1,100 @@
+[
+    {
+        "url": "/quotes/neal_a_maxwell_130339?src=t_adequacy",
+        "quote": "Discouragement is not the absence of adequacy but the absence of courage.",
+        "author": {
+            "name": "Neal A. Maxwell",
+            "url": "/authors/neal_a_maxwell"
+        },
+        "topics": [
+            {
+                "name": "Absence",
+                "url": "/topics/absence"
+            },
+            {
+                "name": "Discouragement",
+                "url": "/topics/discouragement"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/adam_osborne_200900?src=t_adequacy",
+        "quote": "Adequacy is sufficient.",
+        "author": {
+            "name": "Adam Osborne",
+            "url": "/authors/adam_osborne"
+        },
+        "topics": [
+            {
+                "name": "Sufficient",
+                "url": "/topics/sufficient"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/walter_kerr_387734?src=t_adequacy",
+        "quote": "He had delusions of adequacy.",
+        "author": {
+            "name": "Walter Kerr",
+            "url": "/authors/walter_kerr"
+        },
+        "topics": [
+            {
+                "name": "Had",
+                "url": "/topics/had"
+            },
+            {
+                "name": "He",
+                "url": "/topics/he"
+            },
+            {
+                "name": "Delusions",
+                "url": "/topics/delusions"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alan_moore_551216?src=t_adequacy",
+        "quote": "Way back in the day, when I first started and had delusions of adequacy as a cartoonist, I would listen to music. When I switched to a career as a writer, I would try to listen to music, but if the songs had lyrics they would get in the way of the words I was trying to write. So I switched to listening to purely instrumental pieces.",
+        "author": {
+            "name": "Alan Moore",
+            "url": "/authors/alan_moore"
+        },
+        "topics": [
+            {
+                "name": "Career",
+                "url": "/topics/career"
+            },
+            {
+                "name": "Back",
+                "url": "/topics/back"
+            },
+            {
+                "name": "Purely",
+                "url": "/topics/purely"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/e_stanley_jones_270459?src=t_adequacy",
+        "quote": "Life is supplied with a basic adequacy.",
+        "author": {
+            "name": "E. Stanley Jones",
+            "url": "/authors/e_stanley_jones"
+        },
+        "topics": [
+            {
+                "name": "Life",
+                "url": "/topics/life"
+            },
+            {
+                "name": "Basic",
+                "url": "/topics/basic"
+            },
+            {
+                "name": "Supplied",
+                "url": "/topics/supplied"
+            }
+        ]
+    }
+]

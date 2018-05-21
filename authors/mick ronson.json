@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/mick_ronson_305927",
+        "quote": "I've always thought that the act of playing the guitar was the act of trying to make a point of playing the guitar.",
+        "author": {
+            "name": "Mick Ronson",
+            "url": "/quotes/mick_ronson_305927"
+        },
+        "topics": [
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Act",
+                "url": "/topics/act"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mick_ronson_305925",
+        "quote": "Actually, I never liked Dylan's kind of music before; I always thought he sounded just like Yogi Bear.",
+        "author": {
+            "name": "Mick Ronson",
+            "url": "/quotes/mick_ronson_305925"
+        },
+        "topics": [
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Yogi",
+                "url": "/topics/yogi"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mick_ronson_305926",
+        "quote": "I was never really a writer, I was always more of a performer.",
+        "author": {
+            "name": "Mick Ronson",
+            "url": "/quotes/mick_ronson_305926"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Performer",
+                "url": "/topics/performer"
+            }
+        ]
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/charles_simonyi_405145",
+        "quote": "Yachts are the closest a commoner can get to sovereignty.",
+        "author": {
+            "name": "Charles Simonyi",
+            "url": "/quotes/charles_simonyi_405145"
+        },
+        "topics": [
+            {
+                "name": "Get",
+                "url": "/topics/get"
+            },
+            {
+                "name": "Yachts",
+                "url": "/topics/yachts"
+            },
+            {
+                "name": "Commoner",
+                "url": "/topics/commoner"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charles_simonyi_509393",
+        "quote": "I believe in rituals.",
+        "author": {
+            "name": "Charles Simonyi",
+            "url": "/quotes/charles_simonyi_509393"
+        },
+        "topics": [
+            {
+                "name": "Believe",
+                "url": "/topics/believe"
+            },
+            {
+                "name": "I Believe In",
+                "url": "/topics/i_believe_in"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charles_simonyi_509394",
+        "quote": "HAM radio is very inexpensive, it is nearly unlimited and free to use. The only limitation is that you can only talk for five minutes to any given person because the station gets out of range within that time.",
+        "author": {
+            "name": "Charles Simonyi",
+            "url": "/quotes/charles_simonyi_509394"
+        },
+        "topics": [
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Limitation",
+                "url": "/topics/limitation"
+            },
+            {
+                "name": "Given",
+                "url": "/topics/given"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charles_simonyi_509395",
+        "quote": "Basically, most good science in space flight has to do with the behavior of the human body in space. That is where we are lacking info, and where info can only be obtained by flying in space.",
+        "author": {
+            "name": "Charles Simonyi",
+            "url": "/quotes/charles_simonyi_509395"
+        },
+        "topics": [
+            {
+                "name": "Human Body",
+                "url": "/topics/human_body"
+            },
+            {
+                "name": "Flight",
+                "url": "/topics/flight"
+            },
+            {
+                "name": "Lacking",
+                "url": "/topics/lacking"
+            }
+        ]
+    }
+]

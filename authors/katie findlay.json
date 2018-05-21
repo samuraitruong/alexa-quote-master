@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/katie_findlay_718327",
+        "quote": "At age 10, I was better at ballet than I think I will ever be at any physical activity for the rest of my life.",
+        "author": {
+            "name": "Katie Findlay",
+            "url": "/quotes/katie_findlay_718327"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Rest",
+                "url": "/topics/rest"
+            },
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/katie_findlay_718326",
+        "quote": "I don't know how to exist before 9 A.M. And without coffee, I'm not classified as a human. Actually, I could be regarded as a threat.",
+        "author": {
+            "name": "Katie Findlay",
+            "url": "/quotes/katie_findlay_718326"
+        },
+        "topics": [
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            },
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            },
+            {
+                "name": "Classified",
+                "url": "/topics/classified"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/katie_findlay_718324",
+        "quote": "I'm a wall to wall geek. I love sci fi; I've had a crush on Spider-Man since I was five years old, and there's an uncomfortably large shelf in my living room just for my comics.",
+        "author": {
+            "name": "Katie Findlay",
+            "url": "/quotes/katie_findlay_718324"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Comics",
+                "url": "/topics/comics"
+            },
+            {
+                "name": "Had",
+                "url": "/topics/had"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/katie_findlay_718325",
+        "quote": "I love biographies. I'm especially into stuff about Hollywood in the '40s and '50s. I find it fascinating and terrifying.",
+        "author": {
+            "name": "Katie Findlay",
+            "url": "/quotes/katie_findlay_718325"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Hollywood",
+                "url": "/topics/hollywood"
+            },
+            {
+                "name": "Terrifying",
+                "url": "/topics/terrifying"
+            }
+        ]
+    }
+]

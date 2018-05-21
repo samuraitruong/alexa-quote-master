@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/martin_margiela_624036",
+        "quote": "While working as a team, you push yourself forward and move outside the boundaries. It's a great thing.",
+        "author": {
+            "name": "Martin Margiela",
+            "url": "/quotes/martin_margiela_624036"
+        },
+        "topics": [
+            {
+                "name": "Team",
+                "url": "/topics/team"
+            },
+            {
+                "name": "Forward",
+                "url": "/topics/forward"
+            },
+            {
+                "name": "Move",
+                "url": "/topics/move"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/martin_margiela_624037",
+        "quote": "Each time somebody working for the Maison has a baby, the atelier creates miniature blouses-blanches, exactly like the ones we wear, with the child's name embroidered across the front. That is our welcome-to-this-world gift.",
+        "author": {
+            "name": "Martin Margiela",
+            "url": "/quotes/martin_margiela_624037"
+        },
+        "topics": [
+            {
+                "name": "Gift",
+                "url": "/topics/gift"
+            },
+            {
+                "name": "Wear",
+                "url": "/topics/wear"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    }
+]

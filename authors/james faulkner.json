@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/james_faulkner_860327",
+        "quote": "A Renaissance pope, they were not overly concerned with their religion - rather more concerned with politics and power. At that time, they still ruled the world.",
+        "author": {
+            "name": "James Faulkner",
+            "url": "/quotes/james_faulkner_860327"
+        },
+        "topics": [
+            {
+                "name": "Politics",
+                "url": "/topics/politics"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            },
+            {
+                "name": "Pope",
+                "url": "/topics/pope"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_faulkner_860328",
+        "quote": "Every time you read a script, it's, 'Oh, I do this!' or 'I'm capable of that!' It is a cool thing.",
+        "author": {
+            "name": "James Faulkner",
+            "url": "/quotes/james_faulkner_860328"
+        },
+        "topics": [
+            {
+                "name": "Cool",
+                "url": "/topics/cool"
+            },
+            {
+                "name": "Capable",
+                "url": "/topics/capable"
+            },
+            {
+                "name": "Read",
+                "url": "/topics/read"
+            }
+        ]
+    }
+]

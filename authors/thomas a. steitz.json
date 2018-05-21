@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/thomas_a_steitz_776981",
+        "quote": "I began my thesis research at Harvard by working with a team in the laboratory of William N. Lipscomb, a Nobel chemistry Laureate, in 1976, on the structure of carboxypeptidase A. I did postdoctoral studies with David Blow at the MRC lab of Molecular Biology in Cambridge studying chymotrypsin.",
+        "author": {
+            "name": "Thomas A. Steitz",
+            "url": "/quotes/thomas_a_steitz_776981"
+        },
+        "topics": [
+            {
+                "name": "Research",
+                "url": "/topics/research"
+            },
+            {
+                "name": "Laureate",
+                "url": "/topics/laureate"
+            },
+            {
+                "name": "Lab",
+                "url": "/topics/lab"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_a_steitz_776982",
+        "quote": "It was Max Perutz who inspired me to go into structural biology when he gave a lecture at Harvard in 1963. As soon as I heard him talk, I decided that this is what I want to do.",
+        "author": {
+            "name": "Thomas A. Steitz",
+            "url": "/quotes/thomas_a_steitz_776982"
+        },
+        "topics": [
+            {
+                "name": "Biology",
+                "url": "/topics/biology"
+            },
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Max",
+                "url": "/topics/max"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_a_steitz_776983",
+        "quote": "Bacteria evolve, and so they become resistant to existing drugs. Sometimes they revert, depending on how damaging the mutation is to the life cycle of the bacteria. Mutations that give rise to resistance against particular compounds do increase, and that is why you constantly have to have new ones.",
+        "author": {
+            "name": "Thomas A. Steitz",
+            "url": "/quotes/thomas_a_steitz_776983"
+        },
+        "topics": [
+            {
+                "name": "Sometimes",
+                "url": "/topics/sometimes"
+            },
+            {
+                "name": "Against",
+                "url": "/topics/against"
+            },
+            {
+                "name": "Bacteria",
+                "url": "/topics/bacteria"
+            }
+        ]
+    }
+]

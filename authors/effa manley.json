@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/effa_manley_621701",
+        "quote": "Babe Ruth made a baseball fan of me. I used to go to Yankee Stadium just to see him come to bat.",
+        "author": {
+            "name": "Effa Manley",
+            "url": "/quotes/effa_manley_621701"
+        },
+        "topics": [
+            {
+                "name": "Yankee",
+                "url": "/topics/yankee"
+            },
+            {
+                "name": "Ruth",
+                "url": "/topics/ruth"
+            },
+            {
+                "name": "Babe Ruth",
+                "url": "/topics/babe_ruth"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/effa_manley_621702",
+        "quote": "People say, 'Don't live in the past.' But I guess it depends on how interesting your past is.",
+        "author": {
+            "name": "Effa Manley",
+            "url": "/quotes/effa_manley_621702"
+        },
+        "topics": [
+            {
+                "name": "Past",
+                "url": "/topics/past"
+            },
+            {
+                "name": "In The Past",
+                "url": "/topics/in_the_past"
+            },
+            {
+                "name": "Depends",
+                "url": "/topics/depends"
+            }
+        ]
+    }
+]

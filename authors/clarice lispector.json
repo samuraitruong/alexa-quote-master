@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/clarice_lispector_527344",
+        "quote": "Brazil is where I have to be, where I have my roots.",
+        "author": {
+            "name": "Clarice Lispector",
+            "url": "/quotes/clarice_lispector_527344"
+        },
+        "topics": [
+            {
+                "name": "Roots",
+                "url": "/topics/roots"
+            },
+            {
+                "name": "Brazil",
+                "url": "/topics/brazil"
+            },
+            {
+                "name": "Where",
+                "url": "/topics/where"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/clarice_lispector_527345",
+        "quote": "Facts and particulars annoy me.",
+        "author": {
+            "name": "Clarice Lispector",
+            "url": "/quotes/clarice_lispector_527345"
+        },
+        "topics": [
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Facts",
+                "url": "/topics/facts"
+            },
+            {
+                "name": "Annoy",
+                "url": "/topics/annoy"
+            }
+        ]
+    }
+]

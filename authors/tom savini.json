@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/tom_savini_572462",
+        "quote": "My favorite movies are love stories.",
+        "author": {
+            "name": "Tom Savini",
+            "url": "/quotes/tom_savini_572462"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Movies",
+                "url": "/topics/movies"
+            },
+            {
+                "name": "Stories",
+                "url": "/topics/stories"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tom_savini_572461",
+        "quote": "Tell everyone to vote: Tom Savini for Governor on 'The Walking Dead'!",
+        "author": {
+            "name": "Tom Savini",
+            "url": "/quotes/tom_savini_572461"
+        },
+        "topics": [
+            {
+                "name": "Walking",
+                "url": "/topics/walking"
+            },
+            {
+                "name": "Everyone",
+                "url": "/topics/everyone"
+            },
+            {
+                "name": "Tom",
+                "url": "/topics/tom"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tom_savini_572463",
+        "quote": "Film is a truly magical medium.",
+        "author": {
+            "name": "Tom Savini",
+            "url": "/quotes/tom_savini_572463"
+        },
+        "topics": [
+            {
+                "name": "Film",
+                "url": "/topics/film"
+            },
+            {
+                "name": "Magical",
+                "url": "/topics/magical"
+            },
+            {
+                "name": "Medium",
+                "url": "/topics/medium"
+            }
+        ]
+    }
+]

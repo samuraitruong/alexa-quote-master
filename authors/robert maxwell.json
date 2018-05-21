@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/robert_maxwell_190700",
+        "quote": "The thing I would most like to see invented is a way of teaching children and grown-ups the difference between right and wrong.",
+        "author": {
+            "name": "Robert Maxwell",
+            "url": "/quotes/robert_maxwell_190700"
+        },
+        "topics": [
+            {
+                "name": "Right",
+                "url": "/topics/right"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Teaching",
+                "url": "/topics/teaching"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_maxwell_190701",
+        "quote": "You are as safe with me as you would be in the Bank of England.",
+        "author": {
+            "name": "Robert Maxwell",
+            "url": "/quotes/robert_maxwell_190701"
+        },
+        "topics": [
+            {
+                "name": "Bank",
+                "url": "/topics/bank"
+            },
+            {
+                "name": "England",
+                "url": "/topics/england"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_maxwell_406740",
+        "quote": "Two people could build an outhouse in four hours. They're not complicated.",
+        "author": {
+            "name": "Robert Maxwell",
+            "url": "/quotes/robert_maxwell_406740"
+        },
+        "topics": [
+            {
+                "name": "Build",
+                "url": "/topics/build"
+            },
+            {
+                "name": "Hours",
+                "url": "/topics/hours"
+            },
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            }
+        ]
+    }
+]

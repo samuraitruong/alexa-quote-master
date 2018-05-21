@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/malcolm_david_kelley_639077",
+        "quote": "I go to the club and can dance a little. I'm known to get down.",
+        "author": {
+            "name": "Malcolm David Kelley",
+            "url": "/quotes/malcolm_david_kelley_639077"
+        },
+        "topics": [
+            {
+                "name": "Go",
+                "url": "/topics/go"
+            },
+            {
+                "name": "Get",
+                "url": "/topics/get"
+            },
+            {
+                "name": "Known",
+                "url": "/topics/known"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/malcolm_david_kelley_639078",
+        "quote": "I grew up in L.A., so I'm a huge Lakers fan and Kobe fan.",
+        "author": {
+            "name": "Malcolm David Kelley",
+            "url": "/quotes/malcolm_david_kelley_639078"
+        },
+        "topics": [
+            {
+                "name": "Fan",
+                "url": "/topics/fan"
+            },
+            {
+                "name": "Lakers",
+                "url": "/topics/lakers"
+            },
+            {
+                "name": "Kobe",
+                "url": "/topics/kobe"
+            }
+        ]
+    }
+]

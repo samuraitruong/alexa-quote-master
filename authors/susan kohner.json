@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/susan_kohner_715013",
+        "quote": "Acting wasn't what I wanted to do forever. I wanted a home, and I wanted children.",
+        "author": {
+            "name": "Susan Kohner",
+            "url": "/quotes/susan_kohner_715013"
+        },
+        "topics": [
+            {
+                "name": "Children",
+                "url": "/topics/children"
+            },
+            {
+                "name": "Forever",
+                "url": "/topics/forever"
+            },
+            {
+                "name": "Wanted",
+                "url": "/topics/wanted"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/susan_kohner_715014",
+        "quote": "I couldn't have ever married an actor. They have a childishness carried into an age when maturity should have set in.",
+        "author": {
+            "name": "Susan Kohner",
+            "url": "/quotes/susan_kohner_715014"
+        },
+        "topics": [
+            {
+                "name": "Maturity",
+                "url": "/topics/maturity"
+            },
+            {
+                "name": "Set",
+                "url": "/topics/set"
+            },
+            {
+                "name": "Carried",
+                "url": "/topics/carried"
+            }
+        ]
+    }
+]

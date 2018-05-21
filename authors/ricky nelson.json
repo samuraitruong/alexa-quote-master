@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/ricky_nelson_197403",
+        "quote": "To reminisce with my old friends, a chance to share some memories, and play our songs again.",
+        "author": {
+            "name": "Ricky Nelson",
+            "url": "/quotes/ricky_nelson_197403"
+        },
+        "topics": [
+            {
+                "name": "Chance",
+                "url": "/topics/chance"
+            },
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ricky_nelson_197402",
+        "quote": "You can't please everyone so you gotta please yourself.",
+        "author": {
+            "name": "Ricky Nelson",
+            "url": "/quotes/ricky_nelson_197402"
+        },
+        "topics": [
+            {
+                "name": "Please",
+                "url": "/topics/please"
+            },
+            {
+                "name": "Gotta",
+                "url": "/topics/gotta"
+            },
+            {
+                "name": "Everyone",
+                "url": "/topics/everyone"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ricky_nelson_197404",
+        "quote": "Just believe in what you're doing, and keep doing it.",
+        "author": {
+            "name": "Ricky Nelson",
+            "url": "/quotes/ricky_nelson_197404"
+        },
+        "topics": [
+            {
+                "name": "Believe",
+                "url": "/topics/believe"
+            },
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Keep",
+                "url": "/topics/keep"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ricky_nelson_197401",
+        "quote": "They all knew my name, but no one heard the music - I didn't look the same.",
+        "author": {
+            "name": "Ricky Nelson",
+            "url": "/quotes/ricky_nelson_197401"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "Same",
+                "url": "/topics/same"
+            },
+            {
+                "name": "Knew",
+                "url": "/topics/knew"
+            }
+        ]
+    }
+]

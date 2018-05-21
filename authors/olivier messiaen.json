@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/olivier_messiaen_205226",
+        "quote": "I give bird songs to those who dwell in cities and have never heard them, make rhythms for those who know only military marches or jazz, and paint colors for those who see none.",
+        "author": {
+            "name": "Olivier Messiaen",
+            "url": "/quotes/olivier_messiaen_205226"
+        },
+        "topics": [
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            },
+            {
+                "name": "Rhythms",
+                "url": "/topics/rhythms"
+            },
+            {
+                "name": "Cities",
+                "url": "/topics/cities"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/olivier_messiaen_205222",
+        "quote": "The human being is flesh and consciousness, body and soul; his heart is an abyss which can only be filled by that which is godly.",
+        "author": {
+            "name": "Olivier Messiaen",
+            "url": "/quotes/olivier_messiaen_205222"
+        },
+        "topics": [
+            {
+                "name": "Soul",
+                "url": "/topics/soul"
+            },
+            {
+                "name": "Human Being",
+                "url": "/topics/human_being"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/olivier_messiaen_205223",
+        "quote": "No one should be allowed to make music as if he were made of wood. One must reproduce the musical text exactly, but not play like a stone.",
+        "author": {
+            "name": "Olivier Messiaen",
+            "url": "/quotes/olivier_messiaen_205223"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Musical",
+                "url": "/topics/musical"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/olivier_messiaen_205225",
+        "quote": "My faith is the grand drama of my life. I'm a believer, so I sing words of God to those who have no faith.",
+        "author": {
+            "name": "Olivier Messiaen",
+            "url": "/quotes/olivier_messiaen_205225"
+        },
+        "topics": [
+            {
+                "name": "Faith",
+                "url": "/topics/faith"
+            },
+            {
+                "name": "Words",
+                "url": "/topics/words"
+            },
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            }
+        ]
+    }
+]

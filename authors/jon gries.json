@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/jon_gries_462829",
+        "quote": "Actually, it seems like every time I'm about to pack it in, that's when I get a job.",
+        "author": {
+            "name": "Jon Gries",
+            "url": "/quotes/jon_gries_462829"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Pack",
+                "url": "/topics/pack"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jon_gries_462830",
+        "quote": "I am a closet metal fan.",
+        "author": {
+            "name": "Jon Gries",
+            "url": "/quotes/jon_gries_462830"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Metal",
+                "url": "/topics/metal"
+            },
+            {
+                "name": "Fan",
+                "url": "/topics/fan"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jon_gries_462831",
+        "quote": "I don't care what your religion is, as long as it doesn't chastise anybody that's not part of it.",
+        "author": {
+            "name": "Jon Gries",
+            "url": "/quotes/jon_gries_462831"
+        },
+        "topics": [
+            {
+                "name": "Part",
+                "url": "/topics/part"
+            },
+            {
+                "name": "Anybody",
+                "url": "/topics/anybody"
+            },
+            {
+                "name": "Your",
+                "url": "/topics/your"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jon_gries_462832",
+        "quote": "If we descended from space aliens, that's just as viable as Adam and Eve in the Garden of Eden, as far as I'm concerned.",
+        "author": {
+            "name": "Jon Gries",
+            "url": "/quotes/jon_gries_462832"
+        },
+        "topics": [
+            {
+                "name": "Eden",
+                "url": "/topics/eden"
+            },
+            {
+                "name": "Concerned",
+                "url": "/topics/concerned"
+            },
+            {
+                "name": "Adam",
+                "url": "/topics/adam"
+            }
+        ]
+    }
+]

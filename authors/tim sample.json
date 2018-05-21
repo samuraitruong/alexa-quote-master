@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/tim_sample_419889",
+        "quote": "In Maine, there is a deeply ingrained sense that you can always get a little more use out of something.",
+        "author": {
+            "name": "Tim Sample",
+            "url": "/quotes/tim_sample_419889"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Ingrained",
+                "url": "/topics/ingrained"
+            },
+            {
+                "name": "Maine",
+                "url": "/topics/maine"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tim_sample_404683",
+        "quote": "Children are far more interesting to work with than grownups. They're incredibly honest. They'll tell you exactly what they think.",
+        "author": {
+            "name": "Tim Sample",
+            "url": "/quotes/tim_sample_404683"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            }
+        ]
+    }
+]

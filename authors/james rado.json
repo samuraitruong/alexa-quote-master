@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/james_rado_338328",
+        "quote": "The draft is white people sending black people to fight yellow people to protect the country they stole from red people.",
+        "author": {
+            "name": "James Rado",
+            "url": "/quotes/james_rado_338328"
+        },
+        "topics": [
+            {
+                "name": "Red",
+                "url": "/topics/red"
+            },
+            {
+                "name": "White",
+                "url": "/topics/white"
+            },
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_rado_345245",
+        "quote": "I think I started out trying to be very objective about the flow of the play.",
+        "author": {
+            "name": "James Rado",
+            "url": "/quotes/james_rado_345245"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_rado_395896",
+        "quote": "This is the dawning of the age of Aquarius.",
+        "author": {
+            "name": "James Rado",
+            "url": "/quotes/james_rado_395896"
+        },
+        "topics": [
+            {
+                "name": "Age",
+                "url": "/topics/age"
+            },
+            {
+                "name": "Dawning",
+                "url": "/topics/dawning"
+            }
+        ]
+    }
+]

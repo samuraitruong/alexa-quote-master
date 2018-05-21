@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/dawn_wells_200996",
+        "quote": "Acting is my first love.",
+        "author": {
+            "name": "Dawn Wells",
+            "url": "/quotes/dawn_wells_200996"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "First",
+                "url": "/topics/first"
+            },
+            {
+                "name": "First Love",
+                "url": "/topics/first_love"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dawn_wells_200998",
+        "quote": "Just because a woman is over 50 does not mean she no longer has anything to offer. If anything, we have so much more to offer! We have lived life, we get better with age. I do my best work now in my 60s. Sure, I could retire; but what would I do? Play Bingo? I think not!",
+        "author": {
+            "name": "Dawn Wells",
+            "url": "/quotes/dawn_wells_200998"
+        },
+        "topics": [
+            {
+                "name": "Woman",
+                "url": "/topics/woman"
+            },
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    }
+]

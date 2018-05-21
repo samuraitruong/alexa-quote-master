@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/lars_feld_510069",
+        "quote": "Fiscal decentralisation does not lead to higher economic growth because economic growth is much more driven by factors other than taxes and spending, e.g. increases in technological progress and improved human capital.",
+        "author": {
+            "name": "Lars Feld",
+            "url": "/quotes/lars_feld_510069"
+        },
+        "topics": [
+            {
+                "name": "Taxes",
+                "url": "/topics/taxes"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Capital",
+                "url": "/topics/capital"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lars_feld_510068",
+        "quote": "Central banks need to be able to buy bonds if there are short-term malfunctions of the markets. But buying bonds without differentiation and without limits would be very problematic.",
+        "author": {
+            "name": "Lars Feld",
+            "url": "/quotes/lars_feld_510068"
+        },
+        "topics": [
+            {
+                "name": "Differentiation",
+                "url": "/topics/differentiation"
+            },
+            {
+                "name": "Banks",
+                "url": "/topics/banks"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    }
+]

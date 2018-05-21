@@ -1,0 +1,734 @@
+[
+    {
+        "url": "/quotes/whitfield_diffie_675954",
+        "quote": "In a sense, communications networks can be defined entirely by who has cryptographic keys, and I think a lot of networks will work that way in the future.",
+        "author": {
+            "name": "Whitfield Diffie",
+            "url": "/quotes/whitfield_diffie_675954"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/whitfield_diffie_675958",
+        "quote": "It's simply unrealistic to depend on secrecy for security in computer software. You may be able to keep the exact workings of the program out of general circulation, but can you prevent the code from being reverse-engineered by serious opponents? Probably not. The secret to strong security: less reliance on secrets.",
+        "author": {
+            "name": "Whitfield Diffie",
+            "url": "/quotes/whitfield_diffie_675958"
+        },
+        "topics": [
+            {
+                "name": "Strong",
+                "url": "/topics/strong"
+            },
+            {
+                "name": "Depend",
+                "url": "/topics/depend"
+            },
+            {
+                "name": "Code",
+                "url": "/topics/code"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/whitfield_diffie_675959",
+        "quote": "The decisions we make about communication security today will determine the kind of society we live in tomorrow.",
+        "author": {
+            "name": "Whitfield Diffie",
+            "url": "/quotes/whitfield_diffie_675959"
+        },
+        "topics": [
+            {
+                "name": "Society",
+                "url": "/topics/society"
+            },
+            {
+                "name": "Security",
+                "url": "/topics/security"
+            },
+            {
+                "name": "Determine",
+                "url": "/topics/determine"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/whitfield_diffie_675961",
+        "quote": "I am not convinced that lack of encryption is the primary problem. The problem with the Internet is that it is meant for communications among non-friends.",
+        "author": {
+            "name": "Whitfield Diffie",
+            "url": "/quotes/whitfield_diffie_675961"
+        },
+        "topics": [
+            {
+                "name": "Meant",
+                "url": "/topics/meant"
+            },
+            {
+                "name": "The Problem With",
+                "url": "/topics/the_problem_with"
+            },
+            {
+                "name": "Am",
+                "url": "/topics/am"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/whitfield_diffie_675962",
+        "quote": "We have experienced an utter explosion in investigative techniques. Walk the streets, look at the cameras! They are now recognising people automatically from photos; we have DNA fingerprinting, infrascan photos that can identify you from the veins in your face.",
+        "author": {
+            "name": "Whitfield Diffie",
+            "url": "/quotes/whitfield_diffie_675962"
+        },
+        "topics": [
+            {
+                "name": "Streets",
+                "url": "/topics/streets"
+            },
+            {
+                "name": "Identify",
+                "url": "/topics/identify"
+            },
+            {
+                "name": "Utter",
+                "url": "/topics/utter"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/whitfield_diffie_675963",
+        "quote": "People are leaving trails everywhere they go; automated web crawlers tell you an awful lot about their social activities. The flow of information in fundamentally unobtrusive ways into social control organisations has risen dramatically.",
+        "author": {
+            "name": "Whitfield Diffie",
+            "url": "/quotes/whitfield_diffie_675963"
+        },
+        "topics": [
+            {
+                "name": "Tell",
+                "url": "/topics/tell"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Awful Lot",
+                "url": "/topics/awful_lot"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/whitfield_diffie_675964",
+        "quote": "I think, and I've thought this for a long time, that we live, roughly speaking, in the last generation of human beings.",
+        "author": {
+            "name": "Whitfield Diffie",
+            "url": "/quotes/whitfield_diffie_675964"
+        },
+        "topics": [
+            {
+                "name": "Generation",
+                "url": "/topics/generation"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/whitfield_diffie_675965",
+        "quote": "The most important impact of technology on communications security is that it draws better and better traffic into vulnerable channels.",
+        "author": {
+            "name": "Whitfield Diffie",
+            "url": "/quotes/whitfield_diffie_675965"
+        },
+        "topics": [
+            {
+                "name": "Impact",
+                "url": "/topics/impact"
+            },
+            {
+                "name": "The Most Important",
+                "url": "/topics/the_most_important"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/whitfield_diffie_675953",
+        "quote": "Cloud computing is a challenge to security, but one that can be overcome.",
+        "author": {
+            "name": "Whitfield Diffie",
+            "url": "/quotes/whitfield_diffie_675953"
+        },
+        "topics": [
+            {
+                "name": "Security",
+                "url": "/topics/security"
+            },
+            {
+                "name": "Cloud",
+                "url": "/topics/cloud"
+            },
+            {
+                "name": "Computing",
+                "url": "/topics/computing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/whitfield_diffie_675960",
+        "quote": "Without strong encryption, you will be spied on systematically by lots of people.",
+        "author": {
+            "name": "Whitfield Diffie",
+            "url": "/quotes/whitfield_diffie_675960"
+        },
+        "topics": [
+            {
+                "name": "Strong",
+                "url": "/topics/strong"
+            },
+            {
+                "name": "Encryption",
+                "url": "/topics/encryption"
+            },
+            {
+                "name": "Lots",
+                "url": "/topics/lots"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/whitfield_diffie_324242",
+        "quote": "Lots of people working in cryptography have no deep concern with real application issues. They are trying to discover things clever enough to write papers about.",
+        "author": {
+            "name": "Whitfield Diffie",
+            "url": "/quotes/whitfield_diffie_324242"
+        },
+        "topics": [
+            {
+                "name": "Deep",
+                "url": "/topics/deep"
+            },
+            {
+                "name": "Discover",
+                "url": "/topics/discover"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/whitfield_diffie_675957",
+        "quote": "It isn't that secrets are never needed in security. It's that they are never desirable.",
+        "author": {
+            "name": "Whitfield Diffie",
+            "url": "/quotes/whitfield_diffie_675957"
+        },
+        "topics": [
+            {
+                "name": "Security",
+                "url": "/topics/security"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Needed",
+                "url": "/topics/needed"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/whitfield_diffie_323643",
+        "quote": "One of the things that characterizes good intellectual work is a certain self-importance.",
+        "author": {
+            "name": "Whitfield Diffie",
+            "url": "/quotes/whitfield_diffie_323643"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Self-Importance",
+                "url": "/topics/self-importance"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/whitfield_diffie_324773",
+        "quote": "I thought cryptography was a technique that did not require your trusting other people-that if you encrypted your files, you would have the control to make the choice as to whether you would surrender your files.",
+        "author": {
+            "name": "Whitfield Diffie",
+            "url": "/quotes/whitfield_diffie_324773"
+        },
+        "topics": [
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Cryptography",
+                "url": "/topics/cryptography"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/whitfield_diffie_675948",
+        "quote": "I certainly enjoy going on stage and lecturing and talking to Congress. That's a personality explanation. And given government proposals, I thought I had a clear view that they were antagonistic to human freedom.",
+        "author": {
+            "name": "Whitfield Diffie",
+            "url": "/quotes/whitfield_diffie_675948"
+        },
+        "topics": [
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Certainly",
+                "url": "/topics/certainly"
+            },
+            {
+                "name": "Given",
+                "url": "/topics/given"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/whitfield_diffie_675956",
+        "quote": "If you depend on a secret for your security, what do you do when the secret is discovered? If it is easy to change, like a cryptographic key, you do so. If it's hard to change, like a cryptographic system or an operating system, you're stuck. You will be vulnerable until you invest the time and money to design another system.",
+        "author": {
+            "name": "Whitfield Diffie",
+            "url": "/quotes/whitfield_diffie_675956"
+        },
+        "topics": [
+            {
+                "name": "Depend",
+                "url": "/topics/depend"
+            },
+            {
+                "name": "Invest",
+                "url": "/topics/invest"
+            },
+            {
+                "name": "Discovered",
+                "url": "/topics/discovered"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/whitfield_diffie_675955",
+        "quote": "I think that the people who are trying to shut down WikiLeaks are going to have to accept this as a fact of reality that cryptography allows you to do this kind of thing.",
+        "author": {
+            "name": "Whitfield Diffie",
+            "url": "/quotes/whitfield_diffie_675955"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Shut",
+                "url": "/topics/shut"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/whitfield_diffie_323636",
+        "quote": "If you have ambition, you might not achieve anything, but without ambition, you are almost certain not to achieve anything.",
+        "author": {
+            "name": "Whitfield Diffie",
+            "url": "/quotes/whitfield_diffie_323636"
+        },
+        "topics": [
+            {
+                "name": "Ambition",
+                "url": "/topics/ambition"
+            },
+            {
+                "name": "Almost",
+                "url": "/topics/almost"
+            },
+            {
+                "name": "Might",
+                "url": "/topics/might"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/whitfield_diffie_323651",
+        "quote": "Two people can work on a problem better than one.",
+        "author": {
+            "name": "Whitfield Diffie",
+            "url": "/quotes/whitfield_diffie_323651"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Better",
+                "url": "/topics/better"
+            },
+            {
+                "name": "Problem",
+                "url": "/topics/problem"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/whitfield_diffie_323652",
+        "quote": "We in science are spoiled by the success of mathematics. Mathematics is the study of problems so simple that they have good solutions.",
+        "author": {
+            "name": "Whitfield Diffie",
+            "url": "/quotes/whitfield_diffie_323652"
+        },
+        "topics": [
+            {
+                "name": "Success",
+                "url": "/topics/success"
+            },
+            {
+                "name": "Mathematics",
+                "url": "/topics/mathematics"
+            },
+            {
+                "name": "Study",
+                "url": "/topics/study"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/whitfield_diffie_324235",
+        "quote": "I liked Berkeley tremendously, Berkeley was a very leftist campus. I came to love that city as much as I love Paris or the south of France or New York.",
+        "author": {
+            "name": "Whitfield Diffie",
+            "url": "/quotes/whitfield_diffie_324235"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/whitfield_diffie_324244",
+        "quote": "Some people make sharp distinctions sort of between their recreational musings and their professional work. I don't make that distinction very much.",
+        "author": {
+            "name": "Whitfield Diffie",
+            "url": "/quotes/whitfield_diffie_324244"
+        },
+        "topics": [
+            {
+                "name": "Distinction",
+                "url": "/topics/distinction"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/whitfield_diffie_324774",
+        "quote": "I understood the importance in principle of public key cryptography but it's all moved much faster than I expected. I did not expect it to be a mainstay of advanced communications technology.",
+        "author": {
+            "name": "Whitfield Diffie",
+            "url": "/quotes/whitfield_diffie_324774"
+        },
+        "topics": [
+            {
+                "name": "Principle",
+                "url": "/topics/principle"
+            },
+            {
+                "name": "Advanced",
+                "url": "/topics/advanced"
+            },
+            {
+                "name": "Moved",
+                "url": "/topics/moved"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/whitfield_diffie_324776",
+        "quote": "People meet in bars after work all over the world and talk about the great problems of life and death and the world and politics and they don't take themselves seriously. They can do nothing else except chat about these things in bars after work.",
+        "author": {
+            "name": "Whitfield Diffie",
+            "url": "/quotes/whitfield_diffie_324776"
+        },
+        "topics": [
+            {
+                "name": "Death",
+                "url": "/topics/death"
+            },
+            {
+                "name": "Politics",
+                "url": "/topics/politics"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/whitfield_diffie_675942",
+        "quote": "I thought of computers as very low class. I thought of myself as a pure mathematician and was interested in partial differential equations and topology and things like that.",
+        "author": {
+            "name": "Whitfield Diffie",
+            "url": "/quotes/whitfield_diffie_675942"
+        },
+        "topics": [
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/whitfield_diffie_675943",
+        "quote": "I really believe in the radical viewpoint. And I have always believed that one's politics and the character of his particular work are inseparable.",
+        "author": {
+            "name": "Whitfield Diffie",
+            "url": "/quotes/whitfield_diffie_675943"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Inseparable",
+                "url": "/topics/inseparable"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/whitfield_diffie_675944",
+        "quote": "I guess, in a very real sense, I'm a Gnostic. I had been looking all my life for some great mystery... I think somewhere deep in my mind is the notion that if I could learn just the right thing, I would be saved.",
+        "author": {
+            "name": "Whitfield Diffie",
+            "url": "/quotes/whitfield_diffie_675944"
+        },
+        "topics": [
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/whitfield_diffie_675945",
+        "quote": "No right of private conversation was enumerated in the Constitution. I suppose it never occurred to anyone at the time that it could be prevented.",
+        "author": {
+            "name": "Whitfield Diffie",
+            "url": "/quotes/whitfield_diffie_675945"
+        },
+        "topics": [
+            {
+                "name": "Constitution",
+                "url": "/topics/constitution"
+            },
+            {
+                "name": "Private",
+                "url": "/topics/private"
+            },
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/whitfield_diffie_675946",
+        "quote": "If you are designing cryptosystems, you've got to think about long-term applications. You've got to try to figure out how to build something that is secure against technology in the next century that you cannot even imagine.",
+        "author": {
+            "name": "Whitfield Diffie",
+            "url": "/quotes/whitfield_diffie_675946"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            },
+            {
+                "name": "Figure",
+                "url": "/topics/figure"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/whitfield_diffie_675947",
+        "quote": "I call up Amazon. It seems to me they do a major thing wrong, right. I mean, they protect me against the loss of a $50 liability I have of something on my credit card, but they do nothing to protect me against somebody who is watching to see what books I'm interested in, what new perversions I've developed.",
+        "author": {
+            "name": "Whitfield Diffie",
+            "url": "/quotes/whitfield_diffie_675947"
+        },
+        "topics": [
+            {
+                "name": "Watching",
+                "url": "/topics/watching"
+            },
+            {
+                "name": "Against",
+                "url": "/topics/against"
+            },
+            {
+                "name": "Developed",
+                "url": "/topics/developed"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/whitfield_diffie_675949",
+        "quote": "I was, from early on, interested in science. And my parents were very obliging about that. My father used to take me to the museum of natural history, and I knew much more scientific stuff early on. From the time I was 11 or 12, I wanted to be a mathematician.",
+        "author": {
+            "name": "Whitfield Diffie",
+            "url": "/quotes/whitfield_diffie_675949"
+        },
+        "topics": [
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Natural History",
+                "url": "/topics/natural_history"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/whitfield_diffie_675950",
+        "quote": "Intellectual work is essentially a lonely process, and if you can find a way of doing something so that you're in company without being disturbed, that, for me, is the critical thing. I often get to feel isolated so often if I'm sitting either where there aren't people or isn't a view.",
+        "author": {
+            "name": "Whitfield Diffie",
+            "url": "/quotes/whitfield_diffie_675950"
+        },
+        "topics": [
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Critical",
+                "url": "/topics/critical"
+            },
+            {
+                "name": "Disturbed",
+                "url": "/topics/disturbed"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/whitfield_diffie_675951",
+        "quote": "Cloud computing means you are doing your computing on somebody else's computer. Looking ahead a little, I firmly believe cloud - previously called grid computing - will become very widespread. It's much cheaper than buying your own computing infrastructure, or maybe you don't have the power to do what you want on your own computer.",
+        "author": {
+            "name": "Whitfield Diffie",
+            "url": "/quotes/whitfield_diffie_675951"
+        },
+        "topics": [
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Firmly",
+                "url": "/topics/firmly"
+            },
+            {
+                "name": "Cheaper",
+                "url": "/topics/cheaper"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/whitfield_diffie_675952",
+        "quote": "People constantly face problems they've never seen before, and they have to solve them somehow. So a million people come up with a million solutions that are just a little bit different. If computing is being done by fewer resources, there will be enormous security gains by pushing things into standard practices.",
+        "author": {
+            "name": "Whitfield Diffie",
+            "url": "/quotes/whitfield_diffie_675952"
+        },
+        "topics": [
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            },
+            {
+                "name": "Standard",
+                "url": "/topics/standard"
+            },
+            {
+                "name": "Fewer",
+                "url": "/topics/fewer"
+            }
+        ]
+    }
+]

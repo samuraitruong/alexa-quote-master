@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/john_money_193460",
+        "quote": "Well it's a drastic procedure by your standards and mine, but for the people who are living in desperation perhaps the best way to understand it is that it seems no more drastic to them than circumcision.",
+        "author": {
+            "name": "John Money",
+            "url": "/quotes/john_money_193460"
+        },
+        "topics": [
+            {
+                "name": "Living",
+                "url": "/topics/living"
+            },
+            {
+                "name": "Best Way",
+                "url": "/topics/best_way"
+            },
+            {
+                "name": "Mine",
+                "url": "/topics/mine"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_money_193458",
+        "quote": "It costs $30,000 to $50,000 per year to send someone to jail. You don't have to pay so much to send someone to school at Johns Hopkins.",
+        "author": {
+            "name": "John Money",
+            "url": "/quotes/john_money_193458"
+        },
+        "topics": [
+            {
+                "name": "Year",
+                "url": "/topics/year"
+            },
+            {
+                "name": "Costs",
+                "url": "/topics/costs"
+            },
+            {
+                "name": "Hopkins",
+                "url": "/topics/hopkins"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_money_193461",
+        "quote": "It makes it very exciting don't you think to live in an age of, of discovery of human personality this way?",
+        "author": {
+            "name": "John Money",
+            "url": "/quotes/john_money_193461"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Makes",
+                "url": "/topics/makes"
+            }
+        ]
+    }
+]

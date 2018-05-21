@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/robert_ashley_184086",
+        "quote": "I was interested in opera and it seemed to me that the only possible theatre for contemporary opera would be television. So I started working towards a kind of television kind of opera.",
+        "author": {
+            "name": "Robert Ashley",
+            "url": "/quotes/robert_ashley_184086"
+        },
+        "topics": [
+            {
+                "name": "Television",
+                "url": "/topics/television"
+            },
+            {
+                "name": "Opera",
+                "url": "/topics/opera"
+            },
+            {
+                "name": "Seemed",
+                "url": "/topics/seemed"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_ashley_184083",
+        "quote": "Do not rely on unplanned music; it comes out as though it were planned, but planned by someone you cross the street to avoid.",
+        "author": {
+            "name": "Robert Ashley",
+            "url": "/quotes/robert_ashley_184083"
+        },
+        "topics": [
+            {
+                "name": "Cross",
+                "url": "/topics/cross"
+            },
+            {
+                "name": "Planned",
+                "url": "/topics/planned"
+            },
+            {
+                "name": "Though",
+                "url": "/topics/though"
+            }
+        ]
+    }
+]

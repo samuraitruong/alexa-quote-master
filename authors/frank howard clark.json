@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/frank_howard_clark_156709",
+        "quote": "There is one advantage to having nothing, it never needs repair.",
+        "author": {
+            "name": "Frank Howard Clark",
+            "url": "/quotes/frank_howard_clark_156709"
+        },
+        "topics": [
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Repair",
+                "url": "/topics/repair"
+            },
+            {
+                "name": "Needs",
+                "url": "/topics/needs"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/frank_howard_clark_288113",
+        "quote": "There is nothing that can help you understand your beliefs more than trying to explain them to an inquisitor.",
+        "author": {
+            "name": "Frank Howard Clark",
+            "url": "/quotes/frank_howard_clark_288113"
+        },
+        "topics": [
+            {
+                "name": "Help",
+                "url": "/topics/help"
+            },
+            {
+                "name": "Explain",
+                "url": "/topics/explain"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            }
+        ]
+    }
+]

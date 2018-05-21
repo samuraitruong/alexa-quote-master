@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/stephen_lawrence_207447",
+        "quote": "Don't do anything to anyone, and people will not make trouble for you.",
+        "author": {
+            "name": "Stephen Lawrence",
+            "url": "/quotes/stephen_lawrence_207447"
+        },
+        "topics": [
+            {
+                "name": "Trouble",
+                "url": "/topics/trouble"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Anyone",
+                "url": "/topics/anyone"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/stephen_lawrence_207448",
+        "quote": "Santa was a fake.",
+        "author": {
+            "name": "Stephen Lawrence",
+            "url": "/quotes/stephen_lawrence_207448"
+        },
+        "topics": [
+            {
+                "name": "Fake",
+                "url": "/topics/fake"
+            },
+            {
+                "name": "Santa",
+                "url": "/topics/santa"
+            }
+        ]
+    }
+]

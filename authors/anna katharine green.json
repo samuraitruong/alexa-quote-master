@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/anna_katharine_green_193938",
+        "quote": "Hath the spirit of all beauty Kissed you in the path of duty?",
+        "author": {
+            "name": "Anna Katharine Green",
+            "url": "/quotes/anna_katharine_green_193938"
+        },
+        "topics": [
+            {
+                "name": "Beauty",
+                "url": "/topics/beauty"
+            },
+            {
+                "name": "Path",
+                "url": "/topics/path"
+            },
+            {
+                "name": "Spirit",
+                "url": "/topics/spirit"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/anna_katharine_green_193939",
+        "quote": "There are two kinds of artists in this world; those that work because the spirit is in them, and they cannot be silent if they would, and those that speak from a conscientious desire to make apparent to others the beauty that has awakened their own admiration.",
+        "author": {
+            "name": "Anna Katharine Green",
+            "url": "/quotes/anna_katharine_green_193939"
+        },
+        "topics": [
+            {
+                "name": "Beauty",
+                "url": "/topics/beauty"
+            },
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            },
+            {
+                "name": "Kinds",
+                "url": "/topics/kinds"
+            }
+        ]
+    }
+]

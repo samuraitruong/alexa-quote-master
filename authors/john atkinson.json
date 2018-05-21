@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/john_atkinson_176881",
+        "quote": "If you don't run your own life, somebody else will.",
+        "author": {
+            "name": "John Atkinson",
+            "url": "/quotes/john_atkinson_176881"
+        },
+        "topics": [
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Else",
+                "url": "/topics/else"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_atkinson_326446",
+        "quote": "I don't even know what the odds are for one kid or one team to make it here. Obviously, being from Canada this is their Stanley Cup - they made it. It's hard enough to get here and it's hard enough to advance.",
+        "author": {
+            "name": "John Atkinson",
+            "url": "/quotes/john_atkinson_326446"
+        },
+        "topics": [
+            {
+                "name": "Kid",
+                "url": "/topics/kid"
+            },
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            },
+            {
+                "name": "Advance",
+                "url": "/topics/advance"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_atkinson_326447",
+        "quote": "We knew what we were up against, but we were going to go down fighting. Hopefully people back home remember that we got this far. We've got nothing to be ashamed about.",
+        "author": {
+            "name": "John Atkinson",
+            "url": "/quotes/john_atkinson_326447"
+        },
+        "topics": [
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Against",
+                "url": "/topics/against"
+            },
+            {
+                "name": "Ashamed",
+                "url": "/topics/ashamed"
+            }
+        ]
+    }
+]

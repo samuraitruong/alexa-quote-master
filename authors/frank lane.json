@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/frank_lane_188509",
+        "quote": "If you want to see the sunshine, you have to weather the storm.",
+        "author": {
+            "name": "Frank Lane",
+            "url": "/quotes/frank_lane_188509"
+        },
+        "topics": [
+            {
+                "name": "Sunshine",
+                "url": "/topics/sunshine"
+            },
+            {
+                "name": "Storm",
+                "url": "/topics/storm"
+            },
+            {
+                "name": "See",
+                "url": "/topics/see"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/frank_lane_188508",
+        "quote": "My fingers are not as fast as my brain - which isn't that much to type home about anyway.",
+        "author": {
+            "name": "Frank Lane",
+            "url": "/quotes/frank_lane_188508"
+        },
+        "topics": [
+            {
+                "name": "Fast",
+                "url": "/topics/fast"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    }
+]

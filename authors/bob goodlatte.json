@@ -1,0 +1,108 @@
+[
+    {
+        "url": "/quotes/bob_goodlatte_443063",
+        "quote": "If you need food stamps, you should meet the criteria.",
+        "author": {
+            "name": "Bob Goodlatte",
+            "url": "/quotes/bob_goodlatte_443063"
+        },
+        "topics": [
+            {
+                "name": "Meet",
+                "url": "/topics/meet"
+            },
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            },
+            {
+                "name": "Criteria",
+                "url": "/topics/criteria"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bob_goodlatte_183267",
+        "quote": "The visa lottery system poses a national security threat. Under the program, each successful applicant is chosen at random and given the status of permanent resident based on pure luck.",
+        "author": {
+            "name": "Bob Goodlatte",
+            "url": "/quotes/bob_goodlatte_183267"
+        },
+        "topics": [
+            {
+                "name": "Luck",
+                "url": "/topics/luck"
+            },
+            {
+                "name": "Given",
+                "url": "/topics/given"
+            },
+            {
+                "name": "Based",
+                "url": "/topics/based"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bob_goodlatte_183269",
+        "quote": "The oak has long been an enduring and mighty tree. It is truly a part of our national heritage and it merits the formal distinction of America's National Tree.",
+        "author": {
+            "name": "Bob Goodlatte",
+            "url": "/quotes/bob_goodlatte_183269"
+        },
+        "topics": [
+            {
+                "name": "Distinction",
+                "url": "/topics/distinction"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Enduring",
+                "url": "/topics/enduring"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bob_goodlatte_406929",
+        "quote": "Cities may now bulldoze private citizens' homes, farms and small businesses to make way for shopping malls or other developments.",
+        "author": {
+            "name": "Bob Goodlatte",
+            "url": "/quotes/bob_goodlatte_406929"
+        },
+        "topics": [
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Small Businesses",
+                "url": "/topics/small_businesses"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bob_goodlatte_443064",
+        "quote": "If businesses don't know from state to state what the requirements are for taxes, they have to waste a lot of money on accountants and lawyers before deciding to expand their business into the state next door.",
+        "author": {
+            "name": "Bob Goodlatte",
+            "url": "/quotes/bob_goodlatte_443064"
+        },
+        "topics": [
+            {
+                "name": "Door",
+                "url": "/topics/door"
+            },
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            },
+            {
+                "name": "Waste",
+                "url": "/topics/waste"
+            }
+        ]
+    }
+]

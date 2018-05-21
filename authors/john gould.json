@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/john_gould_192652",
+        "quote": "A lecture is an occasion when you numb one end to benefit the other.",
+        "author": {
+            "name": "John Gould",
+            "url": "/quotes/john_gould_192652"
+        },
+        "topics": [
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Lecture",
+                "url": "/topics/lecture"
+            },
+            {
+                "name": "Occasion",
+                "url": "/topics/occasion"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_gould_192654",
+        "quote": "Our great American writers were all newspaper people.",
+        "author": {
+            "name": "John Gould",
+            "url": "/quotes/john_gould_192654"
+        },
+        "topics": [
+            {
+                "name": "American",
+                "url": "/topics/american"
+            },
+            {
+                "name": "Newspaper",
+                "url": "/topics/newspaper"
+            },
+            {
+                "name": "Were",
+                "url": "/topics/were"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_gould_192655",
+        "quote": "At the time the world was all upside down. The American people were beginning to move around a lot. The old hometown ties had been pretty much broken. The theme of Farmer Takes a Wife appealed to people. Everybody was homesick. And it sold and sold and sold.",
+        "author": {
+            "name": "John Gould",
+            "url": "/quotes/john_gould_192655"
+        },
+        "topics": [
+            {
+                "name": "Beginning",
+                "url": "/topics/beginning"
+            },
+            {
+                "name": "Everybody",
+                "url": "/topics/everybody"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_gould_192657",
+        "quote": "I don't read anything anymore. I don't have the eyesight. I read my own copy, that's all. I think I've read everything that's worth reading.",
+        "author": {
+            "name": "John Gould",
+            "url": "/quotes/john_gould_192657"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Read",
+                "url": "/topics/read"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_gould_404777",
+        "quote": "If you don't fix latent failures in your system, you're asking for trouble.",
+        "author": {
+            "name": "John Gould",
+            "url": "/quotes/john_gould_404777"
+        },
+        "topics": [
+            {
+                "name": "System",
+                "url": "/topics/system"
+            },
+            {
+                "name": "Fix",
+                "url": "/topics/fix"
+            },
+            {
+                "name": "Failures",
+                "url": "/topics/failures"
+            }
+        ]
+    }
+]

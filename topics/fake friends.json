@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/joan_jett_195426?src=t_fake_friends",
+        "quote": "You got nothing to lose. You don't lose when you lose fake friends.",
+        "author": {
+            "name": "Joan Jett",
+            "url": "/authors/joan_jett"
+        },
+        "topics": [
+            {
+                "name": "Fake",
+                "url": "/topics/fake"
+            },
+            {
+                "name": "Lose",
+                "url": "/topics/lose"
+            },
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/yolanda_hadid_871918?src=t_fake_friends",
+        "quote": "Fake friends believe in rumors. Real friends believe in you.",
+        "author": {
+            "name": "Yolanda Hadid",
+            "url": "/authors/yolanda_hadid"
+        },
+        "topics": [
+            {
+                "name": "Fake",
+                "url": "/topics/fake"
+            },
+            {
+                "name": "Real Friends",
+                "url": "/topics/real_friends"
+            },
+            {
+                "name": "Rumors",
+                "url": "/topics/rumors"
+            }
+        ]
+    }
+]

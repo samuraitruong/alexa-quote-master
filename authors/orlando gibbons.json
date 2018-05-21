@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/orlando_gibbons_207517",
+        "quote": "It is proportion that beautifies everything, the whole universe consists of it, and music is measured by it.",
+        "author": {
+            "name": "Orlando Gibbons",
+            "url": "/quotes/orlando_gibbons_207517"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "Measured",
+                "url": "/topics/measured"
+            },
+            {
+                "name": "Proportion",
+                "url": "/topics/proportion"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/orlando_gibbons_207516",
+        "quote": "The silver swan, who, living had no note, When death approached unlocked her silent throat.",
+        "author": {
+            "name": "Orlando Gibbons",
+            "url": "/quotes/orlando_gibbons_207516"
+        },
+        "topics": [
+            {
+                "name": "Silent",
+                "url": "/topics/silent"
+            },
+            {
+                "name": "Living",
+                "url": "/topics/living"
+            },
+            {
+                "name": "Note",
+                "url": "/topics/note"
+            }
+        ]
+    }
+]

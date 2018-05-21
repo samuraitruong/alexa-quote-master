@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/simon_bolivar_307760",
+        "quote": "Judgement comes from experience, and experience comes from bad judgement.",
+        "author": {
+            "name": "Simon Bolivar",
+            "url": "/quotes/simon_bolivar_307760"
+        },
+        "topics": [
+            {
+                "name": "Experience",
+                "url": "/topics/experience"
+            },
+            {
+                "name": "Judgement",
+                "url": "/topics/judgement"
+            },
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            }
+        ]
+    }
+]

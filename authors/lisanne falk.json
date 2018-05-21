@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/lisanne_falk_707258",
+        "quote": "There are so many beautiful girls who aren't photogenic. In real life, half the models you see look really hideous.",
+        "author": {
+            "name": "Lisanne Falk",
+            "url": "/quotes/lisanne_falk_707258"
+        },
+        "topics": [
+            {
+                "name": "Real",
+                "url": "/topics/real"
+            },
+            {
+                "name": "Half",
+                "url": "/topics/half"
+            },
+            {
+                "name": "Models",
+                "url": "/topics/models"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lisanne_falk_707257",
+        "quote": "Sure there is a sexy attitude, and when they say, 'Give me a sexy look with your eyes,' you give it to them. It doesn't have to relate to the product. People are just drawn to it.",
+        "author": {
+            "name": "Lisanne Falk",
+            "url": "/quotes/lisanne_falk_707257"
+        },
+        "topics": [
+            {
+                "name": "Product",
+                "url": "/topics/product"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            },
+            {
+                "name": "Sure",
+                "url": "/topics/sure"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lisanne_falk_707259",
+        "quote": "I really love modeling a lot. Once I am behind the camera and start moving, there's a kind of energy that makes me feel good. But I know I have to prepare for something else before I grow up.",
+        "author": {
+            "name": "Lisanne Falk",
+            "url": "/quotes/lisanne_falk_707259"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Prepare",
+                "url": "/topics/prepare"
+            },
+            {
+                "name": "Behind",
+                "url": "/topics/behind"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lisanne_falk_707260",
+        "quote": "I live in a cottage and volunteer in the village shop.",
+        "author": {
+            "name": "Lisanne Falk",
+            "url": "/quotes/lisanne_falk_707260"
+        },
+        "topics": [
+            {
+                "name": "Volunteer",
+                "url": "/topics/volunteer"
+            },
+            {
+                "name": "Cottage",
+                "url": "/topics/cottage"
+            },
+            {
+                "name": "Shop",
+                "url": "/topics/shop"
+            }
+        ]
+    }
+]

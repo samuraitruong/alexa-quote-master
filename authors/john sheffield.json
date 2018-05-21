@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/john_sheffield_190801",
+        "quote": "Lord, dismiss us with Thy blessing, Thanks for mercies past received.",
+        "author": {
+            "name": "John Sheffield",
+            "url": "/quotes/john_sheffield_190801"
+        },
+        "topics": [
+            {
+                "name": "Past",
+                "url": "/topics/past"
+            },
+            {
+                "name": "Thanks",
+                "url": "/topics/thanks"
+            },
+            {
+                "name": "Thy",
+                "url": "/topics/thy"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_sheffield_190800",
+        "quote": "'Tis the most tender part of love, each other to forgive.",
+        "author": {
+            "name": "John Sheffield",
+            "url": "/quotes/john_sheffield_190800"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "Tender",
+                "url": "/topics/tender"
+            }
+        ]
+    }
+]

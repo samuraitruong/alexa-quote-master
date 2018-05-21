@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/john_d_macdonald_141376",
+        "quote": "Integrity is not a conditional word. It doesn't blow in the wind or change with the weather. It is your inner image of yourself, and if you look in there and see a man who won't cheat, then you know he never will.",
+        "author": {
+            "name": "John D. MacDonald",
+            "url": "/quotes/john_d_macdonald_141376"
+        },
+        "topics": [
+            {
+                "name": "Integrity",
+                "url": "/topics/integrity"
+            },
+            {
+                "name": "Your",
+                "url": "/topics/your"
+            },
+            {
+                "name": "Conditional",
+                "url": "/topics/conditional"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_d_macdonald_115577",
+        "quote": "Friendships, like marriages, are dependent on avoiding the unforgivable.",
+        "author": {
+            "name": "John D. MacDonald",
+            "url": "/quotes/john_d_macdonald_115577"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Marriages",
+                "url": "/topics/marriages"
+            },
+            {
+                "name": "Friendships",
+                "url": "/topics/friendships"
+            }
+        ]
+    }
+]

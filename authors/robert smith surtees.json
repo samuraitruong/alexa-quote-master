@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/robert_smith_surtees_137815",
+        "quote": "More people are flattered into virtue than bullied out of vice.",
+        "author": {
+            "name": "Robert Smith Surtees",
+            "url": "/quotes/robert_smith_surtees_137815"
+        },
+        "topics": [
+            {
+                "name": "Vice",
+                "url": "/topics/vice"
+            },
+            {
+                "name": "More People",
+                "url": "/topics/more_people"
+            },
+            {
+                "name": "Flattered",
+                "url": "/topics/flattered"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_smith_surtees_161100",
+        "quote": "The only infallible rule we know is, that the man who is always talking about being a gentleman never is one.",
+        "author": {
+            "name": "Robert Smith Surtees",
+            "url": "/quotes/robert_smith_surtees_161100"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Rule",
+                "url": "/topics/rule"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_smith_surtees_404971",
+        "quote": "Better be killed than frightened to death.",
+        "author": {
+            "name": "Robert Smith Surtees",
+            "url": "/quotes/robert_smith_surtees_404971"
+        },
+        "topics": [
+            {
+                "name": "Death",
+                "url": "/topics/death"
+            },
+            {
+                "name": "Better",
+                "url": "/topics/better"
+            },
+            {
+                "name": "Than",
+                "url": "/topics/than"
+            }
+        ]
+    }
+]

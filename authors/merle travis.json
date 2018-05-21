@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/merle_travis_222451",
+        "quote": "The saddest songs are written when a person is happy.",
+        "author": {
+            "name": "Merle Travis",
+            "url": "/quotes/merle_travis_222451"
+        },
+        "topics": [
+            {
+                "name": "Happy",
+                "url": "/topics/happy"
+            },
+            {
+                "name": "Person",
+                "url": "/topics/person"
+            },
+            {
+                "name": "Songs",
+                "url": "/topics/songs"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/merle_travis_222452",
+        "quote": "My father and brothers were coal miners.",
+        "author": {
+            "name": "Merle Travis",
+            "url": "/quotes/merle_travis_222452"
+        },
+        "topics": [
+            {
+                "name": "Father",
+                "url": "/topics/father"
+            },
+            {
+                "name": "Brothers",
+                "url": "/topics/brothers"
+            },
+            {
+                "name": "Were",
+                "url": "/topics/were"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/merle_travis_222450",
+        "quote": "I have known the fruits of strikes. The bitter and the sweet. Hunger and music.",
+        "author": {
+            "name": "Merle Travis",
+            "url": "/quotes/merle_travis_222450"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "Fruits",
+                "url": "/topics/fruits"
+            },
+            {
+                "name": "Known",
+                "url": "/topics/known"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/merle_travis_222453",
+        "quote": "Who deserves more credit than the wife of a coal miner? Mother was one.",
+        "author": {
+            "name": "Merle Travis",
+            "url": "/quotes/merle_travis_222453"
+        },
+        "topics": [
+            {
+                "name": "Mother",
+                "url": "/topics/mother"
+            },
+            {
+                "name": "Wife",
+                "url": "/topics/wife"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            }
+        ]
+    }
+]

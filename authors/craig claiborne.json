@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/craig_claiborne_111343",
+        "quote": "He was an innovator, an experimenter, a missionary in bringing the gospel of good cooking to the home table.",
+        "author": {
+            "name": "Craig Claiborne",
+            "url": "/quotes/craig_claiborne_111343"
+        },
+        "topics": [
+            {
+                "name": "Gospel",
+                "url": "/topics/gospel"
+            },
+            {
+                "name": "Innovator",
+                "url": "/topics/innovator"
+            },
+            {
+                "name": "Bringing",
+                "url": "/topics/bringing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/craig_claiborne_404848",
+        "quote": "Man is born to eat.",
+        "author": {
+            "name": "Craig Claiborne",
+            "url": "/quotes/craig_claiborne_404848"
+        },
+        "topics": [
+            {
+                "name": "Man",
+                "url": "/topics/man"
+            },
+            {
+                "name": "Born",
+                "url": "/topics/born"
+            },
+            {
+                "name": "Eat",
+                "url": "/topics/eat"
+            }
+        ]
+    }
+]

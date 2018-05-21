@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/john_hogg_525254",
+        "quote": "I have a deep-seated belief that marriage is between a man and a woman exclusively.",
+        "author": {
+            "name": "John Hogg",
+            "url": "/quotes/john_hogg_525254"
+        },
+        "topics": [
+            {
+                "name": "Marriage",
+                "url": "/topics/marriage"
+            },
+            {
+                "name": "Woman",
+                "url": "/topics/woman"
+            },
+            {
+                "name": "Man",
+                "url": "/topics/man"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_hogg_525255",
+        "quote": "I'm honest, I'm fair and I'm sure, as time progresses, those who don't believe that will find it to be true.",
+        "author": {
+            "name": "John Hogg",
+            "url": "/quotes/john_hogg_525255"
+        },
+        "topics": [
+            {
+                "name": "Be True",
+                "url": "/topics/be_true"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Sure",
+                "url": "/topics/sure"
+            }
+        ]
+    }
+]

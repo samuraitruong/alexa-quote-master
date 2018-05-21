@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/richard_harding_davis_100797",
+        "quote": "The secret of good writing is to say an old thing in a new way or to say a new thing in an old way.",
+        "author": {
+            "name": "Richard Harding Davis",
+            "url": "/quotes/richard_harding_davis_100797"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Old",
+                "url": "/topics/old"
+            },
+            {
+                "name": "Good Writing",
+                "url": "/topics/good_writing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/richard_harding_davis_375577",
+        "quote": "All through the night, like the tumult of a river when it races between the cliffs of a canyon, in my sleep I could hear the steady roar of the passing army.",
+        "author": {
+            "name": "Richard Harding Davis",
+            "url": "/quotes/richard_harding_davis_375577"
+        },
+        "topics": [
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Cliffs",
+                "url": "/topics/cliffs"
+            }
+        ]
+    }
+]

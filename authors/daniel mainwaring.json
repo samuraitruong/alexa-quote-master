@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/daniel_mainwaring_399211",
+        "quote": "Seems like everything people oughta know they just don't want to hear. I guess that's the big trouble with the world.",
+        "author": {
+            "name": "Daniel Mainwaring",
+            "url": "/quotes/daniel_mainwaring_399211"
+        },
+        "topics": [
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/daniel_mainwaring_399569",
+        "quote": "All women are wonders because they reduce all men to the obvious.",
+        "author": {
+            "name": "Daniel Mainwaring",
+            "url": "/quotes/daniel_mainwaring_399569"
+        },
+        "topics": [
+            {
+                "name": "Men",
+                "url": "/topics/men"
+            },
+            {
+                "name": "Wonders",
+                "url": "/topics/wonders"
+            },
+            {
+                "name": "Reduce",
+                "url": "/topics/reduce"
+            }
+        ]
+    }
+]

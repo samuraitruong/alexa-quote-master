@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/andrea_dworkin_390632?src=t_rapist",
+        "quote": "Seduction is often difficult to distinguish from rape. In seduction, the rapist often bothers to buy a bottle of wine.",
+        "author": {
+            "name": "Andrea Dworkin",
+            "url": "/authors/andrea_dworkin"
+        },
+        "topics": [
+            {
+                "name": "Seduction",
+                "url": "/topics/seduction"
+            },
+            {
+                "name": "Buy",
+                "url": "/topics/buy"
+            },
+            {
+                "name": "Distinguish",
+                "url": "/topics/distinguish"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/e_franklin_frazier_209714?src=t_rapist",
+        "quote": "The closer a Negro got to the ballot box, the more he looked like a rapist.",
+        "author": {
+            "name": "E. Franklin Frazier",
+            "url": "/authors/e_franklin_frazier"
+        },
+        "topics": [
+            {
+                "name": "Ballot",
+                "url": "/topics/ballot"
+            },
+            {
+                "name": "Ballot Box",
+                "url": "/topics/ballot_box"
+            },
+            {
+                "name": "Looked",
+                "url": "/topics/looked"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/anna_friel_353286?src=t_rapist",
+        "quote": "And the most important thing - apart from telling a good, believable story, and being a true character - is to be someone the audience will care about, even if you're playing a murderer or rapist.",
+        "author": {
+            "name": "Anna Friel",
+            "url": "/authors/anna_friel"
+        },
+        "topics": [
+            {
+                "name": "Telling",
+                "url": "/topics/telling"
+            },
+            {
+                "name": "Important Thing",
+                "url": "/topics/important_thing"
+            }
+        ]
+    }
+]

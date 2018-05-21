@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/virginia_graham_403999",
+        "quote": "Good shot, bad luck and hell are the five basic words to be used in a game of tennis, though these, of course, can be slightly amplified.",
+        "author": {
+            "name": "Virginia Graham",
+            "url": "/quotes/virginia_graham_403999"
+        },
+        "topics": [
+            {
+                "name": "Luck",
+                "url": "/topics/luck"
+            },
+            {
+                "name": "Game",
+                "url": "/topics/game"
+            },
+            {
+                "name": "Slightly",
+                "url": "/topics/slightly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/virginia_graham_404648",
+        "quote": "Be blind. Be stupid. Be British. Be careful.",
+        "author": {
+            "name": "Virginia Graham",
+            "url": "/quotes/virginia_graham_404648"
+        },
+        "topics": [
+            {
+                "name": "Stupid",
+                "url": "/topics/stupid"
+            },
+            {
+                "name": "Blind",
+                "url": "/topics/blind"
+            },
+            {
+                "name": "Be Careful",
+                "url": "/topics/be_careful"
+            }
+        ]
+    }
+]

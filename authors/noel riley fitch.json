@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/noel_riley_fitch_637926",
+        "quote": "Dead or alive, interesting people are interesting people.",
+        "author": {
+            "name": "Noel Riley Fitch",
+            "url": "/quotes/noel_riley_fitch_637926"
+        },
+        "topics": [
+            {
+                "name": "Alive",
+                "url": "/topics/alive"
+            },
+            {
+                "name": "Interesting People",
+                "url": "/topics/interesting_people"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/noel_riley_fitch_637927",
+        "quote": "Whether in print or other media, a good biography is more than a court record or a stringing together of already familiar sources. It breathes life into the subject.",
+        "author": {
+            "name": "Noel Riley Fitch",
+            "url": "/quotes/noel_riley_fitch_637927"
+        },
+        "topics": [
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Sources",
+                "url": "/topics/sources"
+            }
+        ]
+    }
+]

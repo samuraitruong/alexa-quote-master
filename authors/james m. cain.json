@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/james_m_cain_111035",
+        "quote": "I write of the wish that comes true - for some reason, a terrifying concept.",
+        "author": {
+            "name": "James M. Cain",
+            "url": "/quotes/james_m_cain_111035"
+        },
+        "topics": [
+            {
+                "name": "Wish",
+                "url": "/topics/wish"
+            },
+            {
+                "name": "Reason",
+                "url": "/topics/reason"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_m_cain_278304",
+        "quote": "I make no conscious effort to be tough, or hard-boiled, or grim, or any of the things I am usually called.",
+        "author": {
+            "name": "James M. Cain",
+            "url": "/quotes/james_m_cain_278304"
+        },
+        "topics": [
+            {
+                "name": "Effort",
+                "url": "/topics/effort"
+            },
+            {
+                "name": "Conscious Effort",
+                "url": "/topics/conscious_effort"
+            },
+            {
+                "name": "Am",
+                "url": "/topics/am"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/miles_franklin_188557",
+        "quote": "It's a sign of your own worth sometimes if you are hated by the right people.",
+        "author": {
+            "name": "Miles Franklin",
+            "url": "/quotes/miles_franklin_188557"
+        },
+        "topics": [
+            {
+                "name": "Sometimes",
+                "url": "/topics/sometimes"
+            },
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            },
+            {
+                "name": "Sign",
+                "url": "/topics/sign"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/miles_franklin_188558",
+        "quote": "Someone to tell it to is one of the fundamental needs of human beings.",
+        "author": {
+            "name": "Miles Franklin",
+            "url": "/quotes/miles_franklin_188558"
+        },
+        "topics": [
+            {
+                "name": "Someone",
+                "url": "/topics/someone"
+            },
+            {
+                "name": "Human Beings",
+                "url": "/topics/human_beings"
+            },
+            {
+                "name": "Needs",
+                "url": "/topics/needs"
+            }
+        ]
+    }
+]

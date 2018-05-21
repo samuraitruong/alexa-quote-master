@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/henry_timrod_204799",
+        "quote": "Spring is a true reconstructionist.",
+        "author": {
+            "name": "Henry Timrod",
+            "url": "/quotes/henry_timrod_204799"
+        },
+        "topics": [
+            {
+                "name": "Spring",
+                "url": "/topics/spring"
+            },
+            {
+                "name": "True",
+                "url": "/topics/true"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henry_timrod_204798",
+        "quote": "Out in the lonely woods the jasmine burns Its fragrant lamps, and turns Into a royal court with green festoons The banks of dark lagoons.",
+        "author": {
+            "name": "Henry Timrod",
+            "url": "/quotes/henry_timrod_204798"
+        },
+        "topics": [
+            {
+                "name": "Green",
+                "url": "/topics/green"
+            },
+            {
+                "name": "Lamps",
+                "url": "/topics/lamps"
+            },
+            {
+                "name": "Fragrant",
+                "url": "/topics/fragrant"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henry_timrod_204801",
+        "quote": "Each has its lesson; for our dreams in sooth, come they in shape of demons, gods, or elves, are allegories with deep hearts of truth that tell us solemn secrets of ourselves.",
+        "author": {
+            "name": "Henry Timrod",
+            "url": "/quotes/henry_timrod_204801"
+        },
+        "topics": [
+            {
+                "name": "Deep",
+                "url": "/topics/deep"
+            },
+            {
+                "name": "Shape",
+                "url": "/topics/shape"
+            },
+            {
+                "name": "Gods",
+                "url": "/topics/gods"
+            }
+        ]
+    }
+]

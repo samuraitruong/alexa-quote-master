@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/walter_reuther_176051",
+        "quote": "There is no greater calling than to serve your fellow men. There is no greater contribution than to help the weak. There is no greater satisfaction than to have done it well.",
+        "author": {
+            "name": "Walter Reuther",
+            "url": "/quotes/walter_reuther_176051"
+        },
+        "topics": [
+            {
+                "name": "Satisfaction",
+                "url": "/topics/satisfaction"
+            },
+            {
+                "name": "Serve",
+                "url": "/topics/serve"
+            },
+            {
+                "name": "Your",
+                "url": "/topics/your"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/walter_reuther_127334",
+        "quote": "If you're not big enough to lose, you're not big enough to win.",
+        "author": {
+            "name": "Walter Reuther",
+            "url": "/quotes/walter_reuther_127334"
+        },
+        "topics": [
+            {
+                "name": "Lose",
+                "url": "/topics/lose"
+            },
+            {
+                "name": "Enough",
+                "url": "/topics/enough"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            }
+        ]
+    }
+]

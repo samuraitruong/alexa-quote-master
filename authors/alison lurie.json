@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/alison_lurie_117478",
+        "quote": "There is a peculiar burning odor in the room, like explosives. the kitchen fills with smoke and the hot, sweet, ashy smell of scorched cookies. The war has begun.",
+        "author": {
+            "name": "Alison Lurie",
+            "url": "/quotes/alison_lurie_117478"
+        },
+        "topics": [
+            {
+                "name": "War",
+                "url": "/topics/war"
+            },
+            {
+                "name": "Smoke",
+                "url": "/topics/smoke"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alison_lurie_135215",
+        "quote": "As one went to Europe to see the living past, so one must visit Southern California to observe the future.",
+        "author": {
+            "name": "Alison Lurie",
+            "url": "/quotes/alison_lurie_135215"
+        },
+        "topics": [
+            {
+                "name": "Past",
+                "url": "/topics/past"
+            },
+            {
+                "name": "Living",
+                "url": "/topics/living"
+            },
+            {
+                "name": "Southern",
+                "url": "/topics/southern"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alison_lurie_136166",
+        "quote": "We can lie in the language of dress or try to tell the truth; but unless we are naked and bald, it is impossible to be silent.",
+        "author": {
+            "name": "Alison Lurie",
+            "url": "/quotes/alison_lurie_136166"
+        },
+        "topics": [
+            {
+                "name": "Truth",
+                "url": "/topics/truth"
+            },
+            {
+                "name": "Dress",
+                "url": "/topics/dress"
+            },
+            {
+                "name": "Silent",
+                "url": "/topics/silent"
+            }
+        ]
+    }
+]

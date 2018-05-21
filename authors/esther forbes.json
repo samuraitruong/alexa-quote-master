@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/esther_forbes_276951",
+        "quote": "Books are only the shadow and life the real thing. I believe this as strongly as any belief I hold.",
+        "author": {
+            "name": "Esther Forbes",
+            "url": "/quotes/esther_forbes_276951"
+        },
+        "topics": [
+            {
+                "name": "Shadow",
+                "url": "/topics/shadow"
+            },
+            {
+                "name": "Believe",
+                "url": "/topics/believe"
+            },
+            {
+                "name": "Real",
+                "url": "/topics/real"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/esther_forbes_276952",
+        "quote": "I also believe that writing becomes worthwhile and vitalized only through a full and exciting life.",
+        "author": {
+            "name": "Esther Forbes",
+            "url": "/quotes/esther_forbes_276952"
+        },
+        "topics": [
+            {
+                "name": "Believe",
+                "url": "/topics/believe"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Also",
+                "url": "/topics/also"
+            }
+        ]
+    }
+]

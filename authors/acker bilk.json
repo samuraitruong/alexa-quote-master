@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/acker_bilk_344077",
+        "quote": "I look at my clarinet sometimes and I think, I wonder what's going to come out of there tonight? You never know.",
+        "author": {
+            "name": "Acker Bilk",
+            "url": "/quotes/acker_bilk_344077"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Tonight",
+                "url": "/topics/tonight"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/acker_bilk_344076",
+        "quote": "I'm still blowing alright, and I still enjoy it which is the main thing.",
+        "author": {
+            "name": "Acker Bilk",
+            "url": "/quotes/acker_bilk_344076"
+        },
+        "topics": [
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            },
+            {
+                "name": "Blowing",
+                "url": "/topics/blowing"
+            }
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/jackson_brundage_563652",
+        "quote": "I kind of wanna be pro basketball, pro skateboarder.",
+        "author": {
+            "name": "Jackson Brundage",
+            "url": "/quotes/jackson_brundage_563652"
+        },
+        "topics": [
+            {
+                "name": "Basketball",
+                "url": "/topics/basketball"
+            },
+            {
+                "name": "Skateboarder",
+                "url": "/topics/skateboarder"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jackson_brundage_563653",
+        "quote": "Here in California, it's living the life, going to school, playing sports and hanging out with my friends. But, when I'm in North Carolina, its all work, work, work.",
+        "author": {
+            "name": "Jackson Brundage",
+            "url": "/quotes/jackson_brundage_563653"
+        },
+        "topics": [
+            {
+                "name": "Living",
+                "url": "/topics/living"
+            },
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            },
+            {
+                "name": "Carolina",
+                "url": "/topics/carolina"
+            }
+        ]
+    }
+]

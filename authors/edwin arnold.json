@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/edwin_arnold_190252",
+        "quote": "There is no caste in blood.",
+        "author": {
+            "name": "Edwin Arnold",
+            "url": "/quotes/edwin_arnold_190252"
+        },
+        "topics": [
+            {
+                "name": "Blood",
+                "url": "/topics/blood"
+            },
+            {
+                "name": "Caste",
+                "url": "/topics/caste"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edwin_arnold_190255",
+        "quote": "Within yourself deliverance must be searched for, because each man makes his own prison.",
+        "author": {
+            "name": "Edwin Arnold",
+            "url": "/quotes/edwin_arnold_190255"
+        },
+        "topics": [
+            {
+                "name": "Within",
+                "url": "/topics/within"
+            },
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            },
+            {
+                "name": "Deliverance",
+                "url": "/topics/deliverance"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edwin_arnold_190253",
+        "quote": "Sleep - death without dying - living, but not life.",
+        "author": {
+            "name": "Edwin Arnold",
+            "url": "/quotes/edwin_arnold_190253"
+        },
+        "topics": [
+            {
+                "name": "Death",
+                "url": "/topics/death"
+            },
+            {
+                "name": "Sleep",
+                "url": "/topics/sleep"
+            },
+            {
+                "name": "Living",
+                "url": "/topics/living"
+            }
+        ]
+    }
+]

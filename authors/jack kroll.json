@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/jack_kroll_115188",
+        "quote": "He was one of those inexplicable gifts of nature, an artist who leaps over boundaries, changes our nervous systems, creates a new language, transmits new kinds of joy to our startled senses and spirits.",
+        "author": {
+            "name": "Jack Kroll",
+            "url": "/quotes/jack_kroll_115188"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jack_kroll_115189",
+        "quote": "Did any artist ever bring more pure joy to more people than Fred Astaire?",
+        "author": {
+            "name": "Jack Kroll",
+            "url": "/quotes/jack_kroll_115189"
+        },
+        "topics": [
+            {
+                "name": "Artist",
+                "url": "/topics/artist"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "More People",
+                "url": "/topics/more_people"
+            }
+        ]
+    }
+]

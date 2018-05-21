@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/elgin_baylor_195279",
+        "quote": "If you look up the definition of greatness in the dictionary, it will say Michael Jordan.",
+        "author": {
+            "name": "Elgin Baylor",
+            "url": "/quotes/elgin_baylor_195279"
+        },
+        "topics": [
+            {
+                "name": "Michael Jordan",
+                "url": "/topics/michael_jordan"
+            },
+            {
+                "name": "Michael",
+                "url": "/topics/michael"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/elgin_baylor_195278",
+        "quote": "Coaching is easy. Winning is the hard part.",
+        "author": {
+            "name": "Elgin Baylor",
+            "url": "/quotes/elgin_baylor_195278"
+        },
+        "topics": [
+            {
+                "name": "Winning",
+                "url": "/topics/winning"
+            },
+            {
+                "name": "Coaching",
+                "url": "/topics/coaching"
+            },
+            {
+                "name": "Part",
+                "url": "/topics/part"
+            }
+        ]
+    }
+]

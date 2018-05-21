@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/norman_maclean_178338?src=t_complete_understanding",
+        "quote": "At sunrise everything is luminous but not clear. It is those we live with and love and should know who elude us. You can love completely without complete understanding.",
+        "author": {
+            "name": "Norman Maclean",
+            "url": "/authors/norman_maclean"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Sunrise",
+                "url": "/topics/sunrise"
+            },
+            {
+                "name": "Clear",
+                "url": "/topics/clear"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/stephen_hawking_124516?src=t_complete_understanding",
+        "quote": "My goal is simple. It is a complete understanding of the universe, why it is as it is and why it exists at all.",
+        "author": {
+            "name": "Stephen Hawking",
+            "url": "/authors/stephen_hawking"
+        },
+        "topics": [
+            {
+                "name": "Goal",
+                "url": "/topics/goal"
+            },
+            {
+                "name": "Universe",
+                "url": "/topics/universe"
+            },
+            {
+                "name": "Why",
+                "url": "/topics/why"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/michelle_obama_595170?src=t_complete_understanding",
+        "quote": "I look at how my kids view exercise. They have a complete understanding that nutrition and exercise go hand in hand. I didn't think like that when I was a kid. But they have a real consciousness about it that I'd like to think comes from the years of attention we've put into this.",
+        "author": {
+            "name": "Michelle Obama",
+            "url": "/authors/michelle_obama"
+        },
+        "topics": [
+            {
+                "name": "Exercise",
+                "url": "/topics/exercise"
+            },
+            {
+                "name": "Kid",
+                "url": "/topics/kid"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/garry_trudeau_335887?src=t_complete_understanding",
+        "quote": "Lives have been altered in fundamental ways, and later, after they acquire a more complete understanding of what goals are actually attainable, many are left facing a lot of pain and frustration. And yet, there's no culture of complaint.",
+        "author": {
+            "name": "Garry Trudeau",
+            "url": "/authors/garry_trudeau"
+        },
+        "topics": [
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Facing",
+                "url": "/topics/facing"
+            },
+            {
+                "name": "Fundamental",
+                "url": "/topics/fundamental"
+            }
+        ]
+    }
+]

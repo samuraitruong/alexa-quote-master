@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/akio_morita_205821",
+        "quote": "We will try to create conditions where persons could come together in a spirit of teamwork, and exercise to their heart's desire their technological capacity.",
+        "author": {
+            "name": "Akio Morita",
+            "url": "/quotes/akio_morita_205821"
+        },
+        "topics": [
+            {
+                "name": "Desire",
+                "url": "/topics/desire"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/akio_morita_205820",
+        "quote": "Don't be afraid to make a mistake. But make sure you don't make the same mistake twice.",
+        "author": {
+            "name": "Akio Morita",
+            "url": "/quotes/akio_morita_205820"
+        },
+        "topics": [
+            {
+                "name": "Mistake",
+                "url": "/topics/mistake"
+            },
+            {
+                "name": "Twice",
+                "url": "/topics/twice"
+            },
+            {
+                "name": "Sure",
+                "url": "/topics/sure"
+            }
+        ]
+    }
+]

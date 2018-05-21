@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/david_merrick_109324",
+        "quote": "It is not enough for me to win. My enemies must lose.",
+        "author": {
+            "name": "David Merrick",
+            "url": "/quotes/david_merrick_109324"
+        },
+        "topics": [
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Lose",
+                "url": "/topics/lose"
+            },
+            {
+                "name": "Enemies",
+                "url": "/topics/enemies"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_merrick_101799",
+        "quote": "It's not enough that I should succeed - others should fail.",
+        "author": {
+            "name": "David Merrick",
+            "url": "/quotes/david_merrick_101799"
+        },
+        "topics": [
+            {
+                "name": "Success",
+                "url": "/topics/success"
+            },
+            {
+                "name": "Succeed",
+                "url": "/topics/succeed"
+            },
+            {
+                "name": "Fail",
+                "url": "/topics/fail"
+            }
+        ]
+    }
+]

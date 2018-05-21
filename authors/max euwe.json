@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/max_euwe_180868",
+        "quote": "Strategy requires thought, tactics require observation.",
+        "author": {
+            "name": "Max Euwe",
+            "url": "/quotes/max_euwe_180868"
+        },
+        "topics": [
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Observation",
+                "url": "/topics/observation"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/max_euwe_180869",
+        "quote": "Whoever sees no other aim in the game than that of giving checkmate to one's opponent will never become a good Chess player.",
+        "author": {
+            "name": "Max Euwe",
+            "url": "/quotes/max_euwe_180869"
+        },
+        "topics": [
+            {
+                "name": "Game",
+                "url": "/topics/game"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Checkmate",
+                "url": "/topics/checkmate"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/max_euwe_180866",
+        "quote": "Chess is a sport. The main object in the game of chess remains the achievement of victory.",
+        "author": {
+            "name": "Max Euwe",
+            "url": "/quotes/max_euwe_180866"
+        },
+        "topics": [
+            {
+                "name": "Achievement",
+                "url": "/topics/achievement"
+            },
+            {
+                "name": "Game",
+                "url": "/topics/game"
+            },
+            {
+                "name": "Chess",
+                "url": "/topics/chess"
+            }
+        ]
+    }
+]

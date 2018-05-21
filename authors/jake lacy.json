@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/jake_lacy_682955",
+        "quote": "I look like an accountant. And no offense to accountants! There's some really cool accountants out there.",
+        "author": {
+            "name": "Jake Lacy",
+            "url": "/quotes/jake_lacy_682955"
+        },
+        "topics": [
+            {
+                "name": "Accountant",
+                "url": "/topics/accountant"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Offense",
+                "url": "/topics/offense"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jake_lacy_682952",
+        "quote": "I would say I'm a goof ball, but not a comedian.",
+        "author": {
+            "name": "Jake Lacy",
+            "url": "/quotes/jake_lacy_682952"
+        },
+        "topics": [
+            {
+                "name": "Ball",
+                "url": "/topics/ball"
+            },
+            {
+                "name": "Comedian",
+                "url": "/topics/comedian"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jake_lacy_682954",
+        "quote": "I watched 'Ghostbusters' from the age of four. It's my favorite movie, still. Bill Murray's, like, the weirdest straight man that you've ever seen. He's convinced that he's the normal one, even though he's definitely not.",
+        "author": {
+            "name": "Jake Lacy",
+            "url": "/quotes/jake_lacy_682954"
+        },
+        "topics": [
+            {
+                "name": "Seen",
+                "url": "/topics/seen"
+            },
+            {
+                "name": "Movie",
+                "url": "/topics/movie"
+            },
+            {
+                "name": "Straight Man",
+                "url": "/topics/straight_man"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jake_lacy_682953",
+        "quote": "There's a discrepancy between what you think you are and what other people think you are.",
+        "author": {
+            "name": "Jake Lacy",
+            "url": "/quotes/jake_lacy_682953"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Discrepancy",
+                "url": "/topics/discrepancy"
+            }
+        ]
+    }
+]

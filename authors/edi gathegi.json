@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/edi_gathegi_517534",
+        "quote": "I am sort of an adventurer. I like to explore new places. I don't get to travel as often as I would like but I love it.",
+        "author": {
+            "name": "Edi Gathegi",
+            "url": "/quotes/edi_gathegi_517534"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "New Places",
+                "url": "/topics/new_places"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edi_gathegi_517530",
+        "quote": "I have died in enough TV and films.",
+        "author": {
+            "name": "Edi Gathegi",
+            "url": "/quotes/edi_gathegi_517530"
+        },
+        "topics": [
+            {
+                "name": "Films",
+                "url": "/topics/films"
+            },
+            {
+                "name": "TV",
+                "url": "/topics/tv"
+            },
+            {
+                "name": "Died",
+                "url": "/topics/died"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edi_gathegi_517531",
+        "quote": "I think that different actors go about their preparation differently, but when it comes to acting, I use my imagination.",
+        "author": {
+            "name": "Edi Gathegi",
+            "url": "/quotes/edi_gathegi_517531"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edi_gathegi_517532",
+        "quote": "Villains are fun to play.",
+        "author": {
+            "name": "Edi Gathegi",
+            "url": "/quotes/edi_gathegi_517532"
+        },
+        "topics": [
+            {
+                "name": "Fun",
+                "url": "/topics/fun"
+            },
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Villains",
+                "url": "/topics/villains"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edi_gathegi_517533",
+        "quote": "New York is the only city that I have ever lived in that I have felt at home.",
+        "author": {
+            "name": "Edi Gathegi",
+            "url": "/quotes/edi_gathegi_517533"
+        },
+        "topics": [
+            {
+                "name": "New York",
+                "url": "/topics/new_york"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Ever",
+                "url": "/topics/ever"
+            }
+        ]
+    }
+]

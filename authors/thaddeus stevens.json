@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/thaddeus_stevens_202276",
+        "quote": "Strip the proud nobility of their bloated estates, reduce them to a level with plain republicans, send forth to labor, and teach their children to enter the workshops or handle the plow, and you will thus humble proud traitors.",
+        "author": {
+            "name": "Thaddeus Stevens",
+            "url": "/quotes/thaddeus_stevens_202276"
+        },
+        "topics": [
+            {
+                "name": "Humble",
+                "url": "/topics/humble"
+            },
+            {
+                "name": "Nobility",
+                "url": "/topics/nobility"
+            },
+            {
+                "name": "Estates",
+                "url": "/topics/estates"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thaddeus_stevens_202275",
+        "quote": "The future condition of the conquered power depends on the will of the conquerer.",
+        "author": {
+            "name": "Thaddeus Stevens",
+            "url": "/quotes/thaddeus_stevens_202275"
+        },
+        "topics": [
+            {
+                "name": "Condition",
+                "url": "/topics/condition"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Depends",
+                "url": "/topics/depends"
+            }
+        ]
+    }
+]

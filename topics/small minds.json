@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/eleanor_roosevelt_385439?src=t_small_minds",
+        "quote": "Great minds discuss ideas; average minds discuss events; small minds discuss people.",
+        "author": {
+            "name": "Eleanor Roosevelt",
+            "url": "/authors/eleanor_roosevelt"
+        },
+        "topics": [
+            {
+                "name": "Great",
+                "url": "/topics/great"
+            },
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Minds",
+                "url": "/topics/minds"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/blaise_pascal_131516?src=t_small_minds",
+        "quote": "Small minds are concerned with the extraordinary, great minds with the ordinary.",
+        "author": {
+            "name": "Blaise Pascal",
+            "url": "/authors/blaise_pascal"
+        },
+        "topics": [
+            {
+                "name": "Intelligence",
+                "url": "/topics/intelligence"
+            },
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Minds",
+                "url": "/topics/minds"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/doris_lessing_379856?src=t_small_minds",
+        "quote": "Small things amuse small minds.",
+        "author": {
+            "name": "Doris Lessing",
+            "url": "/authors/doris_lessing"
+        },
+        "topics": [
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Minds",
+                "url": "/topics/minds"
+            },
+            {
+                "name": "Amuse",
+                "url": "/topics/amuse"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/philip_johnson_540634?src=t_small_minds",
+        "quote": "The first complete sentence out of my mouth was probably that line about consistency being the hobgoblin of small minds.",
+        "author": {
+            "name": "Philip Johnson",
+            "url": "/authors/philip_johnson"
+        },
+        "topics": [
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Line",
+                "url": "/topics/line"
+            },
+            {
+                "name": "Sentence",
+                "url": "/topics/sentence"
+            }
+        ]
+    }
+]

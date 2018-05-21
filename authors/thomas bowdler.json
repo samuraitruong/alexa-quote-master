@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/thomas_bowdler_306290",
+        "quote": "I acknowledge Shakespeare to be the world's greatest dramatic poet, but regret that no parent could place the uncorrected book in the hands of his daughter, and therefore I have prepared the Family Shakespeare.",
+        "author": {
+            "name": "Thomas Bowdler",
+            "url": "/quotes/thomas_bowdler_306290"
+        },
+        "topics": [
+            {
+                "name": "Regret",
+                "url": "/topics/regret"
+            },
+            {
+                "name": "Parent",
+                "url": "/topics/parent"
+            },
+            {
+                "name": "Hands",
+                "url": "/topics/hands"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_bowdler_306291",
+        "quote": "Those expressions are omitted which can not with propriety be read aloud in the family.",
+        "author": {
+            "name": "Thomas Bowdler",
+            "url": "/quotes/thomas_bowdler_306291"
+        },
+        "topics": [
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Read",
+                "url": "/topics/read"
+            },
+            {
+                "name": "Propriety",
+                "url": "/topics/propriety"
+            }
+        ]
+    }
+]

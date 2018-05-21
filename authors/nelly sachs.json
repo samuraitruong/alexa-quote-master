@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/nelly_sachs_354604",
+        "quote": "To me, a fairy tale seems to have become reality.",
+        "author": {
+            "name": "Nelly Sachs",
+            "url": "/quotes/nelly_sachs_354604"
+        },
+        "topics": [
+            {
+                "name": "Reality",
+                "url": "/topics/reality"
+            },
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Tale",
+                "url": "/topics/tale"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nelly_sachs_354603",
+        "quote": "We breathed the air of freedom without knowing the language or any person.",
+        "author": {
+            "name": "Nelly Sachs",
+            "url": "/quotes/nelly_sachs_354603"
+        },
+        "topics": [
+            {
+                "name": "Freedom",
+                "url": "/topics/freedom"
+            },
+            {
+                "name": "Person",
+                "url": "/topics/person"
+            },
+            {
+                "name": "Knowing",
+                "url": "/topics/knowing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nelly_sachs_170311",
+        "quote": "Bewitched is half of everything.",
+        "author": {
+            "name": "Nelly Sachs",
+            "url": "/quotes/nelly_sachs_170311"
+        },
+        "topics": [
+            {
+                "name": "Half",
+                "url": "/topics/half"
+            },
+            {
+                "name": "Everything",
+                "url": "/topics/everything"
+            },
+            {
+                "name": "Bewitched",
+                "url": "/topics/bewitched"
+            }
+        ]
+    }
+]

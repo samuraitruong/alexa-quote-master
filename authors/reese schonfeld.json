@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/reese_schonfeld_174670",
+        "quote": "I think FoxNews ratings are a reliable guide to the attitudes of the American electorate.",
+        "author": {
+            "name": "Reese Schonfeld",
+            "url": "/quotes/reese_schonfeld_174670"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Reliable",
+                "url": "/topics/reliable"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/reese_schonfeld_174671",
+        "quote": "The perception is that more important people watch news in the evenings than in the mornings.",
+        "author": {
+            "name": "Reese Schonfeld",
+            "url": "/quotes/reese_schonfeld_174671"
+        },
+        "topics": [
+            {
+                "name": "Important",
+                "url": "/topics/important"
+            },
+            {
+                "name": "News",
+                "url": "/topics/news"
+            },
+            {
+                "name": "Mornings",
+                "url": "/topics/mornings"
+            }
+        ]
+    }
+]

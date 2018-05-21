@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/ray_lee_hunt_194282",
+        "quote": "It's more important to know your weaknesses than your strengths.",
+        "author": {
+            "name": "Ray Lee Hunt",
+            "url": "/quotes/ray_lee_hunt_194282"
+        },
+        "topics": [
+            {
+                "name": "Important",
+                "url": "/topics/important"
+            },
+            {
+                "name": "Strengths",
+                "url": "/topics/strengths"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ray_lee_hunt_508523",
+        "quote": "The people of the United States don't recognize it, but the oil industry has given the greatest gift to the people of the nation, and that gift is the low cost of energy. Bottom line is this enables the country to be very competitive manufacturing-wise and in the world economy.",
+        "author": {
+            "name": "Ray Lee Hunt",
+            "url": "/quotes/ray_lee_hunt_508523"
+        },
+        "topics": [
+            {
+                "name": "Gift",
+                "url": "/topics/gift"
+            },
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    }
+]

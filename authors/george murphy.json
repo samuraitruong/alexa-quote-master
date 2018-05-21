@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/george_murphy_189942",
+        "quote": "How can you practice dancing in an airplane? There's a law against it.",
+        "author": {
+            "name": "George Murphy",
+            "url": "/quotes/george_murphy_189942"
+        },
+        "topics": [
+            {
+                "name": "Practice",
+                "url": "/topics/practice"
+            },
+            {
+                "name": "Dancing",
+                "url": "/topics/dancing"
+            },
+            {
+                "name": "How",
+                "url": "/topics/how"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_murphy_189943",
+        "quote": "I'd like to make a movie pretty soon, so I could get a rest.",
+        "author": {
+            "name": "George Murphy",
+            "url": "/quotes/george_murphy_189943"
+        },
+        "topics": [
+            {
+                "name": "Rest",
+                "url": "/topics/rest"
+            },
+            {
+                "name": "Pretty",
+                "url": "/topics/pretty"
+            },
+            {
+                "name": "Movie",
+                "url": "/topics/movie"
+            }
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/ethel_percy_andrus_234365",
+        "quote": "The human contribution is the essential ingredient. It is only in the giving of oneself to others that we truly live.",
+        "author": {
+            "name": "Ethel Percy Andrus",
+            "url": "/quotes/ethel_percy_andrus_234365"
+        },
+        "topics": [
+            {
+                "name": "Contribution",
+                "url": "/topics/contribution"
+            },
+            {
+                "name": "Ingredient",
+                "url": "/topics/ingredient"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ethel_percy_andrus_393341",
+        "quote": "We learn the inner secret of happiness when we learn to direct our inner drives, our interest and our attention to something besides ourselves.",
+        "author": {
+            "name": "Ethel Percy Andrus",
+            "url": "/quotes/ethel_percy_andrus_393341"
+        },
+        "topics": [
+            {
+                "name": "Learn",
+                "url": "/topics/learn"
+            },
+            {
+                "name": "Secret",
+                "url": "/topics/secret"
+            },
+            {
+                "name": "Direct",
+                "url": "/topics/direct"
+            }
+        ]
+    }
+]

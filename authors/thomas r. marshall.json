@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/thomas_r_marshall_191211",
+        "quote": "What this country needs is a really good five cent cigar.",
+        "author": {
+            "name": "Thomas R. Marshall",
+            "url": "/quotes/thomas_r_marshall_191211"
+        },
+        "topics": [
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Needs",
+                "url": "/topics/needs"
+            },
+            {
+                "name": "Cent",
+                "url": "/topics/cent"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_r_marshall_191212",
+        "quote": "Once there were two brothers: one ran away to sea, the other was elected Vice-President-and nothing was ever heard from either of them again.",
+        "author": {
+            "name": "Thomas R. Marshall",
+            "url": "/quotes/thomas_r_marshall_191212"
+        },
+        "topics": [
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            },
+            {
+                "name": "Brothers",
+                "url": "/topics/brothers"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    }
+]

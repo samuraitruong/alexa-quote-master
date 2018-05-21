@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/roger_wang_703879",
+        "quote": "The skills I acquired in Southeastern Louisiana University, Thrifty Drugs, Pacific Mutual, along with knowing the history, behavior and local staff, helped make Golden Eagle a success story.",
+        "author": {
+            "name": "Roger Wang",
+            "url": "/quotes/roger_wang_703879"
+        },
+        "topics": [
+            {
+                "name": "University",
+                "url": "/topics/university"
+            },
+            {
+                "name": "Staff",
+                "url": "/topics/staff"
+            },
+            {
+                "name": "Thrifty",
+                "url": "/topics/thrifty"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/roger_wang_703878",
+        "quote": "I'm building a large company.",
+        "author": {
+            "name": "Roger Wang",
+            "url": "/quotes/roger_wang_703878"
+        },
+        "topics": [
+            {
+                "name": "Building",
+                "url": "/topics/building"
+            },
+            {
+                "name": "Company",
+                "url": "/topics/company"
+            },
+            {
+                "name": "Large",
+                "url": "/topics/large"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/roger_wang_703880",
+        "quote": "I like to play golf, but not at a country club.",
+        "author": {
+            "name": "Roger Wang",
+            "url": "/quotes/roger_wang_703880"
+        },
+        "topics": [
+            {
+                "name": "Golf",
+                "url": "/topics/golf"
+            },
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/roger_wang_703881",
+        "quote": "I don't have a lavish lifestyle.",
+        "author": {
+            "name": "Roger Wang",
+            "url": "/quotes/roger_wang_703881"
+        },
+        "topics": [
+            {
+                "name": "Lifestyle",
+                "url": "/topics/lifestyle"
+            },
+            {
+                "name": "Lavish",
+                "url": "/topics/lavish"
+            }
+        ]
+    }
+]

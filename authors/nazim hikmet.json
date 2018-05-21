@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/nazim_hikmet_184155",
+        "quote": "Living is no laughing matter: you must live with great seriousness like a squirrel for example - I mean without looking for something beyond and above living, I mean living must be your whole occupation.",
+        "author": {
+            "name": "Nazim Hikmet",
+            "url": "/quotes/nazim_hikmet_184155"
+        },
+        "topics": [
+            {
+                "name": "Living",
+                "url": "/topics/living"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Occupation",
+                "url": "/topics/occupation"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nazim_hikmet_184051",
+        "quote": "However and wherever we are, we must live as if we will never die.",
+        "author": {
+            "name": "Nazim Hikmet",
+            "url": "/quotes/nazim_hikmet_184051"
+        },
+        "topics": [
+            {
+                "name": "Die",
+                "url": "/topics/die"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "However",
+                "url": "/topics/however"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nazim_hikmet_184154",
+        "quote": "And don't forget, a prisoner's wife must always think good thoughts.",
+        "author": {
+            "name": "Nazim Hikmet",
+            "url": "/quotes/nazim_hikmet_184154"
+        },
+        "topics": [
+            {
+                "name": "Thoughts",
+                "url": "/topics/thoughts"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            }
+        ]
+    }
+]

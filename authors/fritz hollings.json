@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/fritz_hollings_221494",
+        "quote": "I'm truly worried about the country's direction. I can tell you this categorically, we've got the weakest president and the weakest governor in the history of my 50 years of public service.",
+        "author": {
+            "name": "Fritz Hollings",
+            "url": "/quotes/fritz_hollings_221494"
+        },
+        "topics": [
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Tell",
+                "url": "/topics/tell"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/fritz_hollings_221493",
+        "quote": "I don't want to rust out, I'd rather wear out.",
+        "author": {
+            "name": "Fritz Hollings",
+            "url": "/quotes/fritz_hollings_221493"
+        },
+        "topics": [
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Rust",
+                "url": "/topics/rust"
+            },
+            {
+                "name": "Rather",
+                "url": "/topics/rather"
+            }
+        ]
+    }
+]

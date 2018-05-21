@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/mary_wollstonecraft_204526?src=t_blind_obedience",
+        "quote": "Strengthen the female mind by enlarging it, and there will be an end to blind obedience.",
+        "author": {
+            "name": "Mary Wollstonecraft",
+            "url": "/authors/mary_wollstonecraft"
+        },
+        "topics": [
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Blind",
+                "url": "/topics/blind"
+            },
+            {
+                "name": "Enlarging",
+                "url": "/topics/enlarging"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/havelock_ellis_126575?src=t_blind_obedience",
+        "quote": "What we call 'morals' is simply blind obedience to words of command.",
+        "author": {
+            "name": "Havelock Ellis",
+            "url": "/authors/havelock_ellis"
+        },
+        "topics": [
+            {
+                "name": "Blind",
+                "url": "/topics/blind"
+            },
+            {
+                "name": "Obedience",
+                "url": "/topics/obedience"
+            },
+            {
+                "name": "Call",
+                "url": "/topics/call"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/angelina_grimke_408614?src=t_blind_obedience",
+        "quote": "The doctrine of blind obedience and unqualified submission to any human power, whether civil or ecclesiastical, is the doctrine of despotism, and ought to have no place among Republicans and Christians.",
+        "author": {
+            "name": "Angelina Grimke",
+            "url": "/authors/angelina_grimke"
+        },
+        "topics": [
+            {
+                "name": "Blind",
+                "url": "/topics/blind"
+            },
+            {
+                "name": "Christians",
+                "url": "/topics/christians"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alexander_berkman_174931?src=t_blind_obedience",
+        "quote": "War means blind obedience, unthinking stupidity, brutish callousness, wanton destruction, and irresponsible murder.",
+        "author": {
+            "name": "Alexander Berkman",
+            "url": "/authors/alexander_berkman"
+        },
+        "topics": [
+            {
+                "name": "Stupidity",
+                "url": "/topics/stupidity"
+            },
+            {
+                "name": "Blind",
+                "url": "/topics/blind"
+            },
+            {
+                "name": "Means",
+                "url": "/topics/means"
+            }
+        ]
+    }
+]

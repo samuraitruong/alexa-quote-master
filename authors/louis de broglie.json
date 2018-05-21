@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/louis_de_broglie_675036",
+        "quote": "The electron can no longer be conceived as a single, small granule of electricity; it must be associated with a wave, and this wave is no myth; its wavelength can be measured and its interferences predicted.",
+        "author": {
+            "name": "Louis de Broglie",
+            "url": "/quotes/louis_de_broglie_675036"
+        },
+        "topics": [
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Measured",
+                "url": "/topics/measured"
+            },
+            {
+                "name": "Wavelength",
+                "url": "/topics/wavelength"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/louis_de_broglie_675035",
+        "quote": "For X-rays, the phenomenon of diffraction by crystals was a natural consequence of the idea that X-rays are waves analogous to light and differ from it only by having a smaller wavelength.",
+        "author": {
+            "name": "Louis de Broglie",
+            "url": "/quotes/louis_de_broglie_675035"
+        },
+        "topics": [
+            {
+                "name": "Waves",
+                "url": "/topics/waves"
+            },
+            {
+                "name": "Wavelength",
+                "url": "/topics/wavelength"
+            },
+            {
+                "name": "Crystals",
+                "url": "/topics/crystals"
+            }
+        ]
+    }
+]

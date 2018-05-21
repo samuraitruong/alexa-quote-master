@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/richard_morris_hunt_199984",
+        "quote": "Your goal is to achieve the best results by following their wishes. If they want you to build a house upside down standing on its chimney, it's up to you to do it.",
+        "author": {
+            "name": "Richard Morris Hunt",
+            "url": "/quotes/richard_morris_hunt_199984"
+        },
+        "topics": [
+            {
+                "name": "Goal",
+                "url": "/topics/goal"
+            },
+            {
+                "name": "Achieve",
+                "url": "/topics/achieve"
+            },
+            {
+                "name": "Chimney",
+                "url": "/topics/chimney"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/richard_morris_hunt_199983",
+        "quote": "The first thing you've got to remember is that it's your clients' money you're spending.",
+        "author": {
+            "name": "Richard Morris Hunt",
+            "url": "/quotes/richard_morris_hunt_199983"
+        },
+        "topics": [
+            {
+                "name": "Remember",
+                "url": "/topics/remember"
+            },
+            {
+                "name": "Clients",
+                "url": "/topics/clients"
+            },
+            {
+                "name": "Spending",
+                "url": "/topics/spending"
+            }
+        ]
+    }
+]

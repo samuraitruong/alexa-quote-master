@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/paul_morand_139315",
+        "quote": "Mirrors are ice which do not melt: what melts are those who admire themselves in them.",
+        "author": {
+            "name": "Paul Morand",
+            "url": "/quotes/paul_morand_139315"
+        },
+        "topics": [
+            {
+                "name": "Mirrors",
+                "url": "/topics/mirrors"
+            },
+            {
+                "name": "Melt",
+                "url": "/topics/melt"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_morand_107874",
+        "quote": "Speed kills colour... the gyroscope, when turning at full speed, shows up gray.",
+        "author": {
+            "name": "Paul Morand",
+            "url": "/quotes/paul_morand_107874"
+        },
+        "topics": [
+            {
+                "name": "Colour",
+                "url": "/topics/colour"
+            },
+            {
+                "name": "Gray",
+                "url": "/topics/gray"
+            },
+            {
+                "name": "Shows",
+                "url": "/topics/shows"
+            }
+        ]
+    }
+]

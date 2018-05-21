@@ -1,0 +1,298 @@
+[
+    {
+        "url": "/quotes/bjarne_stroustrup_269144?src=t_programming_language",
+        "quote": "However, when Java is promoted as the sole programming language, its flaws and limitations become serious.",
+        "author": {
+            "name": "Bjarne Stroustrup",
+            "url": "/authors/bjarne_stroustrup"
+        },
+        "topics": [
+            {
+                "name": "Java",
+                "url": "/topics/java"
+            },
+            {
+                "name": "However",
+                "url": "/topics/however"
+            },
+            {
+                "name": "Sole",
+                "url": "/topics/sole"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/anders_hejlsberg_719413?src=t_programming_language",
+        "quote": "I felt there was a need for us to build a new programming language. I also had come to see that Microsoft functions best when it controls its own destiny.",
+        "author": {
+            "name": "Anders Hejlsberg",
+            "url": "/authors/anders_hejlsberg"
+        },
+        "topics": [
+            {
+                "name": "Destiny",
+                "url": "/topics/destiny"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Controls",
+                "url": "/topics/controls"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mark_frauenfelder_736320?src=t_programming_language",
+        "quote": "In this beginner-friendly book, called 'Learn to Program with Minecraft,' you will learn how to do cool things in Minecraft using the Python programming language. No prior programming experience is needed.",
+        "author": {
+            "name": "Mark Frauenfelder",
+            "url": "/authors/mark_frauenfelder"
+        },
+        "topics": [
+            {
+                "name": "Learn",
+                "url": "/topics/learn"
+            },
+            {
+                "name": "Python",
+                "url": "/topics/python"
+            },
+            {
+                "name": "Using",
+                "url": "/topics/using"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brian_kernighan_722017?src=t_programming_language",
+        "quote": "Programming language is very specific to instructing a computer to do a particular structure of a sequence. It's the very way you tell the machine what you want it to do.",
+        "author": {
+            "name": "Brian Kernighan",
+            "url": "/authors/brian_kernighan"
+        },
+        "topics": [
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Tell",
+                "url": "/topics/tell"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/steve_wozniak_349861?src=t_programming_language",
+        "quote": "What I was proud of was that I used very few parts to build a computer that could actually speak words on a screen and type words on a keyboard and run a programming language that could play games. And I did all this myself.",
+        "author": {
+            "name": "Steve Wozniak",
+            "url": "/authors/steve_wozniak"
+        },
+        "topics": [
+            {
+                "name": "Computers",
+                "url": "/topics/computers"
+            },
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/larry_ellison_620120?src=t_programming_language",
+        "quote": "What is Oracle? A bunch of people. And all of our products were just ideas in the heads of those people - ideas that people typed into a computer, tested, and that turned out to be the best idea for a database or for a programming language.",
+        "author": {
+            "name": "Larry Ellison",
+            "url": "/authors/larry_ellison"
+        },
+        "topics": [
+            {
+                "name": "Tested",
+                "url": "/topics/tested"
+            },
+            {
+                "name": "Oracle",
+                "url": "/topics/oracle"
+            },
+            {
+                "name": "Turned",
+                "url": "/topics/turned"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/fred_ehrsam_850328?src=t_programming_language",
+        "quote": "Ethereum has taken what was a four-function calculator of a programming language in Bitcoin and turned it into a full-fledged computer.",
+        "author": {
+            "name": "Fred Ehrsam",
+            "url": "/authors/fred_ehrsam"
+        },
+        "topics": [
+            {
+                "name": "Calculator",
+                "url": "/topics/calculator"
+            },
+            {
+                "name": "Ethereum",
+                "url": "/topics/ethereum"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/larry_ellison_620121?src=t_programming_language",
+        "quote": "We think we're going to be especially strong in platform where we have our two platform brands: our database brand is the Oracle Database 12c, and our programming language brand is this thing called Java.",
+        "author": {
+            "name": "Larry Ellison",
+            "url": "/authors/larry_ellison"
+        },
+        "topics": [
+            {
+                "name": "Strong",
+                "url": "/topics/strong"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Brands",
+                "url": "/topics/brands"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alan_perlis_177161?src=t_programming_language",
+        "quote": "A programming language is low level when its programs require attention to the irrelevant.",
+        "author": {
+            "name": "Alan Perlis",
+            "url": "/authors/alan_perlis"
+        },
+        "topics": [
+            {
+                "name": "Level",
+                "url": "/topics/level"
+            },
+            {
+                "name": "Low",
+                "url": "/topics/low"
+            },
+            {
+                "name": "Irrelevant",
+                "url": "/topics/irrelevant"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_graham_183928?src=t_programming_language",
+        "quote": "A programming language is for thinking about programs, not for expressing programs you've already thought of. It should be a pencil, not a pen.",
+        "author": {
+            "name": "Paul Graham",
+            "url": "/authors/paul_graham"
+        },
+        "topics": [
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Expressing",
+                "url": "/topics/expressing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/donald_knuth_181626?src=t_programming_language",
+        "quote": "The most important thing in the programming language is the name. A language will not succeed without a good name. I have recently invented a very good name and now I am looking for a suitable language.",
+        "author": {
+            "name": "Donald Knuth",
+            "url": "/authors/donald_knuth"
+        },
+        "topics": [
+            {
+                "name": "The Most Important",
+                "url": "/topics/the_most_important"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mitchel_resnick_643069?src=t_programming_language",
+        "quote": "Computer programming has been traditionally seen as something that is beyond most people - it's only for a special group with technical expertise and experience. We have developed 'Scratch' as a new type of programming language, which is much more accessible.",
+        "author": {
+            "name": "Mitchel Resnick",
+            "url": "/authors/mitchel_resnick"
+        },
+        "topics": [
+            {
+                "name": "Technical",
+                "url": "/topics/technical"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Accessible",
+                "url": "/topics/accessible"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bjarne_stroustrup_269140?src=t_programming_language",
+        "quote": "People who passionately want to believe that the world is basically simple react to this with a fury that goes beyond what I consider appropriate for discussing a programming language.",
+        "author": {
+            "name": "Bjarne Stroustrup",
+            "url": "/authors/bjarne_stroustrup"
+        },
+        "topics": [
+            {
+                "name": "Appropriate",
+                "url": "/topics/appropriate"
+            },
+            {
+                "name": "Discussing",
+                "url": "/topics/discussing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/harry_markowitz_718181?src=t_programming_language",
+        "quote": "In 1989, I was awarded the Von Neumann Prize in Operations Research Theory by the Operations Research Society of America and The Institute of Management Sciences. They cited my works in the areas of portfolio theory, sparse matrix techniques and the SIMSCRIPT programming language.",
+        "author": {
+            "name": "Harry Markowitz",
+            "url": "/authors/harry_markowitz"
+        },
+        "topics": [
+            {
+                "name": "Language",
+                "url": "/topics/language"
+            },
+            {
+                "name": "Works",
+                "url": "/topics/works"
+            },
+            {
+                "name": "Cited",
+                "url": "/topics/cited"
+            }
+        ]
+    }
+]

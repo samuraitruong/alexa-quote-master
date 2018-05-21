@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/paul_jacobs_765335",
+        "quote": "People want to be part of something that's bigger than themselves. It's motivating. It helps all of us to work harder.",
+        "author": {
+            "name": "Paul Jacobs",
+            "url": "/quotes/paul_jacobs_765335"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Motivating",
+                "url": "/topics/motivating"
+            },
+            {
+                "name": "Bigger",
+                "url": "/topics/bigger"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_jacobs_765338",
+        "quote": "One of the biggest motivators is to be part of something larger than yourself.",
+        "author": {
+            "name": "Paul Jacobs",
+            "url": "/quotes/paul_jacobs_765338"
+        },
+        "topics": [
+            {
+                "name": "Part",
+                "url": "/topics/part"
+            },
+            {
+                "name": "Larger",
+                "url": "/topics/larger"
+            },
+            {
+                "name": "Biggest",
+                "url": "/topics/biggest"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_jacobs_765334",
+        "quote": "We need students to understand how the world has changed and be prepared to make contributions in a new way.",
+        "author": {
+            "name": "Paul Jacobs",
+            "url": "/quotes/paul_jacobs_765334"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            },
+            {
+                "name": "Prepared",
+                "url": "/topics/prepared"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/carey_williams_194778",
+        "quote": "Times change. The farmer's daughter now tells jokes about the traveling salesman.",
+        "author": {
+            "name": "Carey Williams",
+            "url": "/quotes/carey_williams_194778"
+        },
+        "topics": [
+            {
+                "name": "Change",
+                "url": "/topics/change"
+            },
+            {
+                "name": "Times",
+                "url": "/topics/times"
+            },
+            {
+                "name": "Tells",
+                "url": "/topics/tells"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/carey_williams_194779",
+        "quote": "In order to be a diplomat, one must speak a number of languages, including doubletalk.",
+        "author": {
+            "name": "Carey Williams",
+            "url": "/quotes/carey_williams_194779"
+        },
+        "topics": [
+            {
+                "name": "Including",
+                "url": "/topics/including"
+            },
+            {
+                "name": "Languages",
+                "url": "/topics/languages"
+            },
+            {
+                "name": "Number",
+                "url": "/topics/number"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/carey_williams_194777",
+        "quote": "Youth is that period when a young boy knows everything but how to make a living.",
+        "author": {
+            "name": "Carey Williams",
+            "url": "/quotes/carey_williams_194777"
+        },
+        "topics": [
+            {
+                "name": "Living",
+                "url": "/topics/living"
+            },
+            {
+                "name": "How",
+                "url": "/topics/how"
+            },
+            {
+                "name": "Period",
+                "url": "/topics/period"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/joseph_lewis_190854",
+        "quote": "Superstition is the poison of the mind.",
+        "author": {
+            "name": "Joseph Lewis",
+            "url": "/quotes/joseph_lewis_190854"
+        },
+        "topics": [
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Poison",
+                "url": "/topics/poison"
+            },
+            {
+                "name": "Superstition",
+                "url": "/topics/superstition"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joseph_lewis_190855",
+        "quote": "The burning of an author's books, imprisonment for opinion's sake, has always been the tribute that an ignorant age pays to the genius of its time.",
+        "author": {
+            "name": "Joseph Lewis",
+            "url": "/quotes/joseph_lewis_190855"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Author",
+                "url": "/topics/author"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    }
+]

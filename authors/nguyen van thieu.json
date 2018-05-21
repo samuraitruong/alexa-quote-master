@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/nguyen_van_thieu_358878",
+        "quote": "You ran away and left us to do the job that you could not do.",
+        "author": {
+            "name": "Nguyen Van Thieu",
+            "url": "/quotes/nguyen_van_thieu_358878"
+        },
+        "topics": [
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            },
+            {
+                "name": "Left",
+                "url": "/topics/left"
+            },
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nguyen_van_thieu_358877",
+        "quote": "The United States did not keep its promise to help us fight for freedom and it was in the same fight that the United States lost 50,000 of its young men.",
+        "author": {
+            "name": "Nguyen Van Thieu",
+            "url": "/quotes/nguyen_van_thieu_358877"
+        },
+        "topics": [
+            {
+                "name": "Young",
+                "url": "/topics/young"
+            },
+            {
+                "name": "United States",
+                "url": "/topics/united_states"
+            },
+            {
+                "name": "United",
+                "url": "/topics/united"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nguyen_van_thieu_358876",
+        "quote": "Don't listen to what the Communists say, but look at what they do.",
+        "author": {
+            "name": "Nguyen Van Thieu",
+            "url": "/quotes/nguyen_van_thieu_358876"
+        },
+        "topics": [
+            {
+                "name": "Look",
+                "url": "/topics/look"
+            },
+            {
+                "name": "Listen",
+                "url": "/topics/listen"
+            },
+            {
+                "name": "Say",
+                "url": "/topics/say"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nguyen_van_thieu_358875",
+        "quote": "But the United States did not keep its word. Is an American's word reliable these days?",
+        "author": {
+            "name": "Nguyen Van Thieu",
+            "url": "/quotes/nguyen_van_thieu_358875"
+        },
+        "topics": [
+            {
+                "name": "United States",
+                "url": "/topics/united_states"
+            },
+            {
+                "name": "Reliable",
+                "url": "/topics/reliable"
+            }
+        ]
+    }
+]

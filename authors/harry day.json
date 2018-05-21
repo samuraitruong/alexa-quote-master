@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/harry_day_172558",
+        "quote": "Rules are for the obedience of fools and the guidance of wise men.",
+        "author": {
+            "name": "Harry Day",
+            "url": "/quotes/harry_day_172558"
+        },
+        "topics": [
+            {
+                "name": "Wise",
+                "url": "/topics/wise"
+            },
+            {
+                "name": "Guidance",
+                "url": "/topics/guidance"
+            },
+            {
+                "name": "Obedience",
+                "url": "/topics/obedience"
+            }
+        ]
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/justin_flom_719384",
+        "quote": "Don't spend money on extravagant things like cars and big vacations. Spend it on things that are really fun.",
+        "author": {
+            "name": "Justin Flom",
+            "url": "/quotes/justin_flom_719384"
+        },
+        "topics": [
+            {
+                "name": "Money",
+                "url": "/topics/money"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Extravagant",
+                "url": "/topics/extravagant"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/justin_flom_719385",
+        "quote": "The problem with stage magic is that it looks really good, but everyone knows there's a trick box.",
+        "author": {
+            "name": "Justin Flom",
+            "url": "/quotes/justin_flom_719385"
+        },
+        "topics": [
+            {
+                "name": "Magic",
+                "url": "/topics/magic"
+            },
+            {
+                "name": "Problem",
+                "url": "/topics/problem"
+            },
+            {
+                "name": "Looks",
+                "url": "/topics/looks"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/justin_flom_719386",
+        "quote": "Penn and Teller love the very intellectual side of magic. Me, I'm more fun than them. They never look like they're having fun. They look angry.",
+        "author": {
+            "name": "Justin Flom",
+            "url": "/quotes/justin_flom_719386"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Magic",
+                "url": "/topics/magic"
+            },
+            {
+                "name": "Penn",
+                "url": "/topics/penn"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/justin_flom_719387",
+        "quote": "All types of magic performance have a purpose. Even if it's an amateur who's trying out slight of hand on YouTube.",
+        "author": {
+            "name": "Justin Flom",
+            "url": "/quotes/justin_flom_719387"
+        },
+        "topics": [
+            {
+                "name": "Magic",
+                "url": "/topics/magic"
+            },
+            {
+                "name": "YouTube",
+                "url": "/topics/youtube"
+            },
+            {
+                "name": "Types",
+                "url": "/topics/types"
+            }
+        ]
+    }
+]

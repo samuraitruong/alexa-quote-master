@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/walter_raleigh_144434",
+        "quote": "Fain would I climb, yet fear I to fall.",
+        "author": {
+            "name": "Walter Raleigh",
+            "url": "/quotes/walter_raleigh_144434"
+        },
+        "topics": [
+            {
+                "name": "Climb",
+                "url": "/topics/climb"
+            },
+            {
+                "name": "Fall",
+                "url": "/topics/fall"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/walter_raleigh_400513",
+        "quote": "Whosoever, in writing a modern history, shall follow truth too near the heels, it may happily strike out his teeth.",
+        "author": {
+            "name": "Walter Raleigh",
+            "url": "/quotes/walter_raleigh_400513"
+        },
+        "topics": [
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Heels",
+                "url": "/topics/heels"
+            },
+            {
+                "name": "Strike",
+                "url": "/topics/strike"
+            }
+        ]
+    }
+]

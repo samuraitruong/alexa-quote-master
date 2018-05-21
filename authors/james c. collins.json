@@ -1,0 +1,130 @@
+[
+    {
+        "url": "/quotes/james_c_collins_455632",
+        "quote": "I can just let my curiosity wander unleashed.",
+        "author": {
+            "name": "James C. Collins",
+            "url": "/quotes/james_c_collins_455632"
+        },
+        "topics": [
+            {
+                "name": "Curiosity",
+                "url": "/topics/curiosity"
+            },
+            {
+                "name": "Wander",
+                "url": "/topics/wander"
+            },
+            {
+                "name": "Unleashed",
+                "url": "/topics/unleashed"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_c_collins_455633",
+        "quote": "Companies that change best over time know first and foremost what should not change.",
+        "author": {
+            "name": "James C. Collins",
+            "url": "/quotes/james_c_collins_455633"
+        },
+        "topics": [
+            {
+                "name": "Change",
+                "url": "/topics/change"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Companies",
+                "url": "/topics/companies"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_c_collins_455628",
+        "quote": "Not every financial company toppled during the 2008 crisis, and some seized the opportunity to take advantage of weaker competitors in the midst of the tumult.",
+        "author": {
+            "name": "James C. Collins",
+            "url": "/quotes/james_c_collins_455628"
+        },
+        "topics": [
+            {
+                "name": "Financial",
+                "url": "/topics/financial"
+            },
+            {
+                "name": "Crisis",
+                "url": "/topics/crisis"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_c_collins_455629",
+        "quote": "I am completely Socratic.",
+        "author": {
+            "name": "James C. Collins",
+            "url": "/quotes/james_c_collins_455629"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Am",
+                "url": "/topics/am"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_c_collins_455630",
+        "quote": "If I'm going really, really fast, I can do a page of finished text a day, on average.",
+        "author": {
+            "name": "James C. Collins",
+            "url": "/quotes/james_c_collins_455630"
+        },
+        "topics": [
+            {
+                "name": "Fast",
+                "url": "/topics/fast"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Average",
+                "url": "/topics/average"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_c_collins_455631",
+        "quote": "Just because a company falls doesn't invalidate what we can learn by studying that company when it was at its historical best.",
+        "author": {
+            "name": "James C. Collins",
+            "url": "/quotes/james_c_collins_455631"
+        },
+        "topics": [
+            {
+                "name": "Just Because",
+                "url": "/topics/just_because"
+            },
+            {
+                "name": "Learn",
+                "url": "/topics/learn"
+            },
+            {
+                "name": "Falls",
+                "url": "/topics/falls"
+            }
+        ]
+    }
+]

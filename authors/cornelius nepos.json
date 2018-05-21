@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/cornelius_nepos_185207",
+        "quote": "Hateful is the power, and pitiable is the life, of those who wish to be feared rather than loved.",
+        "author": {
+            "name": "Cornelius Nepos",
+            "url": "/quotes/cornelius_nepos_185207"
+        },
+        "topics": [
+            {
+                "name": "Wish",
+                "url": "/topics/wish"
+            },
+            {
+                "name": "Hateful",
+                "url": "/topics/hateful"
+            },
+            {
+                "name": "Pitiable",
+                "url": "/topics/pitiable"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/cornelius_nepos_185208",
+        "quote": "Peace is obtained by war.",
+        "author": {
+            "name": "Cornelius Nepos",
+            "url": "/quotes/cornelius_nepos_185208"
+        },
+        "topics": [
+            {
+                "name": "War",
+                "url": "/topics/war"
+            },
+            {
+                "name": "Peace",
+                "url": "/topics/peace"
+            },
+            {
+                "name": "Obtained",
+                "url": "/topics/obtained"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/cornelius_nepos_185210",
+        "quote": "So that he seemed to depart not from life, but from one home to another.",
+        "author": {
+            "name": "Cornelius Nepos",
+            "url": "/quotes/cornelius_nepos_185210"
+        },
+        "topics": [
+            {
+                "name": "Seemed",
+                "url": "/topics/seemed"
+            },
+            {
+                "name": "Another",
+                "url": "/topics/another"
+            },
+            {
+                "name": "Depart",
+                "url": "/topics/depart"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/cornelius_nepos_185211",
+        "quote": "No government is safe unless fortified by goodwill.",
+        "author": {
+            "name": "Cornelius Nepos",
+            "url": "/quotes/cornelius_nepos_185211"
+        },
+        "topics": [
+            {
+                "name": "Government",
+                "url": "/topics/government"
+            },
+            {
+                "name": "Unless",
+                "url": "/topics/unless"
+            },
+            {
+                "name": "Goodwill",
+                "url": "/topics/goodwill"
+            }
+        ]
+    }
+]

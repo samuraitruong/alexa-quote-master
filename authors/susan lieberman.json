@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/susan_lieberman_403679",
+        "quote": "Family traditions counter alienation and confusion. They help us define who we are; they provide something steady, reliable and safe in a confusing world.",
+        "author": {
+            "name": "Susan Lieberman",
+            "url": "/quotes/susan_lieberman_403679"
+        },
+        "topics": [
+            {
+                "name": "Help",
+                "url": "/topics/help"
+            },
+            {
+                "name": "Alienation",
+                "url": "/topics/alienation"
+            },
+            {
+                "name": "Counter",
+                "url": "/topics/counter"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/susan_lieberman_400432",
+        "quote": "By building relations we create a source of love and personal pride and belonging that makes living in a chaotic world easier.",
+        "author": {
+            "name": "Susan Lieberman",
+            "url": "/quotes/susan_lieberman_400432"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Living",
+                "url": "/topics/living"
+            },
+            {
+                "name": "Makes",
+                "url": "/topics/makes"
+            }
+        ]
+    }
+]

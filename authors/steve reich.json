@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/steve_reich_186023",
+        "quote": "In serial music, the series itself is seldom audible... What I'm interested in is a compositional process and a sounding music that are one in the same thing.",
+        "author": {
+            "name": "Steve Reich",
+            "url": "/quotes/steve_reich_186023"
+        },
+        "topics": [
+            {
+                "name": "Process",
+                "url": "/topics/process"
+            },
+            {
+                "name": "Itself",
+                "url": "/topics/itself"
+            },
+            {
+                "name": "Same Thing",
+                "url": "/topics/same_thing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/steve_reich_186025",
+        "quote": "I discovered that the most interesting music of all was made by simply lining the loops in unison, and letting them slowly shift out of phase with other.",
+        "author": {
+            "name": "Steve Reich",
+            "url": "/quotes/steve_reich_186025"
+        },
+        "topics": [
+            {
+                "name": "Phase",
+                "url": "/topics/phase"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Discovered",
+                "url": "/topics/discovered"
+            }
+        ]
+    }
+]

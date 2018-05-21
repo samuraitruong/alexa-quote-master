@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/gordon_richards_227893",
+        "quote": "I can't remember ever being told how to ride.",
+        "author": {
+            "name": "Gordon Richards",
+            "url": "/quotes/gordon_richards_227893"
+        },
+        "topics": [
+            {
+                "name": "Remember",
+                "url": "/topics/remember"
+            },
+            {
+                "name": "Ever",
+                "url": "/topics/ever"
+            },
+            {
+                "name": "How",
+                "url": "/topics/how"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gordon_richards_227894",
+        "quote": "I just got on a pony's back and away I went.",
+        "author": {
+            "name": "Gordon Richards",
+            "url": "/quotes/gordon_richards_227894"
+        },
+        "topics": [
+            {
+                "name": "Back",
+                "url": "/topics/back"
+            },
+            {
+                "name": "Just",
+                "url": "/topics/just"
+            },
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            }
+        ]
+    }
+]

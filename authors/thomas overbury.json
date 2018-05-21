@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/thomas_overbury_211498",
+        "quote": "The man who has nothing to boast of but his illustrious ancestry is like the potato - the best part under ground.",
+        "author": {
+            "name": "Thomas Overbury",
+            "url": "/quotes/thomas_overbury_211498"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Ancestry",
+                "url": "/topics/ancestry"
+            },
+            {
+                "name": "Illustrious",
+                "url": "/topics/illustrious"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_overbury_211500",
+        "quote": "Beauty is only skin deep.",
+        "author": {
+            "name": "Thomas Overbury",
+            "url": "/quotes/thomas_overbury_211500"
+        },
+        "topics": [
+            {
+                "name": "Beauty",
+                "url": "/topics/beauty"
+            },
+            {
+                "name": "Deep",
+                "url": "/topics/deep"
+            },
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            }
+        ]
+    }
+]

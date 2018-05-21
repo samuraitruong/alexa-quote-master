@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/sasa_vucinic_643315",
+        "quote": "It's a great time for independent media because technology reduces the entry barrier. It makes it a phenomenal time for media in general. It's David versus Goliath, and David is always a little smarter, more nimble, more fast.",
+        "author": {
+            "name": "Sasa Vucinic",
+            "url": "/quotes/sasa_vucinic_643315"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Great Time",
+                "url": "/topics/great_time"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sasa_vucinic_643316",
+        "quote": "If investors are willing to fund the U.S. deficit, why wouldn't investors want to fund the press freedom deficit?",
+        "author": {
+            "name": "Sasa Vucinic",
+            "url": "/quotes/sasa_vucinic_643316"
+        },
+        "topics": [
+            {
+                "name": "Freedom",
+                "url": "/topics/freedom"
+            },
+            {
+                "name": "Willing",
+                "url": "/topics/willing"
+            },
+            {
+                "name": "Fund",
+                "url": "/topics/fund"
+            }
+        ]
+    }
+]

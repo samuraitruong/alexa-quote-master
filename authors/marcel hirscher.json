@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/marcel_hirscher_520903",
+        "quote": "It's incredible how many emotions you feel when crossing the finish line and seeing that you are No. 1.",
+        "author": {
+            "name": "Marcel Hirscher",
+            "url": "/quotes/marcel_hirscher_520903"
+        },
+        "topics": [
+            {
+                "name": "Emotions",
+                "url": "/topics/emotions"
+            },
+            {
+                "name": "Line",
+                "url": "/topics/line"
+            },
+            {
+                "name": "Incredible",
+                "url": "/topics/incredible"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marcel_hirscher_651716",
+        "quote": "Nothing is worth putting my health on the line. Not a camera, not a title, nothing.",
+        "author": {
+            "name": "Marcel Hirscher",
+            "url": "/quotes/marcel_hirscher_651716"
+        },
+        "topics": [
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            },
+            {
+                "name": "Line",
+                "url": "/topics/line"
+            },
+            {
+                "name": "Putting",
+                "url": "/topics/putting"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marcel_hirscher_651718",
+        "quote": "I have reasons to believe that I could win the World Cup, but I take it one race at a time.",
+        "author": {
+            "name": "Marcel Hirscher",
+            "url": "/quotes/marcel_hirscher_651718"
+        },
+        "topics": [
+            {
+                "name": "World Cup",
+                "url": "/topics/world_cup"
+            },
+            {
+                "name": "Reasons",
+                "url": "/topics/reasons"
+            },
+            {
+                "name": "Take",
+                "url": "/topics/take"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marcel_hirscher_651717",
+        "quote": "If you want to be among the greatest skiers, you have to win in Kitzbuehel at least once.",
+        "author": {
+            "name": "Marcel Hirscher",
+            "url": "/quotes/marcel_hirscher_651717"
+        },
+        "topics": [
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Once",
+                "url": "/topics/once"
+            },
+            {
+                "name": "Among",
+                "url": "/topics/among"
+            }
+        ]
+    }
+]

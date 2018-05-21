@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/charles_scribner_jr_112987",
+        "quote": "Reading is a means of thinking with another person's mind; it forces you to stretch your own.",
+        "author": {
+            "name": "Charles Scribner, Jr.",
+            "url": "/quotes/charles_scribner_jr_112987"
+        },
+        "topics": [
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Stretch",
+                "url": "/topics/stretch"
+            },
+            {
+                "name": "Means",
+                "url": "/topics/means"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charles_scribner_jr_112985",
+        "quote": "Language is the soul of intellect, and reading is the essential process by which that intellect is cultivated beyond the commonplace experiences of everyday life.",
+        "author": {
+            "name": "Charles Scribner, Jr.",
+            "url": "/quotes/charles_scribner_jr_112985"
+        },
+        "topics": [
+            {
+                "name": "Process",
+                "url": "/topics/process"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Cultivated",
+                "url": "/topics/cultivated"
+            }
+        ]
+    }
+]

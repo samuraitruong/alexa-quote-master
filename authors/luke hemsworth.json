@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/luke_hemsworth_603950",
+        "quote": "I've seen sharks in the ocean, it hasn't made me get out of the ocean; that's for sure.",
+        "author": {
+            "name": "Luke Hemsworth",
+            "url": "/quotes/luke_hemsworth_603950"
+        },
+        "topics": [
+            {
+                "name": "Ocean",
+                "url": "/topics/ocean"
+            },
+            {
+                "name": "Sure",
+                "url": "/topics/sure"
+            },
+            {
+                "name": "Made",
+                "url": "/topics/made"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/luke_hemsworth_603949",
+        "quote": "My head is massive. My head is, like, off the charts.",
+        "author": {
+            "name": "Luke Hemsworth",
+            "url": "/quotes/luke_hemsworth_603949"
+        },
+        "topics": [
+            {
+                "name": "Head",
+                "url": "/topics/head"
+            },
+            {
+                "name": "Charts",
+                "url": "/topics/charts"
+            },
+            {
+                "name": "Massive",
+                "url": "/topics/massive"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/luke_hemsworth_662070",
+        "quote": "I don't think most people decide to become an actor because they want to be followed around all the time... I see it when I'm with my brothers, and I don't get it. I don't understand why someone wants to take a photo of us getting out of a car or on the beach. I think that's really weird.",
+        "author": {
+            "name": "Luke Hemsworth",
+            "url": "/quotes/luke_hemsworth_662070"
+        },
+        "topics": [
+            {
+                "name": "Why",
+                "url": "/topics/why"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Brothers",
+                "url": "/topics/brothers"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/luke_hemsworth_662071",
+        "quote": "I could probably live in London if you had better surf.",
+        "author": {
+            "name": "Luke Hemsworth",
+            "url": "/quotes/luke_hemsworth_662071"
+        },
+        "topics": [
+            {
+                "name": "Better",
+                "url": "/topics/better"
+            },
+            {
+                "name": "London",
+                "url": "/topics/london"
+            },
+            {
+                "name": "Surf",
+                "url": "/topics/surf"
+            }
+        ]
+    }
+]

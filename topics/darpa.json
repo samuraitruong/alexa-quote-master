@@ -1,0 +1,134 @@
+[
+    {
+        "url": "/quotes/sheldon_whitehouse_879861?src=t_darpa",
+        "quote": "Frankly, we should have an ARPA-O, an Advanced Research Projects Agency for oceans research, to match DARPA for defense and ARPA-E for energy. And we should have an Oceans and Coasts Fund to match the upland- and freshwater-directed Land and Water Conservation Fund.",
+        "author": {
+            "name": "Sheldon Whitehouse",
+            "url": "/authors/sheldon_whitehouse"
+        },
+        "topics": [
+            {
+                "name": "Advanced",
+                "url": "/topics/advanced"
+            },
+            {
+                "name": "Agency",
+                "url": "/topics/agency"
+            },
+            {
+                "name": "Projects",
+                "url": "/topics/projects"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/max_keiser_850694?src=t_darpa",
+        "quote": "Bitcoin is a peer-to-peer, decentralized form of money, as durable as the Internet itself. Remember, the Internet - or DARPA, as it was originally called - was created as a fail-safe, global network with no 'single point of failure.' If one part goes down, data takes another route, and nothing is lost.",
+        "author": {
+            "name": "Max Keiser",
+            "url": "/authors/max_keiser"
+        },
+        "topics": [
+            {
+                "name": "Data",
+                "url": "/topics/data"
+            },
+            {
+                "name": "Another",
+                "url": "/topics/another"
+            },
+            {
+                "name": "Part",
+                "url": "/topics/part"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sebastian_thrun_694770?src=t_darpa",
+        "quote": "Even as a college professor at Carnegie Mellon and Stanford, I saw myself as an entrepreneur, and I went out, took risks, and tried to invent new things, such as participating in the DARPA Grand Challenge and working on self-driving cars.",
+        "author": {
+            "name": "Sebastian Thrun",
+            "url": "/authors/sebastian_thrun"
+        },
+        "topics": [
+            {
+                "name": "College",
+                "url": "/topics/college"
+            },
+            {
+                "name": "New Things",
+                "url": "/topics/new_things"
+            },
+            {
+                "name": "Out",
+                "url": "/topics/out"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jens_martin_skibsted_889433?src=t_darpa",
+        "quote": "From NASA putting a man on the moon to DARPA developing what later became the Internet, the U.S. government, through a host of different public agencies, has provided direct financing not only of basic research but also public venture capital; both Apple and Tesla have received direct public funding.",
+        "author": {
+            "name": "Jens Martin Skibsted",
+            "url": "/authors/jens_martin_skibsted"
+        },
+        "topics": [
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Capital",
+                "url": "/topics/capital"
+            },
+            {
+                "name": "Became",
+                "url": "/topics/became"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/fred_ehrsam_850309?src=t_darpa",
+        "quote": "The self-driving car revolution was kicked off by The 'DARPA' Grand Challenge to make an autonomous car traverse 132 mi. of a desert.",
+        "author": {
+            "name": "Fred Ehrsam",
+            "url": "/authors/fred_ehrsam"
+        },
+        "topics": [
+            {
+                "name": "Autonomous",
+                "url": "/topics/autonomous"
+            },
+            {
+                "name": "Kicked",
+                "url": "/topics/kicked"
+            },
+            {
+                "name": "Grand",
+                "url": "/topics/grand"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/anthony_levandowski_867054?src=t_darpa",
+        "quote": "In 2003, my mom actually gave me a call, which is funny because she works at the European Union in Brussels, Belgium, and let me know that there's a cool competition with robots across the desert. And I thought this was definitely something I wanted to be a part of. This was the first DARPA Grand Challenge.",
+        "author": {
+            "name": "Anthony Levandowski",
+            "url": "/authors/anthony_levandowski"
+        },
+        "topics": [
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Works",
+                "url": "/topics/works"
+            },
+            {
+                "name": "Part",
+                "url": "/topics/part"
+            }
+        ]
+    }
+]

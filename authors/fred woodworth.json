@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/fred_woodworth_161692",
+        "quote": "If human beings are fundamentally good, no government is necessary; if they are fundamentally bad, any government, being composed of human beings, would be bad also.",
+        "author": {
+            "name": "Fred Woodworth",
+            "url": "/quotes/fred_woodworth_161692"
+        },
+        "topics": [
+            {
+                "name": "Government",
+                "url": "/topics/government"
+            },
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            },
+            {
+                "name": "Necessary",
+                "url": "/topics/necessary"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/fred_woodworth_108456",
+        "quote": "It seems like such a terrible shame that innocent civilians have to get hurt in wars, otherwise combat would be such a wonderfully healthy way to rid the human race of unneeded trash.",
+        "author": {
+            "name": "Fred Woodworth",
+            "url": "/quotes/fred_woodworth_108456"
+        },
+        "topics": [
+            {
+                "name": "War",
+                "url": "/topics/war"
+            },
+            {
+                "name": "Shame",
+                "url": "/topics/shame"
+            },
+            {
+                "name": "Otherwise",
+                "url": "/topics/otherwise"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/fred_woodworth_105469",
+        "quote": "Government is an unnecessary evil. Human beings, when accustomed to taking responsibility for their own behavior, can cooperate on a basis of mutual trust and helpfulness.",
+        "author": {
+            "name": "Fred Woodworth",
+            "url": "/quotes/fred_woodworth_105469"
+        },
+        "topics": [
+            {
+                "name": "Trust",
+                "url": "/topics/trust"
+            },
+            {
+                "name": "Government",
+                "url": "/topics/government"
+            },
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            }
+        ]
+    }
+]

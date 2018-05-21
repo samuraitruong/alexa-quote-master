@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/stephen_samuel_wise_202612",
+        "quote": "Vision looks outward and becomes aspiration.",
+        "author": {
+            "name": "Stephen Samuel Wise",
+            "url": "/quotes/stephen_samuel_wise_202612"
+        },
+        "topics": [
+            {
+                "name": "Vision",
+                "url": "/topics/vision"
+            },
+            {
+                "name": "Looks",
+                "url": "/topics/looks"
+            },
+            {
+                "name": "Aspiration",
+                "url": "/topics/aspiration"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/stephen_samuel_wise_202611",
+        "quote": "Vision looks upward and becomes faith.",
+        "author": {
+            "name": "Stephen Samuel Wise",
+            "url": "/quotes/stephen_samuel_wise_202611"
+        },
+        "topics": [
+            {
+                "name": "Faith",
+                "url": "/topics/faith"
+            },
+            {
+                "name": "Vision",
+                "url": "/topics/vision"
+            },
+            {
+                "name": "Looks",
+                "url": "/topics/looks"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/stephen_samuel_wise_394070",
+        "quote": "Vision looks inward and becomes duty.",
+        "author": {
+            "name": "Stephen Samuel Wise",
+            "url": "/quotes/stephen_samuel_wise_394070"
+        },
+        "topics": [
+            {
+                "name": "Vision",
+                "url": "/topics/vision"
+            },
+            {
+                "name": "Looks",
+                "url": "/topics/looks"
+            },
+            {
+                "name": "Inward",
+                "url": "/topics/inward"
+            }
+        ]
+    }
+]

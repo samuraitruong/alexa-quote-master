@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/anders_zorn_212751",
+        "quote": "Now, finally has the elevator arrived. The stairs was about to become a personal inferno.",
+        "author": {
+            "name": "Anders Zorn",
+            "url": "/quotes/anders_zorn_212751"
+        },
+        "topics": [
+            {
+                "name": "Now",
+                "url": "/topics/now"
+            },
+            {
+                "name": "Elevator",
+                "url": "/topics/elevator"
+            },
+            {
+                "name": "Arrived",
+                "url": "/topics/arrived"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/anders_zorn_212752",
+        "quote": "Not so cold, some snow fell. I went inside the log cabin and said goodbye to Mother, she was so alike grandmother, just younger.",
+        "author": {
+            "name": "Anders Zorn",
+            "url": "/quotes/anders_zorn_212752"
+        },
+        "topics": [
+            {
+                "name": "Younger",
+                "url": "/topics/younger"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Log",
+                "url": "/topics/log"
+            }
+        ]
+    }
+]

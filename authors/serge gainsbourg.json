@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/serge_gainsbourg_338703",
+        "quote": "Ugliness is in a way superior to beauty because it lasts.",
+        "author": {
+            "name": "Serge Gainsbourg",
+            "url": "/quotes/serge_gainsbourg_338703"
+        },
+        "topics": [
+            {
+                "name": "Beauty",
+                "url": "/topics/beauty"
+            },
+            {
+                "name": "Lasts",
+                "url": "/topics/lasts"
+            },
+            {
+                "name": "Superior",
+                "url": "/topics/superior"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/serge_gainsbourg_555659",
+        "quote": "I've succeeded at everything except my life.",
+        "author": {
+            "name": "Serge Gainsbourg",
+            "url": "/quotes/serge_gainsbourg_555659"
+        },
+        "topics": [
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Everything",
+                "url": "/topics/everything"
+            },
+            {
+                "name": "Except",
+                "url": "/topics/except"
+            }
+        ]
+    }
+]

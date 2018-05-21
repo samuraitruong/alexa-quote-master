@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/nick_veasey_551206",
+        "quote": "We are all so busy and so frantic that we don't take the time to appreciate the stuff that surrounds us.",
+        "author": {
+            "name": "Nick Veasey",
+            "url": "/quotes/nick_veasey_551206"
+        },
+        "topics": [
+            {
+                "name": "Busy",
+                "url": "/topics/busy"
+            },
+            {
+                "name": "Appreciate",
+                "url": "/topics/appreciate"
+            },
+            {
+                "name": "Take",
+                "url": "/topics/take"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nick_veasey_551207",
+        "quote": "I love the fact that very often the most everyday objects take on another level of importance.",
+        "author": {
+            "name": "Nick Veasey",
+            "url": "/quotes/nick_veasey_551207"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Fact",
+                "url": "/topics/fact"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    }
+]

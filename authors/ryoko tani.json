@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/ryoko_tani_426538",
+        "quote": "While raising my children, I would like to take on other challenges.",
+        "author": {
+            "name": "Ryoko Tani",
+            "url": "/quotes/ryoko_tani_426538"
+        },
+        "topics": [
+            {
+                "name": "Take",
+                "url": "/topics/take"
+            },
+            {
+                "name": "Raising",
+                "url": "/topics/raising"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ryoko_tani_426539",
+        "quote": "I will remain active in judo.",
+        "author": {
+            "name": "Ryoko Tani",
+            "url": "/quotes/ryoko_tani_426539"
+        },
+        "topics": [
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Active",
+                "url": "/topics/active"
+            },
+            {
+                "name": "Remain",
+                "url": "/topics/remain"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ryoko_tani_426540",
+        "quote": "I will try to win the Olympics gold in London.",
+        "author": {
+            "name": "Ryoko Tani",
+            "url": "/quotes/ryoko_tani_426540"
+        },
+        "topics": [
+            {
+                "name": "Gold",
+                "url": "/topics/gold"
+            },
+            {
+                "name": "London",
+                "url": "/topics/london"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    }
+]

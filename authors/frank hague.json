@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/frank_hague_332723",
+        "quote": "As long as I am mayor of this city the great industries are secure.",
+        "author": {
+            "name": "Frank Hague",
+            "url": "/quotes/frank_hague_332723"
+        },
+        "topics": [
+            {
+                "name": "City",
+                "url": "/topics/city"
+            },
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Mayor",
+                "url": "/topics/mayor"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/frank_hague_187360",
+        "quote": "You hear about constitutional rights, free speech and the free press. Every time I hear these words I say to myself, 'That man is a Red, that man is a Communist!' You never hear a real American talk like that.",
+        "author": {
+            "name": "Frank Hague",
+            "url": "/quotes/frank_hague_187360"
+        },
+        "topics": [
+            {
+                "name": "American",
+                "url": "/topics/american"
+            },
+            {
+                "name": "Communist",
+                "url": "/topics/communist"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    }
+]

@@ -1,0 +1,200 @@
+[
+    {
+        "url": "/quotes/max_planck_211830?src=t_scientific_truth",
+        "quote": "A new scientific truth does not triumph by convincing its opponents and making them see the light, but rather because its opponents eventually die, and a new generation grows up that is familiar with it.",
+        "author": {
+            "name": "Max Planck",
+            "url": "/authors/max_planck"
+        },
+        "topics": [
+            {
+                "name": "Generation",
+                "url": "/topics/generation"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Grows",
+                "url": "/topics/grows"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nathan_myhrvold_541408?src=t_scientific_truth",
+        "quote": "Elections, for their part, are typically popularity contests rather than measures of candidates' relative competency or effectiveness. Imagine if scientific truth were determined according to which scientist was most popular. To be successful, scientists would have to be charismatic and attractive - and human knowledge would suffer terribly.",
+        "author": {
+            "name": "Nathan Myhrvold",
+            "url": "/authors/nathan_myhrvold"
+        },
+        "topics": [
+            {
+                "name": "Rather",
+                "url": "/topics/rather"
+            },
+            {
+                "name": "Scientist",
+                "url": "/topics/scientist"
+            },
+            {
+                "name": "Part",
+                "url": "/topics/part"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/max_planck_101765?src=t_scientific_truth",
+        "quote": "A scientific truth does not triumph by convincing its opponents and making them see the light, but rather because its opponents eventually die and a new generation grows up that is familiar with it.",
+        "author": {
+            "name": "Max Planck",
+            "url": "/authors/max_planck"
+        },
+        "topics": [
+            {
+                "name": "Science",
+                "url": "/topics/science"
+            },
+            {
+                "name": "Generation",
+                "url": "/topics/generation"
+            },
+            {
+                "name": "Grows",
+                "url": "/topics/grows"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/horace_mann_157467?src=t_scientific_truth",
+        "quote": "Scientific truth is marvelous, but moral truth is divine and whoever breathes its air and walks by its light has found the lost paradise.",
+        "author": {
+            "name": "Horace Mann",
+            "url": "/authors/horace_mann"
+        },
+        "topics": [
+            {
+                "name": "Truth",
+                "url": "/topics/truth"
+            },
+            {
+                "name": "Air",
+                "url": "/topics/air"
+            },
+            {
+                "name": "Scientific",
+                "url": "/topics/scientific"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_douglass_253664?src=t_scientific_truth",
+        "quote": "Indeed, scientific truth by consensus has had a uniformly bad history.",
+        "author": {
+            "name": "David Douglass",
+            "url": "/authors/david_douglass"
+        },
+        "topics": [
+            {
+                "name": "Truth",
+                "url": "/topics/truth"
+            },
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            },
+            {
+                "name": "Consensus",
+                "url": "/topics/consensus"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_edward_woodberry_533188?src=t_scientific_truth",
+        "quote": "We foresee no limit to scientific advancement in the future, and in scientific truth there is nothing dead; science is always a living and growing body of knowledge; but art on the contrary has many times run its course to an end, and exhausted its vital power.",
+        "author": {
+            "name": "George Edward Woodberry",
+            "url": "/authors/george_edward_woodberry"
+        },
+        "topics": [
+            {
+                "name": "Dead",
+                "url": "/topics/dead"
+            },
+            {
+                "name": "Exhausted",
+                "url": "/topics/exhausted"
+            },
+            {
+                "name": "Scientific",
+                "url": "/topics/scientific"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/louis_agassiz_170231?src=t_scientific_truth",
+        "quote": "Every scientific truth goes through three states: first, people say it conflicts with the Bible; next, they say it has been discovered before; lastly, they say they always believed it.",
+        "author": {
+            "name": "Louis Agassiz",
+            "url": "/authors/louis_agassiz"
+        },
+        "topics": [
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lewis_thomas_470013?src=t_scientific_truth",
+        "quote": "The most solid piece of scientific truth I know of is that we are profoundly ignorant about nature.",
+        "author": {
+            "name": "Lewis Thomas",
+            "url": "/authors/lewis_thomas"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "Solid",
+                "url": "/topics/solid"
+            },
+            {
+                "name": "Profoundly",
+                "url": "/topics/profoundly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brian_aldiss_181116?src=t_scientific_truth",
+        "quote": "I can't help believing that these things that come from the subconscious mind have a sort of truth to them. It may not be a scientific truth, but it's psychological truth.",
+        "author": {
+            "name": "Brian Aldiss",
+            "url": "/authors/brian_aldiss"
+        },
+        "topics": [
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Psychological",
+                "url": "/topics/psychological"
+            }
+        ]
+    }
+]

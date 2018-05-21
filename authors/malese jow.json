@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/malese_jow_656325",
+        "quote": "I'm a 'Harry Potter' fan, a 'Twilight' fan, and I think 'The Hunger Games' surpasses them all.",
+        "author": {
+            "name": "Malese Jow",
+            "url": "/quotes/malese_jow_656325"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Harry",
+                "url": "/topics/harry"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/malese_jow_571862",
+        "quote": "When people first meet me, they're always like, 'What are you?' as far as ethnicity. And I've been pegged as 'ethnically ambiguous.'",
+        "author": {
+            "name": "Malese Jow",
+            "url": "/quotes/malese_jow_571862"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Ethnicity",
+                "url": "/topics/ethnicity"
+            }
+        ]
+    }
+]

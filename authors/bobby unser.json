@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/bobby_unser_126431",
+        "quote": "Success is where preparation and opportunity meet.",
+        "author": {
+            "name": "Bobby Unser",
+            "url": "/quotes/bobby_unser_126431"
+        },
+        "topics": [
+            {
+                "name": "Sports",
+                "url": "/topics/sports"
+            },
+            {
+                "name": "Meet",
+                "url": "/topics/meet"
+            },
+            {
+                "name": "Success Is",
+                "url": "/topics/success_is"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bobby_unser_269160",
+        "quote": "Yellow usually means it's not that serious.",
+        "author": {
+            "name": "Bobby Unser",
+            "url": "/quotes/bobby_unser_269160"
+        },
+        "topics": [
+            {
+                "name": "Yellow",
+                "url": "/topics/yellow"
+            },
+            {
+                "name": "Serious",
+                "url": "/topics/serious"
+            },
+            {
+                "name": "Means",
+                "url": "/topics/means"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bobby_unser_381135",
+        "quote": "Nobody remembers who finished second but the guy who finished second.",
+        "author": {
+            "name": "Bobby Unser",
+            "url": "/quotes/bobby_unser_381135"
+        },
+        "topics": [
+            {
+                "name": "Finished",
+                "url": "/topics/finished"
+            },
+            {
+                "name": "Guy",
+                "url": "/topics/guy"
+            },
+            {
+                "name": "Remembers",
+                "url": "/topics/remembers"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bobby_unser_269158",
+        "quote": "I feel honesty always works.",
+        "author": {
+            "name": "Bobby Unser",
+            "url": "/quotes/bobby_unser_269158"
+        },
+        "topics": [
+            {
+                "name": "Honesty",
+                "url": "/topics/honesty"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Works",
+                "url": "/topics/works"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bobby_unser_388801",
+        "quote": "Desire! That's the one secret of every man's career. Not education. Not being born with hidden talents. Desire.",
+        "author": {
+            "name": "Bobby Unser",
+            "url": "/quotes/bobby_unser_388801"
+        },
+        "topics": [
+            {
+                "name": "Education",
+                "url": "/topics/education"
+            },
+            {
+                "name": "Career",
+                "url": "/topics/career"
+            },
+            {
+                "name": "Desire",
+                "url": "/topics/desire"
+            }
+        ]
+    }
+]

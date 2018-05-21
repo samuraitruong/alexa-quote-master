@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/max_ernst_187213",
+        "quote": "All good ideas arrive by chance.",
+        "author": {
+            "name": "Max Ernst",
+            "url": "/quotes/max_ernst_187213"
+        },
+        "topics": [
+            {
+                "name": "Chance",
+                "url": "/topics/chance"
+            },
+            {
+                "name": "Good Ideas",
+                "url": "/topics/good_ideas"
+            },
+            {
+                "name": "Arrive",
+                "url": "/topics/arrive"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/max_ernst_187214",
+        "quote": "Painting is not for me either decorative amusement, or the plastic invention of felt reality; it must be every time: invention, discovery, revelation.",
+        "author": {
+            "name": "Max Ernst",
+            "url": "/quotes/max_ernst_187214"
+        },
+        "topics": [
+            {
+                "name": "Revelation",
+                "url": "/topics/revelation"
+            },
+            {
+                "name": "Felt",
+                "url": "/topics/felt"
+            },
+            {
+                "name": "Decorative",
+                "url": "/topics/decorative"
+            }
+        ]
+    }
+]

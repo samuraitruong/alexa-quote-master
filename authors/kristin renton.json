@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/kristin_renton_576963",
+        "quote": "I love playing the bad girl.",
+        "author": {
+            "name": "Kristin Renton",
+            "url": "/quotes/kristin_renton_576963"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            },
+            {
+                "name": "I Love",
+                "url": "/topics/i_love"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kristin_renton_576964",
+        "quote": "I feel like any time you, as an actor, can be surrounded by other amazing actors, you can't do anything but grow.",
+        "author": {
+            "name": "Kristin Renton",
+            "url": "/quotes/kristin_renton_576964"
+        },
+        "topics": [
+            {
+                "name": "Grow",
+                "url": "/topics/grow"
+            },
+            {
+                "name": "Surrounded",
+                "url": "/topics/surrounded"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    }
+]

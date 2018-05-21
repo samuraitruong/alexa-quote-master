@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/james_jarrell_pickle_234770",
+        "quote": "He was always testing you. He was always testing his power.",
+        "author": {
+            "name": "James Jarrell Pickle",
+            "url": "/quotes/james_jarrell_pickle_234770"
+        },
+        "topics": [
+            {
+                "name": "Testing",
+                "url": "/topics/testing"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_jarrell_pickle_234772",
+        "quote": "If you were a public official, you had to be accountable, and you had to be reachable.",
+        "author": {
+            "name": "James Jarrell Pickle",
+            "url": "/quotes/james_jarrell_pickle_234772"
+        },
+        "topics": [
+            {
+                "name": "Accountable",
+                "url": "/topics/accountable"
+            },
+            {
+                "name": "Public",
+                "url": "/topics/public"
+            },
+            {
+                "name": "Were",
+                "url": "/topics/were"
+            }
+        ]
+    }
+]

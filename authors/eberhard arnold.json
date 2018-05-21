@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/eberhard_arnold_207383",
+        "quote": "Only those who look with the eyes of children can lose themselves in the object of their wonder.",
+        "author": {
+            "name": "Eberhard Arnold",
+            "url": "/quotes/eberhard_arnold_207383"
+        },
+        "topics": [
+            {
+                "name": "Children",
+                "url": "/topics/children"
+            },
+            {
+                "name": "Lose",
+                "url": "/topics/lose"
+            },
+            {
+                "name": "Themselves",
+                "url": "/topics/themselves"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eberhard_arnold_207384",
+        "quote": "Every child is a thought in the mind of God, and our task is to recognize this thought and help it toward completion.",
+        "author": {
+            "name": "Eberhard Arnold",
+            "url": "/quotes/eberhard_arnold_207384"
+        },
+        "topics": [
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Help",
+                "url": "/topics/help"
+            },
+            {
+                "name": "Completion",
+                "url": "/topics/completion"
+            }
+        ]
+    }
+]

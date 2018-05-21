@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/james_best_700500",
+        "quote": "I did meet 'The Everly Brothers' once, and we talked for awhile. Then we figured out we were first cousins! My late mother was the sister of Don and Phil's father, Ike Everly.",
+        "author": {
+            "name": "James Best",
+            "url": "/quotes/james_best_700500"
+        },
+        "topics": [
+            {
+                "name": "Father",
+                "url": "/topics/father"
+            },
+            {
+                "name": "Brothers",
+                "url": "/topics/brothers"
+            },
+            {
+                "name": "Ike",
+                "url": "/topics/ike"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_best_700498",
+        "quote": "When I was putting the 'Best of Hollywood' book together, I sat down and added up just the list of Westerns I've done, and it came to well over 200.",
+        "author": {
+            "name": "James Best",
+            "url": "/quotes/james_best_700498"
+        },
+        "topics": [
+            {
+                "name": "Hollywood",
+                "url": "/topics/hollywood"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Putting",
+                "url": "/topics/putting"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_best_700499",
+        "quote": "I do mostly Southern landscapes. I do beautiful old barns that are falling down, and beautiful trees reflecting in the water. My lovely wife Dorothy and I travel quite a bit, so I take pictures of different things that inspire me to come home, when I come home here in North Carolina, into my art studio and paint these things.",
+        "author": {
+            "name": "James Best",
+            "url": "/quotes/james_best_700499"
+        },
+        "topics": [
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            },
+            {
+                "name": "Southern",
+                "url": "/topics/southern"
+            },
+            {
+                "name": "Studio",
+                "url": "/topics/studio"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_best_700501",
+        "quote": "I started painting when I was in high school.",
+        "author": {
+            "name": "James Best",
+            "url": "/quotes/james_best_700501"
+        },
+        "topics": [
+            {
+                "name": "School",
+                "url": "/topics/school"
+            },
+            {
+                "name": "Painting",
+                "url": "/topics/painting"
+            },
+            {
+                "name": "High",
+                "url": "/topics/high"
+            }
+        ]
+    }
+]

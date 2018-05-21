@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/alice_b_toklas_112254",
+        "quote": "What is sauce for the goose may be sauce for the gander but is not necessarily sauce for the chicken, the duck, the turkey or the guinea hen.",
+        "author": {
+            "name": "Alice B. Toklas",
+            "url": "/quotes/alice_b_toklas_112254"
+        },
+        "topics": [
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Chicken",
+                "url": "/topics/chicken"
+            },
+            {
+                "name": "Hen",
+                "url": "/topics/hen"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alice_b_toklas_112253",
+        "quote": "This has been a most wonderful evening. Gertrude has said things tonight it will take her 10 years to understand.",
+        "author": {
+            "name": "Alice B. Toklas",
+            "url": "/quotes/alice_b_toklas_112253"
+        },
+        "topics": [
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Tonight",
+                "url": "/topics/tonight"
+            }
+        ]
+    }
+]

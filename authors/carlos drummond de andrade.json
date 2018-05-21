@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/carlos_drummond_de_andrad_401542",
+        "quote": "Easy is to occupy a place in a telephone book. Difficult is to occupy someone's heart; know that you're really loved.",
+        "author": {
+            "name": "Carlos Drummond de Andrade",
+            "url": "/quotes/carlos_drummond_de_andrad_401542"
+        },
+        "topics": [
+            {
+                "name": "Loved",
+                "url": "/topics/loved"
+            },
+            {
+                "name": "Someone",
+                "url": "/topics/someone"
+            },
+            {
+                "name": "Occupy",
+                "url": "/topics/occupy"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/carlos_drummond_de_andrad_681311",
+        "quote": "Poetry is necessary, but is the poet?",
+        "author": {
+            "name": "Carlos Drummond de Andrade",
+            "url": "/quotes/carlos_drummond_de_andrad_681311"
+        },
+        "topics": [
+            {
+                "name": "Poetry",
+                "url": "/topics/poetry"
+            },
+            {
+                "name": "Poet",
+                "url": "/topics/poet"
+            },
+            {
+                "name": "Necessary",
+                "url": "/topics/necessary"
+            }
+        ]
+    }
+]

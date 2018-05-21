@@ -1,0 +1,134 @@
+[
+    {
+        "url": "/quotes/feng_zhang_714700",
+        "quote": "Brain cells are normally not sensitive to light. So by introducing light-sensitive proteins into specific types of neurons, we can now selectively control that specific type of neuron by shining light in the brain.",
+        "author": {
+            "name": "Feng Zhang",
+            "url": "/quotes/feng_zhang_714700"
+        },
+        "topics": [
+            {
+                "name": "Control",
+                "url": "/topics/control"
+            },
+            {
+                "name": "Types",
+                "url": "/topics/types"
+            },
+            {
+                "name": "Introducing",
+                "url": "/topics/introducing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/feng_zhang_714703",
+        "quote": "There may be an evolutionary advantage for schizophrenia genes during famine.",
+        "author": {
+            "name": "Feng Zhang",
+            "url": "/quotes/feng_zhang_714703"
+        },
+        "topics": [
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Genes",
+                "url": "/topics/genes"
+            },
+            {
+                "name": "Advantage",
+                "url": "/topics/advantage"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/feng_zhang_714702",
+        "quote": "There are still many challenges and questions that need to be addressed before optogenetics can be applied in humans for therapeutic uses.",
+        "author": {
+            "name": "Feng Zhang",
+            "url": "/quotes/feng_zhang_714702"
+        },
+        "topics": [
+            {
+                "name": "Challenges",
+                "url": "/topics/challenges"
+            },
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/feng_zhang_714699",
+        "quote": "The ideal way to study the property of different types of neurons is to control individual types of cells independently and see what happens when you alter one type of cell. Optogenetics helps to realize this goal.",
+        "author": {
+            "name": "Feng Zhang",
+            "url": "/quotes/feng_zhang_714699"
+        },
+        "topics": [
+            {
+                "name": "Study",
+                "url": "/topics/study"
+            },
+            {
+                "name": "Type",
+                "url": "/topics/type"
+            },
+            {
+                "name": "Cell",
+                "url": "/topics/cell"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/feng_zhang_714704",
+        "quote": "If someone had protected the HTML language for making Web pages, then we wouldn't have the World Wide Web.",
+        "author": {
+            "name": "Feng Zhang",
+            "url": "/quotes/feng_zhang_714704"
+        },
+        "topics": [
+            {
+                "name": "Making",
+                "url": "/topics/making"
+            },
+            {
+                "name": "World Wide Web",
+                "url": "/topics/world_wide_web"
+            },
+            {
+                "name": "Wide",
+                "url": "/topics/wide"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/feng_zhang_714701",
+        "quote": "Studies by many labs have already started to identify specific circuits of neurons involved in normal cognitive function like memory and learning, as well as disease processes such as Parkinson's disease, depression, and autism.",
+        "author": {
+            "name": "Feng Zhang",
+            "url": "/quotes/feng_zhang_714701"
+        },
+        "topics": [
+            {
+                "name": "Memory",
+                "url": "/topics/memory"
+            },
+            {
+                "name": "Normal",
+                "url": "/topics/normal"
+            },
+            {
+                "name": "Processes",
+                "url": "/topics/processes"
+            }
+        ]
+    }
+]

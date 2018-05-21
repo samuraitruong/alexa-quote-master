@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/jimmy_griffin_333082",
+        "quote": "I went out to visit Dorsey Burnette, after I graduated high school.",
+        "author": {
+            "name": "Jimmy Griffin",
+            "url": "/quotes/jimmy_griffin_333082"
+        },
+        "topics": [
+            {
+                "name": "School",
+                "url": "/topics/school"
+            },
+            {
+                "name": "High",
+                "url": "/topics/high"
+            },
+            {
+                "name": "Graduated",
+                "url": "/topics/graduated"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jimmy_griffin_333084",
+        "quote": "Dorsey played the upright bass and steel guitar, as well as acoustic guitar. Johnny played acoustic guitar and together they were fabulous songwriters and singers.",
+        "author": {
+            "name": "Jimmy Griffin",
+            "url": "/quotes/jimmy_griffin_333084"
+        },
+        "topics": [
+            {
+                "name": "Steel",
+                "url": "/topics/steel"
+            },
+            {
+                "name": "Singers",
+                "url": "/topics/singers"
+            },
+            {
+                "name": "Acoustic",
+                "url": "/topics/acoustic"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jimmy_griffin_333085",
+        "quote": "Steve produced Girls Grow Up Faster Than Boys and one more. Then he and I wrote a few songs together and became good friends. He was a talented producer.",
+        "author": {
+            "name": "Jimmy Griffin",
+            "url": "/quotes/jimmy_griffin_333085"
+        },
+        "topics": [
+            {
+                "name": "Grow",
+                "url": "/topics/grow"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Became",
+                "url": "/topics/became"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jimmy_griffin_333087",
+        "quote": "I produced a song for Bobby Vee called Get The Message.",
+        "author": {
+            "name": "Jimmy Griffin",
+            "url": "/quotes/jimmy_griffin_333087"
+        },
+        "topics": [
+            {
+                "name": "Song",
+                "url": "/topics/song"
+            },
+            {
+                "name": "Get",
+                "url": "/topics/get"
+            },
+            {
+                "name": "Bobby",
+                "url": "/topics/bobby"
+            }
+        ]
+    }
+]

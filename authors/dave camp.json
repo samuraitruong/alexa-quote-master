@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/dave_camp_671777",
+        "quote": "Serving in Congress is the great honor of my professional life. I am deeply grateful to the people of the 4th Congressional District for placing their trust in me.",
+        "author": {
+            "name": "Dave Camp",
+            "url": "/quotes/dave_camp_671777"
+        },
+        "topics": [
+            {
+                "name": "Trust",
+                "url": "/topics/trust"
+            },
+            {
+                "name": "Grateful",
+                "url": "/topics/grateful"
+            },
+            {
+                "name": "Congress",
+                "url": "/topics/congress"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dave_camp_671778",
+        "quote": "I'm much more interested in raising revenues for businesses than for the government.",
+        "author": {
+            "name": "Dave Camp",
+            "url": "/quotes/dave_camp_671778"
+        },
+        "topics": [
+            {
+                "name": "Government",
+                "url": "/topics/government"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Raising",
+                "url": "/topics/raising"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dave_camp_671779",
+        "quote": "I'd hate to paint with a broad brush, but many Democrats don't feel that we have a crisis in entitlements, and Republicans do.",
+        "author": {
+            "name": "Dave Camp",
+            "url": "/quotes/dave_camp_671779"
+        },
+        "topics": [
+            {
+                "name": "Crisis",
+                "url": "/topics/crisis"
+            },
+            {
+                "name": "Democrats",
+                "url": "/topics/democrats"
+            },
+            {
+                "name": "Brush",
+                "url": "/topics/brush"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/sarah_louise_delany_134567",
+        "quote": "Life is short, and it is up to you to make it sweet.",
+        "author": {
+            "name": "Sarah Louise Delany",
+            "url": "/quotes/sarah_louise_delany_134567"
+        },
+        "topics": [
+            {
+                "name": "Life Is Short",
+                "url": "/topics/life_is_short"
+            },
+            {
+                "name": "Short",
+                "url": "/topics/short"
+            },
+            {
+                "name": "Up",
+                "url": "/topics/up"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sarah_louise_delany_135080",
+        "quote": "I never let prejudice stop me from what I wanted to do in this life.",
+        "author": {
+            "name": "Sarah Louise Delany",
+            "url": "/quotes/sarah_louise_delany_135080"
+        },
+        "topics": [
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Stop",
+                "url": "/topics/stop"
+            },
+            {
+                "name": "Wanted",
+                "url": "/topics/wanted"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sarah_louise_delany_134568",
+        "quote": "In our dreams we are always young.",
+        "author": {
+            "name": "Sarah Louise Delany",
+            "url": "/quotes/sarah_louise_delany_134568"
+        },
+        "topics": [
+            {
+                "name": "Dreams",
+                "url": "/topics/dreams"
+            },
+            {
+                "name": "Young",
+                "url": "/topics/young"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            }
+        ]
+    }
+]

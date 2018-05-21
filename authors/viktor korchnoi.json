@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/viktor_korchnoi_180920",
+        "quote": "The human element, the human flaw and the human nobility - those are the reasons that chess matches are won or lost.",
+        "author": {
+            "name": "Viktor Korchnoi",
+            "url": "/quotes/viktor_korchnoi_180920"
+        },
+        "topics": [
+            {
+                "name": "Nobility",
+                "url": "/topics/nobility"
+            },
+            {
+                "name": "Flaw",
+                "url": "/topics/flaw"
+            },
+            {
+                "name": "Reasons",
+                "url": "/topics/reasons"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/viktor_korchnoi_180917",
+        "quote": "Every time I win a tournament I have to think that there is something wrong with modern chess.",
+        "author": {
+            "name": "Viktor Korchnoi",
+            "url": "/quotes/viktor_korchnoi_180917"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Chess",
+                "url": "/topics/chess"
+            },
+            {
+                "name": "Modern",
+                "url": "/topics/modern"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/viktor_korchnoi_180918",
+        "quote": "I don't study; I create.",
+        "author": {
+            "name": "Viktor Korchnoi",
+            "url": "/quotes/viktor_korchnoi_180918"
+        },
+        "topics": [
+            {
+                "name": "Create",
+                "url": "/topics/create"
+            },
+            {
+                "name": "Study",
+                "url": "/topics/study"
+            }
+        ]
+    }
+]

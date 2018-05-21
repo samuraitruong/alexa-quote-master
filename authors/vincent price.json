@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/vincent_price_184281",
+        "quote": "A man who limits his interests, limits his life.",
+        "author": {
+            "name": "Vincent Price",
+            "url": "/quotes/vincent_price_184281"
+        },
+        "topics": [
+            {
+                "name": "Man",
+                "url": "/topics/man"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            },
+            {
+                "name": "Interests",
+                "url": "/topics/interests"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/vincent_price_184282",
+        "quote": "It's as much fun to scare as to be scared.",
+        "author": {
+            "name": "Vincent Price",
+            "url": "/quotes/vincent_price_184282"
+        },
+        "topics": [
+            {
+                "name": "Fun",
+                "url": "/topics/fun"
+            },
+            {
+                "name": "Scare",
+                "url": "/topics/scare"
+            },
+            {
+                "name": "Much",
+                "url": "/topics/much"
+            }
+        ]
+    }
+]

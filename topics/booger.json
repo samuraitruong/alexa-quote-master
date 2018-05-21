@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/tre_cool_211227?src=t_booger",
+        "quote": "It's not how you pick your nose, it's where you put that booger that counts.",
+        "author": {
+            "name": "Tre Cool",
+            "url": "/authors/tre_cool"
+        },
+        "topics": [
+            {
+                "name": "Nose",
+                "url": "/topics/nose"
+            },
+            {
+                "name": "How",
+                "url": "/topics/how"
+            },
+            {
+                "name": "Pick",
+                "url": "/topics/pick"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/leah_remini_220110?src=t_booger",
+        "quote": "But inside, I'm going, 'Oh my God, is my zipper up? Do I have a booger in my nose?' That's my inner monologue.",
+        "author": {
+            "name": "Leah Remini",
+            "url": "/authors/leah_remini"
+        },
+        "topics": [
+            {
+                "name": "Nose",
+                "url": "/topics/nose"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Oh My God",
+                "url": "/topics/oh_my_god"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/atticus_shaffer_507226?src=t_booger",
+        "quote": "I was just sitting in Target, just getting over my cold. I blew my nose and I see these people looking at me and kind of whispering and pointing. Finally, I went, 'Is everything okay? Did I do something wrong? Do I have a booger on my face and no one's telling me?' I'm just not used to it.",
+        "author": {
+            "name": "Atticus Shaffer",
+            "url": "/authors/atticus_shaffer"
+        },
+        "topics": [
+            {
+                "name": "Cold",
+                "url": "/topics/cold"
+            },
+            {
+                "name": "I See",
+                "url": "/topics/i_see"
+            },
+            {
+                "name": "Telling",
+                "url": "/topics/telling"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_joyce_266447?src=t_booger",
+        "quote": "I've always liked getting away with just a little bit of what you're not supposed to. Like my first book, Billy's Booger, got me in trouble with the principal's office.",
+        "author": {
+            "name": "William Joyce",
+            "url": "/authors/william_joyce"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            },
+            {
+                "name": "Billy",
+                "url": "/topics/billy"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_joyce_266458?src=t_booger",
+        "quote": "The first book I ever wrote was in fourth grade and it was called 'Billy's Booger.' It was an autobiographical piece about a kid who was really bad at math.",
+        "author": {
+            "name": "William Joyce",
+            "url": "/authors/william_joyce"
+        },
+        "topics": [
+            {
+                "name": "Book",
+                "url": "/topics/book"
+            },
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            },
+            {
+                "name": "Billy",
+                "url": "/topics/billy"
+            }
+        ]
+    }
+]

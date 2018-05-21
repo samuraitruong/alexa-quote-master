@@ -1,0 +1,134 @@
+[
+    {
+        "url": "/quotes/thomas_jefferson_125076?src=t_debarred",
+        "quote": "No freeman shall be debarred the use of arms.",
+        "author": {
+            "name": "Thomas Jefferson",
+            "url": "/authors/thomas_jefferson"
+        },
+        "topics": [
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            },
+            {
+                "name": "Arms",
+                "url": "/topics/arms"
+            },
+            {
+                "name": "Shall",
+                "url": "/topics/shall"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/hernan_cortes_254129?src=t_debarred",
+        "quote": "The priests are debarred from female society, nor is any woman permitted to enter the religious houses.",
+        "author": {
+            "name": "Hernan Cortes",
+            "url": "/authors/hernan_cortes"
+        },
+        "topics": [
+            {
+                "name": "Woman",
+                "url": "/topics/woman"
+            },
+            {
+                "name": "Religious",
+                "url": "/topics/religious"
+            },
+            {
+                "name": "Priests",
+                "url": "/topics/priests"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/muhammad_ali_jinnah_751286?src=t_debarred",
+        "quote": "I see no reason why the Shias should be debarred from having their voice in the elected bodies and governmental institutions in any matter which affect the Shias. We must so organise the Muslim League that justice is done to every sect and section inside it.",
+        "author": {
+            "name": "Muhammad Ali Jinnah",
+            "url": "/authors/muhammad_ali_jinnah"
+        },
+        "topics": [
+            {
+                "name": "Voice",
+                "url": "/topics/voice"
+            },
+            {
+                "name": "Reason",
+                "url": "/topics/reason"
+            },
+            {
+                "name": "Muslim",
+                "url": "/topics/muslim"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joseph_addison_148387?src=t_debarred",
+        "quote": "An ostentatious man will rather relate a blunder or an absurdity he has committed, than be debarred from talking of his own dear person.",
+        "author": {
+            "name": "Joseph Addison",
+            "url": "/authors/joseph_addison"
+        },
+        "topics": [
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Rather",
+                "url": "/topics/rather"
+            },
+            {
+                "name": "Committed",
+                "url": "/topics/committed"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_ellery_channing_106923?src=t_debarred",
+        "quote": "The mind, in proportion as it is cut off from free communication with nature, with revelation, with God, with itself, loses its life, just as the body droops when debarred from the air and the cheering light from heaven.",
+        "author": {
+            "name": "William Ellery Channing",
+            "url": "/authors/william_ellery_channing"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Cut",
+                "url": "/topics/cut"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mary_astell_409953?src=t_debarred",
+        "quote": "Women are from their very infancy debarred those Advantages with the want of which they are afterwards reproached.",
+        "author": {
+            "name": "Mary Astell",
+            "url": "/authors/mary_astell"
+        },
+        "topics": [
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Afterwards",
+                "url": "/topics/afterwards"
+            }
+        ]
+    }
+]

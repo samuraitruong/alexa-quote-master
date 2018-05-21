@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/clarence_stein_241184",
+        "quote": "A small house must depend on its grouping with other houses for its beauty, and for the preservation of light air and the maximum of surrounding open space.",
+        "author": {
+            "name": "Clarence Stein",
+            "url": "/quotes/clarence_stein_241184"
+        },
+        "topics": [
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Surrounding",
+                "url": "/topics/surrounding"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/clarence_stein_241183",
+        "quote": "The house itself is of minor importance. Its relation to the community is the thing that really counts.",
+        "author": {
+            "name": "Clarence Stein",
+            "url": "/quotes/clarence_stein_241183"
+        },
+        "topics": [
+            {
+                "name": "Importance",
+                "url": "/topics/importance"
+            },
+            {
+                "name": "Itself",
+                "url": "/topics/itself"
+            },
+            {
+                "name": "Minor",
+                "url": "/topics/minor"
+            }
+        ]
+    }
+]

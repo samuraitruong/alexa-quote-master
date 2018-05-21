@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/eric_berne_107161",
+        "quote": "The moment a little boy is concerned with which is a jay and which is a sparrow, he can no longer see the birds or hear them sing.",
+        "author": {
+            "name": "Eric Berne",
+            "url": "/quotes/eric_berne_107161"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Jay",
+                "url": "/topics/jay"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eric_berne_133144",
+        "quote": "Games are a compromise between intimacy and keeping intimacy away.",
+        "author": {
+            "name": "Eric Berne",
+            "url": "/quotes/eric_berne_133144"
+        },
+        "topics": [
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            },
+            {
+                "name": "Intimacy",
+                "url": "/topics/intimacy"
+            },
+            {
+                "name": "Keeping",
+                "url": "/topics/keeping"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eric_berne_122277",
+        "quote": "A loser doesn't know what he'll do if he loses, but talks about what he'll do if he wins, and a winner doesn't talk about what he'll do if he wins, but knows what he'll do if he loses.",
+        "author": {
+            "name": "Eric Berne",
+            "url": "/quotes/eric_berne_122277"
+        },
+        "topics": [
+            {
+                "name": "Winner",
+                "url": "/topics/winner"
+            },
+            {
+                "name": "Wins",
+                "url": "/topics/wins"
+            },
+            {
+                "name": "Talks",
+                "url": "/topics/talks"
+            }
+        ]
+    }
+]

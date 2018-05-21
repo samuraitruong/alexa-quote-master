@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/rosalyn_s_yalow_126147",
+        "quote": "The excitement of learning separates youth from old age. As long as you're learning you're not old.",
+        "author": {
+            "name": "Rosalyn S. Yalow",
+            "url": "/quotes/rosalyn_s_yalow_126147"
+        },
+        "topics": [
+            {
+                "name": "Learning",
+                "url": "/topics/learning"
+            },
+            {
+                "name": "Old",
+                "url": "/topics/old"
+            },
+            {
+                "name": "Separates",
+                "url": "/topics/separates"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rosalyn_s_yalow_166938",
+        "quote": "The failure of women to have reached positions of leadership has been due in large part to social and professional discrimination.",
+        "author": {
+            "name": "Rosalyn S. Yalow",
+            "url": "/quotes/rosalyn_s_yalow_166938"
+        },
+        "topics": [
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Large",
+                "url": "/topics/large"
+            },
+            {
+                "name": "Social",
+                "url": "/topics/social"
+            }
+        ]
+    }
+]

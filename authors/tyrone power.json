@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/tyrone_power_187217",
+        "quote": "I'm sick of all these knights in shining armor parts, I want to do something worthwhile like plays and films that have something to say.",
+        "author": {
+            "name": "Tyrone Power",
+            "url": "/quotes/tyrone_power_187217"
+        },
+        "topics": [
+            {
+                "name": "Knights",
+                "url": "/topics/knights"
+            },
+            {
+                "name": "Films",
+                "url": "/topics/films"
+            },
+            {
+                "name": "Plays",
+                "url": "/topics/plays"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tyrone_power_187218",
+        "quote": "I've done an awful lot of stuff that's a monument to public patience.",
+        "author": {
+            "name": "Tyrone Power",
+            "url": "/quotes/tyrone_power_187218"
+        },
+        "topics": [
+            {
+                "name": "Lot",
+                "url": "/topics/lot"
+            },
+            {
+                "name": "Public",
+                "url": "/topics/public"
+            },
+            {
+                "name": "Awful Lot",
+                "url": "/topics/awful_lot"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/enrique_vilamatas_523703",
+        "quote": "I long to journey endlessly, always in search of something new. Always alert.",
+        "author": {
+            "name": "Enrique Vila-Matas",
+            "url": "/quotes/enrique_vilamatas_523703"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Endlessly",
+                "url": "/topics/endlessly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/enrique_vilamatas_523705",
+        "quote": "As I write, I control my anxiety and anguish thanks to the invaluable aid of irony and humor. But every night I am subdued by an anxiety that knows no irony, and I must wait until the next day to rediscover the blend of anguish and humor that characterizes my writing and that generates my style.",
+        "author": {
+            "name": "Enrique Vila-Matas",
+            "url": "/quotes/enrique_vilamatas_523705"
+        },
+        "topics": [
+            {
+                "name": "Wait",
+                "url": "/topics/wait"
+            },
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            },
+            {
+                "name": "Invaluable",
+                "url": "/topics/invaluable"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/enrique_vilamatas_523704",
+        "quote": "When it grows dark, we always need someone. This thought, the product of anxiety, only comes to me in the evenings, just when I'm about to end my writerly explorations.",
+        "author": {
+            "name": "Enrique Vila-Matas",
+            "url": "/quotes/enrique_vilamatas_523704"
+        },
+        "topics": [
+            {
+                "name": "Product",
+                "url": "/topics/product"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Grows",
+                "url": "/topics/grows"
+            }
+        ]
+    }
+]

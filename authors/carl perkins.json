@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/carl_perkins_183313",
+        "quote": "If it weren't for the rocks in its bed, the stream would have no song.",
+        "author": {
+            "name": "Carl Perkins",
+            "url": "/quotes/carl_perkins_183313"
+        },
+        "topics": [
+            {
+                "name": "Song",
+                "url": "/topics/song"
+            },
+            {
+                "name": "Bed",
+                "url": "/topics/bed"
+            },
+            {
+                "name": "Rocks",
+                "url": "/topics/rocks"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/carl_perkins_363627",
+        "quote": "If it helped you get your music off the ground, I'm glad you done it.",
+        "author": {
+            "name": "Carl Perkins",
+            "url": "/quotes/carl_perkins_363627"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "Glad",
+                "url": "/topics/glad"
+            },
+            {
+                "name": "Get",
+                "url": "/topics/get"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/carl_perkins_183316",
+        "quote": "That rockabilly sound wasn't as simple as I thought it was.",
+        "author": {
+            "name": "Carl Perkins",
+            "url": "/quotes/carl_perkins_183316"
+        },
+        "topics": [
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Sound",
+                "url": "/topics/sound"
+            },
+            {
+                "name": "Rockabilly",
+                "url": "/topics/rockabilly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/carl_perkins_183315",
+        "quote": "After all those days in the cotton fields, the dreams came true on a gold record on a piece of wood. It's in my den where I can look at it every day. I wear it out lookin' at it.",
+        "author": {
+            "name": "Carl Perkins",
+            "url": "/quotes/carl_perkins_183315"
+        },
+        "topics": [
+            {
+                "name": "Every Day",
+                "url": "/topics/every_day"
+            },
+            {
+                "name": "Wear",
+                "url": "/topics/wear"
+            },
+            {
+                "name": "Cotton",
+                "url": "/topics/cotton"
+            }
+        ]
+    }
+]

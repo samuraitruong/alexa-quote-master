@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/ward_mcallister_230210",
+        "quote": "A man with a million dollars can be as happy nowadays as though he were rich.",
+        "author": {
+            "name": "Ward McAllister",
+            "url": "/quotes/ward_mcallister_230210"
+        },
+        "topics": [
+            {
+                "name": "Million",
+                "url": "/topics/million"
+            },
+            {
+                "name": "Million Dollars",
+                "url": "/topics/million_dollars"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ward_mcallister_230208",
+        "quote": "A dinner invitation, once accepted, is a sacred obligation. If you die before the dinner takes place, your executor must attend.",
+        "author": {
+            "name": "Ward McAllister",
+            "url": "/quotes/ward_mcallister_230208"
+        },
+        "topics": [
+            {
+                "name": "Die",
+                "url": "/topics/die"
+            },
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            },
+            {
+                "name": "Attend",
+                "url": "/topics/attend"
+            }
+        ]
+    }
+]

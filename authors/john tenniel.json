@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/john_tenniel_346871",
+        "quote": "Well, I get my subject on Wednesday night; I think it out carefully on Thursday, and make my rough sketch; on Friday morning I begin, and stick to it all day, with my nose well down on the block.",
+        "author": {
+            "name": "John Tenniel",
+            "url": "/quotes/john_tenniel_346871"
+        },
+        "topics": [
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Rough",
+                "url": "/topics/rough"
+            },
+            {
+                "name": "Subject",
+                "url": "/topics/subject"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_tenniel_348322",
+        "quote": "I carry out my work thus: I never use models or nature for the figure, drapery or anything else.",
+        "author": {
+            "name": "John Tenniel",
+            "url": "/quotes/john_tenniel_348322"
+        },
+        "topics": [
+            {
+                "name": "Models",
+                "url": "/topics/models"
+            },
+            {
+                "name": "Figure",
+                "url": "/topics/figure"
+            },
+            {
+                "name": "Thus",
+                "url": "/topics/thus"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_tenniel_348323",
+        "quote": "By means of tracing-paper I transfer my design to the wood and draw on that.",
+        "author": {
+            "name": "John Tenniel",
+            "url": "/quotes/john_tenniel_348323"
+        },
+        "topics": [
+            {
+                "name": "Design",
+                "url": "/topics/design"
+            },
+            {
+                "name": "Transfer",
+                "url": "/topics/transfer"
+            },
+            {
+                "name": "Means",
+                "url": "/topics/means"
+            }
+        ]
+    }
+]

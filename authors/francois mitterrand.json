@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/francois_mitterrand_116124",
+        "quote": "A man loses contact with reality if he is not surrounded by his books.",
+        "author": {
+            "name": "Francois Mitterrand",
+            "url": "/quotes/francois_mitterrand_116124"
+        },
+        "topics": [
+            {
+                "name": "Surrounded",
+                "url": "/topics/surrounded"
+            },
+            {
+                "name": "Books",
+                "url": "/topics/books"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/francois_mitterrand_117558",
+        "quote": "France is delighted at this new opportunity to show the world that when one has the will one can succeed in joining peoples who have been brought close by history.",
+        "author": {
+            "name": "Francois Mitterrand",
+            "url": "/quotes/francois_mitterrand_117558"
+        },
+        "topics": [
+            {
+                "name": "History",
+                "url": "/topics/history"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Joining",
+                "url": "/topics/joining"
+            }
+        ]
+    }
+]

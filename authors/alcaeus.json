@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/alcaeus_142823",
+        "quote": "Not houses finely roofed or the stones of walls well builded, nay nor canals and dockyards make the city, but men able to use their opportunity.",
+        "author": {
+            "name": "Alcaeus",
+            "url": "/quotes/alcaeus_142823"
+        },
+        "topics": [
+            {
+                "name": "City",
+                "url": "/topics/city"
+            },
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            },
+            {
+                "name": "Nay",
+                "url": "/topics/nay"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alcaeus_169974",
+        "quote": "'Tis said that wrath is the last thing in a man to grow old.",
+        "author": {
+            "name": "Alcaeus",
+            "url": "/quotes/alcaeus_169974"
+        },
+        "topics": [
+            {
+                "name": "Grow",
+                "url": "/topics/grow"
+            },
+            {
+                "name": "Last",
+                "url": "/topics/last"
+            },
+            {
+                "name": "Old",
+                "url": "/topics/old"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alcaeus_169975",
+        "quote": "To be bowed by grief is folly; Naught is gained by melancholy; Better than the pain of thinking, Is to steep the sense in drinking.",
+        "author": {
+            "name": "Alcaeus",
+            "url": "/quotes/alcaeus_169975"
+        },
+        "topics": [
+            {
+                "name": "Pain",
+                "url": "/topics/pain"
+            },
+            {
+                "name": "Folly",
+                "url": "/topics/folly"
+            },
+            {
+                "name": "Drinking",
+                "url": "/topics/drinking"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alcaeus_169976",
+        "quote": "Wine is a peep-hole on a man.",
+        "author": {
+            "name": "Alcaeus",
+            "url": "/quotes/alcaeus_169976"
+        },
+        "topics": [
+            {
+                "name": "Man",
+                "url": "/topics/man"
+            },
+            {
+                "name": "Wine",
+                "url": "/topics/wine"
+            }
+        ]
+    }
+]

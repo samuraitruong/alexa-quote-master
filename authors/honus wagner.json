@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/honus_wagner_140023",
+        "quote": "There ain't much to being a ballplayer, if you're a ballplayer.",
+        "author": {
+            "name": "Honus Wagner",
+            "url": "/quotes/honus_wagner_140023"
+        },
+        "topics": [
+            {
+                "name": "Being",
+                "url": "/topics/being"
+            },
+            {
+                "name": "Much",
+                "url": "/topics/much"
+            },
+            {
+                "name": "Ballplayer",
+                "url": "/topics/ballplayer"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/honus_wagner_140020",
+        "quote": "In all my years of play, I never saw an ump deliberately make an unfair decision. They really called them as they saw 'em.",
+        "author": {
+            "name": "Honus Wagner",
+            "url": "/quotes/honus_wagner_140020"
+        },
+        "topics": [
+            {
+                "name": "Decision",
+                "url": "/topics/decision"
+            },
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Deliberately",
+                "url": "/topics/deliberately"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/honus_wagner_140021",
+        "quote": "I never have been sick. I don't even know what it means to be sick. I hear other players say they have a cold. I just don't know what it would feel like to have a cold - I never had one.",
+        "author": {
+            "name": "Honus Wagner",
+            "url": "/quotes/honus_wagner_140021"
+        },
+        "topics": [
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Means",
+                "url": "/topics/means"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/honus_wagner_140022",
+        "quote": "I won't play for a penny less than fifteen hundred dollars.",
+        "author": {
+            "name": "Honus Wagner",
+            "url": "/quotes/honus_wagner_140022"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Hundred",
+                "url": "/topics/hundred"
+            },
+            {
+                "name": "Fifteen",
+                "url": "/topics/fifteen"
+            }
+        ]
+    }
+]

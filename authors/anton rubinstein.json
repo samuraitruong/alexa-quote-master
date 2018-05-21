@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/anton_rubinstein_303690",
+        "quote": "Pianists call me a composer, composers call me a pianist. The classicists think me a futurist, and the futurists call me a reactionary.",
+        "author": {
+            "name": "Anton Rubinstein",
+            "url": "/quotes/anton_rubinstein_303690"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Composers",
+                "url": "/topics/composers"
+            },
+            {
+                "name": "Call",
+                "url": "/topics/call"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/anton_rubinstein_303691",
+        "quote": "Russians call me German, Germans call me Russian, Jews call me a Christian, Christians a Jew.",
+        "author": {
+            "name": "Anton Rubinstein",
+            "url": "/quotes/anton_rubinstein_303691"
+        },
+        "topics": [
+            {
+                "name": "Call",
+                "url": "/topics/call"
+            },
+            {
+                "name": "German",
+                "url": "/topics/german"
+            },
+            {
+                "name": "Russians",
+                "url": "/topics/russians"
+            }
+        ]
+    }
+]

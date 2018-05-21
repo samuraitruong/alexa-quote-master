@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/marc_antony_221780",
+        "quote": "I am dying, Egypt, dying.",
+        "author": {
+            "name": "Marc Antony",
+            "url": "/quotes/marc_antony_221780"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Dying",
+                "url": "/topics/dying"
+            },
+            {
+                "name": "Egypt",
+                "url": "/topics/egypt"
+            }
+        ]
+    }
+]

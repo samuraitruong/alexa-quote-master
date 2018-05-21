@@ -1,0 +1,372 @@
+[
+    {
+        "url": "/quotes/gurjeet_singh_799190",
+        "quote": "The biggest challenge in big data today is asking the right questions of data. There are so many questions to ask that you don't have the time to ask them all, so it doesn't even make sense to think about where to start your analysis.",
+        "author": {
+            "name": "Gurjeet Singh",
+            "url": "/quotes/gurjeet_singh_799190"
+        },
+        "topics": [
+            {
+                "name": "Data",
+                "url": "/topics/data"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Asking",
+                "url": "/topics/asking"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gurjeet_singh_799185",
+        "quote": "The world is looking for big data scientists, and there just aren't enough to go around.",
+        "author": {
+            "name": "Gurjeet Singh",
+            "url": "/quotes/gurjeet_singh_799185"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Data",
+                "url": "/topics/data"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gurjeet_singh_799178",
+        "quote": "To learn something from your data, the forming of a hypothesis lies with the human being, which turns into a query, which becomes a result. The problem is that there are too many queries to make, too many questions to ask.",
+        "author": {
+            "name": "Gurjeet Singh",
+            "url": "/quotes/gurjeet_singh_799178"
+        },
+        "topics": [
+            {
+                "name": "Questions",
+                "url": "/topics/questions"
+            },
+            {
+                "name": "Data",
+                "url": "/topics/data"
+            },
+            {
+                "name": "Forming",
+                "url": "/topics/forming"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gurjeet_singh_799191",
+        "quote": "The answers to today's most important scientific, business, and social problems lie in data.",
+        "author": {
+            "name": "Gurjeet Singh",
+            "url": "/quotes/gurjeet_singh_799191"
+        },
+        "topics": [
+            {
+                "name": "Business",
+                "url": "/topics/business"
+            },
+            {
+                "name": "Important",
+                "url": "/topics/important"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gurjeet_singh_799189",
+        "quote": "My mission is to bring the power of big data insights and analytics to every company.",
+        "author": {
+            "name": "Gurjeet Singh",
+            "url": "/quotes/gurjeet_singh_799189"
+        },
+        "topics": [
+            {
+                "name": "Data",
+                "url": "/topics/data"
+            },
+            {
+                "name": "Mission",
+                "url": "/topics/mission"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gurjeet_singh_799177",
+        "quote": "I'm going to say something rather controversial. Big data, as people understand it today, is just a bigger version of small data. Fundamentally, what we're doing with data has not changed; there's just more of it.",
+        "author": {
+            "name": "Gurjeet Singh",
+            "url": "/quotes/gurjeet_singh_799177"
+        },
+        "topics": [
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gurjeet_singh_799179",
+        "quote": "The number of queries in a large dataset is exponential, and it's growing exponentially. No matter how fast you make your system, you're never going to be able to get all that information.",
+        "author": {
+            "name": "Gurjeet Singh",
+            "url": "/quotes/gurjeet_singh_799179"
+        },
+        "topics": [
+            {
+                "name": "Exponential",
+                "url": "/topics/exponential"
+            },
+            {
+                "name": "Exponentially",
+                "url": "/topics/exponentially"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gurjeet_singh_799180",
+        "quote": "We don't use the term 'big data' - not on our website, not with customers. Saying it sets up expectations, the wrong expectations.",
+        "author": {
+            "name": "Gurjeet Singh",
+            "url": "/quotes/gurjeet_singh_799180"
+        },
+        "topics": [
+            {
+                "name": "Data",
+                "url": "/topics/data"
+            },
+            {
+                "name": "Website",
+                "url": "/topics/website"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gurjeet_singh_799181",
+        "quote": "People believe the best way to learn from the data is to have a hypothesis and then go check it, but the data is so complex that someone who is working with a data set will not know the most significant things to ask. That's a huge problem.",
+        "author": {
+            "name": "Gurjeet Singh",
+            "url": "/quotes/gurjeet_singh_799181"
+        },
+        "topics": [
+            {
+                "name": "Best",
+                "url": "/topics/best"
+            },
+            {
+                "name": "Data",
+                "url": "/topics/data"
+            },
+            {
+                "name": "Best Way",
+                "url": "/topics/best_way"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gurjeet_singh_799182",
+        "quote": "Technologies like Ayasdi's exist now to automatically discover information from data without having someone making guesses up front.",
+        "author": {
+            "name": "Gurjeet Singh",
+            "url": "/quotes/gurjeet_singh_799182"
+        },
+        "topics": [
+            {
+                "name": "Discover",
+                "url": "/topics/discover"
+            },
+            {
+                "name": "Making",
+                "url": "/topics/making"
+            },
+            {
+                "name": "Having",
+                "url": "/topics/having"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gurjeet_singh_799183",
+        "quote": "If you know people with Type 2 diabetes, there's a high likelihood they will have different medication regimes and different lifestyle options. When we label all these various types as the same thing, we treat them the same way, and they should not be treated the same way.",
+        "author": {
+            "name": "Gurjeet Singh",
+            "url": "/quotes/gurjeet_singh_799183"
+        },
+        "topics": [
+            {
+                "name": "Treat",
+                "url": "/topics/treat"
+            },
+            {
+                "name": "Type",
+                "url": "/topics/type"
+            },
+            {
+                "name": "Same Thing",
+                "url": "/topics/same_thing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gurjeet_singh_799184",
+        "quote": "Every company today is a data company whether they realize it or not.",
+        "author": {
+            "name": "Gurjeet Singh",
+            "url": "/quotes/gurjeet_singh_799184"
+        },
+        "topics": [
+            {
+                "name": "Today",
+                "url": "/topics/today"
+            },
+            {
+                "name": "Data",
+                "url": "/topics/data"
+            },
+            {
+                "name": "Whether",
+                "url": "/topics/whether"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gurjeet_singh_799186",
+        "quote": "Data is cost. It takes money to create data, store it, clean it, and throw resources at it to learn anything from it.",
+        "author": {
+            "name": "Gurjeet Singh",
+            "url": "/quotes/gurjeet_singh_799186"
+        },
+        "topics": [
+            {
+                "name": "Money",
+                "url": "/topics/money"
+            },
+            {
+                "name": "Data",
+                "url": "/topics/data"
+            },
+            {
+                "name": "Cost",
+                "url": "/topics/cost"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gurjeet_singh_799187",
+        "quote": "I lived in fear that other engineers would stop me in the street and ask me a math question, and I wouldn't know the answer.",
+        "author": {
+            "name": "Gurjeet Singh",
+            "url": "/quotes/gurjeet_singh_799187"
+        },
+        "topics": [
+            {
+                "name": "Engineers",
+                "url": "/topics/engineers"
+            },
+            {
+                "name": "Question",
+                "url": "/topics/question"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gurjeet_singh_799188",
+        "quote": "For me, the most exciting aspect of my success is how the insights that Ayasdi's technology has found in data can truly impact people's lives.",
+        "author": {
+            "name": "Gurjeet Singh",
+            "url": "/quotes/gurjeet_singh_799188"
+        },
+        "topics": [
+            {
+                "name": "Data",
+                "url": "/topics/data"
+            },
+            {
+                "name": "Success Is",
+                "url": "/topics/success_is"
+            },
+            {
+                "name": "Lives",
+                "url": "/topics/lives"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gurjeet_singh_799192",
+        "quote": "The power of Ayasdi is its unique ability to automatically discover insights - regardless of complexity - without asking questions.",
+        "author": {
+            "name": "Gurjeet Singh",
+            "url": "/quotes/gurjeet_singh_799192"
+        },
+        "topics": [
+            {
+                "name": "Complexity",
+                "url": "/topics/complexity"
+            },
+            {
+                "name": "Discover",
+                "url": "/topics/discover"
+            },
+            {
+                "name": "Asking",
+                "url": "/topics/asking"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gurjeet_singh_799193",
+        "quote": "Ayasdi's customers can finally learn the answers to questions that they didn't know to ask in the first place.",
+        "author": {
+            "name": "Gurjeet Singh",
+            "url": "/quotes/gurjeet_singh_799193"
+        },
+        "topics": [
+            {
+                "name": "Learn",
+                "url": "/topics/learn"
+            },
+            {
+                "name": "Finally",
+                "url": "/topics/finally"
+            },
+            {
+                "name": "First Place",
+                "url": "/topics/first_place"
+            }
+        ]
+    }
+]

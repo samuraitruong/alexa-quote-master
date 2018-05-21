@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/sidney_hillman_176028",
+        "quote": "Labor also wants shorter hours and a say in how work shall be done.",
+        "author": {
+            "name": "Sidney Hillman",
+            "url": "/quotes/sidney_hillman_176028"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Hours",
+                "url": "/topics/hours"
+            },
+            {
+                "name": "How",
+                "url": "/topics/how"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sidney_hillman_338792",
+        "quote": "I even believe in helping an employer function more productively. For then, we will have a claim to higher wages, shorter hours, and greater participation in the benefits of running a smooth industrial machine.",
+        "author": {
+            "name": "Sidney Hillman",
+            "url": "/quotes/sidney_hillman_338792"
+        },
+        "topics": [
+            {
+                "name": "Participation",
+                "url": "/topics/participation"
+            },
+            {
+                "name": "Benefits",
+                "url": "/topics/benefits"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sidney_hillman_170254",
+        "quote": "Politics is the science of who gets what, when, and why.",
+        "author": {
+            "name": "Sidney Hillman",
+            "url": "/quotes/sidney_hillman_170254"
+        },
+        "topics": [
+            {
+                "name": "Science",
+                "url": "/topics/science"
+            },
+            {
+                "name": "Politics",
+                "url": "/topics/politics"
+            },
+            {
+                "name": "Why",
+                "url": "/topics/why"
+            }
+        ]
+    }
+]

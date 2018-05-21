@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/dan_totheroh_397702",
+        "quote": "Soul, soul is nothing. Can you see it, smell it, touch it? No.",
+        "author": {
+            "name": "Dan Totheroh",
+            "url": "/quotes/dan_totheroh_397702"
+        },
+        "topics": [
+            {
+                "name": "Soul",
+                "url": "/topics/soul"
+            },
+            {
+                "name": "See",
+                "url": "/topics/see"
+            },
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dan_totheroh_399771",
+        "quote": "When a man gets his money in bad ways, when he sees the better course and takes the worse, then the devil's in his heart, and that fixes him.",
+        "author": {
+            "name": "Dan Totheroh",
+            "url": "/quotes/dan_totheroh_399771"
+        },
+        "topics": [
+            {
+                "name": "Devil",
+                "url": "/topics/devil"
+            },
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            },
+            {
+                "name": "Then",
+                "url": "/topics/then"
+            }
+        ]
+    }
+]

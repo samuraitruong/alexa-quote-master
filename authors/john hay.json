@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/john_hay_160578",
+        "quote": "Friends are the sunshine of life.",
+        "author": {
+            "name": "John Hay",
+            "url": "/quotes/john_hay_160578"
+        },
+        "topics": [
+            {
+                "name": "Life",
+                "url": "/topics/life"
+            },
+            {
+                "name": "Sunshine",
+                "url": "/topics/sunshine"
+            },
+            {
+                "name": "Friends",
+                "url": "/topics/friends"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_hay_164627",
+        "quote": "The evils of tyranny are rarely seen but by him who resists it.",
+        "author": {
+            "name": "John Hay",
+            "url": "/quotes/john_hay_164627"
+        },
+        "topics": [
+            {
+                "name": "Tyranny",
+                "url": "/topics/tyranny"
+            },
+            {
+                "name": "Evils",
+                "url": "/topics/evils"
+            },
+            {
+                "name": "Rarely",
+                "url": "/topics/rarely"
+            }
+        ]
+    }
+]

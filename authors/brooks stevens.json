@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/brooks_stevens_194235",
+        "quote": "Our whole economy is based on planned obsolescence.",
+        "author": {
+            "name": "Brooks Stevens",
+            "url": "/quotes/brooks_stevens_194235"
+        },
+        "topics": [
+            {
+                "name": "Whole",
+                "url": "/topics/whole"
+            },
+            {
+                "name": "Based",
+                "url": "/topics/based"
+            },
+            {
+                "name": "Obsolescence",
+                "url": "/topics/obsolescence"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brooks_stevens_414099",
+        "quote": "I believe in status symbols.",
+        "author": {
+            "name": "Brooks Stevens",
+            "url": "/quotes/brooks_stevens_414099"
+        },
+        "topics": [
+            {
+                "name": "Believe",
+                "url": "/topics/believe"
+            },
+            {
+                "name": "I Believe In",
+                "url": "/topics/i_believe_in"
+            }
+        ]
+    }
+]

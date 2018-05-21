@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/diogenes_107020?src=t_athenian",
+        "quote": "I am not an Athenian or a Greek, but a citizen of the world.",
+        "author": {
+            "name": "Diogenes",
+            "url": "/authors/diogenes"
+        },
+        "topics": [
+            {
+                "name": "Freedom",
+                "url": "/topics/freedom"
+            },
+            {
+                "name": "Citizen",
+                "url": "/topics/citizen"
+            },
+            {
+                "name": "Greek",
+                "url": "/topics/greek"
+            }
+        ]
+    }
+]

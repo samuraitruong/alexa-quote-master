@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/peter_paul_rubens_188432",
+        "quote": "My talent is such that no undertaking, however vast in size... has ever surpassed my courage.",
+        "author": {
+            "name": "Peter Paul Rubens",
+            "url": "/quotes/peter_paul_rubens_188432"
+        },
+        "topics": [
+            {
+                "name": "Ever",
+                "url": "/topics/ever"
+            },
+            {
+                "name": "However",
+                "url": "/topics/however"
+            },
+            {
+                "name": "Undertaking",
+                "url": "/topics/undertaking"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/peter_paul_rubens_681091",
+        "quote": "As to the 'St. Michael,' the subject is very fine, but very difficult, so I doubt that I shall find easily amongst my pupils one capable of carrying it out satisfactorily even after my own drawing. In any case, it will be necessary for me to touch it up carefully with my own hand.",
+        "author": {
+            "name": "Peter Paul Rubens",
+            "url": "/quotes/peter_paul_rubens_681091"
+        },
+        "topics": [
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Subject",
+                "url": "/topics/subject"
+            },
+            {
+                "name": "Pupils",
+                "url": "/topics/pupils"
+            }
+        ]
+    }
+]

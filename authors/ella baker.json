@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/ella_baker_177490",
+        "quote": "Give light and people will find the way.",
+        "author": {
+            "name": "Ella Baker",
+            "url": "/quotes/ella_baker_177490"
+        },
+        "topics": [
+            {
+                "name": "Inspirational",
+                "url": "/topics/inspirational"
+            },
+            {
+                "name": "Light",
+                "url": "/topics/light"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ella_baker_387892",
+        "quote": "Strong people don't need strong leaders.",
+        "author": {
+            "name": "Ella Baker",
+            "url": "/quotes/ella_baker_387892"
+        },
+        "topics": [
+            {
+                "name": "Strong",
+                "url": "/topics/strong"
+            },
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            },
+            {
+                "name": "Leaders",
+                "url": "/topics/leaders"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ella_baker_177492",
+        "quote": "One of the things that has to be faced is the process of waiting to change the system, how much we have got to do to find out who we are, where we have come from and where we are going.",
+        "author": {
+            "name": "Ella Baker",
+            "url": "/quotes/ella_baker_177492"
+        },
+        "topics": [
+            {
+                "name": "Process",
+                "url": "/topics/process"
+            },
+            {
+                "name": "One Of The Things",
+                "url": "/topics/one_of_the_things"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/baltasar_garzon_614027",
+        "quote": "All I've done is my job, and I intend to continue doing it. And I'm not especially worried about the criticism that comes from the bench.",
+        "author": {
+            "name": "Baltasar Garzon",
+            "url": "/quotes/baltasar_garzon_614027"
+        },
+        "topics": [
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Bench",
+                "url": "/topics/bench"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/baltasar_garzon_614026",
+        "quote": "The state of law is equal for all people. It cannot depend on electoral politics.",
+        "author": {
+            "name": "Baltasar Garzon",
+            "url": "/quotes/baltasar_garzon_614026"
+        },
+        "topics": [
+            {
+                "name": "Politics",
+                "url": "/topics/politics"
+            },
+            {
+                "name": "Law",
+                "url": "/topics/law"
+            },
+            {
+                "name": "Equal",
+                "url": "/topics/equal"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/william_kennedy_114981",
+        "quote": "There's only a short walk from the hallelujah to the hoot.",
+        "author": {
+            "name": "William Kennedy",
+            "url": "/quotes/william_kennedy_114981"
+        },
+        "topics": [
+            {
+                "name": "Short",
+                "url": "/topics/short"
+            },
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            },
+            {
+                "name": "Hallelujah",
+                "url": "/topics/hallelujah"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_kennedy_114980",
+        "quote": "Without a sense of place the work is often reduced to a cry of voices in empty rooms, a literature of the self, at its best poetic music; at its worst a thin gruel of the ego.",
+        "author": {
+            "name": "William Kennedy",
+            "url": "/quotes/william_kennedy_114980"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Rooms",
+                "url": "/topics/rooms"
+            },
+            {
+                "name": "Poetic",
+                "url": "/topics/poetic"
+            }
+        ]
+    }
+]

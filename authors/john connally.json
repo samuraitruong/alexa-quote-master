@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/john_connally_135567",
+        "quote": "In the early sixties, we were strong, we were virulent.",
+        "author": {
+            "name": "John Connally",
+            "url": "/quotes/john_connally_135567"
+        },
+        "topics": [
+            {
+                "name": "Strong",
+                "url": "/topics/strong"
+            },
+            {
+                "name": "Early",
+                "url": "/topics/early"
+            },
+            {
+                "name": "Were",
+                "url": "/topics/were"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_connally_135568",
+        "quote": "When you're out of office, you can be a statesman.",
+        "author": {
+            "name": "John Connally",
+            "url": "/quotes/john_connally_135568"
+        },
+        "topics": [
+            {
+                "name": "Office",
+                "url": "/topics/office"
+            },
+            {
+                "name": "You",
+                "url": "/topics/you"
+            },
+            {
+                "name": "Statesman",
+                "url": "/topics/statesman"
+            }
+        ]
+    }
+]

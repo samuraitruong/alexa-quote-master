@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/anna_pump_739113",
+        "quote": "My mother could make something out of nothing - and everything started from scratch.",
+        "author": {
+            "name": "Anna Pump",
+            "url": "/quotes/anna_pump_739113"
+        },
+        "topics": [
+            {
+                "name": "Mother",
+                "url": "/topics/mother"
+            },
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            },
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/anna_pump_739112",
+        "quote": "I love simple foods as well as grand. Dinners that take a half-hour from skillet to plate are as important as a five-course dinner. A meal that can materialize in an hour and be presented with care, love and pride is something every busy person longs to be able to do.",
+        "author": {
+            "name": "Anna Pump",
+            "url": "/quotes/anna_pump_739112"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Foods",
+                "url": "/topics/foods"
+            },
+            {
+                "name": "Materialize",
+                "url": "/topics/materialize"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/anna_pump_739114",
+        "quote": "I am not a chef. I can't claim that title. The difference is a cook doesn't have a degree. A chef has formal education. It has nothing to do with talent or actual preparation - one just can't claim the title if you don't have degree.",
+        "author": {
+            "name": "Anna Pump",
+            "url": "/quotes/anna_pump_739114"
+        },
+        "topics": [
+            {
+                "name": "Education",
+                "url": "/topics/education"
+            },
+            {
+                "name": "Cook",
+                "url": "/topics/cook"
+            },
+            {
+                "name": "Actual",
+                "url": "/topics/actual"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/anna_pump_739115",
+        "quote": "We must make organic and farm-raised costs more affordable. We need to come to a level where people who don't have a lot of money can afford it. If we could eat just fresh foods, it would be wonderful.",
+        "author": {
+            "name": "Anna Pump",
+            "url": "/quotes/anna_pump_739115"
+        },
+        "topics": [
+            {
+                "name": "Lot",
+                "url": "/topics/lot"
+            },
+            {
+                "name": "Foods",
+                "url": "/topics/foods"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            }
+        ]
+    }
+]

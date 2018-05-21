@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/donald_wolfit_325056",
+        "quote": "Dying is easy; comedy is hard.",
+        "author": {
+            "name": "Donald Wolfit",
+            "url": "/quotes/donald_wolfit_325056"
+        },
+        "topics": [
+            {
+                "name": "Dying",
+                "url": "/topics/dying"
+            },
+            {
+                "name": "Comedy",
+                "url": "/topics/comedy"
+            },
+            {
+                "name": "Hard",
+                "url": "/topics/hard"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/donald_wolfit_325057",
+        "quote": "I say this quite deliberately, this is the finest Shakespearean performance I've seen.",
+        "author": {
+            "name": "Donald Wolfit",
+            "url": "/quotes/donald_wolfit_325057"
+        },
+        "topics": [
+            {
+                "name": "Performance",
+                "url": "/topics/performance"
+            },
+            {
+                "name": "Finest",
+                "url": "/topics/finest"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/donald_wolfit_325058",
+        "quote": "I'll ask you if you can play some speaking roles.",
+        "author": {
+            "name": "Donald Wolfit",
+            "url": "/quotes/donald_wolfit_325058"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Speaking",
+                "url": "/topics/speaking"
+            }
+        ]
+    }
+]

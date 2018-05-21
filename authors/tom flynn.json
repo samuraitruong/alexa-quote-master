@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/tom_flynn_391639",
+        "quote": "Be sure you positively identify your target before you pull the trigger.",
+        "author": {
+            "name": "Tom Flynn",
+            "url": "/quotes/tom_flynn_391639"
+        },
+        "topics": [
+            {
+                "name": "Sure",
+                "url": "/topics/sure"
+            },
+            {
+                "name": "Pull",
+                "url": "/topics/pull"
+            },
+            {
+                "name": "Positively",
+                "url": "/topics/positively"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tom_flynn_183366",
+        "quote": "Secular humanists suspect there is something more gloriously human about resisting the religious impulse; about accepting the cold truth, even if that truth is only that the universe is as indifferent to us as we are to it.",
+        "author": {
+            "name": "Tom Flynn",
+            "url": "/quotes/tom_flynn_183366"
+        },
+        "topics": [
+            {
+                "name": "Religious",
+                "url": "/topics/religious"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    }
+]

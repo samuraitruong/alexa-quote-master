@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/john_russell_405245",
+        "quote": "The name 'reservation' has a negative connotation among Native Americans - an intern camp of sorts.",
+        "author": {
+            "name": "John Russell",
+            "url": "/quotes/john_russell_405245"
+        },
+        "topics": [
+            {
+                "name": "Negative",
+                "url": "/topics/negative"
+            },
+            {
+                "name": "Connotation",
+                "url": "/topics/connotation"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_russell_138371",
+        "quote": "Sanity calms, but madness is more interesting.",
+        "author": {
+            "name": "John Russell",
+            "url": "/quotes/john_russell_138371"
+        },
+        "topics": [
+            {
+                "name": "Madness",
+                "url": "/topics/madness"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Calms",
+                "url": "/topics/calms"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_russell_138341",
+        "quote": "What makes people the world over stand in line for Van Gogh is not that they will see beautiful pictures but that in an indefinable way they will come away feeling better human beings. And that is exactly what Van Gogh hoped for.",
+        "author": {
+            "name": "John Russell",
+            "url": "/quotes/john_russell_138341"
+        },
+        "topics": [
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            },
+            {
+                "name": "Van Gogh",
+                "url": "/topics/van_gogh"
+            },
+            {
+                "name": "Hoped",
+                "url": "/topics/hoped"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_russell_398310",
+        "quote": "If peace cannot be maintained with honour, it is no longer peace.",
+        "author": {
+            "name": "John Russell",
+            "url": "/quotes/john_russell_398310"
+        },
+        "topics": [
+            {
+                "name": "Peace",
+                "url": "/topics/peace"
+            },
+            {
+                "name": "Honour",
+                "url": "/topics/honour"
+            },
+            {
+                "name": "Longer",
+                "url": "/topics/longer"
+            }
+        ]
+    }
+]

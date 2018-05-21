@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/joey_dunlop_265829",
+        "quote": "It was nothing, just the normal thing to do at the time.",
+        "author": {
+            "name": "Joey Dunlop",
+            "url": "/quotes/joey_dunlop_265829"
+        },
+        "topics": [
+            {
+                "name": "Time",
+                "url": "/topics/time"
+            },
+            {
+                "name": "Normal",
+                "url": "/topics/normal"
+            },
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joey_dunlop_265827",
+        "quote": "I didn't have a clue where I was going on my first lap of practice.",
+        "author": {
+            "name": "Joey Dunlop",
+            "url": "/quotes/joey_dunlop_265827"
+        },
+        "topics": [
+            {
+                "name": "Practice",
+                "url": "/topics/practice"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Clue",
+                "url": "/topics/clue"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joey_dunlop_265828",
+        "quote": "I've always worked on the machines, especially the 125 and 250 which are really difficult to set up.",
+        "author": {
+            "name": "Joey Dunlop",
+            "url": "/quotes/joey_dunlop_265828"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Set",
+                "url": "/topics/set"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joey_dunlop_265830",
+        "quote": "One or two of the trips were a bit scary. Soldiers had me at gun point on one trip, locked me in my van all night and escorted me in and out of buildings when I wanted to wash.",
+        "author": {
+            "name": "Joey Dunlop",
+            "url": "/quotes/joey_dunlop_265830"
+        },
+        "topics": [
+            {
+                "name": "Gun",
+                "url": "/topics/gun"
+            },
+            {
+                "name": "Soldiers",
+                "url": "/topics/soldiers"
+            },
+            {
+                "name": "Had",
+                "url": "/topics/had"
+            }
+        ]
+    }
+]

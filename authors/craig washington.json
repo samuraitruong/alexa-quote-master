@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/craig_washington_190182",
+        "quote": "I prefer a man who will burn the flag and then wrap himself in the Constitution to a man who will burn the Constitution and then wrap himself in the flag.",
+        "author": {
+            "name": "Craig Washington",
+            "url": "/quotes/craig_washington_190182"
+        },
+        "topics": [
+            {
+                "name": "Flag",
+                "url": "/topics/flag"
+            },
+            {
+                "name": "Burn",
+                "url": "/topics/burn"
+            },
+            {
+                "name": "Himself",
+                "url": "/topics/himself"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/craig_washington_190183",
+        "quote": "I'm not semi-retired, I'm just taking it easy.",
+        "author": {
+            "name": "Craig Washington",
+            "url": "/quotes/craig_washington_190183"
+        },
+        "topics": [
+            {
+                "name": "Just",
+                "url": "/topics/just"
+            },
+            {
+                "name": "Easy",
+                "url": "/topics/easy"
+            },
+            {
+                "name": "Taking",
+                "url": "/topics/taking"
+            }
+        ]
+    }
+]

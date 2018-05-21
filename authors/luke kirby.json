@@ -1,0 +1,130 @@
+[
+    {
+        "url": "/quotes/luke_kirby_649090",
+        "quote": "I believe in love at first sight, and I feel sometimes you have to just be open to whatever love is and let yourself fall.",
+        "author": {
+            "name": "Luke Kirby",
+            "url": "/quotes/luke_kirby_649090"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Sometimes",
+                "url": "/topics/sometimes"
+            },
+            {
+                "name": "Feel",
+                "url": "/topics/feel"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/luke_kirby_425688",
+        "quote": "Yeah, I think on my resume it still says that - that I can juggle.",
+        "author": {
+            "name": "Luke Kirby",
+            "url": "/quotes/luke_kirby_425688"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Resume",
+                "url": "/topics/resume"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/luke_kirby_649089",
+        "quote": "I'm a drama nerd.",
+        "author": {
+            "name": "Luke Kirby",
+            "url": "/quotes/luke_kirby_649089"
+        },
+        "topics": [
+            {
+                "name": "Drama",
+                "url": "/topics/drama"
+            },
+            {
+                "name": "Nerd",
+                "url": "/topics/nerd"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/luke_kirby_425685",
+        "quote": "Yeah, I do get to do some theater occasionally. I don't get to do it as much as I would like to.",
+        "author": {
+            "name": "Luke Kirby",
+            "url": "/quotes/luke_kirby_425685"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/luke_kirby_425686",
+        "quote": "I have been taking some classes in woodworking. It's really helpful just looking at a problem, and having a very tangible way in constructing it.",
+        "author": {
+            "name": "Luke Kirby",
+            "url": "/quotes/luke_kirby_425686"
+        },
+        "topics": [
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/luke_kirby_425687",
+        "quote": "But with woodworking, it's really sort of gratifying to be able to have an actual piece to touch, and then step back and be able to share it.",
+        "author": {
+            "name": "Luke Kirby",
+            "url": "/quotes/luke_kirby_425687"
+        },
+        "topics": [
+            {
+                "name": "Touch",
+                "url": "/topics/touch"
+            },
+            {
+                "name": "Actual",
+                "url": "/topics/actual"
+            },
+            {
+                "name": "Gratifying",
+                "url": "/topics/gratifying"
+            }
+        ]
+    }
+]

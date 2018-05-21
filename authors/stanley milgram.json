@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/stanley_milgram_120999",
+        "quote": "The disappearance of a sense of responsibility is the most far-reaching consequence of submission to authority.",
+        "author": {
+            "name": "Stanley Milgram",
+            "url": "/quotes/stanley_milgram_120999"
+        },
+        "topics": [
+            {
+                "name": "Authority",
+                "url": "/topics/authority"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "Consequence",
+                "url": "/topics/consequence"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/stanley_milgram_107568",
+        "quote": "It is easy to ignore responsibility when one is only an intermediate link in a chain of action.",
+        "author": {
+            "name": "Stanley Milgram",
+            "url": "/quotes/stanley_milgram_107568"
+        },
+        "topics": [
+            {
+                "name": "Responsibility",
+                "url": "/topics/responsibility"
+            },
+            {
+                "name": "Chain",
+                "url": "/topics/chain"
+            },
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/jean_froissart_333008",
+        "quote": "This means that they are bound by law and custom to plough the fields of their masters, harvest the corn, gather it into barns, and thresh and winnow the grain; they must also mow and carry home the hay, cut and collect wood, and perform all manner of tasks of this kind.",
+        "author": {
+            "name": "Jean Froissart",
+            "url": "/quotes/jean_froissart_333008"
+        },
+        "topics": [
+            {
+                "name": "Cut",
+                "url": "/topics/cut"
+            },
+            {
+                "name": "Corn",
+                "url": "/topics/corn"
+            },
+            {
+                "name": "Plough",
+                "url": "/topics/plough"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jean_froissart_333010",
+        "quote": "Again I entered my smithy to work and forge something from the noble material of time past.",
+        "author": {
+            "name": "Jean Froissart",
+            "url": "/quotes/jean_froissart_333010"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Past",
+                "url": "/topics/past"
+            },
+            {
+                "name": "Again",
+                "url": "/topics/again"
+            }
+        ]
+    }
+]

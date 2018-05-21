@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/otto_frank_197649",
+        "quote": "For me, it was a revelation. There, was revealed a completely different Anne to the child that I had lost. I had no idea of the depths of her thoughts and feelings.",
+        "author": {
+            "name": "Otto Frank",
+            "url": "/quotes/otto_frank_197649"
+        },
+        "topics": [
+            {
+                "name": "Thoughts",
+                "url": "/topics/thoughts"
+            },
+            {
+                "name": "Idea",
+                "url": "/topics/idea"
+            },
+            {
+                "name": "Revelation",
+                "url": "/topics/revelation"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/otto_frank_197647",
+        "quote": "I just can't think how I would go on without children having lost Edith already... It's too upsetting for me to write about them. Naturally, I still hope, and wait, wait, wait.",
+        "author": {
+            "name": "Otto Frank",
+            "url": "/quotes/otto_frank_197647"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Wait",
+                "url": "/topics/wait"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/otto_frank_197648",
+        "quote": "We all had lots of stories of our sad experiences - they mourned the death of my wife with me - but we were hopeful that the children would return.",
+        "author": {
+            "name": "Otto Frank",
+            "url": "/quotes/otto_frank_197648"
+        },
+        "topics": [
+            {
+                "name": "Wife",
+                "url": "/topics/wife"
+            },
+            {
+                "name": "Death",
+                "url": "/topics/death"
+            },
+            {
+                "name": "Stories",
+                "url": "/topics/stories"
+            }
+        ]
+    }
+]

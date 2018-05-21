@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/mary_mcgrory_404417",
+        "quote": "Haldeman is the only man in America in this generation who let his hair grow for a courtroom appearance.",
+        "author": {
+            "name": "Mary McGrory",
+            "url": "/quotes/mary_mcgrory_404417"
+        },
+        "topics": [
+            {
+                "name": "Generation",
+                "url": "/topics/generation"
+            },
+            {
+                "name": "Grow",
+                "url": "/topics/grow"
+            },
+            {
+                "name": "America",
+                "url": "/topics/america"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mary_mcgrory_404989",
+        "quote": "Baseball is what we were, and football is what we have become.",
+        "author": {
+            "name": "Mary McGrory",
+            "url": "/quotes/mary_mcgrory_404989"
+        },
+        "topics": [
+            {
+                "name": "Baseball",
+                "url": "/topics/baseball"
+            },
+            {
+                "name": "Football",
+                "url": "/topics/football"
+            },
+            {
+                "name": "Were",
+                "url": "/topics/were"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/ernest_dowson_368468",
+        "quote": "I understand that absinthe makes the tart grow fonder.",
+        "author": {
+            "name": "Ernest Dowson",
+            "url": "/quotes/ernest_dowson_368468"
+        },
+        "topics": [
+            {
+                "name": "Grow",
+                "url": "/topics/grow"
+            },
+            {
+                "name": "Understand",
+                "url": "/topics/understand"
+            },
+            {
+                "name": "Fonder",
+                "url": "/topics/fonder"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ernest_dowson_368467",
+        "quote": "They are not long, the days of wine and roses.",
+        "author": {
+            "name": "Ernest Dowson",
+            "url": "/quotes/ernest_dowson_368467"
+        },
+        "topics": [
+            {
+                "name": "Wine",
+                "url": "/topics/wine"
+            },
+            {
+                "name": "Long",
+                "url": "/topics/long"
+            },
+            {
+                "name": "Days",
+                "url": "/topics/days"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ernest_dowson_317647",
+        "quote": "And I was desolate and sick of an old passion.",
+        "author": {
+            "name": "Ernest Dowson",
+            "url": "/quotes/ernest_dowson_317647"
+        },
+        "topics": [
+            {
+                "name": "Sick",
+                "url": "/topics/sick"
+            },
+            {
+                "name": "Old",
+                "url": "/topics/old"
+            },
+            {
+                "name": "Desolate",
+                "url": "/topics/desolate"
+            }
+        ]
+    }
+]

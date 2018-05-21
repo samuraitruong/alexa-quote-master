@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/melvyn_douglas_197632",
+        "quote": "Don't make excuses and Don't talk about it. Do it.",
+        "author": {
+            "name": "Melvyn Douglas",
+            "url": "/quotes/melvyn_douglas_197632"
+        },
+        "topics": [
+            {
+                "name": "Excuses",
+                "url": "/topics/excuses"
+            },
+            {
+                "name": "Talk",
+                "url": "/topics/talk"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/melvyn_douglas_197631",
+        "quote": "Your word is your bond.",
+        "author": {
+            "name": "Melvyn Douglas",
+            "url": "/quotes/melvyn_douglas_197631"
+        },
+        "topics": [
+            {
+                "name": "Bond",
+                "url": "/topics/bond"
+            },
+            {
+                "name": "Word",
+                "url": "/topics/word"
+            },
+            {
+                "name": "Your",
+                "url": "/topics/your"
+            }
+        ]
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/amy_vanderbilt_140755",
+        "quote": "Good manners have much to do with the emotions. To make them ring true, one must feel them, not merely exhibit them.",
+        "author": {
+            "name": "Amy Vanderbilt",
+            "url": "/quotes/amy_vanderbilt_140755"
+        },
+        "topics": [
+            {
+                "name": "Emotions",
+                "url": "/topics/emotions"
+            },
+            {
+                "name": "Ring",
+                "url": "/topics/ring"
+            },
+            {
+                "name": "Good Manners",
+                "url": "/topics/good_manners"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/amy_vanderbilt_112456",
+        "quote": "I am a journalist in the field of etiquette. I try to find out what the most genteel people regularly do, what traditions they have discarded, what compromises they have made.",
+        "author": {
+            "name": "Amy Vanderbilt",
+            "url": "/quotes/amy_vanderbilt_112456"
+        },
+        "topics": [
+            {
+                "name": "Compromises",
+                "url": "/topics/compromises"
+            },
+            {
+                "name": "Discarded",
+                "url": "/topics/discarded"
+            },
+            {
+                "name": "Made",
+                "url": "/topics/made"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/amy_vanderbilt_160078",
+        "quote": "We must learn which ceremonies may be breached occasionally at our convenience and which ones may never be if we are to live pleasantly with our fellow man.",
+        "author": {
+            "name": "Amy Vanderbilt",
+            "url": "/quotes/amy_vanderbilt_160078"
+        },
+        "topics": [
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Pleasantly",
+                "url": "/topics/pleasantly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/amy_vanderbilt_391949",
+        "quote": "The modern rule is that every woman should be her own chaperone.",
+        "author": {
+            "name": "Amy Vanderbilt",
+            "url": "/quotes/amy_vanderbilt_391949"
+        },
+        "topics": [
+            {
+                "name": "Woman",
+                "url": "/topics/woman"
+            },
+            {
+                "name": "Her",
+                "url": "/topics/her"
+            },
+            {
+                "name": "Modern",
+                "url": "/topics/modern"
+            }
+        ]
+    }
+]

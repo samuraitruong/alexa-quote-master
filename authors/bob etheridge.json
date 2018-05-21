@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/bob_etheridge_183266",
+        "quote": "Public office is supposed to be a public trust. This is a clear sign of the rampant corruption at the highest levels of the Republican leadership.",
+        "author": {
+            "name": "Bob Etheridge",
+            "url": "/quotes/bob_etheridge_183266"
+        },
+        "topics": [
+            {
+                "name": "Trust",
+                "url": "/topics/trust"
+            },
+            {
+                "name": "Clear",
+                "url": "/topics/clear"
+            },
+            {
+                "name": "Republican",
+                "url": "/topics/republican"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bob_etheridge_183265",
+        "quote": "The federal government has a responsibility to protect all Americans from potential terrorist attack.",
+        "author": {
+            "name": "Bob Etheridge",
+            "url": "/quotes/bob_etheridge_183265"
+        },
+        "topics": [
+            {
+                "name": "Terrorist",
+                "url": "/topics/terrorist"
+            },
+            {
+                "name": "All Americans",
+                "url": "/topics/all_americans"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bob_etheridge_504709",
+        "quote": "Throughout my many years of service to the people of North Carolina, I have always tried to treat people from all viewpoints with respect.",
+        "author": {
+            "name": "Bob Etheridge",
+            "url": "/quotes/bob_etheridge_504709"
+        },
+        "topics": [
+            {
+                "name": "Treat",
+                "url": "/topics/treat"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Carolina",
+                "url": "/topics/carolina"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bob_etheridge_504710",
+        "quote": "I have and I will always work to promote a civil public discourse.",
+        "author": {
+            "name": "Bob Etheridge",
+            "url": "/quotes/bob_etheridge_504710"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Public",
+                "url": "/topics/public"
+            },
+            {
+                "name": "Promote",
+                "url": "/topics/promote"
+            }
+        ]
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "url": "/quotes/sharon_begley_101620",
+        "quote": "Somewhere, something incredible is waiting to be known.",
+        "author": {
+            "name": "Sharon Begley",
+            "url": "/quotes/sharon_begley_101620"
+        },
+        "topics": [
+            {
+                "name": "Inspirational",
+                "url": "/topics/inspirational"
+            },
+            {
+                "name": "Waiting",
+                "url": "/topics/waiting"
+            }
+        ]
+    }
+]

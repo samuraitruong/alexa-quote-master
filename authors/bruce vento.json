@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/bruce_vento_324356",
+        "quote": "We need to bridge the gap between the medical libraries and the hospital rooms; take the information out there already, add to it, focus it, harness it - and bring it to the patient who was just diagnosed today.",
+        "author": {
+            "name": "Bruce Vento",
+            "url": "/quotes/bruce_vento_324356"
+        },
+        "topics": [
+            {
+                "name": "Medical",
+                "url": "/topics/medical"
+            },
+            {
+                "name": "Rooms",
+                "url": "/topics/rooms"
+            },
+            {
+                "name": "Add",
+                "url": "/topics/add"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bruce_vento_322601",
+        "quote": "Going to school is an everyday process; it isn't something we accomplish and are all done with.",
+        "author": {
+            "name": "Bruce Vento",
+            "url": "/quotes/bruce_vento_322601"
+        },
+        "topics": [
+            {
+                "name": "Process",
+                "url": "/topics/process"
+            },
+            {
+                "name": "Accomplish",
+                "url": "/topics/accomplish"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bruce_vento_324355",
+        "quote": "We have to put in our time every day to try and achieve and learn so that we can develop our talents and each of you, thank goodness, have special talents; each of you are special persons.",
+        "author": {
+            "name": "Bruce Vento",
+            "url": "/quotes/bruce_vento_324355"
+        },
+        "topics": [
+            {
+                "name": "Every Day",
+                "url": "/topics/every_day"
+            },
+            {
+                "name": "Learn",
+                "url": "/topics/learn"
+            },
+            {
+                "name": "Achieve",
+                "url": "/topics/achieve"
+            }
+        ]
+    }
+]

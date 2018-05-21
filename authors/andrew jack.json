@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/andrew_jack_193868",
+        "quote": "All artists are people of growth. It's like food, you take the good and leave the rest.",
+        "author": {
+            "name": "Andrew Jack",
+            "url": "/quotes/andrew_jack_193868"
+        },
+        "topics": [
+            {
+                "name": "People",
+                "url": "/topics/people"
+            },
+            {
+                "name": "Rest",
+                "url": "/topics/rest"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/andrew_jack_193869",
+        "quote": "I've done my time in being broke in Indonesia. Eating Goat soup. Australia's a developed country, you've got a lot of taxes, rents are high and its quite difficult to survive as an artist especially when you are just coming up.",
+        "author": {
+            "name": "Andrew Jack",
+            "url": "/quotes/andrew_jack_193869"
+        },
+        "topics": [
+            {
+                "name": "Artist",
+                "url": "/topics/artist"
+            },
+            {
+                "name": "Soup",
+                "url": "/topics/soup"
+            },
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/andrew_jack_193871",
+        "quote": "Whereas there's a wealth of galleries in Australia, everyone's got a gallery in Australia or wants your work. Because the art scene is smaller in Indonesia, there's not so much competition.",
+        "author": {
+            "name": "Andrew Jack",
+            "url": "/quotes/andrew_jack_193871"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Wealth",
+                "url": "/topics/wealth"
+            },
+            {
+                "name": "Smaller",
+                "url": "/topics/smaller"
+            }
+        ]
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/tommaso_campanella_307703",
+        "quote": "The world is a living image of God.",
+        "author": {
+            "name": "Tommaso Campanella",
+            "url": "/quotes/tommaso_campanella_307703"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Living",
+                "url": "/topics/living"
+            },
+            {
+                "name": "Image",
+                "url": "/topics/image"
+            }
+        ]
+    }
+]

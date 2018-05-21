@@ -1,0 +1,130 @@
+[
+    {
+        "url": "/quotes/rupert_brooke_125307",
+        "quote": "Breathless, we flung us on a windy hill, Laughed in the sun, and kissed the lovely grass.",
+        "author": {
+            "name": "Rupert Brooke",
+            "url": "/quotes/rupert_brooke_125307"
+        },
+        "topics": [
+            {
+                "name": "Romantic",
+                "url": "/topics/romantic"
+            },
+            {
+                "name": "Hill",
+                "url": "/topics/hill"
+            },
+            {
+                "name": "Breathless",
+                "url": "/topics/breathless"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rupert_brooke_131258",
+        "quote": "A kiss makes the heart young again and wipes out the years.",
+        "author": {
+            "name": "Rupert Brooke",
+            "url": "/quotes/rupert_brooke_131258"
+        },
+        "topics": [
+            {
+                "name": "Young",
+                "url": "/topics/young"
+            },
+            {
+                "name": "Valentine's Day",
+                "url": "/topics/valentinesday"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rupert_brooke_378258",
+        "quote": "Cities, like cats, will reveal themselves at night.",
+        "author": {
+            "name": "Rupert Brooke",
+            "url": "/quotes/rupert_brooke_378258"
+        },
+        "topics": [
+            {
+                "name": "Cats",
+                "url": "/topics/cats"
+            },
+            {
+                "name": "Reveal",
+                "url": "/topics/reveal"
+            },
+            {
+                "name": "Cities",
+                "url": "/topics/cities"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rupert_brooke_390394",
+        "quote": "A book may be compared to your neighbor: if it be good, it cannot last too long; if bad, you cannot get rid of it too early.",
+        "author": {
+            "name": "Rupert Brooke",
+            "url": "/quotes/rupert_brooke_390394"
+        },
+        "topics": [
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Last",
+                "url": "/topics/last"
+            },
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rupert_brooke_120501",
+        "quote": "We always love those who admire us; we do not always love those whom we admire.",
+        "author": {
+            "name": "Rupert Brooke",
+            "url": "/quotes/rupert_brooke_120501"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Admire",
+                "url": "/topics/admire"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rupert_brooke_107830",
+        "quote": "The cool kindliness of sheets, that soon smooth away trouble; and the rough male kiss of blankets.",
+        "author": {
+            "name": "Rupert Brooke",
+            "url": "/quotes/rupert_brooke_107830"
+        },
+        "topics": [
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            },
+            {
+                "name": "Rough",
+                "url": "/topics/rough"
+            },
+            {
+                "name": "Sheets",
+                "url": "/topics/sheets"
+            }
+        ]
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/alfredo_stroessner_373543",
+        "quote": "I was always confident that I knew. I never expected this.",
+        "author": {
+            "name": "Alfredo Stroessner",
+            "url": "/quotes/alfredo_stroessner_373543"
+        },
+        "topics": [
+            {
+                "name": "Confident",
+                "url": "/topics/confident"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alfredo_stroessner_373540",
+        "quote": "We can't make any statements here. We can't talk about the internal politics of Paraguay.",
+        "author": {
+            "name": "Alfredo Stroessner",
+            "url": "/quotes/alfredo_stroessner_373540"
+        },
+        "topics": [
+            {
+                "name": "Politics",
+                "url": "/topics/politics"
+            },
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            },
+            {
+                "name": "Internal",
+                "url": "/topics/internal"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alfredo_stroessner_373542",
+        "quote": "There was no reason for a revolution in Paraguay.",
+        "author": {
+            "name": "Alfredo Stroessner",
+            "url": "/quotes/alfredo_stroessner_373542"
+        },
+        "topics": [
+            {
+                "name": "Revolution",
+                "url": "/topics/revolution"
+            },
+            {
+                "name": "Reason",
+                "url": "/topics/reason"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alfredo_stroessner_373546",
+        "quote": "I have to think of my status as a resident in this country. But I do insist that in Paraguay there was order; the judiciary had the power of complete independence; justice was fully exercised.",
+        "author": {
+            "name": "Alfredo Stroessner",
+            "url": "/quotes/alfredo_stroessner_373546"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Had",
+                "url": "/topics/had"
+            }
+        ]
+    }
+]

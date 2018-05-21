@@ -1,0 +1,134 @@
+[
+    {
+        "url": "/quotes/boethius_131213",
+        "quote": "Who would give a law to lovers? Love is unto itself a higher law.",
+        "author": {
+            "name": "Boethius",
+            "url": "/quotes/boethius_131213"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            },
+            {
+                "name": "Unto",
+                "url": "/topics/unto"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/boethius_173562",
+        "quote": "Nothing is miserable unless you think it is so.",
+        "author": {
+            "name": "Boethius",
+            "url": "/quotes/boethius_173562"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Miserable",
+                "url": "/topics/miserable"
+            },
+            {
+                "name": "Unless",
+                "url": "/topics/unless"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/boethius_129155",
+        "quote": "Music is part of us, and either ennobles or degrades our behavior.",
+        "author": {
+            "name": "Boethius",
+            "url": "/quotes/boethius_129155"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "Part",
+                "url": "/topics/part"
+            },
+            {
+                "name": "Either",
+                "url": "/topics/either"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/boethius_173564",
+        "quote": "If there is a God, whence proceed so many evils? If there is no God, whence cometh any good?",
+        "author": {
+            "name": "Boethius",
+            "url": "/quotes/boethius_173564"
+        },
+        "topics": [
+            {
+                "name": "Whence",
+                "url": "/topics/whence"
+            },
+            {
+                "name": "Proceed",
+                "url": "/topics/proceed"
+            },
+            {
+                "name": "Cometh",
+                "url": "/topics/cometh"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/boethius_173561",
+        "quote": "A man content to go to heaven alone will never go to heaven.",
+        "author": {
+            "name": "Boethius",
+            "url": "/quotes/boethius_173561"
+        },
+        "topics": [
+            {
+                "name": "Alone",
+                "url": "/topics/alone"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/boethius_173563",
+        "quote": "For in all adversity of fortune the worst sort of misery is to have been happy.",
+        "author": {
+            "name": "Boethius",
+            "url": "/quotes/boethius_173563"
+        },
+        "topics": [
+            {
+                "name": "Adversity",
+                "url": "/topics/adversity"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Fortune",
+                "url": "/topics/fortune"
+            }
+        ]
+    }
+]

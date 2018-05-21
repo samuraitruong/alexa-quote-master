@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/robert_g_allen_190121",
+        "quote": "How many millionaires do you know who have become wealthy by investing in savings accounts? I rest my case.",
+        "author": {
+            "name": "Robert G. Allen",
+            "url": "/quotes/robert_g_allen_190121"
+        },
+        "topics": [
+            {
+                "name": "Rest",
+                "url": "/topics/rest"
+            },
+            {
+                "name": "Wealthy",
+                "url": "/topics/wealthy"
+            },
+            {
+                "name": "Many",
+                "url": "/topics/many"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_g_allen_190120",
+        "quote": "Don't let the opinions of the average man sway you. Dream, and he thinks you're crazy. Succeed, and he thinks you're lucky. Acquire wealth, and he thinks you're greedy. Pay no attention. He simply doesn't understand.",
+        "author": {
+            "name": "Robert G. Allen",
+            "url": "/quotes/robert_g_allen_190120"
+        },
+        "topics": [
+            {
+                "name": "Wealth",
+                "url": "/topics/wealth"
+            },
+            {
+                "name": "Lucky",
+                "url": "/topics/lucky"
+            },
+            {
+                "name": "Average",
+                "url": "/topics/average"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_g_allen_190122",
+        "quote": "Pursuing your passion is fulfilling and leads to financial freedom.",
+        "author": {
+            "name": "Robert G. Allen",
+            "url": "/quotes/robert_g_allen_190122"
+        },
+        "topics": [
+            {
+                "name": "Freedom",
+                "url": "/topics/freedom"
+            },
+            {
+                "name": "Pursuing",
+                "url": "/topics/pursuing"
+            },
+            {
+                "name": "Leads",
+                "url": "/topics/leads"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_g_allen_190119",
+        "quote": "Many an optimist has become rich by buying out a pessimist.",
+        "author": {
+            "name": "Robert G. Allen",
+            "url": "/quotes/robert_g_allen_190119"
+        },
+        "topics": [
+            {
+                "name": "Rich",
+                "url": "/topics/rich"
+            },
+            {
+                "name": "Buying",
+                "url": "/topics/buying"
+            },
+            {
+                "name": "Optimist",
+                "url": "/topics/optimist"
+            }
+        ]
+    }
+]

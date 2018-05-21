@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/jessica_tandy_114217",
+        "quote": "When he's late for dinner, I know he's either having an affair or is lying dead in the street. I always hope it's the street.",
+        "author": {
+            "name": "Jessica Tandy",
+            "url": "/quotes/jessica_tandy_114217"
+        },
+        "topics": [
+            {
+                "name": "Dead",
+                "url": "/topics/dead"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Having",
+                "url": "/topics/having"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jessica_tandy_395888",
+        "quote": "You are richer for doing things.",
+        "author": {
+            "name": "Jessica Tandy",
+            "url": "/quotes/jessica_tandy_395888"
+        },
+        "topics": [
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Things",
+                "url": "/topics/things"
+            },
+            {
+                "name": "Richer",
+                "url": "/topics/richer"
+            }
+        ]
+    }
+]

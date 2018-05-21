@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/pope_gregory_vii_160503",
+        "quote": "I have loved justice and hated iniquity: therefore I die in exile.",
+        "author": {
+            "name": "Pope Gregory VII",
+            "url": "/quotes/pope_gregory_vii_160503"
+        },
+        "topics": [
+            {
+                "name": "Loved",
+                "url": "/topics/loved"
+            },
+            {
+                "name": "Die",
+                "url": "/topics/die"
+            },
+            {
+                "name": "Iniquity",
+                "url": "/topics/iniquity"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/pope_gregory_vii_160504",
+        "quote": "It is the custom of the Roman Church which I unworthily serve with the help of God, to tolerate some things, to turn a blind eye to some, following the spirit of discretion rather than the rigid letter of the law.",
+        "author": {
+            "name": "Pope Gregory VII",
+            "url": "/quotes/pope_gregory_vii_160504"
+        },
+        "topics": [
+            {
+                "name": "Blind",
+                "url": "/topics/blind"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Rather",
+                "url": "/topics/rather"
+            }
+        ]
+    }
+]

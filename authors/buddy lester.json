@@ -1,0 +1,55 @@
+[
+    {
+        "url": "/quotes/buddy_lester_669015",
+        "quote": "I'd been doing the Chicago theatre thing for years. The money was kinda good - thanks to a push by my old pal Capone, who, let's say, persuaded theatre owners to book me.",
+        "author": {
+            "name": "Buddy Lester",
+            "url": "/quotes/buddy_lester_669015"
+        },
+        "topics": [
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Old",
+                "url": "/topics/old"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/buddy_lester_669016",
+        "quote": "I was no thespian.",
+        "author": {
+            "name": "Buddy Lester",
+            "url": "/quotes/buddy_lester_669016"
+        },
+        "topics": []
+    },
+    {
+        "url": "/quotes/buddy_lester_669017",
+        "quote": "I fell off a chair onto a broken water glass when I was 3 years old.",
+        "author": {
+            "name": "Buddy Lester",
+            "url": "/quotes/buddy_lester_669017"
+        },
+        "topics": [
+            {
+                "name": "Broken",
+                "url": "/topics/broken"
+            },
+            {
+                "name": "Glass",
+                "url": "/topics/glass"
+            },
+            {
+                "name": "Fell",
+                "url": "/topics/fell"
+            }
+        ]
+    }
+]

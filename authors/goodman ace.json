@@ -1,0 +1,134 @@
+[
+    {
+        "url": "/quotes/goodman_ace_287329",
+        "quote": "I keep reading between the lies.",
+        "author": {
+            "name": "Goodman Ace",
+            "url": "/quotes/goodman_ace_287329"
+        },
+        "topics": [
+            {
+                "name": "Reading",
+                "url": "/topics/reading"
+            },
+            {
+                "name": "Keep",
+                "url": "/topics/keep"
+            },
+            {
+                "name": "Lies",
+                "url": "/topics/lies"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/goodman_ace_161180",
+        "quote": "TV - a clever contraction derived from the words Terrible Vaudeville. However, it is our latest medium - we call it a medium because nothing's well done.",
+        "author": {
+            "name": "Goodman Ace",
+            "url": "/quotes/goodman_ace_161180"
+        },
+        "topics": [
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            },
+            {
+                "name": "However",
+                "url": "/topics/however"
+            },
+            {
+                "name": "TV",
+                "url": "/topics/tv"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/goodman_ace_287330",
+        "quote": "I would have answered your letter sooner, but you didn't send one.",
+        "author": {
+            "name": "Goodman Ace",
+            "url": "/quotes/goodman_ace_287330"
+        },
+        "topics": [
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            },
+            {
+                "name": "Answered",
+                "url": "/topics/answered"
+            },
+            {
+                "name": "Sooner",
+                "url": "/topics/sooner"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/goodman_ace_287331",
+        "quote": "Moon rocks are OK when everyone is eating.",
+        "author": {
+            "name": "Goodman Ace",
+            "url": "/quotes/goodman_ace_287331"
+        },
+        "topics": [
+            {
+                "name": "Moon",
+                "url": "/topics/moon"
+            },
+            {
+                "name": "Rocks",
+                "url": "/topics/rocks"
+            },
+            {
+                "name": "Everyone",
+                "url": "/topics/everyone"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/goodman_ace_287332",
+        "quote": "Politics makes estranged bedfellows.",
+        "author": {
+            "name": "Goodman Ace",
+            "url": "/quotes/goodman_ace_287332"
+        },
+        "topics": [
+            {
+                "name": "Politics",
+                "url": "/topics/politics"
+            },
+            {
+                "name": "Bedfellows",
+                "url": "/topics/bedfellows"
+            },
+            {
+                "name": "Makes",
+                "url": "/topics/makes"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/goodman_ace_287333",
+        "quote": "The best cure for hypochondria is to forget about your body and get interested in someone else's.",
+        "author": {
+            "name": "Goodman Ace",
+            "url": "/quotes/goodman_ace_287333"
+        },
+        "topics": [
+            {
+                "name": "Forget",
+                "url": "/topics/forget"
+            },
+            {
+                "name": "Someone",
+                "url": "/topics/someone"
+            },
+            {
+                "name": "Else",
+                "url": "/topics/else"
+            }
+        ]
+    }
+]

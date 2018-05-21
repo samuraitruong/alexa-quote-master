@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/michael_aston_392606",
+        "quote": "Let's not pretend that abortion isn't about the mass slaughter of innocents.",
+        "author": {
+            "name": "Michael Aston",
+            "url": "/quotes/michael_aston_392606"
+        },
+        "topics": [
+            {
+                "name": "Abortion",
+                "url": "/topics/abortion"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Mass",
+                "url": "/topics/mass"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/michael_aston_392854",
+        "quote": "I can't believe the pro-choicers attitude toward unborn children-to me it's the ultimate liberal cause, to defend those without a voice.",
+        "author": {
+            "name": "Michael Aston",
+            "url": "/quotes/michael_aston_392854"
+        },
+        "topics": [
+            {
+                "name": "Voice",
+                "url": "/topics/voice"
+            },
+            {
+                "name": "Unborn",
+                "url": "/topics/unborn"
+            },
+            {
+                "name": "Ultimate",
+                "url": "/topics/ultimate"
+            }
+        ]
+    }
+]

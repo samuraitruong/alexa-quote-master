@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/arthur_m_schlesinger_109503",
+        "quote": "Science and technology revolutionize our lives, but memory, tradition and myth frame our response.",
+        "author": {
+            "name": "Arthur M. Schlesinger",
+            "url": "/quotes/arthur_m_schlesinger_109503"
+        },
+        "topics": [
+            {
+                "name": "Science",
+                "url": "/topics/science"
+            },
+            {
+                "name": "Myth",
+                "url": "/topics/myth"
+            },
+            {
+                "name": "Revolutionize",
+                "url": "/topics/revolutionize"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/arthur_m_schlesinger_127666",
+        "quote": "Expelled from individual consciousness by the rush of change, history finds its revenge by stamping the collective unconsciousness with habits and values.",
+        "author": {
+            "name": "Arthur M. Schlesinger",
+            "url": "/quotes/arthur_m_schlesinger_127666"
+        },
+        "topics": [
+            {
+                "name": "Habits",
+                "url": "/topics/habits"
+            },
+            {
+                "name": "Individual",
+                "url": "/topics/individual"
+            },
+            {
+                "name": "Expelled",
+                "url": "/topics/expelled"
+            }
+        ]
+    }
+]

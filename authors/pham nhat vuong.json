@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/pham_nhat_vuong_622013",
+        "quote": "Vietnamese are very similar to the Chinese. They just can't sit on gold bars underneath their beds. Eventually, they will pull out their gold bars and invest.",
+        "author": {
+            "name": "Pham Nhat Vuong",
+            "url": "/quotes/pham_nhat_vuong_622013"
+        },
+        "topics": [
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Similar",
+                "url": "/topics/similar"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/pham_nhat_vuong_622015",
+        "quote": "Attacking is better than defending.",
+        "author": {
+            "name": "Pham Nhat Vuong",
+            "url": "/quotes/pham_nhat_vuong_622015"
+        },
+        "topics": [
+            {
+                "name": "Better",
+                "url": "/topics/better"
+            },
+            {
+                "name": "Than",
+                "url": "/topics/than"
+            },
+            {
+                "name": "Defending",
+                "url": "/topics/defending"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/pham_nhat_vuong_622014",
+        "quote": "We want to bring better products to Vietnam. My hope is through changes in lifestyle and the products we consume, it will affect the people and change the way they are thinking.",
+        "author": {
+            "name": "Pham Nhat Vuong",
+            "url": "/quotes/pham_nhat_vuong_622014"
+        },
+        "topics": [
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Affect",
+                "url": "/topics/affect"
+            }
+        ]
+    }
+]

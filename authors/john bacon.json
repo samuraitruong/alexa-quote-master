@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/john_bacon_402820",
+        "quote": "I heard that Jesus had a pet dinosaur. Evolution must be a myth then.",
+        "author": {
+            "name": "John Bacon",
+            "url": "/quotes/john_bacon_402820"
+        },
+        "topics": [
+            {
+                "name": "Myth",
+                "url": "/topics/myth"
+            },
+            {
+                "name": "Had",
+                "url": "/topics/had"
+            },
+            {
+                "name": "Jesus",
+                "url": "/topics/jesus"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_bacon_202476",
+        "quote": "We will grieve not, rather find strength in what remains behind. In the faith that looks through death, in years that bring the philosophic mind.",
+        "author": {
+            "name": "John Bacon",
+            "url": "/quotes/john_bacon_202476"
+        },
+        "topics": [
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Behind",
+                "url": "/topics/behind"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_bacon_402338",
+        "quote": "It comes down to the way you treat people. When you treat people with dignity and respect all the time, you can work through anything.",
+        "author": {
+            "name": "John Bacon",
+            "url": "/quotes/john_bacon_402338"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Treat",
+                "url": "/topics/treat"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            }
+        ]
+    }
+]

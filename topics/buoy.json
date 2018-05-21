@@ -1,0 +1,130 @@
+[
+    {
+        "url": "/quotes/jane_poynter_560602?src=t_buoy",
+        "quote": "It's always helpful to have somebody help buoy you in difficult times and problem-solve with and to share the marvelous moments with as well.",
+        "author": {
+            "name": "Jane Poynter",
+            "url": "/authors/jane_poynter"
+        },
+        "topics": [
+            {
+                "name": "Difficult Times",
+                "url": "/topics/difficult_times"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mark_zandi_476904?src=t_buoy",
+        "quote": "There is no better way to quickly buoy hard-pressed homeowners than helping them take advantage of the currently record low fixed mortgage rates and significantly reduce their monthly mortgage payments.",
+        "author": {
+            "name": "Mark Zandi",
+            "url": "/authors/mark_zandi"
+        },
+        "topics": [
+            {
+                "name": "Helping",
+                "url": "/topics/helping"
+            },
+            {
+                "name": "Reduce",
+                "url": "/topics/reduce"
+            },
+            {
+                "name": "Better Way",
+                "url": "/topics/better_way"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_cobbett_158539?src=t_buoy",
+        "quote": "The very hirelings of the press, whose trade it is to buoy up the spirits of the people, have uttered falsehoods so long, they have played off so many tricks, that their budget seems, at last, to be quite empty.",
+        "author": {
+            "name": "William Cobbett",
+            "url": "/authors/william_cobbett"
+        },
+        "topics": [
+            {
+                "name": "Last",
+                "url": "/topics/last"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Tricks",
+                "url": "/topics/tricks"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jonathan_brownlee_752706?src=t_buoy",
+        "quote": "During an open water swim, it's easy to lose your direction. With all the splash, it can be quite hard to see the next buoy, so I look behind it for something bigger, like a tree or a building, and aim for that instead.",
+        "author": {
+            "name": "Jonathan Brownlee",
+            "url": "/authors/jonathan_brownlee"
+        },
+        "topics": [
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            },
+            {
+                "name": "Aim",
+                "url": "/topics/aim"
+            },
+            {
+                "name": "Behind",
+                "url": "/topics/behind"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jack_adams_254139?src=t_buoy",
+        "quote": "Chicago's buoy was a couple of hundred yards astern of Arizona, and I was saddened to look at her.",
+        "author": {
+            "name": "Jack Adams",
+            "url": "/authors/jack_adams"
+        },
+        "topics": [
+            {
+                "name": "Her",
+                "url": "/topics/her"
+            },
+            {
+                "name": "Couple",
+                "url": "/topics/couple"
+            },
+            {
+                "name": "Hundred",
+                "url": "/topics/hundred"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/barney_ross_353107?src=t_buoy",
+        "quote": "I was standing on the deck of the USS Blue, a destroyer. We were all alone out there at this buoy, tied up.",
+        "author": {
+            "name": "Barney Ross",
+            "url": "/authors/barney_ross"
+        },
+        "topics": [
+            {
+                "name": "Deck",
+                "url": "/topics/deck"
+            },
+            {
+                "name": "Tied",
+                "url": "/topics/tied"
+            },
+            {
+                "name": "Destroyer",
+                "url": "/topics/destroyer"
+            }
+        ]
+    }
+]

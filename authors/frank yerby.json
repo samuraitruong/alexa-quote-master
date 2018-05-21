@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/frank_yerby_145321",
+        "quote": "From where they stood, they could see the castle.",
+        "author": {
+            "name": "Frank Yerby",
+            "url": "/quotes/frank_yerby_145321"
+        },
+        "topics": [
+            {
+                "name": "Castle",
+                "url": "/topics/castle"
+            },
+            {
+                "name": "See",
+                "url": "/topics/see"
+            },
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/frank_yerby_145318",
+        "quote": "About fifteen miles above New Orleans the river goes very slowly. It has broadened out there until it is almost a sea and the water is yellow with the mud of half a continent. Where the sun strikes it, it is golden.",
+        "author": {
+            "name": "Frank Yerby",
+            "url": "/quotes/frank_yerby_145318"
+        },
+        "topics": [
+            {
+                "name": "Half",
+                "url": "/topics/half"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Continent",
+                "url": "/topics/continent"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/frank_yerby_164885",
+        "quote": "There was no wind in all that sweep of sky.",
+        "author": {
+            "name": "Frank Yerby",
+            "url": "/quotes/frank_yerby_164885"
+        },
+        "topics": [
+            {
+                "name": "Sky",
+                "url": "/topics/sky"
+            },
+            {
+                "name": "Wind",
+                "url": "/topics/wind"
+            },
+            {
+                "name": "Sweep",
+                "url": "/topics/sweep"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/frank_yerby_145322",
+        "quote": "When it was over, it was not really over, and that was the trouble.",
+        "author": {
+            "name": "Frank Yerby",
+            "url": "/quotes/frank_yerby_145322"
+        },
+        "topics": [
+            {
+                "name": "Trouble",
+                "url": "/topics/trouble"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Over It",
+                "url": "/topics/over_it"
+            }
+        ]
+    }
+]

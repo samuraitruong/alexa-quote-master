@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/mike_harding_128162",
+        "quote": "He once had his toes amputated so he could stand closer to the bar.",
+        "author": {
+            "name": "Mike Harding",
+            "url": "/quotes/mike_harding_128162"
+        },
+        "topics": [
+            {
+                "name": "Bar",
+                "url": "/topics/bar"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            },
+            {
+                "name": "Once",
+                "url": "/topics/once"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mike_harding_137020",
+        "quote": "If little green men land in your back yard, hide any little green women you've got in the house.",
+        "author": {
+            "name": "Mike Harding",
+            "url": "/quotes/mike_harding_137020"
+        },
+        "topics": [
+            {
+                "name": "Green",
+                "url": "/topics/green"
+            },
+            {
+                "name": "Back",
+                "url": "/topics/back"
+            },
+            {
+                "name": "Yard",
+                "url": "/topics/yard"
+            }
+        ]
+    }
+]

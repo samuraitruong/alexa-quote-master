@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/shah_rukh_khan_442113?src=t_lest_things",
+        "quote": "You know, I think we Indians are afraid to show and celebrate our happiness, lest things change around. But I feel that it's okay to be sad and okay to show when you are happy.",
+        "author": {
+            "name": "Shah Rukh Khan",
+            "url": "/authors/shah_rukh_khan"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Okay",
+                "url": "/topics/okay"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    }
+]

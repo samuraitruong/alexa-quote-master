@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/lawrence_kohlberg_310802",
+        "quote": "The individual makes a clear effort to define moral values and principles that have validity and application apart from the authority of the groups of persons holding them and apart from the individual's own identification with the group.",
+        "author": {
+            "name": "Lawrence Kohlberg",
+            "url": "/quotes/lawrence_kohlberg_310802"
+        },
+        "topics": [
+            {
+                "name": "Individual",
+                "url": "/topics/individual"
+            },
+            {
+                "name": "Moral Values",
+                "url": "/topics/moral_values"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lawrence_kohlberg_310801",
+        "quote": "Right action tends to be defined in terms of general individual rights and standards that have been critically examined and agreed upon by the whole society.",
+        "author": {
+            "name": "Lawrence Kohlberg",
+            "url": "/quotes/lawrence_kohlberg_310801"
+        },
+        "topics": [
+            {
+                "name": "Individual",
+                "url": "/topics/individual"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Whole",
+                "url": "/topics/whole"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lawrence_kohlberg_310800",
+        "quote": "At this level, the individual perceives the maintenance of the expectations of his family, group, or nation as valuable in its own right, regardless of immediate and obvious consequences.",
+        "author": {
+            "name": "Lawrence Kohlberg",
+            "url": "/quotes/lawrence_kohlberg_310800"
+        },
+        "topics": [
+            {
+                "name": "Individual",
+                "url": "/topics/individual"
+            },
+            {
+                "name": "Nation",
+                "url": "/topics/nation"
+            },
+            {
+                "name": "Level",
+                "url": "/topics/level"
+            }
+        ]
+    }
+]

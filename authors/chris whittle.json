@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/chris_whittle_547710",
+        "quote": "I grew up assuming that I would be in public service. I never planned to be in business.",
+        "author": {
+            "name": "Chris Whittle",
+            "url": "/quotes/chris_whittle_547710"
+        },
+        "topics": [
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Public",
+                "url": "/topics/public"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/chris_whittle_547711",
+        "quote": "If you could have a news program without commercials, it would be better. But is a news program with commercials better than no news program at all? My view was, I'll take the one with commercials versus no news program at all.",
+        "author": {
+            "name": "Chris Whittle",
+            "url": "/quotes/chris_whittle_547711"
+        },
+        "topics": [
+            {
+                "name": "News",
+                "url": "/topics/news"
+            },
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            },
+            {
+                "name": "Commercials",
+                "url": "/topics/commercials"
+            }
+        ]
+    }
+]

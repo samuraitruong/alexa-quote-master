@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/lanford_wilson_350620",
+        "quote": "But when I came back into the city for the first time last November, I thought every truck, every building was going to blow up. It has truly changed me something fierce.",
+        "author": {
+            "name": "Lanford Wilson",
+            "url": "/quotes/lanford_wilson_350620"
+        },
+        "topics": [
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Last",
+                "url": "/topics/last"
+            },
+            {
+                "name": "November",
+                "url": "/topics/november"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lanford_wilson_350618",
+        "quote": "I am one of the 11.5% of New Yorkers who remain traumatized by the events of September 11.",
+        "author": {
+            "name": "Lanford Wilson",
+            "url": "/quotes/lanford_wilson_350618"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Remain",
+                "url": "/topics/remain"
+            },
+            {
+                "name": "New Yorkers",
+                "url": "/topics/new_yorkers"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lanford_wilson_350619",
+        "quote": "I am not sure why, but I have been obsessed by the Atom Bomb ever since it first happened.",
+        "author": {
+            "name": "Lanford Wilson",
+            "url": "/quotes/lanford_wilson_350619"
+        },
+        "topics": [
+            {
+                "name": "Sure",
+                "url": "/topics/sure"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Obsessed",
+                "url": "/topics/obsessed"
+            }
+        ]
+    }
+]

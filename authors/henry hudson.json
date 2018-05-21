@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/henry_hudson_261695",
+        "quote": "This land may be profitable to those that will adventure it.",
+        "author": {
+            "name": "Henry Hudson",
+            "url": "/quotes/henry_hudson_261695"
+        },
+        "topics": [
+            {
+                "name": "Adventure",
+                "url": "/topics/adventure"
+            },
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henry_hudson_261702",
+        "quote": "These natives are a very good people; for when they saw that I would not remain, they supposed that I was afraid of their bows; and, taking their arrows, the broke them in pieces and threw them into the fire.",
+        "author": {
+            "name": "Henry Hudson",
+            "url": "/quotes/henry_hudson_261702"
+        },
+        "topics": [
+            {
+                "name": "Broke",
+                "url": "/topics/broke"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Threw",
+                "url": "/topics/threw"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henry_hudson_261694",
+        "quote": "A sea setting us upon the ice has brought us close to danger.",
+        "author": {
+            "name": "Henry Hudson",
+            "url": "/quotes/henry_hudson_261694"
+        },
+        "topics": [
+            {
+                "name": "Ice",
+                "url": "/topics/ice"
+            },
+            {
+                "name": "Danger",
+                "url": "/topics/danger"
+            },
+            {
+                "name": "Brought",
+                "url": "/topics/brought"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henry_hudson_261692",
+        "quote": "I used all diligence to arrive at London and therefore I now gave my crew a certificate under my hand, of my free and willing return, without persuasion or force by any one or more of them.",
+        "author": {
+            "name": "Henry Hudson",
+            "url": "/quotes/henry_hudson_261692"
+        },
+        "topics": [
+            {
+                "name": "London",
+                "url": "/topics/london"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Willing",
+                "url": "/topics/willing"
+            }
+        ]
+    }
+]

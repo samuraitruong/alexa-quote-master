@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/lilli_palmer_311983",
+        "quote": "I sweat. If anything comes easy to me I mistrust it.",
+        "author": {
+            "name": "Lilli Palmer",
+            "url": "/quotes/lilli_palmer_311983"
+        },
+        "topics": [
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Sweat",
+                "url": "/topics/sweat"
+            },
+            {
+                "name": "Mistrust",
+                "url": "/topics/mistrust"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lilli_palmer_402551",
+        "quote": "Fidelity is a gift not a requirement.",
+        "author": {
+            "name": "Lilli Palmer",
+            "url": "/quotes/lilli_palmer_402551"
+        },
+        "topics": [
+            {
+                "name": "Gift",
+                "url": "/topics/gift"
+            },
+            {
+                "name": "Fidelity",
+                "url": "/topics/fidelity"
+            },
+            {
+                "name": "Requirement",
+                "url": "/topics/requirement"
+            }
+        ]
+    }
+]

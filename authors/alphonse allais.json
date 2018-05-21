@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/alphonse_allais_190297",
+        "quote": "Coffee is a beverage that puts one to sleep when not drank.",
+        "author": {
+            "name": "Alphonse Allais",
+            "url": "/quotes/alphonse_allais_190297"
+        },
+        "topics": [
+            {
+                "name": "Sleep",
+                "url": "/topics/sleep"
+            },
+            {
+                "name": "Puts",
+                "url": "/topics/puts"
+            },
+            {
+                "name": "Drank",
+                "url": "/topics/drank"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alphonse_allais_190298",
+        "quote": "Statistics have shown that mortality increases perceptibly in the military during wartime.",
+        "author": {
+            "name": "Alphonse Allais",
+            "url": "/quotes/alphonse_allais_190298"
+        },
+        "topics": [
+            {
+                "name": "Mortality",
+                "url": "/topics/mortality"
+            },
+            {
+                "name": "Increases",
+                "url": "/topics/increases"
+            },
+            {
+                "name": "Shown",
+                "url": "/topics/shown"
+            }
+        ]
+    }
+]

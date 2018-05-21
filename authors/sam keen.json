@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/sam_keen_178457",
+        "quote": "Deep summer is when laziness finds respectability.",
+        "author": {
+            "name": "Sam Keen",
+            "url": "/quotes/sam_keen_178457"
+        },
+        "topics": [
+            {
+                "name": "Summer",
+                "url": "/topics/summer"
+            },
+            {
+                "name": "Deep",
+                "url": "/topics/deep"
+            },
+            {
+                "name": "Finds",
+                "url": "/topics/finds"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sam_keen_171241",
+        "quote": "We come to love not by finding a perfect person but by learning to see an imperfect person perfectly.",
+        "author": {
+            "name": "Sam Keen",
+            "url": "/quotes/sam_keen_171241"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "See",
+                "url": "/topics/see"
+            },
+            {
+                "name": "Imperfect",
+                "url": "/topics/imperfect"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sam_keen_391660",
+        "quote": "You can know what's in your life when you know what's in your heart.",
+        "author": {
+            "name": "Sam Keen",
+            "url": "/quotes/sam_keen_391660"
+        },
+        "topics": [
+            {
+                "name": "Know",
+                "url": "/topics/know"
+            },
+            {
+                "name": "You",
+                "url": "/topics/you"
+            },
+            {
+                "name": "Your",
+                "url": "/topics/your"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sam_keen_178455",
+        "quote": "A society in which vocation and job are separated for most people gradually creates an economy that is often devoid of spirit, one that frequently fills our pocketbooks at the cost of emptying our souls.",
+        "author": {
+            "name": "Sam Keen",
+            "url": "/quotes/sam_keen_178455"
+        },
+        "topics": [
+            {
+                "name": "Cost",
+                "url": "/topics/cost"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Frequently",
+                "url": "/topics/frequently"
+            }
+        ]
+    }
+]

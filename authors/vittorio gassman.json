@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/vittorio_gassman_113398",
+        "quote": "Acting is not that far from mental disease: An actor works on splitting his character into others. It is like a kind of schizophrenia.",
+        "author": {
+            "name": "Vittorio Gassman",
+            "url": "/quotes/vittorio_gassman_113398"
+        },
+        "topics": [
+            {
+                "name": "Disease",
+                "url": "/topics/disease"
+            },
+            {
+                "name": "Works",
+                "url": "/topics/works"
+            },
+            {
+                "name": "Splitting",
+                "url": "/topics/splitting"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/vittorio_gassman_113396",
+        "quote": "A totally healthy actor is a paradox.",
+        "author": {
+            "name": "Vittorio Gassman",
+            "url": "/quotes/vittorio_gassman_113396"
+        },
+        "topics": [
+            {
+                "name": "Healthy",
+                "url": "/topics/healthy"
+            },
+            {
+                "name": "Actor",
+                "url": "/topics/actor"
+            },
+            {
+                "name": "Paradox",
+                "url": "/topics/paradox"
+            }
+        ]
+    }
+]

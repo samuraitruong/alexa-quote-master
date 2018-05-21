@@ -1,0 +1,812 @@
+[
+    {
+        "url": "/quotes/naval_ravikant_851219",
+        "quote": "If you use a bad password, your Bitcoin will get stolen.",
+        "author": {
+            "name": "Naval Ravikant",
+            "url": "/quotes/naval_ravikant_851219"
+        },
+        "topics": [
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            },
+            {
+                "name": "Stolen",
+                "url": "/topics/stolen"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/naval_ravikant_851220",
+        "quote": "It's probably easier and cheaper to counterfeit hundred-dollar bills than it is to counterfeit Bitcoin.",
+        "author": {
+            "name": "Naval Ravikant",
+            "url": "/quotes/naval_ravikant_851220"
+        },
+        "topics": [
+            {
+                "name": "Than",
+                "url": "/topics/than"
+            },
+            {
+                "name": "Cheaper",
+                "url": "/topics/cheaper"
+            },
+            {
+                "name": "Counterfeit",
+                "url": "/topics/counterfeit"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/naval_ravikant_851223",
+        "quote": "I think long-term, Bitcoin is a currency of the Internet. So, even if humans don't use it, routers will use it. Web browsers will use it. Web servers will use it.",
+        "author": {
+            "name": "Naval Ravikant",
+            "url": "/quotes/naval_ravikant_851223"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/naval_ravikant_851226",
+        "quote": "If you're investing in a company in the Bitcoin economy, you have to compare the valuation of the company to the valuation of the entire economy.",
+        "author": {
+            "name": "Naval Ravikant",
+            "url": "/quotes/naval_ravikant_851226"
+        },
+        "topics": [
+            {
+                "name": "Company",
+                "url": "/topics/company"
+            },
+            {
+                "name": "Investing",
+                "url": "/topics/investing"
+            },
+            {
+                "name": "Compare",
+                "url": "/topics/compare"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/naval_ravikant_851228",
+        "quote": "Humans don't 'need' math-based cryptocurrencies when dealing with other humans. We walk slowly, talk slowly, and buy big things. Credit cards, cash, wires, checks - the world seems fine.",
+        "author": {
+            "name": "Naval Ravikant",
+            "url": "/quotes/naval_ravikant_851228"
+        },
+        "topics": [
+            {
+                "name": "Cards",
+                "url": "/topics/cards"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/naval_ravikant_851229",
+        "quote": "Cryptocurrencies like Bitcoin are already trustless - any machine can accept it from any other, securely. They are (nearly) free. They are global - no central bank required, and any machine can speak the language.",
+        "author": {
+            "name": "Naval Ravikant",
+            "url": "/quotes/naval_ravikant_851229"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Nearly",
+                "url": "/topics/nearly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/naval_ravikant_851231",
+        "quote": "Nation states that are used to imposing capital controls will face a quandary: ban cryptocurrencies and live in the technology dustbin; enable them, and this virus - this religion, this protocol - will enable the free flow of money and language, along with packets, around the globe.",
+        "author": {
+            "name": "Naval Ravikant",
+            "url": "/quotes/naval_ravikant_851231"
+        },
+        "topics": [
+            {
+                "name": "Controls",
+                "url": "/topics/controls"
+            },
+            {
+                "name": "Capital",
+                "url": "/topics/capital"
+            },
+            {
+                "name": "Free Flow",
+                "url": "/topics/free_flow"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/naval_ravikant_851232",
+        "quote": "Cryptocurrencies will create a fifth protocol layer powering the next generation of the Internet.",
+        "author": {
+            "name": "Naval Ravikant",
+            "url": "/quotes/naval_ravikant_851232"
+        },
+        "topics": [
+            {
+                "name": "Generation",
+                "url": "/topics/generation"
+            },
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            },
+            {
+                "name": "Protocol",
+                "url": "/topics/protocol"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/naval_ravikant_851233",
+        "quote": "Just as the web democratized publishing and development, Bitcoin can democratize building new financial services. Contracts can be entered into, verified, and enforced completely electronically, using any third-party that you care to trust, or by the code itself.",
+        "author": {
+            "name": "Naval Ravikant",
+            "url": "/quotes/naval_ravikant_851233"
+        },
+        "topics": [
+            {
+                "name": "Trust",
+                "url": "/topics/trust"
+            },
+            {
+                "name": "Financial",
+                "url": "/topics/financial"
+            },
+            {
+                "name": "Code",
+                "url": "/topics/code"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/naval_ravikant_851234",
+        "quote": "While the traditional banks and credit card companies lock down access to their payments infrastructure to a handful of trusted parties, Bitcoin is open to all.",
+        "author": {
+            "name": "Naval Ravikant",
+            "url": "/quotes/naval_ravikant_851234"
+        },
+        "topics": [
+            {
+                "name": "Banks",
+                "url": "/topics/banks"
+            },
+            {
+                "name": "Handful",
+                "url": "/topics/handful"
+            },
+            {
+                "name": "Access",
+                "url": "/topics/access"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/naval_ravikant_851235",
+        "quote": "Take a very small amount of money, your throwaway money, treat it as if it's already gone, you've mentally set it on fire, and put it in some distribution of a few truly legit layer 1 blockchains.",
+        "author": {
+            "name": "Naval Ravikant",
+            "url": "/quotes/naval_ravikant_851235"
+        },
+        "topics": [
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/naval_ravikant_851215",
+        "quote": "Cryptocurrency currencies take the concept of money, and they take it native into computers, where everything is settled with computers and doesn't require external institutions or trusted third parties to validate things.",
+        "author": {
+            "name": "Naval Ravikant",
+            "url": "/quotes/naval_ravikant_851215"
+        },
+        "topics": [
+            {
+                "name": "Settled",
+                "url": "/topics/settled"
+            },
+            {
+                "name": "Concept",
+                "url": "/topics/concept"
+            },
+            {
+                "name": "Require",
+                "url": "/topics/require"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/naval_ravikant_851230",
+        "quote": "Cryptocurrencies are an emergent property of the Internet - almost a fifth protocol in the Internet suite. If Satoshi Nakomoto did not exist, it would still be necessary to invent them.",
+        "author": {
+            "name": "Naval Ravikant",
+            "url": "/quotes/naval_ravikant_851230"
+        },
+        "topics": [
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            },
+            {
+                "name": "Satoshi",
+                "url": "/topics/satoshi"
+            },
+            {
+                "name": "Necessary",
+                "url": "/topics/necessary"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/naval_ravikant_727858",
+        "quote": "Figure out what you're good at and start helping other people with it; give it away. Pay it forward. Karma sort of works because people are very consistent. On a long enough timescale, you will attract what you project.",
+        "author": {
+            "name": "Naval Ravikant",
+            "url": "/quotes/naval_ravikant_727858"
+        },
+        "topics": [
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/naval_ravikant_727854",
+        "quote": "It's almost always possible to be honest and positive.",
+        "author": {
+            "name": "Naval Ravikant",
+            "url": "/quotes/naval_ravikant_727854"
+        },
+        "topics": [
+            {
+                "name": "Honest",
+                "url": "/topics/honest"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Almost",
+                "url": "/topics/almost"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/naval_ravikant_851208",
+        "quote": "Any competent programmer has an API to cash, payments, escrow, wills, notaries, lotteries, dividends, micropayments, subscriptions, crowdfunding, and more.",
+        "author": {
+            "name": "Naval Ravikant",
+            "url": "/quotes/naval_ravikant_851208"
+        },
+        "topics": [
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Programmer",
+                "url": "/topics/programmer"
+            },
+            {
+                "name": "Payments",
+                "url": "/topics/payments"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/naval_ravikant_727856",
+        "quote": "Entrepreneurship is really hard and painful - I'm not sure I'd recommend it for anyone who can't handle the extreme stress.",
+        "author": {
+            "name": "Naval Ravikant",
+            "url": "/quotes/naval_ravikant_727856"
+        },
+        "topics": [
+            {
+                "name": "Stress",
+                "url": "/topics/stress"
+            },
+            {
+                "name": "Sure",
+                "url": "/topics/sure"
+            },
+            {
+                "name": "Recommend",
+                "url": "/topics/recommend"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/naval_ravikant_851222",
+        "quote": "The ledger, the distributed database - it's called a Blockchain - is held in the cloud by all the parties involved. It can't be broken by any of them. It's cryptographically too strong. You would have to compromise the entire network to take over Bitcoin.",
+        "author": {
+            "name": "Naval Ravikant",
+            "url": "/quotes/naval_ravikant_851222"
+        },
+        "topics": [
+            {
+                "name": "Strong",
+                "url": "/topics/strong"
+            },
+            {
+                "name": "Held",
+                "url": "/topics/held"
+            },
+            {
+                "name": "Entire",
+                "url": "/topics/entire"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/naval_ravikant_851224",
+        "quote": "China may censor YouTube. China may censor Twitter. They won't be able to censor Bitcoin. There's no central authority. There's no one you can go to and say, 'We're going to turn Bitcoin off.'",
+        "author": {
+            "name": "Naval Ravikant",
+            "url": "/quotes/naval_ravikant_851224"
+        },
+        "topics": [
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "YouTube",
+                "url": "/topics/youtube"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/naval_ravikant_851227",
+        "quote": "We can code wills, escrows, trusts, notaries, revokable charge backs, proof of contracts, intellectual property enforcement. What Wall Street does can be done in code by Bitcoin.",
+        "author": {
+            "name": "Naval Ravikant",
+            "url": "/quotes/naval_ravikant_851227"
+        },
+        "topics": [
+            {
+                "name": "Enforcement",
+                "url": "/topics/enforcement"
+            },
+            {
+                "name": "Charge",
+                "url": "/topics/charge"
+            },
+            {
+                "name": "Code",
+                "url": "/topics/code"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/naval_ravikant_851221",
+        "quote": "Think of Bitcoin as a bank account in the cloud, and it's completely decentralized: not the Swiss government, not the American government. It's all the participants in the network enforcing.",
+        "author": {
+            "name": "Naval Ravikant",
+            "url": "/quotes/naval_ravikant_851221"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Swiss",
+                "url": "/topics/swiss"
+            },
+            {
+                "name": "Enforcing",
+                "url": "/topics/enforcing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/naval_ravikant_851225",
+        "quote": "Having a million-dollar net worth doesn't make you a genius, and having less than a million-dollar net worth doesn't make you a fool.",
+        "author": {
+            "name": "Naval Ravikant",
+            "url": "/quotes/naval_ravikant_851225"
+        },
+        "topics": [
+            {
+                "name": "Genius",
+                "url": "/topics/genius"
+            },
+            {
+                "name": "Having",
+                "url": "/topics/having"
+            },
+            {
+                "name": "Net Worth",
+                "url": "/topics/net_worth"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/naval_ravikant_855242",
+        "quote": "Money is a bubble that never pops. It's a consensus hallucination.",
+        "author": {
+            "name": "Naval Ravikant",
+            "url": "/quotes/naval_ravikant_855242"
+        },
+        "topics": [
+            {
+                "name": "Money",
+                "url": "/topics/money"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Consensus",
+                "url": "/topics/consensus"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/naval_ravikant_851218",
+        "quote": "We're going to try and prove to the market that you can do a legal coin offering. If the SEC doesn't crack down, this party will be amazing - the biggest party in town for a long time. If they do crack down, a lot of people are going to feel a lot of pain.",
+        "author": {
+            "name": "Naval Ravikant",
+            "url": "/quotes/naval_ravikant_851218"
+        },
+        "topics": [
+            {
+                "name": "Prove",
+                "url": "/topics/prove"
+            },
+            {
+                "name": "Down",
+                "url": "/topics/down"
+            },
+            {
+                "name": "Feel",
+                "url": "/topics/feel"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/naval_ravikant_851216",
+        "quote": "A block chain is a series of blocks. Each block is a series of computations done by computers all over the world using serious cryptography in a way that's very hard to undo.",
+        "author": {
+            "name": "Naval Ravikant",
+            "url": "/quotes/naval_ravikant_851216"
+        },
+        "topics": [
+            {
+                "name": "Chain",
+                "url": "/topics/chain"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/naval_ravikant_727855",
+        "quote": "The best founders are extremely thoughtful and have an eye for quality. I don't know if there's any generic advice here that would be helpful. Startup knowledge is a moving target.",
+        "author": {
+            "name": "Naval Ravikant",
+            "url": "/quotes/naval_ravikant_727855"
+        },
+        "topics": [
+            {
+                "name": "Advice",
+                "url": "/topics/advice"
+            },
+            {
+                "name": "Thoughtful",
+                "url": "/topics/thoughtful"
+            },
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/naval_ravikant_727857",
+        "quote": "Our mission is to help founders and anyone or anything that helps founders helps us with our mission.",
+        "author": {
+            "name": "Naval Ravikant",
+            "url": "/quotes/naval_ravikant_727857"
+        },
+        "topics": [
+            {
+                "name": "Help",
+                "url": "/topics/help"
+            },
+            {
+                "name": "Mission",
+                "url": "/topics/mission"
+            },
+            {
+                "name": "Anyone",
+                "url": "/topics/anyone"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/naval_ravikant_727859",
+        "quote": "I think it just helps to be very aware that fundamentally, there are no adults. Everyone is making it up as they go along. You have to find your own path, picking, choosing, taking and discarding as you see fit.",
+        "author": {
+            "name": "Naval Ravikant",
+            "url": "/quotes/naval_ravikant_727859"
+        },
+        "topics": [
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/naval_ravikant_727860",
+        "quote": "Be present. Be meditative. Form real friendships. Stay away from business networking events or friendships where there is always an underlying business angle.",
+        "author": {
+            "name": "Naval Ravikant",
+            "url": "/quotes/naval_ravikant_727860"
+        },
+        "topics": [
+            {
+                "name": "Business",
+                "url": "/topics/business"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/naval_ravikant_851206",
+        "quote": "I think of Twitter as the place where I go to have a great conversation when I can't have one locally, which seems to be all the time, and the more time that I spend on Twitter, the more I sort of curate this incredible group of very intelligent people that I just get to know purely through the quality of their thoughts.",
+        "author": {
+            "name": "Naval Ravikant",
+            "url": "/quotes/naval_ravikant_851206"
+        },
+        "topics": [
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Purely",
+                "url": "/topics/purely"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/naval_ravikant_851207",
+        "quote": "People think about Bitcoin incorrectly. They think about it as currency or about gold or hoarding, speculation, about how much money do you make. When really, what it is is an API for programmable cash transactions.",
+        "author": {
+            "name": "Naval Ravikant",
+            "url": "/quotes/naval_ravikant_851207"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Speculation",
+                "url": "/topics/speculation"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/naval_ravikant_851209",
+        "quote": "There's so much innovation going on, and there are lots of people funding that innovation, but there's very little innovation on that infrastructure for innovation itself, so we like to do that ourselves to help companies create more tech companies.",
+        "author": {
+            "name": "Naval Ravikant",
+            "url": "/quotes/naval_ravikant_851209"
+        },
+        "topics": [
+            {
+                "name": "Innovation",
+                "url": "/topics/innovation"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Tech",
+                "url": "/topics/tech"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/naval_ravikant_851210",
+        "quote": "ICOs are obviously a new and interesting form of funding for blockchain-based protocols, but it's not clear that all of them comply with U.S. securities laws or that all of them are companies that have good native use cases for new coins.",
+        "author": {
+            "name": "Naval Ravikant",
+            "url": "/quotes/naval_ravikant_851210"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Funding",
+                "url": "/topics/funding"
+            },
+            {
+                "name": "Comply",
+                "url": "/topics/comply"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/naval_ravikant_851211",
+        "quote": "It's important not to think about Bitcoin as a replacement for cash or gold or something that works alongside that; it's to think of it as programmable money. And we just cannot even imagine what that will be used for.",
+        "author": {
+            "name": "Naval Ravikant",
+            "url": "/quotes/naval_ravikant_851211"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Works",
+                "url": "/topics/works"
+            },
+            {
+                "name": "Alongside",
+                "url": "/topics/alongside"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/naval_ravikant_851212",
+        "quote": "Oddly enough, Bruce Lee wrote some great philosophy.",
+        "author": {
+            "name": "Naval Ravikant",
+            "url": "/quotes/naval_ravikant_851212"
+        },
+        "topics": [
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Wrote",
+                "url": "/topics/wrote"
+            },
+            {
+                "name": "Oddly",
+                "url": "/topics/oddly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/naval_ravikant_851213",
+        "quote": "I think almost everything about humans and human civilization is explained better by evolution than anything else.",
+        "author": {
+            "name": "Naval Ravikant",
+            "url": "/quotes/naval_ravikant_851213"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Almost Everything",
+                "url": "/topics/almost_everything"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/naval_ravikant_851217",
+        "quote": "Within my social circle, there is a large group of people who will take bitcoin as legal tender; like, you can go to them and settle debts in Bitcoin, and they will happily take it.",
+        "author": {
+            "name": "Naval Ravikant",
+            "url": "/quotes/naval_ravikant_851217"
+        },
+        "topics": [
+            {
+                "name": "Within",
+                "url": "/topics/within"
+            },
+            {
+                "name": "Tender",
+                "url": "/topics/tender"
+            },
+            {
+                "name": "Large",
+                "url": "/topics/large"
+            }
+        ]
+    }
+]

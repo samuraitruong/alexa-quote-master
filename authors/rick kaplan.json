@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/rick_kaplan_174924",
+        "quote": "People mature with age and experience. I hope I more resemble a fine wine than bad vinegar.",
+        "author": {
+            "name": "Rick Kaplan",
+            "url": "/quotes/rick_kaplan_174924"
+        },
+        "topics": [
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            },
+            {
+                "name": "Mature",
+                "url": "/topics/mature"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rick_kaplan_406706",
+        "quote": "Wearing a bow tie is a statement. Almost an act of defiance.",
+        "author": {
+            "name": "Rick Kaplan",
+            "url": "/quotes/rick_kaplan_406706"
+        },
+        "topics": [
+            {
+                "name": "Tie",
+                "url": "/topics/tie"
+            },
+            {
+                "name": "Act",
+                "url": "/topics/act"
+            },
+            {
+                "name": "Almost",
+                "url": "/topics/almost"
+            }
+        ]
+    }
+]

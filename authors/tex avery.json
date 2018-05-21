@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/tex_avery_207199",
+        "quote": "Let's make some funny pictures.",
+        "author": {
+            "name": "Tex Avery",
+            "url": "/quotes/tex_avery_207199"
+        },
+        "topics": [
+            {
+                "name": "Funny",
+                "url": "/topics/funny"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Make",
+                "url": "/topics/make"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tex_avery_207200",
+        "quote": "He wasn't Bugs without the gags we gave him.",
+        "author": {
+            "name": "Tex Avery",
+            "url": "/quotes/tex_avery_207200"
+        },
+        "topics": [
+            {
+                "name": "He",
+                "url": "/topics/he"
+            },
+            {
+                "name": "Gave",
+                "url": "/topics/gave"
+            },
+            {
+                "name": "Bugs",
+                "url": "/topics/bugs"
+            }
+        ]
+    }
+]

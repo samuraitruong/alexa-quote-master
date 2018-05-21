@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/emily_murphy_193066",
+        "quote": "This is courtship all the world over - the man all tongue; the woman all ears.",
+        "author": {
+            "name": "Emily Murphy",
+            "url": "/quotes/emily_murphy_193066"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Ears",
+                "url": "/topics/ears"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/emily_murphy_193067",
+        "quote": "It is claimed, but with what truth we cannot say, that there is a well-defined propaganda among the aliens of colour to bring about the degeneration of the white race.",
+        "author": {
+            "name": "Emily Murphy",
+            "url": "/quotes/emily_murphy_193067"
+        },
+        "topics": [
+            {
+                "name": "Race",
+                "url": "/topics/race"
+            },
+            {
+                "name": "Propaganda",
+                "url": "/topics/propaganda"
+            },
+            {
+                "name": "We Cannot",
+                "url": "/topics/we_cannot"
+            }
+        ]
+    }
+]

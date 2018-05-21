@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/victor_vasarely_338681",
+        "quote": "Every form is a base for colour, every colour is the attribute of a form.",
+        "author": {
+            "name": "Victor Vasarely",
+            "url": "/quotes/victor_vasarely_338681"
+        },
+        "topics": [
+            {
+                "name": "Colour",
+                "url": "/topics/colour"
+            },
+            {
+                "name": "Form",
+                "url": "/topics/form"
+            },
+            {
+                "name": "Attribute",
+                "url": "/topics/attribute"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/victor_vasarely_825423",
+        "quote": "In basic research, intellectual rigor and sentimental freedom necessarily alternate.",
+        "author": {
+            "name": "Victor Vasarely",
+            "url": "/quotes/victor_vasarely_825423"
+        },
+        "topics": [
+            {
+                "name": "Freedom",
+                "url": "/topics/freedom"
+            },
+            {
+                "name": "Alternate",
+                "url": "/topics/alternate"
+            },
+            {
+                "name": "Rigor",
+                "url": "/topics/rigor"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/victor_vasarely_825421",
+        "quote": "It is the original idea that is unique, not the object itself.",
+        "author": {
+            "name": "Victor Vasarely",
+            "url": "/quotes/victor_vasarely_825421"
+        },
+        "topics": [
+            {
+                "name": "Original",
+                "url": "/topics/original"
+            },
+            {
+                "name": "Idea",
+                "url": "/topics/idea"
+            },
+            {
+                "name": "Itself",
+                "url": "/topics/itself"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/victor_vasarely_825422",
+        "quote": "I fight for the debunking of the artist and an end to individual pictures.",
+        "author": {
+            "name": "Victor Vasarely",
+            "url": "/quotes/victor_vasarely_825422"
+        },
+        "topics": [
+            {
+                "name": "End",
+                "url": "/topics/end"
+            },
+            {
+                "name": "Artist",
+                "url": "/topics/artist"
+            },
+            {
+                "name": "Individual",
+                "url": "/topics/individual"
+            }
+        ]
+    }
+]

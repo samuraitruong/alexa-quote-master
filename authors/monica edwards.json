@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/monica_edwards_381670",
+        "quote": "We are in an electronic technology age now and it's about time we put away the old stuff.",
+        "author": {
+            "name": "Monica Edwards",
+            "url": "/quotes/monica_edwards_381670"
+        },
+        "topics": [
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            },
+            {
+                "name": "Old",
+                "url": "/topics/old"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/monica_edwards_170731",
+        "quote": "Purring would seem to be, in her case, an automatic safety valve device for dealing with happiness overflow.",
+        "author": {
+            "name": "Monica Edwards",
+            "url": "/quotes/monica_edwards_170731"
+        },
+        "topics": [
+            {
+                "name": "Her",
+                "url": "/topics/her"
+            },
+            {
+                "name": "Overflow",
+                "url": "/topics/overflow"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            }
+        ]
+    }
+]

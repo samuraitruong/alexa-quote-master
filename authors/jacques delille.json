@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/jacques_delille_311865",
+        "quote": "Fate chooses our relatives, we choose our friends.",
+        "author": {
+            "name": "Jacques Delille",
+            "url": "/quotes/jacques_delille_311865"
+        },
+        "topics": [
+            {
+                "name": "Fate",
+                "url": "/topics/fate"
+            },
+            {
+                "name": "Choose",
+                "url": "/topics/choose"
+            },
+            {
+                "name": "Relatives",
+                "url": "/topics/relatives"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jacques_delille_332873",
+        "quote": "Chance makes our parents, but choice makes our friends.",
+        "author": {
+            "name": "Jacques Delille",
+            "url": "/quotes/jacques_delille_332873"
+        },
+        "topics": [
+            {
+                "name": "Chance",
+                "url": "/topics/chance"
+            },
+            {
+                "name": "Choice",
+                "url": "/topics/choice"
+            },
+            {
+                "name": "Makes",
+                "url": "/topics/makes"
+            }
+        ]
+    }
+]

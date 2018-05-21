@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/jenny_weber_202463",
+        "quote": "If a man is talking in the forest, and there is no woman there to hear him, is he still wrong?",
+        "author": {
+            "name": "Jenny Weber",
+            "url": "/quotes/jenny_weber_202463"
+        },
+        "topics": [
+            {
+                "name": "Woman",
+                "url": "/topics/woman"
+            },
+            {
+                "name": "Forest",
+                "url": "/topics/forest"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jenny_weber_202462",
+        "quote": "If you can not master your language you must be it's slave.",
+        "author": {
+            "name": "Jenny Weber",
+            "url": "/quotes/jenny_weber_202462"
+        },
+        "topics": [
+            {
+                "name": "Language",
+                "url": "/topics/language"
+            },
+            {
+                "name": "Slave",
+                "url": "/topics/slave"
+            },
+            {
+                "name": "Must",
+                "url": "/topics/must"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jenny_weber_202464",
+        "quote": "The tragedy of life is not that it ends so soon.",
+        "author": {
+            "name": "Jenny Weber",
+            "url": "/quotes/jenny_weber_202464"
+        },
+        "topics": [
+            {
+                "name": "Life",
+                "url": "/topics/life"
+            },
+            {
+                "name": "Tragedy",
+                "url": "/topics/tragedy"
+            },
+            {
+                "name": "Ends",
+                "url": "/topics/ends"
+            }
+        ]
+    }
+]

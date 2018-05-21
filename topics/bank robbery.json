@@ -1,0 +1,130 @@
+[
+    {
+        "url": "/quotes/johnny_carson_136764?src=t_bank_robbery",
+        "quote": "Anytime four New Yorkers get into a cab together without arguing, a bank robbery has just taken place.",
+        "author": {
+            "name": "Johnny Carson",
+            "url": "/authors/johnny_carson"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Arguing",
+                "url": "/topics/arguing"
+            },
+            {
+                "name": "Cab",
+                "url": "/topics/cab"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ryan_gosling_805418?src=t_bank_robbery",
+        "quote": "I've been thinking about a bank robbery my whole life.",
+        "author": {
+            "name": "Ryan Gosling",
+            "url": "/authors/ryan_gosling"
+        },
+        "topics": [
+            {
+                "name": "Bank",
+                "url": "/topics/bank"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/patty_hearst_342919?src=t_bank_robbery",
+        "quote": "But even before that, in 1980 I went so far as to write a book about what had happened. And I wrote all about the bank robbery, I went ahead and printed it even though I had no use immunity for it.",
+        "author": {
+            "name": "Patty Hearst",
+            "url": "/authors/patty_hearst"
+        },
+        "topics": [
+            {
+                "name": "Ahead",
+                "url": "/topics/ahead"
+            },
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            },
+            {
+                "name": "Though",
+                "url": "/topics/though"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/martha_plimpton_424243?src=t_bank_robbery",
+        "quote": "The '80s to me, more than anything else, represents a time of real criminal activity in the office of the president: an incredibly disparate economy in terms of the class distinctions and whatnot, and a tremendous shallowness - a lot of sort of bank robbery by executives.",
+        "author": {
+            "name": "Martha Plimpton",
+            "url": "/authors/martha_plimpton"
+        },
+        "topics": [
+            {
+                "name": "Office",
+                "url": "/topics/office"
+            },
+            {
+                "name": "Activity",
+                "url": "/topics/activity"
+            },
+            {
+                "name": "Whatnot",
+                "url": "/topics/whatnot"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jessica_savitch_313861?src=t_bank_robbery",
+        "quote": "You can easily die racing to cover a bank robbery as you can in a war zone.",
+        "author": {
+            "name": "Jessica Savitch",
+            "url": "/authors/jessica_savitch"
+        },
+        "topics": [
+            {
+                "name": "Die",
+                "url": "/topics/die"
+            },
+            {
+                "name": "Bank",
+                "url": "/topics/bank"
+            },
+            {
+                "name": "Cover",
+                "url": "/topics/cover"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tony_hillerman_333861?src=t_bank_robbery",
+        "quote": "The essays in The Great Taos Bank Robbery were my project to win a Master of Arts degree in English when I quit being a newspaper editor and went back to college.",
+        "author": {
+            "name": "Tony Hillerman",
+            "url": "/authors/tony_hillerman"
+        },
+        "topics": [
+            {
+                "name": "Graduation",
+                "url": "/topics/graduation"
+            },
+            {
+                "name": "Newspaper",
+                "url": "/topics/newspaper"
+            }
+        ]
+    }
+]

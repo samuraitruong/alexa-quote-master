@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/ron_cooper_624125",
+        "quote": "My biggest regret could be summed up in one word, and that's procrastination.",
+        "author": {
+            "name": "Ron Cooper",
+            "url": "/quotes/ron_cooper_624125"
+        },
+        "topics": [
+            {
+                "name": "Regret",
+                "url": "/topics/regret"
+            },
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            },
+            {
+                "name": "Biggest",
+                "url": "/topics/biggest"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ron_cooper_624126",
+        "quote": "There's a lot of freedom in having nothing. You don't have responsibility. You have nobody to answer to. But I'd rather deal without the poverty.",
+        "author": {
+            "name": "Ron Cooper",
+            "url": "/quotes/ron_cooper_624126"
+        },
+        "topics": [
+            {
+                "name": "Deal",
+                "url": "/topics/deal"
+            },
+            {
+                "name": "Having",
+                "url": "/topics/having"
+            },
+            {
+                "name": "Rather",
+                "url": "/topics/rather"
+            }
+        ]
+    }
+]

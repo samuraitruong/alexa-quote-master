@@ -1,0 +1,134 @@
+[
+    {
+        "url": "/quotes/johann_sebastian_bach_404321",
+        "quote": "It's easy to play any musical instrument: all you have to do is touch the right key at the right time and the instrument will play itself.",
+        "author": {
+            "name": "Johann Sebastian Bach",
+            "url": "/quotes/johann_sebastian_bach_404321"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Musical",
+                "url": "/topics/musical"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/johann_sebastian_bach_124622",
+        "quote": "The aim and final end of all music should be none other than the glory of God and the refreshment of the soul.",
+        "author": {
+            "name": "Johann Sebastian Bach",
+            "url": "/quotes/johann_sebastian_bach_124622"
+        },
+        "topics": [
+            {
+                "name": "Aim",
+                "url": "/topics/aim"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Refreshment",
+                "url": "/topics/refreshment"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/johann_sebastian_bach_404302",
+        "quote": "If I decide to be an idiot, then I'll be an idiot on my own accord.",
+        "author": {
+            "name": "Johann Sebastian Bach",
+            "url": "/quotes/johann_sebastian_bach_404302"
+        },
+        "topics": [
+            {
+                "name": "Idiot",
+                "url": "/topics/idiot"
+            },
+            {
+                "name": "My Own",
+                "url": "/topics/my_own"
+            },
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/johann_sebastian_bach_404536",
+        "quote": "I was obliged to be industrious. Whoever is equally industrious will succeed equally well.",
+        "author": {
+            "name": "Johann Sebastian Bach",
+            "url": "/quotes/johann_sebastian_bach_404536"
+        },
+        "topics": [
+            {
+                "name": "Success",
+                "url": "/topics/success"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Whoever",
+                "url": "/topics/whoever"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/johann_sebastian_bach_404313",
+        "quote": "Where there is devotional music, God is always at hand with His gracious presence.",
+        "author": {
+            "name": "Johann Sebastian Bach",
+            "url": "/quotes/johann_sebastian_bach_404313"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/johann_sebastian_bach_404309",
+        "quote": "My masters are strange folk with very little care for music in them.",
+        "author": {
+            "name": "Johann Sebastian Bach",
+            "url": "/quotes/johann_sebastian_bach_404309"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Folk",
+                "url": "/topics/folk"
+            }
+        ]
+    }
+]

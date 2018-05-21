@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/henry_sweet_229467",
+        "quote": "Intended to serve as an introduction to both the linguistic and also the practical study of spoken English.",
+        "author": {
+            "name": "Henry Sweet",
+            "url": "/quotes/henry_sweet_229467"
+        },
+        "topics": [
+            {
+                "name": "Study",
+                "url": "/topics/study"
+            },
+            {
+                "name": "Linguistic",
+                "url": "/topics/linguistic"
+            },
+            {
+                "name": "Practical",
+                "url": "/topics/practical"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henry_sweet_229466",
+        "quote": "The London dialect as it is spoken in educated circles.",
+        "author": {
+            "name": "Henry Sweet",
+            "url": "/quotes/henry_sweet_229466"
+        },
+        "topics": [
+            {
+                "name": "London",
+                "url": "/topics/london"
+            },
+            {
+                "name": "Educated",
+                "url": "/topics/educated"
+            },
+            {
+                "name": "Dialect",
+                "url": "/topics/dialect"
+            }
+        ]
+    }
+]

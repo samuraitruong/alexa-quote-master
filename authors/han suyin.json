@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/han_suyin_382118",
+        "quote": "There is nothing stronger in the world than gentleness.",
+        "author": {
+            "name": "Han Suyin",
+            "url": "/quotes/han_suyin_382118"
+        },
+        "topics": [
+            {
+                "name": "Inspirational",
+                "url": "/topics/inspirational"
+            },
+            {
+                "name": "World",
+                "url": "/topics/world"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/han_suyin_390645",
+        "quote": "Love from one being to another can only be that two solitudes come nearer, recognize and protect and comfort each other.",
+        "author": {
+            "name": "Han Suyin",
+            "url": "/quotes/han_suyin_390645"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Another",
+                "url": "/topics/another"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/han_suyin_144317",
+        "quote": "I really can't hate more than 5 or 10 years. Wouldn't it be terrible to be always burdened with those primary emotions you had at one time?",
+        "author": {
+            "name": "Han Suyin",
+            "url": "/quotes/han_suyin_144317"
+        },
+        "topics": [
+            {
+                "name": "Emotions",
+                "url": "/topics/emotions"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            }
+        ]
+    }
+]

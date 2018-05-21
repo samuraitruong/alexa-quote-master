@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/michele_ferrero_703444",
+        "quote": "Always do something different from the others.",
+        "author": {
+            "name": "Michele Ferrero",
+            "url": "/quotes/michele_ferrero_703444"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Different",
+                "url": "/topics/different"
+            },
+            {
+                "name": "Something",
+                "url": "/topics/something"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/michele_ferrero_703445",
+        "quote": "Never patronize a child.",
+        "author": {
+            "name": "Michele Ferrero",
+            "url": "/quotes/michele_ferrero_703445"
+        },
+        "topics": [
+            {
+                "name": "Child",
+                "url": "/topics/child"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Patronize",
+                "url": "/topics/patronize"
+            }
+        ]
+    }
+]

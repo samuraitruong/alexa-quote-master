@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/john_lautner_715018",
+        "quote": "To me, architecture is an art, naturally, and it isn't architecture unless it's alive. Alive is what art is. If it's not alive, it's dead, and it's not art.",
+        "author": {
+            "name": "John Lautner",
+            "url": "/quotes/john_lautner_715018"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Alive",
+                "url": "/topics/alive"
+            },
+            {
+                "name": "Naturally",
+                "url": "/topics/naturally"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_lautner_715016",
+        "quote": "Inherent in architecture, it involves everything in life so that there is absolutely no end to it. By the time you're seventy or eighty, you're still beginning. So, that's the kind of life I've preferred to being the expert at forty and dead, you know.",
+        "author": {
+            "name": "John Lautner",
+            "url": "/quotes/john_lautner_715016"
+        },
+        "topics": [
+            {
+                "name": "Expert",
+                "url": "/topics/expert"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            },
+            {
+                "name": "By The Time",
+                "url": "/topics/by_the_time"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_lautner_715015",
+        "quote": "My father liked doing carpentry work, construction work, in the summer vacation. And so my mother designed a cabin, a log cabin, like a - it was like a Swiss chalet. I was twelve years old, and my father and I built it on a rocky point peninsula out into Lake Superior.",
+        "author": {
+            "name": "John Lautner",
+            "url": "/quotes/john_lautner_715015"
+        },
+        "topics": [
+            {
+                "name": "Father",
+                "url": "/topics/father"
+            },
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Log",
+                "url": "/topics/log"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_lautner_715017",
+        "quote": "I had a beautiful childhood, so my adulthood has been really frustrating because it's - half the time it hasn't been as good as my childhood.",
+        "author": {
+            "name": "John Lautner",
+            "url": "/quotes/john_lautner_715017"
+        },
+        "topics": [
+            {
+                "name": "Childhood",
+                "url": "/topics/childhood"
+            },
+            {
+                "name": "Half",
+                "url": "/topics/half"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    }
+]

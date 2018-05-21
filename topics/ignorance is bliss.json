@@ -1,0 +1,134 @@
+[
+    {
+        "url": "/quotes/thomas_gray_150669?src=t_ignorance_is_bliss",
+        "quote": "Where ignorance is bliss, 'Tis folly to be wise.",
+        "author": {
+            "name": "Thomas Gray",
+            "url": "/authors/thomas_gray"
+        },
+        "topics": [
+            {
+                "name": "Wise",
+                "url": "/topics/wise"
+            },
+            {
+                "name": "Ignorance",
+                "url": "/topics/ignorance"
+            },
+            {
+                "name": "Folly",
+                "url": "/topics/folly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_davies_499458?src=t_ignorance_is_bliss",
+        "quote": "Is there anything science should not try to explain? Science is knowledge and knowledge is power - power to do good or evil. Sometimes ignorance is bliss.",
+        "author": {
+            "name": "Paul Davies",
+            "url": "/authors/paul_davies"
+        },
+        "topics": [
+            {
+                "name": "Sometimes",
+                "url": "/topics/sometimes"
+            },
+            {
+                "name": "Bliss",
+                "url": "/topics/bliss"
+            },
+            {
+                "name": "Explain",
+                "url": "/topics/explain"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kin_hubbard_384389?src=t_ignorance_is_bliss",
+        "quote": "Where ignorance is bliss it's foolish to borrow your neighbor's newspaper.",
+        "author": {
+            "name": "Kin Hubbard",
+            "url": "/authors/kin_hubbard"
+        },
+        "topics": [
+            {
+                "name": "Ignorance",
+                "url": "/topics/ignorance"
+            },
+            {
+                "name": "Newspaper",
+                "url": "/topics/newspaper"
+            },
+            {
+                "name": "Bliss",
+                "url": "/topics/bliss"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gayle_lynds_738672?src=t_ignorance_is_bliss",
+        "quote": "Ignorance is bliss, or so we're told. Personally, I find ignorance is also destiny.",
+        "author": {
+            "name": "Gayle Lynds",
+            "url": "/authors/gayle_lynds"
+        },
+        "topics": [
+            {
+                "name": "Destiny",
+                "url": "/topics/destiny"
+            },
+            {
+                "name": "Ignorance",
+                "url": "/topics/ignorance"
+            },
+            {
+                "name": "Find",
+                "url": "/topics/find"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/adam_pascal_427379?src=t_ignorance_is_bliss",
+        "quote": "Ignorance is bliss. I wish I still had some.",
+        "author": {
+            "name": "Adam Pascal",
+            "url": "/authors/adam_pascal"
+        },
+        "topics": [
+            {
+                "name": "Wish",
+                "url": "/topics/wish"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/julianna_margulies_422725?src=t_ignorance_is_bliss",
+        "quote": "I'm a believer in 'Ignorance is bliss.'",
+        "author": {
+            "name": "Julianna Margulies",
+            "url": "/authors/julianna_margulies"
+        },
+        "topics": [
+            {
+                "name": "Ignorance",
+                "url": "/topics/ignorance"
+            },
+            {
+                "name": "Bliss",
+                "url": "/topics/bliss"
+            },
+            {
+                "name": "Believer",
+                "url": "/topics/believer"
+            }
+        ]
+    }
+]

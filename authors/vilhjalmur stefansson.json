@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/vilhjalmur_stefansson_103871",
+        "quote": "What is the difference between unethical and ethical advertising? Unethical advertising uses falsehoods to deceive the public; ethical advertising uses truth to deceive the public.",
+        "author": {
+            "name": "Vilhjalmur Stefansson",
+            "url": "/quotes/vilhjalmur_stefansson_103871"
+        },
+        "topics": [
+            {
+                "name": "Truth",
+                "url": "/topics/truth"
+            },
+            {
+                "name": "Public",
+                "url": "/topics/public"
+            },
+            {
+                "name": "Falsehoods",
+                "url": "/topics/falsehoods"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/vilhjalmur_stefansson_125596",
+        "quote": "The philosophers of the Middle Ages demonstrated both that the Earth did not exist and also that it was flat. Today they are still arguing about whether the world exists, but they no longer dispute about whether it is flat.",
+        "author": {
+            "name": "Vilhjalmur Stefansson",
+            "url": "/quotes/vilhjalmur_stefansson_125596"
+        },
+        "topics": [
+            {
+                "name": "Middle",
+                "url": "/topics/middle"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            },
+            {
+                "name": "Dispute",
+                "url": "/topics/dispute"
+            }
+        ]
+    }
+]

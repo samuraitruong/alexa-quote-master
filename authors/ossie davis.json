@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/ossie_davis_170176",
+        "quote": "Any form of art is a form of power; it has impact, it can affect change - it can not only move us, it makes us move.",
+        "author": {
+            "name": "Ossie Davis",
+            "url": "/quotes/ossie_davis_170176"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Move",
+                "url": "/topics/move"
+            },
+            {
+                "name": "Form",
+                "url": "/topics/form"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ossie_davis_388599",
+        "quote": "I find, in being black, a thing of beauty: a joy; a strength; a secret cup of gladness.",
+        "author": {
+            "name": "Ossie Davis",
+            "url": "/quotes/ossie_davis_388599"
+        },
+        "topics": [
+            {
+                "name": "Strength",
+                "url": "/topics/strength"
+            },
+            {
+                "name": "Beauty",
+                "url": "/topics/beauty"
+            },
+            {
+                "name": "Joy",
+                "url": "/topics/joy"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ossie_davis_176025",
+        "quote": "Struggle is strengthening. Battling with evil gives us the power to battle evil even more.",
+        "author": {
+            "name": "Ossie Davis",
+            "url": "/quotes/ossie_davis_176025"
+        },
+        "topics": [
+            {
+                "name": "Battle",
+                "url": "/topics/battle"
+            },
+            {
+                "name": "Even",
+                "url": "/topics/even"
+            },
+            {
+                "name": "Strengthening",
+                "url": "/topics/strengthening"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ossie_davis_176026",
+        "quote": "College ain't so much where you been as how you talk when you get back.",
+        "author": {
+            "name": "Ossie Davis",
+            "url": "/quotes/ossie_davis_176026"
+        },
+        "topics": [
+            {
+                "name": "College",
+                "url": "/topics/college"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "How",
+                "url": "/topics/how"
+            }
+        ]
+    }
+]

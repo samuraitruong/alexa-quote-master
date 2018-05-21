@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/curtis_hanson_176538",
+        "quote": "You can dress it up, but it comes down to the fact that a movie is only as good as its script.",
+        "author": {
+            "name": "Curtis Hanson",
+            "url": "/quotes/curtis_hanson_176538"
+        },
+        "topics": [
+            {
+                "name": "Dress",
+                "url": "/topics/dress"
+            },
+            {
+                "name": "Fact",
+                "url": "/topics/fact"
+            },
+            {
+                "name": "Movie",
+                "url": "/topics/movie"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/curtis_hanson_501360",
+        "quote": "I prefer stories about people who are, in a sense, trying to find better versions of themselves.",
+        "author": {
+            "name": "Curtis Hanson",
+            "url": "/quotes/curtis_hanson_501360"
+        },
+        "topics": [
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Stories",
+                "url": "/topics/stories"
+            },
+            {
+                "name": "Prefer",
+                "url": "/topics/prefer"
+            }
+        ]
+    }
+]

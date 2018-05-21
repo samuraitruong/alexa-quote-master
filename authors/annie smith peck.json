@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/annie_smith_peck_400590",
+        "quote": "Climbing is unadulterated hard labor. The only real pleasure is the satisfaction of going where no man has been before and where few can follow.",
+        "author": {
+            "name": "Annie Smith Peck",
+            "url": "/quotes/annie_smith_peck_400590"
+        },
+        "topics": [
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/annie_smith_peck_402651",
+        "quote": "Nothing to mountaineering, just a little physical endurance, a good deal of brains, lots of practice, and plenty of warm clothing.",
+        "author": {
+            "name": "Annie Smith Peck",
+            "url": "/quotes/annie_smith_peck_402651"
+        },
+        "topics": [
+            {
+                "name": "Practice",
+                "url": "/topics/practice"
+            },
+            {
+                "name": "Deal",
+                "url": "/topics/deal"
+            },
+            {
+                "name": "Good Deal",
+                "url": "/topics/good_deal"
+            }
+        ]
+    }
+]

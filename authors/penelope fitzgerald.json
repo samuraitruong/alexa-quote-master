@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/penelope_fitzgerald_176777",
+        "quote": "However, no two people see the external world in exactly the same way. To every separate person a thing is what he thinks it is - in other words, not a thing, but a think.",
+        "author": {
+            "name": "Penelope Fitzgerald",
+            "url": "/quotes/penelope_fitzgerald_176777"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "However",
+                "url": "/topics/however"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/penelope_fitzgerald_394584",
+        "quote": "If they don't depend on true evidence, scientists are no better than gossips.",
+        "author": {
+            "name": "Penelope Fitzgerald",
+            "url": "/quotes/penelope_fitzgerald_394584"
+        },
+        "topics": [
+            {
+                "name": "Better",
+                "url": "/topics/better"
+            },
+            {
+                "name": "Depend",
+                "url": "/topics/depend"
+            },
+            {
+                "name": "Gossips",
+                "url": "/topics/gossips"
+            }
+        ]
+    }
+]

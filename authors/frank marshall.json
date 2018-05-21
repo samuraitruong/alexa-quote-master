@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/frank_marshall_614060",
+        "quote": "I'm a big fan of documentaries. I've always loved them, and I've just never had the opportunity or the time to make a feature.",
+        "author": {
+            "name": "Frank Marshall",
+            "url": "/quotes/frank_marshall_614060"
+        },
+        "topics": [
+            {
+                "name": "Opportunity",
+                "url": "/topics/opportunity"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/frank_marshall_614061",
+        "quote": "I love film, and I love seeing movies on film.",
+        "author": {
+            "name": "Frank Marshall",
+            "url": "/quotes/frank_marshall_614061"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Movies",
+                "url": "/topics/movies"
+            },
+            {
+                "name": "I Love",
+                "url": "/topics/i_love"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/frank_marshall_614062",
+        "quote": "When I made 'Eight Below,' they wanted me to shoot digital, and I didn't want to do it because that's just what I need, to get a great series of takes and then find out the camera was frozen.",
+        "author": {
+            "name": "Frank Marshall",
+            "url": "/quotes/frank_marshall_614062"
+        },
+        "topics": [
+            {
+                "name": "Digital",
+                "url": "/topics/digital"
+            },
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            },
+            {
+                "name": "Below",
+                "url": "/topics/below"
+            }
+        ]
+    }
+]

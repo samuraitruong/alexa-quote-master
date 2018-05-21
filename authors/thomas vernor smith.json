@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/thomas_vernor_smith_286635",
+        "quote": "No man made great by death offers more hope to lowly pride than does Abraham Lincoln; for while living he was himself so simple as often to be dubbed a fool.",
+        "author": {
+            "name": "Thomas Vernor Smith",
+            "url": "/quotes/thomas_vernor_smith_286635"
+        },
+        "topics": [
+            {
+                "name": "Death",
+                "url": "/topics/death"
+            },
+            {
+                "name": "Living",
+                "url": "/topics/living"
+            },
+            {
+                "name": "Offers",
+                "url": "/topics/offers"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_vernor_smith_286636",
+        "quote": "Foolish many said; foolish many, many believed.",
+        "author": {
+            "name": "Thomas Vernor Smith",
+            "url": "/quotes/thomas_vernor_smith_286636"
+        },
+        "topics": [
+            {
+                "name": "Foolish",
+                "url": "/topics/foolish"
+            },
+            {
+                "name": "Believed",
+                "url": "/topics/believed"
+            },
+            {
+                "name": "Many",
+                "url": "/topics/many"
+            }
+        ]
+    }
+]

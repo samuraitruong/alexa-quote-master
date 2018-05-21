@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/walter_f_ulmer_112389",
+        "quote": "We've got some very good things to do without screwing around with sleeves.",
+        "author": {
+            "name": "Walter F. Ulmer",
+            "url": "/quotes/walter_f_ulmer_112389"
+        },
+        "topics": [
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Screwing",
+                "url": "/topics/screwing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/walter_f_ulmer_117139",
+        "quote": "The essence of a general's job is to assist in developing a clear sense of purpose to keep the junk from getting in the way of important things.",
+        "author": {
+            "name": "Walter F. Ulmer",
+            "url": "/quotes/walter_f_ulmer_117139"
+        },
+        "topics": [
+            {
+                "name": "Purpose",
+                "url": "/topics/purpose"
+            },
+            {
+                "name": "Clear",
+                "url": "/topics/clear"
+            },
+            {
+                "name": "Essence",
+                "url": "/topics/essence"
+            }
+        ]
+    }
+]

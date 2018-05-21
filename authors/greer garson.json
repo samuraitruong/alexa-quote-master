@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/greer_garson_140995",
+        "quote": "Starting out to make money is the greatest mistake in life. Do what you feel you have a flair for doing, and if you are good enough at it, the money will come.",
+        "author": {
+            "name": "Greer Garson",
+            "url": "/quotes/greer_garson_140995"
+        },
+        "topics": [
+            {
+                "name": "Mistake",
+                "url": "/topics/mistake"
+            },
+            {
+                "name": "Finance",
+                "url": "/topics/finance"
+            },
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/greer_garson_140339",
+        "quote": "I do wish I could tell you my age but it's impossible. It keeps changing all the time.",
+        "author": {
+            "name": "Greer Garson",
+            "url": "/quotes/greer_garson_140339"
+        },
+        "topics": [
+            {
+                "name": "Impossible",
+                "url": "/topics/impossible"
+            },
+            {
+                "name": "Tell",
+                "url": "/topics/tell"
+            },
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            }
+        ]
+    }
+]

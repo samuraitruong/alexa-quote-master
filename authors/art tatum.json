@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/art_tatum_246642",
+        "quote": "There is no such thing as a wrong note.",
+        "author": {
+            "name": "Art Tatum",
+            "url": "/quotes/art_tatum_246642"
+        },
+        "topics": [
+            {
+                "name": "Wrong",
+                "url": "/topics/wrong"
+            },
+            {
+                "name": "Note",
+                "url": "/topics/note"
+            },
+            {
+                "name": "Thing",
+                "url": "/topics/thing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/art_tatum_246645",
+        "quote": "I don't think I'm ready for New York.",
+        "author": {
+            "name": "Art Tatum",
+            "url": "/quotes/art_tatum_246645"
+        },
+        "topics": [
+            {
+                "name": "New York",
+                "url": "/topics/new_york"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/art_tatum_246644",
+        "quote": "Look, you come in here tomorrow, and anything you do with your right hand I'll do with my left.",
+        "author": {
+            "name": "Art Tatum",
+            "url": "/quotes/art_tatum_246644"
+        },
+        "topics": [
+            {
+                "name": "Tomorrow",
+                "url": "/topics/tomorrow"
+            },
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            },
+            {
+                "name": "Come",
+                "url": "/topics/come"
+            }
+        ]
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/john_young_751625",
+        "quote": "If you want to see an endangered species, get up and look in the mirror.",
+        "author": {
+            "name": "John Young",
+            "url": "/quotes/john_young_751625"
+        },
+        "topics": [
+            {
+                "name": "See",
+                "url": "/topics/see"
+            },
+            {
+                "name": "Endangered Species",
+                "url": "/topics/endangered_species"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_young_751626",
+        "quote": "The greatest enemy of progress is the illusion of knowledge.",
+        "author": {
+            "name": "John Young",
+            "url": "/quotes/john_young_751626"
+        },
+        "topics": [
+            {
+                "name": "Progress",
+                "url": "/topics/progress"
+            },
+            {
+                "name": "Enemy",
+                "url": "/topics/enemy"
+            },
+            {
+                "name": "Greatest",
+                "url": "/topics/greatest"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_young_751624",
+        "quote": "Twentieth century man must boldly reach out... And purposefully strive to discover the hidden secrets of our universe.",
+        "author": {
+            "name": "John Young",
+            "url": "/quotes/john_young_751624"
+        },
+        "topics": [
+            {
+                "name": "Hidden",
+                "url": "/topics/hidden"
+            },
+            {
+                "name": "Reach",
+                "url": "/topics/reach"
+            },
+            {
+                "name": "Discover",
+                "url": "/topics/discover"
+            }
+        ]
+    }
+]

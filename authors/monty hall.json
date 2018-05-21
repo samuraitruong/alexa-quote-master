@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/monty_hall_192769",
+        "quote": "Actually, I'm an overnight success, but it took twenty years.",
+        "author": {
+            "name": "Monty Hall",
+            "url": "/quotes/monty_hall_192769"
+        },
+        "topics": [
+            {
+                "name": "Actually",
+                "url": "/topics/actually"
+            },
+            {
+                "name": "Overnight",
+                "url": "/topics/overnight"
+            },
+            {
+                "name": "Took",
+                "url": "/topics/took"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/monty_hall_192770",
+        "quote": "I've had it. I did 4,700 episodes. Isn't that enough?",
+        "author": {
+            "name": "Monty Hall",
+            "url": "/quotes/monty_hall_192770"
+        },
+        "topics": [
+            {
+                "name": "Enough",
+                "url": "/topics/enough"
+            },
+            {
+                "name": "Had",
+                "url": "/topics/had"
+            },
+            {
+                "name": "Did",
+                "url": "/topics/did"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/monty_hall_192771",
+        "quote": "As I got more successful, I felt it was more incumbent upon me to help the other people. I did more and more and the more I did the more I wanted.",
+        "author": {
+            "name": "Monty Hall",
+            "url": "/quotes/monty_hall_192771"
+        },
+        "topics": [
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Felt",
+                "url": "/topics/felt"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/monty_hall_192772",
+        "quote": "It was a show that you played at home and you're saying to the contestant do this and do that. When you at home are involved in yelling at the screen, then you know you've got an audience.",
+        "author": {
+            "name": "Monty Hall",
+            "url": "/quotes/monty_hall_192772"
+        },
+        "topics": [
+            {
+                "name": "Audience",
+                "url": "/topics/audience"
+            },
+            {
+                "name": "Yelling",
+                "url": "/topics/yelling"
+            },
+            {
+                "name": "Show",
+                "url": "/topics/show"
+            }
+        ]
+    }
+]

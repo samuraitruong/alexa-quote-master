@@ -1,0 +1,134 @@
+[
+    {
+        "url": "/quotes/tina_turner_268805?src=t_black_magic",
+        "quote": "I know the difference between black magic and white magic.",
+        "author": {
+            "name": "Tina Turner",
+            "url": "/authors/tina_turner"
+        },
+        "topics": [
+            {
+                "name": "Magic",
+                "url": "/topics/magic"
+            },
+            {
+                "name": "Black",
+                "url": "/topics/black"
+            },
+            {
+                "name": "White",
+                "url": "/topics/white"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/johnny_mercer_192667?src=t_black_magic",
+        "quote": "That old black magic has me in its spell, That old black magic that you weave so well; Icy fingers up and down my spine, The same old witchcraft when your eyes meet mine.",
+        "author": {
+            "name": "Johnny Mercer",
+            "url": "/authors/johnny_mercer"
+        },
+        "topics": [
+            {
+                "name": "Magic",
+                "url": "/topics/magic"
+            },
+            {
+                "name": "Mine",
+                "url": "/topics/mine"
+            },
+            {
+                "name": "Spell",
+                "url": "/topics/spell"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_s_burroughs_149740?src=t_black_magic",
+        "quote": "Black magic operates most effectively in preconscious, marginal areas. Casual curses are the most effective.",
+        "author": {
+            "name": "William S. Burroughs",
+            "url": "/authors/william_s_burroughs"
+        },
+        "topics": [
+            {
+                "name": "Magic",
+                "url": "/topics/magic"
+            },
+            {
+                "name": "Black",
+                "url": "/topics/black"
+            },
+            {
+                "name": "Effectively",
+                "url": "/topics/effectively"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_j_shiller_824798?src=t_black_magic",
+        "quote": "Trump does magic. Maybe it will be black magic sometime, but he's an amazing phenomenon.",
+        "author": {
+            "name": "Robert J. Shiller",
+            "url": "/authors/robert_j_shiller"
+        },
+        "topics": [
+            {
+                "name": "Amazing",
+                "url": "/topics/amazing"
+            },
+            {
+                "name": "Magic",
+                "url": "/topics/magic"
+            },
+            {
+                "name": "Sometime",
+                "url": "/topics/sometime"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ariel_levy_830685?src=t_black_magic",
+        "quote": "The 10 or 20 minutes I was somebody's mother were black magic; there is no adventure I would have traded them for.",
+        "author": {
+            "name": "Ariel Levy",
+            "url": "/authors/ariel_levy"
+        },
+        "topics": [
+            {
+                "name": "Magic",
+                "url": "/topics/magic"
+            },
+            {
+                "name": "Minutes",
+                "url": "/topics/minutes"
+            },
+            {
+                "name": "Traded",
+                "url": "/topics/traded"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/andre_previn_609136?src=t_black_magic",
+        "quote": "People who don't do jazz think it's black magic. But really, it's just a matter of getting used to it. It's fun to gamble. The trick is not to fall back on the things you've done before.",
+        "author": {
+            "name": "Andre Previn",
+            "url": "/authors/andre_previn"
+        },
+        "topics": [
+            {
+                "name": "Magic",
+                "url": "/topics/magic"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Gamble",
+                "url": "/topics/gamble"
+            }
+        ]
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/anne_frank_161760?src=t_hard_words",
+        "quote": "I soothe my conscience now with the thought that it is better for hard words to be on paper than that Mummy should carry them in her heart.",
+        "author": {
+            "name": "Anne Frank",
+            "url": "/authors/anne_frank"
+        },
+        "topics": [
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Conscience",
+                "url": "/topics/conscience"
+            },
+            {
+                "name": "Mummy",
+                "url": "/topics/mummy"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/herman_melville_164692?src=t_hard_words",
+        "quote": "A man thinks that by mouthing hard words he understands hard things.",
+        "author": {
+            "name": "Herman Melville",
+            "url": "/authors/herman_melville"
+        },
+        "topics": [
+            {
+                "name": "Words",
+                "url": "/topics/words"
+            },
+            {
+                "name": "Hard Things",
+                "url": "/topics/hard_things"
+            },
+            {
+                "name": "Things",
+                "url": "/topics/things"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henry_wadsworth_longfello_162738?src=t_hard_words",
+        "quote": "A torn jacket is soon mended; but hard words bruise the heart of a child.",
+        "author": {
+            "name": "Henry Wadsworth Longfellow",
+            "url": "/authors/henry_wadsworth_longfello"
+        },
+        "topics": [
+            {
+                "name": "Words",
+                "url": "/topics/words"
+            },
+            {
+                "name": "Jacket",
+                "url": "/topics/jacket"
+            },
+            {
+                "name": "Torn",
+                "url": "/topics/torn"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mary_roberts_rinehart_161944?src=t_hard_words",
+        "quote": "Women are like dogs really. They love like dogs, a little insistently. And they like to fetch and carry and come back wistfully after hard words, and learn rather easily to carry a basket.",
+        "author": {
+            "name": "Mary Roberts Rinehart",
+            "url": "/authors/mary_roberts_rinehart"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Basket",
+                "url": "/topics/basket"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/andrew_lawrence_630056?src=t_hard_words",
+        "quote": "Memorizing lines isn't really hard. Only with really hard words and stuff.",
+        "author": {
+            "name": "Andrew Lawrence",
+            "url": "/authors/andrew_lawrence"
+        },
+        "topics": [
+            {
+                "name": "Words",
+                "url": "/topics/words"
+            },
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            },
+            {
+                "name": "Memorizing",
+                "url": "/topics/memorizing"
+            }
+        ]
+    }
+]

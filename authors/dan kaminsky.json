@@ -1,0 +1,174 @@
+[
+    {
+        "url": "/quotes/dan_kaminsky_610449",
+        "quote": "I'm not an economist; I'm a hacker who has spent his career exploring and repairing large networks.",
+        "author": {
+            "name": "Dan Kaminsky",
+            "url": "/quotes/dan_kaminsky_610449"
+        },
+        "topics": [
+            {
+                "name": "Career",
+                "url": "/topics/career"
+            },
+            {
+                "name": "Hacker",
+                "url": "/topics/hacker"
+            },
+            {
+                "name": "Economist",
+                "url": "/topics/economist"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dan_kaminsky_610453",
+        "quote": "It is a fairly open secret that almost all systems can be hacked, somehow. It is a less spoken of secret that such hacking has actually gone quite mainstream.",
+        "author": {
+            "name": "Dan Kaminsky",
+            "url": "/quotes/dan_kaminsky_610453"
+        },
+        "topics": [
+            {
+                "name": "Almost All",
+                "url": "/topics/almost_all"
+            },
+            {
+                "name": "Almost",
+                "url": "/topics/almost"
+            },
+            {
+                "name": "Fairly",
+                "url": "/topics/fairly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dan_kaminsky_610450",
+        "quote": "I'll be blunt: Money's gotten buggy.",
+        "author": {
+            "name": "Dan Kaminsky",
+            "url": "/quotes/dan_kaminsky_610450"
+        },
+        "topics": [
+            {
+                "name": "Money",
+                "url": "/topics/money"
+            },
+            {
+                "name": "Blunt",
+                "url": "/topics/blunt"
+            },
+            {
+                "name": "Gotten",
+                "url": "/topics/gotten"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dan_kaminsky_610456",
+        "quote": "BitCoin is actually an exploit against network complexity. Not financial networks, or computer networks, or social networks. Networks themselves.",
+        "author": {
+            "name": "Dan Kaminsky",
+            "url": "/quotes/dan_kaminsky_610456"
+        },
+        "topics": [
+            {
+                "name": "Complexity",
+                "url": "/topics/complexity"
+            },
+            {
+                "name": "Actually",
+                "url": "/topics/actually"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dan_kaminsky_610451",
+        "quote": "Bitcoin's got its issues. But it is not competing with perfection.",
+        "author": {
+            "name": "Dan Kaminsky",
+            "url": "/quotes/dan_kaminsky_610451"
+        },
+        "topics": [
+            {
+                "name": "Competing",
+                "url": "/topics/competing"
+            },
+            {
+                "name": "Got",
+                "url": "/topics/got"
+            },
+            {
+                "name": "Issues",
+                "url": "/topics/issues"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dan_kaminsky_610452",
+        "quote": "The Internet's proven to be a pretty big deal for global society, and Bitcoin could basically be thought of as the Internet, applied to money.",
+        "author": {
+            "name": "Dan Kaminsky",
+            "url": "/quotes/dan_kaminsky_610452"
+        },
+        "topics": [
+            {
+                "name": "Deal",
+                "url": "/topics/deal"
+            },
+            {
+                "name": "Pretty",
+                "url": "/topics/pretty"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dan_kaminsky_610454",
+        "quote": "The reality of most software development is that the consequences of failure are simply nonexistent.",
+        "author": {
+            "name": "Dan Kaminsky",
+            "url": "/quotes/dan_kaminsky_610454"
+        },
+        "topics": [
+            {
+                "name": "Development",
+                "url": "/topics/development"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dan_kaminsky_610455",
+        "quote": "Software tends not to kill people, and so we accept incredibly fast innovation loops because the consequences are tolerable and the results are astonishing.",
+        "author": {
+            "name": "Dan Kaminsky",
+            "url": "/quotes/dan_kaminsky_610455"
+        },
+        "topics": [
+            {
+                "name": "Innovation",
+                "url": "/topics/innovation"
+            },
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "Loops",
+                "url": "/topics/loops"
+            }
+        ]
+    }
+]

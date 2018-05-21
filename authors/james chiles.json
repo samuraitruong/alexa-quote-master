@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/james_chiles_111260",
+        "quote": "The rise of computer crime and armed robbery has not eliminated the lure of caged cash.",
+        "author": {
+            "name": "James Chiles",
+            "url": "/quotes/james_chiles_111260"
+        },
+        "topics": [
+            {
+                "name": "Computer",
+                "url": "/topics/computer"
+            },
+            {
+                "name": "Eliminated",
+                "url": "/topics/eliminated"
+            },
+            {
+                "name": "Armed",
+                "url": "/topics/armed"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_chiles_162156",
+        "quote": "Burglars know there's more than one way to skin a vault.",
+        "author": {
+            "name": "James Chiles",
+            "url": "/quotes/james_chiles_162156"
+        },
+        "topics": [
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Than",
+                "url": "/topics/than"
+            },
+            {
+                "name": "One Way",
+                "url": "/topics/one_way"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_chiles_111262",
+        "quote": "Organized crime is the dirty side of the sharp dollar.",
+        "author": {
+            "name": "James Chiles",
+            "url": "/quotes/james_chiles_111262"
+        },
+        "topics": [
+            {
+                "name": "Dirty",
+                "url": "/topics/dirty"
+            },
+            {
+                "name": "Side",
+                "url": "/topics/side"
+            },
+            {
+                "name": "Organized",
+                "url": "/topics/organized"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/rocky_graziano_618809",
+        "quote": "I quit school in the sixth grade because of pneumonia. Not because I had it, but because I couldn't spell it.",
+        "author": {
+            "name": "Rocky Graziano",
+            "url": "/quotes/rocky_graziano_618809"
+        },
+        "topics": [
+            {
+                "name": "Sixth",
+                "url": "/topics/sixth"
+            },
+            {
+                "name": "Pneumonia",
+                "url": "/topics/pneumonia"
+            },
+            {
+                "name": "Spell",
+                "url": "/topics/spell"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rocky_graziano_618808",
+        "quote": "I was the best street fighter in history when I was growing up on the Lower East Side. Hell, I never lost a street fight. Never. I thought I could lick Jack Dempsey or Joe Louis or anybody. I was fantastic.",
+        "author": {
+            "name": "Rocky Graziano",
+            "url": "/quotes/rocky_graziano_618808"
+        },
+        "topics": [
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Anybody",
+                "url": "/topics/anybody"
+            },
+            {
+                "name": "Joe",
+                "url": "/topics/joe"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rocky_graziano_618810",
+        "quote": "It took me nine years to get through the fourth grade. When I got into television commercials, I had to take a crash course in reading. I was 32 years old, and I couldn't read the cue cards.",
+        "author": {
+            "name": "Rocky Graziano",
+            "url": "/quotes/rocky_graziano_618810"
+        },
+        "topics": [
+            {
+                "name": "Cards",
+                "url": "/topics/cards"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Nine",
+                "url": "/topics/nine"
+            }
+        ]
+    }
+]

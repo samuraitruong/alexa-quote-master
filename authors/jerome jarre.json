@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/jerome_jarre_738202",
+        "quote": "When I arrived in New York, I was homeless with 400 bucks in my pocket.",
+        "author": {
+            "name": "Jerome Jarre",
+            "url": "/quotes/jerome_jarre_738202"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Arrived",
+                "url": "/topics/arrived"
+            },
+            {
+                "name": "Bucks",
+                "url": "/topics/bucks"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jerome_jarre_738201",
+        "quote": "My purpose, which I finally found thanks to social media, is helping all of these people find their purpose.",
+        "author": {
+            "name": "Jerome Jarre",
+            "url": "/quotes/jerome_jarre_738201"
+        },
+        "topics": [
+            {
+                "name": "Purpose",
+                "url": "/topics/purpose"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Social",
+                "url": "/topics/social"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jerome_jarre_738200",
+        "quote": "Everyone is looking for a purpose in life. The reason we all go to the cinema or online is because we haven't found a purpose yet. We are always wondering why we're here. But I've learned that we have to create that purpose for ourselves.",
+        "author": {
+            "name": "Jerome Jarre",
+            "url": "/quotes/jerome_jarre_738200"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Reason",
+                "url": "/topics/reason"
+            },
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jerome_jarre_738203",
+        "quote": "I took the decision that everything I would post would be positive. If you say, 'Ahh, I feel terrible today,' and you spread that to the eyes and ears of millions of people, that's not good.",
+        "author": {
+            "name": "Jerome Jarre",
+            "url": "/quotes/jerome_jarre_738203"
+        },
+        "topics": [
+            {
+                "name": "Decision",
+                "url": "/topics/decision"
+            },
+            {
+                "name": "Feel",
+                "url": "/topics/feel"
+            },
+            {
+                "name": "Took",
+                "url": "/topics/took"
+            }
+        ]
+    }
+]

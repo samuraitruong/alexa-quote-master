@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/rosalia_de_castro_404387",
+        "quote": "I see my path, but I don't know where it leads. Not knowing where I'm going is what inspires me to travel it.",
+        "author": {
+            "name": "Rosalia de Castro",
+            "url": "/quotes/rosalia_de_castro_404387"
+        },
+        "topics": [
+            {
+                "name": "Path",
+                "url": "/topics/path"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "I See",
+                "url": "/topics/i_see"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rosalia_de_castro_404378",
+        "quote": "Happiness, I do not know where to turn to discover you on earth, in the air or the sky; yet I know you exist and are no futile dream.",
+        "author": {
+            "name": "Rosalia de Castro",
+            "url": "/quotes/rosalia_de_castro_404378"
+        },
+        "topics": [
+            {
+                "name": "Sky",
+                "url": "/topics/sky"
+            },
+            {
+                "name": "Discover",
+                "url": "/topics/discover"
+            },
+            {
+                "name": "Futile",
+                "url": "/topics/futile"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rosalia_de_castro_405094",
+        "quote": "Great breakthroughs are always followed by great catastrophes.",
+        "author": {
+            "name": "Rosalia de Castro",
+            "url": "/quotes/rosalia_de_castro_405094"
+        },
+        "topics": [
+            {
+                "name": "Great",
+                "url": "/topics/great"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Breakthroughs",
+                "url": "/topics/breakthroughs"
+            }
+        ]
+    }
+]

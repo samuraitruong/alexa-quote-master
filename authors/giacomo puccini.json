@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/giacomo_puccini_144059",
+        "quote": "Inspiration is an awakening, a quickening of all man's faculties, and it is manifested in all high artistic achievements.",
+        "author": {
+            "name": "Giacomo Puccini",
+            "url": "/quotes/giacomo_puccini_144059"
+        },
+        "topics": [
+            {
+                "name": "High",
+                "url": "/topics/high"
+            },
+            {
+                "name": "Awakening",
+                "url": "/topics/awakening"
+            },
+            {
+                "name": "Quickening",
+                "url": "/topics/quickening"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/giacomo_puccini_387726",
+        "quote": "Art is a kind of illness.",
+        "author": {
+            "name": "Giacomo Puccini",
+            "url": "/quotes/giacomo_puccini_387726"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Illness",
+                "url": "/topics/illness"
+            },
+            {
+                "name": "Kind",
+                "url": "/topics/kind"
+            }
+        ]
+    }
+]

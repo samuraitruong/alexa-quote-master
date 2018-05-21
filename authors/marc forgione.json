@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/marc_forgione_510311",
+        "quote": "The kitchen is a sacred space.",
+        "author": {
+            "name": "Marc Forgione",
+            "url": "/quotes/marc_forgione_510311"
+        },
+        "topics": [
+            {
+                "name": "Food",
+                "url": "/topics/food"
+            },
+            {
+                "name": "Kitchen",
+                "url": "/topics/kitchen"
+            },
+            {
+                "name": "Sacred",
+                "url": "/topics/sacred"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marc_forgione_510309",
+        "quote": "I've had every haircut you could possibly imagine: mullet, tail, dreadlocks, afro, crew cut. It's always been an expression of who I am.",
+        "author": {
+            "name": "Marc Forgione",
+            "url": "/quotes/marc_forgione_510309"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Imagine",
+                "url": "/topics/imagine"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marc_forgione_510307",
+        "quote": "I'm in the kitchen five days a week, no matter what, and one or two of those days I'm on the line. Not because I have to be, but because I want to be.",
+        "author": {
+            "name": "Marc Forgione",
+            "url": "/quotes/marc_forgione_510307"
+        },
+        "topics": [
+            {
+                "name": "Week",
+                "url": "/topics/week"
+            },
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Line",
+                "url": "/topics/line"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marc_forgione_510308",
+        "quote": "This is going to sound weird, but when I was a kid my old man used to tell us that he was a Sioux Indian warrior in his former life. Native American culture was always big in my house - I don't know why.",
+        "author": {
+            "name": "Marc Forgione",
+            "url": "/quotes/marc_forgione_510308"
+        },
+        "topics": [
+            {
+                "name": "Warrior",
+                "url": "/topics/warrior"
+            },
+            {
+                "name": "Sound",
+                "url": "/topics/sound"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marc_forgione_510310",
+        "quote": "I have nothing against turkey. We eat turkey for Thanksgiving in my house.",
+        "author": {
+            "name": "Marc Forgione",
+            "url": "/quotes/marc_forgione_510310"
+        },
+        "topics": [
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            },
+            {
+                "name": "Against",
+                "url": "/topics/against"
+            },
+            {
+                "name": "Turkey",
+                "url": "/topics/turkey"
+            }
+        ]
+    }
+]

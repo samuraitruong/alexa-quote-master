@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/fritz_perls_126174",
+        "quote": "Our dependency makes slaves out of us, especially if this dependency is a dependency of our self-esteem. If you need encouragement, praise, pats on the back from everybody, then you make everybody your judge.",
+        "author": {
+            "name": "Fritz Perls",
+            "url": "/quotes/fritz_perls_126174"
+        },
+        "topics": [
+            {
+                "name": "Self-Esteem",
+                "url": "/topics/self-esteem"
+            },
+            {
+                "name": "Slaves",
+                "url": "/topics/slaves"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/fritz_perls_213533",
+        "quote": "I am not in this world to live up to other people's expectations, nor do I feel that the world must live up to mine.",
+        "author": {
+            "name": "Fritz Perls",
+            "url": "/quotes/fritz_perls_213533"
+        },
+        "topics": [
+            {
+                "name": "Feel",
+                "url": "/topics/feel"
+            },
+            {
+                "name": "Mine",
+                "url": "/topics/mine"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    }
+]

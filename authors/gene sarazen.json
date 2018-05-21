@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/gene_sarazen_304958",
+        "quote": "I don't care what you say about me. Just spell the name right.",
+        "author": {
+            "name": "Gene Sarazen",
+            "url": "/quotes/gene_sarazen_304958"
+        },
+        "topics": [
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Spell",
+                "url": "/topics/spell"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gene_sarazen_304959",
+        "quote": "The more I practice, the luckier I get.",
+        "author": {
+            "name": "Gene Sarazen",
+            "url": "/quotes/gene_sarazen_304959"
+        },
+        "topics": [
+            {
+                "name": "Practice",
+                "url": "/topics/practice"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Get",
+                "url": "/topics/get"
+            }
+        ]
+    }
+]

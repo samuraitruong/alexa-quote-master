@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/elizabeth_daily_489718",
+        "quote": "I am single and happy.",
+        "author": {
+            "name": "Elizabeth Daily",
+            "url": "/quotes/elizabeth_daily_489718"
+        },
+        "topics": [
+            {
+                "name": "Happy",
+                "url": "/topics/happy"
+            },
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Single",
+                "url": "/topics/single"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/elizabeth_daily_489719",
+        "quote": "I don't I have everything I want; however, I have a lot and for that I am very grateful.",
+        "author": {
+            "name": "Elizabeth Daily",
+            "url": "/quotes/elizabeth_daily_489719"
+        },
+        "topics": [
+            {
+                "name": "Lot",
+                "url": "/topics/lot"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "However",
+                "url": "/topics/however"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/elizabeth_daily_489720",
+        "quote": "I love having my hair blown dry by a stylist and I also truly enjoy being with my friends and family.",
+        "author": {
+            "name": "Elizabeth Daily",
+            "url": "/quotes/elizabeth_daily_489720"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Enjoy",
+                "url": "/topics/enjoy"
+            },
+            {
+                "name": "Having",
+                "url": "/topics/having"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/elizabeth_daily_489721",
+        "quote": "I love going to the movies and being moved emotionally. I like my work, singing and writing in my journal.",
+        "author": {
+            "name": "Elizabeth Daily",
+            "url": "/quotes/elizabeth_daily_489721"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Singing",
+                "url": "/topics/singing"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            }
+        ]
+    }
+]

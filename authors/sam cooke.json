@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/sam_cooke_537104",
+        "quote": "I think the secret is really observation. Well, if you observe what's going on and try to figure out how people are thinking, I think you can always write something that people will understand.",
+        "author": {
+            "name": "Sam Cooke",
+            "url": "/quotes/sam_cooke_537104"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Figure",
+                "url": "/topics/figure"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sam_cooke_681650",
+        "quote": "I'm gonna sing, and I'm going to make me a lot of money.",
+        "author": {
+            "name": "Sam Cooke",
+            "url": "/quotes/sam_cooke_681650"
+        },
+        "topics": [
+            {
+                "name": "Money",
+                "url": "/topics/money"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Lot",
+                "url": "/topics/lot"
+            }
+        ]
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/john_cazale_338753",
+        "quote": "I sometimes wonder if the inability to find oneself makes one seek oneself in other people, in characters.",
+        "author": {
+            "name": "John Cazale",
+            "url": "/quotes/john_cazale_338753"
+        },
+        "topics": [
+            {
+                "name": "Sometimes",
+                "url": "/topics/sometimes"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Inability",
+                "url": "/topics/inability"
+            }
+        ]
+    }
+]

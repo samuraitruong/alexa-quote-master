@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/celia_green_170265",
+        "quote": "The way to do research is to attack the facts at the point of greatest astonishment.",
+        "author": {
+            "name": "Celia Green",
+            "url": "/quotes/celia_green_170265"
+        },
+        "topics": [
+            {
+                "name": "Facts",
+                "url": "/topics/facts"
+            },
+            {
+                "name": "Attack",
+                "url": "/topics/attack"
+            },
+            {
+                "name": "Astonishment",
+                "url": "/topics/astonishment"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/celia_green_276600",
+        "quote": "Most of the research which is done is determined by the requirement that it shall, in a fairly obvious and predictable way, reinforce the approved or fashionable theories.",
+        "author": {
+            "name": "Celia Green",
+            "url": "/quotes/celia_green_276600"
+        },
+        "topics": [
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Fairly",
+                "url": "/topics/fairly"
+            },
+            {
+                "name": "Shall",
+                "url": "/topics/shall"
+            }
+        ]
+    }
+]

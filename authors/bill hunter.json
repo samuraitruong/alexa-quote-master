@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/bill_hunter_496451",
+        "quote": "I have a reputation for being pretty much of a wild man.",
+        "author": {
+            "name": "Bill Hunter",
+            "url": "/quotes/bill_hunter_496451"
+        },
+        "topics": [
+            {
+                "name": "Pretty",
+                "url": "/topics/pretty"
+            },
+            {
+                "name": "Being",
+                "url": "/topics/being"
+            },
+            {
+                "name": "Being Pretty",
+                "url": "/topics/being_pretty"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_hunter_496452",
+        "quote": "Anything that's got Stephan Elliott directing it is going to be interesting, to say the least.",
+        "author": {
+            "name": "Bill Hunter",
+            "url": "/quotes/bill_hunter_496452"
+        },
+        "topics": [
+            {
+                "name": "Interesting",
+                "url": "/topics/interesting"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Least",
+                "url": "/topics/least"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_hunter_496453",
+        "quote": "There's no mystique to acting. It's only common sense - and a bit of courage.",
+        "author": {
+            "name": "Bill Hunter",
+            "url": "/quotes/bill_hunter_496453"
+        },
+        "topics": [
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            },
+            {
+                "name": "Mystique",
+                "url": "/topics/mystique"
+            },
+            {
+                "name": "Common",
+                "url": "/topics/common"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/emmanuelle_charpentier_774699",
+        "quote": "I was a typical French student of the 1990s - I imagined that, after a short excursion, I would work the rest of my life at home.",
+        "author": {
+            "name": "Emmanuelle Charpentier",
+            "url": "/quotes/emmanuelle_charpentier_774699"
+        },
+        "topics": [
+            {
+                "name": "Rest",
+                "url": "/topics/rest"
+            },
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Student",
+                "url": "/topics/student"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/emmanuelle_charpentier_774700",
+        "quote": "Personally, I don't think it is acceptable to manipulate the human germline for the purpose of changing some genetic traits that will be transmitted over generations.",
+        "author": {
+            "name": "Emmanuelle Charpentier",
+            "url": "/quotes/emmanuelle_charpentier_774700"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Genetic",
+                "url": "/topics/genetic"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/nance_oneil_399237",
+        "quote": "Tradition has made women cowardly.",
+        "author": {
+            "name": "Nance O'Neil",
+            "url": "/quotes/nance_oneil_399237"
+        },
+        "topics": [
+            {
+                "name": "Tradition",
+                "url": "/topics/tradition"
+            },
+            {
+                "name": "Made",
+                "url": "/topics/made"
+            },
+            {
+                "name": "Cowardly",
+                "url": "/topics/cowardly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nance_oneil_404117",
+        "quote": "An actress must be a woman whose emotional perceptions are true, and to make them so, she must have a fine contempt for any art or thought that betrays them for something false.",
+        "author": {
+            "name": "Nance O'Neil",
+            "url": "/quotes/nance_oneil_404117"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Woman",
+                "url": "/topics/woman"
+            },
+            {
+                "name": "Actress",
+                "url": "/topics/actress"
+            }
+        ]
+    }
+]

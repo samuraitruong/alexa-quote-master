@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/oral_roberts_378222",
+        "quote": "I am charismatic with roots of the Pentecostal.",
+        "author": {
+            "name": "Oral Roberts",
+            "url": "/quotes/oral_roberts_378222"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Roots",
+                "url": "/topics/roots"
+            },
+            {
+                "name": "Am",
+                "url": "/topics/am"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/oral_roberts_380456",
+        "quote": "Well, I can't figure out God.",
+        "author": {
+            "name": "Oral Roberts",
+            "url": "/quotes/oral_roberts_380456"
+        },
+        "topics": [
+            {
+                "name": "God",
+                "url": "/topics/god"
+            },
+            {
+                "name": "Well",
+                "url": "/topics/well"
+            },
+            {
+                "name": "Figure",
+                "url": "/topics/figure"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/oral_roberts_381700",
+        "quote": "God wants you well. God wants you prosperous. God wants you a whole person.",
+        "author": {
+            "name": "Oral Roberts",
+            "url": "/quotes/oral_roberts_381700"
+        },
+        "topics": [
+            {
+                "name": "Person",
+                "url": "/topics/person"
+            },
+            {
+                "name": "Well",
+                "url": "/topics/well"
+            },
+            {
+                "name": "Wants",
+                "url": "/topics/wants"
+            }
+        ]
+    }
+]

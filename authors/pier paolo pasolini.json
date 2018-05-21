@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/pier_paolo_pasolini_306177",
+        "quote": "Once life is finished it acquires a sense; up to that point it has not got a sense; its sense is suspended and therefore ambiguous.",
+        "author": {
+            "name": "Pier Paolo Pasolini",
+            "url": "/quotes/pier_paolo_pasolini_306177"
+        },
+        "topics": [
+            {
+                "name": "Finished",
+                "url": "/topics/finished"
+            },
+            {
+                "name": "Once",
+                "url": "/topics/once"
+            },
+            {
+                "name": "Therefore",
+                "url": "/topics/therefore"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/pier_paolo_pasolini_306173",
+        "quote": "Death does determine life.",
+        "author": {
+            "name": "Pier Paolo Pasolini",
+            "url": "/quotes/pier_paolo_pasolini_306173"
+        },
+        "topics": [
+            {
+                "name": "Death",
+                "url": "/topics/death"
+            },
+            {
+                "name": "Determine",
+                "url": "/topics/determine"
+            },
+            {
+                "name": "Does",
+                "url": "/topics/does"
+            }
+        ]
+    }
+]

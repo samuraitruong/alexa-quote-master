@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/natasha_poly_697300",
+        "quote": "I think the skin is the most important thing. If you take care of your skin, you don't really need much makeup.",
+        "author": {
+            "name": "Natasha Poly",
+            "url": "/quotes/natasha_poly_697300"
+        },
+        "topics": [
+            {
+                "name": "Makeup",
+                "url": "/topics/makeup"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/natasha_poly_697299",
+        "quote": "I like Dolce & Gabbana's fragrance Light Blue - it's my everyday perfume.",
+        "author": {
+            "name": "Natasha Poly",
+            "url": "/quotes/natasha_poly_697299"
+        },
+        "topics": [
+            {
+                "name": "Blue",
+                "url": "/topics/blue"
+            },
+            {
+                "name": "Fragrance",
+                "url": "/topics/fragrance"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/natasha_poly_697301",
+        "quote": "I like doing my makeup myself! It's a hobby of mine. I like to play around. I've learned all the best tricks from the pros!",
+        "author": {
+            "name": "Natasha Poly",
+            "url": "/quotes/natasha_poly_697301"
+        },
+        "topics": [
+            {
+                "name": "Makeup",
+                "url": "/topics/makeup"
+            },
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Mine",
+                "url": "/topics/mine"
+            }
+        ]
+    }
+]

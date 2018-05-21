@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/victor_cherbuliez_205962",
+        "quote": "Half the joy of life is in little things taken on the run... but let us keep our hearts young and our eyes open that nothing worth our while shall escape us.",
+        "author": {
+            "name": "Victor Cherbuliez",
+            "url": "/quotes/victor_cherbuliez_205962"
+        },
+        "topics": [
+            {
+                "name": "Little Things",
+                "url": "/topics/little_things"
+            },
+            {
+                "name": "Young",
+                "url": "/topics/young"
+            },
+            {
+                "name": "Half",
+                "url": "/topics/half"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/victor_cherbuliez_205961",
+        "quote": "What helps luck is a habit of watching for opportunities, of having a patient but restless mind, of sacrificing one's ease or vanity, or uniting a love of detail to foresight, and of passing through hard times bravely and cheerfully.",
+        "author": {
+            "name": "Victor Cherbuliez",
+            "url": "/quotes/victor_cherbuliez_205961"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Restless",
+                "url": "/topics/restless"
+            }
+        ]
+    }
+]

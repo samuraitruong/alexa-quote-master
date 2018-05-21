@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/alice_thomas_ellis_395632",
+        "quote": "Death is the last enemy: once we've got past that I think everything will be alright.",
+        "author": {
+            "name": "Alice Thomas Ellis",
+            "url": "/quotes/alice_thomas_ellis_395632"
+        },
+        "topics": [
+            {
+                "name": "Death",
+                "url": "/topics/death"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    }
+]

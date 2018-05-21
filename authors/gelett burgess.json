@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/gelett_burgess_403122",
+        "quote": "To appreciate nonsense requires a serious interest in life.",
+        "author": {
+            "name": "Gelett Burgess",
+            "url": "/quotes/gelett_burgess_403122"
+        },
+        "topics": [
+            {
+                "name": "Life",
+                "url": "/topics/life"
+            },
+            {
+                "name": "Appreciate",
+                "url": "/topics/appreciate"
+            },
+            {
+                "name": "Interest",
+                "url": "/topics/interest"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gelett_burgess_107667",
+        "quote": "If in the last few years you haven't discarded a major opinion or acquired a new one, check your pulse. You may be dead.",
+        "author": {
+            "name": "Gelett Burgess",
+            "url": "/quotes/gelett_burgess_107667"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Last",
+                "url": "/topics/last"
+            },
+            {
+                "name": "Discarded",
+                "url": "/topics/discarded"
+            }
+        ]
+    }
+]

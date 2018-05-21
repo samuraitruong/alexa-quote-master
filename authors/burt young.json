@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/burt_young_221546",
+        "quote": "I used to be a fighter and I'm used to taking weight off.",
+        "author": {
+            "name": "Burt Young",
+            "url": "/quotes/burt_young_221546"
+        },
+        "topics": [
+            {
+                "name": "Fighter",
+                "url": "/topics/fighter"
+            },
+            {
+                "name": "Weight",
+                "url": "/topics/weight"
+            },
+            {
+                "name": "Used",
+                "url": "/topics/used"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/burt_young_221547",
+        "quote": "I enjoyed playing around with that guy, and it was a pleasure every three, four years, coming back seeing how the wardrobe is. Is he heavy? Is he thin? I had fun.",
+        "author": {
+            "name": "Burt Young",
+            "url": "/quotes/burt_young_221547"
+        },
+        "topics": [
+            {
+                "name": "Pleasure",
+                "url": "/topics/pleasure"
+            },
+            {
+                "name": "Back",
+                "url": "/topics/back"
+            },
+            {
+                "name": "Guy",
+                "url": "/topics/guy"
+            }
+        ]
+    }
+]

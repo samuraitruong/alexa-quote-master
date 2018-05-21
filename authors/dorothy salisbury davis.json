@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/dorothy_salisbury_davis_221682",
+        "quote": "Don't sell your soul to buy peanuts for the monkeys.",
+        "author": {
+            "name": "Dorothy Salisbury Davis",
+            "url": "/quotes/dorothy_salisbury_davis_221682"
+        },
+        "topics": [
+            {
+                "name": "Soul",
+                "url": "/topics/soul"
+            },
+            {
+                "name": "Monkeys",
+                "url": "/topics/monkeys"
+            },
+            {
+                "name": "Sell",
+                "url": "/topics/sell"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dorothy_salisbury_davis_221681",
+        "quote": "History's like a story in a way: it depends on who's telling it.",
+        "author": {
+            "name": "Dorothy Salisbury Davis",
+            "url": "/quotes/dorothy_salisbury_davis_221681"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Depends",
+                "url": "/topics/depends"
+            },
+            {
+                "name": "Telling",
+                "url": "/topics/telling"
+            }
+        ]
+    }
+]

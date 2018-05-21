@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/william_ernest_hocking_100907",
+        "quote": "I find that a man is as old as his work. If his work keeps him from moving forward, he will look forward with the work.",
+        "author": {
+            "name": "William Ernest Hocking",
+            "url": "/quotes/william_ernest_hocking_100907"
+        },
+        "topics": [
+            {
+                "name": "Age",
+                "url": "/topics/age"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Old",
+                "url": "/topics/old"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_ernest_hocking_106262",
+        "quote": "Only the man who has enough good in him to feel the justice of the penalty can be punished.",
+        "author": {
+            "name": "William Ernest Hocking",
+            "url": "/quotes/william_ernest_hocking_106262"
+        },
+        "topics": [
+            {
+                "name": "Feel",
+                "url": "/topics/feel"
+            },
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            },
+            {
+                "name": "Penalty",
+                "url": "/topics/penalty"
+            }
+        ]
+    }
+]

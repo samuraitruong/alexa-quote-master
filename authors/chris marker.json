@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/chris_marker_462511",
+        "quote": "I chose a pseudonym, Chris Marker, pronounceable in most languages, because I was very intent on traveling.",
+        "author": {
+            "name": "Chris Marker",
+            "url": "/quotes/chris_marker_462511"
+        },
+        "topics": [
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Chris",
+                "url": "/topics/chris"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/chris_marker_164576",
+        "quote": "Rarely has reality needed so much to be imagined.",
+        "author": {
+            "name": "Chris Marker",
+            "url": "/quotes/chris_marker_164576"
+        },
+        "topics": [
+            {
+                "name": "Reality",
+                "url": "/topics/reality"
+            },
+            {
+                "name": "Needed",
+                "url": "/topics/needed"
+            },
+            {
+                "name": "Rarely",
+                "url": "/topics/rarely"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/chris_marker_462512",
+        "quote": "What I'm passionate about is History, and politics interest me only insofar as it is the cross-section of History in the present.",
+        "author": {
+            "name": "Chris Marker",
+            "url": "/quotes/chris_marker_462512"
+        },
+        "topics": [
+            {
+                "name": "Politics",
+                "url": "/topics/politics"
+            },
+            {
+                "name": "Passionate",
+                "url": "/topics/passionate"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    }
+]

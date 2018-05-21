@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/daniel_bernoulli_177844",
+        "quote": "There is no philosophy which is not founded upon knowledge of the phenomena, but to get any profit from this knowledge it is absolutely necessary to be a mathematician.",
+        "author": {
+            "name": "Daniel Bernoulli",
+            "url": "/quotes/daniel_bernoulli_177844"
+        },
+        "topics": [
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Necessary",
+                "url": "/topics/necessary"
+            },
+            {
+                "name": "Founded",
+                "url": "/topics/founded"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/daniel_bernoulli_177843",
+        "quote": "It would be better for the true physics if there were no mathematicians on earth.",
+        "author": {
+            "name": "Daniel Bernoulli",
+            "url": "/quotes/daniel_bernoulli_177843"
+        },
+        "topics": [
+            {
+                "name": "Better",
+                "url": "/topics/better"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            },
+            {
+                "name": "Were",
+                "url": "/topics/were"
+            }
+        ]
+    }
+]

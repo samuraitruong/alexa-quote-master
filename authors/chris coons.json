@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/chris_coons_545823",
+        "quote": "I'm no one's pet, and I intend to be an independent voice in the U.S. Senate.",
+        "author": {
+            "name": "Chris Coons",
+            "url": "/quotes/chris_coons_545823"
+        },
+        "topics": [
+            {
+                "name": "Voice",
+                "url": "/topics/voice"
+            },
+            {
+                "name": "Independent",
+                "url": "/topics/independent"
+            },
+            {
+                "name": "Senate",
+                "url": "/topics/senate"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/chris_coons_545824",
+        "quote": "In terms of political contributions, the free speech rights of corporations I don't think deserve the same protections as the free speech rights of real living, breathing, voting humans.",
+        "author": {
+            "name": "Chris Coons",
+            "url": "/quotes/chris_coons_545824"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Deserve",
+                "url": "/topics/deserve"
+            },
+            {
+                "name": "Living",
+                "url": "/topics/living"
+            }
+        ]
+    }
+]

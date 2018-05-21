@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/barry_took_183255",
+        "quote": "There are people worse off than me. I've had a very long run. I'm fine really. I'm just old.",
+        "author": {
+            "name": "Barry Took",
+            "url": "/quotes/barry_took_183255"
+        },
+        "topics": [
+            {
+                "name": "Old",
+                "url": "/topics/old"
+            },
+            {
+                "name": "Long Run",
+                "url": "/topics/long_run"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/barry_took_183256",
+        "quote": "It was a joy to be a part of the team that created Round The Horne. I was involved with the show at a time of my life when I was very happy., and that happiness overflowed into the scripts.",
+        "author": {
+            "name": "Barry Took",
+            "url": "/quotes/barry_took_183256"
+        },
+        "topics": [
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Created",
+                "url": "/topics/created"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/barry_took_183257",
+        "quote": "Of course there are times when I think, 'I'd be better out of this.'",
+        "author": {
+            "name": "Barry Took",
+            "url": "/quotes/barry_took_183257"
+        },
+        "topics": [
+            {
+                "name": "Better",
+                "url": "/topics/better"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Times",
+                "url": "/topics/times"
+            }
+        ]
+    }
+]

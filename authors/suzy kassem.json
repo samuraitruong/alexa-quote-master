@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/suzy_kassem_731058",
+        "quote": "A heart without dreams is like a bird without feathers.",
+        "author": {
+            "name": "Suzy Kassem",
+            "url": "/quotes/suzy_kassem_731058"
+        },
+        "topics": [
+            {
+                "name": "Bird",
+                "url": "/topics/bird"
+            },
+            {
+                "name": "Feathers",
+                "url": "/topics/feathers"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/suzy_kassem_731056",
+        "quote": "The number of ways you can live in one lifetime is limitless. So why limit yourself? The sky is NOT the limit. Beyond the universe is.",
+        "author": {
+            "name": "Suzy Kassem",
+            "url": "/quotes/suzy_kassem_731056"
+        },
+        "topics": [
+            {
+                "name": "Sky",
+                "url": "/topics/sky"
+            },
+            {
+                "name": "Why",
+                "url": "/topics/why"
+            },
+            {
+                "name": "Lifetime",
+                "url": "/topics/lifetime"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/suzy_kassem_731057",
+        "quote": "Fear the vulture, and the vulture will come. Fear nothing, and you are the vulture.",
+        "author": {
+            "name": "Suzy Kassem",
+            "url": "/quotes/suzy_kassem_731057"
+        },
+        "topics": [
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Come",
+                "url": "/topics/come"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/suzy_kassem_731059",
+        "quote": "Doubt kills more dreams than failure ever will.",
+        "author": {
+            "name": "Suzy Kassem",
+            "url": "/quotes/suzy_kassem_731059"
+        },
+        "topics": [
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Ever",
+                "url": "/topics/ever"
+            }
+        ]
+    }
+]

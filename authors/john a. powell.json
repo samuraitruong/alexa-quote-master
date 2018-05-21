@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/john_a_powell_386355",
+        "quote": "More than 90 percent of all the prisoners in our American prisons have been abused as children.",
+        "author": {
+            "name": "John A. Powell",
+            "url": "/quotes/john_a_powell_386355"
+        },
+        "topics": [
+            {
+                "name": "Children",
+                "url": "/topics/children"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_a_powell_386890",
+        "quote": "Blacks are about seven times more likely to live in neighborhoods of concentrated poverty than whites.",
+        "author": {
+            "name": "John A. Powell",
+            "url": "/quotes/john_a_powell_386890"
+        },
+        "topics": [
+            {
+                "name": "Neighborhoods",
+                "url": "/topics/neighborhoods"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Likely",
+                "url": "/topics/likely"
+            }
+        ]
+    }
+]

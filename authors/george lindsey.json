@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/george_lindsey_201619",
+        "quote": "It's not hard to tell we was poor - when you saw the toilet paper dryin' on the clothesline.",
+        "author": {
+            "name": "George Lindsey",
+            "url": "/quotes/george_lindsey_201619"
+        },
+        "topics": [
+            {
+                "name": "Poor",
+                "url": "/topics/poor"
+            },
+            {
+                "name": "Paper",
+                "url": "/topics/paper"
+            },
+            {
+                "name": "Toilet",
+                "url": "/topics/toilet"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_lindsey_201620",
+        "quote": "I was too dumb to know Opie was going to grow up to be a great Director, if so, boy, I would certainly have become his best friend.",
+        "author": {
+            "name": "George Lindsey",
+            "url": "/quotes/george_lindsey_201620"
+        },
+        "topics": [
+            {
+                "name": "Grow",
+                "url": "/topics/grow"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Certainly",
+                "url": "/topics/certainly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_lindsey_201622",
+        "quote": "It takes 10 million failures to find the right stuff.",
+        "author": {
+            "name": "George Lindsey",
+            "url": "/quotes/george_lindsey_201622"
+        },
+        "topics": [
+            {
+                "name": "Find",
+                "url": "/topics/find"
+            },
+            {
+                "name": "Million",
+                "url": "/topics/million"
+            },
+            {
+                "name": "Failures",
+                "url": "/topics/failures"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_lindsey_201623",
+        "quote": "It's good to be funny when you are a comedian.",
+        "author": {
+            "name": "George Lindsey",
+            "url": "/quotes/george_lindsey_201623"
+        },
+        "topics": [
+            {
+                "name": "Funny",
+                "url": "/topics/funny"
+            },
+            {
+                "name": "Good",
+                "url": "/topics/good"
+            },
+            {
+                "name": "Comedian",
+                "url": "/topics/comedian"
+            }
+        ]
+    }
+]

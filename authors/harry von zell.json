@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/harry_von_zell_325247",
+        "quote": "Radio is the most intimate and socially personal medium in the world.",
+        "author": {
+            "name": "Harry von Zell",
+            "url": "/quotes/harry_von_zell_325247"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "Socially",
+                "url": "/topics/socially"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/harry_von_zell_325244",
+        "quote": "As a designer, the mission with which we have been charged is simple: providing space at the right cost.",
+        "author": {
+            "name": "Harry von Zell",
+            "url": "/quotes/harry_von_zell_325244"
+        },
+        "topics": [
+            {
+                "name": "Architecture",
+                "url": "/topics/architecture"
+            },
+            {
+                "name": "Mission",
+                "url": "/topics/mission"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    }
+]

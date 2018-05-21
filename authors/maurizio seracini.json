@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/maurizio_seracini_643048",
+        "quote": "Our vision is to rediscover the spirit of the Renaissance, create a new discipline where engineering for cultural heritage is actually a symbol of blending art and science together.",
+        "author": {
+            "name": "Maurizio Seracini",
+            "url": "/quotes/maurizio_seracini_643048"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Symbol",
+                "url": "/topics/symbol"
+            },
+            {
+                "name": "Rediscover",
+                "url": "/topics/rediscover"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/maurizio_seracini_643047",
+        "quote": "Just think for a moment if science really could move in the field of authenticity of works of art. There would be a cultural revolution to say the least, but also, I would say, a market revolution, let me add.",
+        "author": {
+            "name": "Maurizio Seracini",
+            "url": "/quotes/maurizio_seracini_643047"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Move",
+                "url": "/topics/move"
+            },
+            {
+                "name": "Add",
+                "url": "/topics/add"
+            }
+        ]
+    }
+]

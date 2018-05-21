@@ -1,0 +1,346 @@
+[
+    {
+        "url": "/quotes/bjarne_stroustrup_269144",
+        "quote": "However, when Java is promoted as the sole programming language, its flaws and limitations become serious.",
+        "author": {
+            "name": "Bjarne Stroustrup",
+            "url": "/quotes/bjarne_stroustrup_269144"
+        },
+        "topics": [
+            {
+                "name": "Java",
+                "url": "/topics/java"
+            },
+            {
+                "name": "However",
+                "url": "/topics/however"
+            },
+            {
+                "name": "Sole",
+                "url": "/topics/sole"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bjarne_stroustrup_269128",
+        "quote": "The standard library saves programmers from having to reinvent the wheel.",
+        "author": {
+            "name": "Bjarne Stroustrup",
+            "url": "/quotes/bjarne_stroustrup_269128"
+        },
+        "topics": [
+            {
+                "name": "Library",
+                "url": "/topics/library"
+            },
+            {
+                "name": "Reinvent",
+                "url": "/topics/reinvent"
+            },
+            {
+                "name": "Standard",
+                "url": "/topics/standard"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bjarne_stroustrup_269149",
+        "quote": "First, I'd like to see the basic tools such as compilers, debuggers, profilers, database interfaces, GUI builders, CAD tools, and so forth fully support the ISO standard.",
+        "author": {
+            "name": "Bjarne Stroustrup",
+            "url": "/quotes/bjarne_stroustrup_269149"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Standard",
+                "url": "/topics/standard"
+            },
+            {
+                "name": "Builders",
+                "url": "/topics/builders"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bjarne_stroustrup_269136",
+        "quote": "I find languages that support just one programming paradigm constraining.",
+        "author": {
+            "name": "Bjarne Stroustrup",
+            "url": "/quotes/bjarne_stroustrup_269136"
+        },
+        "topics": [
+            {
+                "name": "Find",
+                "url": "/topics/find"
+            },
+            {
+                "name": "Just One",
+                "url": "/topics/just_one"
+            },
+            {
+                "name": "Languages",
+                "url": "/topics/languages"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bjarne_stroustrup_269143",
+        "quote": "After all, C++ isn't a perfect match for Java's design aims either.",
+        "author": {
+            "name": "Bjarne Stroustrup",
+            "url": "/quotes/bjarne_stroustrup_269143"
+        },
+        "topics": [
+            {
+                "name": "Java",
+                "url": "/topics/java"
+            },
+            {
+                "name": "Either",
+                "url": "/topics/either"
+            },
+            {
+                "name": "Aims",
+                "url": "/topics/aims"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bjarne_stroustrup_269131",
+        "quote": "Thus, the standard library will serve as both a tool and as a teacher.",
+        "author": {
+            "name": "Bjarne Stroustrup",
+            "url": "/quotes/bjarne_stroustrup_269131"
+        },
+        "topics": [
+            {
+                "name": "Teacher",
+                "url": "/topics/teacher"
+            },
+            {
+                "name": "Library",
+                "url": "/topics/library"
+            },
+            {
+                "name": "Standard",
+                "url": "/topics/standard"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bjarne_stroustrup_269132",
+        "quote": "Certainly not every good program is object-oriented, and not every object-oriented program is good.",
+        "author": {
+            "name": "Bjarne Stroustrup",
+            "url": "/quotes/bjarne_stroustrup_269132"
+        },
+        "topics": [
+            {
+                "name": "Certainly",
+                "url": "/topics/certainly"
+            },
+            {
+                "name": "Every",
+                "url": "/topics/every"
+            },
+            {
+                "name": "Program",
+                "url": "/topics/program"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bjarne_stroustrup_269152",
+        "quote": "I would encourage nonproprietary standards for tools and libraries.",
+        "author": {
+            "name": "Bjarne Stroustrup",
+            "url": "/quotes/bjarne_stroustrup_269152"
+        },
+        "topics": [
+            {
+                "name": "Standards",
+                "url": "/topics/standards"
+            },
+            {
+                "name": "Encourage",
+                "url": "/topics/encourage"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bjarne_stroustrup_269124",
+        "quote": "It is easy to study the rules of overloading and of templates without noticing that together they are one of the keys to elegant and efficient type-safe containers.",
+        "author": {
+            "name": "Bjarne Stroustrup",
+            "url": "/quotes/bjarne_stroustrup_269124"
+        },
+        "topics": [
+            {
+                "name": "Study",
+                "url": "/topics/study"
+            },
+            {
+                "name": "Keys",
+                "url": "/topics/keys"
+            },
+            {
+                "name": "Efficient",
+                "url": "/topics/efficient"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bjarne_stroustrup_269133",
+        "quote": "Defining OO as based on the use of class hierarchies and virtual functions is also practical in that it provides some guidance as to where OO is likely to be successful.",
+        "author": {
+            "name": "Bjarne Stroustrup",
+            "url": "/quotes/bjarne_stroustrup_269133"
+        },
+        "topics": [
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Based",
+                "url": "/topics/based"
+            },
+            {
+                "name": "Likely",
+                "url": "/topics/likely"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bjarne_stroustrup_269139",
+        "quote": "Clearly, I reject the view that there is one way that is right for everyone and for every problem.",
+        "author": {
+            "name": "Bjarne Stroustrup",
+            "url": "/quotes/bjarne_stroustrup_269139"
+        },
+        "topics": [
+            {
+                "name": "Problem",
+                "url": "/topics/problem"
+            },
+            {
+                "name": "View",
+                "url": "/topics/view"
+            },
+            {
+                "name": "One Way",
+                "url": "/topics/one_way"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bjarne_stroustrup_269140",
+        "quote": "People who passionately want to believe that the world is basically simple react to this with a fury that goes beyond what I consider appropriate for discussing a programming language.",
+        "author": {
+            "name": "Bjarne Stroustrup",
+            "url": "/quotes/bjarne_stroustrup_269140"
+        },
+        "topics": [
+            {
+                "name": "Appropriate",
+                "url": "/topics/appropriate"
+            },
+            {
+                "name": "Discussing",
+                "url": "/topics/discussing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bjarne_stroustrup_269148",
+        "quote": "This evolution may compromise Java's claim of being simpler than C++, but my guess is that the effort will make Java a better language than it is today.",
+        "author": {
+            "name": "Bjarne Stroustrup",
+            "url": "/quotes/bjarne_stroustrup_269148"
+        },
+        "topics": [
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Effort",
+                "url": "/topics/effort"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bjarne_stroustrup_269151",
+        "quote": "My list of basic tools is a partial answer to the question about what has changed: Over the past few years, large numbers of programmers have come to depend on elaborate tools to interface code with systems facilities.",
+        "author": {
+            "name": "Bjarne Stroustrup",
+            "url": "/quotes/bjarne_stroustrup_269151"
+        },
+        "topics": [
+            {
+                "name": "Depend",
+                "url": "/topics/depend"
+            },
+            {
+                "name": "Elaborate",
+                "url": "/topics/elaborate"
+            },
+            {
+                "name": "Code",
+                "url": "/topics/code"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bjarne_stroustrup_269154",
+        "quote": "With the increasing importance of standards for system-level objects such as COM and CORBA, it is particularly important that the C++ bindings to those be clean, well documented, and simple to use.",
+        "author": {
+            "name": "Bjarne Stroustrup",
+            "url": "/quotes/bjarne_stroustrup_269154"
+        },
+        "topics": [
+            {
+                "name": "Importance",
+                "url": "/topics/importance"
+            },
+            {
+                "name": "Particularly",
+                "url": "/topics/particularly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bjarne_stroustrup_269155",
+        "quote": "Personally, I look forward to better tools for analyzing C++ source code.",
+        "author": {
+            "name": "Bjarne Stroustrup",
+            "url": "/quotes/bjarne_stroustrup_269155"
+        },
+        "topics": [
+            {
+                "name": "Better",
+                "url": "/topics/better"
+            },
+            {
+                "name": "Analyzing",
+                "url": "/topics/analyzing"
+            },
+            {
+                "name": "Code",
+                "url": "/topics/code"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/henri_barbusse_177501",
+        "quote": "Two armies that fight each other is like one large army that commits suicide.",
+        "author": {
+            "name": "Henri Barbusse",
+            "url": "/quotes/henri_barbusse_177501"
+        },
+        "topics": [
+            {
+                "name": "Army",
+                "url": "/topics/army"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Armies",
+                "url": "/topics/armies"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henri_barbusse_177499",
+        "quote": "I see too deep and too much.",
+        "author": {
+            "name": "Henri Barbusse",
+            "url": "/quotes/henri_barbusse_177499"
+        },
+        "topics": [
+            {
+                "name": "Deep",
+                "url": "/topics/deep"
+            },
+            {
+                "name": "See",
+                "url": "/topics/see"
+            },
+            {
+                "name": "Too",
+                "url": "/topics/too"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henri_barbusse_177500",
+        "quote": "It is not a woman I want - it is all women.",
+        "author": {
+            "name": "Henri Barbusse",
+            "url": "/quotes/henri_barbusse_177500"
+        },
+        "topics": [
+            {
+                "name": "Woman",
+                "url": "/topics/woman"
+            },
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "All Women",
+                "url": "/topics/all_women"
+            }
+        ]
+    }
+]

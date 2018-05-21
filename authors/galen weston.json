@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/galen_weston_703449",
+        "quote": "Weston Bakeries is proud to support local children's charities across Canada. We believe the more we invest in our kids' futures today, the better our communities will be tomorrow.",
+        "author": {
+            "name": "Galen Weston",
+            "url": "/quotes/galen_weston_703449"
+        },
+        "topics": [
+            {
+                "name": "Proud",
+                "url": "/topics/proud"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Charities",
+                "url": "/topics/charities"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/galen_weston_703450",
+        "quote": "Shops are not a growing business, so it's a scary place to be.",
+        "author": {
+            "name": "Galen Weston",
+            "url": "/quotes/galen_weston_703450"
+        },
+        "topics": [
+            {
+                "name": "Business",
+                "url": "/topics/business"
+            },
+            {
+                "name": "Growing",
+                "url": "/topics/growing"
+            },
+            {
+                "name": "Shops",
+                "url": "/topics/shops"
+            }
+        ]
+    }
+]

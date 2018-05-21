@@ -1,0 +1,816 @@
+[
+    {
+        "url": "/quotes/tyler_cowen_630425?src=t_sensors",
+        "quote": "Some Google employees have their self-driving vehicles take them to work. These car robots don't look like something from 'The Jetsons'; the driverless features on these cars are a bunch of sensors, wires, and software. This technology 'works.'",
+        "author": {
+            "name": "Tyler Cowen",
+            "url": "/authors/tyler_cowen"
+        },
+        "topics": [
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Works",
+                "url": "/topics/works"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/chris_pratt_495776?src=t_sensors",
+        "quote": "I have a lot of plants and fish and a pet lizard and Venus flytraps. I have a whole ecosystem in my room, like a running waterfall and different lights and sensors set on digital timers.",
+        "author": {
+            "name": "Chris Pratt",
+            "url": "/authors/chris_pratt"
+        },
+        "topics": [
+            {
+                "name": "Digital",
+                "url": "/topics/digital"
+            },
+            {
+                "name": "Ecosystem",
+                "url": "/topics/ecosystem"
+            },
+            {
+                "name": "Set",
+                "url": "/topics/set"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tae_yoo_889223?src=t_sensors",
+        "quote": "As the world transitions to the Internet of Everything - where people, processes, and data are intelligently connected - we'll be linked in even more ways. Here, billions and trillions of sensors around the earth and in its atmosphere will send information back to machines, computers, and people for further evaluation and decision-making.",
+        "author": {
+            "name": "Tae Yoo",
+            "url": "/authors/tae_yoo"
+        },
+        "topics": [
+            {
+                "name": "Data",
+                "url": "/topics/data"
+            },
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            },
+            {
+                "name": "Atmosphere",
+                "url": "/topics/atmosphere"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/peter_diamandis_690462?src=t_sensors",
+        "quote": "As sensors and networks continue to expand around the world, we'll see violence drop even further. After all, when there's a danger that your actions can be caught on tape and shown around the world, you're more responsible for your behavior.",
+        "author": {
+            "name": "Peter Diamandis",
+            "url": "/authors/peter_diamandis"
+        },
+        "topics": [
+            {
+                "name": "Drop",
+                "url": "/topics/drop"
+            },
+            {
+                "name": "Caught",
+                "url": "/topics/caught"
+            },
+            {
+                "name": "Your",
+                "url": "/topics/your"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_t_chambers_821348?src=t_sensors",
+        "quote": "Cities, too, are embracing digitization. Barcelona has installed in-ground parking sensors and launched connected public transportation as part of its Smart City strategy.",
+        "author": {
+            "name": "John T. Chambers",
+            "url": "/authors/john_t_chambers"
+        },
+        "topics": [
+            {
+                "name": "City",
+                "url": "/topics/city"
+            },
+            {
+                "name": "Parking",
+                "url": "/topics/parking"
+            },
+            {
+                "name": "Cities",
+                "url": "/topics/cities"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sundar_pichai_724996?src=t_sensors",
+        "quote": "It's a world of multiple screens, smart displays, with tons of low-cost computing, with big sensors built into devices. At Google, we ask how to bring together something seamless and beautiful and intuitive across all these screens.",
+        "author": {
+            "name": "Sundar Pichai",
+            "url": "/authors/sundar_pichai"
+        },
+        "topics": [
+            {
+                "name": "Smart",
+                "url": "/topics/smart"
+            },
+            {
+                "name": "Bring",
+                "url": "/topics/bring"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/daniel_lyons_863395?src=t_sensors",
+        "quote": "To make a vehicle autonomous, you need to gather massive streams of data from loads of sensors and cameras and process that data on the fly so that the car can 'see' what's around it.",
+        "author": {
+            "name": "Daniel Lyons",
+            "url": "/authors/daniel_lyons"
+        },
+        "topics": [
+            {
+                "name": "Data",
+                "url": "/topics/data"
+            },
+            {
+                "name": "Process",
+                "url": "/topics/process"
+            },
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_scoble_707374?src=t_sensors",
+        "quote": "There is a shirt company that is making sensors that go into your clothing. They will watch how you sit, run or ski and give data on that information.",
+        "author": {
+            "name": "Robert Scoble",
+            "url": "/authors/robert_scoble"
+        },
+        "topics": [
+            {
+                "name": "Data",
+                "url": "/topics/data"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            },
+            {
+                "name": "Making",
+                "url": "/topics/making"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/cathy_engelbert_852515?src=t_sensors",
+        "quote": "Accelerating technology innovations such as ubiquitous sensors, cheap computing power, and 5G networks will open entirely new opportunities and challenges.",
+        "author": {
+            "name": "Cathy Engelbert",
+            "url": "/authors/cathy_engelbert"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "New Opportunities",
+                "url": "/topics/new_opportunities"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rajeev_suri_885634?src=t_sensors",
+        "quote": "There will be 50 billion devices, modules, sensors connected to the Internet by 2025, and that will give opportunities.",
+        "author": {
+            "name": "Rajeev Suri",
+            "url": "/authors/rajeev_suri"
+        },
+        "topics": [
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Connected",
+                "url": "/topics/connected"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/denise_morrison_853380?src=t_sensors",
+        "quote": "I see more people taking charge of their well-being through the use of data and digital sensors, wearable health bands, and smartphone apps that can track and quantify everything from their heart rate, blood pressure, and sleep quality to steps walked and calories consumed.",
+        "author": {
+            "name": "Denise Morrison",
+            "url": "/authors/denise_morrison"
+        },
+        "topics": [
+            {
+                "name": "Data",
+                "url": "/topics/data"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Consumed",
+                "url": "/topics/consumed"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/om_malik_863756?src=t_sensors",
+        "quote": "We are splintering what was the 'camera' and its functionality - lens, sensors, and processing - into distinct parts, but, instead of lenses and shutters, software and algorithms are becoming the driving force.",
+        "author": {
+            "name": "Om Malik",
+            "url": "/authors/om_malik"
+        },
+        "topics": [
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "Becoming",
+                "url": "/topics/becoming"
+            },
+            {
+                "name": "Lenses",
+                "url": "/topics/lenses"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_cohen_865247?src=t_sensors",
+        "quote": "If you look at the history of innovation, the innovations coming through the defence department have been some of the most important innovations ever. Little things like drones, sensors, and the Internet of Things are defence-type initiatives, but the big one is the Internet itself.",
+        "author": {
+            "name": "David Cohen",
+            "url": "/authors/david_cohen"
+        },
+        "topics": [
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Big One",
+                "url": "/topics/big_one"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jordana_brewster_432719?src=t_sensors",
+        "quote": "Parking is a nightmare for me... I still have sensors on my car that help me park.",
+        "author": {
+            "name": "Jordana Brewster",
+            "url": "/authors/jordana_brewster"
+        },
+        "topics": [
+            {
+                "name": "Help",
+                "url": "/topics/help"
+            },
+            {
+                "name": "Parking",
+                "url": "/topics/parking"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/carlo_ratti_633607?src=t_sensors",
+        "quote": "Like a tracer running through the veins of the city, networks of air quality sensors attached to bikes can help measure an individual's exposure to pollution and draw a dynamic map of the urban air on a human scale, as in the case of the Copenhagen Wheel developed by new startup Superpedestrian.",
+        "author": {
+            "name": "Carlo Ratti",
+            "url": "/authors/carlo_ratti"
+        },
+        "topics": [
+            {
+                "name": "City",
+                "url": "/topics/city"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Scale",
+                "url": "/topics/scale"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_f_kelly_813341?src=t_sensors",
+        "quote": "If you were to build a wall from the Pacific to the Gulf of Mexico, you would still have to back that wall up with patrolling by human beings, sensors, observation devices.",
+        "author": {
+            "name": "John F. Kelly",
+            "url": "/authors/john_f_kelly"
+        },
+        "topics": [
+            {
+                "name": "Observation",
+                "url": "/topics/observation"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            },
+            {
+                "name": "Devices",
+                "url": "/topics/devices"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/astro_teller_720796?src=t_sensors",
+        "quote": "I started my second company in 1999. BodyMedia was set up to take advantage of the future of wearables - sensors and computing worn on our bodies in any and all ways that could make our lives better.",
+        "author": {
+            "name": "Astro Teller",
+            "url": "/authors/astro_teller"
+        },
+        "topics": [
+            {
+                "name": "Second",
+                "url": "/topics/second"
+            },
+            {
+                "name": "Bodies",
+                "url": "/topics/bodies"
+            },
+            {
+                "name": "Our",
+                "url": "/topics/our"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_t_chambers_821347?src=t_sensors",
+        "quote": "Wearable technology will tell us how well we are sleeping and whether we need to exercise. Sensors in the street will help us avoid traffic jams and find parking. Telemedicine applications will allow physicians to treat patients who are hundreds of miles away.",
+        "author": {
+            "name": "John T. Chambers",
+            "url": "/authors/john_t_chambers"
+        },
+        "topics": [
+            {
+                "name": "Treat",
+                "url": "/topics/treat"
+            },
+            {
+                "name": "Parking",
+                "url": "/topics/parking"
+            },
+            {
+                "name": "Allow",
+                "url": "/topics/allow"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rajeev_suri_885635?src=t_sensors",
+        "quote": "Imagine if we can get information from sensors, compute it in the cloud, and find and plug water leakages - leakage wastes 20 per cent water in the world.",
+        "author": {
+            "name": "Rajeev Suri",
+            "url": "/authors/rajeev_suri"
+        },
+        "topics": [
+            {
+                "name": "Imagine",
+                "url": "/topics/imagine"
+            },
+            {
+                "name": "Wastes",
+                "url": "/topics/wastes"
+            },
+            {
+                "name": "Cent",
+                "url": "/topics/cent"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alan_stern_834927?src=t_sensors",
+        "quote": "As a scientist in charge of space sensors and entire space missions before I was at NASA, I myself was involved in projects that overran. But that's no excuse for remaining silent about this growing problem or failing to champion reform.",
+        "author": {
+            "name": "Alan Stern",
+            "url": "/authors/alan_stern"
+        },
+        "topics": [
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            },
+            {
+                "name": "Projects",
+                "url": "/topics/projects"
+            },
+            {
+                "name": "Scientist",
+                "url": "/topics/scientist"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/evgeny_morozov_555029?src=t_sensors",
+        "quote": "Sleephackers go to bed with sensors on their wrists and foreheads and maintain detailed electronic sleep diaries, which they often share online. To shift between sleep phases, sleephackers experiment with various diets, room and body temperatures, and kinds of pre-sleep physical exercise.",
+        "author": {
+            "name": "Evgeny Morozov",
+            "url": "/authors/evgeny_morozov"
+        },
+        "topics": [
+            {
+                "name": "Bed",
+                "url": "/topics/bed"
+            },
+            {
+                "name": "Shift",
+                "url": "/topics/shift"
+            },
+            {
+                "name": "Maintain",
+                "url": "/topics/maintain"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/evgeny_morozov_555031?src=t_sensors",
+        "quote": "Why does crime happen? Well, you might say that it's because youths don't have jobs. Or you might say that's because the doors of our buildings are not fortified enough. Given some limited funds to spend, you can either create yet another national employment program or you can equip houses with even better cameras, sensors, and locks.",
+        "author": {
+            "name": "Evgeny Morozov",
+            "url": "/authors/evgeny_morozov"
+        },
+        "topics": [
+            {
+                "name": "Why",
+                "url": "/topics/why"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Another",
+                "url": "/topics/another"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/douglas_wilder_451282?src=t_sensors",
+        "quote": "Healthy debate has been replaced by automatic sensors that eliminate the need for actual talking during a filibuster - a la 'Mr. Smith Goes to Washington.' Robust debate is necessary in a democratic society. Instead, our discourse has been relegated to media spin by expert entertainers.",
+        "author": {
+            "name": "Douglas Wilder",
+            "url": "/authors/douglas_wilder"
+        },
+        "topics": [
+            {
+                "name": "Expert",
+                "url": "/topics/expert"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Entertainers",
+                "url": "/topics/entertainers"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jerry_yang_710683?src=t_sensors",
+        "quote": "Scanadu is right at the heart of the next generation of computing, which combines mobility, sensors, cloud and big data. I am bullish on Scanadu and its potential to revolutionize the way we think about our health.",
+        "author": {
+            "name": "Jerry Yang",
+            "url": "/authors/jerry_yang"
+        },
+        "topics": [
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            },
+            {
+                "name": "Mobility",
+                "url": "/topics/mobility"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/yves_behar_757089?src=t_sensors",
+        "quote": "It's not about putting a speaker in a chair or putting a TV in a bed. That's not how technology and the home intersect. For me, it's about sensors, about the home knowing where you are.",
+        "author": {
+            "name": "Yves Behar",
+            "url": "/authors/yves_behar"
+        },
+        "topics": [
+            {
+                "name": "Bed",
+                "url": "/topics/bed"
+            },
+            {
+                "name": "TV",
+                "url": "/topics/tv"
+            },
+            {
+                "name": "Putting",
+                "url": "/topics/putting"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tony_fadell_639797?src=t_sensors",
+        "quote": "Well, you can say there is a self driving car. I'm seeing the automation of vehicles. Really, computer-assisted driving. I think that is really interesting to us because we are taking all of the sensors technologies and putting them in cars and making people safer.",
+        "author": {
+            "name": "Tony Fadell",
+            "url": "/authors/tony_fadell"
+        },
+        "topics": [
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Putting",
+                "url": "/topics/putting"
+            },
+            {
+                "name": "Safer",
+                "url": "/topics/safer"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/landon_donovan_651288?src=t_sensors",
+        "quote": "I grew up playing video games. And the cool thing about the EA Sports games is they took me through the whole motion-capture thing, where they put little sensors on my body so the video game really is me. It actually moves the way I move.",
+        "author": {
+            "name": "Landon Donovan",
+            "url": "/authors/landon_donovan"
+        },
+        "topics": [
+            {
+                "name": "Game",
+                "url": "/topics/game"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_r_insel_643383?src=t_sensors",
+        "quote": "From wearable sensors to video game treatments, everyone seems to be looking to technology as the next wave of innovation for mental health care.",
+        "author": {
+            "name": "Thomas R. Insel",
+            "url": "/authors/thomas_r_insel"
+        },
+        "topics": [
+            {
+                "name": "Innovation",
+                "url": "/topics/innovation"
+            },
+            {
+                "name": "Game",
+                "url": "/topics/game"
+            },
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/carrie_nugent_839285?src=t_sensors",
+        "quote": "NEOWISE needed a cryogen coolant to keep its sensors cool, and that ran out.",
+        "author": {
+            "name": "Carrie Nugent",
+            "url": "/authors/carrie_nugent"
+        },
+        "topics": [
+            {
+                "name": "Cool",
+                "url": "/topics/cool"
+            },
+            {
+                "name": "Keep",
+                "url": "/topics/keep"
+            },
+            {
+                "name": "Needed",
+                "url": "/topics/needed"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/anne_campbell_269571?src=t_sensors",
+        "quote": "The sensors have many potential practical uses - in Government buildings, train carriages, cargo containers, on a soldier's lapel - and are a thousand times cheaper than current sensors that are used for the same purpose.",
+        "author": {
+            "name": "Anne Campbell",
+            "url": "/authors/anne_campbell"
+        },
+        "topics": [
+            {
+                "name": "Purpose",
+                "url": "/topics/purpose"
+            },
+            {
+                "name": "Practical",
+                "url": "/topics/practical"
+            },
+            {
+                "name": "Cheaper",
+                "url": "/topics/cheaper"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/anne_campbell_269573?src=t_sensors",
+        "quote": "They also explained how the sensors can monitor the levels of acetone on people's breath, and this can be used to tell people who suffer from diabetes when their next insulin shot is due. This is a more discreet method than what is currently on the market.",
+        "author": {
+            "name": "Anne Campbell",
+            "url": "/authors/anne_campbell"
+        },
+        "topics": [
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            },
+            {
+                "name": "Tell",
+                "url": "/topics/tell"
+            },
+            {
+                "name": "Insulin",
+                "url": "/topics/insulin"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ralph_merkle_353654?src=t_sensors",
+        "quote": "Lighter computers and lighter sensors would let you have more function in a given weight, which is very important if you are launching things into space, and you have to pay by the pound to put things there.",
+        "author": {
+            "name": "Ralph Merkle",
+            "url": "/authors/ralph_merkle"
+        },
+        "topics": [
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Given",
+                "url": "/topics/given"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gary_wolf_555308?src=t_sensors",
+        "quote": "Millions of us track ourselves all the time. We step on a scale and record our weight. We balance a checkbook. We count calories. But when the familiar pen-and-paper methods of self-analysis are enhanced by sensors that monitor our behavior automatically, the process of self-tracking becomes both more alluring and more meaningful.",
+        "author": {
+            "name": "Gary Wolf",
+            "url": "/authors/gary_wolf"
+        },
+        "topics": [
+            {
+                "name": "Methods",
+                "url": "/topics/methods"
+            },
+            {
+                "name": "Scale",
+                "url": "/topics/scale"
+            },
+            {
+                "name": "Alluring",
+                "url": "/topics/alluring"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_w_thompson_339821?src=t_sensors",
+        "quote": "What we are seeing now is customers shifting their attention from security products like firewalls and intrusion sensors, to the policies that need to be in place, and the technologies that help them enforce policy compliance.",
+        "author": {
+            "name": "John W. Thompson",
+            "url": "/authors/john_w_thompson"
+        },
+        "topics": [
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Policies",
+                "url": "/topics/policies"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tom_lantos_345973?src=t_sensors",
+        "quote": "Google, Microsoft and Yahoo should be developing new technologies to bypass government sensors and barriers to the Internet; but instead, they agreed to guard the gates themselves.",
+        "author": {
+            "name": "Tom Lantos",
+            "url": "/authors/tom_lantos"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Developing",
+                "url": "/topics/developing"
+            },
+            {
+                "name": "Guard",
+                "url": "/topics/guard"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/claude_nicollier_265400?src=t_sensors",
+        "quote": "We have the Fine Guidance Sensors, one of which we will exchange out of three. Another one we changed on the last servicing mission, and on the fourth servicing mission in 2003 or 2004, the third one will be exchanged.",
+        "author": {
+            "name": "Claude Nicollier",
+            "url": "/authors/claude_nicollier"
+        },
+        "topics": [
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Last",
+                "url": "/topics/last"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ted_bailey_892023?src=t_sensors",
+        "quote": "People are sensors out there, and if you look at the Twitter archive over time, there's a flow and pattern for every story there has ever been.",
+        "author": {
+            "name": "Ted Bailey",
+            "url": "/authors/ted_bailey"
+        },
+        "topics": [
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Pattern",
+                "url": "/topics/pattern"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    }
+]

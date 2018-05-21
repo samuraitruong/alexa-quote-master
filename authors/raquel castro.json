@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/raquel_castro_656895",
+        "quote": "Music isn't what I do. It's who I am.",
+        "author": {
+            "name": "Raquel Castro",
+            "url": "/quotes/raquel_castro_656895"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Am",
+                "url": "/topics/am"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/raquel_castro_570673",
+        "quote": "The best part appearing in 'Jersey Girl' was meeting my idol Jennifer Lopez.",
+        "author": {
+            "name": "Raquel Castro",
+            "url": "/quotes/raquel_castro_570673"
+        },
+        "topics": [
+            {
+                "name": "Part",
+                "url": "/topics/part"
+            },
+            {
+                "name": "Jersey",
+                "url": "/topics/jersey"
+            },
+            {
+                "name": "Jennifer",
+                "url": "/topics/jennifer"
+            }
+        ]
+    }
+]

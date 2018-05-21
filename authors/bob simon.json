@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/bob_simon_706294",
+        "quote": "The military has been determined to control the images of war since Vietnam. They're convinced that they lost the war because of loss of political support back home, because people saw what was going on.",
+        "author": {
+            "name": "Bob Simon",
+            "url": "/quotes/bob_simon_706294"
+        },
+        "topics": [
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Images",
+                "url": "/topics/images"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bob_simon_706293",
+        "quote": "If China were to explode, I'd want to be there in a flash. If there's a big story, I want to be there.",
+        "author": {
+            "name": "Bob Simon",
+            "url": "/quotes/bob_simon_706293"
+        },
+        "topics": [
+            {
+                "name": "China",
+                "url": "/topics/china"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Big Story",
+                "url": "/topics/big_story"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bob_simon_706295",
+        "quote": "Saddam, as most tyrants, was a total control freak. He wanted total control of his regime. Total control of the country. And to introduce a wild card like Al Qaeda in any sense was just something he would not do.",
+        "author": {
+            "name": "Bob Simon",
+            "url": "/quotes/bob_simon_706295"
+        },
+        "topics": [
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Regime",
+                "url": "/topics/regime"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bob_simon_706296",
+        "quote": "The minute you're working with the government, you're dealing with bureaucracy, you're dealing with time lags, you're dealing with rigidity, you're dealing with a slow pace.",
+        "author": {
+            "name": "Bob Simon",
+            "url": "/quotes/bob_simon_706296"
+        },
+        "topics": [
+            {
+                "name": "Government",
+                "url": "/topics/government"
+            },
+            {
+                "name": "Slow",
+                "url": "/topics/slow"
+            },
+            {
+                "name": "Dealing",
+                "url": "/topics/dealing"
+            }
+        ]
+    }
+]

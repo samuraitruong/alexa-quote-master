@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/samuel_rogers_380615",
+        "quote": "To know her was to love her.",
+        "author": {
+            "name": "Samuel Rogers",
+            "url": "/quotes/samuel_rogers_380615"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Know",
+                "url": "/topics/know"
+            },
+            {
+                "name": "Her",
+                "url": "/topics/her"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/samuel_rogers_160897",
+        "quote": "I lived to write, and wrote to live.",
+        "author": {
+            "name": "Samuel Rogers",
+            "url": "/quotes/samuel_rogers_160897"
+        },
+        "topics": [
+            {
+                "name": "Lived",
+                "url": "/topics/lived"
+            },
+            {
+                "name": "Write",
+                "url": "/topics/write"
+            },
+            {
+                "name": "Wrote",
+                "url": "/topics/wrote"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/samuel_rogers_160963",
+        "quote": "Think nothing done while aught remains to do.",
+        "author": {
+            "name": "Samuel Rogers",
+            "url": "/quotes/samuel_rogers_160963"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            },
+            {
+                "name": "Remains",
+                "url": "/topics/remains"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/samuel_rogers_378833",
+        "quote": "When a new book is published, read an old one.",
+        "author": {
+            "name": "Samuel Rogers",
+            "url": "/quotes/samuel_rogers_378833"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Read",
+                "url": "/topics/read"
+            },
+            {
+                "name": "Old One",
+                "url": "/topics/old_one"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/samuel_rogers_390461",
+        "quote": "It doesn't much signify whom one marries, for one is sure to find next morning that it was someone else.",
+        "author": {
+            "name": "Samuel Rogers",
+            "url": "/quotes/samuel_rogers_390461"
+        },
+        "topics": [
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            },
+            {
+                "name": "Sure",
+                "url": "/topics/sure"
+            },
+            {
+                "name": "Next Morning",
+                "url": "/topics/next_morning"
+            }
+        ]
+    }
+]

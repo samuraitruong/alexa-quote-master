@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/edie_adams_221319",
+        "quote": "All the dreamers in all the world are dizzy in the noodle.",
+        "author": {
+            "name": "Edie Adams",
+            "url": "/quotes/edie_adams_221319"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Dizzy",
+                "url": "/topics/dizzy"
+            },
+            {
+                "name": "All The World",
+                "url": "/topics/all_the_world"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edie_adams_221320",
+        "quote": "You aren't going to leave me alone are you?",
+        "author": {
+            "name": "Edie Adams",
+            "url": "/quotes/edie_adams_221320"
+        },
+        "topics": [
+            {
+                "name": "Alone",
+                "url": "/topics/alone"
+            },
+            {
+                "name": "Leave",
+                "url": "/topics/leave"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edie_adams_221318",
+        "quote": "Well, we could tell them that we're here on an archeological expedition.",
+        "author": {
+            "name": "Edie Adams",
+            "url": "/quotes/edie_adams_221318"
+        },
+        "topics": [
+            {
+                "name": "Tell",
+                "url": "/topics/tell"
+            },
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            },
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            }
+        ]
+    }
+]

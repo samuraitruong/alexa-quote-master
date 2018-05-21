@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/william_hone_188427",
+        "quote": "A good lather is half the shave.",
+        "author": {
+            "name": "William Hone",
+            "url": "/quotes/william_hone_188427"
+        },
+        "topics": [
+            {
+                "name": "Good",
+                "url": "/topics/good"
+            },
+            {
+                "name": "Half",
+                "url": "/topics/half"
+            },
+            {
+                "name": "Shave",
+                "url": "/topics/shave"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_hone_188428",
+        "quote": "John Jones may be described as 'one of the has beens'.",
+        "author": {
+            "name": "William Hone",
+            "url": "/quotes/william_hone_188428"
+        },
+        "topics": [
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "John",
+                "url": "/topics/john"
+            }
+        ]
+    }
+]

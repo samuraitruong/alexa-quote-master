@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/emiliano_zapata_109725",
+        "quote": "It is better to die on your feet than to live on your knees.",
+        "author": {
+            "name": "Emiliano Zapata",
+            "url": "/quotes/emiliano_zapata_109725"
+        },
+        "topics": [
+            {
+                "name": "Feet",
+                "url": "/topics/feet"
+            },
+            {
+                "name": "Better",
+                "url": "/topics/better"
+            },
+            {
+                "name": "Die",
+                "url": "/topics/die"
+            }
+        ]
+    }
+]

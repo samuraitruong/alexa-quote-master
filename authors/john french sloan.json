@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/john_french_sloan_137523",
+        "quote": "Every good picture leaves the painter eager to start again, unsatisfied, inspired by the rich mine in which he is working, hoping for more energy, more vitality, more time - condemned to painting for life.",
+        "author": {
+            "name": "John French Sloan",
+            "url": "/quotes/john_french_sloan_137523"
+        },
+        "topics": [
+            {
+                "name": "Mine",
+                "url": "/topics/mine"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Eager",
+                "url": "/topics/eager"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_french_sloan_137731",
+        "quote": "Since we have to speak well of the dead, let's knock them while they're alive.",
+        "author": {
+            "name": "John French Sloan",
+            "url": "/quotes/john_french_sloan_137731"
+        },
+        "topics": [
+            {
+                "name": "Alive",
+                "url": "/topics/alive"
+            },
+            {
+                "name": "Well",
+                "url": "/topics/well"
+            },
+            {
+                "name": "Knock",
+                "url": "/topics/knock"
+            }
+        ]
+    }
+]

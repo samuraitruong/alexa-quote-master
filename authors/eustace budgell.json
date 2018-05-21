@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/eustace_budgell_311914",
+        "quote": "Friendship is a strong and habitual inclination in two persons to promote the good and happiness of one another.",
+        "author": {
+            "name": "Eustace Budgell",
+            "url": "/quotes/eustace_budgell_311914"
+        },
+        "topics": [
+            {
+                "name": "Strong",
+                "url": "/topics/strong"
+            },
+            {
+                "name": "Inclination",
+                "url": "/topics/inclination"
+            },
+            {
+                "name": "Persons",
+                "url": "/topics/persons"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eustace_budgell_389503",
+        "quote": "Love and esteem are the first principles of friendship; it is always imperfect if either of these two are wanting.",
+        "author": {
+            "name": "Eustace Budgell",
+            "url": "/quotes/eustace_budgell_389503"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Wanting",
+                "url": "/topics/wanting"
+            }
+        ]
+    }
+]

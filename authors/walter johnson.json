@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/walter_johnson_139650",
+        "quote": "I throw as hard as I can when I think I have to throw as hard as I can.",
+        "author": {
+            "name": "Walter Johnson",
+            "url": "/quotes/walter_johnson_139650"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Throw",
+                "url": "/topics/throw"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/walter_johnson_139649",
+        "quote": "Can I throw harder than Joe Wood? Listen mister, no man alive can throw any harder than Smokey Joe Wood.",
+        "author": {
+            "name": "Walter Johnson",
+            "url": "/quotes/walter_johnson_139649"
+        },
+        "topics": [
+            {
+                "name": "Alive",
+                "url": "/topics/alive"
+            },
+            {
+                "name": "Throw",
+                "url": "/topics/throw"
+            },
+            {
+                "name": "Joe",
+                "url": "/topics/joe"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/walter_johnson_139653",
+        "quote": "You can't hit what you can't see.",
+        "author": {
+            "name": "Walter Johnson",
+            "url": "/quotes/walter_johnson_139653"
+        },
+        "topics": [
+            {
+                "name": "See",
+                "url": "/topics/see"
+            },
+            {
+                "name": "You",
+                "url": "/topics/you"
+            },
+            {
+                "name": "Hit",
+                "url": "/topics/hit"
+            }
+        ]
+    }
+]

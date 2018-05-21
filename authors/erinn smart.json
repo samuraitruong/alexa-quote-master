@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/erinn_smart_653903",
+        "quote": "My brother is my best friend. Usually, when I'm fencing, I can hear his voice.",
+        "author": {
+            "name": "Erinn Smart",
+            "url": "/quotes/erinn_smart_653903"
+        },
+        "topics": [
+            {
+                "name": "Best",
+                "url": "/topics/best"
+            },
+            {
+                "name": "Voice",
+                "url": "/topics/voice"
+            },
+            {
+                "name": "I Can",
+                "url": "/topics/i_can"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/erinn_smart_653904",
+        "quote": "I think swimming's hard because I can't float.",
+        "author": {
+            "name": "Erinn Smart",
+            "url": "/quotes/erinn_smart_653904"
+        },
+        "topics": [
+            {
+                "name": "Swimming",
+                "url": "/topics/swimming"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/erinn_smart_427757",
+        "quote": "My brother is my best friend.",
+        "author": {
+            "name": "Erinn Smart",
+            "url": "/quotes/erinn_smart_427757"
+        },
+        "topics": [
+            {
+                "name": "Best Friend",
+                "url": "/topics/best_friend"
+            },
+            {
+                "name": "Best",
+                "url": "/topics/best"
+            },
+            {
+                "name": "Friend",
+                "url": "/topics/friend"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/erinn_smart_427758",
+        "quote": "Being one point ahead at the end - that's all that matters.",
+        "author": {
+            "name": "Erinn Smart",
+            "url": "/quotes/erinn_smart_427758"
+        },
+        "topics": [
+            {
+                "name": "End",
+                "url": "/topics/end"
+            },
+            {
+                "name": "Matters",
+                "url": "/topics/matters"
+            },
+            {
+                "name": "Ahead",
+                "url": "/topics/ahead"
+            }
+        ]
+    }
+]

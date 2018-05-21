@@ -1,0 +1,156 @@
+[
+    {
+        "url": "/quotes/bill_cosby_625988?src=t_ale",
+        "quote": "Tons of comedians have said, 'I grew up learning from Bill Cosby. He's great.' But that respect doesn't mean much to the young people. They like their ginger ale with hot sauce.",
+        "author": {
+            "name": "Bill Cosby",
+            "url": "/authors/bill_cosby"
+        },
+        "topics": [
+            {
+                "name": "Learning",
+                "url": "/topics/learning"
+            },
+            {
+                "name": "Young",
+                "url": "/topics/young"
+            },
+            {
+                "name": "Sauce",
+                "url": "/topics/sauce"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/a_e_housman_139110?src=t_ale",
+        "quote": "Shoulder the sky, my lad, and drink your ale.",
+        "author": {
+            "name": "A. E. Housman",
+            "url": "/authors/a_e_housman"
+        },
+        "topics": [
+            {
+                "name": "Sky",
+                "url": "/topics/sky"
+            },
+            {
+                "name": "Shoulder",
+                "url": "/topics/shoulder"
+            },
+            {
+                "name": "Your",
+                "url": "/topics/your"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/a_e_housman_153544?src=t_ale",
+        "quote": "Ale, man, ale's the stuff to drink for fellows whom it hurts to think.",
+        "author": {
+            "name": "A. E. Housman",
+            "url": "/authors/a_e_housman"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Hurts",
+                "url": "/topics/hurts"
+            },
+            {
+                "name": "Fellows",
+                "url": "/topics/fellows"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/a_e_housman_153549?src=t_ale",
+        "quote": "The troubles of our proud and angry dust are from eternity, and shall not fail. Bear them we can, and if we can we must. Shoulder the sky, my lad, and drink your ale.",
+        "author": {
+            "name": "A. E. Housman",
+            "url": "/authors/a_e_housman"
+        },
+        "topics": [
+            {
+                "name": "Sky",
+                "url": "/topics/sky"
+            },
+            {
+                "name": "Proud",
+                "url": "/topics/proud"
+            },
+            {
+                "name": "Eternity",
+                "url": "/topics/eternity"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kenelm_digby_329865?src=t_ale",
+        "quote": "Note, that yeast of good Beer, is better then that of Ale.",
+        "author": {
+            "name": "Kenelm Digby",
+            "url": "/authors/kenelm_digby"
+        },
+        "topics": [
+            {
+                "name": "Better",
+                "url": "/topics/better"
+            },
+            {
+                "name": "Note",
+                "url": "/topics/note"
+            },
+            {
+                "name": "Then",
+                "url": "/topics/then"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_farquhar_153380?src=t_ale",
+        "quote": "I have fed purely upon ale; I have eat my ale, drank my ale, and I always sleep upon ale.",
+        "author": {
+            "name": "George Farquhar",
+            "url": "/authors/george_farquhar"
+        },
+        "topics": [
+            {
+                "name": "Sleep",
+                "url": "/topics/sleep"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Purely",
+                "url": "/topics/purely"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tom_hodgkinson_527583?src=t_ale",
+        "quote": "My idea of childcare at festivals is to sit at a trestle table with an ale while the kids run around and make up their own games.",
+        "author": {
+            "name": "Tom Hodgkinson",
+            "url": "/authors/tom_hodgkinson"
+        },
+        "topics": [
+            {
+                "name": "Festivals",
+                "url": "/topics/festivals"
+            },
+            {
+                "name": "Idea",
+                "url": "/topics/idea"
+            },
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            }
+        ]
+    }
+]

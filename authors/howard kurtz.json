@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/howard_kurtz_404643",
+        "quote": "It's a brave new world.",
+        "author": {
+            "name": "Howard Kurtz",
+            "url": "/quotes/howard_kurtz_404643"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "New World",
+                "url": "/topics/new_world"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/howard_kurtz_405248",
+        "quote": "Journalism seems to have recovered its reason for being.",
+        "author": {
+            "name": "Howard Kurtz",
+            "url": "/quotes/howard_kurtz_405248"
+        },
+        "topics": [
+            {
+                "name": "Reason",
+                "url": "/topics/reason"
+            },
+            {
+                "name": "Being",
+                "url": "/topics/being"
+            },
+            {
+                "name": "Recovered",
+                "url": "/topics/recovered"
+            }
+        ]
+    }
+]

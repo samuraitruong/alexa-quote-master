@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/george_m_cohan_185410",
+        "quote": "I don't care what you say about me, as long as you say something about me, and as long as you spell my name right.",
+        "author": {
+            "name": "George M. Cohan",
+            "url": "/quotes/george_m_cohan_185410"
+        },
+        "topics": [
+            {
+                "name": "Say",
+                "url": "/topics/say"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Spell",
+                "url": "/topics/spell"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_m_cohan_278078",
+        "quote": "Ladies and gentlemen, my mother thanks you, my father thanks you, my sister thanks you, and I thank you!",
+        "author": {
+            "name": "George M. Cohan",
+            "url": "/quotes/george_m_cohan_278078"
+        },
+        "topics": [
+            {
+                "name": "Mother",
+                "url": "/topics/mother"
+            },
+            {
+                "name": "Thank You",
+                "url": "/topics/thank_you"
+            },
+            {
+                "name": "Thanks",
+                "url": "/topics/thanks"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_m_cohan_278079",
+        "quote": "Many a bum show has been saved by the flag.",
+        "author": {
+            "name": "George M. Cohan",
+            "url": "/quotes/george_m_cohan_278079"
+        },
+        "topics": [
+            {
+                "name": "Flag",
+                "url": "/topics/flag"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Saved",
+                "url": "/topics/saved"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_m_cohan_278080",
+        "quote": "Hurried and worried until we're buried, and there's no curtain call, Lifes a very funny proposition after all.",
+        "author": {
+            "name": "George M. Cohan",
+            "url": "/quotes/george_m_cohan_278080"
+        },
+        "topics": [
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Call",
+                "url": "/topics/call"
+            },
+            {
+                "name": "Buried",
+                "url": "/topics/buried"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/bernard_manning_128876",
+        "quote": "I'm glad I'm not bisexual. I couldn't stand being rejected by men as well as women.",
+        "author": {
+            "name": "Bernard Manning",
+            "url": "/quotes/bernard_manning_128876"
+        },
+        "topics": [
+            {
+                "name": "Men",
+                "url": "/topics/men"
+            },
+            {
+                "name": "Bisexual",
+                "url": "/topics/bisexual"
+            },
+            {
+                "name": "Rejected",
+                "url": "/topics/rejected"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bernard_manning_128868",
+        "quote": "I once bought my kids a set of batteries for Christmas with a note on it saying, toys not included.",
+        "author": {
+            "name": "Bernard Manning",
+            "url": "/quotes/bernard_manning_128868"
+        },
+        "topics": [
+            {
+                "name": "Christmas",
+                "url": "/topics/christmas"
+            },
+            {
+                "name": "Note",
+                "url": "/topics/note"
+            },
+            {
+                "name": "Set",
+                "url": "/topics/set"
+            }
+        ]
+    }
+]

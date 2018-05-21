@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/brooks_adams_237009",
+        "quote": "Politics, as a practice, whatever its profession, has always been the systematic organization of hatreds.",
+        "author": {
+            "name": "Brooks Adams",
+            "url": "/quotes/brooks_adams_237009"
+        },
+        "topics": [
+            {
+                "name": "Politics",
+                "url": "/topics/politics"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Profession",
+                "url": "/topics/profession"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brooks_adams_237010",
+        "quote": "The difference is slight, to the influence of an author, whether he is read by 500 readers, or by five hundred thousand; if he can select the 500, he reaches the five hundred thousand.",
+        "author": {
+            "name": "Brooks Adams",
+            "url": "/quotes/brooks_adams_237010"
+        },
+        "topics": [
+            {
+                "name": "Slight",
+                "url": "/topics/slight"
+            },
+            {
+                "name": "Read",
+                "url": "/topics/read"
+            },
+            {
+                "name": "Hundred",
+                "url": "/topics/hundred"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brooks_adams_237011",
+        "quote": "One friend in a lifetime is much; two are many; three are hardly possible. Friendship needs a certain parallelism of life, a community of thought, a rivalry of aim.",
+        "author": {
+            "name": "Brooks Adams",
+            "url": "/quotes/brooks_adams_237011"
+        },
+        "topics": [
+            {
+                "name": "Friendship",
+                "url": "/topics/friendship"
+            },
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Needs",
+                "url": "/topics/needs"
+            }
+        ]
+    }
+]

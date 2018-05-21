@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/elmer_rice_249585",
+        "quote": "Men and women of high professional standing have been reduced to the status of vagrants.",
+        "author": {
+            "name": "Elmer Rice",
+            "url": "/quotes/elmer_rice_249585"
+        },
+        "topics": [
+            {
+                "name": "High",
+                "url": "/topics/high"
+            },
+            {
+                "name": "Standing",
+                "url": "/topics/standing"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/elmer_rice_249587",
+        "quote": "When he asked me, with obvious self-satisfaction, what I thought of the scenario, I hardly knew how to answer. I asked if he had seen the play and was hardly surprised when he said no.",
+        "author": {
+            "name": "Elmer Rice",
+            "url": "/quotes/elmer_rice_249587"
+        },
+        "topics": [
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Knew",
+                "url": "/topics/knew"
+            }
+        ]
+    }
+]

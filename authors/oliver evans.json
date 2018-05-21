@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/oliver_evans_198468",
+        "quote": "It frequently happens that two persons, reasoning right on a mechanical subject, think alike and invent the same thing without any communication with each other.",
+        "author": {
+            "name": "Oliver Evans",
+            "url": "/quotes/oliver_evans_198468"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Same Thing",
+                "url": "/topics/same_thing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/oliver_evans_198470",
+        "quote": "People did not even then like to eat dirt, if they could see it.",
+        "author": {
+            "name": "Oliver Evans",
+            "url": "/quotes/oliver_evans_198470"
+        },
+        "topics": [
+            {
+                "name": "See",
+                "url": "/topics/see"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Even",
+                "url": "/topics/even"
+            }
+        ]
+    }
+]

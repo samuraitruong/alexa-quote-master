@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/andre_derain_388220",
+        "quote": "The substance of painting is light.",
+        "author": {
+            "name": "Andre Derain",
+            "url": "/quotes/andre_derain_388220"
+        },
+        "topics": [
+            {
+                "name": "Light",
+                "url": "/topics/light"
+            },
+            {
+                "name": "Painting",
+                "url": "/topics/painting"
+            },
+            {
+                "name": "Substance",
+                "url": "/topics/substance"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/andre_derain_388229",
+        "quote": "I do not innovate. I transmit.",
+        "author": {
+            "name": "Andre Derain",
+            "url": "/quotes/andre_derain_388229"
+        },
+        "topics": [
+            {
+                "name": "Innovate",
+                "url": "/topics/innovate"
+            },
+            {
+                "name": "Transmit",
+                "url": "/topics/transmit"
+            }
+        ]
+    }
+]

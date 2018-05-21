@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/otto_lilienthal_312141",
+        "quote": "To invent an airplane is nothing. To build one is something. But to fly is everything.",
+        "author": {
+            "name": "Otto Lilienthal",
+            "url": "/quotes/otto_lilienthal_312141"
+        },
+        "topics": [
+            {
+                "name": "Fly",
+                "url": "/topics/fly"
+            },
+            {
+                "name": "Airplane",
+                "url": "/topics/airplane"
+            },
+            {
+                "name": "Build",
+                "url": "/topics/build"
+            }
+        ]
+    }
+]

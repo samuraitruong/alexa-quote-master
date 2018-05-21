@@ -1,0 +1,218 @@
+[
+    {
+        "url": "/quotes/charles_petzold_687496",
+        "quote": "A MIDI file contains coded instructions to play a particular series of notes on an electronic music synthesizer. A MIDI file is more like a piano roll in a player piano than any type of sound recording.",
+        "author": {
+            "name": "Charles Petzold",
+            "url": "/quotes/charles_petzold_687496"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Notes",
+                "url": "/topics/notes"
+            },
+            {
+                "name": "Instructions",
+                "url": "/topics/instructions"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charles_petzold_687493",
+        "quote": "I started out with machine code and assembly language.",
+        "author": {
+            "name": "Charles Petzold",
+            "url": "/quotes/charles_petzold_687493"
+        },
+        "topics": [
+            {
+                "name": "Machine",
+                "url": "/topics/machine"
+            },
+            {
+                "name": "Code",
+                "url": "/topics/code"
+            },
+            {
+                "name": "Assembly",
+                "url": "/topics/assembly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charles_petzold_687490",
+        "quote": "I really liked figuring things out on my own. Early on in the development of a new version of Windows, I would explore it, I would try out various things, I would see what worked, I would see what didn't work.",
+        "author": {
+            "name": "Charles Petzold",
+            "url": "/quotes/charles_petzold_687490"
+        },
+        "topics": [
+            {
+                "name": "Development",
+                "url": "/topics/development"
+            },
+            {
+                "name": "Explore",
+                "url": "/topics/explore"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charles_petzold_687491",
+        "quote": "I felt more like a scientist exploring nature, and Windows was my environment. You don't pass judgment on nature; you just explain how it works.",
+        "author": {
+            "name": "Charles Petzold",
+            "url": "/quotes/charles_petzold_687491"
+        },
+        "topics": [
+            {
+                "name": "Explain",
+                "url": "/topics/explain"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Works",
+                "url": "/topics/works"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charles_petzold_687492",
+        "quote": "Blend is great for designers because it implements a lot of sophisticated behaviours, but for what I like to do, hand coding XAML is preferable, particularly because I have to publish it.",
+        "author": {
+            "name": "Charles Petzold",
+            "url": "/quotes/charles_petzold_687492"
+        },
+        "topics": [
+            {
+                "name": "Sophisticated",
+                "url": "/topics/sophisticated"
+            },
+            {
+                "name": "Designers",
+                "url": "/topics/designers"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charles_petzold_687494",
+        "quote": "Some programs - especially games - require that your system be set to a particular color depth and resolution. Often such special settings are different from your usual mode, though.",
+        "author": {
+            "name": "Charles Petzold",
+            "url": "/quotes/charles_petzold_687494"
+        },
+        "topics": [
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Settings",
+                "url": "/topics/settings"
+            },
+            {
+                "name": "Set",
+                "url": "/topics/set"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charles_petzold_687495",
+        "quote": "Computer monitors can operate in many different video modes. In most cases, the decision about how many pixels and colors to display is yours - but not always.",
+        "author": {
+            "name": "Charles Petzold",
+            "url": "/quotes/charles_petzold_687495"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Modes",
+                "url": "/topics/modes"
+            },
+            {
+                "name": "Cases",
+                "url": "/topics/cases"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charles_petzold_687497",
+        "quote": "All modern MIDI synthesizers are capable of polyphony, which means they can play more than one note at a time and more than one instrument at a time.",
+        "author": {
+            "name": "Charles Petzold",
+            "url": "/quotes/charles_petzold_687497"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Means",
+                "url": "/topics/means"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charles_petzold_687498",
+        "quote": "MIDI made a natural transition to the PC. The MIDI messages that make up a musical composition can be saved as MIDI files, which are collections of MIDI messages with timing information.",
+        "author": {
+            "name": "Charles Petzold",
+            "url": "/quotes/charles_petzold_687498"
+        },
+        "topics": [
+            {
+                "name": "Natural",
+                "url": "/topics/natural"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Musical",
+                "url": "/topics/musical"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charles_petzold_687499",
+        "quote": "Many MIDI files contain entire musical compositions. Because MIDI supports only 16 channels, however, no more than 16 different instruments can play at any time, and one of those is the key-based percussion instrument.",
+        "author": {
+            "name": "Charles Petzold",
+            "url": "/quotes/charles_petzold_687499"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Instrument",
+                "url": "/topics/instrument"
+            },
+            {
+                "name": "However",
+                "url": "/topics/however"
+            }
+        ]
+    }
+]

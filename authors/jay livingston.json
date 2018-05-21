@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/jay_livingston_229477",
+        "quote": "Then I grew up and fell in love, I asked my sweetheart, 'what lies ahead?",
+        "author": {
+            "name": "Jay Livingston",
+            "url": "/quotes/jay_livingston_229477"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Sweetheart",
+                "url": "/topics/sweetheart"
+            },
+            {
+                "name": "Fell",
+                "url": "/topics/fell"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jay_livingston_229478",
+        "quote": "Now I have children of my own. They ask their mother what will I be. Will I be handsome, will I be rich?",
+        "author": {
+            "name": "Jay Livingston",
+            "url": "/quotes/jay_livingston_229478"
+        },
+        "topics": [
+            {
+                "name": "Mother",
+                "url": "/topics/mother"
+            },
+            {
+                "name": "Children",
+                "url": "/topics/children"
+            },
+            {
+                "name": "Handsome",
+                "url": "/topics/handsome"
+            }
+        ]
+    }
+]

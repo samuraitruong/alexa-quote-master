@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/fritz_scholder_177856",
+        "quote": "I give thanks everyday that I've been able to take my craziness and make it work for me.",
+        "author": {
+            "name": "Fritz Scholder",
+            "url": "/quotes/fritz_scholder_177856"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/fritz_scholder_177857",
+        "quote": "We need art more than ever as we stagger toward the Millennium.",
+        "author": {
+            "name": "Fritz Scholder",
+            "url": "/quotes/fritz_scholder_177857"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Ever",
+                "url": "/topics/ever"
+            },
+            {
+                "name": "Toward",
+                "url": "/topics/toward"
+            }
+        ]
+    }
+]

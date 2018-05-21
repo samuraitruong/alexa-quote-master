@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/ian_dury_393987",
+        "quote": "Sex and drugs and rock and roll.",
+        "author": {
+            "name": "Ian Dury",
+            "url": "/quotes/ian_dury_393987"
+        },
+        "topics": [
+            {
+                "name": "Rock And Roll",
+                "url": "/topics/rock_and_roll"
+            },
+            {
+                "name": "Rock",
+                "url": "/topics/rock"
+            },
+            {
+                "name": "Sex",
+                "url": "/topics/sex"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ian_dury_305282",
+        "quote": "I haven't shaken my fists at the moon.",
+        "author": {
+            "name": "Ian Dury",
+            "url": "/quotes/ian_dury_305282"
+        },
+        "topics": [
+            {
+                "name": "Moon",
+                "url": "/topics/moon"
+            },
+            {
+                "name": "Fists",
+                "url": "/topics/fists"
+            },
+            {
+                "name": "Shaken",
+                "url": "/topics/shaken"
+            }
+        ]
+    }
+]

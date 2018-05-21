@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/werner_erhard_378690",
+        "quote": "Ride the horse in the direction that it's going.",
+        "author": {
+            "name": "Werner Erhard",
+            "url": "/quotes/werner_erhard_378690"
+        },
+        "topics": [
+            {
+                "name": "Horse",
+                "url": "/topics/horse"
+            },
+            {
+                "name": "Ride",
+                "url": "/topics/ride"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/werner_erhard_378691",
+        "quote": "Create your future from your future not your past.",
+        "author": {
+            "name": "Werner Erhard",
+            "url": "/quotes/werner_erhard_378691"
+        },
+        "topics": [
+            {
+                "name": "Future",
+                "url": "/topics/future"
+            },
+            {
+                "name": "Past",
+                "url": "/topics/past"
+            },
+            {
+                "name": "Create",
+                "url": "/topics/create"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/werner_erhard_106540",
+        "quote": "You don't have to go looking for love when it's where you come from.",
+        "author": {
+            "name": "Werner Erhard",
+            "url": "/quotes/werner_erhard_106540"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Looking",
+                "url": "/topics/looking"
+            },
+            {
+                "name": "Go",
+                "url": "/topics/go"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/werner_erhard_382072",
+        "quote": "Your life works to the degree you keep your agreements.",
+        "author": {
+            "name": "Werner Erhard",
+            "url": "/quotes/werner_erhard_382072"
+        },
+        "topics": [
+            {
+                "name": "Degree",
+                "url": "/topics/degree"
+            },
+            {
+                "name": "Works",
+                "url": "/topics/works"
+            },
+            {
+                "name": "Keep",
+                "url": "/topics/keep"
+            }
+        ]
+    }
+]

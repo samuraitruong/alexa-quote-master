@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/leonhard_euler_184022",
+        "quote": "For since the fabric of the universe is most perfect and the work of a most wise Creator, nothing at all takes place in the universe in which some rule of maximum or minimum does not appear.",
+        "author": {
+            "name": "Leonhard Euler",
+            "url": "/quotes/leonhard_euler_184022"
+        },
+        "topics": [
+            {
+                "name": "Creator",
+                "url": "/topics/creator"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/leonhard_euler_184024",
+        "quote": "Mathematicians have tried in vain to this day to discover some order in the sequence of prime numbers, and we have reason to believe that it is a mystery into which the human mind will never penetrate.",
+        "author": {
+            "name": "Leonhard Euler",
+            "url": "/quotes/leonhard_euler_184024"
+        },
+        "topics": [
+            {
+                "name": "Discover",
+                "url": "/topics/discover"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Prime",
+                "url": "/topics/prime"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/leonhard_euler_184023",
+        "quote": "Madam, I have come from a country where people are hanged if they talk.",
+        "author": {
+            "name": "Leonhard Euler",
+            "url": "/quotes/leonhard_euler_184023"
+        },
+        "topics": [
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Madam",
+                "url": "/topics/madam"
+            },
+            {
+                "name": "Hanged",
+                "url": "/topics/hanged"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/leonhard_euler_184025",
+        "quote": "To those who ask what the infinitely small quantity in mathematics is, we answer that it is actually zero. Hence there are not so many mysteries hidden in this concept as they are usually believed to be.",
+        "author": {
+            "name": "Leonhard Euler",
+            "url": "/quotes/leonhard_euler_184025"
+        },
+        "topics": [
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Quantity",
+                "url": "/topics/quantity"
+            },
+            {
+                "name": "Infinitely",
+                "url": "/topics/infinitely"
+            }
+        ]
+    }
+]

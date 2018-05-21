@@ -1,0 +1,262 @@
+[
+    {
+        "url": "/quotes/richard_stallman_473481?src=t_free_software",
+        "quote": "Free software is software that respects your freedom and the social solidarity of your community. So it's free as in freedom.",
+        "author": {
+            "name": "Richard Stallman",
+            "url": "/authors/richard_stallman"
+        },
+        "topics": [
+            {
+                "name": "Freedom",
+                "url": "/topics/freedom"
+            },
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "Social",
+                "url": "/topics/social"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_gates_191265?src=t_free_software",
+        "quote": "Whether it's Google or Apple or free software, we've got some fantastic competitors and it keeps us on our toes.",
+        "author": {
+            "name": "Bill Gates",
+            "url": "/authors/bill_gates"
+        },
+        "topics": [
+            {
+                "name": "Google",
+                "url": "/topics/google"
+            },
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/linus_torvalds_587370?src=t_free_software",
+        "quote": "There were open source projects and free software before Linux was there. Linux in many ways is one of the more visible and one of the bigger technical projects in this area, and it changed how people looked at it because Linux took both the practical and ideological approach.",
+        "author": {
+            "name": "Linus Torvalds",
+            "url": "/authors/linus_torvalds"
+        },
+        "topics": [
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            },
+            {
+                "name": "Projects",
+                "url": "/topics/projects"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_gates_626110?src=t_free_software",
+        "quote": "Certainly there's a phenomenon around open source. You know free software will be a vibrant area. There will be a lot of neat things that get done there.",
+        "author": {
+            "name": "Bill Gates",
+            "url": "/authors/bill_gates"
+        },
+        "topics": [
+            {
+                "name": "Vibrant",
+                "url": "/topics/vibrant"
+            },
+            {
+                "name": "Area",
+                "url": "/topics/area"
+            },
+            {
+                "name": "Certainly",
+                "url": "/topics/certainly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/linus_torvalds_367390?src=t_free_software",
+        "quote": "Shareware tends to combine the worst of commercial software with the worst of free software.",
+        "author": {
+            "name": "Linus Torvalds",
+            "url": "/authors/linus_torvalds"
+        },
+        "topics": [
+            {
+                "name": "Computers",
+                "url": "/topics/computers"
+            },
+            {
+                "name": "Commercial",
+                "url": "/topics/commercial"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/richard_stallman_655290?src=t_free_software",
+        "quote": "The idea of free software is that users of computing deserve freedom. They deserve in particular to have control over their computing. And proprietary software does not allow users to have control of their computing.",
+        "author": {
+            "name": "Richard Stallman",
+            "url": "/authors/richard_stallman"
+        },
+        "topics": [
+            {
+                "name": "Deserve",
+                "url": "/topics/deserve"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Allow",
+                "url": "/topics/allow"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/linus_torvalds_367402?src=t_free_software",
+        "quote": "When it comes to software, I much prefer free software, because I have very seldom seen a program that has worked well enough for my needs, and having sources available can be a life-saver.",
+        "author": {
+            "name": "Linus Torvalds",
+            "url": "/authors/linus_torvalds"
+        },
+        "topics": [
+            {
+                "name": "Needs",
+                "url": "/topics/needs"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Having",
+                "url": "/topics/having"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/matt_mullenweg_541100?src=t_free_software",
+        "quote": "We're not done yet, but two things WordPress has been able to exemplify is that open source can create great user experiences and that it's possible to have a successful commercial entity and a wider free software community living and working in harmony.",
+        "author": {
+            "name": "Matt Mullenweg",
+            "url": "/authors/matt_mullenweg"
+        },
+        "topics": [
+            {
+                "name": "Harmony",
+                "url": "/topics/harmony"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Wider",
+                "url": "/topics/wider"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/matt_mullenweg_652964?src=t_free_software",
+        "quote": "While I personally believe strongly in the philosophy and ideology of the Free Software movement, you can't win people over just on philosophy; you have to have a better product, too.",
+        "author": {
+            "name": "Matt Mullenweg",
+            "url": "/authors/matt_mullenweg"
+        },
+        "topics": [
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Product",
+                "url": "/topics/product"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/richard_stallman_655289?src=t_free_software",
+        "quote": "Many users of the GNU/Linux system will not have heard the ideas of free software. They will not be aware that we have ideas, that a system exists because of ethical ideals, which were omitted from ideas associated with the term 'open source.'",
+        "author": {
+            "name": "Richard Stallman",
+            "url": "/authors/richard_stallman"
+        },
+        "topics": [
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Ideals",
+                "url": "/topics/ideals"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jimmy_wales_450125?src=t_free_software",
+        "quote": "One of the ways that Microsoft beat Apple way back in the day was that they were a lot more open; today, in the world I come from, the free software and open-source world, Microsoft is not generally viewed as open; they're viewed as proprietary.",
+        "author": {
+            "name": "Jimmy Wales",
+            "url": "/authors/jimmy_wales"
+        },
+        "topics": [
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "Back",
+                "url": "/topics/back"
+            },
+            {
+                "name": "Microsoft",
+                "url": "/topics/microsoft"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/andy_hertzfeld_322515?src=t_free_software",
+        "quote": "I got bitten by the free software bug in February of 1998 around the time of the Mozilla announcement.",
+        "author": {
+            "name": "Andy Hertzfeld",
+            "url": "/authors/andy_hertzfeld"
+        },
+        "topics": [
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "February",
+                "url": "/topics/february"
+            },
+            {
+                "name": "Bitten",
+                "url": "/topics/bitten"
+            }
+        ]
+    }
+]

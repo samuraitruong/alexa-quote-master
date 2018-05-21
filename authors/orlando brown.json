@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/orlando_brown_614774",
+        "quote": "There are many things I love in this world. Music, acting, and animals are at the top of that list.",
+        "author": {
+            "name": "Orlando Brown",
+            "url": "/quotes/orlando_brown_614774"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "List",
+                "url": "/topics/list"
+            },
+            {
+                "name": "Many",
+                "url": "/topics/many"
+            }
+        ]
+    }
+]

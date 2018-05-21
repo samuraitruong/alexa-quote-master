@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/winter_ave_zoli_522952",
+        "quote": "It turns out nudity is not a problem for me. It's one of those things you think about later and say, 'Yeah, I could do this for a living.'",
+        "author": {
+            "name": "Winter Ave Zoli",
+            "url": "/quotes/winter_ave_zoli_522952"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Living",
+                "url": "/topics/living"
+            },
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/winter_ave_zoli_522953",
+        "quote": "I spend as much time as possible at my stable in the Hollywood Hills. It keeps me sane.",
+        "author": {
+            "name": "Winter Ave Zoli",
+            "url": "/quotes/winter_ave_zoli_522953"
+        },
+        "topics": [
+            {
+                "name": "Hollywood",
+                "url": "/topics/hollywood"
+            },
+            {
+                "name": "Sane",
+                "url": "/topics/sane"
+            },
+            {
+                "name": "Stable",
+                "url": "/topics/stable"
+            }
+        ]
+    }
+]

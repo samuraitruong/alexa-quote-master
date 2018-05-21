@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/arthur_honegger_269615",
+        "quote": "The public doesn't want new music.",
+        "author": {
+            "name": "Arthur Honegger",
+            "url": "/quotes/arthur_honegger_269615"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "New Music",
+                "url": "/topics/new_music"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/arthur_honegger_269616",
+        "quote": "There is no doubt that the first requirement for a composer is to be dead.",
+        "author": {
+            "name": "Arthur Honegger",
+            "url": "/quotes/arthur_honegger_269616"
+        },
+        "topics": [
+            {
+                "name": "Doubt",
+                "url": "/topics/doubt"
+            },
+            {
+                "name": "Composer",
+                "url": "/topics/composer"
+            },
+            {
+                "name": "No Doubt",
+                "url": "/topics/no_doubt"
+            }
+        ]
+    }
+]

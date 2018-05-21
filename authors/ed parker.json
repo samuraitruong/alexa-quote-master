@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/ed_parker_172336",
+        "quote": "The intelligent man is one who has successfully fulfilled many accomplishments, and is yet willing to learn more.",
+        "author": {
+            "name": "Ed Parker",
+            "url": "/quotes/ed_parker_172336"
+        },
+        "topics": [
+            {
+                "name": "Intelligence",
+                "url": "/topics/intelligence"
+            },
+            {
+                "name": "Successfully",
+                "url": "/topics/successfully"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ed_parker_381275",
+        "quote": "What we do want to see is reforms that are going to have a permanent effect on the budget deficit.",
+        "author": {
+            "name": "Ed Parker",
+            "url": "/quotes/ed_parker_381275"
+        },
+        "topics": [
+            {
+                "name": "See",
+                "url": "/topics/see"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Budget Deficit",
+                "url": "/topics/budget_deficit"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ed_parker_182897",
+        "quote": "Traditionalists often study what is taught, not what there is to create.",
+        "author": {
+            "name": "Ed Parker",
+            "url": "/quotes/ed_parker_182897"
+        },
+        "topics": [
+            {
+                "name": "Taught",
+                "url": "/topics/taught"
+            },
+            {
+                "name": "Create",
+                "url": "/topics/create"
+            },
+            {
+                "name": "Study",
+                "url": "/topics/study"
+            }
+        ]
+    }
+]

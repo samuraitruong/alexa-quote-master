@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/daniel_adair_631351",
+        "quote": "I was a hired drummer for 3 Doors; there wasn't an opportunity for me to write.",
+        "author": {
+            "name": "Daniel Adair",
+            "url": "/quotes/daniel_adair_631351"
+        },
+        "topics": [
+            {
+                "name": "Opportunity",
+                "url": "/topics/opportunity"
+            },
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Doors",
+                "url": "/topics/doors"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/daniel_adair_631352",
+        "quote": "Nickelback offered me a full-membership position. That's a great thing.",
+        "author": {
+            "name": "Daniel Adair",
+            "url": "/quotes/daniel_adair_631352"
+        },
+        "topics": [
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Great Thing",
+                "url": "/topics/great_thing"
+            },
+            {
+                "name": "Offered",
+                "url": "/topics/offered"
+            }
+        ]
+    }
+]

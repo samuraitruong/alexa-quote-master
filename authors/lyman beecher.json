@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/lyman_beecher_312058",
+        "quote": "No great advance has been made in science, politics, or religion without controversy.",
+        "author": {
+            "name": "Lyman Beecher",
+            "url": "/quotes/lyman_beecher_312058"
+        },
+        "topics": [
+            {
+                "name": "Politics",
+                "url": "/topics/politics"
+            },
+            {
+                "name": "Made",
+                "url": "/topics/made"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lyman_beecher_392061",
+        "quote": "Never chase a lie. Let it alone, and it will run itself to death.",
+        "author": {
+            "name": "Lyman Beecher",
+            "url": "/quotes/lyman_beecher_392061"
+        },
+        "topics": [
+            {
+                "name": "Alone",
+                "url": "/topics/alone"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Itself",
+                "url": "/topics/itself"
+            }
+        ]
+    }
+]

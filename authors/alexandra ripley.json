@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/alexandra_ripley_183114",
+        "quote": "Books have become products, like cereal or perfume or deodorant.",
+        "author": {
+            "name": "Alexandra Ripley",
+            "url": "/quotes/alexandra_ripley_183114"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Books",
+                "url": "/topics/books"
+            },
+            {
+                "name": "Cereal",
+                "url": "/topics/cereal"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alexandra_ripley_183115",
+        "quote": "I really don't know why Scarlett has such appeal. When I began writing the sequel, I had a lot of trouble because Scarlett is not my kind of person. She's virtually illiterate, has no taste, never learns from her mistakes.",
+        "author": {
+            "name": "Alexandra Ripley",
+            "url": "/quotes/alexandra_ripley_183115"
+        },
+        "topics": [
+            {
+                "name": "Mistakes",
+                "url": "/topics/mistakes"
+            },
+            {
+                "name": "Taste",
+                "url": "/topics/taste"
+            },
+            {
+                "name": "Why",
+                "url": "/topics/why"
+            }
+        ]
+    }
+]

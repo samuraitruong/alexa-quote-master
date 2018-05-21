@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/penelope_leach_400361",
+        "quote": "Loving a baby is a circular business, a kind of feedback loop. The more you give the more you get and the more you get the more you feel like giving.",
+        "author": {
+            "name": "Penelope Leach",
+            "url": "/quotes/penelope_leach_400361"
+        },
+        "topics": [
+            {
+                "name": "Business",
+                "url": "/topics/business"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/penelope_leach_393925",
+        "quote": "For a small child there is no division between playing and learning; between the things he or she does just for fun and things that are educational. The child learns while living and any part of living that is enjoyable is also play.",
+        "author": {
+            "name": "Penelope Leach",
+            "url": "/quotes/penelope_leach_393925"
+        },
+        "topics": [
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Educational",
+                "url": "/topics/educational"
+            }
+        ]
+    }
+]

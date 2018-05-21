@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/jean_renoir_382110",
+        "quote": "Is it possible to succeed without any act of betrayal?",
+        "author": {
+            "name": "Jean Renoir",
+            "url": "/quotes/jean_renoir_382110"
+        },
+        "topics": [
+            {
+                "name": "Possible",
+                "url": "/topics/possible"
+            },
+            {
+                "name": "Succeed",
+                "url": "/topics/succeed"
+            },
+            {
+                "name": "Act",
+                "url": "/topics/act"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jean_renoir_141861",
+        "quote": "A director makes only one movie in his life. Then he breaks it into pieces and makes it again.",
+        "author": {
+            "name": "Jean Renoir",
+            "url": "/quotes/jean_renoir_141861"
+        },
+        "topics": [
+            {
+                "name": "Director",
+                "url": "/topics/director"
+            },
+            {
+                "name": "Breaks",
+                "url": "/topics/breaks"
+            },
+            {
+                "name": "Movie",
+                "url": "/topics/movie"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jean_renoir_381014",
+        "quote": "Wilshire Boulevard... It has no smell to it.",
+        "author": {
+            "name": "Jean Renoir",
+            "url": "/quotes/jean_renoir_381014"
+        },
+        "topics": [
+            {
+                "name": "Smell",
+                "url": "/topics/smell"
+            },
+            {
+                "name": "Boulevard",
+                "url": "/topics/boulevard"
+            }
+        ]
+    }
+]

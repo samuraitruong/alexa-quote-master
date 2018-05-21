@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/jacqueline_de_ribes_550208",
+        "quote": "I was very sensitive. I liked everything that touched fantasy and beauty. I dreamed of being a ballerina, but Mother said I was too big, too long.",
+        "author": {
+            "name": "Jacqueline de Ribes",
+            "url": "/quotes/jacqueline_de_ribes_550208"
+        },
+        "topics": [
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Touched",
+                "url": "/topics/touched"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jacqueline_de_ribes_550209",
+        "quote": "My childhood lacked affection and ambience.",
+        "author": {
+            "name": "Jacqueline de Ribes",
+            "url": "/quotes/jacqueline_de_ribes_550209"
+        },
+        "topics": [
+            {
+                "name": "Childhood",
+                "url": "/topics/childhood"
+            },
+            {
+                "name": "Ambience",
+                "url": "/topics/ambience"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jacqueline_de_ribes_550210",
+        "quote": "The theory in great families was 'why work if you don't have to.' Being a public figure was reserved for movie stars.",
+        "author": {
+            "name": "Jacqueline de Ribes",
+            "url": "/quotes/jacqueline_de_ribes_550210"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Movie",
+                "url": "/topics/movie"
+            },
+            {
+                "name": "Figure",
+                "url": "/topics/figure"
+            }
+        ]
+    }
+]

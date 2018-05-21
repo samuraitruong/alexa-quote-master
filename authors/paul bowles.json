@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/paul_bowles_184456",
+        "quote": "The sky hides the night behind it, and shelters the people beneath from the horror that lies above.",
+        "author": {
+            "name": "Paul Bowles",
+            "url": "/quotes/paul_bowles_184456"
+        },
+        "topics": [
+            {
+                "name": "Sky",
+                "url": "/topics/sky"
+            },
+            {
+                "name": "Behind",
+                "url": "/topics/behind"
+            },
+            {
+                "name": "Beneath",
+                "url": "/topics/beneath"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_bowles_170243",
+        "quote": "If people and their manner of living were alike everywhere, there would not be much point in moving from one place to another.",
+        "author": {
+            "name": "Paul Bowles",
+            "url": "/quotes/paul_bowles_170243"
+        },
+        "topics": [
+            {
+                "name": "Living",
+                "url": "/topics/living"
+            },
+            {
+                "name": "Another",
+                "url": "/topics/another"
+            },
+            {
+                "name": "Manner",
+                "url": "/topics/manner"
+            }
+        ]
+    }
+]

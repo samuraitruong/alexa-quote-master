@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/james_smithson_185056",
+        "quote": "It is in his knowledge that man has found his greatness and his happiness, the high superiority which he holds over the other animals who inhabit the earth with him, and consequently no ignorance is probably without loss to him, no error without evil.",
+        "author": {
+            "name": "James Smithson",
+            "url": "/quotes/james_smithson_185056"
+        },
+        "topics": [
+            {
+                "name": "Superiority",
+                "url": "/topics/superiority"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Error",
+                "url": "/topics/error"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_smithson_185057",
+        "quote": "The particle and the planet are subject to the same laws and what is learned of one will be known of the other.",
+        "author": {
+            "name": "James Smithson",
+            "url": "/quotes/james_smithson_185057"
+        },
+        "topics": [
+            {
+                "name": "Same",
+                "url": "/topics/same"
+            },
+            {
+                "name": "Laws",
+                "url": "/topics/laws"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/ludwig_tieck_190299",
+        "quote": "He is not dead who departs from life with a high and noble fame; but he is dead, even while living, whose brow is branded with infamy.",
+        "author": {
+            "name": "Ludwig Tieck",
+            "url": "/quotes/ludwig_tieck_190299"
+        },
+        "topics": [
+            {
+                "name": "Living",
+                "url": "/topics/living"
+            },
+            {
+                "name": "Dead",
+                "url": "/topics/dead"
+            },
+            {
+                "name": "Infamy",
+                "url": "/topics/infamy"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ludwig_tieck_190300",
+        "quote": "The noble man is only God's image.",
+        "author": {
+            "name": "Ludwig Tieck",
+            "url": "/quotes/ludwig_tieck_190300"
+        },
+        "topics": [
+            {
+                "name": "Image",
+                "url": "/topics/image"
+            },
+            {
+                "name": "Noble",
+                "url": "/topics/noble"
+            },
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            }
+        ]
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/mary_lyon_395794",
+        "quote": "When you choose your fields of labor go where nobody else is willing to go.",
+        "author": {
+            "name": "Mary Lyon",
+            "url": "/quotes/mary_lyon_395794"
+        },
+        "topics": [
+            {
+                "name": "Willing",
+                "url": "/topics/willing"
+            },
+            {
+                "name": "Nobody Else",
+                "url": "/topics/nobody_else"
+            },
+            {
+                "name": "Else",
+                "url": "/topics/else"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mary_lyon_170198",
+        "quote": "There is nothing in the universe that I fear, but that I shall not know all my duty, or shall fail to do it.",
+        "author": {
+            "name": "Mary Lyon",
+            "url": "/quotes/mary_lyon_170198"
+        },
+        "topics": [
+            {
+                "name": "Universe",
+                "url": "/topics/universe"
+            },
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            },
+            {
+                "name": "Fail",
+                "url": "/topics/fail"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mary_lyon_395202",
+        "quote": "Nine-tenths of our suffering is caused by others not thinking so much of us as we think they ought.",
+        "author": {
+            "name": "Mary Lyon",
+            "url": "/quotes/mary_lyon_395202"
+        },
+        "topics": [
+            {
+                "name": "Suffering",
+                "url": "/topics/suffering"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Caused",
+                "url": "/topics/caused"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mary_lyon_395201",
+        "quote": "If anyone thinks he has no responsibilities, it is because he has not sought them out.",
+        "author": {
+            "name": "Mary Lyon",
+            "url": "/quotes/mary_lyon_395201"
+        },
+        "topics": [
+            {
+                "name": "Responsibilities",
+                "url": "/topics/responsibilities"
+            },
+            {
+                "name": "Anyone",
+                "url": "/topics/anyone"
+            }
+        ]
+    }
+]

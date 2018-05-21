@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/carl_spitteler_304031",
+        "quote": "At my father's request I took up the study of law at the University of Zurich In 1863.",
+        "author": {
+            "name": "Carl Spitteler",
+            "url": "/quotes/carl_spitteler_304031"
+        },
+        "topics": [
+            {
+                "name": "Study",
+                "url": "/topics/study"
+            },
+            {
+                "name": "Request",
+                "url": "/topics/request"
+            },
+            {
+                "name": "Took",
+                "url": "/topics/took"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/carl_spitteler_304034",
+        "quote": "I left for Petersburg in August, 1871 and stayed there until 1879.",
+        "author": {
+            "name": "Carl Spitteler",
+            "url": "/quotes/carl_spitteler_304034"
+        },
+        "topics": [
+            {
+                "name": "Left",
+                "url": "/topics/left"
+            },
+            {
+                "name": "August",
+                "url": "/topics/august"
+            },
+            {
+                "name": "Stayed",
+                "url": "/topics/stayed"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/carl_spitteler_304035",
+        "quote": "I moved to Lucerne, where I have lived happily with my family ever since.",
+        "author": {
+            "name": "Carl Spitteler",
+            "url": "/quotes/carl_spitteler_304035"
+        },
+        "topics": [
+            {
+                "name": "Ever",
+                "url": "/topics/ever"
+            },
+            {
+                "name": "Happily",
+                "url": "/topics/happily"
+            },
+            {
+                "name": "Moved",
+                "url": "/topics/moved"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/carl_spitteler_304038",
+        "quote": "In July, 1892, fate suddenly granted me financial independence.",
+        "author": {
+            "name": "Carl Spitteler",
+            "url": "/quotes/carl_spitteler_304038"
+        },
+        "topics": [
+            {
+                "name": "Fate",
+                "url": "/topics/fate"
+            },
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Financial",
+                "url": "/topics/financial"
+            }
+        ]
+    }
+]

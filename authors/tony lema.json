@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/tony_lema_372251",
+        "quote": "Golf is like solitaire. When you cheat, you only cheat yourself.",
+        "author": {
+            "name": "Tony Lema",
+            "url": "/quotes/tony_lema_372251"
+        },
+        "topics": [
+            {
+                "name": "Golf",
+                "url": "/topics/golf"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Cheat",
+                "url": "/topics/cheat"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tony_lema_372252",
+        "quote": "In choosing a partner, always pick the optimist.",
+        "author": {
+            "name": "Tony Lema",
+            "url": "/quotes/tony_lema_372252"
+        },
+        "topics": [
+            {
+                "name": "Partner",
+                "url": "/topics/partner"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Pick",
+                "url": "/topics/pick"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tony_lema_372253",
+        "quote": "You build a golf game like you build a wall, one brick at a time.",
+        "author": {
+            "name": "Tony Lema",
+            "url": "/quotes/tony_lema_372253"
+        },
+        "topics": [
+            {
+                "name": "Golf",
+                "url": "/topics/golf"
+            },
+            {
+                "name": "Game",
+                "url": "/topics/game"
+            },
+            {
+                "name": "Build",
+                "url": "/topics/build"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tony_lema_372250",
+        "quote": "A buoyant, positive approach to the game is as basic as a sound swing.",
+        "author": {
+            "name": "Tony Lema",
+            "url": "/quotes/tony_lema_372250"
+        },
+        "topics": [
+            {
+                "name": "Game",
+                "url": "/topics/game"
+            },
+            {
+                "name": "Swing",
+                "url": "/topics/swing"
+            },
+            {
+                "name": "Buoyant",
+                "url": "/topics/buoyant"
+            }
+        ]
+    }
+]

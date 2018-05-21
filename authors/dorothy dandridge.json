@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/dorothy_dandridge_875591",
+        "quote": "Somehow, people just like to look at me.",
+        "author": {
+            "name": "Dorothy Dandridge",
+            "url": "/quotes/dorothy_dandridge_875591"
+        },
+        "topics": [
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Somehow",
+                "url": "/topics/somehow"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dorothy_dandridge_875590",
+        "quote": "If one person in a thousand criticized me while all the others cheered, I didn't hear the cheers.",
+        "author": {
+            "name": "Dorothy Dandridge",
+            "url": "/quotes/dorothy_dandridge_875590"
+        },
+        "topics": [
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Person",
+                "url": "/topics/person"
+            },
+            {
+                "name": "While",
+                "url": "/topics/while"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dorothy_dandridge_539402",
+        "quote": "If I were white, I could capture the world.",
+        "author": {
+            "name": "Dorothy Dandridge",
+            "url": "/quotes/dorothy_dandridge_539402"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "White",
+                "url": "/topics/white"
+            },
+            {
+                "name": "Were",
+                "url": "/topics/were"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dorothy_dandridge_539401",
+        "quote": "I can't play a slave.",
+        "author": {
+            "name": "Dorothy Dandridge",
+            "url": "/quotes/dorothy_dandridge_539401"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Slave",
+                "url": "/topics/slave"
+            }
+        ]
+    }
+]

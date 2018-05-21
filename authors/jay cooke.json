@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/jay_cooke_299501",
+        "quote": "It may be for 20 or 30 years no one has yet been able to decide the length of the life of the black bass.",
+        "author": {
+            "name": "Jay Cooke",
+            "url": "/quotes/jay_cooke_299501"
+        },
+        "topics": [
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Length",
+                "url": "/topics/length"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jay_cooke_299500",
+        "quote": "I was a hunter and fisherman, and many a time I have slipped out into the woods and prairies at 4 a.m. and brought home plenty of game, or have gone in a canoe to the cove and brought back a good supply of fresh fish.",
+        "author": {
+            "name": "Jay Cooke",
+            "url": "/quotes/jay_cooke_299500"
+        },
+        "topics": [
+            {
+                "name": "Game",
+                "url": "/topics/game"
+            },
+            {
+                "name": "Canoe",
+                "url": "/topics/canoe"
+            },
+            {
+                "name": "Brought",
+                "url": "/topics/brought"
+            }
+        ]
+    }
+]

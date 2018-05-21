@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/alice_cary_664693",
+        "quote": "There's nothing so kingly as kindness, and nothing so royal as truth.",
+        "author": {
+            "name": "Alice Cary",
+            "url": "/quotes/alice_cary_664693"
+        },
+        "topics": [
+            {
+                "name": "Truth",
+                "url": "/topics/truth"
+            },
+            {
+                "name": "Royal",
+                "url": "/topics/royal"
+            },
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alice_cary_185988",
+        "quote": "Women and men in the crowd meet and mingle, Yet with itself every soul standeth single.",
+        "author": {
+            "name": "Alice Cary",
+            "url": "/quotes/alice_cary_185988"
+        },
+        "topics": [
+            {
+                "name": "Single",
+                "url": "/topics/single"
+            },
+            {
+                "name": "Meet",
+                "url": "/topics/meet"
+            },
+            {
+                "name": "Itself",
+                "url": "/topics/itself"
+            }
+        ]
+    }
+]

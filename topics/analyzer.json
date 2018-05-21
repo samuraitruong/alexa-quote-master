@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/samuel_beckett_146111?src=t_analyzer",
+        "quote": "James Joyce was a synthesizer, trying to bring in as much as he could. I am an analyzer, trying to leave out as much as I can.",
+        "author": {
+            "name": "Samuel Beckett",
+            "url": "/authors/samuel_beckett"
+        },
+        "topics": [
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            },
+            {
+                "name": "James",
+                "url": "/topics/james"
+            },
+            {
+                "name": "Synthesizer",
+                "url": "/topics/synthesizer"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/billy_graham_446540?src=t_analyzer",
+        "quote": "I'm not an analyzer. I've got a son that analyzes everything and everybody. But I don't analyze people.",
+        "author": {
+            "name": "Billy Graham",
+            "url": "/authors/billy_graham"
+        },
+        "topics": [
+            {
+                "name": "Son",
+                "url": "/topics/son"
+            },
+            {
+                "name": "Everybody",
+                "url": "/topics/everybody"
+            },
+            {
+                "name": "Analyze",
+                "url": "/topics/analyze"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/christopher_walken_368315?src=t_analyzer",
+        "quote": "I'm not much of an analyzer or a psychologist.",
+        "author": {
+            "name": "Christopher Walken",
+            "url": "/authors/christopher_walken"
+        },
+        "topics": [
+            {
+                "name": "Much",
+                "url": "/topics/much"
+            },
+            {
+                "name": "Psychologist",
+                "url": "/topics/psychologist"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/cynthia_nixon_438353?src=t_analyzer",
+        "quote": "I do tend to be an analyzer. I'm an old English major from way back, so I do have fun tearing apart texts and trying to find the hidden secrets and the subtexts in there.",
+        "author": {
+            "name": "Cynthia Nixon",
+            "url": "/authors/cynthia_nixon"
+        },
+        "topics": [
+            {
+                "name": "Have Fun",
+                "url": "/topics/have_fun"
+            },
+            {
+                "name": "Hidden",
+                "url": "/topics/hidden"
+            },
+            {
+                "name": "Old",
+                "url": "/topics/old"
+            }
+        ]
+    }
+]

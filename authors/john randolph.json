@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/john_randolph_135075",
+        "quote": "Time is at once the most valuable and the most perishable of all our possessions.",
+        "author": {
+            "name": "John Randolph",
+            "url": "/quotes/john_randolph_135075"
+        },
+        "topics": [
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "Perishable",
+                "url": "/topics/perishable"
+            },
+            {
+                "name": "Once",
+                "url": "/topics/once"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_randolph_164208",
+        "quote": "I am an aristocrat. I love liberty; I hate equality.",
+        "author": {
+            "name": "John Randolph",
+            "url": "/quotes/john_randolph_164208"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Equality",
+                "url": "/topics/equality"
+            },
+            {
+                "name": "I Love",
+                "url": "/topics/i_love"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_randolph_134851",
+        "quote": "We all know our duty better than we discharge it.",
+        "author": {
+            "name": "John Randolph",
+            "url": "/quotes/john_randolph_134851"
+        },
+        "topics": [
+            {
+                "name": "Better",
+                "url": "/topics/better"
+            },
+            {
+                "name": "Than",
+                "url": "/topics/than"
+            },
+            {
+                "name": "Discharge",
+                "url": "/topics/discharge"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_randolph_134470",
+        "quote": "The surest way to prevent war is not to fear it.",
+        "author": {
+            "name": "John Randolph",
+            "url": "/quotes/john_randolph_134470"
+        },
+        "topics": [
+            {
+                "name": "War",
+                "url": "/topics/war"
+            },
+            {
+                "name": "Prevent",
+                "url": "/topics/prevent"
+            },
+            {
+                "name": "Surest",
+                "url": "/topics/surest"
+            }
+        ]
+    }
+]

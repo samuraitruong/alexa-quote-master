@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/leryn_franco_639209",
+        "quote": "You decide that you don't want to go backward. You want to go forward. But sometimes, going 'backward' isn't really going backward, it's actually moving forward.",
+        "author": {
+            "name": "Leryn Franco",
+            "url": "/quotes/leryn_franco_639209"
+        },
+        "topics": [
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Forward",
+                "url": "/topics/forward"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/leryn_franco_639208",
+        "quote": "My career is media. One can turn on the TV or look at a magazine and see me.",
+        "author": {
+            "name": "Leryn Franco",
+            "url": "/quotes/leryn_franco_639208"
+        },
+        "topics": [
+            {
+                "name": "Career",
+                "url": "/topics/career"
+            },
+            {
+                "name": "See",
+                "url": "/topics/see"
+            },
+            {
+                "name": "TV",
+                "url": "/topics/tv"
+            }
+        ]
+    }
+]

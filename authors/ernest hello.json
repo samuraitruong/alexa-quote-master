@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/ernest_hello_172267",
+        "quote": "The man who gives up accomplishes nothing and is only a hindrance. The man who does not give up can move mountains.",
+        "author": {
+            "name": "Ernest Hello",
+            "url": "/quotes/ernest_hello_172267"
+        },
+        "topics": [
+            {
+                "name": "Mountains",
+                "url": "/topics/mountains"
+            },
+            {
+                "name": "Move",
+                "url": "/topics/move"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ernest_hello_183479",
+        "quote": "The Holy Bible is an abyss. It is impossible to explain how profound it is, impossible to explain how simple it is.",
+        "author": {
+            "name": "Ernest Hello",
+            "url": "/quotes/ernest_hello_183479"
+        },
+        "topics": [
+            {
+                "name": "Explain",
+                "url": "/topics/explain"
+            },
+            {
+                "name": "Profound",
+                "url": "/topics/profound"
+            },
+            {
+                "name": "How",
+                "url": "/topics/how"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ernest_hello_183480",
+        "quote": "There are men who would quickly love each other if once they were speak to each other; for when they spoke they would discover that their souls had only separated by phantoms and delusions.",
+        "author": {
+            "name": "Ernest Hello",
+            "url": "/quotes/ernest_hello_183480"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Discover",
+                "url": "/topics/discover"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    }
+]

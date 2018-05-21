@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/charles_gwathmey_532091",
+        "quote": "My exposure to visual art all my life was intensive.",
+        "author": {
+            "name": "Charles Gwathmey",
+            "url": "/quotes/charles_gwathmey_532091"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "All My Life",
+                "url": "/topics/all_my_life"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charles_gwathmey_532092",
+        "quote": "You have to be able to wake up in the morning and say, 'I've been true.'",
+        "author": {
+            "name": "Charles Gwathmey",
+            "url": "/quotes/charles_gwathmey_532092"
+        },
+        "topics": [
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Able",
+                "url": "/topics/able"
+            },
+            {
+                "name": "Wake",
+                "url": "/topics/wake"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/hamadoun_toure_639945",
+        "quote": "Broadband gives small businesses the opportunity to broaden their customer base and reduce their overheads through e-commerce platforms.",
+        "author": {
+            "name": "Hamadoun Toure",
+            "url": "/quotes/hamadoun_toure_639945"
+        },
+        "topics": [
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Reduce",
+                "url": "/topics/reduce"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/hamadoun_toure_639944",
+        "quote": "You will not be able to meet the Millennium Development goals in health without e-health, in education without e-education, and government services will not be able to be provided without e-government services.",
+        "author": {
+            "name": "Hamadoun Toure",
+            "url": "/quotes/hamadoun_toure_639944"
+        },
+        "topics": [
+            {
+                "name": "Education",
+                "url": "/topics/education"
+            },
+            {
+                "name": "Development",
+                "url": "/topics/development"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/hamadoun_toure_639943",
+        "quote": "The right to communicate is a basic human right, and I believe that putting that on every national agenda is very important.",
+        "author": {
+            "name": "Hamadoun Toure",
+            "url": "/quotes/hamadoun_toure_639943"
+        },
+        "topics": [
+            {
+                "name": "Communicate",
+                "url": "/topics/communicate"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Putting",
+                "url": "/topics/putting"
+            }
+        ]
+    }
+]

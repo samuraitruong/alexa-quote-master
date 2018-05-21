@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/alfred_brendel_182202",
+        "quote": "You need three or five hands to play Ligeti.",
+        "author": {
+            "name": "Alfred Brendel",
+            "url": "/quotes/alfred_brendel_182202"
+        },
+        "topics": [
+            {
+                "name": "Hands",
+                "url": "/topics/hands"
+            },
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alfred_brendel_182203",
+        "quote": "If I belong to a tradition, it is a tradition that makes the masterpiece tell the performer what to do, and not the performer telling the piece what it should be like, or the composer what he ought to have composed.",
+        "author": {
+            "name": "Alfred Brendel",
+            "url": "/quotes/alfred_brendel_182203"
+        },
+        "topics": [
+            {
+                "name": "Belong",
+                "url": "/topics/belong"
+            },
+            {
+                "name": "Performer",
+                "url": "/topics/performer"
+            },
+            {
+                "name": "Telling",
+                "url": "/topics/telling"
+            }
+        ]
+    }
+]

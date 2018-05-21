@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/howie_dorough_491435",
+        "quote": "All you can do as an artist is just strive to make the best record you can and ride the rollercoaster as it goes up and down.",
+        "author": {
+            "name": "Howie Dorough",
+            "url": "/quotes/howie_dorough_491435"
+        },
+        "topics": [
+            {
+                "name": "Artist",
+                "url": "/topics/artist"
+            },
+            {
+                "name": "Goes",
+                "url": "/topics/goes"
+            },
+            {
+                "name": "Rollercoaster",
+                "url": "/topics/rollercoaster"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/howie_dorough_491434",
+        "quote": "Some records are going to be bigger than others. You're always going to be compared to your biggest record.",
+        "author": {
+            "name": "Howie Dorough",
+            "url": "/quotes/howie_dorough_491434"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Records",
+                "url": "/topics/records"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    }
+]

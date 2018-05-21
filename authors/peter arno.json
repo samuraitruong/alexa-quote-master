@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/peter_arno_202268",
+        "quote": "I consider your conduct unethical and lousy.",
+        "author": {
+            "name": "Peter Arno",
+            "url": "/quotes/peter_arno_202268"
+        },
+        "topics": [
+            {
+                "name": "Conduct",
+                "url": "/topics/conduct"
+            },
+            {
+                "name": "Your",
+                "url": "/topics/your"
+            },
+            {
+                "name": "Consider",
+                "url": "/topics/consider"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/peter_arno_202266",
+        "quote": "Tell me about yourself - your struggles, your dreams, your telephone number.",
+        "author": {
+            "name": "Peter Arno",
+            "url": "/quotes/peter_arno_202266"
+        },
+        "topics": [
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Tell",
+                "url": "/topics/tell"
+            },
+            {
+                "name": "Number",
+                "url": "/topics/number"
+            }
+        ]
+    }
+]

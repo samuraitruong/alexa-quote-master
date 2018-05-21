@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/arthur_e_morgan_207395",
+        "quote": "Lack of something to feel important about is almost the greatest tragedy a man may have.",
+        "author": {
+            "name": "Arthur E. Morgan",
+            "url": "/quotes/arthur_e_morgan_207395"
+        },
+        "topics": [
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Important",
+                "url": "/topics/important"
+            },
+            {
+                "name": "Tragedy",
+                "url": "/topics/tragedy"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/arthur_e_morgan_207396",
+        "quote": "Humanists are not characteristically strong in faith, hope and love.",
+        "author": {
+            "name": "Arthur E. Morgan",
+            "url": "/quotes/arthur_e_morgan_207396"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Faith",
+                "url": "/topics/faith"
+            },
+            {
+                "name": "Strong",
+                "url": "/topics/strong"
+            }
+        ]
+    }
+]

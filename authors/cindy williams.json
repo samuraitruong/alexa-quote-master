@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/cindy_williams_562882",
+        "quote": "I remember being alone a lot as a child, and I still love to be alone.",
+        "author": {
+            "name": "Cindy Williams",
+            "url": "/quotes/cindy_williams_562882"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Remember",
+                "url": "/topics/remember"
+            },
+            {
+                "name": "Lot",
+                "url": "/topics/lot"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/cindy_williams_562883",
+        "quote": "Sometimes I light incense and a candle. It's so peaceful and quiet. The steadiness of the energy and the reliability of the warmth have a calming effect.",
+        "author": {
+            "name": "Cindy Williams",
+            "url": "/quotes/cindy_williams_562883"
+        },
+        "topics": [
+            {
+                "name": "Sometimes",
+                "url": "/topics/sometimes"
+            },
+            {
+                "name": "Warmth",
+                "url": "/topics/warmth"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/cindy_williams_562881",
+        "quote": "Growing up in the country, you're left to the wilds of your imagination.",
+        "author": {
+            "name": "Cindy Williams",
+            "url": "/quotes/cindy_williams_562881"
+        },
+        "topics": [
+            {
+                "name": "Growing Up",
+                "url": "/topics/growing_up"
+            },
+            {
+                "name": "Growing",
+                "url": "/topics/growing"
+            },
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/cindy_williams_562884",
+        "quote": "Part of me wants to be married and have everybody around the table for Christmas. But when you're married, your life becomes integrated solely with that person. There are too many characters running around inside me. Maybe they should all be married to somebody different.",
+        "author": {
+            "name": "Cindy Williams",
+            "url": "/quotes/cindy_williams_562884"
+        },
+        "topics": [
+            {
+                "name": "Everybody",
+                "url": "/topics/everybody"
+            },
+            {
+                "name": "Maybe",
+                "url": "/topics/maybe"
+            },
+            {
+                "name": "Part",
+                "url": "/topics/part"
+            }
+        ]
+    }
+]

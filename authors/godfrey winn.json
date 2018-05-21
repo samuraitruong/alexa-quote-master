@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/godfrey_winn_101798",
+        "quote": "No man succeeds without a good woman behind him. Wife or mother, if it is both, he is twice blessed indeed.",
+        "author": {
+            "name": "Godfrey Winn",
+            "url": "/quotes/godfrey_winn_101798"
+        },
+        "topics": [
+            {
+                "name": "Success",
+                "url": "/topics/success"
+            },
+            {
+                "name": "Behind",
+                "url": "/topics/behind"
+            },
+            {
+                "name": "Succeeds",
+                "url": "/topics/succeeds"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/godfrey_winn_737860",
+        "quote": "The dull routine of our daily job takes on a new significance, assumes a beauty and importance undreamt of before, if we consider it from the angle of service to God.",
+        "author": {
+            "name": "Godfrey Winn",
+            "url": "/quotes/godfrey_winn_737860"
+        },
+        "topics": [
+            {
+                "name": "Beauty",
+                "url": "/topics/beauty"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Assumes",
+                "url": "/topics/assumes"
+            }
+        ]
+    }
+]

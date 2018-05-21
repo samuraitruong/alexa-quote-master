@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/dwight_morrow_312022",
+        "quote": "Any party which takes credit for the rain must not be surprised if its opponents blame it for the drought.",
+        "author": {
+            "name": "Dwight Morrow",
+            "url": "/quotes/dwight_morrow_312022"
+        },
+        "topics": [
+            {
+                "name": "Rain",
+                "url": "/topics/rain"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Drought",
+                "url": "/topics/drought"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dwight_morrow_354563",
+        "quote": "The world is divided into people who do things - and people who get the credit.",
+        "author": {
+            "name": "Dwight Morrow",
+            "url": "/quotes/dwight_morrow_354563"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Divided",
+                "url": "/topics/divided"
+            },
+            {
+                "name": "Get",
+                "url": "/topics/get"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/wayne_thiebaud_570610",
+        "quote": "My sin as a painter is that I just want to paint anything I want to paint - and repaint.",
+        "author": {
+            "name": "Wayne Thiebaud",
+            "url": "/quotes/wayne_thiebaud_570610"
+        },
+        "topics": [
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Sin",
+                "url": "/topics/sin"
+            },
+            {
+                "name": "Painter",
+                "url": "/topics/painter"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/wayne_thiebaud_570609",
+        "quote": "The Gold Rush and the Pony Express made Sacramento a substantial place in terms of enterprise.",
+        "author": {
+            "name": "Wayne Thiebaud",
+            "url": "/quotes/wayne_thiebaud_570609"
+        },
+        "topics": [
+            {
+                "name": "Gold",
+                "url": "/topics/gold"
+            },
+            {
+                "name": "Sacramento",
+                "url": "/topics/sacramento"
+            },
+            {
+                "name": "Terms",
+                "url": "/topics/terms"
+            }
+        ]
+    }
+]

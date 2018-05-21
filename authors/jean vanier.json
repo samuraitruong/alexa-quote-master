@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/jean_vanier_201868",
+        "quote": "Life is a succession of crises and moments when we have to rediscover who we are and what we really want.",
+        "author": {
+            "name": "Jean Vanier",
+            "url": "/quotes/jean_vanier_201868"
+        },
+        "topics": [
+            {
+                "name": "Moments",
+                "url": "/topics/moments"
+            },
+            {
+                "name": "Succession",
+                "url": "/topics/succession"
+            },
+            {
+                "name": "Crises",
+                "url": "/topics/crises"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jean_vanier_201867",
+        "quote": "Envy comes from people's ignorance of, or lack of belief in, their own gifts.",
+        "author": {
+            "name": "Jean Vanier",
+            "url": "/quotes/jean_vanier_201867"
+        },
+        "topics": [
+            {
+                "name": "Ignorance",
+                "url": "/topics/ignorance"
+            },
+            {
+                "name": "Envy",
+                "url": "/topics/envy"
+            },
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jean_vanier_201866",
+        "quote": "Growth begins when we begin to accept our own weakness.",
+        "author": {
+            "name": "Jean Vanier",
+            "url": "/quotes/jean_vanier_201866"
+        },
+        "topics": [
+            {
+                "name": "Weakness",
+                "url": "/topics/weakness"
+            },
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            },
+            {
+                "name": "Begins",
+                "url": "/topics/begins"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jean_vanier_201870",
+        "quote": "Community begins in mystery and ends in administration. Leaders move away from people and into paper.",
+        "author": {
+            "name": "Jean Vanier",
+            "url": "/quotes/jean_vanier_201870"
+        },
+        "topics": [
+            {
+                "name": "Mystery",
+                "url": "/topics/mystery"
+            },
+            {
+                "name": "Move",
+                "url": "/topics/move"
+            },
+            {
+                "name": "Begins",
+                "url": "/topics/begins"
+            }
+        ]
+    }
+]

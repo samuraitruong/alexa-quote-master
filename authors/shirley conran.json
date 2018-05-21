@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/shirley_conran_399174",
+        "quote": "Life is too short to stuff a mushroom.",
+        "author": {
+            "name": "Shirley Conran",
+            "url": "/quotes/shirley_conran_399174"
+        },
+        "topics": [
+            {
+                "name": "Life Is Too Short",
+                "url": "/topics/life_is_too_short"
+            },
+            {
+                "name": "Too",
+                "url": "/topics/too"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/shirley_conran_405083",
+        "quote": "First things first, second things never.",
+        "author": {
+            "name": "Shirley Conran",
+            "url": "/quotes/shirley_conran_405083"
+        },
+        "topics": [
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Things",
+                "url": "/topics/things"
+            },
+            {
+                "name": "First Things",
+                "url": "/topics/first_things"
+            }
+        ]
+    }
+]

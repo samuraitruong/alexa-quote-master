@@ -1,0 +1,38 @@
+[
+    {
+        "url": "/quotes/jardine_libaire_525778",
+        "quote": "Progress can be unglamorous.",
+        "author": {
+            "name": "Jardine Libaire",
+            "url": "/quotes/jardine_libaire_525778"
+        },
+        "topics": [
+            {
+                "name": "Progress",
+                "url": "/topics/progress"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jardine_libaire_525777",
+        "quote": "In the 18th century, people began to adopt the radical new idea that love should be the most fundamental reason for marriage and that young people should be free to choose their marriage partners independently.",
+        "author": {
+            "name": "Jardine Libaire",
+            "url": "/quotes/jardine_libaire_525777"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Reason",
+                "url": "/topics/reason"
+            }
+        ]
+    }
+]

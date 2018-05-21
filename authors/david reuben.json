@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/david_reuben_433105",
+        "quote": "I was the only westerner to succeed in a place that's like a toilet, and you always come out of a toilet with a smell.",
+        "author": {
+            "name": "David Reuben",
+            "url": "/quotes/david_reuben_433105"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Come",
+                "url": "/topics/come"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_reuben_433106",
+        "quote": "Business in Russia was not being done like in the West, with contracts. In Russia, hundreds of millions of dollars were going forward and backward by word of mouth.",
+        "author": {
+            "name": "David Reuben",
+            "url": "/quotes/david_reuben_433106"
+        },
+        "topics": [
+            {
+                "name": "Business",
+                "url": "/topics/business"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    }
+]

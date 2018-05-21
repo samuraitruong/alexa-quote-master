@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/wesley_ruggles_399584",
+        "quote": "A figure with curves always offers a lot of interesting angles.",
+        "author": {
+            "name": "Wesley Ruggles",
+            "url": "/quotes/wesley_ruggles_399584"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Lot",
+                "url": "/topics/lot"
+            },
+            {
+                "name": "Offers",
+                "url": "/topics/offers"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/wesley_ruggles_399273",
+        "quote": "One figure can sometimes add up to a lot.",
+        "author": {
+            "name": "Wesley Ruggles",
+            "url": "/quotes/wesley_ruggles_399273"
+        },
+        "topics": [
+            {
+                "name": "Lot",
+                "url": "/topics/lot"
+            },
+            {
+                "name": "Add",
+                "url": "/topics/add"
+            },
+            {
+                "name": "Figure",
+                "url": "/topics/figure"
+            }
+        ]
+    }
+]

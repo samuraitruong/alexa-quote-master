@@ -1,0 +1,38 @@
+[
+    {
+        "url": "/quotes/ivy_lee_197579",
+        "quote": "Write down the most important things you have to do tomorrow.",
+        "author": {
+            "name": "Ivy Lee",
+            "url": "/quotes/ivy_lee_197579"
+        },
+        "topics": [
+            {
+                "name": "Important",
+                "url": "/topics/important"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ivy_lee_197580",
+        "quote": "Don't worry if you don't complete everything on the schedule. At least you will have completed the most important projects before getting to the less important ones.",
+        "author": {
+            "name": "Ivy Lee",
+            "url": "/quotes/ivy_lee_197580"
+        },
+        "topics": [
+            {
+                "name": "Worry",
+                "url": "/topics/worry"
+            },
+            {
+                "name": "The Most Important",
+                "url": "/topics/the_most_important"
+            }
+        ]
+    }
+]

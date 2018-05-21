@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/james_beard_379293",
+        "quote": "Too few people understand a really good sandwich.",
+        "author": {
+            "name": "James Beard",
+            "url": "/quotes/james_beard_379293"
+        },
+        "topics": [
+            {
+                "name": "Understand",
+                "url": "/topics/understand"
+            },
+            {
+                "name": "Too",
+                "url": "/topics/too"
+            },
+            {
+                "name": "Few People",
+                "url": "/topics/few_people"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_beard_140985",
+        "quote": "Food is our common ground, a universal experience.",
+        "author": {
+            "name": "James Beard",
+            "url": "/quotes/james_beard_140985"
+        },
+        "topics": [
+            {
+                "name": "Food",
+                "url": "/topics/food"
+            },
+            {
+                "name": "Common Ground",
+                "url": "/topics/common_ground"
+            },
+            {
+                "name": "Common",
+                "url": "/topics/common"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_beard_146199",
+        "quote": "I believe that if ever I had to practice cannibalism, I might manage if there were enough tarragon around.",
+        "author": {
+            "name": "James Beard",
+            "url": "/quotes/james_beard_146199"
+        },
+        "topics": [
+            {
+                "name": "Practice",
+                "url": "/topics/practice"
+            },
+            {
+                "name": "Cannibalism",
+                "url": "/topics/cannibalism"
+            },
+            {
+                "name": "Might",
+                "url": "/topics/might"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_beard_129249",
+        "quote": "A gourmet who thinks of calories is like a tart who looks at her watch.",
+        "author": {
+            "name": "James Beard",
+            "url": "/quotes/james_beard_129249"
+        },
+        "topics": [
+            {
+                "name": "Looks",
+                "url": "/topics/looks"
+            },
+            {
+                "name": "Her",
+                "url": "/topics/her"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_beard_146198",
+        "quote": "I don't like gourmet cooking or 'this' cooking or 'that' cooking. I like good cooking.",
+        "author": {
+            "name": "James Beard",
+            "url": "/quotes/james_beard_146198"
+        },
+        "topics": [
+            {
+                "name": "Cooking",
+                "url": "/topics/cooking"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Gourmet",
+                "url": "/topics/gourmet"
+            }
+        ]
+    }
+]

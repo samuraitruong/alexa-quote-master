@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/frederic_raphael_400522",
+        "quote": "The television critic, whatever his pretensions, does not labour in the same vineyard as those he criticizes; his grapes are all sour.",
+        "author": {
+            "name": "Frederic Raphael",
+            "url": "/quotes/frederic_raphael_400522"
+        },
+        "topics": [
+            {
+                "name": "Television",
+                "url": "/topics/television"
+            },
+            {
+                "name": "Sour",
+                "url": "/topics/sour"
+            },
+            {
+                "name": "Criticizes",
+                "url": "/topics/criticizes"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/frederic_raphael_406936",
+        "quote": "As Oscar Wilde should have said, when bad ideas have nowhere else to go, they emigrate to America and become university courses.",
+        "author": {
+            "name": "Frederic Raphael",
+            "url": "/quotes/frederic_raphael_406936"
+        },
+        "topics": [
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            },
+            {
+                "name": "Oscar",
+                "url": "/topics/oscar"
+            },
+            {
+                "name": "Courses",
+                "url": "/topics/courses"
+            }
+        ]
+    }
+]

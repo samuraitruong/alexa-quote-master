@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/adam_petty_197213",
+        "quote": "I have patterned myself after my father and God.",
+        "author": {
+            "name": "Adam Petty",
+            "url": "/quotes/adam_petty_197213"
+        },
+        "topics": [
+            {
+                "name": "Father",
+                "url": "/topics/father"
+            },
+            {
+                "name": "Myself",
+                "url": "/topics/myself"
+            },
+            {
+                "name": "After",
+                "url": "/topics/after"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/adam_petty_197214",
+        "quote": "It's all about racing on the track.",
+        "author": {
+            "name": "Adam Petty",
+            "url": "/quotes/adam_petty_197214"
+        },
+        "topics": [
+            {
+                "name": "Racing",
+                "url": "/topics/racing"
+            },
+            {
+                "name": "Track",
+                "url": "/topics/track"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/adam_petty_197215",
+        "quote": "They can hop on a line and really dice it up out there.",
+        "author": {
+            "name": "Adam Petty",
+            "url": "/quotes/adam_petty_197215"
+        },
+        "topics": [
+            {
+                "name": "Dice",
+                "url": "/topics/dice"
+            },
+            {
+                "name": "Line",
+                "url": "/topics/line"
+            },
+            {
+                "name": "Hop",
+                "url": "/topics/hop"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/adam_petty_377051",
+        "quote": "Winston Cup and the Busch Series are two totally different leagues. You get put in different situations.",
+        "author": {
+            "name": "Adam Petty",
+            "url": "/quotes/adam_petty_377051"
+        },
+        "topics": [
+            {
+                "name": "Two",
+                "url": "/topics/two"
+            },
+            {
+                "name": "Leagues",
+                "url": "/topics/leagues"
+            },
+            {
+                "name": "Winston",
+                "url": "/topics/winston"
+            }
+        ]
+    }
+]

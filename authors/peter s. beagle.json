@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/peter_s_beagle_389583",
+        "quote": "Great heroes need great sorrows and burdens, or half their greatness goes unnoticed.",
+        "author": {
+            "name": "Peter S. Beagle",
+            "url": "/quotes/peter_s_beagle_389583"
+        },
+        "topics": [
+            {
+                "name": "Heroes",
+                "url": "/topics/heroes"
+            },
+            {
+                "name": "Half",
+                "url": "/topics/half"
+            },
+            {
+                "name": "Unnoticed",
+                "url": "/topics/unnoticed"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/peter_s_beagle_172871",
+        "quote": "The horns came riding in like the rainbow masts of silver ships.",
+        "author": {
+            "name": "Peter S. Beagle",
+            "url": "/quotes/peter_s_beagle_172871"
+        },
+        "topics": [
+            {
+                "name": "Rainbow",
+                "url": "/topics/rainbow"
+            },
+            {
+                "name": "Ships",
+                "url": "/topics/ships"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    }
+]

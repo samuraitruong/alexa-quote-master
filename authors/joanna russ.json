@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/joanna_russ_197158",
+        "quote": "Faith is not contrary to the usual ideas, something that turns out to be right or wrong, like a gambler's bet.",
+        "author": {
+            "name": "Joanna Russ",
+            "url": "/quotes/joanna_russ_197158"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Bet",
+                "url": "/topics/bet"
+            },
+            {
+                "name": "Usual",
+                "url": "/topics/usual"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joanna_russ_395871",
+        "quote": "Minority art, vernacular art, is marginal art. Only on the margins does growth occur.",
+        "author": {
+            "name": "Joanna Russ",
+            "url": "/quotes/joanna_russ_395871"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Margins",
+                "url": "/topics/margins"
+            },
+            {
+                "name": "Does",
+                "url": "/topics/does"
+            }
+        ]
+    }
+]

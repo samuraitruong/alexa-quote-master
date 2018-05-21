@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/charles_a_lockwood_230721",
+        "quote": "I hope no one will think of... sending me to Pearl Harbor.",
+        "author": {
+            "name": "Charles A. Lockwood",
+            "url": "/quotes/charles_a_lockwood_230721"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Pearl Harbor",
+                "url": "/topics/pearl_harbor"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charles_a_lockwood_230722",
+        "quote": "By all means, let someone else have Pearl Harbor.",
+        "author": {
+            "name": "Charles A. Lockwood",
+            "url": "/quotes/charles_a_lockwood_230722"
+        },
+        "topics": [
+            {
+                "name": "Someone",
+                "url": "/topics/someone"
+            },
+            {
+                "name": "Means",
+                "url": "/topics/means"
+            },
+            {
+                "name": "Else",
+                "url": "/topics/else"
+            }
+        ]
+    }
+]

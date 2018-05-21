@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/john_brough_267866",
+        "quote": "You can do but one of these things; it is folly to attempt anything else, for there cannot exist a slave confederacy and a free confederacy side by side upon this continent.",
+        "author": {
+            "name": "John Brough",
+            "url": "/quotes/john_brough_267866"
+        },
+        "topics": [
+            {
+                "name": "Side",
+                "url": "/topics/side"
+            },
+            {
+                "name": "Confederacy",
+                "url": "/topics/confederacy"
+            },
+            {
+                "name": "Continent",
+                "url": "/topics/continent"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_brough_267868",
+        "quote": "He gave us the lakes for our Northern boundary, and the rivers stretching to the seas upon whose waters floats our commerce to the nations of the world; while man has done all that can be done by science to bind us together.",
+        "author": {
+            "name": "John Brough",
+            "url": "/quotes/john_brough_267868"
+        },
+        "topics": [
+            {
+                "name": "Rivers",
+                "url": "/topics/rivers"
+            },
+            {
+                "name": "Boundary",
+                "url": "/topics/boundary"
+            },
+            {
+                "name": "Waters",
+                "url": "/topics/waters"
+            }
+        ]
+    }
+]

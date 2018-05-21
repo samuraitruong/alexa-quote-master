@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/john_vinocur_112510",
+        "quote": "The sense of war, the extraordinary bravery of the Allied armies, the numbers, the losses, the real suffering that disappears in time and commemorative oratory, are not marked out in any red guidebook of the emotions, but they are present if you look.",
+        "author": {
+            "name": "John Vinocur",
+            "url": "/quotes/john_vinocur_112510"
+        },
+        "topics": [
+            {
+                "name": "Suffering",
+                "url": "/topics/suffering"
+            },
+            {
+                "name": "Numbers",
+                "url": "/topics/numbers"
+            },
+            {
+                "name": "Armies",
+                "url": "/topics/armies"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_vinocur_112514",
+        "quote": "The public relations warriors fought and lost Monte Carlo's Battle of the Magazine Covers.",
+        "author": {
+            "name": "John Vinocur",
+            "url": "/quotes/john_vinocur_112514"
+        },
+        "topics": [
+            {
+                "name": "Battle",
+                "url": "/topics/battle"
+            },
+            {
+                "name": "Public Relations",
+                "url": "/topics/public_relations"
+            }
+        ]
+    }
+]

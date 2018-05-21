@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/sandy_gallin_532199",
+        "quote": "I originally started redoing houses to deal with stress. I found that the hour I could go to a job site every day took my mind off the 24/7 of thinking about my clients.",
+        "author": {
+            "name": "Sandy Gallin",
+            "url": "/quotes/sandy_gallin_532199"
+        },
+        "topics": [
+            {
+                "name": "Stress",
+                "url": "/topics/stress"
+            },
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Took",
+                "url": "/topics/took"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sandy_gallin_532200",
+        "quote": "Being a manager is about getting into the minds of the people you represent.",
+        "author": {
+            "name": "Sandy Gallin",
+            "url": "/quotes/sandy_gallin_532200"
+        },
+        "topics": [
+            {
+                "name": "Minds",
+                "url": "/topics/minds"
+            },
+            {
+                "name": "Manager",
+                "url": "/topics/manager"
+            },
+            {
+                "name": "Getting",
+                "url": "/topics/getting"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sandy_gallin_532201",
+        "quote": "I love collections of things, but always in moderation.",
+        "author": {
+            "name": "Sandy Gallin",
+            "url": "/quotes/sandy_gallin_532201"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "I Love",
+                "url": "/topics/i_love"
+            }
+        ]
+    }
+]

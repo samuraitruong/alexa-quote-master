@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/masanobu_fukuoka_530426",
+        "quote": "There is no time in modern agriculture for a farmer to write a poem or compose a song.",
+        "author": {
+            "name": "Masanobu Fukuoka",
+            "url": "/quotes/masanobu_fukuoka_530426"
+        },
+        "topics": [
+            {
+                "name": "Song",
+                "url": "/topics/song"
+            },
+            {
+                "name": "Agriculture",
+                "url": "/topics/agriculture"
+            },
+            {
+                "name": "Poem",
+                "url": "/topics/poem"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/masanobu_fukuoka_530429",
+        "quote": "The simple hearth of the small farm is the true center of our universe.",
+        "author": {
+            "name": "Masanobu Fukuoka",
+            "url": "/quotes/masanobu_fukuoka_530429"
+        },
+        "topics": [
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Center",
+                "url": "/topics/center"
+            },
+            {
+                "name": "Hearth",
+                "url": "/topics/hearth"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/masanobu_fukuoka_530427",
+        "quote": "Ignorance, hatred and greed are killing nature.",
+        "author": {
+            "name": "Masanobu Fukuoka",
+            "url": "/quotes/masanobu_fukuoka_530427"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "Ignorance",
+                "url": "/topics/ignorance"
+            },
+            {
+                "name": "Hatred",
+                "url": "/topics/hatred"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/masanobu_fukuoka_530428",
+        "quote": "As we kill nature, we are killing ourselves, and God incarnate as the world as well.",
+        "author": {
+            "name": "Masanobu Fukuoka",
+            "url": "/quotes/masanobu_fukuoka_530428"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Incarnate",
+                "url": "/topics/incarnate"
+            }
+        ]
+    }
+]

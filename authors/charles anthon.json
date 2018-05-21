@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/charles_anthon_326113",
+        "quote": "A gold book, fastened together in the shape of a book by wires of the same metal, had been dug up in the northern part of the state of New York, and along with the book an enormous pair of gold spectacles!",
+        "author": {
+            "name": "Charles Anthon",
+            "url": "/quotes/charles_anthon_326113"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Shape",
+                "url": "/topics/shape"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charles_anthon_322684",
+        "quote": "I have thus given you a full statement of all that I know respecting the origin of Mormonism.",
+        "author": {
+            "name": "Charles Anthon",
+            "url": "/quotes/charles_anthon_322684"
+        },
+        "topics": [
+            {
+                "name": "Given",
+                "url": "/topics/given"
+            },
+            {
+                "name": "Thus",
+                "url": "/topics/thus"
+            },
+            {
+                "name": "Respecting",
+                "url": "/topics/respecting"
+            }
+        ]
+    }
+]

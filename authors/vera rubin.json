@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/vera_rubin_183221",
+        "quote": "Science progresses best when observations force us to alter our preconceptions.",
+        "author": {
+            "name": "Vera Rubin",
+            "url": "/quotes/vera_rubin_183221"
+        },
+        "topics": [
+            {
+                "name": "Science",
+                "url": "/topics/science"
+            },
+            {
+                "name": "Preconceptions",
+                "url": "/topics/preconceptions"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/vera_rubin_183219",
+        "quote": "Does Sex Matter? Of course it does. But does it matter enough to Matter? That's a different question.",
+        "author": {
+            "name": "Vera Rubin",
+            "url": "/quotes/vera_rubin_183219"
+        },
+        "topics": [
+            {
+                "name": "Sex",
+                "url": "/topics/sex"
+            },
+            {
+                "name": "Question",
+                "url": "/topics/question"
+            },
+            {
+                "name": "Does",
+                "url": "/topics/does"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/vera_rubin_183220",
+        "quote": "No observational problem will not be solved by more data.",
+        "author": {
+            "name": "Vera Rubin",
+            "url": "/quotes/vera_rubin_183220"
+        },
+        "topics": [
+            {
+                "name": "Problem",
+                "url": "/topics/problem"
+            },
+            {
+                "name": "Data",
+                "url": "/topics/data"
+            },
+            {
+                "name": "Observational",
+                "url": "/topics/observational"
+            }
+        ]
+    }
+]

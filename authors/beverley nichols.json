@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/beverley_nichols_105202",
+        "quote": "To be overcome by the fragrance of flowers is a delectable form of defeat.",
+        "author": {
+            "name": "Beverley Nichols",
+            "url": "/quotes/beverley_nichols_105202"
+        },
+        "topics": [
+            {
+                "name": "Flowers",
+                "url": "/topics/flowers"
+            },
+            {
+                "name": "Defeat",
+                "url": "/topics/defeat"
+            },
+            {
+                "name": "Fragrance",
+                "url": "/topics/fragrance"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/beverley_nichols_106629",
+        "quote": "Marriage - a book of which the first chapter is written in poetry and the remaining chapters in prose.",
+        "author": {
+            "name": "Beverley Nichols",
+            "url": "/quotes/beverley_nichols_106629"
+        },
+        "topics": [
+            {
+                "name": "Marriage",
+                "url": "/topics/marriage"
+            },
+            {
+                "name": "Prose",
+                "url": "/topics/prose"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    }
+]

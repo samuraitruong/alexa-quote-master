@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/nelson_eddy_197639",
+        "quote": "In society, one doesn't tell the truth, one tells the exact opposite.",
+        "author": {
+            "name": "Nelson Eddy",
+            "url": "/quotes/nelson_eddy_197639"
+        },
+        "topics": [
+            {
+                "name": "Truth",
+                "url": "/topics/truth"
+            },
+            {
+                "name": "Tells",
+                "url": "/topics/tells"
+            },
+            {
+                "name": "Exact Opposite",
+                "url": "/topics/exact_opposite"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nelson_eddy_197641",
+        "quote": "Let's have the music that will open the door to millions of people... the kind of music that will not make people think only of the song or even of the singer... not music that is confined to the merely personal.",
+        "author": {
+            "name": "Nelson Eddy",
+            "url": "/quotes/nelson_eddy_197641"
+        },
+        "topics": [
+            {
+                "name": "Song",
+                "url": "/topics/song"
+            },
+            {
+                "name": "Door",
+                "url": "/topics/door"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            }
+        ]
+    }
+]

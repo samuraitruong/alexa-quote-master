@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/donny_hathaway_498890",
+        "quote": "When I think of music, I think of music in its totality, complete. From the lowest blues to the highest symphony, you know, so what I'd like to do is exemplify each style of as many periods as I can possibly do.",
+        "author": {
+            "name": "Donny Hathaway",
+            "url": "/quotes/donny_hathaway_498890"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/donny_hathaway_680943",
+        "quote": "When I think of music, I think of music in totality, complete.",
+        "author": {
+            "name": "Donny Hathaway",
+            "url": "/quotes/donny_hathaway_680943"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    }
+]

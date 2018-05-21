@@ -1,0 +1,108 @@
+[
+    {
+        "url": "/quotes/chuck_palahniuk_616526?src=t_sentinel",
+        "quote": "Of the big horror movies of the '70s, you have 'The Omen,' 'The Sentinel,' 'Rosemary's Baby,' 'The Stepford Wives,' 'Burnt Offerings' - these are all romantic fatalist movies where there's a sort of glimmer of hope... but darkness wins.",
+        "author": {
+            "name": "Chuck Palahniuk",
+            "url": "/authors/chuck_palahniuk"
+        },
+        "topics": [
+            {
+                "name": "Hope",
+                "url": "/topics/hope"
+            },
+            {
+                "name": "Movies",
+                "url": "/topics/movies"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/johann_kaspar_lavater_151439?src=t_sentinel",
+        "quote": "Conscience is the sentinel of virtue.",
+        "author": {
+            "name": "Johann Kaspar Lavater",
+            "url": "/authors/johann_kaspar_lavater"
+        },
+        "topics": [
+            {
+                "name": "Virtue",
+                "url": "/topics/virtue"
+            },
+            {
+                "name": "Conscience",
+                "url": "/topics/conscience"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/daniel_webster_387143?src=t_sentinel",
+        "quote": "We have been taught to regard a representative of the people as a sentinel on the watch-tower of liberty.",
+        "author": {
+            "name": "Daniel Webster",
+            "url": "/authors/daniel_webster"
+        },
+        "topics": [
+            {
+                "name": "Liberty",
+                "url": "/topics/liberty"
+            },
+            {
+                "name": "Taught",
+                "url": "/topics/taught"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marcus_tullius_cicero_156304?src=t_sentinel",
+        "quote": "The eyes like sentinel occupy the highest place in the body.",
+        "author": {
+            "name": "Marcus Tullius Cicero",
+            "url": "/authors/marcus_tullius_cicero"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Occupy",
+                "url": "/topics/occupy"
+            },
+            {
+                "name": "Highest",
+                "url": "/topics/highest"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nick_harkaway_726096?src=t_sentinel",
+        "quote": "Being a parent is weird. It changes people in subtle and unsubtle ways. In my case, it awoke a kind of manic sentinel in my brain. Anything in the house that might be a threat to the kids or to my wife gets terminated - food, sharp edges, poor wiring.",
+        "author": {
+            "name": "Nick Harkaway",
+            "url": "/authors/nick_harkaway"
+        },
+        "topics": [
+            {
+                "name": "Parent",
+                "url": "/topics/parent"
+            },
+            {
+                "name": "Changes",
+                "url": "/topics/changes"
+            },
+            {
+                "name": "House",
+                "url": "/topics/house"
+            }
+        ]
+    }
+]

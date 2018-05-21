@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/gordon_cooper_182102",
+        "quote": "Father, we thank you, especially for letting me fly this flight - for the privilege of being able to be in this position, to be in this wondrous place, seeing all these many startling, wonderful things that you have created.",
+        "author": {
+            "name": "Gordon Cooper",
+            "url": "/quotes/gordon_cooper_182102"
+        },
+        "topics": [
+            {
+                "name": "Father",
+                "url": "/topics/father"
+            },
+            {
+                "name": "Flight",
+                "url": "/topics/flight"
+            },
+            {
+                "name": "Wondrous",
+                "url": "/topics/wondrous"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gordon_cooper_182103",
+        "quote": "I believe that these extra-terrestrial vehicles and their crews are visiting this planet from other planets. Most astronauts were reluctant to discuss UFOs.",
+        "author": {
+            "name": "Gordon Cooper",
+            "url": "/quotes/gordon_cooper_182103"
+        },
+        "topics": [
+            {
+                "name": "Astronauts",
+                "url": "/topics/astronauts"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Visiting",
+                "url": "/topics/visiting"
+            }
+        ]
+    }
+]

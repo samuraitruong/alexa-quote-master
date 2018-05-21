@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/harold_robbins_103706",
+        "quote": "Hemingway was a jerk.",
+        "author": {
+            "name": "Harold Robbins",
+            "url": "/quotes/harold_robbins_103706"
+        },
+        "topics": [
+            {
+                "name": "Jerk",
+                "url": "/topics/jerk"
+            },
+            {
+                "name": "Hemingway",
+                "url": "/topics/hemingway"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/harold_robbins_254113",
+        "quote": "I won't leave any unfinished manuscripts.",
+        "author": {
+            "name": "Harold Robbins",
+            "url": "/quotes/harold_robbins_254113"
+        },
+        "topics": [
+            {
+                "name": "Leave",
+                "url": "/topics/leave"
+            },
+            {
+                "name": "Manuscripts",
+                "url": "/topics/manuscripts"
+            },
+            {
+                "name": "Any",
+                "url": "/topics/any"
+            }
+        ]
+    }
+]

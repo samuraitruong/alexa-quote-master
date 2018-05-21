@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/george_gallup_113367",
+        "quote": "I could prove God statistically. Take the human body alone - the chances that all the functions of an individual would just happen is a statistical monstrosity.",
+        "author": {
+            "name": "George Gallup",
+            "url": "/quotes/george_gallup_113367"
+        },
+        "topics": [
+            {
+                "name": "Prove",
+                "url": "/topics/prove"
+            },
+            {
+                "name": "Happen",
+                "url": "/topics/happen"
+            },
+            {
+                "name": "Statistical",
+                "url": "/topics/statistical"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_gallup_113366",
+        "quote": "Polling is merely an instrument for gauging public opinion. When a president or any other leader pays attention to poll results, he is, in effect, paying attention to the views of the people. Any other interpretation is nonsense.",
+        "author": {
+            "name": "George Gallup",
+            "url": "/quotes/george_gallup_113366"
+        },
+        "topics": [
+            {
+                "name": "Leader",
+                "url": "/topics/leader"
+            },
+            {
+                "name": "Instrument",
+                "url": "/topics/instrument"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    }
+]

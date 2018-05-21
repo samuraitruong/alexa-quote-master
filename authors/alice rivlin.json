@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/alice_rivlin_408671",
+        "quote": "The increase in inequality in income is a longtime trend, but the pressure on middle- and low-income workers is going up rapidly. Especially if they live in an area where there are high housing and gas prices, like California.",
+        "author": {
+            "name": "Alice Rivlin",
+            "url": "/quotes/alice_rivlin_408671"
+        },
+        "topics": [
+            {
+                "name": "Housing",
+                "url": "/topics/housing"
+            },
+            {
+                "name": "Trend",
+                "url": "/topics/trend"
+            },
+            {
+                "name": "Income",
+                "url": "/topics/income"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alice_rivlin_307746",
+        "quote": "The job of the Central Bank is to worry.",
+        "author": {
+            "name": "Alice Rivlin",
+            "url": "/quotes/alice_rivlin_307746"
+        },
+        "topics": [
+            {
+                "name": "Finance",
+                "url": "/topics/finance"
+            },
+            {
+                "name": "Worry",
+                "url": "/topics/worry"
+            },
+            {
+                "name": "Bank",
+                "url": "/topics/bank"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alice_rivlin_408672",
+        "quote": "It's a technical, fairly difficult job that has no particular political connotations, so I doubt there are any big campaign contributors dying to be on the Fed. And remember, it doesn't pay very well, certainly by Republican standards.",
+        "author": {
+            "name": "Alice Rivlin",
+            "url": "/quotes/alice_rivlin_408672"
+        },
+        "topics": [
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Technical",
+                "url": "/topics/technical"
+            }
+        ]
+    }
+]

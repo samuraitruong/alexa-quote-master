@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/robert_mayer_185741",
+        "quote": "I look upon myself as a musical bricklayer with architectural aspirations.",
+        "author": {
+            "name": "Robert Mayer",
+            "url": "/quotes/robert_mayer_185741"
+        },
+        "topics": [
+            {
+                "name": "Myself",
+                "url": "/topics/myself"
+            },
+            {
+                "name": "Bricklayer",
+                "url": "/topics/bricklayer"
+            },
+            {
+                "name": "Musical",
+                "url": "/topics/musical"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_mayer_406741",
+        "quote": "It's a very good thing for students also to be exposed to people who aren't film students or film scholars but who work in the world of film.",
+        "author": {
+            "name": "Robert Mayer",
+            "url": "/quotes/robert_mayer_406741"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Students",
+                "url": "/topics/students"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    }
+]

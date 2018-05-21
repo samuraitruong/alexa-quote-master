@@ -1,0 +1,200 @@
+[
+    {
+        "url": "/quotes/sigmund_freud_403107?src=t_royal_road",
+        "quote": "The interpretation of dreams is the royal road to a knowledge of the unconscious activities of the mind.",
+        "author": {
+            "name": "Sigmund Freud",
+            "url": "/authors/sigmund_freud"
+        },
+        "topics": [
+            {
+                "name": "Dreams",
+                "url": "/topics/dreams"
+            },
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Unconscious",
+                "url": "/topics/unconscious"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jessamyn_west_380180?src=t_royal_road",
+        "quote": "Teaching is the royal road to learning.",
+        "author": {
+            "name": "Jessamyn West",
+            "url": "/authors/jessamyn_west"
+        },
+        "topics": [
+            {
+                "name": "Learning",
+                "url": "/topics/learning"
+            },
+            {
+                "name": "Road",
+                "url": "/topics/road"
+            },
+            {
+                "name": "Teaching",
+                "url": "/topics/teaching"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dale_carnegie_156625?src=t_royal_road",
+        "quote": "The royal road to a man's heart is to talk to him about the things he treasures most.",
+        "author": {
+            "name": "Dale Carnegie",
+            "url": "/authors/dale_carnegie"
+        },
+        "topics": [
+            {
+                "name": "Road",
+                "url": "/topics/road"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/josiah_gilbert_holland_126379?src=t_royal_road",
+        "quote": "There is no royal road to anything, one thing at a time, all things in succession. That which grows fast, withers as rapidly. That which grows slowly, endures.",
+        "author": {
+            "name": "Josiah Gilbert Holland",
+            "url": "/authors/josiah_gilbert_holland"
+        },
+        "topics": [
+            {
+                "name": "Succession",
+                "url": "/topics/succession"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Grows",
+                "url": "/topics/grows"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/anthony_trollope_384851?src=t_royal_road",
+        "quote": "There is no royal road to learning; no short cut to the acquirement of any art.",
+        "author": {
+            "name": "Anthony Trollope",
+            "url": "/authors/anthony_trollope"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Road",
+                "url": "/topics/road"
+            },
+            {
+                "name": "Cut",
+                "url": "/topics/cut"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/euclid_676375?src=t_royal_road",
+        "quote": "There is no royal road to geometry.",
+        "author": {
+            "name": "Euclid",
+            "url": "/authors/euclid"
+        },
+        "topics": [
+            {
+                "name": "Road",
+                "url": "/topics/road"
+            },
+            {
+                "name": "Geometry",
+                "url": "/topics/geometry"
+            },
+            {
+                "name": "Royal",
+                "url": "/topics/royal"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charles_e_wilson_160603?src=t_royal_road",
+        "quote": "There is no royal road; you've got to work a good deal harder than most people want to work.",
+        "author": {
+            "name": "Charles E. Wilson",
+            "url": "/authors/charles_e_wilson"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Deal",
+                "url": "/topics/deal"
+            },
+            {
+                "name": "Good Deal",
+                "url": "/topics/good_deal"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gerard_manley_hopkins_394628?src=t_royal_road",
+        "quote": "It is a happy thing that there is no royal road to poetry. The world should know by this time that one cannot reach Parnassus except by flying thither.",
+        "author": {
+            "name": "Gerard Manley Hopkins",
+            "url": "/authors/gerard_manley_hopkins"
+        },
+        "topics": [
+            {
+                "name": "Happy",
+                "url": "/topics/happy"
+            },
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Reach",
+                "url": "/topics/reach"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charles_m_schwab_729808?src=t_royal_road",
+        "quote": "There is no royal road to a successful life, as there is no royal road to learning. It has got to be hard knocks, morning, noon, and night, and fixity of purpose.",
+        "author": {
+            "name": "Charles M. Schwab",
+            "url": "/authors/charles_m_schwab"
+        },
+        "topics": [
+            {
+                "name": "Purpose",
+                "url": "/topics/purpose"
+            },
+            {
+                "name": "Night",
+                "url": "/topics/night"
+            },
+            {
+                "name": "Knocks",
+                "url": "/topics/knocks"
+            }
+        ]
+    }
+]

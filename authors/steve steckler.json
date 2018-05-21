@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/steve_steckler_409398",
+        "quote": "Socialism? We've had way too much of it already.",
+        "author": {
+            "name": "Steve Steckler",
+            "url": "/quotes/steve_steckler_409398"
+        },
+        "topics": [
+            {
+                "name": "Socialism",
+                "url": "/topics/socialism"
+            },
+            {
+                "name": "Too",
+                "url": "/topics/too"
+            },
+            {
+                "name": "Had",
+                "url": "/topics/had"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/steve_steckler_409429",
+        "quote": "Democrats' definition of 'rich' - always seems to be set just above whatever the salary happens to be for a member of Congress. Perhaps that says it all.",
+        "author": {
+            "name": "Steve Steckler",
+            "url": "/quotes/steve_steckler_409429"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Democrats",
+                "url": "/topics/democrats"
+            },
+            {
+                "name": "Set",
+                "url": "/topics/set"
+            }
+        ]
+    }
+]

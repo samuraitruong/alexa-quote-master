@@ -1,0 +1,130 @@
+[
+    {
+        "url": "/quotes/connie_smith_509442",
+        "quote": "I have such a deep love for traditional country music.",
+        "author": {
+            "name": "Connie Smith",
+            "url": "/quotes/connie_smith_509442"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Deep",
+                "url": "/topics/deep"
+            },
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/connie_smith_509440",
+        "quote": "Inspiration is finding something that excites you.",
+        "author": {
+            "name": "Connie Smith",
+            "url": "/quotes/connie_smith_509440"
+        },
+        "topics": [
+            {
+                "name": "Inspiration",
+                "url": "/topics/inspiration"
+            },
+            {
+                "name": "Excites",
+                "url": "/topics/excites"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/connie_smith_405153",
+        "quote": "Kids flourish if we get them to school every day.",
+        "author": {
+            "name": "Connie Smith",
+            "url": "/quotes/connie_smith_405153"
+        },
+        "topics": [
+            {
+                "name": "School",
+                "url": "/topics/school"
+            },
+            {
+                "name": "Every Day",
+                "url": "/topics/every_day"
+            },
+            {
+                "name": "Flourish",
+                "url": "/topics/flourish"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/connie_smith_509438",
+        "quote": "I hear so many of the young people today sing and I think they have a good voice, yet I wonder if they'll ever know that they sound alike.",
+        "author": {
+            "name": "Connie Smith",
+            "url": "/quotes/connie_smith_509438"
+        },
+        "topics": [
+            {
+                "name": "Voice",
+                "url": "/topics/voice"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/connie_smith_509439",
+        "quote": "I love the music business very much.",
+        "author": {
+            "name": "Connie Smith",
+            "url": "/quotes/connie_smith_509439"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "I Love",
+                "url": "/topics/i_love"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/connie_smith_509441",
+        "quote": "When a song comes to you, you can't run around it.",
+        "author": {
+            "name": "Connie Smith",
+            "url": "/quotes/connie_smith_509441"
+        },
+        "topics": [
+            {
+                "name": "Song",
+                "url": "/topics/song"
+            },
+            {
+                "name": "Run",
+                "url": "/topics/run"
+            },
+            {
+                "name": "Around",
+                "url": "/topics/around"
+            }
+        ]
+    }
+]

@@ -1,0 +1,244 @@
+[
+    {
+        "url": "/quotes/guido_van_rossum_242967",
+        "quote": "If you decide to design your own language, there are thousands of sort of amateur language designer pitfalls.",
+        "author": {
+            "name": "Guido van Rossum",
+            "url": "/quotes/guido_van_rossum_242967"
+        },
+        "topics": [
+            {
+                "name": "Language",
+                "url": "/topics/language"
+            },
+            {
+                "name": "Decide",
+                "url": "/topics/decide"
+            },
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/guido_van_rossum_242964",
+        "quote": "Now, it's my belief that Python is a lot easier than to teach to students programming and teach them C or C++ or Java at the same time because all the details of the languages are so much harder. Other scripting languages really don't work very well there either.",
+        "author": {
+            "name": "Guido van Rossum",
+            "url": "/quotes/guido_van_rossum_242964"
+        },
+        "topics": [
+            {
+                "name": "Students",
+                "url": "/topics/students"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/guido_van_rossum_242963",
+        "quote": "The second stream of material that is going to come out of this project is a programming environment and a set of programming tools where we really want to focus again on the needs of the newbie. This environment is going to have to be extremely user-friendly.",
+        "author": {
+            "name": "Guido van Rossum",
+            "url": "/quotes/guido_van_rossum_242963"
+        },
+        "topics": [
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Needs",
+                "url": "/topics/needs"
+            },
+            {
+                "name": "Set",
+                "url": "/topics/set"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/guido_van_rossum_242962",
+        "quote": "I have this hope that there is a better way. Higher-level tools that actually let you see the structure of the software more clearly will be of tremendous value.",
+        "author": {
+            "name": "Guido van Rossum",
+            "url": "/quotes/guido_van_rossum_242962"
+        },
+        "topics": [
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Better Way",
+                "url": "/topics/better_way"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/guido_van_rossum_242976",
+        "quote": "Yes, I definitely believe that it has some good cross-platform properties. Object orientation was one of the techniques I used to make Python platform independent.",
+        "author": {
+            "name": "Guido van Rossum",
+            "url": "/quotes/guido_van_rossum_242976"
+        },
+        "topics": [
+            {
+                "name": "Orientation",
+                "url": "/topics/orientation"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Python",
+                "url": "/topics/python"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/guido_van_rossum_242973",
+        "quote": "If you're talking about Java in particular, Python is about the best fit you can get amongst all the other languages. Yet the funny thing is, from a language point of view, JavaScript has a lot in common with Python, but it is sort of a restricted subset.",
+        "author": {
+            "name": "Guido van Rossum",
+            "url": "/quotes/guido_van_rossum_242973"
+        },
+        "topics": [
+            {
+                "name": "Point Of View",
+                "url": "/topics/point_of_view"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/guido_van_rossum_242979",
+        "quote": "My own perception of that is somewhat colored by where people ask my advice, which is still, of course, about changes to Python internals or at least standard libraries.",
+        "author": {
+            "name": "Guido van Rossum",
+            "url": "/quotes/guido_van_rossum_242979"
+        },
+        "topics": [
+            {
+                "name": "Standard",
+                "url": "/topics/standard"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/guido_van_rossum_242965",
+        "quote": "There was a project at Lawrence Livermore National Labs where many years ago they went down this path for scripting and controlling very large numerical calculations.",
+        "author": {
+            "name": "Guido van Rossum",
+            "url": "/quotes/guido_van_rossum_242965"
+        },
+        "topics": [
+            {
+                "name": "Project",
+                "url": "/topics/project"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Large",
+                "url": "/topics/large"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/guido_van_rossum_242968",
+        "quote": "I would guess that the decision to create a small special purpose language or use an existing general purpose language is one of the toughest decisions that anyone facing the need for a new language must make.",
+        "author": {
+            "name": "Guido van Rossum",
+            "url": "/quotes/guido_van_rossum_242968"
+        },
+        "topics": [
+            {
+                "name": "Decision",
+                "url": "/topics/decision"
+            },
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/guido_van_rossum_242969",
+        "quote": "In my daily work, I work on very large, complex, distributed systems built out of many Python modules and packages. The focus is very similar to what you find, for example, in Java and, in general, in systems programming languages.",
+        "author": {
+            "name": "Guido van Rossum",
+            "url": "/quotes/guido_van_rossum_242969"
+        },
+        "topics": [
+            {
+                "name": "Focus",
+                "url": "/topics/focus"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Out",
+                "url": "/topics/out"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/guido_van_rossum_242970",
+        "quote": "Mark Hammond is working in this area, with Windows Scripting Host. It is definitely an area where Python fits almost perfectly. That's quite independent from Java, actually.",
+        "author": {
+            "name": "Guido van Rossum",
+            "url": "/quotes/guido_van_rossum_242970"
+        },
+        "topics": [
+            {
+                "name": "Python",
+                "url": "/topics/python"
+            },
+            {
+                "name": "Perfectly",
+                "url": "/topics/perfectly"
+            },
+            {
+                "name": "Area",
+                "url": "/topics/area"
+            }
+        ]
+    }
+]

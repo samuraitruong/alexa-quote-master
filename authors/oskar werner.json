@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/oskar_werner_112693",
+        "quote": "I'm married to the theater but my mistress is the films.",
+        "author": {
+            "name": "Oskar Werner",
+            "url": "/quotes/oskar_werner_112693"
+        },
+        "topics": [
+            {
+                "name": "Movies",
+                "url": "/topics/movies"
+            },
+            {
+                "name": "Mistress",
+                "url": "/topics/mistress"
+            },
+            {
+                "name": "Films",
+                "url": "/topics/films"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/oskar_werner_326127",
+        "quote": "I am married to the theater, and the films are only my mistress.",
+        "author": {
+            "name": "Oskar Werner",
+            "url": "/quotes/oskar_werner_326127"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Mistress",
+                "url": "/topics/mistress"
+            },
+            {
+                "name": "Films",
+                "url": "/topics/films"
+            }
+        ]
+    }
+]

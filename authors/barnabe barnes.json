@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/barnabe_barnes_177841",
+        "quote": "A mass of dust, world's momentary slave, Is man, in state of our old Adam made, Soon born to die, soon flourishing to fade.",
+        "author": {
+            "name": "Barnabe Barnes",
+            "url": "/quotes/barnabe_barnes_177841"
+        },
+        "topics": [
+            {
+                "name": "Die",
+                "url": "/topics/die"
+            },
+            {
+                "name": "Momentary",
+                "url": "/topics/momentary"
+            },
+            {
+                "name": "Adam",
+                "url": "/topics/adam"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/barnabe_barnes_177842",
+        "quote": "Ah, sweet Content, where doth thine harbour hold.",
+        "author": {
+            "name": "Barnabe Barnes",
+            "url": "/quotes/barnabe_barnes_177842"
+        },
+        "topics": [
+            {
+                "name": "Harbour",
+                "url": "/topics/harbour"
+            },
+            {
+                "name": "Doth",
+                "url": "/topics/doth"
+            },
+            {
+                "name": "Ah",
+                "url": "/topics/ah"
+            }
+        ]
+    }
+]

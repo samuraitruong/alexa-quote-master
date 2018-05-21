@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/alex_timbers_581910",
+        "quote": "I like musicals that look more like plays.",
+        "author": {
+            "name": "Alex Timbers",
+            "url": "/quotes/alex_timbers_581910"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Plays",
+                "url": "/topics/plays"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alex_timbers_581911",
+        "quote": "I think we live in an era without a predictable career path. Everybody's doing more, doing more at the same time, doing more faster. As such, individual projects can have wildly different developmental trajectories.",
+        "author": {
+            "name": "Alex Timbers",
+            "url": "/quotes/alex_timbers_581911"
+        },
+        "topics": [
+            {
+                "name": "Career",
+                "url": "/topics/career"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Developmental",
+                "url": "/topics/developmental"
+            }
+        ]
+    }
+]

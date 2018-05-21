@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/chris_barber_366582",
+        "quote": "We play happy music, and we make people happy. That's why they like us.",
+        "author": {
+            "name": "Chris Barber",
+            "url": "/quotes/chris_barber_366582"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Happy Music",
+                "url": "/topics/happy_music"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/chris_barber_366580",
+        "quote": "In America, life is introverted, self-absorbed - and so is their music.",
+        "author": {
+            "name": "Chris Barber",
+            "url": "/quotes/chris_barber_366580"
+        },
+        "topics": [
+            {
+                "name": "Life",
+                "url": "/topics/life"
+            },
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "Introverted",
+                "url": "/topics/introverted"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/chris_barber_366578",
+        "quote": "A frisky spirit makes my trombone sing.",
+        "author": {
+            "name": "Chris Barber",
+            "url": "/quotes/chris_barber_366578"
+        },
+        "topics": [
+            {
+                "name": "Spirit",
+                "url": "/topics/spirit"
+            },
+            {
+                "name": "Trombone",
+                "url": "/topics/trombone"
+            },
+            {
+                "name": "Makes",
+                "url": "/topics/makes"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/chris_barber_366579",
+        "quote": "Here in England we live at a slower pace, have more time to enjoy things - like good jazz.",
+        "author": {
+            "name": "Chris Barber",
+            "url": "/quotes/chris_barber_366579"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            },
+            {
+                "name": "England",
+                "url": "/topics/england"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/chris_barber_366581",
+        "quote": "Jazz of the sort we play is a happy, extroverted music. You don't have to think about it too much.",
+        "author": {
+            "name": "Chris Barber",
+            "url": "/quotes/chris_barber_366581"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Jazz",
+                "url": "/topics/jazz"
+            },
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            }
+        ]
+    }
+]

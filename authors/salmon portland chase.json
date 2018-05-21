@@ -1,0 +1,38 @@
+[
+    {
+        "url": "/quotes/salmon_portland_chase_258704",
+        "quote": "The way to resumption is to resume.",
+        "author": {
+            "name": "Salmon Portland Chase",
+            "url": "/quotes/salmon_portland_chase_258704"
+        },
+        "topics": [
+            {
+                "name": "Way",
+                "url": "/topics/way"
+            },
+            {
+                "name": "Resume",
+                "url": "/topics/resume"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/salmon_portland_chase_258705",
+        "quote": "The Constitution in all its provisions looks to an indestructible union disposed of indestructible States.",
+        "author": {
+            "name": "Salmon Portland Chase",
+            "url": "/quotes/salmon_portland_chase_258705"
+        },
+        "topics": [
+            {
+                "name": "Looks",
+                "url": "/topics/looks"
+            },
+            {
+                "name": "Provisions",
+                "url": "/topics/provisions"
+            }
+        ]
+    }
+]

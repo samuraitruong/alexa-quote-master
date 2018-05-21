@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/henry_st_john_395077",
+        "quote": "Truth lies within a little and certain compass, but error is immense.",
+        "author": {
+            "name": "Henry St. John",
+            "url": "/quotes/henry_st_john_395077"
+        },
+        "topics": [
+            {
+                "name": "Truth",
+                "url": "/topics/truth"
+            },
+            {
+                "name": "Compass",
+                "url": "/topics/compass"
+            },
+            {
+                "name": "Within",
+                "url": "/topics/within"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henry_st_john_118441",
+        "quote": "Liberty is to the collective body, what health is to every individual body. Without health no pleasure can be tasted by man; without liberty, no happiness can be enjoyed by society.",
+        "author": {
+            "name": "Henry St. John",
+            "url": "/quotes/henry_st_john_118441"
+        },
+        "topics": [
+            {
+                "name": "Health",
+                "url": "/topics/health"
+            },
+            {
+                "name": "Pleasure",
+                "url": "/topics/pleasure"
+            },
+            {
+                "name": "Individual",
+                "url": "/topics/individual"
+            }
+        ]
+    }
+]

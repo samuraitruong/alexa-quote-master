@@ -1,0 +1,134 @@
+[
+    {
+        "url": "/quotes/mary_mouser_638243",
+        "quote": "I love to sing. I'm learning guitar right now.",
+        "author": {
+            "name": "Mary Mouser",
+            "url": "/quotes/mary_mouser_638243"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Now",
+                "url": "/topics/now"
+            },
+            {
+                "name": "I Love",
+                "url": "/topics/i_love"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mary_mouser_638242",
+        "quote": "I love to read, and I love to write. I love to read. You have no idea how many books I have.",
+        "author": {
+            "name": "Mary Mouser",
+            "url": "/quotes/mary_mouser_638242"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "How",
+                "url": "/topics/how"
+            },
+            {
+                "name": "I Love",
+                "url": "/topics/i_love"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mary_mouser_638244",
+        "quote": "I love all the 'Twilight' characters. I can watch Kristen Stewart and think, 'I want to be that role someday.'",
+        "author": {
+            "name": "Mary Mouser",
+            "url": "/quotes/mary_mouser_638244"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Role",
+                "url": "/topics/role"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mary_mouser_638245",
+        "quote": "I'm a huge 'Vampire Diaries' fan. My sister got me into 'Doctor Who.' Those are my biggest things.",
+        "author": {
+            "name": "Mary Mouser",
+            "url": "/quotes/mary_mouser_638245"
+        },
+        "topics": [
+            {
+                "name": "Got",
+                "url": "/topics/got"
+            },
+            {
+                "name": "Diaries",
+                "url": "/topics/diaries"
+            },
+            {
+                "name": "Biggest Things",
+                "url": "/topics/biggest_things"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mary_mouser_665101",
+        "quote": "I'm definitely really proud of 'Frenemies.' That was something that I loved.",
+        "author": {
+            "name": "Mary Mouser",
+            "url": "/quotes/mary_mouser_665101"
+        },
+        "topics": [
+            {
+                "name": "Proud",
+                "url": "/topics/proud"
+            },
+            {
+                "name": "Loved",
+                "url": "/topics/loved"
+            },
+            {
+                "name": "Definitely",
+                "url": "/topics/definitely"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mary_mouser_665102",
+        "quote": "I love to read and I love to write. I love to read. You have no idea how many books I have. I love to sing.",
+        "author": {
+            "name": "Mary Mouser",
+            "url": "/quotes/mary_mouser_665102"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "How",
+                "url": "/topics/how"
+            },
+            {
+                "name": "I Love",
+                "url": "/topics/i_love"
+            }
+        ]
+    }
+]

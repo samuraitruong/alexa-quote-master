@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/danny_thomas_264595",
+        "quote": "All of us are born for a reason, but all of us don't discover why. Success in life has nothing to do with what you gain in life or accomplish for yourself. It's what you do for others.",
+        "author": {
+            "name": "Danny Thomas",
+            "url": "/quotes/danny_thomas_264595"
+        },
+        "topics": [
+            {
+                "name": "Born",
+                "url": "/topics/born"
+            },
+            {
+                "name": "Reason",
+                "url": "/topics/reason"
+            },
+            {
+                "name": "Discover",
+                "url": "/topics/discover"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/danny_thomas_187291",
+        "quote": "Success has nothing to do with what you gain in life or accomplish for yourself. It's what you do for others.",
+        "author": {
+            "name": "Danny Thomas",
+            "url": "/quotes/danny_thomas_187291"
+        },
+        "topics": [
+            {
+                "name": "Success",
+                "url": "/topics/success"
+            },
+            {
+                "name": "Accomplish",
+                "url": "/topics/accomplish"
+            },
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            }
+        ]
+    }
+]

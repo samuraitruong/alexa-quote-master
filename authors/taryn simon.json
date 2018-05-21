@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/taryn_simon_554123",
+        "quote": "In my work, I construct texts and images. Between those two points the blur occurs. Each is altered by the other again and again, back and forth.",
+        "author": {
+            "name": "Taryn Simon",
+            "url": "/quotes/taryn_simon_554123"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Images",
+                "url": "/topics/images"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/taryn_simon_554122",
+        "quote": "I'm interested in the murky areas where there are no clear answers - or sometimes multiple answers. It's here that I try to imagine patterns or codes to make sense of the unknowns that keep us up at night. I'm also interested in the invisible space between people in communication; the space guided by translation and misinterpretation.",
+        "author": {
+            "name": "Taryn Simon",
+            "url": "/quotes/taryn_simon_554122"
+        },
+        "topics": [
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            },
+            {
+                "name": "Codes",
+                "url": "/topics/codes"
+            },
+            {
+                "name": "Unknowns",
+                "url": "/topics/unknowns"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/taryn_simon_554120",
+        "quote": "I do seem to try to make things harder and harder for myself. In some perverse way, obstacles interest me and I'm drawn to projects that end up being incredibly laborious.",
+        "author": {
+            "name": "Taryn Simon",
+            "url": "/quotes/taryn_simon_554120"
+        },
+        "topics": [
+            {
+                "name": "Projects",
+                "url": "/topics/projects"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Laborious",
+                "url": "/topics/laborious"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/taryn_simon_554121",
+        "quote": "The majority of my work is about preparation.",
+        "author": {
+            "name": "Taryn Simon",
+            "url": "/quotes/taryn_simon_554121"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Majority",
+                "url": "/topics/majority"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/taryn_simon_554119",
+        "quote": "My work is drawn to the political but avoids an agenda. There is no inherent critique or support.",
+        "author": {
+            "name": "Taryn Simon",
+            "url": "/quotes/taryn_simon_554119"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Political",
+                "url": "/topics/political"
+            },
+            {
+                "name": "Critique",
+                "url": "/topics/critique"
+            }
+        ]
+    }
+]

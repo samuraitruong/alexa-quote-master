@@ -1,0 +1,438 @@
+[
+    {
+        "url": "/quotes/amy_jackson_805817?src=t_animal_lover",
+        "quote": "I love my pets, and I'm a big animal lover. I also enjoy the nature and countryside.",
+        "author": {
+            "name": "Amy Jackson",
+            "url": "/authors/amy_jackson"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Pets",
+                "url": "/topics/pets"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paris_hilton_412835?src=t_animal_lover",
+        "quote": "When I was younger, my family would go camping and fishing on our ranches. My dad loves being around all kinds of animals. He's the one who got me to be a really big animal lover.",
+        "author": {
+            "name": "Paris Hilton",
+            "url": "/authors/paris_hilton"
+        },
+        "topics": [
+            {
+                "name": "Family",
+                "url": "/topics/family"
+            },
+            {
+                "name": "Camping",
+                "url": "/topics/camping"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/laura_mennell_570180?src=t_animal_lover",
+        "quote": "I'm definitely an animal lover, and I stand up for all animals' rights.",
+        "author": {
+            "name": "Laura Mennell",
+            "url": "/authors/laura_mennell"
+        },
+        "topics": [
+            {
+                "name": "Rights",
+                "url": "/topics/rights"
+            },
+            {
+                "name": "Lover",
+                "url": "/topics/lover"
+            },
+            {
+                "name": "Definitely",
+                "url": "/topics/definitely"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/misty_maytreanor_637347?src=t_animal_lover",
+        "quote": "I'm an avid animal lover. When I was 16, I wanted to be a vet or a zookeeper. I grew up with animals. At one time we had between five and eight dogs in the house, with four cats. We're menagerie people.",
+        "author": {
+            "name": "Misty May-Treanor",
+            "url": "/authors/misty_maytreanor"
+        },
+        "topics": [
+            {
+                "name": "House",
+                "url": "/topics/house"
+            },
+            {
+                "name": "Eight",
+                "url": "/topics/eight"
+            },
+            {
+                "name": "Had",
+                "url": "/topics/had"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_attenborough_595219?src=t_animal_lover",
+        "quote": "I'm not an animal lover if that means you think things are nice if you can pat them, but I am intoxicated by animals.",
+        "author": {
+            "name": "David Attenborough",
+            "url": "/authors/david_attenborough"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Means",
+                "url": "/topics/means"
+            },
+            {
+                "name": "Pat",
+                "url": "/topics/pat"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/peter_singer_649408?src=t_animal_lover",
+        "quote": "I have never really been fond of animals. I certainly wasn't an 'animal lover' when I became involved in the movement. I just came to be persuaded that animals should be treated as independent sentient beings, not as means to human ends.",
+        "author": {
+            "name": "Peter Singer",
+            "url": "/authors/peter_singer"
+        },
+        "topics": [
+            {
+                "name": "Independent",
+                "url": "/topics/independent"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Became",
+                "url": "/topics/became"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kristen_bell_410372?src=t_animal_lover",
+        "quote": "I have always been an animal lover. I had a hard time disassociating the animals I cuddled with - dogs and cats, for example - from the animals on my plate, and I never really cared for the taste of meat. I always loved my Brussels sprouts.",
+        "author": {
+            "name": "Kristen Bell",
+            "url": "/authors/kristen_bell"
+        },
+        "topics": [
+            {
+                "name": "Taste",
+                "url": "/topics/taste"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Had",
+                "url": "/topics/had"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/betty_white_487794?src=t_animal_lover",
+        "quote": "Animal lover that I am, a cougar I am not.",
+        "author": {
+            "name": "Betty White",
+            "url": "/authors/betty_white"
+        },
+        "topics": [
+            {
+                "name": "Animal",
+                "url": "/topics/animal"
+            },
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Lover",
+                "url": "/topics/lover"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gisele_bundchen_202933?src=t_animal_lover",
+        "quote": "I don't wear fur and I understand their cause. I am the biggest animal lover in the world. I have four dogs and two horses, and I have rescued animals all my life.",
+        "author": {
+            "name": "Gisele Bundchen",
+            "url": "/authors/gisele_bundchen"
+        },
+        "topics": [
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Wear",
+                "url": "/topics/wear"
+            },
+            {
+                "name": "Fur",
+                "url": "/topics/fur"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tamsin_egerton_579421?src=t_animal_lover",
+        "quote": "I'm a real animal lover. I adore animals of all shapes and sizes.",
+        "author": {
+            "name": "Tamsin Egerton",
+            "url": "/authors/tamsin_egerton"
+        },
+        "topics": [
+            {
+                "name": "Shapes",
+                "url": "/topics/shapes"
+            },
+            {
+                "name": "Lover",
+                "url": "/topics/lover"
+            },
+            {
+                "name": "Sizes",
+                "url": "/topics/sizes"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bonnie_hunt_443098?src=t_animal_lover",
+        "quote": "I won't wear fur - never, ever. I'm an animal lover. I wouldn't even wear faux fur. I prefer to go the cheap route and not shave my legs.",
+        "author": {
+            "name": "Bonnie Hunt",
+            "url": "/authors/bonnie_hunt"
+        },
+        "topics": [
+            {
+                "name": "Lover",
+                "url": "/topics/lover"
+            },
+            {
+                "name": "Fur",
+                "url": "/topics/fur"
+            },
+            {
+                "name": "Prefer",
+                "url": "/topics/prefer"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kristian_nairn_829495?src=t_animal_lover",
+        "quote": "I've had dogs all my life. I'm a huge animal lover, especially dogs, so that's one of the hardest things about being away all the time. I really miss them, but my mum does a really good job looking after then when I'm gone.",
+        "author": {
+            "name": "Kristian Nairn",
+            "url": "/authors/kristian_nairn"
+        },
+        "topics": [
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            },
+            {
+                "name": "Mum",
+                "url": "/topics/mum"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lea_michele_487977?src=t_animal_lover",
+        "quote": "I'm a really big animal lover.",
+        "author": {
+            "name": "Lea Michele",
+            "url": "/authors/lea_michele"
+        },
+        "topics": [
+            {
+                "name": "Animal",
+                "url": "/topics/animal"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Lover",
+                "url": "/topics/lover"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/johnny_iuzzini_797744?src=t_animal_lover",
+        "quote": "I have pictures of me feeding deer and possums with baby bottles. I am such an animal lover.",
+        "author": {
+            "name": "Johnny Iuzzini",
+            "url": "/authors/johnny_iuzzini"
+        },
+        "topics": [
+            {
+                "name": "Deer",
+                "url": "/topics/deer"
+            },
+            {
+                "name": "Bottles",
+                "url": "/topics/bottles"
+            },
+            {
+                "name": "Lover",
+                "url": "/topics/lover"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/asap_ferg_704898?src=t_animal_lover",
+        "quote": "I'm an animal lover.",
+        "author": {
+            "name": "ASAP Ferg",
+            "url": "/authors/asap_ferg"
+        },
+        "topics": [
+            {
+                "name": "Animal",
+                "url": "/topics/animal"
+            },
+            {
+                "name": "Lover",
+                "url": "/topics/lover"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/will_estes_301262?src=t_animal_lover",
+        "quote": "I've always been an animal lover. I've grown up with dogs my whole life. I think that is what helped me get the role on 'Lassie', I was comfortable around the dog, where many of the kids were afraid or intimidated by Lassie.",
+        "author": {
+            "name": "Will Estes",
+            "url": "/authors/will_estes"
+        },
+        "topics": [
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Role",
+                "url": "/topics/role"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/willow_shields_500832?src=t_animal_lover",
+        "quote": "I have three dogs, a cat, fish. I'm a huge animal lover. They're amazing.",
+        "author": {
+            "name": "Willow Shields",
+            "url": "/authors/willow_shields"
+        },
+        "topics": [
+            {
+                "name": "Amazing",
+                "url": "/topics/amazing"
+            },
+            {
+                "name": "Cat",
+                "url": "/topics/cat"
+            },
+            {
+                "name": "Lover",
+                "url": "/topics/lover"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sam_simon_572706?src=t_animal_lover",
+        "quote": "I was just an animal lover. Everything that the Sam Simon Foundation does is supposed to help dogs and people - that's our mission.",
+        "author": {
+            "name": "Sam Simon",
+            "url": "/authors/sam_simon"
+        },
+        "topics": [
+            {
+                "name": "People",
+                "url": "/topics/people"
+            },
+            {
+                "name": "Foundation",
+                "url": "/topics/foundation"
+            },
+            {
+                "name": "Lover",
+                "url": "/topics/lover"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/laura_mennell_570191?src=t_animal_lover",
+        "quote": "I became a vegetarian at 15. I was always an animal lover and, as a teenager, became increasingly uncomfortable with the idea of eating meat. It was then that I started to research vegetarianism.",
+        "author": {
+            "name": "Laura Mennell",
+            "url": "/authors/laura_mennell"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Became",
+                "url": "/topics/became"
+            },
+            {
+                "name": "Increasingly",
+                "url": "/topics/increasingly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/roshon_fegan_675446?src=t_animal_lover",
+        "quote": "I'm a huge animal lover - I love animals to death. I've got tortoises and three dogs, and I've had a million animals in the past. I just think that we should do all we can to take care of them.",
+        "author": {
+            "name": "Roshon Fegan",
+            "url": "/authors/roshon_fegan"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Death",
+                "url": "/topics/death"
+            },
+            {
+                "name": "Had",
+                "url": "/topics/had"
+            }
+        ]
+    }
+]

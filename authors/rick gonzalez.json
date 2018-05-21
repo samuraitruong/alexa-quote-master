@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/rick_gonzalez_570675",
+        "quote": "If I'm going to do something, I'm going to do it - no matter what.",
+        "author": {
+            "name": "Rick Gonzalez",
+            "url": "/quotes/rick_gonzalez_570675"
+        },
+        "topics": [
+            {
+                "name": "Matter",
+                "url": "/topics/matter"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Something",
+                "url": "/topics/something"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rick_gonzalez_656891",
+        "quote": "When I was five, I always told my mom I would want to be an actor.",
+        "author": {
+            "name": "Rick Gonzalez",
+            "url": "/quotes/rick_gonzalez_656891"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Actor",
+                "url": "/topics/actor"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rick_gonzalez_656892",
+        "quote": "I think my mom is the inspiration of me wanting to do film and TV and be an actor because she loved film so much. She loved, like, horror films and action films, so growing up, she loved watching all the Charles Bronson films and all the westerns.",
+        "author": {
+            "name": "Rick Gonzalez",
+            "url": "/quotes/rick_gonzalez_656892"
+        },
+        "topics": [
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Wanting",
+                "url": "/topics/wanting"
+            },
+            {
+                "name": "TV",
+                "url": "/topics/tv"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rick_gonzalez_656893",
+        "quote": "My mom had a huge video camera that I would always play with, and there is home video of me, like, with the camera letting her know, 'I want to do stuff like this when I grow up.'",
+        "author": {
+            "name": "Rick Gonzalez",
+            "url": "/quotes/rick_gonzalez_656893"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Video Camera",
+                "url": "/topics/video_camera"
+            }
+        ]
+    }
+]

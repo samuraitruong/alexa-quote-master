@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/charles_mccabe_109312",
+        "quote": "Any clod can have the facts; having opinions is an art.",
+        "author": {
+            "name": "Charles McCabe",
+            "url": "/quotes/charles_mccabe_109312"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Opinions",
+                "url": "/topics/opinions"
+            },
+            {
+                "name": "Having",
+                "url": "/topics/having"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charles_mccabe_137702",
+        "quote": "McCabe's Law: Nobody has to do anything.",
+        "author": {
+            "name": "Charles McCabe",
+            "url": "/quotes/charles_mccabe_137702"
+        },
+        "topics": [
+            {
+                "name": "Law",
+                "url": "/topics/law"
+            },
+            {
+                "name": "Nobody",
+                "url": "/topics/nobody"
+            },
+            {
+                "name": "Anything",
+                "url": "/topics/anything"
+            }
+        ]
+    }
+]

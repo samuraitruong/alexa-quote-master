@@ -1,0 +1,178 @@
+[
+    {
+        "url": "/quotes/helen_keller_161862?src=t_ennui",
+        "quote": "It is wonderful how much time good people spend fighting the devil. If they would only expend the same amount of energy loving their fellow men, the devil would die in his own tracks of ennui.",
+        "author": {
+            "name": "Helen Keller",
+            "url": "/authors/helen_keller"
+        },
+        "topics": [
+            {
+                "name": "Religion",
+                "url": "/topics/religion"
+            },
+            {
+                "name": "Die",
+                "url": "/topics/die"
+            },
+            {
+                "name": "How Much Time",
+                "url": "/topics/how_much_time"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charles_de_montesquieu_137555?src=t_ennui",
+        "quote": "To love to read is to exchange hours of ennui for hours of delight.",
+        "author": {
+            "name": "Charles de Montesquieu",
+            "url": "/authors/charles_de_montesquieu"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Hours",
+                "url": "/topics/hours"
+            },
+            {
+                "name": "Read",
+                "url": "/topics/read"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/emile_m_cioran_181668?src=t_ennui",
+        "quote": "Ennui is the echo in us of time tearing itself apart.",
+        "author": {
+            "name": "Emile M. Cioran",
+            "url": "/authors/emile_m_cioran"
+        },
+        "topics": [
+            {
+                "name": "Echo",
+                "url": "/topics/echo"
+            },
+            {
+                "name": "Tearing",
+                "url": "/topics/tearing"
+            },
+            {
+                "name": "Itself",
+                "url": "/topics/itself"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/emile_m_cioran_181670?src=t_ennui",
+        "quote": "Life creates itself in delirium and is undone in ennui.",
+        "author": {
+            "name": "Emile M. Cioran",
+            "url": "/authors/emile_m_cioran"
+        },
+        "topics": [
+            {
+                "name": "Life",
+                "url": "/topics/life"
+            },
+            {
+                "name": "Itself",
+                "url": "/topics/itself"
+            },
+            {
+                "name": "Creates",
+                "url": "/topics/creates"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/t_j_miller_788636?src=t_ennui",
+        "quote": "'Extract' was kind of a grown up 'Office Space' in the sense of talking about the ennui of being a successful person in America if you don't have some real passion in your life for something to care about.",
+        "author": {
+            "name": "T. J. Miller",
+            "url": "/authors/t_j_miller"
+        },
+        "topics": [
+            {
+                "name": "Office",
+                "url": "/topics/office"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rachel_simmons_896926?src=t_ennui",
+        "quote": "If smart phones had been around for women in the 1950s, 'The Feminine Mystique' might never have been written. The depression and ennui of housewives would have been blunted by Pinterest and Facebook.",
+        "author": {
+            "name": "Rachel Simmons",
+            "url": "/authors/rachel_simmons"
+        },
+        "topics": [
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Housewives",
+                "url": "/topics/housewives"
+            },
+            {
+                "name": "Blunted",
+                "url": "/topics/blunted"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/max_stirner_539829?src=t_ennui",
+        "quote": "If the child has not an object that it can occupy itself with, it feels ennui; for it does not yet know how to occupy itself with itself.",
+        "author": {
+            "name": "Max Stirner",
+            "url": "/authors/max_stirner"
+        },
+        "topics": [
+            {
+                "name": "How",
+                "url": "/topics/how"
+            },
+            {
+                "name": "Feels",
+                "url": "/topics/feels"
+            },
+            {
+                "name": "Itself",
+                "url": "/topics/itself"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alex_pareene_723785?src=t_ennui",
+        "quote": "The song 'Take This Job and Shove It' spent 18 weeks on the country charts in 1977. 1970s country music fans had a clearer understanding of the ennui of wage-slavery than modern elites.",
+        "author": {
+            "name": "Alex Pareene",
+            "url": "/authors/alex_pareene"
+        },
+        "topics": [
+            {
+                "name": "Song",
+                "url": "/topics/song"
+            },
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Music Fans",
+                "url": "/topics/music_fans"
+            }
+        ]
+    }
+]

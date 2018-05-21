@@ -1,0 +1,522 @@
+[
+    {
+        "url": "/quotes/larry_ellison_620136?src=t_java",
+        "quote": "When you write a program for Android, you use the Oracle Java tools for everything, and at the very end, you push a button and say, 'Convert this to Android format.'",
+        "author": {
+            "name": "Larry Ellison",
+            "url": "/authors/larry_ellison"
+        },
+        "topics": [
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Oracle",
+                "url": "/topics/oracle"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bjarne_stroustrup_269144?src=t_java",
+        "quote": "However, when Java is promoted as the sole programming language, its flaws and limitations become serious.",
+        "author": {
+            "name": "Bjarne Stroustrup",
+            "url": "/authors/bjarne_stroustrup"
+        },
+        "topics": [
+            {
+                "name": "However",
+                "url": "/topics/however"
+            },
+            {
+                "name": "Sole",
+                "url": "/topics/sole"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rob_pike_719846?src=t_java",
+        "quote": "Web servers are written in C, and if they're not, they're written in Java or C++, which are C derivatives, or Python or Ruby, which are implemented in C.",
+        "author": {
+            "name": "Rob Pike",
+            "url": "/authors/rob_pike"
+        },
+        "topics": [
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Python",
+                "url": "/topics/python"
+            },
+            {
+                "name": "Ruby",
+                "url": "/topics/ruby"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dennis_ritchie_274073?src=t_java",
+        "quote": "C++ and Java, say, are presumably growing faster than plain C, but I bet C will still be around.",
+        "author": {
+            "name": "Dennis Ritchie",
+            "url": "/authors/dennis_ritchie"
+        },
+        "topics": [
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            },
+            {
+                "name": "Presumably",
+                "url": "/topics/presumably"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dennis_ritchie_274083?src=t_java",
+        "quote": "I'm just an observer of Java, and where Microsoft wants to go with C# is too early to tell.",
+        "author": {
+            "name": "Dennis Ritchie",
+            "url": "/authors/dennis_ritchie"
+        },
+        "topics": [
+            {
+                "name": "Tell",
+                "url": "/topics/tell"
+            },
+            {
+                "name": "Too",
+                "url": "/topics/too"
+            },
+            {
+                "name": "Observer",
+                "url": "/topics/observer"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_mougayar_851432?src=t_java",
+        "quote": "Study how to write smart contracts, which is the basic unit of programming a blockchain for business purposes. It is the equivalent of being taught HTML and Java during the early Internet days. And master how to create assets or tokenize existing ones on a blockchain.",
+        "author": {
+            "name": "William Mougayar",
+            "url": "/authors/william_mougayar"
+        },
+        "topics": [
+            {
+                "name": "Study",
+                "url": "/topics/study"
+            },
+            {
+                "name": "Contracts",
+                "url": "/topics/contracts"
+            },
+            {
+                "name": "Equivalent",
+                "url": "/topics/equivalent"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bjarne_stroustrup_269148?src=t_java",
+        "quote": "This evolution may compromise Java's claim of being simpler than C++, but my guess is that the effort will make Java a better language than it is today.",
+        "author": {
+            "name": "Bjarne Stroustrup",
+            "url": "/authors/bjarne_stroustrup"
+        },
+        "topics": [
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Effort",
+                "url": "/topics/effort"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/libba_bray_657152?src=t_java",
+        "quote": "Sitting in my favorite coffeehouse with a new notebook and a hot cup of java is my idea of Heaven.",
+        "author": {
+            "name": "Libba Bray",
+            "url": "/authors/libba_bray"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Hot",
+                "url": "/topics/hot"
+            },
+            {
+                "name": "Idea",
+                "url": "/topics/idea"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/guido_van_rossum_242964?src=t_java",
+        "quote": "Now, it's my belief that Python is a lot easier than to teach to students programming and teach them C or C++ or Java at the same time because all the details of the languages are so much harder. Other scripting languages really don't work very well there either.",
+        "author": {
+            "name": "Guido van Rossum",
+            "url": "/authors/guido_van_rossum"
+        },
+        "topics": [
+            {
+                "name": "Students",
+                "url": "/topics/students"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/miguel_de_icaza_232397?src=t_java",
+        "quote": "I was interested in Java the beginning, but the problem with Java is you do have to switch your platform.",
+        "author": {
+            "name": "Miguel de Icaza",
+            "url": "/authors/miguel_de_icaza"
+        },
+        "topics": [
+            {
+                "name": "Beginning",
+                "url": "/topics/beginning"
+            },
+            {
+                "name": "Problem",
+                "url": "/topics/problem"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/guido_van_rossum_242973?src=t_java",
+        "quote": "If you're talking about Java in particular, Python is about the best fit you can get amongst all the other languages. Yet the funny thing is, from a language point of view, JavaScript has a lot in common with Python, but it is sort of a restricted subset.",
+        "author": {
+            "name": "Guido van Rossum",
+            "url": "/authors/guido_van_rossum"
+        },
+        "topics": [
+            {
+                "name": "Point Of View",
+                "url": "/topics/point_of_view"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/markus_persson_713896?src=t_java",
+        "quote": "If I had intended for 'Minecraft' to end up on consoles, I wouldn't have developed the game in Java. The decision to port the game to consoles came from a combination of player requests, a desire to play around with the brand on different platforms, and some interesting business deals.",
+        "author": {
+            "name": "Markus Persson",
+            "url": "/authors/markus_persson"
+        },
+        "topics": [
+            {
+                "name": "Game",
+                "url": "/topics/game"
+            },
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bjarne_stroustrup_269143?src=t_java",
+        "quote": "After all, C++ isn't a perfect match for Java's design aims either.",
+        "author": {
+            "name": "Bjarne Stroustrup",
+            "url": "/authors/bjarne_stroustrup"
+        },
+        "topics": [
+            {
+                "name": "Perfect",
+                "url": "/topics/perfect"
+            },
+            {
+                "name": "Either",
+                "url": "/topics/either"
+            },
+            {
+                "name": "Aims",
+                "url": "/topics/aims"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/daniel_pauly_563187?src=t_java",
+        "quote": "In the Java Sea in Indonesia, I have seen fishers going out in the morning, six of them going out and coming back with five pounds of fish. That is the end point, a pound of fish per person per day to sell for rice. That's where fisheries go if you let it happen. That's where it stabilizes. These people cannot feed their families.",
+        "author": {
+            "name": "Daniel Pauly",
+            "url": "/authors/daniel_pauly"
+        },
+        "topics": [
+            {
+                "name": "Sea",
+                "url": "/topics/sea"
+            },
+            {
+                "name": "Back",
+                "url": "/topics/back"
+            },
+            {
+                "name": "Seen",
+                "url": "/topics/seen"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sukarno_751474?src=t_java",
+        "quote": "The sophisticates of Java, the traders of Sumatra, the peasants from the outer islands found no common ground. During siesta time from one to five, the Islamic group met separately, the Nationalist group met separately, the Federalist and Unitarians met separately.",
+        "author": {
+            "name": "Sukarno",
+            "url": "/authors/sukarno"
+        },
+        "topics": [
+            {
+                "name": "Islamic",
+                "url": "/topics/islamic"
+            },
+            {
+                "name": "Separately",
+                "url": "/topics/separately"
+            },
+            {
+                "name": "Outer",
+                "url": "/topics/outer"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/larry_ellison_620121?src=t_java",
+        "quote": "We think we're going to be especially strong in platform where we have our two platform brands: our database brand is the Oracle Database 12c, and our programming language brand is this thing called Java.",
+        "author": {
+            "name": "Larry Ellison",
+            "url": "/authors/larry_ellison"
+        },
+        "topics": [
+            {
+                "name": "Strong",
+                "url": "/topics/strong"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Brands",
+                "url": "/topics/brands"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_carmack_776004?src=t_java",
+        "quote": "High-end BREW phones aren't nearly as limited a gaming platform as you might think - they are a lot more powerful than an original Play Station, for example. Java phones, however, are saddled with a huge disadvantage for gaming.",
+        "author": {
+            "name": "John Carmack",
+            "url": "/authors/john_carmack"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "However",
+                "url": "/topics/however"
+            },
+            {
+                "name": "Nearly",
+                "url": "/topics/nearly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/markus_persson_713897?src=t_java",
+        "quote": "Specifically, my favorite tool in Java is hot code swapping in debug mode, meaning I can edit the code while the game is running and immediately see the results in the running game. This is super great for rapid tweaking.",
+        "author": {
+            "name": "Markus Persson",
+            "url": "/authors/markus_persson"
+        },
+        "topics": [
+            {
+                "name": "Game",
+                "url": "/topics/game"
+            },
+            {
+                "name": "Code",
+                "url": "/topics/code"
+            },
+            {
+                "name": "Tweaking",
+                "url": "/topics/tweaking"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/isabella_bird_736057?src=t_java",
+        "quote": "The Malays can hardly be said to have an indigenous literature, for it is almost entirely derived from Persia, Siam, Arabia, and Java. Arabic is their sacred language.",
+        "author": {
+            "name": "Isabella Bird",
+            "url": "/authors/isabella_bird"
+        },
+        "topics": [
+            {
+                "name": "Language",
+                "url": "/topics/language"
+            },
+            {
+                "name": "Almost",
+                "url": "/topics/almost"
+            },
+            {
+                "name": "Entirely",
+                "url": "/topics/entirely"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/guido_van_rossum_242969?src=t_java",
+        "quote": "In my daily work, I work on very large, complex, distributed systems built out of many Python modules and packages. The focus is very similar to what you find, for example, in Java and, in general, in systems programming languages.",
+        "author": {
+            "name": "Guido van Rossum",
+            "url": "/authors/guido_van_rossum"
+        },
+        "topics": [
+            {
+                "name": "Focus",
+                "url": "/topics/focus"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Out",
+                "url": "/topics/out"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/guido_van_rossum_242970?src=t_java",
+        "quote": "Mark Hammond is working in this area, with Windows Scripting Host. It is definitely an area where Python fits almost perfectly. That's quite independent from Java, actually.",
+        "author": {
+            "name": "Guido van Rossum",
+            "url": "/authors/guido_van_rossum"
+        },
+        "topics": [
+            {
+                "name": "Python",
+                "url": "/topics/python"
+            },
+            {
+                "name": "Area",
+                "url": "/topics/area"
+            },
+            {
+                "name": "Perfectly",
+                "url": "/topics/perfectly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/miguel_de_icaza_232396?src=t_java",
+        "quote": "I've never worked with the Java community.",
+        "author": {
+            "name": "Miguel de Icaza",
+            "url": "/authors/miguel_de_icaza"
+        },
+        "topics": [
+            {
+                "name": "Community",
+                "url": "/topics/community"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Worked",
+                "url": "/topics/worked"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brian_behlendorf_649728?src=t_java",
+        "quote": "What's kept Java from being used as widely as possible is there hasn't been an Open Source implementation of it that's gotten really widespread use.",
+        "author": {
+            "name": "Brian Behlendorf",
+            "url": "/authors/brian_behlendorf"
+        },
+        "topics": [
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Gotten",
+                "url": "/topics/gotten"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brian_behlendorf_649729?src=t_java",
+        "quote": "No one wants one language. There are applications when it's appropriate to write something in C rather than in Java. If you want to write something where performance is much more important than extensibility, then you might want to choose C rather than Java.",
+        "author": {
+            "name": "Brian Behlendorf",
+            "url": "/authors/brian_behlendorf"
+        },
+        "topics": [
+            {
+                "name": "Choose",
+                "url": "/topics/choose"
+            },
+            {
+                "name": "Rather",
+                "url": "/topics/rather"
+            },
+            {
+                "name": "Appropriate",
+                "url": "/topics/appropriate"
+            }
+        ]
+    }
+]

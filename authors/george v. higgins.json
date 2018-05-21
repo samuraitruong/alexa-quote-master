@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/george_v_higgins_160534",
+        "quote": "Data is what distinguishes the dilettante from the artist.",
+        "author": {
+            "name": "George V. Higgins",
+            "url": "/quotes/george_v_higgins_160534"
+        },
+        "topics": [
+            {
+                "name": "Artist",
+                "url": "/topics/artist"
+            },
+            {
+                "name": "Data",
+                "url": "/topics/data"
+            },
+            {
+                "name": "Dilettante",
+                "url": "/topics/dilettante"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_v_higgins_114467",
+        "quote": "Egotism: The art of seeing in yourself what others cannot see.",
+        "author": {
+            "name": "George V. Higgins",
+            "url": "/quotes/george_v_higgins_114467"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "See",
+                "url": "/topics/see"
+            },
+            {
+                "name": "Seeing",
+                "url": "/topics/seeing"
+            }
+        ]
+    }
+]

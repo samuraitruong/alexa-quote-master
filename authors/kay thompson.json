@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/kay_thompson_209831",
+        "quote": "You have to eat oatmeal or you'll dry up. Anybody knows that.",
+        "author": {
+            "name": "Kay Thompson",
+            "url": "/quotes/kay_thompson_209831"
+        },
+        "topics": [
+            {
+                "name": "Eat",
+                "url": "/topics/eat"
+            },
+            {
+                "name": "Oatmeal",
+                "url": "/topics/oatmeal"
+            },
+            {
+                "name": "Anybody",
+                "url": "/topics/anybody"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kay_thompson_209829",
+        "quote": "I am Eloise. I am six. I am a city child. I live at The Plaza.",
+        "author": {
+            "name": "Kay Thompson",
+            "url": "/quotes/kay_thompson_209829"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Six",
+                "url": "/topics/six"
+            },
+            {
+                "name": "Plaza",
+                "url": "/topics/plaza"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kay_thompson_209830",
+        "quote": "Getting bored is not allowed.",
+        "author": {
+            "name": "Kay Thompson",
+            "url": "/quotes/kay_thompson_209830"
+        },
+        "topics": [
+            {
+                "name": "Bored",
+                "url": "/topics/bored"
+            },
+            {
+                "name": "Getting",
+                "url": "/topics/getting"
+            },
+            {
+                "name": "Allowed",
+                "url": "/topics/allowed"
+            }
+        ]
+    }
+]

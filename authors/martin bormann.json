@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/martin_bormann_221967",
+        "quote": "Every educated person is a future enemy.",
+        "author": {
+            "name": "Martin Bormann",
+            "url": "/quotes/martin_bormann_221967"
+        },
+        "topics": [
+            {
+                "name": "Education",
+                "url": "/topics/education"
+            },
+            {
+                "name": "Educated",
+                "url": "/topics/educated"
+            },
+            {
+                "name": "Person",
+                "url": "/topics/person"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/martin_bormann_404491",
+        "quote": "Unfortunately this earth is not a fairy-land, but a struggle for life, perfectly natural and therefore extremely harsh.",
+        "author": {
+            "name": "Martin Bormann",
+            "url": "/quotes/martin_bormann_404491"
+        },
+        "topics": [
+            {
+                "name": "Earth",
+                "url": "/topics/earth"
+            },
+            {
+                "name": "Perfectly",
+                "url": "/topics/perfectly"
+            },
+            {
+                "name": "Extremely",
+                "url": "/topics/extremely"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/martin_bormann_221965",
+        "quote": "National Socialism and Christianity are irreconcilable.",
+        "author": {
+            "name": "Martin Bormann",
+            "url": "/quotes/martin_bormann_221965"
+        },
+        "topics": [
+            {
+                "name": "Christianity",
+                "url": "/topics/christianity"
+            },
+            {
+                "name": "National",
+                "url": "/topics/national"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/martin_bormann_221968",
+        "quote": "Films and gramophone records, music, books and buildings show clearly how vigorously a man's life and work go on after his 'death,' whether we feel it or not, whether we are aware of the individual names or not. There is no such thing as death according to our view!",
+        "author": {
+            "name": "Martin Bormann",
+            "url": "/quotes/martin_bormann_221968"
+        },
+        "topics": [
+            {
+                "name": "Death",
+                "url": "/topics/death"
+            },
+            {
+                "name": "Records",
+                "url": "/topics/records"
+            },
+            {
+                "name": "Show",
+                "url": "/topics/show"
+            }
+        ]
+    }
+]

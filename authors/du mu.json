@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/du_mu_387156",
+        "quote": "The skilful employer of men will employ the wise man, the brave man, the covetous man, and the stupid man.",
+        "author": {
+            "name": "Du Mu",
+            "url": "/quotes/du_mu_387156"
+        },
+        "topics": [
+            {
+                "name": "Stupid",
+                "url": "/topics/stupid"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Employ",
+                "url": "/topics/employ"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/du_mu_597491",
+        "quote": "Opportunities multiply as they are seized.",
+        "author": {
+            "name": "Du Mu",
+            "url": "/quotes/du_mu_597491"
+        },
+        "topics": [
+            {
+                "name": "Multiply",
+                "url": "/topics/multiply"
+            },
+            {
+                "name": "Seized",
+                "url": "/topics/seized"
+            }
+        ]
+    }
+]

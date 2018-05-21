@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/edmund_burke_377528?src=t_good_men_to_do_nothing",
+        "quote": "The only thing necessary for the triumph of evil is for good men to do nothing.",
+        "author": {
+            "name": "Edmund Burke",
+            "url": "/authors/edmund_burke"
+        },
+        "topics": [
+            {
+                "name": "Good",
+                "url": "/topics/good"
+            },
+            {
+                "name": "Triumph",
+                "url": "/topics/triumph"
+            },
+            {
+                "name": "Good Men",
+                "url": "/topics/good_men"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/simon_wiesenthal_405090?src=t_good_men_to_do_nothing",
+        "quote": "For evil to flourish, it only requires good men to do nothing.",
+        "author": {
+            "name": "Simon Wiesenthal",
+            "url": "/authors/simon_wiesenthal"
+        },
+        "topics": [
+            {
+                "name": "Men",
+                "url": "/topics/men"
+            },
+            {
+                "name": "Good Men",
+                "url": "/topics/good_men"
+            },
+            {
+                "name": "Flourish",
+                "url": "/topics/flourish"
+            }
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/scott_boman_525497",
+        "quote": "I have been a Ron Paul 'R3VOLutionary' longer than most 'R3VOLutionaries' have been alive!",
+        "author": {
+            "name": "Scott Boman",
+            "url": "/quotes/scott_boman_525497"
+        },
+        "topics": [
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Ron",
+                "url": "/topics/ron"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/scott_boman_525498",
+        "quote": "We have never had a more qualified and capable champion of personal and economic freedom than the 2012 Libertarian Party candidate for President of the United States - Governor Gary Johnson.",
+        "author": {
+            "name": "Scott Boman",
+            "url": "/quotes/scott_boman_525498"
+        },
+        "topics": [
+            {
+                "name": "United States",
+                "url": "/topics/united_states"
+            },
+            {
+                "name": "Qualified",
+                "url": "/topics/qualified"
+            }
+        ]
+    }
+]

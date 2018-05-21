@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/rudolf_diesel_182177",
+        "quote": "The automobile engine will come, and then I will consider my life's work complete.",
+        "author": {
+            "name": "Rudolf Diesel",
+            "url": "/quotes/rudolf_diesel_182177"
+        },
+        "topics": [
+            {
+                "name": "Car",
+                "url": "/topics/car"
+            },
+            {
+                "name": "Automobile",
+                "url": "/topics/automobile"
+            },
+            {
+                "name": "Engine",
+                "url": "/topics/engine"
+            }
+        ]
+    }
+]

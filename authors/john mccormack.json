@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/john_mccormack_187479",
+        "quote": "I live again the days and evenings of my long career. I dream at night of operas and concerts in which I have had my share of success. Now like the old Irish minstrel, I have hung up my harp because my songs are all sung.",
+        "author": {
+            "name": "John McCormack",
+            "url": "/quotes/john_mccormack_187479"
+        },
+        "topics": [
+            {
+                "name": "Career",
+                "url": "/topics/career"
+            },
+            {
+                "name": "Harp",
+                "url": "/topics/harp"
+            },
+            {
+                "name": "Operas",
+                "url": "/topics/operas"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_mccormack_187594",
+        "quote": "I believe that true art is universal in its appeal.",
+        "author": {
+            "name": "John McCormack",
+            "url": "/quotes/john_mccormack_187594"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "True",
+                "url": "/topics/true"
+            },
+            {
+                "name": "True Art",
+                "url": "/topics/true_art"
+            }
+        ]
+    }
+]

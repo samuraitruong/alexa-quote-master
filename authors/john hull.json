@@ -1,0 +1,412 @@
+[
+    {
+        "url": "/quotes/john_hull_299693",
+        "quote": "One important measurement issue concerns the fat tails problem that I mentioned earlier. VAR is concerned with extreme outcomes. If the tails of the probability distributions we are using are too thin, our VAR measures are likely to be too low.",
+        "author": {
+            "name": "John Hull",
+            "url": "/quotes/john_hull_299693"
+        },
+        "topics": [
+            {
+                "name": "Measurement",
+                "url": "/topics/measurement"
+            },
+            {
+                "name": "Concerned",
+                "url": "/topics/concerned"
+            },
+            {
+                "name": "Our",
+                "url": "/topics/our"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_hull_299711",
+        "quote": "Yes, our tree has an interesting shape. The center branches reflect the shape of the zero curve. When extreme parts of the tree are reached the branching pattern changes to accommodate the mean reversion.",
+        "author": {
+            "name": "John Hull",
+            "url": "/quotes/john_hull_299711"
+        },
+        "topics": [
+            {
+                "name": "Yes",
+                "url": "/topics/yes"
+            },
+            {
+                "name": "Shape",
+                "url": "/topics/shape"
+            },
+            {
+                "name": "Curve",
+                "url": "/topics/curve"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_hull_299682",
+        "quote": "Alan White and I spent the next two or three years working together on this. We developed what is known a stochastic volatility model. This is a model where the volatility as well as the underlying asset price moves around in an unpredictable way.",
+        "author": {
+            "name": "John Hull",
+            "url": "/quotes/john_hull_299682"
+        },
+        "topics": [
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            },
+            {
+                "name": "Volatility",
+                "url": "/topics/volatility"
+            },
+            {
+                "name": "Developed",
+                "url": "/topics/developed"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_hull_299683",
+        "quote": "Briefly speaking, our conclusion is that stochastic volatility does not make a huge difference as far as the pricing is concerned if you get the average volatility right. It makes a big difference as far as hedging is concerned.",
+        "author": {
+            "name": "John Hull",
+            "url": "/quotes/john_hull_299683"
+        },
+        "topics": [
+            {
+                "name": "Average",
+                "url": "/topics/average"
+            },
+            {
+                "name": "Huge Difference",
+                "url": "/topics/huge_difference"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_hull_299686",
+        "quote": "I didn't become interested in derivatives until 1982, 1983.",
+        "author": {
+            "name": "John Hull",
+            "url": "/quotes/john_hull_299686"
+        },
+        "topics": [
+            {
+                "name": "Become",
+                "url": "/topics/become"
+            },
+            {
+                "name": "Until",
+                "url": "/topics/until"
+            },
+            {
+                "name": "Derivatives",
+                "url": "/topics/derivatives"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_hull_299687",
+        "quote": "I guess any simple idea that is really good will catch on quickly.",
+        "author": {
+            "name": "John Hull",
+            "url": "/quotes/john_hull_299687"
+        },
+        "topics": [
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Guess",
+                "url": "/topics/guess"
+            },
+            {
+                "name": "Idea",
+                "url": "/topics/idea"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_hull_299690",
+        "quote": "I think VAR is a very healthy development within the industry.",
+        "author": {
+            "name": "John Hull",
+            "url": "/quotes/john_hull_299690"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Development",
+                "url": "/topics/development"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_hull_299691",
+        "quote": "If each of your time steps is one week long, you are not modeling the stock price terribly well over a one-week time period, because you are saying that there are only two possible outcomes.",
+        "author": {
+            "name": "John Hull",
+            "url": "/quotes/john_hull_299691"
+        },
+        "topics": [
+            {
+                "name": "Week",
+                "url": "/topics/week"
+            },
+            {
+                "name": "Modeling",
+                "url": "/topics/modeling"
+            },
+            {
+                "name": "Terribly",
+                "url": "/topics/terribly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_hull_299692",
+        "quote": "In the interest rate area, traders have for a long time used a version of what is known as Black's model for European bond options; another version of the same model for caps and floors; and yet another version of the same model for European swap options.",
+        "author": {
+            "name": "John Hull",
+            "url": "/quotes/john_hull_299692"
+        },
+        "topics": [
+            {
+                "name": "European",
+                "url": "/topics/european"
+            },
+            {
+                "name": "Swap",
+                "url": "/topics/swap"
+            },
+            {
+                "name": "Area",
+                "url": "/topics/area"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_hull_299694",
+        "quote": "Our research led on to other things, such as the fact that exchange rates are not lognormally distributed.",
+        "author": {
+            "name": "John Hull",
+            "url": "/quotes/john_hull_299694"
+        },
+        "topics": [
+            {
+                "name": "Fact",
+                "url": "/topics/fact"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Rates",
+                "url": "/topics/rates"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_hull_299695",
+        "quote": "Our starting point then was trying to find a way to incorporate mean reversion into the HoLee model.",
+        "author": {
+            "name": "John Hull",
+            "url": "/quotes/john_hull_299695"
+        },
+        "topics": [
+            {
+                "name": "Our",
+                "url": "/topics/our"
+            },
+            {
+                "name": "Then",
+                "url": "/topics/then"
+            },
+            {
+                "name": "Incorporate",
+                "url": "/topics/incorporate"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_hull_299696",
+        "quote": "Our tree is actually a tree of the short-term interest rate. The average direction in which the short-term interest rate moves depends on the level of the rate. When the rate is very high, that direction is downward; when the rate is very low, it is upward.",
+        "author": {
+            "name": "John Hull",
+            "url": "/quotes/john_hull_299696"
+        },
+        "topics": [
+            {
+                "name": "Average",
+                "url": "/topics/average"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_hull_299699",
+        "quote": "The HoLee model was the first term structure model. I remember reading their paper soon after it was published and as it was fairly different from many of the other papers that I had read, I had to read it quite a few times. I realized that it was a really important paper.",
+        "author": {
+            "name": "John Hull",
+            "url": "/quotes/john_hull_299699"
+        },
+        "topics": [
+            {
+                "name": "I Remember",
+                "url": "/topics/i_remember"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Had",
+                "url": "/topics/had"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_hull_299700",
+        "quote": "The problem with interest rates are that you are not modeling a single number, you are modeling a whole term structure, so it is a sort of different type of problem.",
+        "author": {
+            "name": "John Hull",
+            "url": "/quotes/john_hull_299700"
+        },
+        "topics": [
+            {
+                "name": "Modeling",
+                "url": "/topics/modeling"
+            },
+            {
+                "name": "Interest Rates",
+                "url": "/topics/interest_rates"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_hull_299701",
+        "quote": "The real challenge was to model all the interest rates simultaneously, so you could value something that depended not only on the three-month interest rate, but on other interest rates as well.",
+        "author": {
+            "name": "John Hull",
+            "url": "/quotes/john_hull_299701"
+        },
+        "topics": [
+            {
+                "name": "Interest Rates",
+                "url": "/topics/interest_rates"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_hull_299703",
+        "quote": "There are challenges in terms of the measurement of VAR for what are known as nonlinear derivatives, where things like gamma and vega are important dimensions of the risk.",
+        "author": {
+            "name": "John Hull",
+            "url": "/quotes/john_hull_299703"
+        },
+        "topics": [
+            {
+                "name": "Challenges",
+                "url": "/topics/challenges"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Nonlinear",
+                "url": "/topics/nonlinear"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_hull_299707",
+        "quote": "We concluded that you cannot rely on delta hedging alone. It sounds simplistic to say that now, but back then, this was the sort of thing people were only just beginning to realize.",
+        "author": {
+            "name": "John Hull",
+            "url": "/quotes/john_hull_299707"
+        },
+        "topics": [
+            {
+                "name": "Beginning",
+                "url": "/topics/beginning"
+            },
+            {
+                "name": "Simplistic",
+                "url": "/topics/simplistic"
+            },
+            {
+                "name": "Delta",
+                "url": "/topics/delta"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_hull_299709",
+        "quote": "We started giving presentations at practitioner conferences in 1986, and since then all of our derivatives research has been stimulated by contact with practitioners.",
+        "author": {
+            "name": "John Hull",
+            "url": "/quotes/john_hull_299709"
+        },
+        "topics": [
+            {
+                "name": "Started",
+                "url": "/topics/started"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Stimulated",
+                "url": "/topics/stimulated"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_hull_299710",
+        "quote": "When interest rates are high you want the average direction in which interest rates are moving to be downward; when interest rates are low you want the average direction to be upward.",
+        "author": {
+            "name": "John Hull",
+            "url": "/quotes/john_hull_299710"
+        },
+        "topics": [
+            {
+                "name": "Average",
+                "url": "/topics/average"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Downward",
+                "url": "/topics/downward"
+            }
+        ]
+    }
+]

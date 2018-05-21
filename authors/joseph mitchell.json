@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/joseph_mitchell_250684",
+        "quote": "My dad was a cotton buyer and cotton buyers always considered themselves superior to the rest of the world.",
+        "author": {
+            "name": "Joseph Mitchell",
+            "url": "/quotes/joseph_mitchell_250684"
+        },
+        "topics": [
+            {
+                "name": "Rest",
+                "url": "/topics/rest"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Superior",
+                "url": "/topics/superior"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joseph_mitchell_250686",
+        "quote": "When I get through tearing a lobster apart, or one of those tender West Coast octopuses, I feel like I had a drink from the fountain of youth.",
+        "author": {
+            "name": "Joseph Mitchell",
+            "url": "/quotes/joseph_mitchell_250686"
+        },
+        "topics": [
+            {
+                "name": "Fountain",
+                "url": "/topics/fountain"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Tender",
+                "url": "/topics/tender"
+            }
+        ]
+    }
+]

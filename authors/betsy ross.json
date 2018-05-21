@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/betsy_ross_228341",
+        "quote": "Today the American knight holds the commercial supremacy of the world.",
+        "author": {
+            "name": "Betsy Ross",
+            "url": "/quotes/betsy_ross_228341"
+        },
+        "topics": [
+            {
+                "name": "Today",
+                "url": "/topics/today"
+            },
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Commercial",
+                "url": "/topics/commercial"
+            }
+        ]
+    }
+]

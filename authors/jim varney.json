@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/jim_varney_221954",
+        "quote": "I'd like to do a piece of Shakespeare. Any upcoming Shakespeare film. Just a bit to say I did a classic.",
+        "author": {
+            "name": "Jim Varney",
+            "url": "/quotes/jim_varney_221954"
+        },
+        "topics": [
+            {
+                "name": "Say",
+                "url": "/topics/say"
+            },
+            {
+                "name": "Film",
+                "url": "/topics/film"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jim_varney_221953",
+        "quote": "I like to sing. I write music. Country songs. You have to if you're in Nashville. It's part of the lease. You sign a lease that says, I will write country songs and pay my rent on time.",
+        "author": {
+            "name": "Jim Varney",
+            "url": "/quotes/jim_varney_221953"
+        },
+        "topics": [
+            {
+                "name": "Nashville",
+                "url": "/topics/nashville"
+            },
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "I Write",
+                "url": "/topics/i_write"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jim_varney_221955",
+        "quote": "I started to do a study on how not to do stand-up comedy. Yeah, it's lonely work. You die, you die alone. It's you, the light, and the audience. If you win, you win big. If you lose, you lose big time.",
+        "author": {
+            "name": "Jim Varney",
+            "url": "/quotes/jim_varney_221955"
+        },
+        "topics": [
+            {
+                "name": "Die",
+                "url": "/topics/die"
+            },
+            {
+                "name": "Study",
+                "url": "/topics/study"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            }
+        ]
+    }
+]

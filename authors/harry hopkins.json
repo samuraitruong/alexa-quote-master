@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/harry_hopkins_200220",
+        "quote": "They are damn good projects - excellent projects. That goes for all the projects up there. You know some people make fun of people who speak a foreign language, and dumb people criticize something they do not understand, and that is what is going on up there - God damn it!",
+        "author": {
+            "name": "Harry Hopkins",
+            "url": "/quotes/harry_hopkins_200220"
+        },
+        "topics": [
+            {
+                "name": "Projects",
+                "url": "/topics/projects"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Dumb People",
+                "url": "/topics/dumb_people"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/harry_hopkins_200221",
+        "quote": "We shall tax and tax, and spend and spend, and elect and elect.",
+        "author": {
+            "name": "Harry Hopkins",
+            "url": "/quotes/harry_hopkins_200221"
+        },
+        "topics": [
+            {
+                "name": "Tax",
+                "url": "/topics/tax"
+            },
+            {
+                "name": "Spend",
+                "url": "/topics/spend"
+            },
+            {
+                "name": "Shall",
+                "url": "/topics/shall"
+            }
+        ]
+    }
+]

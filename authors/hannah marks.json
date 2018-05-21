@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/hannah_marks_563629",
+        "quote": "I'm a vegetarian and change my hair color as much as I can.",
+        "author": {
+            "name": "Hannah Marks",
+            "url": "/quotes/hannah_marks_563629"
+        },
+        "topics": [
+            {
+                "name": "Change",
+                "url": "/topics/change"
+            },
+            {
+                "name": "Color",
+                "url": "/topics/color"
+            },
+            {
+                "name": "Hair",
+                "url": "/topics/hair"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/hannah_marks_563627",
+        "quote": "I like a little bit of punk mixed with a little bit of feminine.",
+        "author": {
+            "name": "Hannah Marks",
+            "url": "/quotes/hannah_marks_563627"
+        },
+        "topics": [
+            {
+                "name": "Feminine",
+                "url": "/topics/feminine"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Punk",
+                "url": "/topics/punk"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/hannah_marks_563628",
+        "quote": "What I wear is constantly evolving. I am really big on comfortable clothes. I love soft, loose-fitting clothing that has some edge or something new/fresh to it.",
+        "author": {
+            "name": "Hannah Marks",
+            "url": "/quotes/hannah_marks_563628"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/hannah_marks_563630",
+        "quote": "Since I'm a vegetarian, I try to focus on getting my protein and iron needs met.",
+        "author": {
+            "name": "Hannah Marks",
+            "url": "/quotes/hannah_marks_563630"
+        },
+        "topics": [
+            {
+                "name": "Protein",
+                "url": "/topics/protein"
+            },
+            {
+                "name": "Needs",
+                "url": "/topics/needs"
+            },
+            {
+                "name": "Getting",
+                "url": "/topics/getting"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/hannah_marks_563631",
+        "quote": "I don't concern myself too much about calories and fat.",
+        "author": {
+            "name": "Hannah Marks",
+            "url": "/quotes/hannah_marks_563631"
+        },
+        "topics": [
+            {
+                "name": "Myself",
+                "url": "/topics/myself"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Too",
+                "url": "/topics/too"
+            }
+        ]
+    }
+]

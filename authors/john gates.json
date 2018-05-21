@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/john_gates_360771",
+        "quote": "Railroads are the primary economic beneficiaries. It's a difficult project for the public sector.",
+        "author": {
+            "name": "John Gates",
+            "url": "/quotes/john_gates_360771"
+        },
+        "topics": [
+            {
+                "name": "Public",
+                "url": "/topics/public"
+            },
+            {
+                "name": "Public Sector",
+                "url": "/topics/public_sector"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_gates_360773",
+        "quote": "When we did the sign outside, we did not do the cigarette or the mug of beer because it was going to be outside. I wasn't sure if the city would object.",
+        "author": {
+            "name": "John Gates",
+            "url": "/quotes/john_gates_360773"
+        },
+        "topics": [
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Cigarette",
+                "url": "/topics/cigarette"
+            },
+            {
+                "name": "Sure",
+                "url": "/topics/sure"
+            }
+        ]
+    }
+]

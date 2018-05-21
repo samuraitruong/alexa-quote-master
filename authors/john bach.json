@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/john_bach_387917",
+        "quote": "Kids love rabbits... they just like them.",
+        "author": {
+            "name": "John Bach",
+            "url": "/quotes/john_bach_387917"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Rabbits",
+                "url": "/topics/rabbits"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_bach_388327",
+        "quote": "Idolatry is really not good for anyone. Not even the idols.",
+        "author": {
+            "name": "John Bach",
+            "url": "/quotes/john_bach_388327"
+        },
+        "topics": [
+            {
+                "name": "Idolatry",
+                "url": "/topics/idolatry"
+            },
+            {
+                "name": "Even",
+                "url": "/topics/even"
+            },
+            {
+                "name": "Anyone",
+                "url": "/topics/anyone"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_bach_194353",
+        "quote": "To the timid soul, nothing is possible.",
+        "author": {
+            "name": "John Bach",
+            "url": "/quotes/john_bach_194353"
+        },
+        "topics": [
+            {
+                "name": "Soul",
+                "url": "/topics/soul"
+            },
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            },
+            {
+                "name": "Timid",
+                "url": "/topics/timid"
+            }
+        ]
+    }
+]

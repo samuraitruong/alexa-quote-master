@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/nelson_bunker_hunt_171835",
+        "quote": "People who know how much they're worth aren't usually worth that much.",
+        "author": {
+            "name": "Nelson Bunker Hunt",
+            "url": "/quotes/nelson_bunker_hunt_171835"
+        },
+        "topics": [
+            {
+                "name": "Know",
+                "url": "/topics/know"
+            },
+            {
+                "name": "How Much",
+                "url": "/topics/how_much"
+            },
+            {
+                "name": "How",
+                "url": "/topics/how"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nelson_bunker_hunt_176038",
+        "quote": "A billion dollars isn't what it used to be.",
+        "author": {
+            "name": "Nelson Bunker Hunt",
+            "url": "/quotes/nelson_bunker_hunt_176038"
+        },
+        "topics": [
+            {
+                "name": "Billion Dollars",
+                "url": "/topics/billion_dollars"
+            },
+            {
+                "name": "Billion",
+                "url": "/topics/billion"
+            }
+        ]
+    }
+]

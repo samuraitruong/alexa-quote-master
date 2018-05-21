@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/jonathan_harris_202112",
+        "quote": "That was the first time ever in history that anybody got Special Guest Star. I started that whole nonsense.",
+        "author": {
+            "name": "Jonathan Harris",
+            "url": "/quotes/jonathan_harris_202112"
+        },
+        "topics": [
+            {
+                "name": "Star",
+                "url": "/topics/star"
+            },
+            {
+                "name": "Anybody",
+                "url": "/topics/anybody"
+            },
+            {
+                "name": "Guest Star",
+                "url": "/topics/guest_star"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jonathan_harris_202113",
+        "quote": "I wish you well and I hope it will be a huge hit, because that would be very good for me. And if, God forbid, it's a terrible flop, well that would be very good for me.",
+        "author": {
+            "name": "Jonathan Harris",
+            "url": "/quotes/jonathan_harris_202113"
+        },
+        "topics": [
+            {
+                "name": "I Wish",
+                "url": "/topics/i_wish"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    }
+]

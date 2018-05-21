@@ -1,0 +1,104 @@
+[
+    {
+        "url": "/quotes/w_mark_felt_250100",
+        "quote": "I have to do this my way.",
+        "author": {
+            "name": "W. Mark Felt",
+            "url": "/quotes/w_mark_felt_250100"
+        },
+        "topics": [
+            {
+                "name": "Way",
+                "url": "/topics/way"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/w_mark_felt_250102",
+        "quote": "I'm the guy they used to call Deep Throat.",
+        "author": {
+            "name": "W. Mark Felt",
+            "url": "/quotes/w_mark_felt_250102"
+        },
+        "topics": [
+            {
+                "name": "Deep",
+                "url": "/topics/deep"
+            },
+            {
+                "name": "Call",
+                "url": "/topics/call"
+            },
+            {
+                "name": "Throat",
+                "url": "/topics/throat"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/w_mark_felt_380791",
+        "quote": "The Bureau doesn't have any secret files.",
+        "author": {
+            "name": "W. Mark Felt",
+            "url": "/quotes/w_mark_felt_380791"
+        },
+        "topics": [
+            {
+                "name": "Secret",
+                "url": "/topics/secret"
+            },
+            {
+                "name": "Files",
+                "url": "/topics/files"
+            },
+            {
+                "name": "Bureau",
+                "url": "/topics/bureau"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/w_mark_felt_381927",
+        "quote": "I haven't leaked anything to anybody. They are wrong!",
+        "author": {
+            "name": "W. Mark Felt",
+            "url": "/quotes/w_mark_felt_381927"
+        },
+        "topics": [
+            {
+                "name": "Anybody",
+                "url": "/topics/anybody"
+            },
+            {
+                "name": "Anything",
+                "url": "/topics/anything"
+            },
+            {
+                "name": "Leaked",
+                "url": "/topics/leaked"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/w_mark_felt_381928",
+        "quote": "I never leaked information to Woodward and Bernstein or anyone else!",
+        "author": {
+            "name": "W. Mark Felt",
+            "url": "/quotes/w_mark_felt_381928"
+        },
+        "topics": [
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Anyone",
+                "url": "/topics/anyone"
+            },
+            {
+                "name": "Else",
+                "url": "/topics/else"
+            }
+        ]
+    }
+]

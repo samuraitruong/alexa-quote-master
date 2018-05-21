@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/andy_coulson_666365",
+        "quote": "Nothing beats a private visit to Number Ten or Chequers to take the wind out of rebellious sails.",
+        "author": {
+            "name": "Andy Coulson",
+            "url": "/quotes/andy_coulson_666365"
+        },
+        "topics": [
+            {
+                "name": "Sails",
+                "url": "/topics/sails"
+            },
+            {
+                "name": "Take",
+                "url": "/topics/take"
+            },
+            {
+                "name": "Number",
+                "url": "/topics/number"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/andy_coulson_666366",
+        "quote": "Sam Cameron has managed the near impossible: to have lived in Number Ten for three years and maintained a benign and broadly positive press.",
+        "author": {
+            "name": "Andy Coulson",
+            "url": "/quotes/andy_coulson_666366"
+        },
+        "topics": [
+            {
+                "name": "Impossible",
+                "url": "/topics/impossible"
+            },
+            {
+                "name": "Three",
+                "url": "/topics/three"
+            },
+            {
+                "name": "Cameron",
+                "url": "/topics/cameron"
+            }
+        ]
+    }
+]

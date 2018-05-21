@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/terry_venables_140417",
+        "quote": "If history is going to repeat itself I should think we can expect the same thing again.",
+        "author": {
+            "name": "Terry Venables",
+            "url": "/quotes/terry_venables_140417"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Same Thing",
+                "url": "/topics/same_thing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/terry_venables_140436",
+        "quote": "If you can't stand the heat in the dressing room, get out of the kitchen.",
+        "author": {
+            "name": "Terry Venables",
+            "url": "/quotes/terry_venables_140436"
+        },
+        "topics": [
+            {
+                "name": "Heat",
+                "url": "/topics/heat"
+            },
+            {
+                "name": "Dressing Room",
+                "url": "/topics/dressing_room"
+            },
+            {
+                "name": "Get",
+                "url": "/topics/get"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/arthur_frank_burns_207583",
+        "quote": "Spontaneity has its time and its place.",
+        "author": {
+            "name": "Arthur Frank Burns",
+            "url": "/quotes/arthur_frank_burns_207583"
+        },
+        "topics": [
+            {
+                "name": "Time",
+                "url": "/topics/time"
+            },
+            {
+                "name": "Place",
+                "url": "/topics/place"
+            },
+            {
+                "name": "Spontaneity",
+                "url": "/topics/spontaneity"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/arthur_frank_burns_207584",
+        "quote": "We all know it's brutal up there at the front, especially those of us at the rear.",
+        "author": {
+            "name": "Arthur Frank Burns",
+            "url": "/quotes/arthur_frank_burns_207584"
+        },
+        "topics": [
+            {
+                "name": "Know",
+                "url": "/topics/know"
+            },
+            {
+                "name": "Brutal",
+                "url": "/topics/brutal"
+            },
+            {
+                "name": "Rear",
+                "url": "/topics/rear"
+            }
+        ]
+    }
+]

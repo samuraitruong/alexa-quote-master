@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/ignacy_jan_paderewski_347057",
+        "quote": "You are a dear soul who plays polo, and I am a poor Pole who plays solo.",
+        "author": {
+            "name": "Ignacy Jan Paderewski",
+            "url": "/quotes/ignacy_jan_paderewski_347057"
+        },
+        "topics": [
+            {
+                "name": "Soul",
+                "url": "/topics/soul"
+            },
+            {
+                "name": "Solo",
+                "url": "/topics/solo"
+            },
+            {
+                "name": "Plays",
+                "url": "/topics/plays"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ignacy_jan_paderewski_350502",
+        "quote": "I established a certain standard of behavior, that, during my playing, there must be no talking.",
+        "author": {
+            "name": "Ignacy Jan Paderewski",
+            "url": "/quotes/ignacy_jan_paderewski_350502"
+        },
+        "topics": [
+            {
+                "name": "Standard",
+                "url": "/topics/standard"
+            },
+            {
+                "name": "Established",
+                "url": "/topics/established"
+            },
+            {
+                "name": "Must",
+                "url": "/topics/must"
+            }
+        ]
+    }
+]

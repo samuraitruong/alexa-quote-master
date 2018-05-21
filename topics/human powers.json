@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/henry_clay_386646?src=t_human_powers",
+        "quote": "Of all human powers operating on the affairs of mankind, none is greater than that of competition.",
+        "author": {
+            "name": "Henry Clay",
+            "url": "/authors/henry_clay"
+        },
+        "topics": [
+            {
+                "name": "Competition",
+                "url": "/topics/competition"
+            },
+            {
+                "name": "Mankind",
+                "url": "/topics/mankind"
+            },
+            {
+                "name": "Than",
+                "url": "/topics/than"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sheldon_whitehouse_532444?src=t_human_powers",
+        "quote": "If we believe in an all-powerful God, then we must then believe that God gave us this Earth, and we must in turn believe that God gave us its laws of gravity, of chemistry, of physics. We must also believe that God gave us our human powers of intellect and reason.",
+        "author": {
+            "name": "Sheldon Whitehouse",
+            "url": "/authors/sheldon_whitehouse"
+        },
+        "topics": [
+            {
+                "name": "Chemistry",
+                "url": "/topics/chemistry"
+            },
+            {
+                "name": "Reason",
+                "url": "/topics/reason"
+            },
+            {
+                "name": "Laws",
+                "url": "/topics/laws"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/samuel_johnson_162772?src=t_human_powers",
+        "quote": "Everything that enlarges the sphere of human powers, that shows man he can do what he thought he could not do, is valuable.",
+        "author": {
+            "name": "Samuel Johnson",
+            "url": "/authors/samuel_johnson"
+        },
+        "topics": [
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Shows",
+                "url": "/topics/shows"
+            },
+            {
+                "name": "Sphere",
+                "url": "/topics/sphere"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ron_wyden_447994?src=t_human_powers",
+        "quote": "Until relatively recently, law enforcement's ability to determine an individual's location and track their movements was largely limited to natural human powers of observation.",
+        "author": {
+            "name": "Ron Wyden",
+            "url": "/authors/ron_wyden"
+        },
+        "topics": [
+            {
+                "name": "Law",
+                "url": "/topics/law"
+            },
+            {
+                "name": "Individual",
+                "url": "/topics/individual"
+            },
+            {
+                "name": "Determine",
+                "url": "/topics/determine"
+            }
+        ]
+    }
+]

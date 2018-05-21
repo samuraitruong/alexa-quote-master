@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/sunny_murray_202633",
+        "quote": "I was able to interpret the difference between the sharp, quick sound and the slow, deep sound of percussion and manipulate it, get a third sound out of things, if the beats were rapid enough.",
+        "author": {
+            "name": "Sunny Murray",
+            "url": "/quotes/sunny_murray_202633"
+        },
+        "topics": [
+            {
+                "name": "Deep",
+                "url": "/topics/deep"
+            },
+            {
+                "name": "Sound",
+                "url": "/topics/sound"
+            },
+            {
+                "name": "Quick",
+                "url": "/topics/quick"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sunny_murray_202628",
+        "quote": "And when I play they know I exist, and it leaves a space when I go.",
+        "author": {
+            "name": "Sunny Murray",
+            "url": "/quotes/sunny_murray_202628"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Exist",
+                "url": "/topics/exist"
+            },
+            {
+                "name": "Leaves",
+                "url": "/topics/leaves"
+            }
+        ]
+    }
+]

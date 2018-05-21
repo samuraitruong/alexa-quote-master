@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/ananda_krishnan_681146",
+        "quote": "I have heard some people say I have a low profile. Why should somebody be high profile, anyway? I am just doing my job.",
+        "author": {
+            "name": "Ananda Krishnan",
+            "url": "/quotes/ananda_krishnan_681146"
+        },
+        "topics": [
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Profile",
+                "url": "/topics/profile"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ananda_krishnan_681147",
+        "quote": "In Asia, personal relationships are important, but you cannot personalise diplomacy.",
+        "author": {
+            "name": "Ananda Krishnan",
+            "url": "/quotes/ananda_krishnan_681147"
+        },
+        "topics": [
+            {
+                "name": "Important",
+                "url": "/topics/important"
+            },
+            {
+                "name": "Relationships",
+                "url": "/topics/relationships"
+            }
+        ]
+    }
+]

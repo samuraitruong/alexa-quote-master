@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/lyman_trumbull_316995",
+        "quote": "The bill neither confers nor abridges the rights of anyone but simply declares that in civil rights there shall be equality among all classes of citizens and that all alike shall be subject to the same punishment.",
+        "author": {
+            "name": "Lyman Trumbull",
+            "url": "/quotes/lyman_trumbull_316995"
+        },
+        "topics": [
+            {
+                "name": "Subject",
+                "url": "/topics/subject"
+            },
+            {
+                "name": "Classes",
+                "url": "/topics/classes"
+            },
+            {
+                "name": "Bill",
+                "url": "/topics/bill"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lyman_trumbull_316993",
+        "quote": "Each state, so that it does not abridge the great fundamental rights belonging, under the Constitution, to all citizens, may grant or withhold such civil rights as it pleases; all that is required is that, in this respect, its laws shall be impartial.",
+        "author": {
+            "name": "Lyman Trumbull",
+            "url": "/quotes/lyman_trumbull_316993"
+        },
+        "topics": [
+            {
+                "name": "Constitution",
+                "url": "/topics/constitution"
+            },
+            {
+                "name": "Fundamental",
+                "url": "/topics/fundamental"
+            }
+        ]
+    }
+]

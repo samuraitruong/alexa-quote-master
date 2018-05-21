@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/charles_luckman_101797",
+        "quote": "Success is that old ABC - ability, breaks, and courage.",
+        "author": {
+            "name": "Charles Luckman",
+            "url": "/quotes/charles_luckman_101797"
+        },
+        "topics": [
+            {
+                "name": "Success",
+                "url": "/topics/success"
+            },
+            {
+                "name": "Success Is",
+                "url": "/topics/success_is"
+            },
+            {
+                "name": "ABC",
+                "url": "/topics/abc"
+            }
+        ]
+    }
+]

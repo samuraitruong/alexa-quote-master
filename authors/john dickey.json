@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/john_dickey_403694",
+        "quote": "To create the power of competence without creating a corresponding direction to guide the use of that power is bad education.",
+        "author": {
+            "name": "John Dickey",
+            "url": "/quotes/john_dickey_403694"
+        },
+        "topics": [
+            {
+                "name": "Education",
+                "url": "/topics/education"
+            },
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            },
+            {
+                "name": "Competence",
+                "url": "/topics/competence"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_dickey_400144",
+        "quote": "The end of education is to see men made whole, both in competence and in conscience.",
+        "author": {
+            "name": "John Dickey",
+            "url": "/quotes/john_dickey_400144"
+        },
+        "topics": [
+            {
+                "name": "Education",
+                "url": "/topics/education"
+            },
+            {
+                "name": "See",
+                "url": "/topics/see"
+            },
+            {
+                "name": "Competence",
+                "url": "/topics/competence"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_dickey_111802",
+        "quote": "There is no more vulnerable human combination than an undergraduate.",
+        "author": {
+            "name": "John Dickey",
+            "url": "/quotes/john_dickey_111802"
+        },
+        "topics": [
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Than",
+                "url": "/topics/than"
+            },
+            {
+                "name": "Vulnerable",
+                "url": "/topics/vulnerable"
+            }
+        ]
+    }
+]

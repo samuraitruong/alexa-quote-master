@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/john_gielgud_113479",
+        "quote": "Acting is half shame, half glory. Shame at exhibiting yourself, glory when you can forget yourself.",
+        "author": {
+            "name": "John Gielgud",
+            "url": "/quotes/john_gielgud_113479"
+        },
+        "topics": [
+            {
+                "name": "Forget",
+                "url": "/topics/forget"
+            },
+            {
+                "name": "Shame",
+                "url": "/topics/shame"
+            },
+            {
+                "name": "Half",
+                "url": "/topics/half"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_gielgud_119913",
+        "quote": "Before you can do something you must first be something.",
+        "author": {
+            "name": "John Gielgud",
+            "url": "/quotes/john_gielgud_119913"
+        },
+        "topics": [
+            {
+                "name": "You",
+                "url": "/topics/you"
+            },
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            },
+            {
+                "name": "Must",
+                "url": "/topics/must"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_gielgud_113480",
+        "quote": "Your English style will no doubt put all the other gentlemen to bed. I speak figuratively, of course.",
+        "author": {
+            "name": "John Gielgud",
+            "url": "/quotes/john_gielgud_113480"
+        },
+        "topics": [
+            {
+                "name": "Bed",
+                "url": "/topics/bed"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    }
+]

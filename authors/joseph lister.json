@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/joseph_lister_825214",
+        "quote": "If a man is not to take advantage of the opportunities that present themselves to him, what is he to do, or what is he good for?",
+        "author": {
+            "name": "Joseph Lister",
+            "url": "/quotes/joseph_lister_825214"
+        },
+        "topics": [
+            {
+                "name": "Take",
+                "url": "/topics/take"
+            },
+            {
+                "name": "Advantage",
+                "url": "/topics/advantage"
+            },
+            {
+                "name": "Themselves",
+                "url": "/topics/themselves"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joseph_lister_312146",
+        "quote": "I am a believer in the fundamental doctrines of Christianity.",
+        "author": {
+            "name": "Joseph Lister",
+            "url": "/quotes/joseph_lister_312146"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Christianity",
+                "url": "/topics/christianity"
+            },
+            {
+                "name": "Believer",
+                "url": "/topics/believer"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/al_hirschfeld_176469",
+        "quote": "Artists are just children who refuse to put down their crayons.",
+        "author": {
+            "name": "Al Hirschfeld",
+            "url": "/quotes/al_hirschfeld_176469"
+        },
+        "topics": [
+            {
+                "name": "Children",
+                "url": "/topics/children"
+            },
+            {
+                "name": "Refuse",
+                "url": "/topics/refuse"
+            },
+            {
+                "name": "Artists",
+                "url": "/topics/artists"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/al_hirschfeld_176468",
+        "quote": "Life isn't a science. We make it up as we go.",
+        "author": {
+            "name": "Al Hirschfeld",
+            "url": "/quotes/al_hirschfeld_176468"
+        },
+        "topics": [
+            {
+                "name": "Science",
+                "url": "/topics/science"
+            },
+            {
+                "name": "Go",
+                "url": "/topics/go"
+            },
+            {
+                "name": "Up",
+                "url": "/topics/up"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/al_hirschfeld_409038",
+        "quote": "You always feel the drawing you are working on is the best you've ever done... I am only interested in the present.",
+        "author": {
+            "name": "Al Hirschfeld",
+            "url": "/quotes/al_hirschfeld_409038"
+        },
+        "topics": [
+            {
+                "name": "Best",
+                "url": "/topics/best"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Feel",
+                "url": "/topics/feel"
+            }
+        ]
+    }
+]

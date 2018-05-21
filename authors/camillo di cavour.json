@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/camillo_di_cavour_312051",
+        "quote": "I have discovered the art of deceiving diplomats. I tell them the truth and they never believe me.",
+        "author": {
+            "name": "Camillo di Cavour",
+            "url": "/quotes/camillo_di_cavour_312051"
+        },
+        "topics": [
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Deceiving",
+                "url": "/topics/deceiving"
+            },
+            {
+                "name": "Discovered",
+                "url": "/topics/discovered"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/camillo_di_cavour_391715",
+        "quote": "The man who trusts men will make fewer mistakes than he who distrusts them.",
+        "author": {
+            "name": "Camillo di Cavour",
+            "url": "/quotes/camillo_di_cavour_391715"
+        },
+        "topics": [
+            {
+                "name": "Men",
+                "url": "/topics/men"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Trusts",
+                "url": "/topics/trusts"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/camillo_di_cavour_387742",
+        "quote": "Lotteries, a tax upon imbeciles.",
+        "author": {
+            "name": "Camillo di Cavour",
+            "url": "/quotes/camillo_di_cavour_387742"
+        },
+        "topics": [
+            {
+                "name": "Tax",
+                "url": "/topics/tax"
+            },
+            {
+                "name": "Imbeciles",
+                "url": "/topics/imbeciles"
+            }
+        ]
+    }
+]

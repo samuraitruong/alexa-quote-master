@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/robert_a_m_stern_114060",
+        "quote": "Our greatest responsibility is not to be pencils of the past.",
+        "author": {
+            "name": "Robert A. M. Stern",
+            "url": "/quotes/robert_a_m_stern_114060"
+        },
+        "topics": [
+            {
+                "name": "Responsibility",
+                "url": "/topics/responsibility"
+            },
+            {
+                "name": "Our",
+                "url": "/topics/our"
+            },
+            {
+                "name": "Pencils",
+                "url": "/topics/pencils"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_a_m_stern_162406",
+        "quote": "The dialogue between client and architect is about as intimate as any conversation you can have, because when you're talking about building a house, you're talking about dreams.",
+        "author": {
+            "name": "Robert A. M. Stern",
+            "url": "/quotes/robert_a_m_stern_162406"
+        },
+        "topics": [
+            {
+                "name": "Architecture",
+                "url": "/topics/architecture"
+            },
+            {
+                "name": "Architect",
+                "url": "/topics/architect"
+            }
+        ]
+    }
+]

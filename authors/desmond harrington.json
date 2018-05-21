@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/desmond_harrington_221306",
+        "quote": "The sun's going down and we can't afford to come back to it tomorrow.",
+        "author": {
+            "name": "Desmond Harrington",
+            "url": "/quotes/desmond_harrington_221306"
+        },
+        "topics": [
+            {
+                "name": "Tomorrow",
+                "url": "/topics/tomorrow"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Afford",
+                "url": "/topics/afford"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/desmond_harrington_221307",
+        "quote": "It's a job and we're going to work together for six months, so let's have a good time.",
+        "author": {
+            "name": "Desmond Harrington",
+            "url": "/quotes/desmond_harrington_221307"
+        },
+        "topics": [
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Six",
+                "url": "/topics/six"
+            },
+            {
+                "name": "Months",
+                "url": "/topics/months"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/desmond_harrington_221308",
+        "quote": "That's probably a problem for some people in this business, they don't like to listen.",
+        "author": {
+            "name": "Desmond Harrington",
+            "url": "/quotes/desmond_harrington_221308"
+        },
+        "topics": [
+            {
+                "name": "Business",
+                "url": "/topics/business"
+            },
+            {
+                "name": "Problem",
+                "url": "/topics/problem"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/desmond_harrington_390921",
+        "quote": "There is no original sin. You don't have to pay repentance to anything or anybody.",
+        "author": {
+            "name": "Desmond Harrington",
+            "url": "/quotes/desmond_harrington_390921"
+        },
+        "topics": [
+            {
+                "name": "Sin",
+                "url": "/topics/sin"
+            },
+            {
+                "name": "Original",
+                "url": "/topics/original"
+            },
+            {
+                "name": "Anybody",
+                "url": "/topics/anybody"
+            }
+        ]
+    }
+]

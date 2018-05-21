@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/douglas_reed_202220",
+        "quote": "It looked like a pagan banner planted on a Christian rampart.",
+        "author": {
+            "name": "Douglas Reed",
+            "url": "/quotes/douglas_reed_202220"
+        },
+        "topics": [
+            {
+                "name": "Pagan",
+                "url": "/topics/pagan"
+            },
+            {
+                "name": "Rampart",
+                "url": "/topics/rampart"
+            },
+            {
+                "name": "Looked",
+                "url": "/topics/looked"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/douglas_reed_202222",
+        "quote": "He thinks with regret of the great days when he could at harvest time at least go down into Hungary and work on the big estates and bring back, as his wage, a side of bacon for the winter. That was wealth, to him.",
+        "author": {
+            "name": "Douglas Reed",
+            "url": "/quotes/douglas_reed_202222"
+        },
+        "topics": [
+            {
+                "name": "Regret",
+                "url": "/topics/regret"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Estates",
+                "url": "/topics/estates"
+            }
+        ]
+    }
+]

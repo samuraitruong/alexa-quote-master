@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/simon_reuben_434173",
+        "quote": "I can't read a computer screen and never use a calculator. It's all in my head and by hand.",
+        "author": {
+            "name": "Simon Reuben",
+            "url": "/quotes/simon_reuben_434173"
+        },
+        "topics": [
+            {
+                "name": "Calculator",
+                "url": "/topics/calculator"
+            },
+            {
+                "name": "Read",
+                "url": "/topics/read"
+            },
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/simon_reuben_434172",
+        "quote": "If you can't make 40% on your money in Russia, you're a fool.",
+        "author": {
+            "name": "Simon Reuben",
+            "url": "/quotes/simon_reuben_434172"
+        },
+        "topics": [
+            {
+                "name": "Money",
+                "url": "/topics/money"
+            },
+            {
+                "name": "Fool",
+                "url": "/topics/fool"
+            },
+            {
+                "name": "Russia",
+                "url": "/topics/russia"
+            }
+        ]
+    }
+]

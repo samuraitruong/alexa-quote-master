@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/jemima_west_562157",
+        "quote": "I remember being a student, and I would go every Friday to the Louvre and stay for ages, just walking around.",
+        "author": {
+            "name": "Jemima West",
+            "url": "/quotes/jemima_west_562157"
+        },
+        "topics": [
+            {
+                "name": "Student",
+                "url": "/topics/student"
+            },
+            {
+                "name": "Go",
+                "url": "/topics/go"
+            },
+            {
+                "name": "I Remember",
+                "url": "/topics/i_remember"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jemima_west_562156",
+        "quote": "I'm completely English, but I grew up in Paris and went to school here. My parents moved when I was five.",
+        "author": {
+            "name": "Jemima West",
+            "url": "/quotes/jemima_west_562156"
+        },
+        "topics": [
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            },
+            {
+                "name": "Moved",
+                "url": "/topics/moved"
+            },
+            {
+                "name": "Grew",
+                "url": "/topics/grew"
+            }
+        ]
+    }
+]

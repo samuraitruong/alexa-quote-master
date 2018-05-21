@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/richard_berry_326107",
+        "quote": "There is no magic. There is no secret. You need your sleep. A lot of our society tries to get by, but the truth is it is up to each individual to get their optimal sleep amount. If you get less than that you can get by temporarily, but it's only temporary.",
+        "author": {
+            "name": "Richard Berry",
+            "url": "/quotes/richard_berry_326107"
+        },
+        "topics": [
+            {
+                "name": "Magic",
+                "url": "/topics/magic"
+            },
+            {
+                "name": "Temporary",
+                "url": "/topics/temporary"
+            },
+            {
+                "name": "Tries",
+                "url": "/topics/tries"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/richard_berry_234089",
+        "quote": "If I told you the words, you wouldn't believe them anyway.",
+        "author": {
+            "name": "Richard Berry",
+            "url": "/quotes/richard_berry_234089"
+        },
+        "topics": [
+            {
+                "name": "Words",
+                "url": "/topics/words"
+            },
+            {
+                "name": "Believe",
+                "url": "/topics/believe"
+            },
+            {
+                "name": "Them",
+                "url": "/topics/them"
+            }
+        ]
+    }
+]

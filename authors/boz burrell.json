@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/boz_burrell_388192",
+        "quote": "I wouldn't call myself a dinosaur.",
+        "author": {
+            "name": "Boz Burrell",
+            "url": "/quotes/boz_burrell_388192"
+        },
+        "topics": [
+            {
+                "name": "Myself",
+                "url": "/topics/myself"
+            },
+            {
+                "name": "Dinosaur",
+                "url": "/topics/dinosaur"
+            },
+            {
+                "name": "Call",
+                "url": "/topics/call"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/boz_burrell_394237",
+        "quote": "I've been to two stadium gigs in my life. One was James Brown and the other was Pink Floyd. They both sounded the same. I couldn't tell the difference between James Brown and Pink Floyd. I've never liked stadiums.",
+        "author": {
+            "name": "Boz Burrell",
+            "url": "/quotes/boz_burrell_394237"
+        },
+        "topics": [
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    }
+]

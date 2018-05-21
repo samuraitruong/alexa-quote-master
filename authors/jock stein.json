@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/jock_stein_318907",
+        "quote": "I'd far rather talk about players. They are the people who make things happen.",
+        "author": {
+            "name": "Jock Stein",
+            "url": "/quotes/jock_stein_318907"
+        },
+        "topics": [
+            {
+                "name": "Happen",
+                "url": "/topics/happen"
+            },
+            {
+                "name": "Players",
+                "url": "/topics/players"
+            },
+            {
+                "name": "Rather",
+                "url": "/topics/rather"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jock_stein_318908",
+        "quote": "There is always a time to move on.",
+        "author": {
+            "name": "Jock Stein",
+            "url": "/quotes/jock_stein_318908"
+        },
+        "topics": [
+            {
+                "name": "Move On",
+                "url": "/topics/move_on"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Move",
+                "url": "/topics/move"
+            }
+        ]
+    }
+]

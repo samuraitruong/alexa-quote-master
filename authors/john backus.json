@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/john_backus_221590",
+        "quote": "They don't like thinking in medical school. They memorize - that's all they want you to do. You must not think.",
+        "author": {
+            "name": "John Backus",
+            "url": "/quotes/john_backus_221590"
+        },
+        "topics": [
+            {
+                "name": "Medical",
+                "url": "/topics/medical"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_backus_397853",
+        "quote": "Much of my work has come from being lazy.",
+        "author": {
+            "name": "John Backus",
+            "url": "/quotes/john_backus_397853"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Lazy",
+                "url": "/topics/lazy"
+            },
+            {
+                "name": "Being Lazy",
+                "url": "/topics/being_lazy"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_backus_396144",
+        "quote": "You need the willingness to fail all the time.",
+        "author": {
+            "name": "John Backus",
+            "url": "/quotes/john_backus_396144"
+        },
+        "topics": [
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            },
+            {
+                "name": "Fail",
+                "url": "/topics/fail"
+            },
+            {
+                "name": "Willingness",
+                "url": "/topics/willingness"
+            }
+        ]
+    }
+]

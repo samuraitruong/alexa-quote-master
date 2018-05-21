@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/alexander_karp_710269",
+        "quote": "One of the things I find really hard and view as a massive drag... is that I'm losing my ability to be completely anonymous.",
+        "author": {
+            "name": "Alexander Karp",
+            "url": "/quotes/alexander_karp_710269"
+        },
+        "topics": [
+            {
+                "name": "One Of The Things",
+                "url": "/topics/one_of_the_things"
+            },
+            {
+                "name": "Really",
+                "url": "/topics/really"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alexander_karp_710270",
+        "quote": "We have to find places that we protect away from government so that we can all be the unique and interesting and, in my case, somewhat deviant people we'd like to be.",
+        "author": {
+            "name": "Alexander Karp",
+            "url": "/quotes/alexander_karp_710270"
+        },
+        "topics": [
+            {
+                "name": "Interesting",
+                "url": "/topics/interesting"
+            },
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    }
+]

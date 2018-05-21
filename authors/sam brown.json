@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/sam_brown_108882",
+        "quote": "Never offend people with style when you can offend them with substance.",
+        "author": {
+            "name": "Sam Brown",
+            "url": "/quotes/sam_brown_108882"
+        },
+        "topics": [
+            {
+                "name": "Style",
+                "url": "/topics/style"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Substance",
+                "url": "/topics/substance"
+            }
+        ]
+    }
+]

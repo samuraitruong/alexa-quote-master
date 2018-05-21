@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/simon_the_zealot_120827",
+        "quote": "The golden age is before us, not behind us.",
+        "author": {
+            "name": "Simon the Zealot",
+            "url": "/quotes/simon_the_zealot_120827"
+        },
+        "topics": [
+            {
+                "name": "Behind",
+                "url": "/topics/behind"
+            },
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            },
+            {
+                "name": "Golden Age",
+                "url": "/topics/golden_age"
+            }
+        ]
+    }
+]

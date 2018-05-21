@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/ray_dolby_211869",
+        "quote": "Inventing is a skill that some people have and some people don't. But you can learn how to invent.",
+        "author": {
+            "name": "Ray Dolby",
+            "url": "/quotes/ray_dolby_211869"
+        },
+        "topics": [
+            {
+                "name": "Learn",
+                "url": "/topics/learn"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "How",
+                "url": "/topics/how"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ray_dolby_211870",
+        "quote": "I think a lot of developments start with the desire of the developer to get what he really wants so that he can use it. It's not just the technical fascination or the business opportunity.",
+        "author": {
+            "name": "Ray Dolby",
+            "url": "/quotes/ray_dolby_211870"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Developments",
+                "url": "/topics/developments"
+            }
+        ]
+    }
+]

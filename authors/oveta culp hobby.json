@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/oveta_culp_hobby_639971",
+        "quote": "Everything that ever happened to me fell in my lap.",
+        "author": {
+            "name": "Oveta Culp Hobby",
+            "url": "/quotes/oveta_culp_hobby_639971"
+        },
+        "topics": [
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Ever",
+                "url": "/topics/ever"
+            },
+            {
+                "name": "Fell",
+                "url": "/topics/fell"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/oveta_culp_hobby_639972",
+        "quote": "Twenty is a wonderful age for things to be sparked.",
+        "author": {
+            "name": "Oveta Culp Hobby",
+            "url": "/quotes/oveta_culp_hobby_639972"
+        },
+        "topics": [
+            {
+                "name": "Age",
+                "url": "/topics/age"
+            },
+            {
+                "name": "Wonderful",
+                "url": "/topics/wonderful"
+            },
+            {
+                "name": "Things",
+                "url": "/topics/things"
+            }
+        ]
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/douglas_brunt_826242?src=t_new_years_eve",
+        "quote": "I've seen terrorism close up, but I don't live in a state of terror at all. I'm comfortable going to the Manhattan Thanksgiving Day Parade, the tree lighting at Rockefeller Center, Times Square on New Years Eve. For perspective, the world today is a safer place than it was during the Cuban Missile Crisis, the Berlin Airlift, World War II.",
+        "author": {
+            "name": "Douglas Brunt",
+            "url": "/authors/douglas_brunt"
+        },
+        "topics": [
+            {
+                "name": "Parade",
+                "url": "/topics/parade"
+            },
+            {
+                "name": "World War",
+                "url": "/topics/world_war"
+            },
+            {
+                "name": "Safer",
+                "url": "/topics/safer"
+            }
+        ]
+    }
+]

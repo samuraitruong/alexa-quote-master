@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/joel_chandler_harris_205633",
+        "quote": "I am in the prime of my senility.",
+        "author": {
+            "name": "Joel Chandler Harris",
+            "url": "/quotes/joel_chandler_harris_205633"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Prime",
+                "url": "/topics/prime"
+            },
+            {
+                "name": "Senility",
+                "url": "/topics/senility"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joel_chandler_harris_205636",
+        "quote": "Watch out when you're getting all you want. Fattening hogs ain't in luck.",
+        "author": {
+            "name": "Joel Chandler Harris",
+            "url": "/quotes/joel_chandler_harris_205636"
+        },
+        "topics": [
+            {
+                "name": "Getting",
+                "url": "/topics/getting"
+            },
+            {
+                "name": "Fattening",
+                "url": "/topics/fattening"
+            },
+            {
+                "name": "Hogs",
+                "url": "/topics/hogs"
+            }
+        ]
+    }
+]

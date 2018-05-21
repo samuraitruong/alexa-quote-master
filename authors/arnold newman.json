@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/arnold_newman_141175",
+        "quote": "Photography, as we all know, is not real at all. It is an illusion of reality with which we create our own private world.",
+        "author": {
+            "name": "Arnold Newman",
+            "url": "/quotes/arnold_newman_141175"
+        },
+        "topics": [
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Private",
+                "url": "/topics/private"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/arnold_newman_169863",
+        "quote": "Visual ideas combined with technology combined with personal interpretation equals photography. Each must hold it's own; if it doesn't, the thing collapses.",
+        "author": {
+            "name": "Arnold Newman",
+            "url": "/quotes/arnold_newman_169863"
+        },
+        "topics": [
+            {
+                "name": "Ideas",
+                "url": "/topics/ideas"
+            },
+            {
+                "name": "Personal",
+                "url": "/topics/personal"
+            },
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/arnold_newman_116385",
+        "quote": "The subject must be thought of in terms of the 20th century, of houses he lives in and places he works, in terms of the kind of light the windows in these places let through and by which we see him every day.",
+        "author": {
+            "name": "Arnold Newman",
+            "url": "/quotes/arnold_newman_116385"
+        },
+        "topics": [
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Works",
+                "url": "/topics/works"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/arnold_newman_169864",
+        "quote": "There are no rules and regulations for perfect composition. If there were we would be able to put all the information into a computer and would come out with a masterpiece. We know that's impossible. You have to compose by the seat of your pants.",
+        "author": {
+            "name": "Arnold Newman",
+            "url": "/quotes/arnold_newman_169864"
+        },
+        "topics": [
+            {
+                "name": "Impossible",
+                "url": "/topics/impossible"
+            },
+            {
+                "name": "Perfect",
+                "url": "/topics/perfect"
+            },
+            {
+                "name": "Pants",
+                "url": "/topics/pants"
+            }
+        ]
+    }
+]

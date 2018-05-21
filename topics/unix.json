@@ -1,0 +1,354 @@
+[
+    {
+        "url": "/quotes/dennis_ritchie_172475?src=t_unix",
+        "quote": "UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity.",
+        "author": {
+            "name": "Dennis Ritchie",
+            "url": "/authors/dennis_ritchie"
+        },
+        "topics": [
+            {
+                "name": "Genius",
+                "url": "/topics/genius"
+            },
+            {
+                "name": "System",
+                "url": "/topics/system"
+            },
+            {
+                "name": "Basically",
+                "url": "/topics/basically"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dennis_ritchie_274045?src=t_unix",
+        "quote": "C was already implemented on several quite different machines and OSs, Unix was already being distributed on the PDP-11, but the portability of the whole system was new.",
+        "author": {
+            "name": "Dennis Ritchie",
+            "url": "/authors/dennis_ritchie"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Several",
+                "url": "/topics/several"
+            },
+            {
+                "name": "Distributed",
+                "url": "/topics/distributed"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ellen_ullman_849347?src=t_unix",
+        "quote": "UNIX always presumes you know what you're doing. You're the human being, after all, and it is a mere operating system.",
+        "author": {
+            "name": "Ellen Ullman",
+            "url": "/authors/ellen_ullman"
+        },
+        "topics": [
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Human Being",
+                "url": "/topics/human_being"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ken_thompson_254842?src=t_unix",
+        "quote": "I think the major good idea in Unix was its clean and simple interface: open, close, read, and write.",
+        "author": {
+            "name": "Ken Thompson",
+            "url": "/authors/ken_thompson"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Read",
+                "url": "/topics/read"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jaron_lanier_483096?src=t_unix",
+        "quote": "The mass culture of childhood right now is astonishingly technical. Little kids know their Unix path punctuation so they can get around the Web, and they know their HTML and stuff. It's pretty shocking to me.",
+        "author": {
+            "name": "Jaron Lanier",
+            "url": "/authors/jaron_lanier"
+        },
+        "topics": [
+            {
+                "name": "Technical",
+                "url": "/topics/technical"
+            },
+            {
+                "name": "Mass",
+                "url": "/topics/mass"
+            },
+            {
+                "name": "Around",
+                "url": "/topics/around"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jamie_zawinski_320491?src=t_unix",
+        "quote": "I think Linux is a great thing, because Linux is an alternative to Windows, and because, of all the operating systems that are at all relevant today, Unix is the best of a bad lot.",
+        "author": {
+            "name": "Jamie Zawinski",
+            "url": "/authors/jamie_zawinski"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rob_pike_719847?src=t_unix",
+        "quote": "To write a kernel without a data structure and have it be as consistent and graceful as UNIX would have been a much, much harder challenge.",
+        "author": {
+            "name": "Rob Pike",
+            "url": "/authors/rob_pike"
+        },
+        "topics": [
+            {
+                "name": "Data",
+                "url": "/topics/data"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Kernel",
+                "url": "/topics/kernel"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rob_pike_719845?src=t_unix",
+        "quote": "Pretty much everything on the web uses those two things: C and UNIX. The browsers are written in C. The UNIX kernel - that pretty much the entire Internet runs on - is written in C.",
+        "author": {
+            "name": "Rob Pike",
+            "url": "/authors/rob_pike"
+        },
+        "topics": [
+            {
+                "name": "Pretty",
+                "url": "/topics/pretty"
+            },
+            {
+                "name": "Kernel",
+                "url": "/topics/kernel"
+            },
+            {
+                "name": "Entire",
+                "url": "/topics/entire"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/scott_adams_130522?src=t_unix",
+        "quote": "If you have any trouble sounding condescending, find a Unix user to show you how it's done.",
+        "author": {
+            "name": "Scott Adams",
+            "url": "/authors/scott_adams"
+        },
+        "topics": [
+            {
+                "name": "Done",
+                "url": "/topics/done"
+            },
+            {
+                "name": "Show",
+                "url": "/topics/show"
+            },
+            {
+                "name": "Any",
+                "url": "/topics/any"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/shiv_nadar_821458?src=t_unix",
+        "quote": "The government of India is consistently very advanced. When the world was hesitant on UNIX, we were the first to move in; the RBI said that all banks will implement on UNIX. It worked!",
+        "author": {
+            "name": "Shiv Nadar",
+            "url": "/authors/shiv_nadar"
+        },
+        "topics": [
+            {
+                "name": "Move",
+                "url": "/topics/move"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Advanced",
+                "url": "/topics/advanced"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ellen_ullman_849346?src=t_unix",
+        "quote": "I came of technical age with UNIX, where I learned with power-greedy pleasure that you could kill a system right out from under yourself with a single command.",
+        "author": {
+            "name": "Ellen Ullman",
+            "url": "/authors/ellen_ullman"
+        },
+        "topics": [
+            {
+                "name": "Pleasure",
+                "url": "/topics/pleasure"
+            },
+            {
+                "name": "Learned",
+                "url": "/topics/learned"
+            },
+            {
+                "name": "Technical",
+                "url": "/topics/technical"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eric_s_raymond_233547?src=t_unix",
+        "quote": "For the first time, individual hackers could afford to have home machines comparable in power and storage capacity to the minicomputers of ten years earlier - Unix engines capable of supporting a full development environment and talking to the Internet.",
+        "author": {
+            "name": "Eric S. Raymond",
+            "url": "/authors/eric_s_raymond"
+        },
+        "topics": [
+            {
+                "name": "Talking",
+                "url": "/topics/talking"
+            },
+            {
+                "name": "Capable",
+                "url": "/topics/capable"
+            },
+            {
+                "name": "Storage",
+                "url": "/topics/storage"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eric_s_raymond_233537?src=t_unix",
+        "quote": "If Unix could present the same face, the same capabilities, on machines of many different types, it could serve as a common software environment for all of them.",
+        "author": {
+            "name": "Eric S. Raymond",
+            "url": "/authors/eric_s_raymond"
+        },
+        "topics": [
+            {
+                "name": "Capabilities",
+                "url": "/topics/capabilities"
+            },
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            },
+            {
+                "name": "Types",
+                "url": "/topics/types"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eric_s_raymond_233549?src=t_unix",
+        "quote": "In early 1993, a hostile observer might have had grounds for thinking that the Unix story was almost played out, and with it the fortunes of the hacker tribe.",
+        "author": {
+            "name": "Eric S. Raymond",
+            "url": "/authors/eric_s_raymond"
+        },
+        "topics": [
+            {
+                "name": "Almost",
+                "url": "/topics/almost"
+            },
+            {
+                "name": "Might",
+                "url": "/topics/might"
+            },
+            {
+                "name": "Hostile",
+                "url": "/topics/hostile"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_joy_238009?src=t_unix",
+        "quote": "I got tired of people complaining that it was too hard to use UNIX because the editor was too complicated.",
+        "author": {
+            "name": "Bill Joy",
+            "url": "/authors/bill_joy"
+        },
+        "topics": [
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            },
+            {
+                "name": "Too",
+                "url": "/topics/too"
+            },
+            {
+                "name": "Editor",
+                "url": "/topics/editor"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brian_kernighan_722003?src=t_unix",
+        "quote": "Unix has, I think for many years, had a reputation as being difficult to learn and incomplete. Difficult to learn means that the set of shared conventions, and things that are assumed about the way it works, and the basic mechanisms, are just different from what they are in other systems.",
+        "author": {
+            "name": "Brian Kernighan",
+            "url": "/authors/brian_kernighan"
+        },
+        "topics": [
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Shared",
+                "url": "/topics/shared"
+            }
+        ]
+    }
+]

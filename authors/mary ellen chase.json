@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/mary_ellen_chase_105773",
+        "quote": "Christmas, children, is not a date. It is a state of mind.",
+        "author": {
+            "name": "Mary Ellen Chase",
+            "url": "/quotes/mary_ellen_chase_105773"
+        },
+        "topics": [
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Christmas",
+                "url": "/topics/christmas"
+            },
+            {
+                "name": "Date",
+                "url": "/topics/date"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mary_ellen_chase_734535",
+        "quote": "Suffering without understanding in this life is a heap worse than suffering when you have at least the grain of an idea what it's all for.",
+        "author": {
+            "name": "Mary Ellen Chase",
+            "url": "/quotes/mary_ellen_chase_734535"
+        },
+        "topics": [
+            {
+                "name": "Suffering",
+                "url": "/topics/suffering"
+            },
+            {
+                "name": "Idea",
+                "url": "/topics/idea"
+            },
+            {
+                "name": "Least",
+                "url": "/topics/least"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mary_ellen_chase_130866",
+        "quote": "Manual labor to my father was not only good and decent for it's own sake but, as he was given to saying, it straightened out one's thoughts.",
+        "author": {
+            "name": "Mary Ellen Chase",
+            "url": "/quotes/mary_ellen_chase_130866"
+        },
+        "topics": [
+            {
+                "name": "Father",
+                "url": "/topics/father"
+            },
+            {
+                "name": "Thoughts",
+                "url": "/topics/thoughts"
+            },
+            {
+                "name": "Given",
+                "url": "/topics/given"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mary_ellen_chase_734536",
+        "quote": "There is no substitute for books in the life of a child.",
+        "author": {
+            "name": "Mary Ellen Chase",
+            "url": "/quotes/mary_ellen_chase_734536"
+        },
+        "topics": [
+            {
+                "name": "Life",
+                "url": "/topics/life"
+            },
+            {
+                "name": "Books",
+                "url": "/topics/books"
+            },
+            {
+                "name": "Substitute",
+                "url": "/topics/substitute"
+            }
+        ]
+    }
+]

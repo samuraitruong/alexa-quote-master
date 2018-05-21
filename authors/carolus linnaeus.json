@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/carolus_linnaeus_183325",
+        "quote": "If a tree dies, plant another in its place.",
+        "author": {
+            "name": "Carolus Linnaeus",
+            "url": "/quotes/carolus_linnaeus_183325"
+        },
+        "topics": [
+            {
+                "name": "Gardening",
+                "url": "/topics/gardening"
+            },
+            {
+                "name": "Plant",
+                "url": "/topics/plant"
+            },
+            {
+                "name": "Another",
+                "url": "/topics/another"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/carolus_linnaeus_183323",
+        "quote": "Nature does not proceed by leaps and bounds.",
+        "author": {
+            "name": "Carolus Linnaeus",
+            "url": "/quotes/carolus_linnaeus_183323"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "Proceed",
+                "url": "/topics/proceed"
+            },
+            {
+                "name": "Does",
+                "url": "/topics/does"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/carolus_linnaeus_183324",
+        "quote": "A practical botanist will distinguish at the first glance the plant of the different quarters of the globe and yet will be at a loss to tell by what marks he detects them.",
+        "author": {
+            "name": "Carolus Linnaeus",
+            "url": "/quotes/carolus_linnaeus_183324"
+        },
+        "topics": [
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Distinguish",
+                "url": "/topics/distinguish"
+            },
+            {
+                "name": "Practical",
+                "url": "/topics/practical"
+            }
+        ]
+    }
+]

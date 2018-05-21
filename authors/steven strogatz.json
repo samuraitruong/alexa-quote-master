@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/steven_strogatz_554253",
+        "quote": "When you create something new, you're breaking tradition - which is an act of defiance.",
+        "author": {
+            "name": "Steven Strogatz",
+            "url": "/quotes/steven_strogatz_554253"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Act",
+                "url": "/topics/act"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/steven_strogatz_554250",
+        "quote": "One of the pleasures of looking at the world through mathematical eyes is that you can see certain patterns that would otherwise be hidden.",
+        "author": {
+            "name": "Steven Strogatz",
+            "url": "/quotes/steven_strogatz_554250"
+        },
+        "topics": [
+            {
+                "name": "Hidden",
+                "url": "/topics/hidden"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Otherwise",
+                "url": "/topics/otherwise"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/steven_strogatz_554251",
+        "quote": "You can get a certain amount of pleasure as a mathematical spectator, reading and watching some of the most beautiful arguments that have been created in the history of humanity. But that's too passive.",
+        "author": {
+            "name": "Steven Strogatz",
+            "url": "/quotes/steven_strogatz_554251"
+        },
+        "topics": [
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Amount",
+                "url": "/topics/amount"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/steven_strogatz_554252",
+        "quote": "When you love a problem, its contours, obstacles and resistances are all just part of its character.",
+        "author": {
+            "name": "Steven Strogatz",
+            "url": "/quotes/steven_strogatz_554252"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Character",
+                "url": "/topics/character"
+            },
+            {
+                "name": "Problem",
+                "url": "/topics/problem"
+            }
+        ]
+    }
+]

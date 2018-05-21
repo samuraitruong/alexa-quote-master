@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/anne_edwards_111995",
+        "quote": "She represented the distilled essence of the battle between the sexes.",
+        "author": {
+            "name": "Anne Edwards",
+            "url": "/quotes/anne_edwards_111995"
+        },
+        "topics": [
+            {
+                "name": "Battle",
+                "url": "/topics/battle"
+            },
+            {
+                "name": "She",
+                "url": "/topics/she"
+            },
+            {
+                "name": "Sexes",
+                "url": "/topics/sexes"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/anne_edwards_117100",
+        "quote": "She claimed she loved the camera, its warmth, its familiarity. She responded to its naked glare, its slavish attention to every expression of her face and body, with the kind of immediacy a trusted lover could expect.",
+        "author": {
+            "name": "Anne Edwards",
+            "url": "/quotes/anne_edwards_117100"
+        },
+        "topics": [
+            {
+                "name": "Expression",
+                "url": "/topics/expression"
+            },
+            {
+                "name": "Familiarity",
+                "url": "/topics/familiarity"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/anne_edwards_162222",
+        "quote": "For the entire state of Georgia, having the premiere of Gone With the Wind on home ground was like winning the Battle of Atlanta 75 years late.",
+        "author": {
+            "name": "Anne Edwards",
+            "url": "/quotes/anne_edwards_162222"
+        },
+        "topics": [
+            {
+                "name": "Winning",
+                "url": "/topics/winning"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Having",
+                "url": "/topics/having"
+            }
+        ]
+    }
+]

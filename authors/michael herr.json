@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/michael_herr_397574",
+        "quote": "Vietnam was what we had instead of happy childhoods.",
+        "author": {
+            "name": "Michael Herr",
+            "url": "/quotes/michael_herr_397574"
+        },
+        "topics": [
+            {
+                "name": "Happy",
+                "url": "/topics/happy"
+            },
+            {
+                "name": "Vietnam",
+                "url": "/topics/vietnam"
+            },
+            {
+                "name": "Childhoods",
+                "url": "/topics/childhoods"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/michael_herr_400207",
+        "quote": "All the wrong people remember Vietnam. I think all the people who remember it should forget it, and all the people who forgot it should remember it.",
+        "author": {
+            "name": "Michael Herr",
+            "url": "/quotes/michael_herr_400207"
+        },
+        "topics": [
+            {
+                "name": "Remember",
+                "url": "/topics/remember"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Forget",
+                "url": "/topics/forget"
+            }
+        ]
+    }
+]

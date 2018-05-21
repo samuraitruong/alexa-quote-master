@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/harry_cohn_681701",
+        "quote": "I don't have ulcers; I give them.",
+        "author": {
+            "name": "Harry Cohn",
+            "url": "/quotes/harry_cohn_681701"
+        },
+        "topics": [
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            },
+            {
+                "name": "Them",
+                "url": "/topics/them"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/harry_cohn_681703",
+        "quote": "I have never met a grateful performer in the movies.",
+        "author": {
+            "name": "Harry Cohn",
+            "url": "/quotes/harry_cohn_681703"
+        },
+        "topics": [
+            {
+                "name": "Grateful",
+                "url": "/topics/grateful"
+            },
+            {
+                "name": "Movies",
+                "url": "/topics/movies"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/harry_cohn_681700",
+        "quote": "If I wasn't the head of a studio, who would talk to me?",
+        "author": {
+            "name": "Harry Cohn",
+            "url": "/quotes/harry_cohn_681700"
+        },
+        "topics": [
+            {
+                "name": "Head",
+                "url": "/topics/head"
+            },
+            {
+                "name": "Studio",
+                "url": "/topics/studio"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/harry_cohn_681702",
+        "quote": "The word 'gratitude' is not part of the Hollywood dictionary.",
+        "author": {
+            "name": "Harry Cohn",
+            "url": "/quotes/harry_cohn_681702"
+        },
+        "topics": [
+            {
+                "name": "Hollywood",
+                "url": "/topics/hollywood"
+            },
+            {
+                "name": "Dictionary",
+                "url": "/topics/dictionary"
+            },
+            {
+                "name": "Part",
+                "url": "/topics/part"
+            }
+        ]
+    }
+]

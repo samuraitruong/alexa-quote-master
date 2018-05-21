@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/jane_russell_200872",
+        "quote": "Publicity can be terrible. But only if you don't have any.",
+        "author": {
+            "name": "Jane Russell",
+            "url": "/quotes/jane_russell_200872"
+        },
+        "topics": [
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            },
+            {
+                "name": "Publicity",
+                "url": "/topics/publicity"
+            },
+            {
+                "name": "Any",
+                "url": "/topics/any"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jane_russell_200873",
+        "quote": "I like a man who can run faster than I can.",
+        "author": {
+            "name": "Jane Russell",
+            "url": "/quotes/jane_russell_200873"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Faster",
+                "url": "/topics/faster"
+            },
+            {
+                "name": "Than",
+                "url": "/topics/than"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jane_russell_200874",
+        "quote": "They held up 'The Outlaw' for five years. And Howard Hughes had me doing publicity for it every day, five days a week for five years.",
+        "author": {
+            "name": "Jane Russell",
+            "url": "/quotes/jane_russell_200874"
+        },
+        "topics": [
+            {
+                "name": "Week",
+                "url": "/topics/week"
+            },
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Howard Hughes",
+                "url": "/topics/howard_hughes"
+            }
+        ]
+    }
+]

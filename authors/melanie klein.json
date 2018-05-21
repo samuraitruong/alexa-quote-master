@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/melanie_klein_195551",
+        "quote": "My psycho-analytic work has convinced me that when in the baby's mind the conflicts between love and hate arise, and the fears of losing the loved one become active, a very important step is made in development.",
+        "author": {
+            "name": "Melanie Klein",
+            "url": "/quotes/melanie_klein_195551"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Fears",
+                "url": "/topics/fears"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/melanie_klein_195553",
+        "quote": "One of the many interesting and surprising experiences of the beginner in child analysis is to find in even very young children a capacity for insight which is often far greater than that of adults.",
+        "author": {
+            "name": "Melanie Klein",
+            "url": "/quotes/melanie_klein_195553"
+        },
+        "topics": [
+            {
+                "name": "Young",
+                "url": "/topics/young"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/klement_gottwald_308760",
+        "quote": "We are the party of the Czechoslovak proletariat and our general headquarters are in Moscow.",
+        "author": {
+            "name": "Klement Gottwald",
+            "url": "/quotes/klement_gottwald_308760"
+        },
+        "topics": [
+            {
+                "name": "General",
+                "url": "/topics/general"
+            },
+            {
+                "name": "Headquarters",
+                "url": "/topics/headquarters"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/klement_gottwald_308761",
+        "quote": "I have just come from the castle, where I have seen the president of the republic, and I can tell you that he has accepted all of my proposals without making any changes.",
+        "author": {
+            "name": "Klement Gottwald",
+            "url": "/quotes/klement_gottwald_308761"
+        },
+        "topics": [
+            {
+                "name": "Castle",
+                "url": "/topics/castle"
+            },
+            {
+                "name": "Making",
+                "url": "/topics/making"
+            },
+            {
+                "name": "Republic",
+                "url": "/topics/republic"
+            }
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/klemens_von_metternich_312098",
+        "quote": "When Paris sneezes, Europe catches cold.",
+        "author": {
+            "name": "Klemens von Metternich",
+            "url": "/quotes/klemens_von_metternich_312098"
+        },
+        "topics": [
+            {
+                "name": "Paris",
+                "url": "/topics/paris"
+            },
+            {
+                "name": "Cold",
+                "url": "/topics/cold"
+            },
+            {
+                "name": "Europe",
+                "url": "/topics/europe"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/klemens_von_metternich_394048",
+        "quote": "Italy is a geographical expression.",
+        "author": {
+            "name": "Klemens von Metternich",
+            "url": "/quotes/klemens_von_metternich_394048"
+        },
+        "topics": [
+            {
+                "name": "Expression",
+                "url": "/topics/expression"
+            },
+            {
+                "name": "Geographical",
+                "url": "/topics/geographical"
+            }
+        ]
+    }
+]

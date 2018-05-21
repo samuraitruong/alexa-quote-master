@@ -1,0 +1,1390 @@
+[
+    {
+        "url": "/quotes/miguel_de_icaza_232394?src=t_linux",
+        "quote": "We have a lot of existing customers which are also considering Linux desktop migrations and rolling out some of these programs, so we're learning from them.",
+        "author": {
+            "name": "Miguel de Icaza",
+            "url": "/authors/miguel_de_icaza"
+        },
+        "topics": [
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Considering",
+                "url": "/topics/considering"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jamie_zawinski_320487?src=t_linux",
+        "quote": "And when the time comes to replace the O2 I have today, maybe my next machine will run Linux.",
+        "author": {
+            "name": "Jamie Zawinski",
+            "url": "/authors/jamie_zawinski"
+        },
+        "topics": [
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            },
+            {
+                "name": "Maybe",
+                "url": "/topics/maybe"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jamie_zawinski_320497?src=t_linux",
+        "quote": "Mostly I use the O2 as an X terminal, however, running my apps on Linux and displaying remotely.",
+        "author": {
+            "name": "Jamie Zawinski",
+            "url": "/authors/jamie_zawinski"
+        },
+        "topics": [
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            },
+            {
+                "name": "However",
+                "url": "/topics/however"
+            },
+            {
+                "name": "Mostly",
+                "url": "/topics/mostly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eric_s_raymond_233551?src=t_linux",
+        "quote": "Linux evolved in a completely different way. From nearly the beginning, it was rather casually hacked on by huge numbers of volunteers coordinating only through the Internet.",
+        "author": {
+            "name": "Eric S. Raymond",
+            "url": "/authors/eric_s_raymond"
+        },
+        "topics": [
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Coordinating",
+                "url": "/topics/coordinating"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brian_behlendorf_649734?src=t_linux",
+        "quote": "Success for open source is when the term 'open source' becomes a non-factor in the decision making process, when people hear about Linux and compare it to Windows NT, and they compare it on the feature set and don't have much of an excuse not to use it.",
+        "author": {
+            "name": "Brian Behlendorf",
+            "url": "/authors/brian_behlendorf"
+        },
+        "topics": [
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            },
+            {
+                "name": "Compare",
+                "url": "/topics/compare"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_love_732085?src=t_linux",
+        "quote": "Android's user-space is so different from stock Linux, you can easily say that Android is not in any way a Linux system, except for the kernel.",
+        "author": {
+            "name": "Robert Love",
+            "url": "/authors/robert_love"
+        },
+        "topics": [
+            {
+                "name": "Say",
+                "url": "/topics/say"
+            },
+            {
+                "name": "Android",
+                "url": "/topics/android"
+            },
+            {
+                "name": "Kernel",
+                "url": "/topics/kernel"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nat_friedman_204067?src=t_linux",
+        "quote": "There are a lot of people who've been able to ditch their Windows machines and switch over to Linux because they can now use their Exchange server for calendaring and collaboration from their Linux desktop.",
+        "author": {
+            "name": "Nat Friedman",
+            "url": "/authors/nat_friedman"
+        },
+        "topics": [
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Server",
+                "url": "/topics/server"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nat_friedman_204075?src=t_linux",
+        "quote": "A lot of that momentum comes from the fact that Linux is free.",
+        "author": {
+            "name": "Nat Friedman",
+            "url": "/authors/nat_friedman"
+        },
+        "topics": [
+            {
+                "name": "Free",
+                "url": "/topics/free"
+            },
+            {
+                "name": "Fact",
+                "url": "/topics/fact"
+            },
+            {
+                "name": "Lot",
+                "url": "/topics/lot"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nat_friedman_204086?src=t_linux",
+        "quote": "Big Linux deployments have reached the point where it's become a real problem for administrators that they don't have nice tools to manage their servers and desktops.",
+        "author": {
+            "name": "Nat Friedman",
+            "url": "/authors/nat_friedman"
+        },
+        "topics": [
+            {
+                "name": "Tools",
+                "url": "/topics/tools"
+            },
+            {
+                "name": "Real",
+                "url": "/topics/real"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/theo_de_raadt_444461?src=t_linux",
+        "quote": "Linux has never been about quality. There are so many parts of the system that are just these cheap little hacks, and it happens to run.",
+        "author": {
+            "name": "Theo de Raadt",
+            "url": "/authors/theo_de_raadt"
+        },
+        "topics": [
+            {
+                "name": "Run",
+                "url": "/topics/run"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/theo_de_raadt_444462?src=t_linux",
+        "quote": "Linux people do what they do because they hate Microsoft.",
+        "author": {
+            "name": "Theo de Raadt",
+            "url": "/authors/theo_de_raadt"
+        },
+        "topics": [
+            {
+                "name": "Hate",
+                "url": "/topics/hate"
+            },
+            {
+                "name": "Microsoft",
+                "url": "/topics/microsoft"
+            },
+            {
+                "name": "Because",
+                "url": "/topics/because"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_hayden_239173?src=t_linux",
+        "quote": "Cosmoe works on any of the standard filesystems available for Linux.",
+        "author": {
+            "name": "Bill Hayden",
+            "url": "/authors/bill_hayden"
+        },
+        "topics": [
+            {
+                "name": "Available",
+                "url": "/topics/available"
+            },
+            {
+                "name": "Standard",
+                "url": "/topics/standard"
+            },
+            {
+                "name": "Works",
+                "url": "/topics/works"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/linus_torvalds_381582?src=t_linux",
+        "quote": "If Microsoft ever does applications for Linux it means I've won.",
+        "author": {
+            "name": "Linus Torvalds",
+            "url": "/authors/linus_torvalds"
+        },
+        "topics": [
+            {
+                "name": "Means",
+                "url": "/topics/means"
+            },
+            {
+                "name": "Does",
+                "url": "/topics/does"
+            },
+            {
+                "name": "Ever",
+                "url": "/topics/ever"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/linus_torvalds_163637?src=t_linux",
+        "quote": "The Linux philosophy is 'Laugh in the face of danger'. Oops. Wrong One. 'Do it yourself'. Yes, that's it.",
+        "author": {
+            "name": "Linus Torvalds",
+            "url": "/authors/linus_torvalds"
+        },
+        "topics": [
+            {
+                "name": "Technology",
+                "url": "/topics/technology"
+            },
+            {
+                "name": "Face",
+                "url": "/topics/face"
+            },
+            {
+                "name": "Yes",
+                "url": "/topics/yes"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/steve_wozniak_349896?src=t_linux",
+        "quote": "All the best people in life seem to like LINUX.",
+        "author": {
+            "name": "Steve Wozniak",
+            "url": "/authors/steve_wozniak"
+        },
+        "topics": [
+            {
+                "name": "Best",
+                "url": "/topics/best"
+            },
+            {
+                "name": "People",
+                "url": "/topics/people"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/linus_torvalds_367392?src=t_linux",
+        "quote": "That's what makes Linux so good: you put in something, and that effort multiplies. It's a positive feedback cycle.",
+        "author": {
+            "name": "Linus Torvalds",
+            "url": "/authors/linus_torvalds"
+        },
+        "topics": [
+            {
+                "name": "Positive",
+                "url": "/topics/positive"
+            },
+            {
+                "name": "Effort",
+                "url": "/topics/effort"
+            },
+            {
+                "name": "Makes",
+                "url": "/topics/makes"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/linus_torvalds_587379?src=t_linux",
+        "quote": "I'm interested in Linux because of the technology, and Linux wasn't started as any kind of rebellion against the 'evil Microsoft empire.'",
+        "author": {
+            "name": "Linus Torvalds",
+            "url": "/authors/linus_torvalds"
+        },
+        "topics": [
+            {
+                "name": "Rebellion",
+                "url": "/topics/rebellion"
+            },
+            {
+                "name": "Against",
+                "url": "/topics/against"
+            },
+            {
+                "name": "Kind",
+                "url": "/topics/kind"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/linus_torvalds_367398?src=t_linux",
+        "quote": "There are lots of Linux users who don't care how the kernel works, but only want to use it. That is a tribute to how good Linux is.",
+        "author": {
+            "name": "Linus Torvalds",
+            "url": "/authors/linus_torvalds"
+        },
+        "topics": [
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            },
+            {
+                "name": "Works",
+                "url": "/topics/works"
+            },
+            {
+                "name": "Kernel",
+                "url": "/topics/kernel"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/steve_ballmer_368838?src=t_linux",
+        "quote": "Linux is a cancer that attaches itself in an intellectual property sense to everything it touches.",
+        "author": {
+            "name": "Steve Ballmer",
+            "url": "/authors/steve_ballmer"
+        },
+        "topics": [
+            {
+                "name": "Cancer",
+                "url": "/topics/cancer"
+            },
+            {
+                "name": "Property",
+                "url": "/topics/property"
+            },
+            {
+                "name": "Itself",
+                "url": "/topics/itself"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jamie_zawinski_320492?src=t_linux",
+        "quote": "I think Linux is a great thing, in the big picture. It's a great hacker's tool, and it has a lot of potential to become something more.",
+        "author": {
+            "name": "Jamie Zawinski",
+            "url": "/authors/jamie_zawinski"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/linus_torvalds_141511?src=t_linux",
+        "quote": "See, you not only have to be a good coder to create a system like Linux, you have to be a sneaky bastard too.",
+        "author": {
+            "name": "Linus Torvalds",
+            "url": "/authors/linus_torvalds"
+        },
+        "topics": [
+            {
+                "name": "See",
+                "url": "/topics/see"
+            },
+            {
+                "name": "System",
+                "url": "/topics/system"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gabe_newell_664150?src=t_linux",
+        "quote": "The big problem that is holding back Linux is games. People don't realize how critical games are in driving consumer purchasing behavior. We want to make it as easy as possible for the 2,500 games on Steam to run on Linux as well.",
+        "author": {
+            "name": "Gabe Newell",
+            "url": "/authors/gabe_newell"
+        },
+        "topics": [
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Purchasing",
+                "url": "/topics/purchasing"
+            },
+            {
+                "name": "Critical",
+                "url": "/topics/critical"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jamie_zawinski_320496?src=t_linux",
+        "quote": "Linux is only free if your time has no value.",
+        "author": {
+            "name": "Jamie Zawinski",
+            "url": "/authors/jamie_zawinski"
+        },
+        "topics": [
+            {
+                "name": "Time",
+                "url": "/topics/time"
+            },
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            },
+            {
+                "name": "Your",
+                "url": "/topics/your"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jamie_zawinski_320499?src=t_linux",
+        "quote": "Of course, all of the software I write runs on Linux; that's the beauty of standards, and of cross-platform code. I don't have to run your OS, and you don't have to run mine, and we can use the same applications anyway!",
+        "author": {
+            "name": "Jamie Zawinski",
+            "url": "/authors/jamie_zawinski"
+        },
+        "topics": [
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "Mine",
+                "url": "/topics/mine"
+            },
+            {
+                "name": "Code",
+                "url": "/topics/code"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/linus_torvalds_587370?src=t_linux",
+        "quote": "There were open source projects and free software before Linux was there. Linux in many ways is one of the more visible and one of the bigger technical projects in this area, and it changed how people looked at it because Linux took both the practical and ideological approach.",
+        "author": {
+            "name": "Linus Torvalds",
+            "url": "/authors/linus_torvalds"
+        },
+        "topics": [
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            },
+            {
+                "name": "Projects",
+                "url": "/topics/projects"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/linus_torvalds_367393?src=t_linux",
+        "quote": "The cyberspace earnings I get from Linux come in the format of having a Network of people that know me and trust me, and that I can depend on in return.",
+        "author": {
+            "name": "Linus Torvalds",
+            "url": "/authors/linus_torvalds"
+        },
+        "topics": [
+            {
+                "name": "Trust",
+                "url": "/topics/trust"
+            },
+            {
+                "name": "Depend",
+                "url": "/topics/depend"
+            },
+            {
+                "name": "Having",
+                "url": "/topics/having"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/donald_knuth_466268?src=t_linux",
+        "quote": "I currently use Ubuntu Linux, on a standalone laptop - it has no Internet connection. I occasionally carry flash memory drives between this machine and the Macs that I use for network surfing and graphics; but I trust my family jewels only to Linux.",
+        "author": {
+            "name": "Donald Knuth",
+            "url": "/authors/donald_knuth"
+        },
+        "topics": [
+            {
+                "name": "Trust",
+                "url": "/topics/trust"
+            },
+            {
+                "name": "Memory",
+                "url": "/topics/memory"
+            },
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/linus_torvalds_367355?src=t_linux",
+        "quote": "I don't try to be a threat to MicroSoft, mainly because I don't really see MS as competition. Especially not Windows-the goals of Linux and Windows are simply so different.",
+        "author": {
+            "name": "Linus Torvalds",
+            "url": "/authors/linus_torvalds"
+        },
+        "topics": [
+            {
+                "name": "Competition",
+                "url": "/topics/competition"
+            },
+            {
+                "name": "Microsoft",
+                "url": "/topics/microsoft"
+            },
+            {
+                "name": "Ms",
+                "url": "/topics/ms"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/linus_torvalds_367353?src=t_linux",
+        "quote": "I don't expect to go hungry if I decide to leave the University. Resume: Linux looks pretty good in many places.",
+        "author": {
+            "name": "Linus Torvalds",
+            "url": "/authors/linus_torvalds"
+        },
+        "topics": [
+            {
+                "name": "Pretty",
+                "url": "/topics/pretty"
+            },
+            {
+                "name": "Resume",
+                "url": "/topics/resume"
+            },
+            {
+                "name": "Pretty Good",
+                "url": "/topics/pretty_good"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/linus_torvalds_587361?src=t_linux",
+        "quote": "I don't have any authority over Linux other than this notion that I know what I'm doing.",
+        "author": {
+            "name": "Linus Torvalds",
+            "url": "/authors/linus_torvalds"
+        },
+        "topics": [
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/linus_torvalds_587386?src=t_linux",
+        "quote": "Part of doing Linux was that I had to communicate a lot more instead of just being a geek in front of a computer.",
+        "author": {
+            "name": "Linus Torvalds",
+            "url": "/authors/linus_torvalds"
+        },
+        "topics": [
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Communicate",
+                "url": "/topics/communicate"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/linus_torvalds_587396?src=t_linux",
+        "quote": "What I find most interesting is how people really have taken Linux and used it in ways and attributes and motivations that I never felt.",
+        "author": {
+            "name": "Linus Torvalds",
+            "url": "/authors/linus_torvalds"
+        },
+        "topics": [
+            {
+                "name": "Interesting",
+                "url": "/topics/interesting"
+            },
+            {
+                "name": "Used",
+                "url": "/topics/used"
+            },
+            {
+                "name": "Felt",
+                "url": "/topics/felt"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/barton_gellman_652416?src=t_linux",
+        "quote": "For personal use, I recommend the free and open-source Truecrypt, which comes in flavors for Windows, Mac and Linux.",
+        "author": {
+            "name": "Barton Gellman",
+            "url": "/authors/barton_gellman"
+        },
+        "topics": [
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Flavors",
+                "url": "/topics/flavors"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/richard_stallman_473490?src=t_linux",
+        "quote": "Android is very different from the GNU/Linux operating system because it contains very little of GNU. Indeed, just about the only component in common between Android and GNU/Linux is Linux, the kernel.",
+        "author": {
+            "name": "Richard Stallman",
+            "url": "/authors/richard_stallman"
+        },
+        "topics": [
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Android",
+                "url": "/topics/android"
+            },
+            {
+                "name": "Kernel",
+                "url": "/topics/kernel"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jamie_zawinski_320491?src=t_linux",
+        "quote": "I think Linux is a great thing, because Linux is an alternative to Windows, and because, of all the operating systems that are at all relevant today, Unix is the best of a bad lot.",
+        "author": {
+            "name": "Jamie Zawinski",
+            "url": "/authors/jamie_zawinski"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/linus_torvalds_367345?src=t_linux",
+        "quote": "Before the commercial ventures, Linux tended to be rather hard to set up, because most of the developers were motivated mainly by their own interests.",
+        "author": {
+            "name": "Linus Torvalds",
+            "url": "/authors/linus_torvalds"
+        },
+        "topics": [
+            {
+                "name": "Motivated",
+                "url": "/topics/motivated"
+            },
+            {
+                "name": "Commercial",
+                "url": "/topics/commercial"
+            },
+            {
+                "name": "Set",
+                "url": "/topics/set"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/linus_torvalds_367352?src=t_linux",
+        "quote": "I do get my pizzas paid for by Linux indirectly.",
+        "author": {
+            "name": "Linus Torvalds",
+            "url": "/authors/linus_torvalds"
+        },
+        "topics": [
+            {
+                "name": "Paid",
+                "url": "/topics/paid"
+            },
+            {
+                "name": "Get",
+                "url": "/topics/get"
+            },
+            {
+                "name": "Indirectly",
+                "url": "/topics/indirectly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/linus_torvalds_367358?src=t_linux",
+        "quote": "I like to think that I've been a good manager. That fact has been very instrumental in making Linux a successful product.",
+        "author": {
+            "name": "Linus Torvalds",
+            "url": "/authors/linus_torvalds"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/linus_torvalds_367359?src=t_linux",
+        "quote": "I never felt that the naming issue was all that important, but I was obviously wrong, judging by how many people felt. I tell people to call it just plain Linux and nothing more.",
+        "author": {
+            "name": "Linus Torvalds",
+            "url": "/authors/linus_torvalds"
+        },
+        "topics": [
+            {
+                "name": "Tell",
+                "url": "/topics/tell"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Issue",
+                "url": "/topics/issue"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/linus_torvalds_367364?src=t_linux",
+        "quote": "I very seldom worry about other systems. I concentrate pretty fully on just making Linux the best I can.",
+        "author": {
+            "name": "Linus Torvalds",
+            "url": "/authors/linus_torvalds"
+        },
+        "topics": [
+            {
+                "name": "Worry",
+                "url": "/topics/worry"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/linus_torvalds_367370?src=t_linux",
+        "quote": "I've been employed by the University of Helsinki, and they've been perfectly happy to keep me employed and doing Linux.",
+        "author": {
+            "name": "Linus Torvalds",
+            "url": "/authors/linus_torvalds"
+        },
+        "topics": [
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Perfectly",
+                "url": "/topics/perfectly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/linus_torvalds_367371?src=t_linux",
+        "quote": "I've been very happy with the commercial Linux CD-ROM vendors linux Red Hat.",
+        "author": {
+            "name": "Linus Torvalds",
+            "url": "/authors/linus_torvalds"
+        },
+        "topics": [
+            {
+                "name": "Red",
+                "url": "/topics/red"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/linus_torvalds_367374?src=t_linux",
+        "quote": "I've never regretted not making Linux shareware: I really don't like the pay for use binary shareware programs.",
+        "author": {
+            "name": "Linus Torvalds",
+            "url": "/authors/linus_torvalds"
+        },
+        "topics": [
+            {
+                "name": "Making",
+                "url": "/topics/making"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Regretted",
+                "url": "/topics/regretted"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/linus_torvalds_367378?src=t_linux",
+        "quote": "Linux has definitely made a lot of sense even in a purely materialistic sense.",
+        "author": {
+            "name": "Linus Torvalds",
+            "url": "/authors/linus_torvalds"
+        },
+        "topics": [
+            {
+                "name": "Lot",
+                "url": "/topics/lot"
+            },
+            {
+                "name": "Materialistic",
+                "url": "/topics/materialistic"
+            },
+            {
+                "name": "Purely",
+                "url": "/topics/purely"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/linus_torvalds_367380?src=t_linux",
+        "quote": "Making Linux GPL'd was definitely the best thing I ever did.",
+        "author": {
+            "name": "Linus Torvalds",
+            "url": "/authors/linus_torvalds"
+        },
+        "topics": [
+            {
+                "name": "Making",
+                "url": "/topics/making"
+            },
+            {
+                "name": "Definitely",
+                "url": "/topics/definitely"
+            },
+            {
+                "name": "Ever",
+                "url": "/topics/ever"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/linus_torvalds_367397?src=t_linux",
+        "quote": "The thing with Linux is that the developers themselves are actually customers too: that has always been an important part of Linux.",
+        "author": {
+            "name": "Linus Torvalds",
+            "url": "/authors/linus_torvalds"
+        },
+        "topics": [
+            {
+                "name": "Developers",
+                "url": "/topics/developers"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/linus_torvalds_367400?src=t_linux",
+        "quote": "What commercialism has brought into Linux has been the incentive to make a good distribution that is easy to use and that has all the packaging issues worked out.",
+        "author": {
+            "name": "Linus Torvalds",
+            "url": "/authors/linus_torvalds"
+        },
+        "topics": [
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Brought",
+                "url": "/topics/brought"
+            },
+            {
+                "name": "Commercialism",
+                "url": "/topics/commercialism"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/linus_torvalds_587369?src=t_linux",
+        "quote": "In many ways, I am very happy about the whole Linux commercial market because the commercial market is doing all these things that I have absolutely zero interest in doing myself.",
+        "author": {
+            "name": "Linus Torvalds",
+            "url": "/authors/linus_torvalds"
+        },
+        "topics": [
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Commercial",
+                "url": "/topics/commercial"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/linus_torvalds_587375?src=t_linux",
+        "quote": "There's innovation in Linux. There are some really good technical features that I'm proud of. There are capabilities in Linux that aren't in other operating systems.",
+        "author": {
+            "name": "Linus Torvalds",
+            "url": "/authors/linus_torvalds"
+        },
+        "topics": [
+            {
+                "name": "Innovation",
+                "url": "/topics/innovation"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/linus_torvalds_587381?src=t_linux",
+        "quote": "I personally think of Linux development as being pretty non-localized, and I work with all the people entirely over e-mail - even if they happen to be working in the Portland area.",
+        "author": {
+            "name": "Linus Torvalds",
+            "url": "/authors/linus_torvalds"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Area",
+                "url": "/topics/area"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/linus_torvalds_587382?src=t_linux",
+        "quote": "I've felt strongly that the advantage of Linux is that it doesn't have a niche or any special market, but that different individuals and companies end up pushing it in the direction they want, and as such you end up with something that is pretty balanced across the board.",
+        "author": {
+            "name": "Linus Torvalds",
+            "url": "/authors/linus_torvalds"
+        },
+        "topics": [
+            {
+                "name": "Individuals",
+                "url": "/topics/individuals"
+            },
+            {
+                "name": "Balanced",
+                "url": "/topics/balanced"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/linus_torvalds_587383?src=t_linux",
+        "quote": "I get the biggest enjoyment from the random and unexpected places. Linux on cellphones or refrigerators, just because it's so not what I envisioned it. Or on supercomputers.",
+        "author": {
+            "name": "Linus Torvalds",
+            "url": "/authors/linus_torvalds"
+        },
+        "topics": [
+            {
+                "name": "Unexpected",
+                "url": "/topics/unexpected"
+            },
+            {
+                "name": "Envisioned",
+                "url": "/topics/envisioned"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/satya_nadella_760451?src=t_linux",
+        "quote": "Microsoft loves Linux.",
+        "author": {
+            "name": "Satya Nadella",
+            "url": "/authors/satya_nadella"
+        },
+        "topics": [
+            {
+                "name": "Microsoft",
+                "url": "/topics/microsoft"
+            },
+            {
+                "name": "Loves",
+                "url": "/topics/loves"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/larry_ellison_620123?src=t_linux",
+        "quote": "We've announced an Oracle Virtual Compute Appliance, a bunch of low-cost commodity servers running Linux, integrated in our case, with InfiniBand - connected with InfiniBand vs. the traditional Ethernet.",
+        "author": {
+            "name": "Larry Ellison",
+            "url": "/authors/larry_ellison"
+        },
+        "topics": [
+            {
+                "name": "Oracle",
+                "url": "/topics/oracle"
+            },
+            {
+                "name": "Appliance",
+                "url": "/topics/appliance"
+            },
+            {
+                "name": "Commodity",
+                "url": "/topics/commodity"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_surowiecki_525611?src=t_linux",
+        "quote": "Linux is a complex example of the wisdom of crowds. It's a good example in the sense that it shows you can set people to work in a decentralized way - that is, without anyone really directing their efforts in a particular direction - and still trust that they're going to come up with good answers.",
+        "author": {
+            "name": "James Surowiecki",
+            "url": "/authors/james_surowiecki"
+        },
+        "topics": [
+            {
+                "name": "Trust",
+                "url": "/topics/trust"
+            },
+            {
+                "name": "Good Example",
+                "url": "/topics/good_example"
+            },
+            {
+                "name": "Answers",
+                "url": "/topics/answers"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/howard_rheingold_560056?src=t_linux",
+        "quote": "Open source production has shown us that world-class software, like Linux and Mozilla, can be created with neither the bureaucratic structure of the firm nor the incentives of the marketplace as we've known them.",
+        "author": {
+            "name": "Howard Rheingold",
+            "url": "/authors/howard_rheingold"
+        },
+        "topics": [
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "World-Class",
+                "url": "/topics/world-class"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/michael_dell_173361?src=t_linux",
+        "quote": "The interesting thing is when we design and architect a server, we don't design it for Windows or Linux, we design it for both. We don't really care, as long as we're selling the one the customer wants.",
+        "author": {
+            "name": "Michael Dell",
+            "url": "/authors/michael_dell"
+        },
+        "topics": [
+            {
+                "name": "Interesting",
+                "url": "/topics/interesting"
+            },
+            {
+                "name": "Windows",
+                "url": "/topics/windows"
+            },
+            {
+                "name": "Server",
+                "url": "/topics/server"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tim_oreilly_219553?src=t_linux",
+        "quote": "I think that Microsoft will increasingly feel margin pressure from Linux as well as people saying: well actually the applications that really matter to me are not on my PC. And so they're going to be able to extract less of a monopoly rent, so to speak.",
+        "author": {
+            "name": "Tim O'Reilly",
+            "url": "/authors/tim_oreilly"
+        },
+        "topics": [
+            {
+                "name": "Feel",
+                "url": "/topics/feel"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Increasingly",
+                "url": "/topics/increasingly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nicholas_negroponte_499660?src=t_linux",
+        "quote": "Linux is its own worst enemy: it's splintered, it has different distributions, it's too complex to run for most people.",
+        "author": {
+            "name": "Nicholas Negroponte",
+            "url": "/authors/nicholas_negroponte"
+        },
+        "topics": [
+            {
+                "name": "Enemy",
+                "url": "/topics/enemy"
+            },
+            {
+                "name": "Run",
+                "url": "/topics/run"
+            },
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mikko_hypponen_633659?src=t_linux",
+        "quote": "It's been a bit sad to see that out of Linux distributions, it was Android - the most successful mobile Linux distribution - that has really introduced the malware problem to the Linux world.",
+        "author": {
+            "name": "Mikko Hypponen",
+            "url": "/authors/mikko_hypponen"
+        },
+        "topics": [
+            {
+                "name": "Mobile",
+                "url": "/topics/mobile"
+            },
+            {
+                "name": "Android",
+                "url": "/topics/android"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/miguel_de_icaza_232385?src=t_linux",
+        "quote": "We've been using C and C++ way too much - they're nice, but they're very close to the machine and what we wanted was to empower regular users to build applications for Linux.",
+        "author": {
+            "name": "Miguel de Icaza",
+            "url": "/authors/miguel_de_icaza"
+        },
+        "topics": [
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Using",
+                "url": "/topics/using"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/miguel_de_icaza_232390?src=t_linux",
+        "quote": "In some cases we've been building tools that are specific to Linux for the desktop, and they only work on Linux, but I see two major projects that are wildly, wildly successful: Mozilla and OpenOffice, and those two programs are cross platform.",
+        "author": {
+            "name": "Miguel de Icaza",
+            "url": "/authors/miguel_de_icaza"
+        },
+        "topics": [
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Projects",
+                "url": "/topics/projects"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/miguel_de_icaza_232392?src=t_linux",
+        "quote": "We all love Linux, but it's also a fact that some people might not be able to migrate.",
+        "author": {
+            "name": "Miguel de Icaza",
+            "url": "/authors/miguel_de_icaza"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Fact",
+                "url": "/topics/fact"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/miguel_de_icaza_232393?src=t_linux",
+        "quote": "I think that by October the whole company has to migrate to OpenOffice, and then I think it's by June next year we all migrate to Linux - you don't want to migrate 6,000 people both operating system and office suite in a single jump.",
+        "author": {
+            "name": "Miguel de Icaza",
+            "url": "/authors/miguel_de_icaza"
+        },
+        "topics": [
+            {
+                "name": "Year",
+                "url": "/topics/year"
+            },
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    }
+]

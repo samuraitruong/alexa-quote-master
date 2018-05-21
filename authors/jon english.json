@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/jon_english_189649",
+        "quote": "You can lay down and die, or you can get up and fight, but that's it - there's no turning back.",
+        "author": {
+            "name": "Jon English",
+            "url": "/quotes/jon_english_189649"
+        },
+        "topics": [
+            {
+                "name": "Die",
+                "url": "/topics/die"
+            },
+            {
+                "name": "Turning",
+                "url": "/topics/turning"
+            },
+            {
+                "name": "Lay",
+                "url": "/topics/lay"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jon_english_189652",
+        "quote": "I have crushed the cup of youth like a rose between my fingers but its nectar never warmed my weary heart.",
+        "author": {
+            "name": "Jon English",
+            "url": "/quotes/jon_english_189652"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Fingers",
+                "url": "/topics/fingers"
+            },
+            {
+                "name": "Weary",
+                "url": "/topics/weary"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jon_english_189653",
+        "quote": "Out there in the spotlight you're a million miles away and every ounce of energy you try to give away as the sweat pours out your body like the music that you play.",
+        "author": {
+            "name": "Jon English",
+            "url": "/quotes/jon_english_189653"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jon_english_504397",
+        "quote": "I was born in March 1949, a post war baby boomer.",
+        "author": {
+            "name": "Jon English",
+            "url": "/quotes/jon_english_504397"
+        },
+        "topics": [
+            {
+                "name": "I Was Born",
+                "url": "/topics/i_was_born"
+            },
+            {
+                "name": "Post",
+                "url": "/topics/post"
+            },
+            {
+                "name": "Boomer",
+                "url": "/topics/boomer"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jon_english_504398",
+        "quote": "I was lucky enough to see the Beatles play live.",
+        "author": {
+            "name": "Jon English",
+            "url": "/quotes/jon_english_504398"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Lucky",
+                "url": "/topics/lucky"
+            },
+            {
+                "name": "See",
+                "url": "/topics/see"
+            }
+        ]
+    }
+]

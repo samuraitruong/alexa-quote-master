@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/ian_paisley_404207",
+        "quote": "The gun is not out of Irish politics.",
+        "author": {
+            "name": "Ian Paisley",
+            "url": "/quotes/ian_paisley_404207"
+        },
+        "topics": [
+            {
+                "name": "Politics",
+                "url": "/topics/politics"
+            },
+            {
+                "name": "Gun",
+                "url": "/topics/gun"
+            },
+            {
+                "name": "Irish",
+                "url": "/topics/irish"
+            }
+        ]
+    }
+]

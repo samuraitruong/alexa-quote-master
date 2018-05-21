@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/matthew_henson_211819",
+        "quote": "I think I'm the first man to sit on top of the world.",
+        "author": {
+            "name": "Matthew Henson",
+            "url": "/quotes/matthew_henson_211819"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/matthew_henson_211817",
+        "quote": "It'll work, if God, wind, leads, ice, snow, and all the hells of this damned frozen land are willing.",
+        "author": {
+            "name": "Matthew Henson",
+            "url": "/quotes/matthew_henson_211817"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Willing",
+                "url": "/topics/willing"
+            },
+            {
+                "name": "Frozen",
+                "url": "/topics/frozen"
+            }
+        ]
+    }
+]

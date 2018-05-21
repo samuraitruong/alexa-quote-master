@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/mark_stevens_114073",
+        "quote": "One of the best things about paintings is their silence - which prompts reflection and random reverie.",
+        "author": {
+            "name": "Mark Stevens",
+            "url": "/quotes/mark_stevens_114073"
+        },
+        "topics": [
+            {
+                "name": "Random",
+                "url": "/topics/random"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Reverie",
+                "url": "/topics/reverie"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mark_stevens_391675",
+        "quote": "Shouldn't a great museum foster serious seeing before all else?",
+        "author": {
+            "name": "Mark Stevens",
+            "url": "/quotes/mark_stevens_391675"
+        },
+        "topics": [
+            {
+                "name": "Museum",
+                "url": "/topics/museum"
+            },
+            {
+                "name": "Seeing",
+                "url": "/topics/seeing"
+            },
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            }
+        ]
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/john_abbott_182991",
+        "quote": "'How do you know so much about everything?' was asked of a very wise and intelligent man; and the answer was 'By never being afraid or ashamed to ask questions as to anything of which I was ignorant.'",
+        "author": {
+            "name": "John Abbott",
+            "url": "/quotes/john_abbott_182991"
+        },
+        "topics": [
+            {
+                "name": "Questions",
+                "url": "/topics/questions"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_abbott_182990",
+        "quote": "Every man's ability may be strengthened or increased by culture.",
+        "author": {
+            "name": "John Abbott",
+            "url": "/quotes/john_abbott_182990"
+        },
+        "topics": [
+            {
+                "name": "Culture",
+                "url": "/topics/culture"
+            },
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Increased",
+                "url": "/topics/increased"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_abbott_130150",
+        "quote": "War is the science of destruction.",
+        "author": {
+            "name": "John Abbott",
+            "url": "/quotes/john_abbott_130150"
+        },
+        "topics": [
+            {
+                "name": "War",
+                "url": "/topics/war"
+            },
+            {
+                "name": "Science",
+                "url": "/topics/science"
+            },
+            {
+                "name": "Destruction",
+                "url": "/topics/destruction"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_abbott_556259",
+        "quote": "I hate politics and what are considered their appropriate measures. I hate notoriety, public meetings, public speeches, caucuses and everything that I know of which is apparently the necessary incident of politics - except doing public work to the best of my ability.",
+        "author": {
+            "name": "John Abbott",
+            "url": "/quotes/john_abbott_556259"
+        },
+        "topics": [
+            {
+                "name": "Politics",
+                "url": "/topics/politics"
+            },
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Appropriate",
+                "url": "/topics/appropriate"
+            }
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/gertrude_himmelfarb_401508",
+        "quote": "Nothing is as seductive as the assurance of success.",
+        "author": {
+            "name": "Gertrude Himmelfarb",
+            "url": "/quotes/gertrude_himmelfarb_401508"
+        },
+        "topics": [
+            {
+                "name": "Seductive",
+                "url": "/topics/seductive"
+            },
+            {
+                "name": "Assurance",
+                "url": "/topics/assurance"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gertrude_himmelfarb_392585",
+        "quote": "The real movement of history, it turns out, is fueled not by matter but by spirit, by the will to freedom.",
+        "author": {
+            "name": "Gertrude Himmelfarb",
+            "url": "/quotes/gertrude_himmelfarb_392585"
+        },
+        "topics": [
+            {
+                "name": "Freedom",
+                "url": "/topics/freedom"
+            },
+            {
+                "name": "Spirit",
+                "url": "/topics/spirit"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    }
+]

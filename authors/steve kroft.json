@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/steve_kroft_555349",
+        "quote": "My father was a very good golfer and he got me started early. My grandfather played, too. It was just something that the Kroft family did. I kind of grew up on the golf course.",
+        "author": {
+            "name": "Steve Kroft",
+            "url": "/quotes/steve_kroft_555349"
+        },
+        "topics": [
+            {
+                "name": "Father",
+                "url": "/topics/father"
+            },
+            {
+                "name": "Good",
+                "url": "/topics/good"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/steve_kroft_555350",
+        "quote": "I'm interested in all kinds of sports. I'll glance at the front page and then go straight to sports and then I'll come back to the rest of the paper.",
+        "author": {
+            "name": "Steve Kroft",
+            "url": "/quotes/steve_kroft_555350"
+        },
+        "topics": [
+            {
+                "name": "Sports",
+                "url": "/topics/sports"
+            },
+            {
+                "name": "Rest",
+                "url": "/topics/rest"
+            },
+            {
+                "name": "Go",
+                "url": "/topics/go"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/steve_kroft_555351",
+        "quote": "I don't think anybody deserves to be defined totally by his enemies.",
+        "author": {
+            "name": "Steve Kroft",
+            "url": "/quotes/steve_kroft_555351"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            },
+            {
+                "name": "Anybody",
+                "url": "/topics/anybody"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/steve_kroft_555352",
+        "quote": "I think you've got be willing as an interviewer to ask the dumb question every now and then.",
+        "author": {
+            "name": "Steve Kroft",
+            "url": "/quotes/steve_kroft_555352"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Interviewer",
+                "url": "/topics/interviewer"
+            }
+        ]
+    }
+]

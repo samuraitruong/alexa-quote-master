@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/tina_charles_207455",
+        "quote": "Rock 'n' Roll, no roses or gardening.",
+        "author": {
+            "name": "Tina Charles",
+            "url": "/quotes/tina_charles_207455"
+        },
+        "topics": [
+            {
+                "name": "Gardening",
+                "url": "/topics/gardening"
+            },
+            {
+                "name": "Rock",
+                "url": "/topics/rock"
+            },
+            {
+                "name": "Rock N Roll",
+                "url": "/topics/rock_n_roll"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tina_charles_207456",
+        "quote": "I would love to do top of pops as a grandma.",
+        "author": {
+            "name": "Tina Charles",
+            "url": "/quotes/tina_charles_207456"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Top",
+                "url": "/topics/top"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            }
+        ]
+    }
+]

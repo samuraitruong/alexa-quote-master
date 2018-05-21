@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/valerie_solanas_190302",
+        "quote": "Our society is not a community, but merely a collection of isolated family units.",
+        "author": {
+            "name": "Valerie Solanas",
+            "url": "/quotes/valerie_solanas_190302"
+        },
+        "topics": [
+            {
+                "name": "Society",
+                "url": "/topics/society"
+            },
+            {
+                "name": "Isolated",
+                "url": "/topics/isolated"
+            },
+            {
+                "name": "Units",
+                "url": "/topics/units"
+            }
+        ]
+    }
+]

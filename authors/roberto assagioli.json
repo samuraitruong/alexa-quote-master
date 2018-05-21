@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/roberto_assagioli_387779",
+        "quote": "There is no certainty; there is only adventure.",
+        "author": {
+            "name": "Roberto Assagioli",
+            "url": "/quotes/roberto_assagioli_387779"
+        },
+        "topics": [
+            {
+                "name": "Adventure",
+                "url": "/topics/adventure"
+            },
+            {
+                "name": "Certainty",
+                "url": "/topics/certainty"
+            },
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/roberto_assagioli_311854",
+        "quote": "Without forgiveness life is governed by... an endless cycle of resentment and retaliation.",
+        "author": {
+            "name": "Roberto Assagioli",
+            "url": "/quotes/roberto_assagioli_311854"
+        },
+        "topics": [
+            {
+                "name": "Forgiveness",
+                "url": "/topics/forgiveness"
+            },
+            {
+                "name": "Resentment",
+                "url": "/topics/resentment"
+            }
+        ]
+    }
+]

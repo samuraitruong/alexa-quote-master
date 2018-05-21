@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/ray_blanton_323292",
+        "quote": "Honesty does not always bring a response of love, but it is absolutely essential to it.",
+        "author": {
+            "name": "Ray Blanton",
+            "url": "/quotes/ray_blanton_323292"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Honesty",
+                "url": "/topics/honesty"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ray_blanton_323293",
+        "quote": "We will never be authentically angry or authentically fair while we are trying to be both at once.",
+        "author": {
+            "name": "Ray Blanton",
+            "url": "/quotes/ray_blanton_323293"
+        },
+        "topics": [
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Once",
+                "url": "/topics/once"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ray_blanton_323294",
+        "quote": "When the truth changes from your speaking, you know you have told the truth.",
+        "author": {
+            "name": "Ray Blanton",
+            "url": "/quotes/ray_blanton_323294"
+        },
+        "topics": [
+            {
+                "name": "Truth",
+                "url": "/topics/truth"
+            },
+            {
+                "name": "Changes",
+                "url": "/topics/changes"
+            },
+            {
+                "name": "Speaking",
+                "url": "/topics/speaking"
+            }
+        ]
+    }
+]

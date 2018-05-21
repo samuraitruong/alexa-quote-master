@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/anita_ekberg_395743",
+        "quote": "The most important thing for a good marriage is to learn how to argue peaceably.",
+        "author": {
+            "name": "Anita Ekberg",
+            "url": "/quotes/anita_ekberg_395743"
+        },
+        "topics": [
+            {
+                "name": "The Most Important",
+                "url": "/topics/the_most_important"
+            },
+            {
+                "name": "Learn",
+                "url": "/topics/learn"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/anita_ekberg_229491",
+        "quote": "It was I who made Fellini famous, not the other way around.",
+        "author": {
+            "name": "Anita Ekberg",
+            "url": "/quotes/anita_ekberg_229491"
+        },
+        "topics": [
+            {
+                "name": "Famous",
+                "url": "/topics/famous"
+            },
+            {
+                "name": "Made",
+                "url": "/topics/made"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    }
+]

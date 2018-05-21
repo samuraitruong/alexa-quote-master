@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/robert_bloch_136492",
+        "quote": "I have the heart of a child. I keep it in a jar on my shelf.",
+        "author": {
+            "name": "Robert Bloch",
+            "url": "/quotes/robert_bloch_136492"
+        },
+        "topics": [
+            {
+                "name": "Heart",
+                "url": "/topics/heart"
+            },
+            {
+                "name": "Jar",
+                "url": "/topics/jar"
+            },
+            {
+                "name": "Keep",
+                "url": "/topics/keep"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_bloch_128841",
+        "quote": "The man who can smile when things go wrong has thought of someone else he can blame it on.",
+        "author": {
+            "name": "Robert Bloch",
+            "url": "/quotes/robert_bloch_128841"
+        },
+        "topics": [
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Someone",
+                "url": "/topics/someone"
+            },
+            {
+                "name": "Else",
+                "url": "/topics/else"
+            }
+        ]
+    }
+]

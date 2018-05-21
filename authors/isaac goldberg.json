@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/isaac_goldberg_170137",
+        "quote": "Diplomacy is to do and say the nastiest things in the nicest way.",
+        "author": {
+            "name": "Isaac Goldberg",
+            "url": "/quotes/isaac_goldberg_170137"
+        },
+        "topics": [
+            {
+                "name": "Diplomacy",
+                "url": "/topics/diplomacy"
+            },
+            {
+                "name": "Things",
+                "url": "/topics/things"
+            },
+            {
+                "name": "Nicest",
+                "url": "/topics/nicest"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/isaac_goldberg_175177",
+        "quote": "There is that smaller world which is the stage, and that larger stage which is the world.",
+        "author": {
+            "name": "Isaac Goldberg",
+            "url": "/quotes/isaac_goldberg_175177"
+        },
+        "topics": [
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Larger",
+                "url": "/topics/larger"
+            },
+            {
+                "name": "Smaller",
+                "url": "/topics/smaller"
+            }
+        ]
+    }
+]

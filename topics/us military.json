@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/bruce_jackson_298710?src=t_us_military",
+        "quote": "The US military still blames the media for stories and images that turned the American public against the war in Vietnam.",
+        "author": {
+            "name": "Bruce Jackson",
+            "url": "/authors/bruce_jackson"
+        },
+        "topics": [
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            },
+            {
+                "name": "Images",
+                "url": "/topics/images"
+            },
+            {
+                "name": "Stories",
+                "url": "/topics/stories"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bruce_sterling_265247?src=t_us_military",
+        "quote": "If bin Laden is in fact publicly killed, then the US military will find itself standing around with its hands in its pockets, wondering what's supposed to come next.",
+        "author": {
+            "name": "Bruce Sterling",
+            "url": "/authors/bruce_sterling"
+        },
+        "topics": [
+            {
+                "name": "Hands",
+                "url": "/topics/hands"
+            },
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            },
+            {
+                "name": "Fact",
+                "url": "/topics/fact"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/wietse_venema_333670?src=t_us_military",
+        "quote": "I don't expect an overnight change of all desktops to what the US Military used to call B3 level security. And even that would not stop users from shooting themselves into the foot.",
+        "author": {
+            "name": "Wietse Venema",
+            "url": "/authors/wietse_venema"
+        },
+        "topics": [
+            {
+                "name": "Change",
+                "url": "/topics/change"
+            },
+            {
+                "name": "Level",
+                "url": "/topics/level"
+            },
+            {
+                "name": "Shooting",
+                "url": "/topics/shooting"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mark_thomas_200881?src=t_us_military",
+        "quote": "Were British protesters, armed with little more than a frisbee and a bag of plastic toy soldiers, really in danger of being shot by the US military in Gloucestershire?",
+        "author": {
+            "name": "Mark Thomas",
+            "url": "/authors/mark_thomas"
+        },
+        "topics": [
+            {
+                "name": "Bag",
+                "url": "/topics/bag"
+            },
+            {
+                "name": "Soldiers",
+                "url": "/topics/soldiers"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            }
+        ]
+    }
+]

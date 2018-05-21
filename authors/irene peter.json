@@ -1,0 +1,130 @@
+[
+    {
+        "url": "/quotes/irene_peter_161612",
+        "quote": "Just because everything is different doesn't mean anything has changed.",
+        "author": {
+            "name": "Irene Peter",
+            "url": "/quotes/irene_peter_161612"
+        },
+        "topics": [
+            {
+                "name": "Change",
+                "url": "/topics/change"
+            },
+            {
+                "name": "Just Because",
+                "url": "/topics/just_because"
+            },
+            {
+                "name": "Mean",
+                "url": "/topics/mean"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/irene_peter_176277",
+        "quote": "Anyone who thinks there's safety in numbers hasn't looked at the stock market pages.",
+        "author": {
+            "name": "Irene Peter",
+            "url": "/quotes/irene_peter_176277"
+        },
+        "topics": [
+            {
+                "name": "Change",
+                "url": "/topics/change"
+            },
+            {
+                "name": "Stock Market",
+                "url": "/topics/stock_market"
+            },
+            {
+                "name": "Market",
+                "url": "/topics/market"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/irene_peter_388369",
+        "quote": "Today, if you are not confused, you are not thinking clearly.",
+        "author": {
+            "name": "Irene Peter",
+            "url": "/quotes/irene_peter_388369"
+        },
+        "topics": [
+            {
+                "name": "Today",
+                "url": "/topics/today"
+            },
+            {
+                "name": "Confused",
+                "url": "/topics/confused"
+            },
+            {
+                "name": "Clearly",
+                "url": "/topics/clearly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/irene_peter_137713",
+        "quote": "Always be sincere, even when you don't mean it.",
+        "author": {
+            "name": "Irene Peter",
+            "url": "/quotes/irene_peter_137713"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Mean",
+                "url": "/topics/mean"
+            },
+            {
+                "name": "Even",
+                "url": "/topics/even"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/irene_peter_176278",
+        "quote": "Ignorance is no excuse, it's the real thing.",
+        "author": {
+            "name": "Irene Peter",
+            "url": "/quotes/irene_peter_176278"
+        },
+        "topics": [
+            {
+                "name": "Intelligence",
+                "url": "/topics/intelligence"
+            },
+            {
+                "name": "Ignorance",
+                "url": "/topics/ignorance"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/irene_peter_388004",
+        "quote": "To make crime unprofitable, let the government run it.",
+        "author": {
+            "name": "Irene Peter",
+            "url": "/quotes/irene_peter_388004"
+        },
+        "topics": [
+            {
+                "name": "Run",
+                "url": "/topics/run"
+            },
+            {
+                "name": "Government",
+                "url": "/topics/government"
+            },
+            {
+                "name": "Crime",
+                "url": "/topics/crime"
+            }
+        ]
+    }
+]

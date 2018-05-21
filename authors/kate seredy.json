@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/kate_seredy_389730",
+        "quote": "Kill the snake of doubt in your soul, crush the worms of fear in your heart and mountains will move out of your way.",
+        "author": {
+            "name": "Kate Seredy",
+            "url": "/quotes/kate_seredy_389730"
+        },
+        "topics": [
+            {
+                "name": "Mountains",
+                "url": "/topics/mountains"
+            },
+            {
+                "name": "Move",
+                "url": "/topics/move"
+            },
+            {
+                "name": "Worms",
+                "url": "/topics/worms"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kate_seredy_392394",
+        "quote": "For yesterday and for all tomorrows, we dance the best we know.",
+        "author": {
+            "name": "Kate Seredy",
+            "url": "/quotes/kate_seredy_392394"
+        },
+        "topics": [
+            {
+                "name": "Best",
+                "url": "/topics/best"
+            },
+            {
+                "name": "Yesterday",
+                "url": "/topics/yesterday"
+            },
+            {
+                "name": "Know",
+                "url": "/topics/know"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kate_seredy_234296",
+        "quote": "There are hurts so deep that one cannot reach them or heal them with words.",
+        "author": {
+            "name": "Kate Seredy",
+            "url": "/quotes/kate_seredy_234296"
+        },
+        "topics": [
+            {
+                "name": "Deep",
+                "url": "/topics/deep"
+            },
+            {
+                "name": "Reach",
+                "url": "/topics/reach"
+            },
+            {
+                "name": "Hurts",
+                "url": "/topics/hurts"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kate_seredy_390377",
+        "quote": "I make money using my brains and lose money listening to my heart. But in the long run my books balance pretty well.",
+        "author": {
+            "name": "Kate Seredy",
+            "url": "/quotes/kate_seredy_390377"
+        },
+        "topics": [
+            {
+                "name": "Listening",
+                "url": "/topics/listening"
+            },
+            {
+                "name": "Pretty",
+                "url": "/topics/pretty"
+            },
+            {
+                "name": "Using",
+                "url": "/topics/using"
+            }
+        ]
+    }
+]

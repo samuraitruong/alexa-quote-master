@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/denis_law_140411",
+        "quote": "It was one of those goals that's invariably a goal.",
+        "author": {
+            "name": "Denis Law",
+            "url": "/quotes/denis_law_140411"
+        },
+        "topics": [
+            {
+                "name": "Goal",
+                "url": "/topics/goal"
+            },
+            {
+                "name": "Those",
+                "url": "/topics/those"
+            },
+            {
+                "name": "Invariably",
+                "url": "/topics/invariably"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/denis_law_140572",
+        "quote": "Who ever wins today will win the championship no matter who wins.",
+        "author": {
+            "name": "Denis Law",
+            "url": "/quotes/denis_law_140572"
+        },
+        "topics": [
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Ever",
+                "url": "/topics/ever"
+            },
+            {
+                "name": "Wins",
+                "url": "/topics/wins"
+            }
+        ]
+    }
+]

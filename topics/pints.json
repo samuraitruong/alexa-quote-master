@@ -1,0 +1,178 @@
+[
+    {
+        "url": "/quotes/stacy_london_531843?src=t_pints",
+        "quote": "I'm not one of those people who wakes up and thinks, 'Bring on the day!' I have to have about 7 pints of coffee before I'm even remotely awake. But I love the golden hour in the evening, as hokey as that sounds. Just as the sun is about to set and you get those lovely shadows and everything looks gold and yellow.",
+        "author": {
+            "name": "Stacy London",
+            "url": "/authors/stacy_london"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Bring",
+                "url": "/topics/bring"
+            },
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/taylor_swift_450969?src=t_pints",
+        "quote": "What makes me happy is just curling up in with my mom in her bed and watching a marathon of 'CSI' and 'Grey's Anatomy' episodes with pints of ice cream.",
+        "author": {
+            "name": "Taylor Swift",
+            "url": "/authors/taylor_swift"
+        },
+        "topics": [
+            {
+                "name": "Bed",
+                "url": "/topics/bed"
+            },
+            {
+                "name": "Marathon",
+                "url": "/topics/marathon"
+            },
+            {
+                "name": "Anatomy",
+                "url": "/topics/anatomy"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eric_bristow_287698?src=t_pints",
+        "quote": "I like a drink, mate. I'll have maybe 10 or 12 pints on a good night out.",
+        "author": {
+            "name": "Eric Bristow",
+            "url": "/authors/eric_bristow"
+        },
+        "topics": [
+            {
+                "name": "Night",
+                "url": "/topics/night"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Maybe",
+                "url": "/topics/maybe"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/adrian_mckinty_713629?src=t_pints",
+        "quote": "I did the same thing as every Irish person who comes to New York. I arrived on a Wednesday, and by Saturday night, I was pulling pints at a pub in the Bronx.",
+        "author": {
+            "name": "Adrian McKinty",
+            "url": "/authors/adrian_mckinty"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Saturday",
+                "url": "/topics/saturday"
+            },
+            {
+                "name": "Same Thing",
+                "url": "/topics/same_thing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/colin_morgan_630828?src=t_pints",
+        "quote": "I cannot wait to come back to Glasgow. I know the place like the back of my hand. In fact, one of the jobs I had as a student was in Cineworld. And I was always at gigs in King Tut's, Nice 'n' Sleazy's and the Barras. I played Ultimate Frisbee down on Glasgow Green and pulled pints in O'Neill's on Queen Street.",
+        "author": {
+            "name": "Colin Morgan",
+            "url": "/authors/colin_morgan"
+        },
+        "topics": [
+            {
+                "name": "Student",
+                "url": "/topics/student"
+            },
+            {
+                "name": "Wait",
+                "url": "/topics/wait"
+            },
+            {
+                "name": "Fact",
+                "url": "/topics/fact"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/anne_dudley_203933?src=t_pints",
+        "quote": "You know, nobody eats in England. Three or four pints of English beer a night fills you. I can't say I'm very impressed with the food in America. it's all sort of bland. Like turkey sandwiches.",
+        "author": {
+            "name": "Anne Dudley",
+            "url": "/authors/anne_dudley"
+        },
+        "topics": [
+            {
+                "name": "Impressed",
+                "url": "/topics/impressed"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Sandwiches",
+                "url": "/topics/sandwiches"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sophie_ellisbextor_205934?src=t_pints",
+        "quote": "I used to be hung up on my figure, but it's a waste of time. I don't believe in diets. Have four pints one night, be healthy the next.",
+        "author": {
+            "name": "Sophie Ellis-Bextor",
+            "url": "/authors/sophie_ellisbextor"
+        },
+        "topics": [
+            {
+                "name": "Diet",
+                "url": "/topics/diet"
+            },
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            },
+            {
+                "name": "Waste",
+                "url": "/topics/waste"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/katherine_kelly_773292?src=t_pints",
+        "quote": "It sounds so boring - and my brothers tease, 'Oh poor you, pulling pretend pints all day' - but it's very, very long hours, and you're knackered when you get home.",
+        "author": {
+            "name": "Katherine Kelly",
+            "url": "/authors/katherine_kelly"
+        },
+        "topics": [
+            {
+                "name": "Hours",
+                "url": "/topics/hours"
+            },
+            {
+                "name": "Brothers",
+                "url": "/topics/brothers"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    }
+]

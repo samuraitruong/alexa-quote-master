@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/jill_paice_615610",
+        "quote": "You can easily become boxed in and be only identified with musicals or plays.",
+        "author": {
+            "name": "Jill Paice",
+            "url": "/quotes/jill_paice_615610"
+        },
+        "topics": [
+            {
+                "name": "Boxed",
+                "url": "/topics/boxed"
+            },
+            {
+                "name": "Identified",
+                "url": "/topics/identified"
+            },
+            {
+                "name": "Plays",
+                "url": "/topics/plays"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jill_paice_615611",
+        "quote": "You have to learn to overcome those feelings when somebody is negative about a production you love or if that production doesn't do well commercially. After 'Gone With the Wind', I felt older. I even thought about quitting the business.",
+        "author": {
+            "name": "Jill Paice",
+            "url": "/quotes/jill_paice_615611"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Production",
+                "url": "/topics/production"
+            }
+        ]
+    }
+]

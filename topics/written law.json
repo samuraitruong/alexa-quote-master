@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/fawn_hall_208554?src=t_written_law",
+        "quote": "And sometimes you have to go above the written law, I believe.",
+        "author": {
+            "name": "Fawn Hall",
+            "url": "/authors/fawn_hall"
+        },
+        "topics": [
+            {
+                "name": "Law",
+                "url": "/topics/law"
+            },
+            {
+                "name": "Sometimes",
+                "url": "/topics/sometimes"
+            },
+            {
+                "name": "Go",
+                "url": "/topics/go"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/simon_wiesenthal_205788?src=t_written_law",
+        "quote": "For your benefit, learn from our tragedy. It is not a written law that the next victims must be Jews. It can also be other people.",
+        "author": {
+            "name": "Simon Wiesenthal",
+            "url": "/authors/simon_wiesenthal"
+        },
+        "topics": [
+            {
+                "name": "Law",
+                "url": "/topics/law"
+            },
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/cesare_beccaria_729761?src=t_written_law",
+        "quote": "When the code of laws is once fixed, it should be observed in the literal sense, and nothing more is left to the judge than to determine whether an action is or is not conformable to the written law.",
+        "author": {
+            "name": "Cesare Beccaria",
+            "url": "/authors/cesare_beccaria"
+        },
+        "topics": [
+            {
+                "name": "Law",
+                "url": "/topics/law"
+            },
+            {
+                "name": "Laws",
+                "url": "/topics/laws"
+            },
+            {
+                "name": "Code",
+                "url": "/topics/code"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/carrie_chapman_catt_134269?src=t_written_law",
+        "quote": "No written law has ever been more binding than unwritten custom supported by popular opinion.",
+        "author": {
+            "name": "Carrie Chapman Catt",
+            "url": "/authors/carrie_chapman_catt"
+        },
+        "topics": [
+            {
+                "name": "Law",
+                "url": "/topics/law"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tsakhiagiin_elbegdorj_662321?src=t_written_law",
+        "quote": "In the Great Mongol Empire, Mongols governed by a written law called the 'Ih Zasag,' which is translated as 'the Great Order.' It was an era when the Mongols strove to establish a new world order, thus, justice, peace and cooperation in their relations with other states and peoples.",
+        "author": {
+            "name": "Tsakhiagiin Elbegdorj",
+            "url": "/authors/tsakhiagiin_elbegdorj"
+        },
+        "topics": [
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Translated",
+                "url": "/topics/translated"
+            },
+            {
+                "name": "States",
+                "url": "/topics/states"
+            }
+        ]
+    }
+]

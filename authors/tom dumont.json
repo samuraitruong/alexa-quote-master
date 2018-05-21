@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/tom_dumont_665830",
+        "quote": "'One More Summer' is one of those songs that I think will go over really well.",
+        "author": {
+            "name": "Tom Dumont",
+            "url": "/quotes/tom_dumont_665830"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tom_dumont_665831",
+        "quote": "One of the fun things about playing live is watching the audience sing the songs back to us.",
+        "author": {
+            "name": "Tom Dumont",
+            "url": "/quotes/tom_dumont_665831"
+        },
+        "topics": [
+            {
+                "name": "Audience",
+                "url": "/topics/audience"
+            },
+            {
+                "name": "Back",
+                "url": "/topics/back"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    }
+]

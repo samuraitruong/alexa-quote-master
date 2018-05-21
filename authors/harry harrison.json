@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/harry_harrison_182751",
+        "quote": "The principles we live by, in business and in social life, are the most important part of happiness.",
+        "author": {
+            "name": "Harry Harrison",
+            "url": "/quotes/harry_harrison_182751"
+        },
+        "topics": [
+            {
+                "name": "The Most Important",
+                "url": "/topics/the_most_important"
+            },
+            {
+                "name": "Social",
+                "url": "/topics/social"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/harry_harrison_182752",
+        "quote": "I like Ireland because it means I'm near France.",
+        "author": {
+            "name": "Harry Harrison",
+            "url": "/quotes/harry_harrison_182752"
+        },
+        "topics": [
+            {
+                "name": "France",
+                "url": "/topics/france"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Means",
+                "url": "/topics/means"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/harry_harrison_182753",
+        "quote": "Most comic scriptwriters are very bad. The artists are good, but the writers are so bad.",
+        "author": {
+            "name": "Harry Harrison",
+            "url": "/quotes/harry_harrison_182753"
+        },
+        "topics": [
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    }
+]

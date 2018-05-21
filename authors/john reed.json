@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/john_reed_190109",
+        "quote": "Ten days that shook the world.",
+        "author": {
+            "name": "John Reed",
+            "url": "/quotes/john_reed_190109"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Days",
+                "url": "/topics/days"
+            },
+            {
+                "name": "Shook",
+                "url": "/topics/shook"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_reed_190108",
+        "quote": "In the relations of a weak Government and a rebellious people there comes a time when every act of the authorities exasperates the masses, and every refusal to act excites their contempt.",
+        "author": {
+            "name": "John Reed",
+            "url": "/quotes/john_reed_190108"
+        },
+        "topics": [
+            {
+                "name": "People",
+                "url": "/topics/people"
+            },
+            {
+                "name": "Refusal",
+                "url": "/topics/refusal"
+            },
+            {
+                "name": "Authorities",
+                "url": "/topics/authorities"
+            }
+        ]
+    }
+]

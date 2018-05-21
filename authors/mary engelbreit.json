@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/mary_engelbreit_530358",
+        "quote": "My mother always read to me as a child. I really believe that bonding time between a parent and child is so important and precious. I have lasting memories of those stories because the experience was special.",
+        "author": {
+            "name": "Mary Engelbreit",
+            "url": "/quotes/mary_engelbreit_530358"
+        },
+        "topics": [
+            {
+                "name": "Parent",
+                "url": "/topics/parent"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Read",
+                "url": "/topics/read"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mary_engelbreit_530359",
+        "quote": "I like to draw late at night when the house is quiet.",
+        "author": {
+            "name": "Mary Engelbreit",
+            "url": "/quotes/mary_engelbreit_530359"
+        },
+        "topics": [
+            {
+                "name": "Late",
+                "url": "/topics/late"
+            },
+            {
+                "name": "Night",
+                "url": "/topics/night"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    }
+]

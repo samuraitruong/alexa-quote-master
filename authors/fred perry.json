@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/fred_perry_181909",
+        "quote": "Tactics, fitness, stroke ability, adaptability, experience, and sportsmanship are all necessary for winning.",
+        "author": {
+            "name": "Fred Perry",
+            "url": "/quotes/fred_perry_181909"
+        },
+        "topics": [
+            {
+                "name": "Fitness",
+                "url": "/topics/fitness"
+            },
+            {
+                "name": "Winning",
+                "url": "/topics/winning"
+            },
+            {
+                "name": "Necessary",
+                "url": "/topics/necessary"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/fred_perry_181917",
+        "quote": "To its great credit, Wimbledon has been a leader in bringing about change and improvement in the sport.",
+        "author": {
+            "name": "Fred Perry",
+            "url": "/quotes/fred_perry_181917"
+        },
+        "topics": [
+            {
+                "name": "Leader",
+                "url": "/topics/leader"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Bringing",
+                "url": "/topics/bringing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/fred_perry_181911",
+        "quote": "I didn't aspire to be a good sport; 'champion' was good enough for me.",
+        "author": {
+            "name": "Fred Perry",
+            "url": "/quotes/fred_perry_181911"
+        },
+        "topics": [
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Aspire",
+                "url": "/topics/aspire"
+            },
+            {
+                "name": "Enough",
+                "url": "/topics/enough"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/fred_perry_181912",
+        "quote": "McEnroe has got to sit down and work out where he stands.",
+        "author": {
+            "name": "Fred Perry",
+            "url": "/quotes/fred_perry_181912"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Work Out",
+                "url": "/topics/work_out"
+            },
+            {
+                "name": "Stands",
+                "url": "/topics/stands"
+            }
+        ]
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "url": "/quotes/rachael_leigh_129337",
+        "quote": "They're not poodles, they're art.",
+        "author": {
+            "name": "Rachael Leigh",
+            "url": "/quotes/rachael_leigh_129337"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rachael_leigh_129333",
+        "quote": "If this whole acting thing doesn't work out, I'll just get a talk show.",
+        "author": {
+            "name": "Rachael Leigh",
+            "url": "/quotes/rachael_leigh_129333"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Show",
+                "url": "/topics/show"
+            },
+            {
+                "name": "Whole",
+                "url": "/topics/whole"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rachael_leigh_163534",
+        "quote": "I'm not small, I'm space-efficient.",
+        "author": {
+            "name": "Rachael Leigh",
+            "url": "/quotes/rachael_leigh_163534"
+        },
+        "topics": [
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            }
+        ]
+    }
+]

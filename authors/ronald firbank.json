@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/ronald_firbank_234271",
+        "quote": "The world is so dreadfully managed, one hardly knows to whom to complain.",
+        "author": {
+            "name": "Ronald Firbank",
+            "url": "/quotes/ronald_firbank_234271"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Whom",
+                "url": "/topics/whom"
+            },
+            {
+                "name": "Hardly",
+                "url": "/topics/hardly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ronald_firbank_380591",
+        "quote": "She made a ravishing corpse.",
+        "author": {
+            "name": "Ronald Firbank",
+            "url": "/quotes/ronald_firbank_380591"
+        },
+        "topics": [
+            {
+                "name": "She",
+                "url": "/topics/she"
+            },
+            {
+                "name": "Made",
+                "url": "/topics/made"
+            },
+            {
+                "name": "Corpse",
+                "url": "/topics/corpse"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ronald_firbank_392504",
+        "quote": "To be sympathetic without discrimination is so very debilitating.",
+        "author": {
+            "name": "Ronald Firbank",
+            "url": "/quotes/ronald_firbank_392504"
+        },
+        "topics": [
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Sympathetic",
+                "url": "/topics/sympathetic"
+            }
+        ]
+    }
+]

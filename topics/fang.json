@@ -1,0 +1,134 @@
+[
+    {
+        "url": "/quotes/chanakya_393648?src=t_fang",
+        "quote": "There is poison in the fang of the serpent, in the mouth of the fly and in the sting of a scorpion; but the wicked man is saturated with it.",
+        "author": {
+            "name": "Chanakya",
+            "url": "/authors/chanakya"
+        },
+        "topics": [
+            {
+                "name": "Fly",
+                "url": "/topics/fly"
+            },
+            {
+                "name": "Mouth",
+                "url": "/topics/mouth"
+            },
+            {
+                "name": "Poison",
+                "url": "/topics/poison"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nancy_mitford_390681?src=t_fang",
+        "quote": "I have only ever read one book in my life, and that is White Fang. It's so frightfully good I've never bothered to read another.",
+        "author": {
+            "name": "Nancy Mitford",
+            "url": "/authors/nancy_mitford"
+        },
+        "topics": [
+            {
+                "name": "Book",
+                "url": "/topics/book"
+            },
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Read",
+                "url": "/topics/read"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/phyllis_diller_158923?src=t_fang",
+        "quote": "I've been asked to say a couple of words about my husband, Fang. How about short and cheap?",
+        "author": {
+            "name": "Phyllis Diller",
+            "url": "/authors/phyllis_diller"
+        },
+        "topics": [
+            {
+                "name": "Words",
+                "url": "/topics/words"
+            },
+            {
+                "name": "Couple",
+                "url": "/topics/couple"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_patterson_234546?src=t_fang",
+        "quote": "I read some, and then visited with people involved in this curious, exciting and somewhat misunderstood sub-culture. I met with a fang maker, who offered to fit me for an exquisite pair.",
+        "author": {
+            "name": "James Patterson",
+            "url": "/authors/james_patterson"
+        },
+        "topics": [
+            {
+                "name": "Curious",
+                "url": "/topics/curious"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Read",
+                "url": "/topics/read"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/guy_gavriel_kay_528283?src=t_fang",
+        "quote": "Liu Fang is a truly gifted, world-famous player of the pipa and the guzheng, classical Chinese stringed instruments.",
+        "author": {
+            "name": "Guy Gavriel Kay",
+            "url": "/authors/guy_gavriel_kay"
+        },
+        "topics": [
+            {
+                "name": "Gifted",
+                "url": "/topics/gifted"
+            },
+            {
+                "name": "Chinese",
+                "url": "/topics/chinese"
+            },
+            {
+                "name": "Instruments",
+                "url": "/topics/instruments"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nate_powell_750739?src=t_fang",
+        "quote": "The books that stuck with me most as a child were 'A Wrinkle In Time', 'Dracula', 'Hatchet', 'Bunnicula', 'White Fang', and this YA/kids' book called 'Nobody's Fault' where a kid drowns one weekend as friends play around a flooded ditch.",
+        "author": {
+            "name": "Nate Powell",
+            "url": "/authors/nate_powell"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Ditch",
+                "url": "/topics/ditch"
+            },
+            {
+                "name": "Dracula",
+                "url": "/topics/dracula"
+            }
+        ]
+    }
+]

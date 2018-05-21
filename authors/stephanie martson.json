@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/stephanie_martson_400132",
+        "quote": "Isn't it strange that its easier to be gentle with the feelings of people we care less about than those of our children, whom we love so much?",
+        "author": {
+            "name": "Stephanie Martson",
+            "url": "/quotes/stephanie_martson_400132"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Less",
+                "url": "/topics/less"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/stephanie_martson_401991",
+        "quote": "The real question isn't whether you love your kids or not, but how well you are able to demonstrate your love and caring so that your children really feel loved.",
+        "author": {
+            "name": "Stephanie Martson",
+            "url": "/quotes/stephanie_martson_401991"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Question",
+                "url": "/topics/question"
+            },
+            {
+                "name": "Feel",
+                "url": "/topics/feel"
+            }
+        ]
+    }
+]

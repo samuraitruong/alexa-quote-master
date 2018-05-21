@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/floriana_lima_621284",
+        "quote": "I may have the 'Twilight: Breaking Dawn' soundtrack, which I've been told is embarrassing, but come on, there are some good songs on there.",
+        "author": {
+            "name": "Floriana Lima",
+            "url": "/quotes/floriana_lima_621284"
+        },
+        "topics": [
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Soundtrack",
+                "url": "/topics/soundtrack"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/floriana_lima_621285",
+        "quote": "Any kind of peanut butter/chocolate concoction is my jam.",
+        "author": {
+            "name": "Floriana Lima",
+            "url": "/quotes/floriana_lima_621285"
+        },
+        "topics": [
+            {
+                "name": "Kind",
+                "url": "/topics/kind"
+            },
+            {
+                "name": "Peanut",
+                "url": "/topics/peanut"
+            },
+            {
+                "name": "Jam",
+                "url": "/topics/jam"
+            }
+        ]
+    }
+]

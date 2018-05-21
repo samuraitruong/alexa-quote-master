@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/jimmie_davis_197501",
+        "quote": "Sunshine is a welcome thing. It brings a lot of brightness.",
+        "author": {
+            "name": "Jimmie Davis",
+            "url": "/quotes/jimmie_davis_197501"
+        },
+        "topics": [
+            {
+                "name": "Lot",
+                "url": "/topics/lot"
+            },
+            {
+                "name": "Brightness",
+                "url": "/topics/brightness"
+            },
+            {
+                "name": "Brings",
+                "url": "/topics/brings"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jimmie_davis_197502",
+        "quote": "A song is the most intangible thing in the world.",
+        "author": {
+            "name": "Jimmie Davis",
+            "url": "/quotes/jimmie_davis_197502"
+        },
+        "topics": [
+            {
+                "name": "Song",
+                "url": "/topics/song"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "Intangible",
+                "url": "/topics/intangible"
+            }
+        ]
+    }
+]

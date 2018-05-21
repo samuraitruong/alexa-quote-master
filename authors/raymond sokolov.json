@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/raymond_sokolov_113913",
+        "quote": "Manhattan is a narrow island off the coast of New Jersey devoted to the pursuit of lunch.",
+        "author": {
+            "name": "Raymond Sokolov",
+            "url": "/quotes/raymond_sokolov_113913"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Coast",
+                "url": "/topics/coast"
+            },
+            {
+                "name": "Devoted",
+                "url": "/topics/devoted"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/raymond_sokolov_117295",
+        "quote": "The Bar Room has a corner table placed strategically at a point diagonally across from the entrance. the table of tables in the setting of settings in the building of buildings. In the religion of lunch, this is the holy of holies.",
+        "author": {
+            "name": "Raymond Sokolov",
+            "url": "/quotes/raymond_sokolov_117295"
+        },
+        "topics": [
+            {
+                "name": "Lunch",
+                "url": "/topics/lunch"
+            },
+            {
+                "name": "Settings",
+                "url": "/topics/settings"
+            },
+            {
+                "name": "Placed",
+                "url": "/topics/placed"
+            }
+        ]
+    }
+]

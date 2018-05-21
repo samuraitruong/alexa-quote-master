@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/samuel_schmid_178876",
+        "quote": "There was the joke about Switzerland being an island surrounded by land. This was never true.",
+        "author": {
+            "name": "Samuel Schmid",
+            "url": "/quotes/samuel_schmid_178876"
+        },
+        "topics": [
+            {
+                "name": "Island",
+                "url": "/topics/island"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Surrounded",
+                "url": "/topics/surrounded"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/samuel_schmid_178874",
+        "quote": "Switzerland is part of the fight against terrorism. There is no neutrality against this threat.",
+        "author": {
+            "name": "Samuel Schmid",
+            "url": "/quotes/samuel_schmid_178874"
+        },
+        "topics": [
+            {
+                "name": "Terrorism",
+                "url": "/topics/terrorism"
+            },
+            {
+                "name": "Against",
+                "url": "/topics/against"
+            },
+            {
+                "name": "Part",
+                "url": "/topics/part"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/samuel_schmid_178875",
+        "quote": "The desire for security must be balanced with our regard for liberty.",
+        "author": {
+            "name": "Samuel Schmid",
+            "url": "/quotes/samuel_schmid_178875"
+        },
+        "topics": [
+            {
+                "name": "Security",
+                "url": "/topics/security"
+            },
+            {
+                "name": "Desire",
+                "url": "/topics/desire"
+            },
+            {
+                "name": "Liberty",
+                "url": "/topics/liberty"
+            }
+        ]
+    }
+]

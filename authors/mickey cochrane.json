@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/mickey_cochrane_625751",
+        "quote": "I didn't want to be a catcher. It was thrust upon me, as they say in the classics.",
+        "author": {
+            "name": "Mickey Cochrane",
+            "url": "/quotes/mickey_cochrane_625751"
+        },
+        "topics": [
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Catcher",
+                "url": "/topics/catcher"
+            },
+            {
+                "name": "Classics",
+                "url": "/topics/classics"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mickey_cochrane_625752",
+        "quote": "I was in a fever to get out from behind the plate. Oh boy, I was terrible back there.",
+        "author": {
+            "name": "Mickey Cochrane",
+            "url": "/quotes/mickey_cochrane_625752"
+        },
+        "topics": [
+            {
+                "name": "Behind",
+                "url": "/topics/behind"
+            },
+            {
+                "name": "Get",
+                "url": "/topics/get"
+            },
+            {
+                "name": "Fever",
+                "url": "/topics/fever"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mickey_cochrane_625753",
+        "quote": "When I was a player, I worried only about myself. Good money and easy work.",
+        "author": {
+            "name": "Mickey Cochrane",
+            "url": "/quotes/mickey_cochrane_625753"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Myself",
+                "url": "/topics/myself"
+            },
+            {
+                "name": "Money",
+                "url": "/topics/money"
+            }
+        ]
+    }
+]

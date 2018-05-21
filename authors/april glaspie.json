@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/april_glaspie_387935",
+        "quote": "We have no opinion on the Arab-Arab conflicts.",
+        "author": {
+            "name": "April Glaspie",
+            "url": "/quotes/april_glaspie_387935"
+        },
+        "topics": [
+            {
+                "name": "Opinion",
+                "url": "/topics/opinion"
+            },
+            {
+                "name": "Conflicts",
+                "url": "/topics/conflicts"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/april_glaspie_387969",
+        "quote": "We foolishly did not realize Saddam was stupid.",
+        "author": {
+            "name": "April Glaspie",
+            "url": "/quotes/april_glaspie_387969"
+        },
+        "topics": [
+            {
+                "name": "Stupid",
+                "url": "/topics/stupid"
+            },
+            {
+                "name": "Foolishly",
+                "url": "/topics/foolishly"
+            },
+            {
+                "name": "Saddam",
+                "url": "/topics/saddam"
+            }
+        ]
+    }
+]

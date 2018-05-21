@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/susan_molinari_401789",
+        "quote": "When I first got here, every time you'd say breast feeding on the House floor there would be a snicker. This has been happening since creation. Can we finally get a grip on it?",
+        "author": {
+            "name": "Susan Molinari",
+            "url": "/quotes/susan_molinari_401789"
+        },
+        "topics": [
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Grip",
+                "url": "/topics/grip"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/susan_molinari_406891",
+        "quote": "We don't separate out men and women working together in corporations.",
+        "author": {
+            "name": "Susan Molinari",
+            "url": "/quotes/susan_molinari_406891"
+        },
+        "topics": [
+            {
+                "name": "Men",
+                "url": "/topics/men"
+            },
+            {
+                "name": "Working",
+                "url": "/topics/working"
+            },
+            {
+                "name": "Separate",
+                "url": "/topics/separate"
+            }
+        ]
+    }
+]

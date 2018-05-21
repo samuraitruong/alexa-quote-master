@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/ron_lester_572398",
+        "quote": "I figured being fat was my destiny.",
+        "author": {
+            "name": "Ron Lester",
+            "url": "/quotes/ron_lester_572398"
+        },
+        "topics": [
+            {
+                "name": "Destiny",
+                "url": "/topics/destiny"
+            },
+            {
+                "name": "Fat",
+                "url": "/topics/fat"
+            },
+            {
+                "name": "Figured",
+                "url": "/topics/figured"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ron_lester_572399",
+        "quote": "The crew on 'Varsity Blues' was phenomenal.",
+        "author": {
+            "name": "Ron Lester",
+            "url": "/quotes/ron_lester_572399"
+        },
+        "topics": [
+            {
+                "name": "Blues",
+                "url": "/topics/blues"
+            },
+            {
+                "name": "Crew",
+                "url": "/topics/crew"
+            },
+            {
+                "name": "Phenomenal",
+                "url": "/topics/phenomenal"
+            }
+        ]
+    }
+]

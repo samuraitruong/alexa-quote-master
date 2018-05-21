@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/austin_farrer_112177",
+        "quote": "Christ does not save us by acting a parable of divine love; he acts the parable of divine love by saving us. That is the Christian faith.",
+        "author": {
+            "name": "Austin Farrer",
+            "url": "/quotes/austin_farrer_112177"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Christ",
+                "url": "/topics/christ"
+            },
+            {
+                "name": "Save",
+                "url": "/topics/save"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/austin_farrer_112179",
+        "quote": "Religion is more like response to a friend than it is like obedience to an expert.",
+        "author": {
+            "name": "Austin Farrer",
+            "url": "/quotes/austin_farrer_112179"
+        },
+        "topics": [
+            {
+                "name": "Religion",
+                "url": "/topics/religion"
+            },
+            {
+                "name": "Obedience",
+                "url": "/topics/obedience"
+            },
+            {
+                "name": "Expert",
+                "url": "/topics/expert"
+            }
+        ]
+    }
+]

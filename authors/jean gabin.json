@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/jean_gabin_307285",
+        "quote": "I understood immediately that to get success I had to make for the front door, not for the back one.",
+        "author": {
+            "name": "Jean Gabin",
+            "url": "/quotes/jean_gabin_307285"
+        },
+        "topics": [
+            {
+                "name": "Success",
+                "url": "/topics/success"
+            },
+            {
+                "name": "Door",
+                "url": "/topics/door"
+            },
+            {
+                "name": "Get",
+                "url": "/topics/get"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jean_gabin_307284",
+        "quote": "I don't think we should speak so much. What if we were singing a song? We split, whilst singing.",
+        "author": {
+            "name": "Jean Gabin",
+            "url": "/quotes/jean_gabin_307284"
+        },
+        "topics": [
+            {
+                "name": "Singing",
+                "url": "/topics/singing"
+            },
+            {
+                "name": "Song",
+                "url": "/topics/song"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            }
+        ]
+    }
+]

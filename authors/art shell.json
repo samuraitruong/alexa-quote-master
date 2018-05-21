@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/art_shell_509221",
+        "quote": "I'm a Raider. Die hard Raider.",
+        "author": {
+            "name": "Art Shell",
+            "url": "/quotes/art_shell_509221"
+        },
+        "topics": [
+            {
+                "name": "Die",
+                "url": "/topics/die"
+            },
+            {
+                "name": "Die Hard",
+                "url": "/topics/die_hard"
+            },
+            {
+                "name": "Raider",
+                "url": "/topics/raider"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/art_shell_404561",
+        "quote": "There comes a time when you have to shut it off, let it go, and say it's not going to happen.",
+        "author": {
+            "name": "Art Shell",
+            "url": "/quotes/art_shell_404561"
+        },
+        "topics": [
+            {
+                "name": "Happen",
+                "url": "/topics/happen"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Shut",
+                "url": "/topics/shut"
+            }
+        ]
+    }
+]

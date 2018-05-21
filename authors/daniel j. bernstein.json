@@ -1,0 +1,214 @@
+[
+    {
+        "url": "/quotes/daniel_j_bernstein_442326",
+        "quote": "I'm an academic. It's publish or perish.",
+        "author": {
+            "name": "Daniel J. Bernstein",
+            "url": "/quotes/daniel_j_bernstein_442326"
+        },
+        "topics": [
+            {
+                "name": "Academic",
+                "url": "/topics/academic"
+            },
+            {
+                "name": "Publish",
+                "url": "/topics/publish"
+            },
+            {
+                "name": "Perish",
+                "url": "/topics/perish"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/daniel_j_bernstein_380878",
+        "quote": "Just because it's automatic doesn't mean it works.",
+        "author": {
+            "name": "Daniel J. Bernstein",
+            "url": "/quotes/daniel_j_bernstein_380878"
+        },
+        "topics": [
+            {
+                "name": "Just Because",
+                "url": "/topics/just_because"
+            },
+            {
+                "name": "Mean",
+                "url": "/topics/mean"
+            },
+            {
+                "name": "Works",
+                "url": "/topics/works"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/daniel_j_bernstein_380894",
+        "quote": "I do engineering, not religion.",
+        "author": {
+            "name": "Daniel J. Bernstein",
+            "url": "/quotes/daniel_j_bernstein_380894"
+        },
+        "topics": [
+            {
+                "name": "Religion",
+                "url": "/topics/religion"
+            },
+            {
+                "name": "Engineering",
+                "url": "/topics/engineering"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/daniel_j_bernstein_381995",
+        "quote": "I thank God for not making me a computer scientist.",
+        "author": {
+            "name": "Daniel J. Bernstein",
+            "url": "/quotes/daniel_j_bernstein_381995"
+        },
+        "topics": [
+            {
+                "name": "Computer",
+                "url": "/topics/computer"
+            },
+            {
+                "name": "Making",
+                "url": "/topics/making"
+            },
+            {
+                "name": "Scientist",
+                "url": "/topics/scientist"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/daniel_j_bernstein_388517",
+        "quote": "I won't be satisfied until I've put the entire security industry out of work.",
+        "author": {
+            "name": "Daniel J. Bernstein",
+            "url": "/quotes/daniel_j_bernstein_388517"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Security",
+                "url": "/topics/security"
+            },
+            {
+                "name": "Satisfied",
+                "url": "/topics/satisfied"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/daniel_j_bernstein_389535",
+        "quote": "I have discovered that there are two types of command interfaces in the world of computing: good interfaces and user interfaces.",
+        "author": {
+            "name": "Daniel J. Bernstein",
+            "url": "/quotes/daniel_j_bernstein_389535"
+        },
+        "topics": [
+            {
+                "name": "Computing",
+                "url": "/topics/computing"
+            },
+            {
+                "name": "Discovered",
+                "url": "/topics/discovered"
+            },
+            {
+                "name": "Types",
+                "url": "/topics/types"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/daniel_j_bernstein_390763",
+        "quote": "In general, the Internet was not designed to accommodate deliberate failures to communicate.",
+        "author": {
+            "name": "Daniel J. Bernstein",
+            "url": "/quotes/daniel_j_bernstein_390763"
+        },
+        "topics": [
+            {
+                "name": "General",
+                "url": "/topics/general"
+            },
+            {
+                "name": "Failures",
+                "url": "/topics/failures"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/daniel_j_bernstein_390768",
+        "quote": "The average user doesn't give a damn what happens, as long as (1) it works and (2) it's fast.",
+        "author": {
+            "name": "Daniel J. Bernstein",
+            "url": "/quotes/daniel_j_bernstein_390768"
+        },
+        "topics": [
+            {
+                "name": "Damn",
+                "url": "/topics/damn"
+            },
+            {
+                "name": "Average",
+                "url": "/topics/average"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/daniel_j_bernstein_391195",
+        "quote": "The most important function of a bibliographic entry is to help the reader obtain a copy of the cited work.",
+        "author": {
+            "name": "Daniel J. Bernstein",
+            "url": "/quotes/daniel_j_bernstein_391195"
+        },
+        "topics": [
+            {
+                "name": "Important",
+                "url": "/topics/important"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "Obtain",
+                "url": "/topics/obtain"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/daniel_j_bernstein_392316",
+        "quote": "From a security perspective, if you're connected, you're screwed.",
+        "author": {
+            "name": "Daniel J. Bernstein",
+            "url": "/quotes/daniel_j_bernstein_392316"
+        },
+        "topics": [
+            {
+                "name": "Security",
+                "url": "/topics/security"
+            },
+            {
+                "name": "Connected",
+                "url": "/topics/connected"
+            },
+            {
+                "name": "Screwed",
+                "url": "/topics/screwed"
+            }
+        ]
+    }
+]

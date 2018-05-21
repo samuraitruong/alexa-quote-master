@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/barbara_pym_126412",
+        "quote": "Those quotations were really quite obscure. Anyone can see that he is a very well read man.",
+        "author": {
+            "name": "Barbara Pym",
+            "url": "/quotes/barbara_pym_126412"
+        },
+        "topics": [
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Read",
+                "url": "/topics/read"
+            },
+            {
+                "name": "Quotations",
+                "url": "/topics/quotations"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/barbara_pym_143413",
+        "quote": "How absurd and delicious it is to be in love with somebody younger than yourself. Everybody should try it.",
+        "author": {
+            "name": "Barbara Pym",
+            "url": "/quotes/barbara_pym_143413"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Everybody",
+                "url": "/topics/everybody"
+            },
+            {
+                "name": "How",
+                "url": "/topics/how"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/stephen_strasburg_665826",
+        "quote": "I want to be the guy that can go out there and go at least seven, eight innings every time out.",
+        "author": {
+            "name": "Stephen Strasburg",
+            "url": "/quotes/stephen_strasburg_665826"
+        },
+        "topics": [
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Go",
+                "url": "/topics/go"
+            },
+            {
+                "name": "Least",
+                "url": "/topics/least"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/stephen_strasburg_665827",
+        "quote": "I want to be the horse in the rotation that everybody can really rely on and is going to get that consistent starter.",
+        "author": {
+            "name": "Stephen Strasburg",
+            "url": "/quotes/stephen_strasburg_665827"
+        },
+        "topics": [
+            {
+                "name": "Horse",
+                "url": "/topics/horse"
+            },
+            {
+                "name": "Everybody",
+                "url": "/topics/everybody"
+            },
+            {
+                "name": "Starter",
+                "url": "/topics/starter"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/roald_amundsen_179783",
+        "quote": "Adventure is just bad planning.",
+        "author": {
+            "name": "Roald Amundsen",
+            "url": "/quotes/roald_amundsen_179783"
+        },
+        "topics": [
+            {
+                "name": "Adventure",
+                "url": "/topics/adventure"
+            },
+            {
+                "name": "Planning",
+                "url": "/topics/planning"
+            },
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/roald_amundsen_179786",
+        "quote": "We must always remember with gratitude and admiration the first sailors who steered their vessels through storms and mists, and increased our knowledge of the lands of ice in the South.",
+        "author": {
+            "name": "Roald Amundsen",
+            "url": "/quotes/roald_amundsen_179786"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Increased",
+                "url": "/topics/increased"
+            }
+        ]
+    }
+]

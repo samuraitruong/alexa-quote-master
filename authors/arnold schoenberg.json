@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/arnold_schoenberg_187326",
+        "quote": "I owe very, very much to Mozart; and if one studies, for instance, the way in which I write for string quartet, then one cannot deny that I have learned this directly from Mozart. And I am proud of it!",
+        "author": {
+            "name": "Arnold Schoenberg",
+            "url": "/quotes/arnold_schoenberg_187326"
+        },
+        "topics": [
+            {
+                "name": "String",
+                "url": "/topics/string"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Instance",
+                "url": "/topics/instance"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/arnold_schoenberg_187323",
+        "quote": "I never was very capable of expressing my feelings or emotions in words. I don't know whether this is the cause why I did it in music and also why I did it in painting. Or vice versa: That I had this way as an outlet. I could renounce expressing something in words.",
+        "author": {
+            "name": "Arnold Schoenberg",
+            "url": "/quotes/arnold_schoenberg_187323"
+        },
+        "topics": [
+            {
+                "name": "Expressing",
+                "url": "/topics/expressing"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Cause",
+                "url": "/topics/cause"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/anne_cox_chambers_681152",
+        "quote": "Bill Milliken is a big hero of mine.",
+        "author": {
+            "name": "Anne Cox Chambers",
+            "url": "/quotes/anne_cox_chambers_681152"
+        },
+        "topics": [
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Mine",
+                "url": "/topics/mine"
+            },
+            {
+                "name": "Bill",
+                "url": "/topics/bill"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/anne_cox_chambers_681153",
+        "quote": "When my sister and I came along, my father's political life was completely over. He ran for president the year I was born. So that was the end of it. He had been congressman first, then governor, before all that. So when we came along, he was running the Dayton newspaper.",
+        "author": {
+            "name": "Anne Cox Chambers",
+            "url": "/quotes/anne_cox_chambers_681153"
+        },
+        "topics": [
+            {
+                "name": "Newspaper",
+                "url": "/topics/newspaper"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Dayton",
+                "url": "/topics/dayton"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/anne_cox_chambers_681154",
+        "quote": "I just am a Democrat. I could never, never be a Republican.",
+        "author": {
+            "name": "Anne Cox Chambers",
+            "url": "/quotes/anne_cox_chambers_681154"
+        },
+        "topics": [
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Democrat",
+                "url": "/topics/democrat"
+            },
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            }
+        ]
+    }
+]

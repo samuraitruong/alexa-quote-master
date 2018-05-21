@@ -1,0 +1,156 @@
+[
+    {
+        "url": "/quotes/napoleon_bonaparte_383851?src=t_retract",
+        "quote": "In politics... never retreat, never retract... never admit a mistake.",
+        "author": {
+            "name": "Napoleon Bonaparte",
+            "url": "/authors/napoleon_bonaparte"
+        },
+        "topics": [
+            {
+                "name": "Politics",
+                "url": "/topics/politics"
+            },
+            {
+                "name": "Mistake",
+                "url": "/topics/mistake"
+            },
+            {
+                "name": "Retreat",
+                "url": "/topics/retreat"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joseph_joubert_118561?src=t_retract",
+        "quote": "Those who never retract their opinions love themselves more than they love the truth.",
+        "author": {
+            "name": "Joseph Joubert",
+            "url": "/authors/joseph_joubert"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Truth",
+                "url": "/topics/truth"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/michael_palin_582837?src=t_retract",
+        "quote": "People say the most stupid things on the spur of the moment that they then have to retract.",
+        "author": {
+            "name": "Michael Palin",
+            "url": "/authors/michael_palin"
+        },
+        "topics": [
+            {
+                "name": "Stupid",
+                "url": "/topics/stupid"
+            },
+            {
+                "name": "Things",
+                "url": "/topics/things"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ze_frank_694888?src=t_retract",
+        "quote": "The story of technology seems to go up and then retract into simplicity again.",
+        "author": {
+            "name": "Ze Frank",
+            "url": "/authors/ze_frank"
+        },
+        "topics": [
+            {
+                "name": "Simplicity",
+                "url": "/topics/simplicity"
+            },
+            {
+                "name": "Go",
+                "url": "/topics/go"
+            },
+            {
+                "name": "Again",
+                "url": "/topics/again"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/solomon_ibn_gabirol_150695?src=t_retract",
+        "quote": "I am better able to retract what I did not say than what I did.",
+        "author": {
+            "name": "Solomon Ibn Gabirol",
+            "url": "/authors/solomon_ibn_gabirol"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Better",
+                "url": "/topics/better"
+            },
+            {
+                "name": "Able",
+                "url": "/topics/able"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mary_hart_337593?src=t_retract",
+        "quote": "I can't think of a major story that we have broken that was incorrect. But we have had to correct some things that were false; we have had to retract things.",
+        "author": {
+            "name": "Mary Hart",
+            "url": "/authors/mary_hart"
+        },
+        "topics": [
+            {
+                "name": "Broken",
+                "url": "/topics/broken"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/michael_isikoff_255376?src=t_retract",
+        "quote": "I think the bottom line for me and for Newsweek is that there were a lot of - we did retract this specific matter about the Koran and the toilet for the reasons that you just cited.",
+        "author": {
+            "name": "Michael Isikoff",
+            "url": "/authors/michael_isikoff"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Koran",
+                "url": "/topics/koran"
+            }
+        ]
+    }
+]

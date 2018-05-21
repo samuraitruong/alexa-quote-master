@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/william_empson_397414?src=t_draught",
+        "quote": "My heart pumps yet the poison draught of you.",
+        "author": {
+            "name": "William Empson",
+            "url": "/authors/william_empson"
+        },
+        "topics": [
+            {
+                "name": "Heart",
+                "url": "/topics/heart"
+            },
+            {
+                "name": "You",
+                "url": "/topics/you"
+            },
+            {
+                "name": "Poison",
+                "url": "/topics/poison"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/maya_angelou_578822?src=t_draught",
+        "quote": "Independence is a heady draught, and if you drink it in your youth, it can have the same effect on the brain as young wine does. It does not matter that its taste is not always appealing. It is addictive and with each drink you want more.",
+        "author": {
+            "name": "Maya Angelou",
+            "url": "/authors/maya_angelou"
+        },
+        "topics": [
+            {
+                "name": "Independence",
+                "url": "/topics/independence"
+            },
+            {
+                "name": "Young",
+                "url": "/topics/young"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/anacharsis_183134?src=t_draught",
+        "quote": "The first draught serveth for health, the second for pleasure, the third for shame, and the fourth for madness.",
+        "author": {
+            "name": "Anacharsis",
+            "url": "/authors/anacharsis"
+        },
+        "topics": [
+            {
+                "name": "Madness",
+                "url": "/topics/madness"
+            },
+            {
+                "name": "Shame",
+                "url": "/topics/shame"
+            },
+            {
+                "name": "Third",
+                "url": "/topics/third"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_eliot_148932?src=t_draught",
+        "quote": "More helpful than all wisdom is one draught of simple human pity that will not forsake us.",
+        "author": {
+            "name": "George Eliot",
+            "url": "/authors/george_eliot"
+        },
+        "topics": [
+            {
+                "name": "Simple",
+                "url": "/topics/simple"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nathaniel_smith_188101?src=t_draught",
+        "quote": "There is much boasting among the young men about their teams as their horse and carts in Cleveland. Most of the Yorkshire men take as much delight in their ox draught as they used to do in their Horse Draught.",
+        "author": {
+            "name": "Nathaniel Smith",
+            "url": "/authors/nathaniel_smith"
+        },
+        "topics": [
+            {
+                "name": "Young",
+                "url": "/topics/young"
+            },
+            {
+                "name": "Yorkshire",
+                "url": "/topics/yorkshire"
+            },
+            {
+                "name": "Teams",
+                "url": "/topics/teams"
+            }
+        ]
+    }
+]

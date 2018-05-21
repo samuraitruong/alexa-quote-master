@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/thomas_hunt_morgan_197427",
+        "quote": "The egg of every species of animal or plant carries a definite number of bodies called chromosomes. The sperm carries the same number. Consequently, when the sperm unites with the egg, the fertilized egg will contain the double number of chromosomes.",
+        "author": {
+            "name": "Thomas Hunt Morgan",
+            "url": "/quotes/thomas_hunt_morgan_197427"
+        },
+        "topics": [
+            {
+                "name": "Egg",
+                "url": "/topics/egg"
+            },
+            {
+                "name": "Contain",
+                "url": "/topics/contain"
+            },
+            {
+                "name": "Definite",
+                "url": "/topics/definite"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_hunt_morgan_197426",
+        "quote": "Two years work wasted, I have been breeding those flies for all that time and I've got nothing out of it.",
+        "author": {
+            "name": "Thomas Hunt Morgan",
+            "url": "/quotes/thomas_hunt_morgan_197426"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Flies",
+                "url": "/topics/flies"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_hunt_morgan_197428",
+        "quote": "For each chromosome contributed by the sperm there is a corresponding chromosome contributed by the egg, there are two chromosomes of each kind, which together constitute a pair.",
+        "author": {
+            "name": "Thomas Hunt Morgan",
+            "url": "/quotes/thomas_hunt_morgan_197428"
+        },
+        "topics": [
+            {
+                "name": "Egg",
+                "url": "/topics/egg"
+            },
+            {
+                "name": "Kind",
+                "url": "/topics/kind"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    }
+]

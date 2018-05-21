@@ -1,0 +1,126 @@
+[
+    {
+        "url": "/quotes/paul_brown_378933",
+        "quote": "When you win, say nothing. When you lose, say less.",
+        "author": {
+            "name": "Paul Brown",
+            "url": "/quotes/paul_brown_378933"
+        },
+        "topics": [
+            {
+                "name": "Lose",
+                "url": "/topics/lose"
+            },
+            {
+                "name": "Say",
+                "url": "/topics/say"
+            },
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_brown_131380",
+        "quote": "A winner never whines.",
+        "author": {
+            "name": "Paul Brown",
+            "url": "/quotes/paul_brown_131380"
+        },
+        "topics": [
+            {
+                "name": "Winner",
+                "url": "/topics/winner"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_brown_388248",
+        "quote": "What we have currently available is what we have available.",
+        "author": {
+            "name": "Paul Brown",
+            "url": "/quotes/paul_brown_388248"
+        },
+        "topics": [
+            {
+                "name": "Available",
+                "url": "/topics/available"
+            },
+            {
+                "name": "Currently",
+                "url": "/topics/currently"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_brown_135136",
+        "quote": "The key to winning is poise under stress.",
+        "author": {
+            "name": "Paul Brown",
+            "url": "/quotes/paul_brown_135136"
+        },
+        "topics": [
+            {
+                "name": "Stress",
+                "url": "/topics/stress"
+            },
+            {
+                "name": "Winning",
+                "url": "/topics/winning"
+            },
+            {
+                "name": "Poise",
+                "url": "/topics/poise"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_brown_176253",
+        "quote": "You can learn a line from a win and a book from a defeat.",
+        "author": {
+            "name": "Paul Brown",
+            "url": "/quotes/paul_brown_176253"
+        },
+        "topics": [
+            {
+                "name": "Defeat",
+                "url": "/topics/defeat"
+            },
+            {
+                "name": "Learn",
+                "url": "/topics/learn"
+            },
+            {
+                "name": "Line",
+                "url": "/topics/line"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_brown_176252",
+        "quote": "Football is a game of errors. The team that makes the fewest errors in a game usually wins.",
+        "author": {
+            "name": "Paul Brown",
+            "url": "/quotes/paul_brown_176252"
+        },
+        "topics": [
+            {
+                "name": "Game",
+                "url": "/topics/game"
+            },
+            {
+                "name": "Wins",
+                "url": "/topics/wins"
+            },
+            {
+                "name": "Makes",
+                "url": "/topics/makes"
+            }
+        ]
+    }
+]

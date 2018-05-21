@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/george_raft_164752",
+        "quote": "Part of the $10 million I spent on gambling, part on booze and part on women. The rest I spent foolishly.",
+        "author": {
+            "name": "George Raft",
+            "url": "/quotes/george_raft_164752"
+        },
+        "topics": [
+            {
+                "name": "Rest",
+                "url": "/topics/rest"
+            },
+            {
+                "name": "Million",
+                "url": "/topics/million"
+            },
+            {
+                "name": "Booze",
+                "url": "/topics/booze"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_raft_326294",
+        "quote": "Part of it went on gambling, and part of it went on women. The rest I spent foolishly.",
+        "author": {
+            "name": "George Raft",
+            "url": "/quotes/george_raft_326294"
+        },
+        "topics": [
+            {
+                "name": "Rest",
+                "url": "/topics/rest"
+            },
+            {
+                "name": "Part",
+                "url": "/topics/part"
+            },
+            {
+                "name": "Foolishly",
+                "url": "/topics/foolishly"
+            }
+        ]
+    }
+]

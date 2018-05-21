@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/bruce_perens_409536",
+        "quote": "It's not about ego. Really. If it was ego, I'd be telling you about my awesome... oh, never mind.",
+        "author": {
+            "name": "Bruce Perens",
+            "url": "/quotes/bruce_perens_409536"
+        },
+        "topics": [
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Telling",
+                "url": "/topics/telling"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bruce_perens_409535",
+        "quote": "The strategic marketing paradigm of Open Source is a massively-parallel drunkard's walk filtered by a Darwinistic process.",
+        "author": {
+            "name": "Bruce Perens",
+            "url": "/quotes/bruce_perens_409535"
+        },
+        "topics": [
+            {
+                "name": "Process",
+                "url": "/topics/process"
+            },
+            {
+                "name": "Marketing",
+                "url": "/topics/marketing"
+            },
+            {
+                "name": "Filtered",
+                "url": "/topics/filtered"
+            }
+        ]
+    }
+]

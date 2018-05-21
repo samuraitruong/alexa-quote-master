@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/loleatta_holloway_497123",
+        "quote": "I never thought of myself as a good singer.",
+        "author": {
+            "name": "Loleatta Holloway",
+            "url": "/quotes/loleatta_holloway_497123"
+        },
+        "topics": [
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Singer",
+                "url": "/topics/singer"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/loleatta_holloway_497124",
+        "quote": "When I was 5 years old I started singing in church and I hated my voice because I sounded like a grown woman, not a child. I was ashamed of it.",
+        "author": {
+            "name": "Loleatta Holloway",
+            "url": "/quotes/loleatta_holloway_497124"
+        },
+        "topics": [
+            {
+                "name": "Woman",
+                "url": "/topics/woman"
+            },
+            {
+                "name": "Voice",
+                "url": "/topics/voice"
+            },
+            {
+                "name": "Ashamed",
+                "url": "/topics/ashamed"
+            }
+        ]
+    }
+]

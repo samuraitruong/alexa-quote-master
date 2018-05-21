@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/cristobal_balenciaga_711371",
+        "quote": "A woman has no need to be perfect or even beautiful to wear my dresses. The dress will do all that for her.",
+        "author": {
+            "name": "Cristobal Balenciaga",
+            "url": "/quotes/cristobal_balenciaga_711371"
+        },
+        "topics": [
+            {
+                "name": "Beautiful",
+                "url": "/topics/beautiful"
+            },
+            {
+                "name": "Woman",
+                "url": "/topics/woman"
+            },
+            {
+                "name": "Dress",
+                "url": "/topics/dress"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/cristobal_balenciaga_711372",
+        "quote": "Elegance is elimination.",
+        "author": {
+            "name": "Cristobal Balenciaga",
+            "url": "/quotes/cristobal_balenciaga_711372"
+        },
+        "topics": [
+            {
+                "name": "Elegance",
+                "url": "/topics/elegance"
+            },
+            {
+                "name": "Elimination",
+                "url": "/topics/elimination"
+            }
+        ]
+    }
+]

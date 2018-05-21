@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/john_ericsson_197601",
+        "quote": "Now comes the reign of iron.",
+        "author": {
+            "name": "John Ericsson",
+            "url": "/quotes/john_ericsson_197601"
+        },
+        "topics": [
+            {
+                "name": "Now",
+                "url": "/topics/now"
+            },
+            {
+                "name": "Iron",
+                "url": "/topics/iron"
+            },
+            {
+                "name": "Reign",
+                "url": "/topics/reign"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_ericsson_197603",
+        "quote": "Mode of providing steam power to locomotives.",
+        "author": {
+            "name": "John Ericsson",
+            "url": "/quotes/john_ericsson_197603"
+        },
+        "topics": [
+            {
+                "name": "Steam",
+                "url": "/topics/steam"
+            },
+            {
+                "name": "Mode",
+                "url": "/topics/mode"
+            },
+            {
+                "name": "Providing",
+                "url": "/topics/providing"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/junior_johnson_405488",
+        "quote": "I just prefer wood. I like the smell. To me, it's a lot cheaper than electric or gas, and it's more convenient. It's just a better heat to me.",
+        "author": {
+            "name": "Junior Johnson",
+            "url": "/quotes/junior_johnson_405488"
+        },
+        "topics": [
+            {
+                "name": "Heat",
+                "url": "/topics/heat"
+            },
+            {
+                "name": "Cheaper",
+                "url": "/topics/cheaper"
+            },
+            {
+                "name": "Prefer",
+                "url": "/topics/prefer"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/junior_johnson_405489",
+        "quote": "Since my induction into the Sports Hall of Fame, I have wanted to have my No. 3 Chevy on exhibit for sports fans to see. I hope others will enjoy the car as much as I have.",
+        "author": {
+            "name": "Junior Johnson",
+            "url": "/quotes/junior_johnson_405489"
+        },
+        "topics": [
+            {
+                "name": "Sports",
+                "url": "/topics/sports"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Chevy",
+                "url": "/topics/chevy"
+            }
+        ]
+    }
+]

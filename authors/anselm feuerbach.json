@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/anselm_feuerbach_190380",
+        "quote": "Theology is anthropology.",
+        "author": {
+            "name": "Anselm Feuerbach",
+            "url": "/quotes/anselm_feuerbach_190380"
+        },
+        "topics": [
+            {
+                "name": "Anthropology",
+                "url": "/topics/anthropology"
+            },
+            {
+                "name": "Theology",
+                "url": "/topics/theology"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/anselm_feuerbach_190381",
+        "quote": "If someone gives you so-called good advice, do the opposite; you can be sure it will be the right thing nine out of 10 times.",
+        "author": {
+            "name": "Anselm Feuerbach",
+            "url": "/quotes/anselm_feuerbach_190381"
+        },
+        "topics": [
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Sure",
+                "url": "/topics/sure"
+            },
+            {
+                "name": "Nine",
+                "url": "/topics/nine"
+            }
+        ]
+    }
+]

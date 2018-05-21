@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/mark_boone_junior_456693",
+        "quote": "I'm a big singer. I really love it.",
+        "author": {
+            "name": "Mark Boone Junior",
+            "url": "/quotes/mark_boone_junior_456693"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Singer",
+                "url": "/topics/singer"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mark_boone_junior_456694",
+        "quote": "I started riding bikes when I was really young, but I stopped when I was 19 because my mother asked me to, so I stopped riding for 35 years and now I'm just addicted. It is my only addiction.",
+        "author": {
+            "name": "Mark Boone Junior",
+            "url": "/quotes/mark_boone_junior_456694"
+        },
+        "topics": [
+            {
+                "name": "Bikes",
+                "url": "/topics/bikes"
+            },
+            {
+                "name": "Stopped",
+                "url": "/topics/stopped"
+            },
+            {
+                "name": "Addicted",
+                "url": "/topics/addicted"
+            }
+        ]
+    }
+]

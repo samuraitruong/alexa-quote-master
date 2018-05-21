@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/harry_f_byrd_333034",
+        "quote": "I stand for strict economy in governmental affairs.",
+        "author": {
+            "name": "Harry F. Byrd",
+            "url": "/quotes/harry_f_byrd_333034"
+        },
+        "topics": [
+            {
+                "name": "Stand",
+                "url": "/topics/stand"
+            },
+            {
+                "name": "Economy",
+                "url": "/topics/economy"
+            },
+            {
+                "name": "Strict",
+                "url": "/topics/strict"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/harry_f_byrd_333035",
+        "quote": "The State of Virginia is similar to a great business corporation... and should be conducted with the same efficiency and economy as any private business.",
+        "author": {
+            "name": "Harry F. Byrd",
+            "url": "/quotes/harry_f_byrd_333035"
+        },
+        "topics": [
+            {
+                "name": "Efficiency",
+                "url": "/topics/efficiency"
+            },
+            {
+                "name": "Similar",
+                "url": "/topics/similar"
+            },
+            {
+                "name": "Private",
+                "url": "/topics/private"
+            }
+        ]
+    }
+]

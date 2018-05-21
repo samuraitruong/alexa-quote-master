@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/amado_boudou_428863",
+        "quote": "Rock helps me communicate directly with the people because rock doesn't lie, and people are fed up with lying politicians.",
+        "author": {
+            "name": "Amado Boudou",
+            "url": "/quotes/amado_boudou_428863"
+        },
+        "topics": [
+            {
+                "name": "Lie",
+                "url": "/topics/lie"
+            },
+            {
+                "name": "Communicate",
+                "url": "/topics/communicate"
+            },
+            {
+                "name": "Fed",
+                "url": "/topics/fed"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/amado_boudou_428864",
+        "quote": "In the medium or long term we'll all be dead. Let's deal with the problems at hand.",
+        "author": {
+            "name": "Amado Boudou",
+            "url": "/quotes/amado_boudou_428864"
+        },
+        "topics": [
+            {
+                "name": "Deal",
+                "url": "/topics/deal"
+            },
+            {
+                "name": "Dead",
+                "url": "/topics/dead"
+            },
+            {
+                "name": "Term",
+                "url": "/topics/term"
+            }
+        ]
+    }
+]

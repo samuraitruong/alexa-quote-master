@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/caecilius_statius_181153",
+        "quote": "He plants trees to benefit another generation.",
+        "author": {
+            "name": "Caecilius Statius",
+            "url": "/quotes/caecilius_statius_181153"
+        },
+        "topics": [
+            {
+                "name": "Gardening",
+                "url": "/topics/gardening"
+            },
+            {
+                "name": "Generation",
+                "url": "/topics/generation"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/caecilius_statius_181151",
+        "quote": "The whole world is a man's birthplace.",
+        "author": {
+            "name": "Caecilius Statius",
+            "url": "/quotes/caecilius_statius_181151"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Birthplace",
+                "url": "/topics/birthplace"
+            },
+            {
+                "name": "Whole",
+                "url": "/topics/whole"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/caecilius_statius_181149",
+        "quote": "Fear created the first gods in the world.",
+        "author": {
+            "name": "Caecilius Statius",
+            "url": "/quotes/caecilius_statius_181149"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Gods",
+                "url": "/topics/gods"
+            },
+            {
+                "name": "Created",
+                "url": "/topics/created"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/caecilius_statius_181150",
+        "quote": "Grant us a brief delay; impulse in everything is but a worthless servant.",
+        "author": {
+            "name": "Caecilius Statius",
+            "url": "/quotes/caecilius_statius_181150"
+        },
+        "topics": [
+            {
+                "name": "Worthless",
+                "url": "/topics/worthless"
+            },
+            {
+                "name": "Servant",
+                "url": "/topics/servant"
+            },
+            {
+                "name": "Brief",
+                "url": "/topics/brief"
+            }
+        ]
+    }
+]

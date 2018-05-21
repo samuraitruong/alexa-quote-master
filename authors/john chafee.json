@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/john_chafee_326448",
+        "quote": "Caution, not exuberance, should be our fiscal motto.",
+        "author": {
+            "name": "John Chafee",
+            "url": "/quotes/john_chafee_326448"
+        },
+        "topics": [
+            {
+                "name": "Motto",
+                "url": "/topics/motto"
+            },
+            {
+                "name": "Fiscal",
+                "url": "/topics/fiscal"
+            },
+            {
+                "name": "Should",
+                "url": "/topics/should"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_chafee_326449",
+        "quote": "You need the House, you need the Senate and you need the administration. And absent one of them, you're not going to get a heck of a lot done.",
+        "author": {
+            "name": "John Chafee",
+            "url": "/quotes/john_chafee_326449"
+        },
+        "topics": [
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Administration",
+                "url": "/topics/administration"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/vittorio_de_sica_190310",
+        "quote": "Moral indignation in most cases is, 2% moral, 48% indignation, and 50% envy.",
+        "author": {
+            "name": "Vittorio De Sica",
+            "url": "/quotes/vittorio_de_sica_190310"
+        },
+        "topics": [
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "Indignation",
+                "url": "/topics/indignation"
+            },
+            {
+                "name": "Cases",
+                "url": "/topics/cases"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/vittorio_de_sica_190309",
+        "quote": "I've lost all my money on these films. They are not commercial. But I'm glad to lose it this way. To have for a souvenir of my life pictures like Umberto D. and The Bicycle Thief.",
+        "author": {
+            "name": "Vittorio De Sica",
+            "url": "/quotes/vittorio_de_sica_190309"
+        },
+        "topics": [
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Commercial",
+                "url": "/topics/commercial"
+            },
+            {
+                "name": "Films",
+                "url": "/topics/films"
+            }
+        ]
+    }
+]

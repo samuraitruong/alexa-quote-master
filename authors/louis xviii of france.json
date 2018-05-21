@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/louis_xviii_of_france_210951",
+        "quote": "Punctuality is the politeness of kings.",
+        "author": {
+            "name": "Louis XVIII of France",
+            "url": "/quotes/louis_xviii_of_france_210951"
+        },
+        "topics": [
+            {
+                "name": "Kings",
+                "url": "/topics/kings"
+            },
+            {
+                "name": "Punctuality",
+                "url": "/topics/punctuality"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/louis_xviii_of_france_210953",
+        "quote": "A king should die on his feet.",
+        "author": {
+            "name": "Louis XVIII of France",
+            "url": "/quotes/louis_xviii_of_france_210953"
+        },
+        "topics": [
+            {
+                "name": "Feet",
+                "url": "/topics/feet"
+            },
+            {
+                "name": "Die",
+                "url": "/topics/die"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            }
+        ]
+    }
+]

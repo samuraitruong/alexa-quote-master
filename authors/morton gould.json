@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/morton_gould_232531",
+        "quote": "Composing is my life blood.",
+        "author": {
+            "name": "Morton Gould",
+            "url": "/quotes/morton_gould_232531"
+        },
+        "topics": [
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Blood",
+                "url": "/topics/blood"
+            },
+            {
+                "name": "Composing",
+                "url": "/topics/composing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/morton_gould_232532",
+        "quote": "That is basically me, and although I have done many things in my life - conducting, playing piano, and so on - what is fundamental is my being a composer.",
+        "author": {
+            "name": "Morton Gould",
+            "url": "/quotes/morton_gould_232532"
+        },
+        "topics": [
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Composer",
+                "url": "/topics/composer"
+            },
+            {
+                "name": "Being",
+                "url": "/topics/being"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/morton_gould_232533",
+        "quote": "I've always felt that music should be a normal part of the experience that surrounds people.",
+        "author": {
+            "name": "Morton Gould",
+            "url": "/quotes/morton_gould_232533"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Normal",
+                "url": "/topics/normal"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/morton_gould_232534",
+        "quote": "It's not a special taste. An American composer should have something to say to a cab driver.",
+        "author": {
+            "name": "Morton Gould",
+            "url": "/quotes/morton_gould_232534"
+        },
+        "topics": [
+            {
+                "name": "Special",
+                "url": "/topics/special"
+            },
+            {
+                "name": "Driver",
+                "url": "/topics/driver"
+            },
+            {
+                "name": "Cab",
+                "url": "/topics/cab"
+            }
+        ]
+    }
+]

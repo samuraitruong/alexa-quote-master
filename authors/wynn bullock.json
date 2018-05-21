@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/wynn_bullock_163882",
+        "quote": "When I photograph, what I'm really doing is seeking answers to things.",
+        "author": {
+            "name": "Wynn Bullock",
+            "url": "/quotes/wynn_bullock_163882"
+        },
+        "topics": [
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Answers",
+                "url": "/topics/answers"
+            },
+            {
+                "name": "Photograph",
+                "url": "/topics/photograph"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/wynn_bullock_107223",
+        "quote": "I didn't want to tell the tree or weed what it was. I wanted it to tell me something and through me express its meaning in nature.",
+        "author": {
+            "name": "Wynn Bullock",
+            "url": "/quotes/wynn_bullock_107223"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            }
+        ]
+    }
+]

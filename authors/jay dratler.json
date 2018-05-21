@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/jay_dratler_399170",
+        "quote": "I don't use a pen. I write with a goose quill dipped in venom.",
+        "author": {
+            "name": "Jay Dratler",
+            "url": "/quotes/jay_dratler_399170"
+        },
+        "topics": [
+            {
+                "name": "Venom",
+                "url": "/topics/venom"
+            },
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            },
+            {
+                "name": "I Write",
+                "url": "/topics/i_write"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jay_dratler_400356",
+        "quote": "In my case, self-absorption is completely justified. I have never discovered any other subject quite so worthy of my attention.",
+        "author": {
+            "name": "Jay Dratler",
+            "url": "/quotes/jay_dratler_400356"
+        },
+        "topics": [
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Subject",
+                "url": "/topics/subject"
+            },
+            {
+                "name": "Discovered",
+                "url": "/topics/discovered"
+            }
+        ]
+    }
+]

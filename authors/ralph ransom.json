@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/ralph_ransom_172613",
+        "quote": "Before the reward there must be labor. You plant before you harvest. You sow in tears before you reap joy.",
+        "author": {
+            "name": "Ralph Ransom",
+            "url": "/quotes/ralph_ransom_172613"
+        },
+        "topics": [
+            {
+                "name": "Tears",
+                "url": "/topics/tears"
+            },
+            {
+                "name": "Reward",
+                "url": "/topics/reward"
+            },
+            {
+                "name": "Harvest",
+                "url": "/topics/harvest"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ralph_ransom_185352",
+        "quote": "Life is a series of steps. Things are done gradually. Once in a while there is a giant step, but most of the time we are taking small, seemingly insignificant steps on the stairway of life.",
+        "author": {
+            "name": "Ralph Ransom",
+            "url": "/quotes/ralph_ransom_185352"
+        },
+        "topics": [
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Insignificant",
+                "url": "/topics/insignificant"
+            },
+            {
+                "name": "While",
+                "url": "/topics/while"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ralph_ransom_185351",
+        "quote": "Man was created as a being who should constantly keep improving, a being who on reaching one goal sets a higher one.",
+        "author": {
+            "name": "Ralph Ransom",
+            "url": "/quotes/ralph_ransom_185351"
+        },
+        "topics": [
+            {
+                "name": "Goal",
+                "url": "/topics/goal"
+            },
+            {
+                "name": "Sets",
+                "url": "/topics/sets"
+            },
+            {
+                "name": "Created",
+                "url": "/topics/created"
+            }
+        ]
+    }
+]

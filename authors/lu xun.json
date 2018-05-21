@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/lu_xun_411757",
+        "quote": "Hope cannot be said to exist, nor can it be said not to exist. It is just like roads across the earth. For actually the earth had no roads to begin with, but when many men pass one way, a road is made.",
+        "author": {
+            "name": "Lu Xun",
+            "url": "/quotes/lu_xun_411757"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Made",
+                "url": "/topics/made"
+            },
+            {
+                "name": "Pass",
+                "url": "/topics/pass"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lu_xun_145347",
+        "quote": "To be suspicious is not a fault. To be suspicious all the time without coming to a conclusion is the defect.",
+        "author": {
+            "name": "Lu Xun",
+            "url": "/quotes/lu_xun_145347"
+        },
+        "topics": [
+            {
+                "name": "Fault",
+                "url": "/topics/fault"
+            },
+            {
+                "name": "Conclusion",
+                "url": "/topics/conclusion"
+            },
+            {
+                "name": "Defect",
+                "url": "/topics/defect"
+            }
+        ]
+    }
+]

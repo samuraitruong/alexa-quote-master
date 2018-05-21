@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/stewart_alsop_102675",
+        "quote": "Gates is the ultimate programming machine. He believes everything can be defined, examined, reduced to essentials, and rearranged into a logical sequence that will achieve a particular goal.",
+        "author": {
+            "name": "Stewart Alsop",
+            "url": "/quotes/stewart_alsop_102675"
+        },
+        "topics": [
+            {
+                "name": "Technology",
+                "url": "/topics/technology"
+            },
+            {
+                "name": "Goal",
+                "url": "/topics/goal"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/stewart_alsop_104812",
+        "quote": "A dying man needs to die, as a sleepy man needs to sleep, and there comes a time when it is wrong, as well as useless, to resist.",
+        "author": {
+            "name": "Stewart Alsop",
+            "url": "/quotes/stewart_alsop_104812"
+        },
+        "topics": [
+            {
+                "name": "Death",
+                "url": "/topics/death"
+            },
+            {
+                "name": "Die",
+                "url": "/topics/die"
+            },
+            {
+                "name": "Needs",
+                "url": "/topics/needs"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/stewart_alsop_102676",
+        "quote": "Bill, The United States is not a company. It is a country.",
+        "author": {
+            "name": "Stewart Alsop",
+            "url": "/quotes/stewart_alsop_102676"
+        },
+        "topics": [
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "United States",
+                "url": "/topics/united_states"
+            },
+            {
+                "name": "Bill",
+                "url": "/topics/bill"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/stewart_alsop_388362",
+        "quote": "Microsoft has a monopoly over the desktop operating systems.",
+        "author": {
+            "name": "Stewart Alsop",
+            "url": "/quotes/stewart_alsop_388362"
+        },
+        "topics": [
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Operating Systems",
+                "url": "/topics/operating_systems"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/judy_geeson_566323",
+        "quote": "Oh, I loved John Wayne. He was just so charming and easy to work with.",
+        "author": {
+            "name": "Judy Geeson",
+            "url": "/quotes/judy_geeson_566323"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Loved",
+                "url": "/topics/loved"
+            },
+            {
+                "name": "John Wayne",
+                "url": "/topics/john_wayne"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/judy_geeson_566324",
+        "quote": "When you act a scene with Sidney Poitier, he listens intently to every word you say. You can feel your words hit him. He makes the scene utterly real.",
+        "author": {
+            "name": "Judy Geeson",
+            "url": "/quotes/judy_geeson_566324"
+        },
+        "topics": [
+            {
+                "name": "Words",
+                "url": "/topics/words"
+            },
+            {
+                "name": "Feel",
+                "url": "/topics/feel"
+            },
+            {
+                "name": "Makes",
+                "url": "/topics/makes"
+            }
+        ]
+    }
+]

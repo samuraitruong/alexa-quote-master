@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/penelope_tree_550205",
+        "quote": "If someone asks me a question, it is very difficult not to answer honestly.",
+        "author": {
+            "name": "Penelope Tree",
+            "url": "/quotes/penelope_tree_550205"
+        },
+        "topics": [
+            {
+                "name": "Someone",
+                "url": "/topics/someone"
+            },
+            {
+                "name": "Question",
+                "url": "/topics/question"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/penelope_tree_550206",
+        "quote": "I think of the Sixties as being every man for himself.",
+        "author": {
+            "name": "Penelope Tree",
+            "url": "/quotes/penelope_tree_550206"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Himself",
+                "url": "/topics/himself"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/penelope_tree_550207",
+        "quote": "I try to see what the priorities are and not get terribly fussed about things that don't matter. Not be swept away by feelings and emotions, which is my tendency.",
+        "author": {
+            "name": "Penelope Tree",
+            "url": "/quotes/penelope_tree_550207"
+        },
+        "topics": [
+            {
+                "name": "Emotions",
+                "url": "/topics/emotions"
+            },
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    }
+]

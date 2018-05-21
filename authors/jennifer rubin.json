@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/jennifer_rubin_631622",
+        "quote": "I lived in Arizona, and I thought Florida was in California because I thought oranges came from the same place.",
+        "author": {
+            "name": "Jennifer Rubin",
+            "url": "/quotes/jennifer_rubin_631622"
+        },
+        "topics": [
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Same",
+                "url": "/topics/same"
+            },
+            {
+                "name": "Oranges",
+                "url": "/topics/oranges"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jennifer_rubin_631623",
+        "quote": "We shot 'Delusion' in the middle of the desert and outside of Las Vegas where they did those underground nuclear bomb testings. So I only ate oysters and drank coffee because I didn't want to turn into a mutant.",
+        "author": {
+            "name": "Jennifer Rubin",
+            "url": "/quotes/jennifer_rubin_631623"
+        },
+        "topics": [
+            {
+                "name": "Delusion",
+                "url": "/topics/delusion"
+            },
+            {
+                "name": "Turn",
+                "url": "/topics/turn"
+            },
+            {
+                "name": "Las Vegas",
+                "url": "/topics/las_vegas"
+            }
+        ]
+    }
+]

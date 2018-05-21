@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/robert_martin_190698",
+        "quote": "Responsibility for learning belongs to the student, regardless of age.",
+        "author": {
+            "name": "Robert Martin",
+            "url": "/quotes/robert_martin_190698"
+        },
+        "topics": [
+            {
+                "name": "Responsibility",
+                "url": "/topics/responsibility"
+            },
+            {
+                "name": "Student",
+                "url": "/topics/student"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_martin_190699",
+        "quote": "Taking an interest in what others are thinking and doing is often a much more powerful form of encouragement than praise.",
+        "author": {
+            "name": "Robert Martin",
+            "url": "/quotes/robert_martin_190699"
+        },
+        "topics": [
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Often",
+                "url": "/topics/often"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_martin_388951",
+        "quote": "I think it's the great thing about having kids. They have interests that you might not have, and it opens your horizons.",
+        "author": {
+            "name": "Robert Martin",
+            "url": "/quotes/robert_martin_388951"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Having",
+                "url": "/topics/having"
+            }
+        ]
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "url": "/quotes/claude_shannon_194087",
+        "quote": "I visualize a time when we will be to robots what dogs are to humans, and I'm rooting for the machines.",
+        "author": {
+            "name": "Claude Shannon",
+            "url": "/quotes/claude_shannon_194087"
+        },
+        "topics": [
+            {
+                "name": "Visualize",
+                "url": "/topics/visualize"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Rooting",
+                "url": "/topics/rooting"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/claude_shannon_194088",
+        "quote": "Information is the resolution of uncertainty.",
+        "author": {
+            "name": "Claude Shannon",
+            "url": "/quotes/claude_shannon_194088"
+        },
+        "topics": [
+            {
+                "name": "Uncertainty",
+                "url": "/topics/uncertainty"
+            },
+            {
+                "name": "Information",
+                "url": "/topics/information"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/claude_shannon_194090",
+        "quote": "Information: the negative reciprocal value of probability.",
+        "author": {
+            "name": "Claude Shannon",
+            "url": "/quotes/claude_shannon_194090"
+        },
+        "topics": [
+            {
+                "name": "Negative",
+                "url": "/topics/negative"
+            },
+            {
+                "name": "Probability",
+                "url": "/topics/probability"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/claude_shannon_194089",
+        "quote": "I just wondered how things were put together.",
+        "author": {
+            "name": "Claude Shannon",
+            "url": "/quotes/claude_shannon_194089"
+        },
+        "topics": [
+            {
+                "name": "Things",
+                "url": "/topics/things"
+            },
+            {
+                "name": "How",
+                "url": "/topics/how"
+            },
+            {
+                "name": "Were",
+                "url": "/topics/were"
+            }
+        ]
+    }
+]

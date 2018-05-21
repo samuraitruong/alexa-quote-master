@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/alexander_turney_stewart_399266",
+        "quote": "You must be wise, but not too wise.",
+        "author": {
+            "name": "Alexander Turney Stewart",
+            "url": "/quotes/alexander_turney_stewart_399266"
+        },
+        "topics": [
+            {
+                "name": "Wise",
+                "url": "/topics/wise"
+            },
+            {
+                "name": "Too",
+                "url": "/topics/too"
+            },
+            {
+                "name": "Must",
+                "url": "/topics/must"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alexander_turney_stewart_403696",
+        "quote": "You must never actually cheat the customer, even if you can. You must make her happy and satisfied, so she will come back.",
+        "author": {
+            "name": "Alexander Turney Stewart",
+            "url": "/quotes/alexander_turney_stewart_403696"
+        },
+        "topics": [
+            {
+                "name": "Happy",
+                "url": "/topics/happy"
+            },
+            {
+                "name": "Satisfied",
+                "url": "/topics/satisfied"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    }
+]

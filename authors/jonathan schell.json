@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/jonathan_schell_615964",
+        "quote": "No single person can possess the wisdom to chart our course.",
+        "author": {
+            "name": "Jonathan Schell",
+            "url": "/quotes/jonathan_schell_615964"
+        },
+        "topics": [
+            {
+                "name": "Single",
+                "url": "/topics/single"
+            },
+            {
+                "name": "Person",
+                "url": "/topics/person"
+            },
+            {
+                "name": "Possess",
+                "url": "/topics/possess"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jonathan_schell_615963",
+        "quote": "The world is not to be approached, blueprint in hand, as if it were so much raw material waiting to be fashioned to someone's design.",
+        "author": {
+            "name": "Jonathan Schell",
+            "url": "/quotes/jonathan_schell_615963"
+        },
+        "topics": [
+            {
+                "name": "Waiting",
+                "url": "/topics/waiting"
+            },
+            {
+                "name": "Raw",
+                "url": "/topics/raw"
+            },
+            {
+                "name": "Raw Material",
+                "url": "/topics/raw_material"
+            }
+        ]
+    }
+]

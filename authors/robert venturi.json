@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/robert_venturi_322242",
+        "quote": "It was very unusual to employ prettiness as part of a building.",
+        "author": {
+            "name": "Robert Venturi",
+            "url": "/quotes/robert_venturi_322242"
+        },
+        "topics": [
+            {
+                "name": "Part",
+                "url": "/topics/part"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Employ",
+                "url": "/topics/employ"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_venturi_112476",
+        "quote": "Less is a bore.",
+        "author": {
+            "name": "Robert Venturi",
+            "url": "/quotes/robert_venturi_112476"
+        },
+        "topics": [
+            {
+                "name": "Less",
+                "url": "/topics/less"
+            },
+            {
+                "name": "Bore",
+                "url": "/topics/bore"
+            }
+        ]
+    }
+]

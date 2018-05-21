@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/witold_gombrowicz_184963",
+        "quote": "You are ugly when you love her, you are beautiful and fresh, vital and free, modern and poetic when you don't... you are more beautiful as an orphan than as your mother's son.",
+        "author": {
+            "name": "Witold Gombrowicz",
+            "url": "/quotes/witold_gombrowicz_184963"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Poetic",
+                "url": "/topics/poetic"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/witold_gombrowicz_184961",
+        "quote": "I didn't go to the lectures. My valet, who was more distinguished than I, went instead.",
+        "author": {
+            "name": "Witold Gombrowicz",
+            "url": "/quotes/witold_gombrowicz_184961"
+        },
+        "topics": [
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Go",
+                "url": "/topics/go"
+            },
+            {
+                "name": "Than",
+                "url": "/topics/than"
+            }
+        ]
+    }
+]

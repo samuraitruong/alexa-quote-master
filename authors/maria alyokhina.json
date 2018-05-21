@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/maria_alyokhina_682712",
+        "quote": "I was always free because I felt free. It's very important to be free inside. The most important thing is to feel free.",
+        "author": {
+            "name": "Maria Alyokhina",
+            "url": "/quotes/maria_alyokhina_682712"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/maria_alyokhina_682713",
+        "quote": "When a person in a Russian prison decides to start speaking, to start speaking the truth - they start to reject oppression.",
+        "author": {
+            "name": "Maria Alyokhina",
+            "url": "/quotes/maria_alyokhina_682713"
+        },
+        "topics": [
+            {
+                "name": "Truth",
+                "url": "/topics/truth"
+            },
+            {
+                "name": "Oppression",
+                "url": "/topics/oppression"
+            },
+            {
+                "name": "Speaking",
+                "url": "/topics/speaking"
+            }
+        ]
+    }
+]

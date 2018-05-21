@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/jonathan_larson_174897",
+        "quote": "Forget regret, or life is yours to miss.",
+        "author": {
+            "name": "Jonathan Larson",
+            "url": "/quotes/jonathan_larson_174897"
+        },
+        "topics": [
+            {
+                "name": "Regret",
+                "url": "/topics/regret"
+            },
+            {
+                "name": "Forget",
+                "url": "/topics/forget"
+            },
+            {
+                "name": "Yours",
+                "url": "/topics/yours"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jonathan_larson_174954",
+        "quote": "The opposite of war is not peace, it's creation.",
+        "author": {
+            "name": "Jonathan Larson",
+            "url": "/quotes/jonathan_larson_174954"
+        },
+        "topics": [
+            {
+                "name": "War",
+                "url": "/topics/war"
+            },
+            {
+                "name": "Peace",
+                "url": "/topics/peace"
+            },
+            {
+                "name": "Opposite",
+                "url": "/topics/opposite"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jonathan_larson_422046",
+        "quote": "In these dangerous times, where it seems the world is ripping apart at the seams, we can all learn how to survive from those who stare death squarely in the face every day, and we should reach out to each other and bond as a community, rather than hide from the terrors of life at the end of the millennium.",
+        "author": {
+            "name": "Jonathan Larson",
+            "url": "/quotes/jonathan_larson_422046"
+        },
+        "topics": [
+            {
+                "name": "Death",
+                "url": "/topics/death"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Rather",
+                "url": "/topics/rather"
+            }
+        ]
+    }
+]

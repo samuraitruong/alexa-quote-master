@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/dolores_del_rio_538140",
+        "quote": "Take care of your inner, spiritual beauty. That will reflect in your face.",
+        "author": {
+            "name": "Dolores del Rio",
+            "url": "/quotes/dolores_del_rio_538140"
+        },
+        "topics": [
+            {
+                "name": "Face",
+                "url": "/topics/face"
+            },
+            {
+                "name": "Reflect",
+                "url": "/topics/reflect"
+            },
+            {
+                "name": "Take",
+                "url": "/topics/take"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dolores_del_rio_538139",
+        "quote": "Hollywood, what a place it is! It is so far away from the rest of the world, so narrow. No one thinks of anything but motion pictures or talks of anything else.",
+        "author": {
+            "name": "Dolores del Rio",
+            "url": "/quotes/dolores_del_rio_538139"
+        },
+        "topics": [
+            {
+                "name": "Rest",
+                "url": "/topics/rest"
+            },
+            {
+                "name": "Hollywood",
+                "url": "/topics/hollywood"
+            },
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            }
+        ]
+    }
+]

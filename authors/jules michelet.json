@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/jules_michelet_163885",
+        "quote": "He who knows how to be poor knows everything.",
+        "author": {
+            "name": "Jules Michelet",
+            "url": "/quotes/jules_michelet_163885"
+        },
+        "topics": [
+            {
+                "name": "Poor",
+                "url": "/topics/poor"
+            },
+            {
+                "name": "Everything",
+                "url": "/topics/everything"
+            },
+            {
+                "name": "How",
+                "url": "/topics/how"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jules_michelet_127541",
+        "quote": "You are one of the forces of nature.",
+        "author": {
+            "name": "Jules Michelet",
+            "url": "/quotes/jules_michelet_127541"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "You",
+                "url": "/topics/you"
+            },
+            {
+                "name": "Forces",
+                "url": "/topics/forces"
+            }
+        ]
+    }
+]

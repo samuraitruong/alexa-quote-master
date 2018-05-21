@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/drew_holcomb_638978",
+        "quote": "In my mind, my music is kind of inseparable from my hometown and my life growing up.",
+        "author": {
+            "name": "Drew Holcomb",
+            "url": "/quotes/drew_holcomb_638978"
+        },
+        "topics": [
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Inseparable",
+                "url": "/topics/inseparable"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/drew_holcomb_638979",
+        "quote": "When I heard 'Moon River', at first I thought it was just a nice song, but then I started paying attention to the words and realized this song was about Huck Finn. I just love the words, that it's kind of you and me against the world, and we're going to make it together.",
+        "author": {
+            "name": "Drew Holcomb",
+            "url": "/quotes/drew_holcomb_638979"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Against",
+                "url": "/topics/against"
+            }
+        ]
+    }
+]

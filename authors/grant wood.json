@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/grant_wood_188510",
+        "quote": "All the good ideas I ever had came to me while I was milking a cow.",
+        "author": {
+            "name": "Grant Wood",
+            "url": "/quotes/grant_wood_188510"
+        },
+        "topics": [
+            {
+                "name": "Good Ideas",
+                "url": "/topics/good_ideas"
+            },
+            {
+                "name": "Ever",
+                "url": "/topics/ever"
+            },
+            {
+                "name": "Came",
+                "url": "/topics/came"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/grant_wood_388829",
+        "quote": "You can do anything with beer that you can do with wine. Beer is great for basting or marinating meat and fish.",
+        "author": {
+            "name": "Grant Wood",
+            "url": "/quotes/grant_wood_388829"
+        },
+        "topics": [
+            {
+                "name": "Great",
+                "url": "/topics/great"
+            },
+            {
+                "name": "Fish",
+                "url": "/topics/fish"
+            },
+            {
+                "name": "Meat",
+                "url": "/topics/meat"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/roger_de_rabutin_100708",
+        "quote": "Absence is to love what wind is to fire; it extinguishes the small, it enkindles the great.",
+        "author": {
+            "name": "Roger de Rabutin",
+            "url": "/quotes/roger_de_rabutin_100708"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Absence",
+                "url": "/topics/absence"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/roger_de_rabutin_166786",
+        "quote": "As you know, God is usually on the side of the big squadrons against the small.",
+        "author": {
+            "name": "Roger de Rabutin",
+            "url": "/quotes/roger_de_rabutin_166786"
+        },
+        "topics": [
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Side",
+                "url": "/topics/side"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            }
+        ]
+    }
+]

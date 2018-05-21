@@ -1,0 +1,126 @@
+[
+    {
+        "url": "/quotes/glenn_turner_299197?src=t_anti-virus",
+        "quote": "As every new breed of virus is conceived, created and released into the wild, another small change is made to the anti-virus software to combat the new threat.",
+        "author": {
+            "name": "Glenn Turner",
+            "url": "/authors/glenn_turner"
+        },
+        "topics": [
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kevin_mitnick_469474?src=t_anti-virus",
+        "quote": "For the average home-user, anti-virus software is a must.",
+        "author": {
+            "name": "Kevin Mitnick",
+            "url": "/authors/kevin_mitnick"
+        },
+        "topics": [
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "Average",
+                "url": "/topics/average"
+            },
+            {
+                "name": "Must",
+                "url": "/topics/must"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dan_schulman_867007?src=t_anti-virus",
+        "quote": "In addition to my job at American Express, I'm also chairman of the board of Symantec, one of the leading players in anti-virus and cyber-crime prevention software, so I know firsthand just how sophisticated many of these attacks can be.",
+        "author": {
+            "name": "Dan Schulman",
+            "url": "/authors/dan_schulman"
+        },
+        "topics": [
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "Sophisticated",
+                "url": "/topics/sophisticated"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/wietse_venema_333656?src=t_anti-virus",
+        "quote": "I want to avoid locking people into solutions that work only with Postfix. People should have a choice in what software they want to use with Postfix, be it anti-virus or otherwise.",
+        "author": {
+            "name": "Wietse Venema",
+            "url": "/authors/wietse_venema"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "Otherwise",
+                "url": "/topics/otherwise"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kevin_mitnick_613282?src=t_anti-virus",
+        "quote": "For the average home-user, anti-virus software is a must. A personal firewall such as Zone Alarm and running a program like HFNetcheck, which is a free download for personal users. It checks your system to see if anything needs to be patched. I'd also recommend a program such as SpyCop to periodically check for any spyware on your system.",
+        "author": {
+            "name": "Kevin Mitnick",
+            "url": "/authors/kevin_mitnick"
+        },
+        "topics": [
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "Average",
+                "url": "/topics/average"
+            },
+            {
+                "name": "Recommend",
+                "url": "/topics/recommend"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/glenn_turner_299198?src=t_anti-virus",
+        "quote": "There is one major problem with anti-virus software: It needs updating. Users cannot be relied upon to have even the anti-virus software in the first place, let alone be able or willing to pay for the updates.",
+        "author": {
+            "name": "Glenn Turner",
+            "url": "/authors/glenn_turner"
+        },
+        "topics": [
+            {
+                "name": "Needs",
+                "url": "/topics/needs"
+            },
+            {
+                "name": "Major Problem",
+                "url": "/topics/major_problem"
+            }
+        ]
+    }
+]

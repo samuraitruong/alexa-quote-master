@@ -1,0 +1,156 @@
+[
+    {
+        "url": "/quotes/lenny_kravitz_333776?src=t_music_is_my_life",
+        "quote": "Music is my life, it is a reflection of what I go through.",
+        "author": {
+            "name": "Lenny Kravitz",
+            "url": "/authors/lenny_kravitz"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/steve_burns_480104?src=t_music_is_my_life",
+        "quote": "Music is my life - acting's just a hobby.",
+        "author": {
+            "name": "Steve Burns",
+            "url": "/authors/steve_burns"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Just",
+                "url": "/topics/just"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_iler_334121?src=t_music_is_my_life",
+        "quote": "Music is my life.",
+        "author": {
+            "name": "Robert Iler",
+            "url": "/authors/robert_iler"
+        },
+        "topics": [
+            {
+                "name": "Life",
+                "url": "/topics/life"
+            },
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ray_charles_391002?src=t_music_is_my_life",
+        "quote": "Music is my life, professionally, for nearly 60 years. To be recognized by the academy is still the highest honor.",
+        "author": {
+            "name": "Ray Charles",
+            "url": "/authors/ray_charles"
+        },
+        "topics": [
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            },
+            {
+                "name": "Nearly",
+                "url": "/topics/nearly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/austin_mahone_575311?src=t_music_is_my_life",
+        "quote": "Music is my life. I love doing it, so I just do it nonstop all day. And with dancing, I wanted to put on a show for people. I don't want to just be sitting there doing nothing, so that's when I started to dance.",
+        "author": {
+            "name": "Austin Mahone",
+            "url": "/authors/austin_mahone"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Dancing",
+                "url": "/topics/dancing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gunther_schuller_351806?src=t_music_is_my_life",
+        "quote": "Well, because music is my life and music is not work for me.",
+        "author": {
+            "name": "Gunther Schuller",
+            "url": "/authors/gunther_schuller"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jimmy_chamberlin_675810?src=t_music_is_my_life",
+        "quote": "Music is my life. It is sacred.",
+        "author": {
+            "name": "Jimmy Chamberlin",
+            "url": "/authors/jimmy_chamberlin"
+        },
+        "topics": [
+            {
+                "name": "Life",
+                "url": "/topics/life"
+            },
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            }
+        ]
+    }
+]

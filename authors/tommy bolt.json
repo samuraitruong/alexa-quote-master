@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/tommy_bolt_105393",
+        "quote": "If you are going to throw a club, it is important to throw it ahead of you, down the fairway, so you don't have to waste energy going back to pick it up.",
+        "author": {
+            "name": "Tommy Bolt",
+            "url": "/quotes/tommy_bolt_105393"
+        },
+        "topics": [
+            {
+                "name": "Sports",
+                "url": "/topics/sports"
+            },
+            {
+                "name": "Waste",
+                "url": "/topics/waste"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tommy_bolt_145933",
+        "quote": "Never break your putter and your driver in the same round or you're dead.",
+        "author": {
+            "name": "Tommy Bolt",
+            "url": "/quotes/tommy_bolt_145933"
+        },
+        "topics": [
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Same",
+                "url": "/topics/same"
+            },
+            {
+                "name": "Driver",
+                "url": "/topics/driver"
+            }
+        ]
+    }
+]

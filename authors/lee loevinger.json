@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/lee_loevinger_162532",
+        "quote": "Television is simply automated daydreaming.",
+        "author": {
+            "name": "Lee Loevinger",
+            "url": "/quotes/lee_loevinger_162532"
+        },
+        "topics": [
+            {
+                "name": "Television",
+                "url": "/topics/television"
+            },
+            {
+                "name": "Automated",
+                "url": "/topics/automated"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lee_loevinger_115453",
+        "quote": "Too much may be the equivalent of none at all.",
+        "author": {
+            "name": "Lee Loevinger",
+            "url": "/quotes/lee_loevinger_115453"
+        },
+        "topics": [
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Too",
+                "url": "/topics/too"
+            },
+            {
+                "name": "Equivalent",
+                "url": "/topics/equivalent"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lee_loevinger_115455",
+        "quote": "Television is a golden goose that lays scrambled eggs; and it is futile and probably fatal to beat it for not laying caviar. Anyway, more people like scrambled eggs than caviar.",
+        "author": {
+            "name": "Lee Loevinger",
+            "url": "/quotes/lee_loevinger_115455"
+        },
+        "topics": [
+            {
+                "name": "Eggs",
+                "url": "/topics/eggs"
+            },
+            {
+                "name": "Laying",
+                "url": "/topics/laying"
+            },
+            {
+                "name": "More People",
+                "url": "/topics/more_people"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/mary_hansen_221930",
+        "quote": "That's what it's about, how society changes people but people can also change society. It only takes a few people to do things and help themselves instead of sitting around on their asses. She has a very global outlook on life and all sorts of things.",
+        "author": {
+            "name": "Mary Hansen",
+            "url": "/quotes/mary_hansen_221930"
+        },
+        "topics": [
+            {
+                "name": "Changes",
+                "url": "/topics/changes"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mary_hansen_221933",
+        "quote": "When I go to a film, you're taking it easy and you let things wash over you. That's what cinema's all about. You get involved in a world that's being created in front of you.",
+        "author": {
+            "name": "Mary Hansen",
+            "url": "/quotes/mary_hansen_221933"
+        },
+        "topics": [
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Go",
+                "url": "/topics/go"
+            },
+            {
+                "name": "Created",
+                "url": "/topics/created"
+            }
+        ]
+    }
+]

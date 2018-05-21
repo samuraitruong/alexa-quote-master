@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/shan_sa_628649",
+        "quote": "I would like to be a philosopher in ancient Athens and a poet in ancient China.",
+        "author": {
+            "name": "Shan Sa",
+            "url": "/quotes/shan_sa_628649"
+        },
+        "topics": [
+            {
+                "name": "China",
+                "url": "/topics/china"
+            },
+            {
+                "name": "Philosopher",
+                "url": "/topics/philosopher"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/shan_sa_628646",
+        "quote": "Politicians are better liars than writers.",
+        "author": {
+            "name": "Shan Sa",
+            "url": "/quotes/shan_sa_628646"
+        },
+        "topics": [
+            {
+                "name": "Better",
+                "url": "/topics/better"
+            },
+            {
+                "name": "Liars",
+                "url": "/topics/liars"
+            },
+            {
+                "name": "Than",
+                "url": "/topics/than"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/shan_sa_628647",
+        "quote": "I talk to trees and animals. We have interesting conversations about food, weather, and love. They sometimes can predict the future.",
+        "author": {
+            "name": "Shan Sa",
+            "url": "/quotes/shan_sa_628647"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Interesting",
+                "url": "/topics/interesting"
+            },
+            {
+                "name": "Sometimes",
+                "url": "/topics/sometimes"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/shan_sa_628648",
+        "quote": "I have written too much about lives - I feel I have lived for too long.",
+        "author": {
+            "name": "Shan Sa",
+            "url": "/quotes/shan_sa_628648"
+        },
+        "topics": [
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Too",
+                "url": "/topics/too"
+            },
+            {
+                "name": "Lives",
+                "url": "/topics/lives"
+            }
+        ]
+    }
+]

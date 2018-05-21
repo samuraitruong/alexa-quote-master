@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/john_turner_405235",
+        "quote": "Because of my political views, I've been targeted as a lightning rod, someone who's too far out there.",
+        "author": {
+            "name": "John Turner",
+            "url": "/quotes/john_turner_405235"
+        },
+        "topics": [
+            {
+                "name": "Lightning",
+                "url": "/topics/lightning"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Rod",
+                "url": "/topics/rod"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_turner_112355",
+        "quote": "Substantive and procedural law benefits and protects landlords over tenants, creditors over debtors, lenders over borrowers, and the poor are seldom among the favored parties.",
+        "author": {
+            "name": "John Turner",
+            "url": "/quotes/john_turner_112355"
+        },
+        "topics": [
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Benefits",
+                "url": "/topics/benefits"
+            },
+            {
+                "name": "Protects",
+                "url": "/topics/protects"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_turner_377065",
+        "quote": "My time is now.",
+        "author": {
+            "name": "John Turner",
+            "url": "/quotes/john_turner_377065"
+        },
+        "topics": [
+            {
+                "name": "Time",
+                "url": "/topics/time"
+            },
+            {
+                "name": "Now",
+                "url": "/topics/now"
+            },
+            {
+                "name": "My Time",
+                "url": "/topics/my_time"
+            }
+        ]
+    }
+]

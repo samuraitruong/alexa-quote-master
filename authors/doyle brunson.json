@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/doyle_brunson_188252",
+        "quote": "A man with money is no match against a man on a mission.",
+        "author": {
+            "name": "Doyle Brunson",
+            "url": "/quotes/doyle_brunson_188252"
+        },
+        "topics": [
+            {
+                "name": "Money",
+                "url": "/topics/money"
+            },
+            {
+                "name": "Mission",
+                "url": "/topics/mission"
+            },
+            {
+                "name": "Against",
+                "url": "/topics/against"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/doyle_brunson_284661",
+        "quote": "Ninety percent of the hands aren't shown in a poker game.",
+        "author": {
+            "name": "Doyle Brunson",
+            "url": "/quotes/doyle_brunson_284661"
+        },
+        "topics": [
+            {
+                "name": "Game",
+                "url": "/topics/game"
+            },
+            {
+                "name": "Hands",
+                "url": "/topics/hands"
+            },
+            {
+                "name": "Shown",
+                "url": "/topics/shown"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/doyle_brunson_284673",
+        "quote": "I still have the mentality of a 19-year-old mind.",
+        "author": {
+            "name": "Doyle Brunson",
+            "url": "/quotes/doyle_brunson_284673"
+        },
+        "topics": [
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            },
+            {
+                "name": "Mentality",
+                "url": "/topics/mentality"
+            }
+        ]
+    }
+]

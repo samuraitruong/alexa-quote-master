@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/burgess_meredith_550211",
+        "quote": "I disappear from the public eye and get rediscovered quite often.",
+        "author": {
+            "name": "Burgess Meredith",
+            "url": "/quotes/burgess_meredith_550211"
+        },
+        "topics": [
+            {
+                "name": "Eye",
+                "url": "/topics/eye"
+            },
+            {
+                "name": "Public",
+                "url": "/topics/public"
+            },
+            {
+                "name": "Public Eye",
+                "url": "/topics/public_eye"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/greg_garrison_265796",
+        "quote": "I did honest television. Real, live, honest television. That's what I did best.",
+        "author": {
+            "name": "Greg Garrison",
+            "url": "/quotes/greg_garrison_265796"
+        },
+        "topics": [
+            {
+                "name": "Best",
+                "url": "/topics/best"
+            },
+            {
+                "name": "Television",
+                "url": "/topics/television"
+            },
+            {
+                "name": "Honest",
+                "url": "/topics/honest"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/greg_garrison_265797",
+        "quote": "When I got lucky with Dean, I ended up with 16 years with one of the truly great performers of all time. He was the greatest performer I'd ever been around, bar none.",
+        "author": {
+            "name": "Greg Garrison",
+            "url": "/quotes/greg_garrison_265797"
+        },
+        "topics": [
+            {
+                "name": "Lucky",
+                "url": "/topics/lucky"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Dean",
+                "url": "/topics/dean"
+            }
+        ]
+    }
+]

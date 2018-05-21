@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/citium_zeno_160517",
+        "quote": "Wellbeing is attained by little and little, and nevertheless is no little thing itself.",
+        "author": {
+            "name": "Citium Zeno",
+            "url": "/quotes/citium_zeno_160517"
+        },
+        "topics": [
+            {
+                "name": "Itself",
+                "url": "/topics/itself"
+            },
+            {
+                "name": "Nevertheless",
+                "url": "/topics/nevertheless"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/citium_zeno_166256",
+        "quote": "No evil is honorable: but death is honorable; therefore death is not evil.",
+        "author": {
+            "name": "Citium Zeno",
+            "url": "/quotes/citium_zeno_166256"
+        },
+        "topics": [
+            {
+                "name": "Death",
+                "url": "/topics/death"
+            },
+            {
+                "name": "Evil",
+                "url": "/topics/evil"
+            },
+            {
+                "name": "Therefore",
+                "url": "/topics/therefore"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/citium_zeno_160515",
+        "quote": "Fate is the endless chain of causation, whereby things are; the reason or formula by which the world goes on.",
+        "author": {
+            "name": "Citium Zeno",
+            "url": "/quotes/citium_zeno_160515"
+        },
+        "topics": [
+            {
+                "name": "Reason",
+                "url": "/topics/reason"
+            },
+            {
+                "name": "Chain",
+                "url": "/topics/chain"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    }
+]

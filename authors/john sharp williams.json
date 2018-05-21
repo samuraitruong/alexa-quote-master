@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/john_sharp_williams_193114",
+        "quote": "My reading of history convinces me that most bad government has grown out of too much government.",
+        "author": {
+            "name": "John Sharp Williams",
+            "url": "/quotes/john_sharp_williams_193114"
+        },
+        "topics": [
+            {
+                "name": "History",
+                "url": "/topics/history"
+            },
+            {
+                "name": "Reading",
+                "url": "/topics/reading"
+            },
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_sharp_williams_193113",
+        "quote": "I may have grown cynical from long service, but this is a tendency I do not like, and I sometimes think I'd rather be a dog and bay at the moon than stay in the Senate another six years and listen to it.",
+        "author": {
+            "name": "John Sharp Williams",
+            "url": "/quotes/john_sharp_williams_193113"
+        },
+        "topics": [
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Six",
+                "url": "/topics/six"
+            }
+        ]
+    }
+]

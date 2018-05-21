@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/john_bracken_231794",
+        "quote": "If Sir John A. MacDonald or any other leader of that day were here now, he would have a different program from that of sixty years ago. He sought to give his people policies suited to the time in which he lived.",
+        "author": {
+            "name": "John Bracken",
+            "url": "/quotes/john_bracken_231794"
+        },
+        "topics": [
+            {
+                "name": "Leader",
+                "url": "/topics/leader"
+            },
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_bracken_231793",
+        "quote": "Two thirds of a century ago, we were given a national policy. It was made to fit the conditions of the day.",
+        "author": {
+            "name": "John Bracken",
+            "url": "/quotes/john_bracken_231793"
+        },
+        "topics": [
+            {
+                "name": "Two",
+                "url": "/topics/two"
+            },
+            {
+                "name": "Made",
+                "url": "/topics/made"
+            },
+            {
+                "name": "Given",
+                "url": "/topics/given"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_bracken_231795",
+        "quote": "It is our task to provide policies suited to the different situations of today.",
+        "author": {
+            "name": "John Bracken",
+            "url": "/quotes/john_bracken_231795"
+        },
+        "topics": [
+            {
+                "name": "Task",
+                "url": "/topics/task"
+            },
+            {
+                "name": "Provide",
+                "url": "/topics/provide"
+            },
+            {
+                "name": "Suited",
+                "url": "/topics/suited"
+            }
+        ]
+    }
+]

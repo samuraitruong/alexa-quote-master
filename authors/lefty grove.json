@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/lefty_grove_577827",
+        "quote": "You've got a little round ball and a little round bat and anything can happen.",
+        "author": {
+            "name": "Lefty Grove",
+            "url": "/quotes/lefty_grove_577827"
+        },
+        "topics": [
+            {
+                "name": "Happen",
+                "url": "/topics/happen"
+            },
+            {
+                "name": "Ball",
+                "url": "/topics/ball"
+            },
+            {
+                "name": "Round",
+                "url": "/topics/round"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lefty_grove_577828",
+        "quote": "Quit now? They'll have to cut the uniform off me. I'm going out for another 300. They couldn't be any harder to get than the first 300.",
+        "author": {
+            "name": "Lefty Grove",
+            "url": "/quotes/lefty_grove_577828"
+        },
+        "topics": [
+            {
+                "name": "Cut",
+                "url": "/topics/cut"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Another",
+                "url": "/topics/another"
+            }
+        ]
+    }
+]

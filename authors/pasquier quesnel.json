@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/pasquier_quesnel_234384",
+        "quote": "Zeal is very blind, or badly regulated, when it encroaches upon the rights of others.",
+        "author": {
+            "name": "Pasquier Quesnel",
+            "url": "/quotes/pasquier_quesnel_234384"
+        },
+        "topics": [
+            {
+                "name": "Blind",
+                "url": "/topics/blind"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Badly",
+                "url": "/topics/badly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/pasquier_quesnel_404704",
+        "quote": "The truth only irritates those it enlightens, but does not convert.",
+        "author": {
+            "name": "Pasquier Quesnel",
+            "url": "/quotes/pasquier_quesnel_404704"
+        },
+        "topics": [
+            {
+                "name": "Truth",
+                "url": "/topics/truth"
+            },
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            },
+            {
+                "name": "Does",
+                "url": "/topics/does"
+            }
+        ]
+    }
+]

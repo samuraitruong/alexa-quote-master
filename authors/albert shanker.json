@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/albert_shanker_309526",
+        "quote": "There is no more reason to pay for private education than there is to pay for a private swimming pool for those who do not use public facilities.",
+        "author": {
+            "name": "Albert Shanker",
+            "url": "/quotes/albert_shanker_309526"
+        },
+        "topics": [
+            {
+                "name": "Education",
+                "url": "/topics/education"
+            },
+            {
+                "name": "Reason",
+                "url": "/topics/reason"
+            },
+            {
+                "name": "Private",
+                "url": "/topics/private"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/albert_shanker_309528",
+        "quote": "When school children start paying union dues, that 's when I'll start representing the interests of school children.",
+        "author": {
+            "name": "Albert Shanker",
+            "url": "/quotes/albert_shanker_309528"
+        },
+        "topics": [
+            {
+                "name": "Dues",
+                "url": "/topics/dues"
+            },
+            {
+                "name": "School Children",
+                "url": "/topics/school_children"
+            }
+        ]
+    }
+]

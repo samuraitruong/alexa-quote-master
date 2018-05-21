@@ -1,0 +1,152 @@
+[
+    {
+        "url": "/quotes/lao_tzu_151127?src=t_simulated",
+        "quote": "Simulated disorder postulates perfect discipline; simulated fear postulates courage; simulated weakness postulates strength.",
+        "author": {
+            "name": "Lao Tzu",
+            "url": "/authors/lao_tzu"
+        },
+        "topics": [
+            {
+                "name": "Weakness",
+                "url": "/topics/weakness"
+            },
+            {
+                "name": "Perfect",
+                "url": "/topics/perfect"
+            },
+            {
+                "name": "Disorder",
+                "url": "/topics/disorder"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/casey_affleck_214187?src=t_simulated",
+        "quote": "I am in the process of starting a nonprofit organization that gives rescued animals a home in a simulated wild environment and, for those who have been tested on, who are disabled, aggressive, etc., their own space to live out their days.",
+        "author": {
+            "name": "Casey Affleck",
+            "url": "/authors/casey_affleck"
+        },
+        "topics": [
+            {
+                "name": "Nonprofit",
+                "url": "/topics/nonprofit"
+            },
+            {
+                "name": "Tested",
+                "url": "/topics/tested"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_deutsch_504600?src=t_simulated",
+        "quote": "The most important application of quantum computing in the future is likely to be a computer simulation of quantum systems, because that's an application where we know for sure that quantum systems in general cannot be efficiently simulated on a classical computer.",
+        "author": {
+            "name": "David Deutsch",
+            "url": "/authors/david_deutsch"
+        },
+        "topics": [
+            {
+                "name": "The Most Important",
+                "url": "/topics/the_most_important"
+            },
+            {
+                "name": "Likely",
+                "url": "/topics/likely"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/antonio_damasio_548270?src=t_simulated",
+        "quote": "Interestingly enough, not all feelings result from the body's reaction to external stimuli. Sometimes changes are purely simulated in the brain maps.",
+        "author": {
+            "name": "Antonio Damasio",
+            "url": "/authors/antonio_damasio"
+        },
+        "topics": [
+            {
+                "name": "Reaction",
+                "url": "/topics/reaction"
+            },
+            {
+                "name": "Maps",
+                "url": "/topics/maps"
+            },
+            {
+                "name": "Purely",
+                "url": "/topics/purely"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jim_evans_299577?src=t_simulated",
+        "quote": "During the final two weeks of training, our students work simulated game situations in which our staff members role-play as players, managers, and coaches. They are given immediate feedback following each camp game.",
+        "author": {
+            "name": "Jim Evans",
+            "url": "/authors/jim_evans"
+        },
+        "topics": [
+            {
+                "name": "Game",
+                "url": "/topics/game"
+            },
+            {
+                "name": "Students",
+                "url": "/topics/students"
+            },
+            {
+                "name": "Weeks",
+                "url": "/topics/weeks"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/vicente_del_bosque_487287?src=t_simulated",
+        "quote": "The Confederations Cup is interesting. It served Spain very well to take part and then go on to win the 2010 World Cup. We knew the stadiums, the atmosphere, the conditions and also the difficulties of a tournament which simulated the World Cup format.",
+        "author": {
+            "name": "Vicente del Bosque",
+            "url": "/authors/vicente_del_bosque"
+        },
+        "topics": [
+            {
+                "name": "Atmosphere",
+                "url": "/topics/atmosphere"
+            },
+            {
+                "name": "Spain",
+                "url": "/topics/spain"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/margaret_wertheim_553356?src=t_simulated",
+        "quote": "Computers are very powerful tools, but in the simulated world of the computer, everything has to be calculated.",
+        "author": {
+            "name": "Margaret Wertheim",
+            "url": "/authors/margaret_wertheim"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Computer",
+                "url": "/topics/computer"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    }
+]

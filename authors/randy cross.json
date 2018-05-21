@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/randy_cross_185615",
+        "quote": "The NFL, like life, is full of idiots.",
+        "author": {
+            "name": "Randy Cross",
+            "url": "/quotes/randy_cross_185615"
+        },
+        "topics": [
+            {
+                "name": "Life",
+                "url": "/topics/life"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "NFL",
+                "url": "/topics/nfl"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/randy_cross_400312",
+        "quote": "In real football, I wouldn't want Terrell Owens anywhere near my team. But you're nuts if you don't take him in fantasy.",
+        "author": {
+            "name": "Randy Cross",
+            "url": "/quotes/randy_cross_400312"
+        },
+        "topics": [
+            {
+                "name": "Fantasy",
+                "url": "/topics/fantasy"
+            },
+            {
+                "name": "Real",
+                "url": "/topics/real"
+            },
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            }
+        ]
+    }
+]

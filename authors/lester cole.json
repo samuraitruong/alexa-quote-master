@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/lester_cole_398107",
+        "quote": "The Japanese say, If the flower is to be beautiful, it must be cultivated.",
+        "author": {
+            "name": "Lester Cole",
+            "url": "/quotes/lester_cole_398107"
+        },
+        "topics": [
+            {
+                "name": "Beautiful",
+                "url": "/topics/beautiful"
+            },
+            {
+                "name": "Say",
+                "url": "/topics/say"
+            },
+            {
+                "name": "Cultivated",
+                "url": "/topics/cultivated"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lester_cole_388125",
+        "quote": "Forgive your enemies, but first get even.",
+        "author": {
+            "name": "Lester Cole",
+            "url": "/quotes/lester_cole_388125"
+        },
+        "topics": [
+            {
+                "name": "Forgive",
+                "url": "/topics/forgive"
+            },
+            {
+                "name": "Get",
+                "url": "/topics/get"
+            },
+            {
+                "name": "Even",
+                "url": "/topics/even"
+            }
+        ]
+    }
+]

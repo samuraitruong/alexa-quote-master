@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/allan_dwan_221464",
+        "quote": "You can disguise any set with lights and shadows.",
+        "author": {
+            "name": "Allan Dwan",
+            "url": "/quotes/allan_dwan_221464"
+        },
+        "topics": [
+            {
+                "name": "Shadows",
+                "url": "/topics/shadows"
+            },
+            {
+                "name": "Disguise",
+                "url": "/topics/disguise"
+            },
+            {
+                "name": "Set",
+                "url": "/topics/set"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/allan_dwan_221462",
+        "quote": "I often shoot with scissors in my eyes.",
+        "author": {
+            "name": "Allan Dwan",
+            "url": "/quotes/allan_dwan_221462"
+        },
+        "topics": [
+            {
+                "name": "Shoot",
+                "url": "/topics/shoot"
+            },
+            {
+                "name": "Scissors",
+                "url": "/topics/scissors"
+            },
+            {
+                "name": "Often",
+                "url": "/topics/often"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/allan_dwan_388027",
+        "quote": "There's always a certain amount of camera improvisation.",
+        "author": {
+            "name": "Allan Dwan",
+            "url": "/quotes/allan_dwan_388027"
+        },
+        "topics": [
+            {
+                "name": "Camera",
+                "url": "/topics/camera"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Amount",
+                "url": "/topics/amount"
+            }
+        ]
+    }
+]

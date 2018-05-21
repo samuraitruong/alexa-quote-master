@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/frank_s_nugent_399239",
+        "quote": "Never apologize, mister. It's a sign of weakness.",
+        "author": {
+            "name": "Frank S. Nugent",
+            "url": "/quotes/frank_s_nugent_399239"
+        },
+        "topics": [
+            {
+                "name": "Weakness",
+                "url": "/topics/weakness"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Mister",
+                "url": "/topics/mister"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/frank_s_nugent_400077",
+        "quote": "The army is always the same. The sun and the moon change. The army knows no seasons.",
+        "author": {
+            "name": "Frank S. Nugent",
+            "url": "/quotes/frank_s_nugent_400077"
+        },
+        "topics": [
+            {
+                "name": "Moon",
+                "url": "/topics/moon"
+            },
+            {
+                "name": "Army",
+                "url": "/topics/army"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            }
+        ]
+    }
+]

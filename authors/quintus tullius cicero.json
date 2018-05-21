@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/quintus_tullius_cicero_135273",
+        "quote": "Avoid any specific discussion of public policy at public meetings.",
+        "author": {
+            "name": "Quintus Tullius Cicero",
+            "url": "/quotes/quintus_tullius_cicero_135273"
+        },
+        "topics": [
+            {
+                "name": "Public Policy",
+                "url": "/topics/public_policy"
+            },
+            {
+                "name": "Avoid",
+                "url": "/topics/avoid"
+            },
+            {
+                "name": "Public",
+                "url": "/topics/public"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/quintus_tullius_cicero_135275",
+        "quote": "During war, the laws are silent.",
+        "author": {
+            "name": "Quintus Tullius Cicero",
+            "url": "/quotes/quintus_tullius_cicero_135275"
+        },
+        "topics": [
+            {
+                "name": "War",
+                "url": "/topics/war"
+            },
+            {
+                "name": "Silent",
+                "url": "/topics/silent"
+            },
+            {
+                "name": "Laws",
+                "url": "/topics/laws"
+            }
+        ]
+    }
+]

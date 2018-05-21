@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/chuck_robb_387886",
+        "quote": "I'm going to disappear again.",
+        "author": {
+            "name": "Chuck Robb",
+            "url": "/quotes/chuck_robb_387886"
+        },
+        "topics": [
+            {
+                "name": "Disappear",
+                "url": "/topics/disappear"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Again",
+                "url": "/topics/again"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/chuck_robb_389652",
+        "quote": "I'd have to acknowledge that I have a weakness for the fairer sex - and I hope I never get over it.",
+        "author": {
+            "name": "Chuck Robb",
+            "url": "/quotes/chuck_robb_389652"
+        },
+        "topics": [
+            {
+                "name": "Weakness",
+                "url": "/topics/weakness"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/chuck_robb_389684",
+        "quote": "I am clearly vulnerable on the question of socializing under circumstances not appropriate for a married man.",
+        "author": {
+            "name": "Chuck Robb",
+            "url": "/quotes/chuck_robb_389684"
+        },
+        "topics": [
+            {
+                "name": "Circumstances",
+                "url": "/topics/circumstances"
+            },
+            {
+                "name": "Appropriate",
+                "url": "/topics/appropriate"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/chuck_robb_390389",
+        "quote": "I made more decisions in a half-day as governor than you can make in a whole week in the Senate... it's too slow for me.",
+        "author": {
+            "name": "Chuck Robb",
+            "url": "/quotes/chuck_robb_390389"
+        },
+        "topics": [
+            {
+                "name": "Week",
+                "url": "/topics/week"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Made",
+                "url": "/topics/made"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/willie_dixon_194313",
+        "quote": "Birth is the sudden opening of a window, through which you look out upon a stupendous prospect. For what has happened? A miracle. You have exchanged nothing for the possibility of everything.",
+        "author": {
+            "name": "Willie Dixon",
+            "url": "/quotes/willie_dixon_194313"
+        },
+        "topics": [
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/willie_dixon_357886",
+        "quote": "The Blues are the true facts of life expressed in words and song, inspiration, feeling, and understanding.",
+        "author": {
+            "name": "Willie Dixon",
+            "url": "/quotes/willie_dixon_357886"
+        },
+        "topics": [
+            {
+                "name": "Words",
+                "url": "/topics/words"
+            },
+            {
+                "name": "Song",
+                "url": "/topics/song"
+            },
+            {
+                "name": "True",
+                "url": "/topics/true"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/john_dalton_193098",
+        "quote": "This paper will no doubt be found interesting by those who take an interest in it.",
+        "author": {
+            "name": "John Dalton",
+            "url": "/quotes/john_dalton_193098"
+        },
+        "topics": [
+            {
+                "name": "Paper",
+                "url": "/topics/paper"
+            },
+            {
+                "name": "Found",
+                "url": "/topics/found"
+            },
+            {
+                "name": "Take",
+                "url": "/topics/take"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_dalton_380939",
+        "quote": "It's the right idea, but not the right time.",
+        "author": {
+            "name": "John Dalton",
+            "url": "/quotes/john_dalton_380939"
+        },
+        "topics": [
+            {
+                "name": "Right Time",
+                "url": "/topics/right_time"
+            },
+            {
+                "name": "Right",
+                "url": "/topics/right"
+            },
+            {
+                "name": "Idea",
+                "url": "/topics/idea"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_dalton_193099",
+        "quote": "I spent several years acquiring the obsessive, day-to-day discipline that's needed if you want to write professionally, then several more, highly valuable years studying fiction writing at the University of Iowa.",
+        "author": {
+            "name": "John Dalton",
+            "url": "/quotes/john_dalton_193099"
+        },
+        "topics": [
+            {
+                "name": "Fiction",
+                "url": "/topics/fiction"
+            },
+            {
+                "name": "Iowa",
+                "url": "/topics/iowa"
+            },
+            {
+                "name": "Needed",
+                "url": "/topics/needed"
+            }
+        ]
+    }
+]

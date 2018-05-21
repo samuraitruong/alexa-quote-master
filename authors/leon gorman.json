@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/leon_gorman_749007",
+        "quote": "Customer service is just a day-in, day-out, ongoing, never-ending, unremitting, persevering, compassionate type of activity.",
+        "author": {
+            "name": "Leon Gorman",
+            "url": "/quotes/leon_gorman_749007"
+        },
+        "topics": [
+            {
+                "name": "Activity",
+                "url": "/topics/activity"
+            },
+            {
+                "name": "Day-Out",
+                "url": "/topics/day-out"
+            },
+            {
+                "name": "Type",
+                "url": "/topics/type"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/leon_gorman_749005",
+        "quote": "Everybody got into the rugged outdoors business and into lifestyle merchandising and so forth and so on. And everybody was getting into catalogs and e-commerce and - you name it. It was just intense.",
+        "author": {
+            "name": "Leon Gorman",
+            "url": "/quotes/leon_gorman_749005"
+        },
+        "topics": [
+            {
+                "name": "Business",
+                "url": "/topics/business"
+            },
+            {
+                "name": "Everybody",
+                "url": "/topics/everybody"
+            },
+            {
+                "name": "Rugged",
+                "url": "/topics/rugged"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/leon_gorman_749006",
+        "quote": "Oh, we don't have a grandiose marketing plan. We sell products that work, that we like.",
+        "author": {
+            "name": "Leon Gorman",
+            "url": "/quotes/leon_gorman_749006"
+        },
+        "topics": [
+            {
+                "name": "Marketing",
+                "url": "/topics/marketing"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Grandiose",
+                "url": "/topics/grandiose"
+            }
+        ]
+    }
+]

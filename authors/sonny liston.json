@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/sonny_liston_317331",
+        "quote": "Come over here and sit on my knee and finish your orange juice.",
+        "author": {
+            "name": "Sonny Liston",
+            "url": "/quotes/sonny_liston_317331"
+        },
+        "topics": [
+            {
+                "name": "Orange",
+                "url": "/topics/orange"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sonny_liston_317330",
+        "quote": "A boxing match is like a cowboy movie. There's got to be good guys and there's got to be bad guys. And that's what people pay for - to see the bad guys get beat.",
+        "author": {
+            "name": "Sonny Liston",
+            "url": "/quotes/sonny_liston_317330"
+        },
+        "topics": [
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            },
+            {
+                "name": "Cowboy",
+                "url": "/topics/cowboy"
+            },
+            {
+                "name": "Movie",
+                "url": "/topics/movie"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sonny_liston_317332",
+        "quote": "How would you like to find out how good my right is?",
+        "author": {
+            "name": "Sonny Liston",
+            "url": "/quotes/sonny_liston_317332"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "How",
+                "url": "/topics/how"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sonny_liston_317334",
+        "quote": "Newspapermen ask dumb questions. They look up at the sun and ask if it is shining.",
+        "author": {
+            "name": "Sonny Liston",
+            "url": "/quotes/sonny_liston_317334"
+        },
+        "topics": [
+            {
+                "name": "Questions",
+                "url": "/topics/questions"
+            },
+            {
+                "name": "Ask",
+                "url": "/topics/ask"
+            },
+            {
+                "name": "Shining",
+                "url": "/topics/shining"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sonny_liston_317335",
+        "quote": "The only thing my old man ever gave me was a beating.",
+        "author": {
+            "name": "Sonny Liston",
+            "url": "/quotes/sonny_liston_317335"
+        },
+        "topics": [
+            {
+                "name": "Beating",
+                "url": "/topics/beating"
+            },
+            {
+                "name": "Old",
+                "url": "/topics/old"
+            },
+            {
+                "name": "Ever",
+                "url": "/topics/ever"
+            }
+        ]
+    }
+]

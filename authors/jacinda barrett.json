@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/jacinda_barrett_563600",
+        "quote": "Living in different cultures helped me work out who I was going to be, separate from where I came from.",
+        "author": {
+            "name": "Jacinda Barrett",
+            "url": "/quotes/jacinda_barrett_563600"
+        },
+        "topics": [
+            {
+                "name": "Living",
+                "url": "/topics/living"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Separate",
+                "url": "/topics/separate"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jacinda_barrett_681376",
+        "quote": "I prefer drama; I think character-driven drama is my favorite kind of stuff to go watch, and I like being challenged by that kind of stuff in that way.",
+        "author": {
+            "name": "Jacinda Barrett",
+            "url": "/quotes/jacinda_barrett_681376"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Prefer",
+                "url": "/topics/prefer"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jacinda_barrett_681377",
+        "quote": "If you've got five cameras, you're making sure that you're in the right position for each one of the cameras.",
+        "author": {
+            "name": "Jacinda Barrett",
+            "url": "/quotes/jacinda_barrett_681377"
+        },
+        "topics": [
+            {
+                "name": "Making",
+                "url": "/topics/making"
+            },
+            {
+                "name": "Cameras",
+                "url": "/topics/cameras"
+            },
+            {
+                "name": "Each One",
+                "url": "/topics/each_one"
+            }
+        ]
+    }
+]

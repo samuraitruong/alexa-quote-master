@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/john_c_crosby_137546",
+        "quote": "Mentoring is a brain to pick, an ear to listen, and a push in the right direction.",
+        "author": {
+            "name": "John C. Crosby",
+            "url": "/quotes/john_c_crosby_137546"
+        },
+        "topics": [
+            {
+                "name": "Mentoring",
+                "url": "/topics/mentoring"
+            },
+            {
+                "name": "Pick",
+                "url": "/topics/pick"
+            },
+            {
+                "name": "Ear",
+                "url": "/topics/ear"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_c_crosby_103157",
+        "quote": "The first law in advertising is to avoid the concrete promise... and cultivate the delightfully vague.",
+        "author": {
+            "name": "John C. Crosby",
+            "url": "/quotes/john_c_crosby_103157"
+        },
+        "topics": [
+            {
+                "name": "Concrete",
+                "url": "/topics/concrete"
+            },
+            {
+                "name": "Vague",
+                "url": "/topics/vague"
+            },
+            {
+                "name": "First Law",
+                "url": "/topics/first_law"
+            }
+        ]
+    }
+]

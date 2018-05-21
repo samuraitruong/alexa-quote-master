@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/gerhard_domagk_729509",
+        "quote": "Whatever contributes to the preservation of life is good; all that destroys life is evil.",
+        "author": {
+            "name": "Gerhard Domagk",
+            "url": "/quotes/gerhard_domagk_729509"
+        },
+        "topics": [
+            {
+                "name": "Evil",
+                "url": "/topics/evil"
+            },
+            {
+                "name": "Preservation",
+                "url": "/topics/preservation"
+            },
+            {
+                "name": "Destroys",
+                "url": "/topics/destroys"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gerhard_domagk_729508",
+        "quote": "A rise in body temperature during sulphonamide treatment intensifies the biochemical reaction between drug and pathogen, while at the same time the heat itself injures the heat-sensitive gonococci.",
+        "author": {
+            "name": "Gerhard Domagk",
+            "url": "/quotes/gerhard_domagk_729508"
+        },
+        "topics": [
+            {
+                "name": "Reaction",
+                "url": "/topics/reaction"
+            },
+            {
+                "name": "Heat",
+                "url": "/topics/heat"
+            },
+            {
+                "name": "Treatment",
+                "url": "/topics/treatment"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gerhard_domagk_729505",
+        "quote": "The problem of chemotherapy of bacterial infections could be solved neither by the experimental medical research worker nor by the chemist alone, but only by the two together working in very close cooperation over many years.",
+        "author": {
+            "name": "Gerhard Domagk",
+            "url": "/quotes/gerhard_domagk_729505"
+        },
+        "topics": [
+            {
+                "name": "Medical",
+                "url": "/topics/medical"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Solved",
+                "url": "/topics/solved"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gerhard_domagk_729506",
+        "quote": "We all remember how, at the beginning of the sulphonamide era, it was repeatedly observed that fresh cases of gonorrhoea in men responded best to sulphonamide treatment when suppuration had already occurred for several days, and not at the first appearance of the disease.",
+        "author": {
+            "name": "Gerhard Domagk",
+            "url": "/quotes/gerhard_domagk_729506"
+        },
+        "topics": [
+            {
+                "name": "Best",
+                "url": "/topics/best"
+            },
+            {
+                "name": "Beginning",
+                "url": "/topics/beginning"
+            },
+            {
+                "name": "Treatment",
+                "url": "/topics/treatment"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gerhard_domagk_729507",
+        "quote": "Why some gonococcal strains are more resistant than others is still not clear.",
+        "author": {
+            "name": "Gerhard Domagk",
+            "url": "/quotes/gerhard_domagk_729507"
+        },
+        "topics": [
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            }
+        ]
+    }
+]

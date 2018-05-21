@@ -1,0 +1,134 @@
+[
+    {
+        "url": "/quotes/wilson_greatbatch_290261?src=t_fission",
+        "quote": "France generates a significant part of its energy requirements from fission reactors and these have achieved a perfect safety record. We build ours all differently.",
+        "author": {
+            "name": "Wilson Greatbatch",
+            "url": "/authors/wilson_greatbatch"
+        },
+        "topics": [
+            {
+                "name": "Perfect",
+                "url": "/topics/perfect"
+            },
+            {
+                "name": "Requirements",
+                "url": "/topics/requirements"
+            },
+            {
+                "name": "Part",
+                "url": "/topics/part"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_zubrin_782820?src=t_fission",
+        "quote": "Before agriculture was invented, land was not a resource. Before oil drilling and nuclear fission were invented, petroleum and uranium were not resources.",
+        "author": {
+            "name": "Robert Zubrin",
+            "url": "/authors/robert_zubrin"
+        },
+        "topics": [
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            },
+            {
+                "name": "Resources",
+                "url": "/topics/resources"
+            },
+            {
+                "name": "Resource",
+                "url": "/topics/resource"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/wilson_greatbatch_290264?src=t_fission",
+        "quote": "Nearly all of our existing power sources are generators which use a heat cycle. This includes our coal, oil, and gas fired utilities, our automobiles, trucks, and trains, and even our nuclear fission utility power plants.",
+        "author": {
+            "name": "Wilson Greatbatch",
+            "url": "/authors/wilson_greatbatch"
+        },
+        "topics": [
+            {
+                "name": "Heat",
+                "url": "/topics/heat"
+            },
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            },
+            {
+                "name": "Sources",
+                "url": "/topics/sources"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/wilson_greatbatch_290273?src=t_fission",
+        "quote": "Rocket scientists agree that we have about reached the limit of our ability to travel in space using chemical rockets. To achieve anything near the speed of light we will need a new energy source and a new propellant. Nuclear fission is not an option.",
+        "author": {
+            "name": "Wilson Greatbatch",
+            "url": "/authors/wilson_greatbatch"
+        },
+        "topics": [
+            {
+                "name": "Space",
+                "url": "/topics/space"
+            },
+            {
+                "name": "Achieve",
+                "url": "/topics/achieve"
+            },
+            {
+                "name": "Rocket",
+                "url": "/topics/rocket"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_buchan_468712?src=t_fission",
+        "quote": "Of all the failed technologies that litter the onward march of science - steam carriages, zeppelins, armoured trains - none has been so catastrophic to prosperity as the last century's attempt to generate electricity from nuclear fission.",
+        "author": {
+            "name": "James Buchan",
+            "url": "/authors/james_buchan"
+        },
+        "topics": [
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "None",
+                "url": "/topics/none"
+            },
+            {
+                "name": "Trains",
+                "url": "/topics/trains"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/enrico_fermi_273758?src=t_fission",
+        "quote": "The fundamental point in fabricating a chain reacting machine is of course to see to it that each fission produces a certain number of neutrons and some of these neutrons will again produce fission.",
+        "author": {
+            "name": "Enrico Fermi",
+            "url": "/authors/enrico_fermi"
+        },
+        "topics": [
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Chain",
+                "url": "/topics/chain"
+            }
+        ]
+    }
+]

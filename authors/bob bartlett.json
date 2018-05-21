@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/bob_bartlett_212386",
+        "quote": "Hills are unpleasant, so I like to get them over with as quickly as possible.",
+        "author": {
+            "name": "Bob Bartlett",
+            "url": "/quotes/bob_bartlett_212386"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Unpleasant",
+                "url": "/topics/unpleasant"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bob_bartlett_212387",
+        "quote": "If they take their children to doctors, they believe they are putting their faith in man instead of in God.",
+        "author": {
+            "name": "Bob Bartlett",
+            "url": "/quotes/bob_bartlett_212387"
+        },
+        "topics": [
+            {
+                "name": "Children",
+                "url": "/topics/children"
+            },
+            {
+                "name": "Take",
+                "url": "/topics/take"
+            },
+            {
+                "name": "Putting",
+                "url": "/topics/putting"
+            }
+        ]
+    }
+]

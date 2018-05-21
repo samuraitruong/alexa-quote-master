@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/ivana_milicevic_655356",
+        "quote": "'The Princess Bride' is one of my favorite movies of all time.",
+        "author": {
+            "name": "Ivana Milicevic",
+            "url": "/quotes/ivana_milicevic_655356"
+        },
+        "topics": [
+            {
+                "name": "Bride",
+                "url": "/topics/bride"
+            },
+            {
+                "name": "Princess",
+                "url": "/topics/princess"
+            },
+            {
+                "name": "Movies",
+                "url": "/topics/movies"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ivana_milicevic_563620",
+        "quote": "I'm not sure that the problem of violence in society can be put at the feet of the entertainment industry.",
+        "author": {
+            "name": "Ivana Milicevic",
+            "url": "/quotes/ivana_milicevic_563620"
+        },
+        "topics": [
+            {
+                "name": "Society",
+                "url": "/topics/society"
+            },
+            {
+                "name": "Feet",
+                "url": "/topics/feet"
+            },
+            {
+                "name": "Sure",
+                "url": "/topics/sure"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ivana_milicevic_563621",
+        "quote": "I'm blonde and bad.",
+        "author": {
+            "name": "Ivana Milicevic",
+            "url": "/quotes/ivana_milicevic_563621"
+        },
+        "topics": [
+            {
+                "name": "Blonde",
+                "url": "/topics/blonde"
+            },
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ivana_milicevic_655355",
+        "quote": "Whatever past you had, when you become a mother, it's a whole different thing. You can't even predict it. I've seen women who were nightmare party girls, who were just crazy, and then they have a baby, and this thing comes over them and changes them.",
+        "author": {
+            "name": "Ivana Milicevic",
+            "url": "/quotes/ivana_milicevic_655355"
+        },
+        "topics": [
+            {
+                "name": "Changes",
+                "url": "/topics/changes"
+            },
+            {
+                "name": "Whole",
+                "url": "/topics/whole"
+            },
+            {
+                "name": "Had",
+                "url": "/topics/had"
+            }
+        ]
+    }
+]

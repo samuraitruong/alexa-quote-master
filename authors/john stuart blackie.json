@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/john_stuart_blackie_184011",
+        "quote": "Converse with men makes sharp the glittering wit, but God to man doth speak in solitude.",
+        "author": {
+            "name": "John Stuart Blackie",
+            "url": "/quotes/john_stuart_blackie_184011"
+        },
+        "topics": [
+            {
+                "name": "Wit",
+                "url": "/topics/wit"
+            },
+            {
+                "name": "Doth",
+                "url": "/topics/doth"
+            },
+            {
+                "name": "Glittering",
+                "url": "/topics/glittering"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_stuart_blackie_184012",
+        "quote": "Wine is the drink of the gods, milk the drink of babes, tea the drink of women, and water the drink of beasts.",
+        "author": {
+            "name": "John Stuart Blackie",
+            "url": "/quotes/john_stuart_blackie_184012"
+        },
+        "topics": [
+            {
+                "name": "Tea",
+                "url": "/topics/tea"
+            },
+            {
+                "name": "Gods",
+                "url": "/topics/gods"
+            },
+            {
+                "name": "Babes",
+                "url": "/topics/babes"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_stuart_blackie_184125",
+        "quote": "Wake the power within thee slumbering, trim the plot that's in thy keeping, thou wilt bless the task when reaping sweet labour's prize.",
+        "author": {
+            "name": "John Stuart Blackie",
+            "url": "/quotes/john_stuart_blackie_184125"
+        },
+        "topics": [
+            {
+                "name": "Within",
+                "url": "/topics/within"
+            },
+            {
+                "name": "Thy",
+                "url": "/topics/thy"
+            },
+            {
+                "name": "Thee",
+                "url": "/topics/thee"
+            }
+        ]
+    }
+]

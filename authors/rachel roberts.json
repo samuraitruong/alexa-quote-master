@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/rachel_roberts_631283",
+        "quote": "Everybody has a story... and a scream.",
+        "author": {
+            "name": "Rachel Roberts",
+            "url": "/quotes/rachel_roberts_631283"
+        },
+        "topics": [
+            {
+                "name": "Story",
+                "url": "/topics/story"
+            },
+            {
+                "name": "Everybody",
+                "url": "/topics/everybody"
+            },
+            {
+                "name": "Scream",
+                "url": "/topics/scream"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rachel_roberts_631281",
+        "quote": "Whenever I act well, my head clears. Always a bit frail I was personally, but never professionally.",
+        "author": {
+            "name": "Rachel Roberts",
+            "url": "/quotes/rachel_roberts_631281"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Frail",
+                "url": "/topics/frail"
+            },
+            {
+                "name": "Bit",
+                "url": "/topics/bit"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rachel_roberts_631282",
+        "quote": "It is very difficult to be taken seriously when you're introduced at a party to somebody as the fourth Mrs. Rex Harrison.",
+        "author": {
+            "name": "Rachel Roberts",
+            "url": "/quotes/rachel_roberts_631282"
+        },
+        "topics": [
+            {
+                "name": "Seriously",
+                "url": "/topics/seriously"
+            },
+            {
+                "name": "Difficult",
+                "url": "/topics/difficult"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    }
+]

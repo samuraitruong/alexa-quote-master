@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/john_d_rockefeller_jr_172828",
+        "quote": "The success of each is dependent upon the success of the other.",
+        "author": {
+            "name": "John D. Rockefeller, Jr.",
+            "url": "/quotes/john_d_rockefeller_jr_172828"
+        },
+        "topics": [
+            {
+                "name": "Success",
+                "url": "/topics/success"
+            },
+            {
+                "name": "Dependent",
+                "url": "/topics/dependent"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_d_rockefeller_jr_338777",
+        "quote": "Think of giving not as a duty but as a privilege.",
+        "author": {
+            "name": "John D. Rockefeller, Jr.",
+            "url": "/quotes/john_d_rockefeller_jr_338777"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Duty",
+                "url": "/topics/duty"
+            },
+            {
+                "name": "Privilege",
+                "url": "/topics/privilege"
+            }
+        ]
+    }
+]

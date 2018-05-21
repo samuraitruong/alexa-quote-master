@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/john_monks_397615",
+        "quote": "I concede nothing until they throw dirt on my face.",
+        "author": {
+            "name": "John Monks",
+            "url": "/quotes/john_monks_397615"
+        },
+        "topics": [
+            {
+                "name": "Face",
+                "url": "/topics/face"
+            },
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            },
+            {
+                "name": "Throw",
+                "url": "/topics/throw"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_monks_406242",
+        "quote": "The best performers in Europe are those who use their welfare states to help people adjust to change.",
+        "author": {
+            "name": "John Monks",
+            "url": "/quotes/john_monks_406242"
+        },
+        "topics": [
+            {
+                "name": "Change",
+                "url": "/topics/change"
+            },
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            },
+            {
+                "name": "Performers",
+                "url": "/topics/performers"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_monks_406243",
+        "quote": "We are demonstrating for services for all the people and not just services for money. It's very important that this message goes to the European Parliament today.",
+        "author": {
+            "name": "John Monks",
+            "url": "/quotes/john_monks_406243"
+        },
+        "topics": [
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Goes",
+                "url": "/topics/goes"
+            },
+            {
+                "name": "European",
+                "url": "/topics/european"
+            }
+        ]
+    }
+]

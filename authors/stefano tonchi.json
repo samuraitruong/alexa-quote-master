@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/stefano_tonchi_550212",
+        "quote": "While technology efficiently delivers news stories to our desktops, laptops and mobile devices, magazines are all about context - how ideas and images are presented in relation to one another and within a larger point of view.",
+        "author": {
+            "name": "Stefano Tonchi",
+            "url": "/quotes/stefano_tonchi_550212"
+        },
+        "topics": [
+            {
+                "name": "Point Of View",
+                "url": "/topics/point_of_view"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Larger",
+                "url": "/topics/larger"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/stefano_tonchi_550213",
+        "quote": "Magazines are about trust and partnership: We, the editors, will strive always to keep you engaged; you, the readers, are free to engage with us or to reject us.",
+        "author": {
+            "name": "Stefano Tonchi",
+            "url": "/quotes/stefano_tonchi_550213"
+        },
+        "topics": [
+            {
+                "name": "Trust",
+                "url": "/topics/trust"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Engaged",
+                "url": "/topics/engaged"
+            }
+        ]
+    }
+]

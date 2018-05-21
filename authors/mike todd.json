@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/mike_todd_392262",
+        "quote": "Being broke is a temporary situation. Being poor is a state of mind.",
+        "author": {
+            "name": "Mike Todd",
+            "url": "/quotes/mike_todd_392262"
+        },
+        "topics": [
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Temporary",
+                "url": "/topics/temporary"
+            },
+            {
+                "name": "Broke",
+                "url": "/topics/broke"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mike_todd_382090",
+        "quote": "Beaver do better work than the Corps of Engineers.",
+        "author": {
+            "name": "Mike Todd",
+            "url": "/quotes/mike_todd_382090"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Better",
+                "url": "/topics/better"
+            },
+            {
+                "name": "Than",
+                "url": "/topics/than"
+            }
+        ]
+    }
+]

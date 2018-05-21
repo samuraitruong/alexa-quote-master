@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/lewis_carroll_156218?src=t_human_strength",
+        "quote": "There comes a pause, for human strength will not endure to dance without cessation; and everyone must reach the point at length of absolute prostration.",
+        "author": {
+            "name": "Lewis Carroll",
+            "url": "/authors/lewis_carroll"
+        },
+        "topics": [
+            {
+                "name": "Strength",
+                "url": "/topics/strength"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Everyone",
+                "url": "/topics/everyone"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_mccain_844006?src=t_human_strength",
+        "quote": "I have watched men suffer the anguish of imprisonment, defy appalling human cruelty... break for a moment, then recover inhuman strength to defy their enemies once more.",
+        "author": {
+            "name": "John McCain",
+            "url": "/authors/john_mccain"
+        },
+        "topics": [
+            {
+                "name": "Strength",
+                "url": "/topics/strength"
+            },
+            {
+                "name": "Cruelty",
+                "url": "/topics/cruelty"
+            },
+            {
+                "name": "Recover",
+                "url": "/topics/recover"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/daniel_nathans_320043?src=t_human_strength",
+        "quote": "The glimpses of human strength and frailty that a physician sees are with me still.",
+        "author": {
+            "name": "Daniel Nathans",
+            "url": "/authors/daniel_nathans"
+        },
+        "topics": [
+            {
+                "name": "Strength",
+                "url": "/topics/strength"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            },
+            {
+                "name": "Frailty",
+                "url": "/topics/frailty"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jean_anouilh_148664?src=t_human_strength",
+        "quote": "One cannot weep for the entire world, it is beyond human strength. One must choose.",
+        "author": {
+            "name": "Jean Anouilh",
+            "url": "/authors/jean_anouilh"
+        },
+        "topics": [
+            {
+                "name": "Strength",
+                "url": "/topics/strength"
+            },
+            {
+                "name": "World",
+                "url": "/topics/world"
+            }
+        ]
+    }
+]

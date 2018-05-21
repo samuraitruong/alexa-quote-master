@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/betsy_russell_573534",
+        "quote": "I completely believe that the 'Saw' movies do have heart and soul and morals and values.",
+        "author": {
+            "name": "Betsy Russell",
+            "url": "/quotes/betsy_russell_573534"
+        },
+        "topics": [
+            {
+                "name": "Soul",
+                "url": "/topics/soul"
+            },
+            {
+                "name": "Values",
+                "url": "/topics/values"
+            },
+            {
+                "name": "Movies",
+                "url": "/topics/movies"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/betsy_russell_573535",
+        "quote": "I really believe that 'Saw' makes us stop and think and question our motives and what we're doing here on Earth.",
+        "author": {
+            "name": "Betsy Russell",
+            "url": "/quotes/betsy_russell_573535"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            }
+        ]
+    }
+]

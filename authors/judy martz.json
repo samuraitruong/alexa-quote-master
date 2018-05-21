@@ -1,0 +1,108 @@
+[
+    {
+        "url": "/quotes/judy_martz_356672",
+        "quote": "Everything has to do with geography.",
+        "author": {
+            "name": "Judy Martz",
+            "url": "/quotes/judy_martz_356672"
+        },
+        "topics": [
+            {
+                "name": "Geography",
+                "url": "/topics/geography"
+            },
+            {
+                "name": "Everything",
+                "url": "/topics/everything"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/judy_martz_688645",
+        "quote": "People who are offended by the Ten Commandments have a deeper problem than the stone that it's written on, I think.",
+        "author": {
+            "name": "Judy Martz",
+            "url": "/quotes/judy_martz_688645"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Offended",
+                "url": "/topics/offended"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/judy_martz_356665",
+        "quote": "The legislature are a little more difficult to educate than the governor is.",
+        "author": {
+            "name": "Judy Martz",
+            "url": "/quotes/judy_martz_356665"
+        },
+        "topics": [
+            {
+                "name": "Difficult",
+                "url": "/topics/difficult"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Than",
+                "url": "/topics/than"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/judy_martz_356667",
+        "quote": "If you can't do it and do it well, you can't do it, period.",
+        "author": {
+            "name": "Judy Martz",
+            "url": "/quotes/judy_martz_356667"
+        },
+        "topics": [
+            {
+                "name": "You",
+                "url": "/topics/you"
+            },
+            {
+                "name": "Well",
+                "url": "/topics/well"
+            },
+            {
+                "name": "Period",
+                "url": "/topics/period"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/judy_martz_688646",
+        "quote": "You can't get past the liberal press with a bucket of ink.",
+        "author": {
+            "name": "Judy Martz",
+            "url": "/quotes/judy_martz_688646"
+        },
+        "topics": [
+            {
+                "name": "Past",
+                "url": "/topics/past"
+            },
+            {
+                "name": "Bucket",
+                "url": "/topics/bucket"
+            },
+            {
+                "name": "Get",
+                "url": "/topics/get"
+            }
+        ]
+    }
+]

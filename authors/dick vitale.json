@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/dick_vitale_212822",
+        "quote": "I'm living the American dream.",
+        "author": {
+            "name": "Dick Vitale",
+            "url": "/quotes/dick_vitale_212822"
+        },
+        "topics": [
+            {
+                "name": "American",
+                "url": "/topics/american"
+            },
+            {
+                "name": "Living",
+                "url": "/topics/living"
+            },
+            {
+                "name": "Dream",
+                "url": "/topics/dream"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dick_vitale_212821",
+        "quote": "It is time for everyone to sit down - the NCAA, the NBA, the players union and the coaching fraternity - and come up with suitable solutions to these problems.",
+        "author": {
+            "name": "Dick Vitale",
+            "url": "/quotes/dick_vitale_212821"
+        },
+        "topics": [
+            {
+                "name": "Everyone",
+                "url": "/topics/everyone"
+            },
+            {
+                "name": "Players",
+                "url": "/topics/players"
+            },
+            {
+                "name": "NCAA",
+                "url": "/topics/ncaa"
+            }
+        ]
+    }
+]

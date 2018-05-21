@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/david_douglas_197470",
+        "quote": "A forest of these trees is a spectacle too much for one man to see.",
+        "author": {
+            "name": "David Douglas",
+            "url": "/quotes/david_douglas_197470"
+        },
+        "topics": [
+            {
+                "name": "Forest",
+                "url": "/topics/forest"
+            },
+            {
+                "name": "See",
+                "url": "/topics/see"
+            },
+            {
+                "name": "Spectacle",
+                "url": "/topics/spectacle"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_douglas_197469",
+        "quote": "The joy of viewing land, the hope of in a few days ranging through the long wished-for spot and the pleasure of again resuming my wonted employment may be readily calculated.",
+        "author": {
+            "name": "David Douglas",
+            "url": "/quotes/david_douglas_197469"
+        },
+        "topics": [
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Readily",
+                "url": "/topics/readily"
+            }
+        ]
+    }
+]

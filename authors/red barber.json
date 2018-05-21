@@ -1,0 +1,178 @@
+[
+    {
+        "url": "/quotes/red_barber_346608",
+        "quote": "This is Red Barber speaking. Let me say hello to you all.",
+        "author": {
+            "name": "Red Barber",
+            "url": "/quotes/red_barber_346608"
+        },
+        "topics": [
+            {
+                "name": "Red",
+                "url": "/topics/red"
+            },
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Speaking",
+                "url": "/topics/speaking"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/red_barber_371093",
+        "quote": "Running like a bunny with his tail on fire.",
+        "author": {
+            "name": "Red Barber",
+            "url": "/quotes/red_barber_371093"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            },
+            {
+                "name": "Running",
+                "url": "/topics/running"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/red_barber_140203",
+        "quote": "Baseball is dull only to dull minds.",
+        "author": {
+            "name": "Red Barber",
+            "url": "/quotes/red_barber_140203"
+        },
+        "topics": [
+            {
+                "name": "Baseball",
+                "url": "/topics/baseball"
+            },
+            {
+                "name": "Minds",
+                "url": "/topics/minds"
+            },
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/red_barber_140204",
+        "quote": "Whenever you have a tight situation and there's a close pitch, the umpire gets a squawk no matter how he calls it.",
+        "author": {
+            "name": "Red Barber",
+            "url": "/quotes/red_barber_140204"
+        },
+        "topics": [
+            {
+                "name": "Matter",
+                "url": "/topics/matter"
+            },
+            {
+                "name": "Tight",
+                "url": "/topics/tight"
+            },
+            {
+                "name": "Gets",
+                "url": "/topics/gets"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/red_barber_140205",
+        "quote": "When I was in baseball and you went into the clubhouse, you didn't see ball players with curling irons.",
+        "author": {
+            "name": "Red Barber",
+            "url": "/quotes/red_barber_140205"
+        },
+        "topics": [
+            {
+                "name": "See",
+                "url": "/topics/see"
+            },
+            {
+                "name": "Ball",
+                "url": "/topics/ball"
+            },
+            {
+                "name": "Players",
+                "url": "/topics/players"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/red_barber_346606",
+        "quote": "You have to be as fully prepared for the dull game as you are for the great game, or else you won't be prepared for the great one.",
+        "author": {
+            "name": "Red Barber",
+            "url": "/quotes/red_barber_346606"
+        },
+        "topics": [
+            {
+                "name": "Game",
+                "url": "/topics/game"
+            },
+            {
+                "name": "Prepared",
+                "url": "/topics/prepared"
+            },
+            {
+                "name": "Else",
+                "url": "/topics/else"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/red_barber_346607",
+        "quote": "When I'm talking to a large audience, I imagine that I'm talking to a single person.",
+        "author": {
+            "name": "Red Barber",
+            "url": "/quotes/red_barber_346607"
+        },
+        "topics": [
+            {
+                "name": "Audience",
+                "url": "/topics/audience"
+            },
+            {
+                "name": "Single",
+                "url": "/topics/single"
+            },
+            {
+                "name": "Imagine",
+                "url": "/topics/imagine"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/red_barber_371092",
+        "quote": "He's sitting in the catbird seat.",
+        "author": {
+            "name": "Red Barber",
+            "url": "/quotes/red_barber_371092"
+        },
+        "topics": [
+            {
+                "name": "Sitting",
+                "url": "/topics/sitting"
+            },
+            {
+                "name": "He",
+                "url": "/topics/he"
+            },
+            {
+                "name": "Seat",
+                "url": "/topics/seat"
+            }
+        ]
+    }
+]

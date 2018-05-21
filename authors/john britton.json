@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/john_britton_220834",
+        "quote": "The place of my birth, and residence for nearly sixteen years, in the early part of my life, became endeared to my feelings and affections; and more especially so after I had quitted it for an unknown place, and to associate with strangers.",
+        "author": {
+            "name": "John Britton",
+            "url": "/quotes/john_britton_220834"
+        },
+        "topics": [
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Became",
+                "url": "/topics/became"
+            },
+            {
+                "name": "Nearly",
+                "url": "/topics/nearly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_britton_406191",
+        "quote": "We feel there is already widespread broadband available today.",
+        "author": {
+            "name": "John Britton",
+            "url": "/quotes/john_britton_406191"
+        },
+        "topics": [
+            {
+                "name": "Today",
+                "url": "/topics/today"
+            },
+            {
+                "name": "Available",
+                "url": "/topics/available"
+            },
+            {
+                "name": "Broadband",
+                "url": "/topics/broadband"
+            }
+        ]
+    }
+]

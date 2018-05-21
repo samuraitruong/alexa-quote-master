@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/irwin_edman_127619",
+        "quote": "Life is always at some turning point.",
+        "author": {
+            "name": "Irwin Edman",
+            "url": "/quotes/irwin_edman_127619"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Turning Point",
+                "url": "/topics/turning_point"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/irwin_edman_129820",
+        "quote": "It is a myth, not a mandate, a fable not a logic, and symbol rather than a reason by which men are moved.",
+        "author": {
+            "name": "Irwin Edman",
+            "url": "/quotes/irwin_edman_129820"
+        },
+        "topics": [
+            {
+                "name": "Reason",
+                "url": "/topics/reason"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Symbol",
+                "url": "/topics/symbol"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/irwin_edman_101276",
+        "quote": "The standardized American is largely a myth created not least by Americans themselves.",
+        "author": {
+            "name": "Irwin Edman",
+            "url": "/quotes/irwin_edman_101276"
+        },
+        "topics": [
+            {
+                "name": "Myth",
+                "url": "/topics/myth"
+            },
+            {
+                "name": "Largely",
+                "url": "/topics/largely"
+            },
+            {
+                "name": "Created",
+                "url": "/topics/created"
+            }
+        ]
+    }
+]

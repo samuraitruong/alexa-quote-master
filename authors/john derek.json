@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/john_derek_108981",
+        "quote": "Live fast, die young, and leave a good looking corpse.",
+        "author": {
+            "name": "John Derek",
+            "url": "/quotes/john_derek_108981"
+        },
+        "topics": [
+            {
+                "name": "Fast",
+                "url": "/topics/fast"
+            },
+            {
+                "name": "Die",
+                "url": "/topics/die"
+            },
+            {
+                "name": "Young",
+                "url": "/topics/young"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_derek_262272",
+        "quote": "I think love and beauty are what life is all about.",
+        "author": {
+            "name": "John Derek",
+            "url": "/quotes/john_derek_262272"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    }
+]

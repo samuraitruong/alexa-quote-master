@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/louis_e_boone_170206",
+        "quote": "Don't fear failure so much that you refuse to try new things. The saddest summary of a life contains three descriptions: could have, might have, and should have.",
+        "author": {
+            "name": "Louis E. Boone",
+            "url": "/quotes/louis_e_boone_170206"
+        },
+        "topics": [
+            {
+                "name": "New Things",
+                "url": "/topics/new_things"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Summary",
+                "url": "/topics/summary"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/louis_e_boone_177150",
+        "quote": "I am definitely going to take a course on time management... just as soon as I can work it into my schedule.",
+        "author": {
+            "name": "Louis E. Boone",
+            "url": "/quotes/louis_e_boone_177150"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Am",
+                "url": "/topics/am"
+            }
+        ]
+    }
+]

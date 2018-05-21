@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/elizabeth_jennings_187301",
+        "quote": "I hate a word like 'pets': it sounds so much Like something with no living of its own.",
+        "author": {
+            "name": "Elizabeth Jennings",
+            "url": "/quotes/elizabeth_jennings_187301"
+        },
+        "topics": [
+            {
+                "name": "Living",
+                "url": "/topics/living"
+            },
+            {
+                "name": "Pets",
+                "url": "/topics/pets"
+            },
+            {
+                "name": "Sounds",
+                "url": "/topics/sounds"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/elizabeth_jennings_187299",
+        "quote": "For me, poetry is always a search for order.",
+        "author": {
+            "name": "Elizabeth Jennings",
+            "url": "/quotes/elizabeth_jennings_187299"
+        },
+        "topics": [
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Search",
+                "url": "/topics/search"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            }
+        ]
+    }
+]

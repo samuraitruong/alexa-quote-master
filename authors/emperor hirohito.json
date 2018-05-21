@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/emperor_hirohito_326190",
+        "quote": "They do not depend upon mere legends and myths. They are not predicated on the false conception that the Emperor is divine and that the Japanese people are superior to other races.",
+        "author": {
+            "name": "Emperor Hirohito",
+            "url": "/quotes/emperor_hirohito_326190"
+        },
+        "topics": [
+            {
+                "name": "Depend",
+                "url": "/topics/depend"
+            },
+            {
+                "name": "False",
+                "url": "/topics/false"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/emperor_hirohito_326189",
+        "quote": "I discovered freedom for the first time in England.",
+        "author": {
+            "name": "Emperor Hirohito",
+            "url": "/quotes/emperor_hirohito_326189"
+        },
+        "topics": [
+            {
+                "name": "Freedom",
+                "url": "/topics/freedom"
+            },
+            {
+                "name": "England",
+                "url": "/topics/england"
+            },
+            {
+                "name": "Discovered",
+                "url": "/topics/discovered"
+            }
+        ]
+    }
+]

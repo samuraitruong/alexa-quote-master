@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/adrian_rogers_527128",
+        "quote": "A church is an incubator, a nursery, a grade school. You start where people are and move them to where they need to be.",
+        "author": {
+            "name": "Adrian Rogers",
+            "url": "/quotes/adrian_rogers_527128"
+        },
+        "topics": [
+            {
+                "name": "Church",
+                "url": "/topics/church"
+            },
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            },
+            {
+                "name": "Move",
+                "url": "/topics/move"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/adrian_rogers_527129",
+        "quote": "I believe you have to keep the theological standard high; the Lord said, 'Be perfect,' and the leaders have to be striving for that standard with all there is in them.",
+        "author": {
+            "name": "Adrian Rogers",
+            "url": "/quotes/adrian_rogers_527129"
+        },
+        "topics": [
+            {
+                "name": "Perfect",
+                "url": "/topics/perfect"
+            },
+            {
+                "name": "Striving",
+                "url": "/topics/striving"
+            },
+            {
+                "name": "Standard",
+                "url": "/topics/standard"
+            }
+        ]
+    }
+]

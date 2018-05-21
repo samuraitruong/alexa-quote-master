@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/george_stoneman_292085",
+        "quote": "A military life has ever comported with my inclination.",
+        "author": {
+            "name": "George Stoneman",
+            "url": "/quotes/george_stoneman_292085"
+        },
+        "topics": [
+            {
+                "name": "Military",
+                "url": "/topics/military"
+            },
+            {
+                "name": "Ever",
+                "url": "/topics/ever"
+            },
+            {
+                "name": "Inclination",
+                "url": "/topics/inclination"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_stoneman_292086",
+        "quote": "I have therefore concluded to apply for the privilege of becoming a Cadet at West Point.",
+        "author": {
+            "name": "George Stoneman",
+            "url": "/quotes/george_stoneman_292086"
+        },
+        "topics": [
+            {
+                "name": "Apply",
+                "url": "/topics/apply"
+            },
+            {
+                "name": "Becoming",
+                "url": "/topics/becoming"
+            },
+            {
+                "name": "Cadet",
+                "url": "/topics/cadet"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_stoneman_292087",
+        "quote": "I will embrace the first opportunity to get to California and it is altogether probable that when once there I shall never again leave it.",
+        "author": {
+            "name": "George Stoneman",
+            "url": "/quotes/george_stoneman_292087"
+        },
+        "topics": [
+            {
+                "name": "Embrace",
+                "url": "/topics/embrace"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Again",
+                "url": "/topics/again"
+            }
+        ]
+    }
+]

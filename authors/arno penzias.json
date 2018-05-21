@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/arno_penzias_388171",
+        "quote": "Change is rarely comfortable.",
+        "author": {
+            "name": "Arno Penzias",
+            "url": "/quotes/arno_penzias_388171"
+        },
+        "topics": [
+            {
+                "name": "Change",
+                "url": "/topics/change"
+            },
+            {
+                "name": "Comfortable",
+                "url": "/topics/comfortable"
+            },
+            {
+                "name": "Rarely",
+                "url": "/topics/rarely"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/arno_penzias_391920",
+        "quote": "If you don't want to be replaced by a machine, don't try to act like one!",
+        "author": {
+            "name": "Arno Penzias",
+            "url": "/quotes/arno_penzias_391920"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Machine",
+                "url": "/topics/machine"
+            },
+            {
+                "name": "Act",
+                "url": "/topics/act"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/arno_penzias_392439",
+        "quote": "I feel that I learned far more from my students than I could possibly have taught them.",
+        "author": {
+            "name": "Arno Penzias",
+            "url": "/quotes/arno_penzias_392439"
+        },
+        "topics": [
+            {
+                "name": "Learned",
+                "url": "/topics/learned"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            }
+        ]
+    }
+]

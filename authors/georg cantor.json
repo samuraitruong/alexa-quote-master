@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/georg_cantor_212896",
+        "quote": "In mathematics the art of proposing a question must be held of higher value than solving it.",
+        "author": {
+            "name": "Georg Cantor",
+            "url": "/quotes/georg_cantor_212896"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Proposing",
+                "url": "/topics/proposing"
+            },
+            {
+                "name": "Solving",
+                "url": "/topics/solving"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/georg_cantor_212898",
+        "quote": "The essence of mathematics lies in its freedom.",
+        "author": {
+            "name": "Georg Cantor",
+            "url": "/quotes/georg_cantor_212898"
+        },
+        "topics": [
+            {
+                "name": "Freedom",
+                "url": "/topics/freedom"
+            },
+            {
+                "name": "Mathematics",
+                "url": "/topics/mathematics"
+            },
+            {
+                "name": "Lies",
+                "url": "/topics/lies"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/georg_cantor_201209",
+        "quote": "A set is a Many that allows itself to be thought of as a One.",
+        "author": {
+            "name": "Georg Cantor",
+            "url": "/quotes/georg_cantor_201209"
+        },
+        "topics": [
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Itself",
+                "url": "/topics/itself"
+            },
+            {
+                "name": "Set",
+                "url": "/topics/set"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/georg_cantor_212895",
+        "quote": "I realise that in this undertaking I place myself in a certain opposition to views widely held concerning the mathematical infinite and to opinions frequently defended on the nature of numbers.",
+        "author": {
+            "name": "Georg Cantor",
+            "url": "/quotes/georg_cantor_212895"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "Infinite",
+                "url": "/topics/infinite"
+            },
+            {
+                "name": "Held",
+                "url": "/topics/held"
+            }
+        ]
+    }
+]

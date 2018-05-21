@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/christopher_mcdonald_523110",
+        "quote": "If you're gonna learn how to do something, you'd better learn to do it right.",
+        "author": {
+            "name": "Christopher McDonald",
+            "url": "/quotes/christopher_mcdonald_523110"
+        },
+        "topics": [
+            {
+                "name": "Better",
+                "url": "/topics/better"
+            },
+            {
+                "name": "Learn",
+                "url": "/topics/learn"
+            },
+            {
+                "name": "How",
+                "url": "/topics/how"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/christopher_mcdonald_523111",
+        "quote": "Robert Redford was an absolute blast to work with - a very smart, very charismatic man.",
+        "author": {
+            "name": "Christopher McDonald",
+            "url": "/quotes/christopher_mcdonald_523111"
+        },
+        "topics": [
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Absolute",
+                "url": "/topics/absolute"
+            },
+            {
+                "name": "Robert",
+                "url": "/topics/robert"
+            }
+        ]
+    }
+]

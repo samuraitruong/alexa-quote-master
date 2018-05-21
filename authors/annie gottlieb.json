@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/annie_gottlieb_499109",
+        "quote": "I think human self-hatred may be the great untold story of the millennium. It's the common thread linking deep ecology and animal rights, the love and money we lavish on pets, the uneasy longing for extraterrestrials to be meddling with us.",
+        "author": {
+            "name": "Annie Gottlieb",
+            "url": "/quotes/annie_gottlieb_499109"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Deep",
+                "url": "/topics/deep"
+            },
+            {
+                "name": "Pets",
+                "url": "/topics/pets"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/annie_gottlieb_145808",
+        "quote": "Respect... is appreciation of the separateness of the other person, of the ways in which he or she is unique.",
+        "author": {
+            "name": "Annie Gottlieb",
+            "url": "/quotes/annie_gottlieb_145808"
+        },
+        "topics": [
+            {
+                "name": "She",
+                "url": "/topics/she"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    }
+]

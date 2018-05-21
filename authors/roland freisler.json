@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/roland_freisler_317256",
+        "quote": "If you have nothing to say for yourself then kindly keep your mouth shut!",
+        "author": {
+            "name": "Roland Freisler",
+            "url": "/quotes/roland_freisler_317256"
+        },
+        "topics": [
+            {
+                "name": "Mouth",
+                "url": "/topics/mouth"
+            },
+            {
+                "name": "Shut",
+                "url": "/topics/shut"
+            },
+            {
+                "name": "Kindly",
+                "url": "/topics/kindly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/roland_freisler_317257",
+        "quote": "The beet must be uprooted.",
+        "author": {
+            "name": "Roland Freisler",
+            "url": "/quotes/roland_freisler_317257"
+        },
+        "topics": [
+            {
+                "name": "Uprooted",
+                "url": "/topics/uprooted"
+            },
+            {
+                "name": "Must",
+                "url": "/topics/must"
+            }
+        ]
+    }
+]

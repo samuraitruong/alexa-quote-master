@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/ian_wright_406061",
+        "quote": "I never travel without my sketch book.",
+        "author": {
+            "name": "Ian Wright",
+            "url": "/quotes/ian_wright_406061"
+        },
+        "topics": [
+            {
+                "name": "Travel",
+                "url": "/topics/travel"
+            },
+            {
+                "name": "Book",
+                "url": "/topics/book"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ian_wright_185809",
+        "quote": "My name is usually the one on the end of people's lips.",
+        "author": {
+            "name": "Ian Wright",
+            "url": "/quotes/ian_wright_185809"
+        },
+        "topics": [
+            {
+                "name": "End",
+                "url": "/topics/end"
+            },
+            {
+                "name": "Name",
+                "url": "/topics/name"
+            },
+            {
+                "name": "Lips",
+                "url": "/topics/lips"
+            }
+        ]
+    }
+]

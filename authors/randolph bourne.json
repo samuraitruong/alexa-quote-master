@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/randolph_bourne_101141",
+        "quote": "Society is one vast conspiracy for carving one into the kind of statue likes, and then placing it in the most convenient niche it has.",
+        "author": {
+            "name": "Randolph Bourne",
+            "url": "/quotes/randolph_bourne_101141"
+        },
+        "topics": [
+            {
+                "name": "Society",
+                "url": "/topics/society"
+            },
+            {
+                "name": "Statue",
+                "url": "/topics/statue"
+            },
+            {
+                "name": "Kind",
+                "url": "/topics/kind"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/randolph_bourne_130157",
+        "quote": "Friendships are fragile things, and require as much handling as any other fragile and precious thing.",
+        "author": {
+            "name": "Randolph Bourne",
+            "url": "/quotes/randolph_bourne_130157"
+        },
+        "topics": [
+            {
+                "name": "Precious",
+                "url": "/topics/precious"
+            },
+            {
+                "name": "Things",
+                "url": "/topics/things"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/randolph_bourne_101400",
+        "quote": "Few people even scratch the surface, much less exhaust the contemplation of their own experience.",
+        "author": {
+            "name": "Randolph Bourne",
+            "url": "/quotes/randolph_bourne_101400"
+        },
+        "topics": [
+            {
+                "name": "Experience",
+                "url": "/topics/experience"
+            },
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            },
+            {
+                "name": "Surface",
+                "url": "/topics/surface"
+            }
+        ]
+    }
+]

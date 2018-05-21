@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/aulus_gellius_190407",
+        "quote": "I see the beard and cloak, but I don't yet see a philosopher.",
+        "author": {
+            "name": "Aulus Gellius",
+            "url": "/quotes/aulus_gellius_190407"
+        },
+        "topics": [
+            {
+                "name": "Beard",
+                "url": "/topics/beard"
+            },
+            {
+                "name": "See",
+                "url": "/topics/see"
+            },
+            {
+                "name": "Philosopher",
+                "url": "/topics/philosopher"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/aulus_gellius_190406",
+        "quote": "Truth is the daughter of time.",
+        "author": {
+            "name": "Aulus Gellius",
+            "url": "/quotes/aulus_gellius_190406"
+        },
+        "topics": [
+            {
+                "name": "Time",
+                "url": "/topics/time"
+            },
+            {
+                "name": "Truth",
+                "url": "/topics/truth"
+            },
+            {
+                "name": "Truth Is",
+                "url": "/topics/truth_is"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/aulus_gellius_405109",
+        "quote": "Another one of the old poets, whose name has escaped my memory at present, called Truth the daughter of Time.",
+        "author": {
+            "name": "Aulus Gellius",
+            "url": "/quotes/aulus_gellius_405109"
+        },
+        "topics": [
+            {
+                "name": "Memory",
+                "url": "/topics/memory"
+            },
+            {
+                "name": "Old",
+                "url": "/topics/old"
+            },
+            {
+                "name": "Another",
+                "url": "/topics/another"
+            }
+        ]
+    }
+]

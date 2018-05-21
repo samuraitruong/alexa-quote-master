@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/david_strickland_333030",
+        "quote": "I would never have discovered alcohol.",
+        "author": {
+            "name": "David Strickland",
+            "url": "/quotes/david_strickland_333030"
+        },
+        "topics": [
+            {
+                "name": "Alcohol",
+                "url": "/topics/alcohol"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Discovered",
+                "url": "/topics/discovered"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_strickland_333031",
+        "quote": "If something is bothering you, keep it to yourself.",
+        "author": {
+            "name": "David Strickland",
+            "url": "/quotes/david_strickland_333031"
+        },
+        "topics": [
+            {
+                "name": "Yourself",
+                "url": "/topics/yourself"
+            },
+            {
+                "name": "Bothering",
+                "url": "/topics/bothering"
+            },
+            {
+                "name": "Keep",
+                "url": "/topics/keep"
+            }
+        ]
+    }
+]

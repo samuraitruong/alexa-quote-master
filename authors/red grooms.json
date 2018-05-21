@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/red_grooms_215886",
+        "quote": "I have both exploited and been exploited in the print field.",
+        "author": {
+            "name": "Red Grooms",
+            "url": "/quotes/red_grooms_215886"
+        },
+        "topics": [
+            {
+                "name": "Print",
+                "url": "/topics/print"
+            },
+            {
+                "name": "Field",
+                "url": "/topics/field"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/red_grooms_215889",
+        "quote": "I had always done these 3D things that you could walk through. They were always done off the seat of my pants without blueprints or course.",
+        "author": {
+            "name": "Red Grooms",
+            "url": "/quotes/red_grooms_215889"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Pants",
+                "url": "/topics/pants"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/red_grooms_215888",
+        "quote": "But boy, right away it is fun to play around with the Paintbox program.",
+        "author": {
+            "name": "Red Grooms",
+            "url": "/quotes/red_grooms_215888"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            },
+            {
+                "name": "Right Away",
+                "url": "/topics/right_away"
+            }
+        ]
+    }
+]

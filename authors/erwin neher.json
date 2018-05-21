@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/erwin_neher_765471",
+        "quote": "Of course I have other interests, but on the other hand, science is a lifestyle in the sense that it's a combination of profession and hobby.",
+        "author": {
+            "name": "Erwin Neher",
+            "url": "/quotes/erwin_neher_765471"
+        },
+        "topics": [
+            {
+                "name": "Science",
+                "url": "/topics/science"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Profession",
+                "url": "/topics/profession"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/erwin_neher_765472",
+        "quote": "You do what you like because you just follow your curiosity, and you are happy when you find new things about nature, about how things work around us and inside us.",
+        "author": {
+            "name": "Erwin Neher",
+            "url": "/quotes/erwin_neher_765472"
+        },
+        "topics": [
+            {
+                "name": "New Things",
+                "url": "/topics/new_things"
+            },
+            {
+                "name": "Curiosity",
+                "url": "/topics/curiosity"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/erwin_neher_765473",
+        "quote": "Do you trust in your fellow citizens, in a sense that whatever they will have in additional tools they will use in balance more to the good or more to the bad? If you think they will use it more to the bad, you shouldn't do science, you know.",
+        "author": {
+            "name": "Erwin Neher",
+            "url": "/quotes/erwin_neher_765473"
+        },
+        "topics": [
+            {
+                "name": "Trust",
+                "url": "/topics/trust"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            }
+        ]
+    }
+]

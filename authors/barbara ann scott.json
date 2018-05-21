@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/barbara_ann_scott_182700",
+        "quote": "The most important thing about skating is that it teaches you to do the things you should do before you do the things you want to do.",
+        "author": {
+            "name": "Barbara Ann Scott",
+            "url": "/quotes/barbara_ann_scott_182700"
+        },
+        "topics": [
+            {
+                "name": "The Most Important",
+                "url": "/topics/the_most_important"
+            },
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/barbara_ann_scott_182701",
+        "quote": "Those edges and turns teach control and discipline, just like finger exercises on the piano.",
+        "author": {
+            "name": "Barbara Ann Scott",
+            "url": "/quotes/barbara_ann_scott_182701"
+        },
+        "topics": [
+            {
+                "name": "Piano",
+                "url": "/topics/piano"
+            },
+            {
+                "name": "Finger",
+                "url": "/topics/finger"
+            },
+            {
+                "name": "Exercises",
+                "url": "/topics/exercises"
+            }
+        ]
+    }
+]

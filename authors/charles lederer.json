@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/charles_lederer_395392",
+        "quote": "There are no enemies in science, professor. Only phenomena to study.",
+        "author": {
+            "name": "Charles Lederer",
+            "url": "/quotes/charles_lederer_395392"
+        },
+        "topics": [
+            {
+                "name": "Science",
+                "url": "/topics/science"
+            },
+            {
+                "name": "Study",
+                "url": "/topics/study"
+            },
+            {
+                "name": "Professor",
+                "url": "/topics/professor"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charles_lederer_400582",
+        "quote": "Knowledge is more important than life. We've only one excuse for existing, to think, to find out, to learn.",
+        "author": {
+            "name": "Charles Lederer",
+            "url": "/quotes/charles_lederer_400582"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Learn",
+                "url": "/topics/learn"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            }
+        ]
+    }
+]

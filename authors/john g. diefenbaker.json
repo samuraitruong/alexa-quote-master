@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/john_g_diefenbaker_111808",
+        "quote": "The Liberals are the flying saucers of politics. No one can make head nor tail of them and they never are seen twice in the same place.",
+        "author": {
+            "name": "John G. Diefenbaker",
+            "url": "/quotes/john_g_diefenbaker_111808"
+        },
+        "topics": [
+            {
+                "name": "Politics",
+                "url": "/topics/politics"
+            },
+            {
+                "name": "Tail",
+                "url": "/topics/tail"
+            },
+            {
+                "name": "Them",
+                "url": "/topics/them"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_g_diefenbaker_111807",
+        "quote": "I am not anti-American. But I am strongly pro-Canadian.",
+        "author": {
+            "name": "John G. Diefenbaker",
+            "url": "/quotes/john_g_diefenbaker_111807"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Strongly",
+                "url": "/topics/strongly"
+            },
+            {
+                "name": "Am",
+                "url": "/topics/am"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/sam_crawford_625763",
+        "quote": "I never was for telephones. Just don't like them, that's all. Anybody wants to talk to you, they can come to see you.",
+        "author": {
+            "name": "Sam Crawford",
+            "url": "/quotes/sam_crawford_625763"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Anybody",
+                "url": "/topics/anybody"
+            },
+            {
+                "name": "Telephones",
+                "url": "/topics/telephones"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sam_crawford_625761",
+        "quote": "I do have a television over there - it was a gift - but I never turn it on. I'd rather read a book.",
+        "author": {
+            "name": "Sam Crawford",
+            "url": "/quotes/sam_crawford_625761"
+        },
+        "topics": [
+            {
+                "name": "Gift",
+                "url": "/topics/gift"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sam_crawford_625762",
+        "quote": "I don't have a telephone. If I had a lot of money, I wouldn't have one.",
+        "author": {
+            "name": "Sam Crawford",
+            "url": "/quotes/sam_crawford_625762"
+        },
+        "topics": [
+            {
+                "name": "Money",
+                "url": "/topics/money"
+            },
+            {
+                "name": "Telephone",
+                "url": "/topics/telephone"
+            },
+            {
+                "name": "Lot",
+                "url": "/topics/lot"
+            }
+        ]
+    }
+]

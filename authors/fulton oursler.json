@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/fulton_oursler_170985",
+        "quote": "We crucify ourselves between two thieves: regret for yesterday and fear of tomorrow.",
+        "author": {
+            "name": "Fulton Oursler",
+            "url": "/quotes/fulton_oursler_170985"
+        },
+        "topics": [
+            {
+                "name": "Regret",
+                "url": "/topics/regret"
+            },
+            {
+                "name": "Yesterday",
+                "url": "/topics/yesterday"
+            },
+            {
+                "name": "Thieves",
+                "url": "/topics/thieves"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/fulton_oursler_175108",
+        "quote": "Many of us crucify ourselves between two thieves - regret for the past and fear of the future.",
+        "author": {
+            "name": "Fulton Oursler",
+            "url": "/quotes/fulton_oursler_175108"
+        },
+        "topics": [
+            {
+                "name": "Past",
+                "url": "/topics/past"
+            },
+            {
+                "name": "Regret",
+                "url": "/topics/regret"
+            },
+            {
+                "name": "Thieves",
+                "url": "/topics/thieves"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/fulton_oursler_175107",
+        "quote": "In this one book are the two most interesting personalities in the whole world - God and yourself. The Bible is the story of God and man, a love story in which you and I must write our own ending, our unfinished autobiography of the creature and the Creator.",
+        "author": {
+            "name": "Fulton Oursler",
+            "url": "/quotes/fulton_oursler_175107"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Book",
+                "url": "/topics/book"
+            },
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            }
+        ]
+    }
+]

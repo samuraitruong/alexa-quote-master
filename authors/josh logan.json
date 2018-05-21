@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/josh_logan_638350",
+        "quote": "After 'Rock Star,' I was definitely doing more high profile gigs. I was playing in Iceland. I was playing in Canada.",
+        "author": {
+            "name": "Josh Logan",
+            "url": "/quotes/josh_logan_638350"
+        },
+        "topics": [
+            {
+                "name": "Rock Star",
+                "url": "/topics/rock_star"
+            },
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Star",
+                "url": "/topics/star"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/josh_logan_638351",
+        "quote": "I want to be living out of a suitcase in a different city every day.",
+        "author": {
+            "name": "Josh Logan",
+            "url": "/quotes/josh_logan_638351"
+        },
+        "topics": [
+            {
+                "name": "City",
+                "url": "/topics/city"
+            },
+            {
+                "name": "Living",
+                "url": "/topics/living"
+            },
+            {
+                "name": "Suitcase",
+                "url": "/topics/suitcase"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/josh_logan_638352",
+        "quote": "I like to think of my style as pretty versatile. And I'd like whatever I record to reflect that to be mostly genre - to be just something that people want to listen on to see what I'm going to come up with next. That's the kind of music I'm into.",
+        "author": {
+            "name": "Josh Logan",
+            "url": "/quotes/josh_logan_638352"
+        },
+        "topics": [
+            {
+                "name": "Listen",
+                "url": "/topics/listen"
+            },
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            },
+            {
+                "name": "Mostly",
+                "url": "/topics/mostly"
+            }
+        ]
+    }
+]

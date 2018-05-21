@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/morris_kline_187391",
+        "quote": "Statistics: the mathematical theory of ignorance.",
+        "author": {
+            "name": "Morris Kline",
+            "url": "/quotes/morris_kline_187391"
+        },
+        "topics": [
+            {
+                "name": "Ignorance",
+                "url": "/topics/ignorance"
+            },
+            {
+                "name": "Theory",
+                "url": "/topics/theory"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/morris_kline_187390",
+        "quote": "A proof tells us where to concentrate our doubts.",
+        "author": {
+            "name": "Morris Kline",
+            "url": "/quotes/morris_kline_187390"
+        },
+        "topics": [
+            {
+                "name": "Where",
+                "url": "/topics/where"
+            },
+            {
+                "name": "Doubts",
+                "url": "/topics/doubts"
+            },
+            {
+                "name": "Tells",
+                "url": "/topics/tells"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/reginald_maudling_190331",
+        "quote": "For God's sake bring me a large Scotch. What a bloody awful country.",
+        "author": {
+            "name": "Reginald Maudling",
+            "url": "/quotes/reginald_maudling_190331"
+        },
+        "topics": [
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Bring",
+                "url": "/topics/bring"
+            },
+            {
+                "name": "Large",
+                "url": "/topics/large"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/reginald_maudling_190332",
+        "quote": "There comes a time in every man's life when he must make way for an older man.",
+        "author": {
+            "name": "Reginald Maudling",
+            "url": "/quotes/reginald_maudling_190332"
+        },
+        "topics": [
+            {
+                "name": "Older",
+                "url": "/topics/older"
+            },
+            {
+                "name": "Older Man",
+                "url": "/topics/older_man"
+            },
+            {
+                "name": "Must",
+                "url": "/topics/must"
+            }
+        ]
+    }
+]

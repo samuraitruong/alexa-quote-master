@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/bill_bowerman_358244",
+        "quote": "There's no such thing as bad weather, just soft people.",
+        "author": {
+            "name": "Bill Bowerman",
+            "url": "/quotes/bill_bowerman_358244"
+        },
+        "topics": [
+            {
+                "name": "Weather",
+                "url": "/topics/weather"
+            },
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            },
+            {
+                "name": "Thing",
+                "url": "/topics/thing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_bowerman_358240",
+        "quote": "A teacher is never too smart to learn from his pupils. But while runners differ, basic principles never change. So it's a matter of fitting your current practices to fit the event and the individual. See, what's good for you might not be worth a darn for the next guy.",
+        "author": {
+            "name": "Bill Bowerman",
+            "url": "/quotes/bill_bowerman_358240"
+        },
+        "topics": [
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            },
+            {
+                "name": "Guy",
+                "url": "/topics/guy"
+            },
+            {
+                "name": "Pupils",
+                "url": "/topics/pupils"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_bowerman_358243",
+        "quote": "The magic is in the man, not the 100 miles.",
+        "author": {
+            "name": "Bill Bowerman",
+            "url": "/quotes/bill_bowerman_358243"
+        },
+        "topics": [
+            {
+                "name": "Man",
+                "url": "/topics/man"
+            },
+            {
+                "name": "Magic",
+                "url": "/topics/magic"
+            },
+            {
+                "name": "Miles",
+                "url": "/topics/miles"
+            }
+        ]
+    }
+]

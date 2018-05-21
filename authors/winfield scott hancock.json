@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/winfield_scott_hancock_200241",
+        "quote": "Colonel, I do not care to die, but I pray to God I may never leave this field.",
+        "author": {
+            "name": "Winfield Scott Hancock",
+            "url": "/quotes/winfield_scott_hancock_200241"
+        },
+        "topics": [
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Die",
+                "url": "/topics/die"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/winfield_scott_hancock_200240",
+        "quote": "My politics are of a practical kind - the integrity of the country, the supremacy of the Federal government, an honorable peace, or none at all.",
+        "author": {
+            "name": "Winfield Scott Hancock",
+            "url": "/quotes/winfield_scott_hancock_200240"
+        },
+        "topics": [
+            {
+                "name": "Politics",
+                "url": "/topics/politics"
+            },
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Practical",
+                "url": "/topics/practical"
+            }
+        ]
+    }
+]

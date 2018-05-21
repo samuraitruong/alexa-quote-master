@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/sonya_levien_399999",
+        "quote": "Good intentions are not enough. They've never put an onion in the soup yet.",
+        "author": {
+            "name": "Sonya Levien",
+            "url": "/quotes/sonya_levien_399999"
+        },
+        "topics": [
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Soup",
+                "url": "/topics/soup"
+            },
+            {
+                "name": "Onion",
+                "url": "/topics/onion"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sonya_levien_397645",
+        "quote": "Small things have a way of overmastering the great. This small press can destroy a kingdom.",
+        "author": {
+            "name": "Sonya Levien",
+            "url": "/quotes/sonya_levien_397645"
+        },
+        "topics": [
+            {
+                "name": "Small Things",
+                "url": "/topics/small_things"
+            },
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Things",
+                "url": "/topics/things"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sonya_levien_402540",
+        "quote": "The ugly is very appealing to man. It's instinct. One shrinks from the ugly, yet wants to look at it. There's a devilish fascination in it. We extract pleasure from horror.",
+        "author": {
+            "name": "Sonya Levien",
+            "url": "/quotes/sonya_levien_402540"
+        },
+        "topics": [
+            {
+                "name": "Horror",
+                "url": "/topics/horror"
+            },
+            {
+                "name": "Instinct",
+                "url": "/topics/instinct"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    }
+]

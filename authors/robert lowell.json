@@ -1,0 +1,108 @@
+[
+    {
+        "url": "/quotes/robert_lowell_141770",
+        "quote": "The light at the end of the tunnel is just the light of an oncoming train.",
+        "author": {
+            "name": "Robert Lowell",
+            "url": "/quotes/robert_lowell_141770"
+        },
+        "topics": [
+            {
+                "name": "Light",
+                "url": "/topics/light"
+            },
+            {
+                "name": "End Of The Tunnel",
+                "url": "/topics/end_of_the_tunnel"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_lowell_395951",
+        "quote": "In Boston serpents whistle at the cold.",
+        "author": {
+            "name": "Robert Lowell",
+            "url": "/quotes/robert_lowell_395951"
+        },
+        "topics": [
+            {
+                "name": "Boston",
+                "url": "/topics/boston"
+            },
+            {
+                "name": "Cold",
+                "url": "/topics/cold"
+            },
+            {
+                "name": "Whistle",
+                "url": "/topics/whistle"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_lowell_389549",
+        "quote": "If we see light at the end of the tunnel, it the light of the oncoming train.",
+        "author": {
+            "name": "Robert Lowell",
+            "url": "/quotes/robert_lowell_389549"
+        },
+        "topics": [
+            {
+                "name": "Light",
+                "url": "/topics/light"
+            },
+            {
+                "name": "End",
+                "url": "/topics/end"
+            },
+            {
+                "name": "See",
+                "url": "/topics/see"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_lowell_378509",
+        "quote": "The Lord survives the rainbow of His will.",
+        "author": {
+            "name": "Robert Lowell",
+            "url": "/quotes/robert_lowell_378509"
+        },
+        "topics": [
+            {
+                "name": "Rainbow",
+                "url": "/topics/rainbow"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_lowell_378510",
+        "quote": "If youth is a defect, it is one we outgrow too soon.",
+        "author": {
+            "name": "Robert Lowell",
+            "url": "/quotes/robert_lowell_378510"
+        },
+        "topics": [
+            {
+                "name": "Outgrow",
+                "url": "/topics/outgrow"
+            },
+            {
+                "name": "Too",
+                "url": "/topics/too"
+            },
+            {
+                "name": "Defect",
+                "url": "/topics/defect"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/alan_j_dixon_624836",
+        "quote": "I'm a man who enjoys people, enjoys a good time.",
+        "author": {
+            "name": "Alan J. Dixon",
+            "url": "/quotes/alan_j_dixon_624836"
+        },
+        "topics": [
+            {
+                "name": "Time",
+                "url": "/topics/time"
+            },
+            {
+                "name": "Man",
+                "url": "/topics/man"
+            },
+            {
+                "name": "Good Time",
+                "url": "/topics/good_time"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alan_j_dixon_624837",
+        "quote": "I like to work hard and play hard.",
+        "author": {
+            "name": "Alan J. Dixon",
+            "url": "/quotes/alan_j_dixon_624837"
+        },
+        "topics": [
+            {
+                "name": "Work Hard",
+                "url": "/topics/work_hard"
+            },
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    }
+]

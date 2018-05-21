@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/george_r_roberts_546463",
+        "quote": "Across our country, social enterprise partnerships between the public and private sectors are providing millions of Americans - young and old - a second chance.",
+        "author": {
+            "name": "George R. Roberts",
+            "url": "/quotes/george_r_roberts_546463"
+        },
+        "topics": [
+            {
+                "name": "Second Chance",
+                "url": "/topics/second_chance"
+            },
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_r_roberts_546464",
+        "quote": "Social-enterprise employees earn wages and pay taxes, reducing their recidivism rates and dependence on government assistance. They also receive crucial on-the-job training, job-readiness skills, literacy instruction and, if necessary, the counseling and mental-health services they need to move into the mainstream workforce.",
+        "author": {
+            "name": "George R. Roberts",
+            "url": "/quotes/george_r_roberts_546464"
+        },
+        "topics": [
+            {
+                "name": "Training",
+                "url": "/topics/training"
+            },
+            {
+                "name": "Taxes",
+                "url": "/topics/taxes"
+            },
+            {
+                "name": "Crucial",
+                "url": "/topics/crucial"
+            }
+        ]
+    }
+]

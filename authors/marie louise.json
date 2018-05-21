@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/marie_louise_207605",
+        "quote": "I am convinced that our movement will be more demoralized and weakened by blind and uncritical admiration than by frank admission of past mistakes.",
+        "author": {
+            "name": "Marie Louise",
+            "url": "/quotes/marie_louise_207605"
+        },
+        "topics": [
+            {
+                "name": "Blind",
+                "url": "/topics/blind"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Frank",
+                "url": "/topics/frank"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marie_louise_207604",
+        "quote": "In a few generations more, there will probably be no room at all allowed for animals on the earth: no need of them, no toleration of them.",
+        "author": {
+            "name": "Marie Louise",
+            "url": "/quotes/marie_louise_207604"
+        },
+        "topics": [
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    }
+]

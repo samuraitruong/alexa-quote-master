@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/brian_moynihan_529677",
+        "quote": "This is a marathon in life. You can't be sprinting all the time or else you wear yourself out. You have to make sure you're taking care of yourself, keeping yourself grounded and not letting every little thing get you worked up.",
+        "author": {
+            "name": "Brian Moynihan",
+            "url": "/quotes/brian_moynihan_529677"
+        },
+        "topics": [
+            {
+                "name": "Life",
+                "url": "/topics/life"
+            },
+            {
+                "name": "Wear",
+                "url": "/topics/wear"
+            },
+            {
+                "name": "Grounded",
+                "url": "/topics/grounded"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brian_moynihan_529678",
+        "quote": "The challenge to people like me is, how do you use your capabilities and resources to help support things that are important to you, whether it's the arts or education or homelessness?",
+        "author": {
+            "name": "Brian Moynihan",
+            "url": "/quotes/brian_moynihan_529678"
+        },
+        "topics": [
+            {
+                "name": "Education",
+                "url": "/topics/education"
+            },
+            {
+                "name": "Capabilities",
+                "url": "/topics/capabilities"
+            },
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            }
+        ]
+    }
+]

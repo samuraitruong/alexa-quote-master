@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/joseph_cook_182804",
+        "quote": "Conscience is our magnetic compass; reason our chart.",
+        "author": {
+            "name": "Joseph Cook",
+            "url": "/quotes/joseph_cook_182804"
+        },
+        "topics": [
+            {
+                "name": "Compass",
+                "url": "/topics/compass"
+            },
+            {
+                "name": "Conscience",
+                "url": "/topics/conscience"
+            },
+            {
+                "name": "Reason",
+                "url": "/topics/reason"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joseph_cook_404251",
+        "quote": "Of all my wife's relations I like myself the best.",
+        "author": {
+            "name": "Joseph Cook",
+            "url": "/quotes/joseph_cook_404251"
+        },
+        "topics": [
+            {
+                "name": "Wife",
+                "url": "/topics/wife"
+            },
+            {
+                "name": "Myself",
+                "url": "/topics/myself"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    }
+]

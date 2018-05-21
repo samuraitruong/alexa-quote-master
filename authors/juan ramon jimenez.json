@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/juan_ramon_jimenez_391356",
+        "quote": "Literature is a state of culture, poetry is a state of grace, before and after culture.",
+        "author": {
+            "name": "Juan Ramon Jimenez",
+            "url": "/quotes/juan_ramon_jimenez_391356"
+        },
+        "topics": [
+            {
+                "name": "Culture",
+                "url": "/topics/culture"
+            },
+            {
+                "name": "Literature",
+                "url": "/topics/literature"
+            },
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/juan_ramon_jimenez_388003",
+        "quote": "If they give you ruled paper, write the other way.",
+        "author": {
+            "name": "Juan Ramon Jimenez",
+            "url": "/quotes/juan_ramon_jimenez_388003"
+        },
+        "topics": [
+            {
+                "name": "Paper",
+                "url": "/topics/paper"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/juan_ramon_jimenez_312021",
+        "quote": "Sharp nostalgia, infinite and terrible, for what I already possess.",
+        "author": {
+            "name": "Juan Ramon Jimenez",
+            "url": "/quotes/juan_ramon_jimenez_312021"
+        },
+        "topics": [
+            {
+                "name": "Nostalgia",
+                "url": "/topics/nostalgia"
+            },
+            {
+                "name": "Infinite",
+                "url": "/topics/infinite"
+            },
+            {
+                "name": "Possess",
+                "url": "/topics/possess"
+            }
+        ]
+    }
+]

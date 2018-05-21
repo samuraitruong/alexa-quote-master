@@ -1,0 +1,526 @@
+[
+    {
+        "url": "/quotes/jimmy_kimmel_455655?src=t_costco",
+        "quote": "I go to Costco every weekend. It's my favorite part of the week.",
+        "author": {
+            "name": "Jimmy Kimmel",
+            "url": "/authors/jimmy_kimmel"
+        },
+        "topics": [
+            {
+                "name": "Week",
+                "url": "/topics/week"
+            },
+            {
+                "name": "Weekend",
+                "url": "/topics/weekend"
+            },
+            {
+                "name": "Favorite Part",
+                "url": "/topics/favorite_part"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kris_jenner_734514?src=t_costco",
+        "quote": "Oh, my goodness, I am obsessed with Costco! We do runs at least twice a week. I love the salmon and rotisserie chicken, the dog beds.",
+        "author": {
+            "name": "Kris Jenner",
+            "url": "/authors/kris_jenner"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Chicken",
+                "url": "/topics/chicken"
+            },
+            {
+                "name": "Obsessed",
+                "url": "/topics/obsessed"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/megan_fox_450809?src=t_costco",
+        "quote": "If I ever lose a role because of my tattoos, I'll quit Hollywood and go to work at Costco.",
+        "author": {
+            "name": "Megan Fox",
+            "url": "/authors/megan_fox"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Hollywood",
+                "url": "/topics/hollywood"
+            },
+            {
+                "name": "Role",
+                "url": "/topics/role"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charlie_munger_545817?src=t_costco",
+        "quote": "I believe Costco does more for civilization than the Rockefeller Foundation. I think it's a better place. You get a bunch of very intelligent people sitting around trying to do good, I immediately get kind of suspicious and squirm in my seat.",
+        "author": {
+            "name": "Charlie Munger",
+            "url": "/authors/charlie_munger"
+        },
+        "topics": [
+            {
+                "name": "Civilization",
+                "url": "/topics/civilization"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jonathan_krisel_858950?src=t_costco",
+        "quote": "For me, I love and hate Costco. I think it's ruined America and made America great.",
+        "author": {
+            "name": "Jonathan Krisel",
+            "url": "/authors/jonathan_krisel"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jill_scott_560912?src=t_costco",
+        "quote": "My grandmother told me: 'Never be in debt to anyone or anything.' Which is probably why I've never been financially extravagant - I still go to Costco. I'm always conscious of living within my means.",
+        "author": {
+            "name": "Jill Scott",
+            "url": "/authors/jill_scott"
+        },
+        "topics": [
+            {
+                "name": "Why",
+                "url": "/topics/why"
+            },
+            {
+                "name": "Anything",
+                "url": "/topics/anything"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_sinegal_366972?src=t_costco",
+        "quote": "It doesn't do Costco any good if nobody can afford to buy anything.",
+        "author": {
+            "name": "James Sinegal",
+            "url": "/authors/james_sinegal"
+        },
+        "topics": [
+            {
+                "name": "Nobody",
+                "url": "/topics/nobody"
+            },
+            {
+                "name": "Buy",
+                "url": "/topics/buy"
+            },
+            {
+                "name": "Afford",
+                "url": "/topics/afford"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_sinegal_366979?src=t_costco",
+        "quote": "We've always been in favor of improved wages for workers. When you have a strong middle class, they want to buy more stuff at Costco.",
+        "author": {
+            "name": "James Sinegal",
+            "url": "/authors/james_sinegal"
+        },
+        "topics": [
+            {
+                "name": "Strong",
+                "url": "/topics/strong"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_sinegal_429609?src=t_costco",
+        "quote": "I say at our management conferences that the amount Wal-Mart grows in just one year is the equivalent of Costco's size.",
+        "author": {
+            "name": "James Sinegal",
+            "url": "/authors/james_sinegal"
+        },
+        "topics": [
+            {
+                "name": "Wal-Mart",
+                "url": "/topics/wal-mart"
+            },
+            {
+                "name": "Grows",
+                "url": "/topics/grows"
+            },
+            {
+                "name": "Equivalent",
+                "url": "/topics/equivalent"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kris_jenner_734518?src=t_costco",
+        "quote": "Costco is a passion. Costco is like a massage.",
+        "author": {
+            "name": "Kris Jenner",
+            "url": "/authors/kris_jenner"
+        },
+        "topics": [
+            {
+                "name": "Passion",
+                "url": "/topics/passion"
+            },
+            {
+                "name": "Massage",
+                "url": "/topics/massage"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/chieh_huang_891469?src=t_costco",
+        "quote": "As ubiquitous as the brands of the warehouse clubs are - Costco, BJ's and Sam's - they're not everywhere. If you have less than a million people in your town, or less than 500K, you might never get access to wholesale savings.",
+        "author": {
+            "name": "Chieh Huang",
+            "url": "/authors/chieh_huang"
+        },
+        "topics": [
+            {
+                "name": "Access",
+                "url": "/topics/access"
+            },
+            {
+                "name": "Your",
+                "url": "/topics/your"
+            },
+            {
+                "name": "Ubiquitous",
+                "url": "/topics/ubiquitous"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/chieh_huang_891489?src=t_costco",
+        "quote": "I grew up loving to go to Price Club, and later Costco, with my parents.",
+        "author": {
+            "name": "Chieh Huang",
+            "url": "/authors/chieh_huang"
+        },
+        "topics": [
+            {
+                "name": "Loving",
+                "url": "/topics/loving"
+            },
+            {
+                "name": "Price",
+                "url": "/topics/price"
+            },
+            {
+                "name": "Later",
+                "url": "/topics/later"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gary_johnson_689371?src=t_costco",
+        "quote": "I love Costco.",
+        "author": {
+            "name": "Gary Johnson",
+            "url": "/authors/gary_johnson"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "I Love",
+                "url": "/topics/i_love"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/barbara_ehrenreich_471049?src=t_costco",
+        "quote": "Yes. I think the anti-Wal-Mart is Costco, which pays much better and has much better health benefits and which is profitable and offers low prices.",
+        "author": {
+            "name": "Barbara Ehrenreich",
+            "url": "/authors/barbara_ehrenreich"
+        },
+        "topics": [
+            {
+                "name": "Benefits",
+                "url": "/topics/benefits"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Offers",
+                "url": "/topics/offers"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/barbara_ehrenreich_642615?src=t_costco",
+        "quote": "I think the anti-Wal-Mart is Costco, which pays much better and has much better health benefits and which is profitable and offers low prices.",
+        "author": {
+            "name": "Barbara Ehrenreich",
+            "url": "/authors/barbara_ehrenreich"
+        },
+        "topics": [
+            {
+                "name": "Benefits",
+                "url": "/topics/benefits"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Offers",
+                "url": "/topics/offers"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_e_perez_851041?src=t_costco",
+        "quote": "Costco pays their workers good wages with benefits while selling good products at competitive prices and remaining quite profitable.",
+        "author": {
+            "name": "Thomas E. Perez",
+            "url": "/authors/thomas_e_perez"
+        },
+        "topics": [
+            {
+                "name": "Benefits",
+                "url": "/topics/benefits"
+            },
+            {
+                "name": "Profitable",
+                "url": "/topics/profitable"
+            },
+            {
+                "name": "While",
+                "url": "/topics/while"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/freddie_wong_795577?src=t_costco",
+        "quote": "I get occasional tweets from people asking what shampoo and conditioner I use. I go straight for the Costco brand, Kirkland brand, the bulk shampoo. That's as far as I go.",
+        "author": {
+            "name": "Freddie Wong",
+            "url": "/authors/freddie_wong"
+        },
+        "topics": [
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            },
+            {
+                "name": "Shampoo",
+                "url": "/topics/shampoo"
+            },
+            {
+                "name": "Asking",
+                "url": "/topics/asking"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_perez_754127?src=t_costco",
+        "quote": "There's this notion out there - and it's a categorically false notion - that the only business model in the service industry is the minimum-wage business model. I say phooey to that. You go to a Costco store, and you see people there who've been working there for years and years. They're making $15, $20 an hour, plus health benefits.",
+        "author": {
+            "name": "Thomas Perez",
+            "url": "/authors/thomas_perez"
+        },
+        "topics": [
+            {
+                "name": "Benefits",
+                "url": "/topics/benefits"
+            },
+            {
+                "name": "Industry",
+                "url": "/topics/industry"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sandra_tsing_loh_702442?src=t_costco",
+        "quote": "Yes, I was one of the slightly vintage women who let out a shriek when we saw it at Costco: 'The Nancy Drew Mystery Stories', a complete boxed set, fifty-six familiar yellow spines, shrink-wrapped.",
+        "author": {
+            "name": "Sandra Tsing Loh",
+            "url": "/authors/sandra_tsing_loh"
+        },
+        "topics": [
+            {
+                "name": "Stories",
+                "url": "/topics/stories"
+            },
+            {
+                "name": "Slightly",
+                "url": "/topics/slightly"
+            },
+            {
+                "name": "Set",
+                "url": "/topics/set"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/whitney_tilson_889925?src=t_costco",
+        "quote": "Nirvana, to a value investor, is paying a cheap price for a company that is growing in value every year at a nice rate - this largely explains why today we own stocks like Berkshire Hathaway, McDonald's, Wal-Mart, Microsoft, Costco and Anheuser-Busch.",
+        "author": {
+            "name": "Whitney Tilson",
+            "url": "/authors/whitney_tilson"
+        },
+        "topics": [
+            {
+                "name": "Year",
+                "url": "/topics/year"
+            },
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            },
+            {
+                "name": "Wal-Mart",
+                "url": "/topics/wal-mart"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/matthew_heineman_886993?src=t_costco",
+        "quote": "When you are part of a cartel, you don't have a Costco card that says, 'I'm a card-carrying member of the cartel.'",
+        "author": {
+            "name": "Matthew Heineman",
+            "url": "/authors/matthew_heineman"
+        },
+        "topics": [
+            {
+                "name": "Part",
+                "url": "/topics/part"
+            },
+            {
+                "name": "Member",
+                "url": "/topics/member"
+            },
+            {
+                "name": "Says",
+                "url": "/topics/says"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/augusten_burroughs_330711?src=t_costco",
+        "quote": "I can't tell you how much I love Target and Costco, that kind of culture, because it's something I never felt a part of. I've always felt like a tourist because I have never fit in anywhere.",
+        "author": {
+            "name": "Augusten Burroughs",
+            "url": "/authors/augusten_burroughs"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Tell",
+                "url": "/topics/tell"
+            },
+            {
+                "name": "Part",
+                "url": "/topics/part"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rooney_mara_417808?src=t_costco",
+        "quote": "I grew up in a little cul-de-sac in the suburbs and went to public school. I went to Costco on the weekends.",
+        "author": {
+            "name": "Rooney Mara",
+            "url": "/authors/rooney_mara"
+        },
+        "topics": [
+            {
+                "name": "Suburbs",
+                "url": "/topics/suburbs"
+            },
+            {
+                "name": "Public",
+                "url": "/topics/public"
+            },
+            {
+                "name": "Weekends",
+                "url": "/topics/weekends"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_morse_493760?src=t_costco",
+        "quote": "I like the normal things of life: I like the Mets, and the Celtics, and the N.Y. Rangers. I like to watch C-Span; I love Costco.",
+        "author": {
+            "name": "Robert Morse",
+            "url": "/authors/robert_morse"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Normal",
+                "url": "/topics/normal"
+            },
+            {
+                "name": "Mets",
+                "url": "/topics/mets"
+            }
+        ]
+    }
+]

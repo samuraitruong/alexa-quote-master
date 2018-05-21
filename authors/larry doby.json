@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/larry_doby_258240",
+        "quote": "Kids are our future, and we hope baseball has given them some idea of what it is to live together and how we can get along, whether you be black or white.",
+        "author": {
+            "name": "Larry Doby",
+            "url": "/quotes/larry_doby_258240"
+        },
+        "topics": [
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Black Or White",
+                "url": "/topics/black_or_white"
+            },
+            {
+                "name": "Given",
+                "url": "/topics/given"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/larry_doby_258239",
+        "quote": "I knew being accepted was going to be hard, but I knew I was involved in a situation that was going to bring opportunities to other blacks.",
+        "author": {
+            "name": "Larry Doby",
+            "url": "/quotes/larry_doby_258239"
+        },
+        "topics": [
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Involved",
+                "url": "/topics/involved"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    }
+]

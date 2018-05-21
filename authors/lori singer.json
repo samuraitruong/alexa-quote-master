@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/lori_singer_511863",
+        "quote": "It is an attention-getter. I mean, it's hard to ignore a woman lugging a cello around.",
+        "author": {
+            "name": "Lori Singer",
+            "url": "/quotes/lori_singer_511863"
+        },
+        "topics": [
+            {
+                "name": "Woman",
+                "url": "/topics/woman"
+            },
+            {
+                "name": "Ignore",
+                "url": "/topics/ignore"
+            },
+            {
+                "name": "Mean",
+                "url": "/topics/mean"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lori_singer_511864",
+        "quote": "You must remember I grew up around music. Three of my family were musicians.",
+        "author": {
+            "name": "Lori Singer",
+            "url": "/quotes/lori_singer_511864"
+        },
+        "topics": [
+            {
+                "name": "Musicians",
+                "url": "/topics/musicians"
+            },
+            {
+                "name": "Grew",
+                "url": "/topics/grew"
+            },
+            {
+                "name": "Around",
+                "url": "/topics/around"
+            }
+        ]
+    }
+]

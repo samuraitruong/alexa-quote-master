@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/w_e_b_griffin_483836",
+        "quote": "Argentina has the best bird shooting in the world.",
+        "author": {
+            "name": "W. E. B. Griffin",
+            "url": "/quotes/w_e_b_griffin_483836"
+        },
+        "topics": [
+            {
+                "name": "Bird",
+                "url": "/topics/bird"
+            },
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Argentina",
+                "url": "/topics/argentina"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/w_e_b_griffin_483837",
+        "quote": "An author's characters do what he wants them to do.",
+        "author": {
+            "name": "W. E. B. Griffin",
+            "url": "/quotes/w_e_b_griffin_483837"
+        },
+        "topics": [
+            {
+                "name": "Characters",
+                "url": "/topics/characters"
+            },
+            {
+                "name": "Author",
+                "url": "/topics/author"
+            },
+            {
+                "name": "Wants",
+                "url": "/topics/wants"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/w_e_b_griffin_483838",
+        "quote": "My own military background is wholly un-distinguished. I was a sergeant.",
+        "author": {
+            "name": "W. E. B. Griffin",
+            "url": "/quotes/w_e_b_griffin_483838"
+        },
+        "topics": [
+            {
+                "name": "My Own",
+                "url": "/topics/my_own"
+            },
+            {
+                "name": "Background",
+                "url": "/topics/background"
+            },
+            {
+                "name": "Wholly",
+                "url": "/topics/wholly"
+            }
+        ]
+    }
+]

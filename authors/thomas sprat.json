@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/thomas_sprat_190351",
+        "quote": "A great proportion of the wretchedness which has embittered married life, has originated in a negligence of trifles.",
+        "author": {
+            "name": "Thomas Sprat",
+            "url": "/quotes/thomas_sprat_190351"
+        },
+        "topics": [
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Proportion",
+                "url": "/topics/proportion"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_sprat_190352",
+        "quote": "What you dislike in another take care to correct in yourself.",
+        "author": {
+            "name": "Thomas Sprat",
+            "url": "/quotes/thomas_sprat_190352"
+        },
+        "topics": [
+            {
+                "name": "Dislike",
+                "url": "/topics/dislike"
+            },
+            {
+                "name": "Take",
+                "url": "/topics/take"
+            },
+            {
+                "name": "Correct",
+                "url": "/topics/correct"
+            }
+        ]
+    }
+]

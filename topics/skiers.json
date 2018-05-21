@@ -1,0 +1,184 @@
+[
+    {
+        "url": "/quotes/lindsey_vonn_635317?src=t_skiers",
+        "quote": "It's hard to give tips to skiers if I don't know how they ski, but I think the most important thing in skiing is you have to be having fun. If you're having fun, then everything else will come easy to you.",
+        "author": {
+            "name": "Lindsey Vonn",
+            "url": "/authors/lindsey_vonn"
+        },
+        "topics": [
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Important Thing",
+                "url": "/topics/important_thing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jonathan_franklin_763571?src=t_skiers",
+        "quote": "Andean skiing offers an unforgettable combination of beach-style weather, great snow and exotic travel. There are many attractions. Here on the fringes of the Andes, skiers will find few lift queues, tickets 50% cheaper than France, and unique scenery that includes condors and Mount Aconcagua, the highest peak outside the Himalayas.",
+        "author": {
+            "name": "Jonathan Franklin",
+            "url": "/authors/jonathan_franklin"
+        },
+        "topics": [
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            },
+            {
+                "name": "Tickets",
+                "url": "/topics/tickets"
+            },
+            {
+                "name": "Cheaper",
+                "url": "/topics/cheaper"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paolo_bacigalupi_715864?src=t_skiers",
+        "quote": "Economies are embedded inside ecosystems. Companies dependent on tourism, for example, are affected by low rainfall - there's less snow for skiers, and forest fires are more intense.",
+        "author": {
+            "name": "Paolo Bacigalupi",
+            "url": "/authors/paolo_bacigalupi"
+        },
+        "topics": [
+            {
+                "name": "Forest",
+                "url": "/topics/forest"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Tourism",
+                "url": "/topics/tourism"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sarah_palin_440713?src=t_skiers",
+        "quote": "Polls? Nah... they're for strippers and cross country skiers.",
+        "author": {
+            "name": "Sarah Palin",
+            "url": "/authors/sarah_palin"
+        },
+        "topics": [
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Cross Country",
+                "url": "/topics/cross_country"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dave_barry_102242?src=t_skiers",
+        "quote": "Skiers view snowboarders as a menace; snowboarders view skiers as Elmer Fudd.",
+        "author": {
+            "name": "Dave Barry",
+            "url": "/authors/dave_barry"
+        },
+        "topics": [
+            {
+                "name": "View",
+                "url": "/topics/view"
+            },
+            {
+                "name": "Menace",
+                "url": "/topics/menace"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nick_goepper_620190?src=t_skiers",
+        "quote": "I haven't done any major filming with a major production company yet, but I've definitely done a lot of filming with a lot of professionals, filmers, and film little edits and put them up online. But I would definitely say that slope style skiers are entertainers as much as they are athletes.",
+        "author": {
+            "name": "Nick Goepper",
+            "url": "/authors/nick_goepper"
+        },
+        "topics": [
+            {
+                "name": "Production",
+                "url": "/topics/production"
+            },
+            {
+                "name": "Entertainers",
+                "url": "/topics/entertainers"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_parker_275242?src=t_skiers",
+        "quote": "There are many skiers who have chosen tele for a more compact, streamlined skiing system.",
+        "author": {
+            "name": "Paul Parker",
+            "url": "/authors/paul_parker"
+        },
+        "topics": [
+            {
+                "name": "Skiing",
+                "url": "/topics/skiing"
+            },
+            {
+                "name": "System",
+                "url": "/topics/system"
+            },
+            {
+                "name": "Streamlined",
+                "url": "/topics/streamlined"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/al_walser_519255?src=t_skiers",
+        "quote": "I started from nothing in Lichtenstein. The country is so small, and the only 'celebrity' type people who are from there are skiers.",
+        "author": {
+            "name": "Al Walser",
+            "url": "/authors/al_walser"
+        },
+        "topics": [
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Celebrity",
+                "url": "/topics/celebrity"
+            },
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marcel_hirscher_651717?src=t_skiers",
+        "quote": "If you want to be among the greatest skiers, you have to win in Kitzbuehel at least once.",
+        "author": {
+            "name": "Marcel Hirscher",
+            "url": "/authors/marcel_hirscher"
+        },
+        "topics": [
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Once",
+                "url": "/topics/once"
+            },
+            {
+                "name": "Among",
+                "url": "/topics/among"
+            }
+        ]
+    }
+]

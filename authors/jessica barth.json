@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/jessica_barth_562227",
+        "quote": "My father and I used to watch movies all the time. That was our bonding time, so that's when I kind of fell in love with acting.",
+        "author": {
+            "name": "Jessica Barth",
+            "url": "/quotes/jessica_barth_562227"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Father",
+                "url": "/topics/father"
+            },
+            {
+                "name": "Kind",
+                "url": "/topics/kind"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jessica_barth_562228",
+        "quote": "I'm sure fame is yet to come; however, it's not my ultimate goal. I really just want to be able to tell stories, and create, and do it for a living.",
+        "author": {
+            "name": "Jessica Barth",
+            "url": "/quotes/jessica_barth_562228"
+        },
+        "topics": [
+            {
+                "name": "Sure",
+                "url": "/topics/sure"
+            },
+            {
+                "name": "However",
+                "url": "/topics/however"
+            },
+            {
+                "name": "Ultimate Goal",
+                "url": "/topics/ultimate_goal"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jessica_barth_562229",
+        "quote": "I was a huge fan of Marky Mark and the Funky Bunch.",
+        "author": {
+            "name": "Jessica Barth",
+            "url": "/quotes/jessica_barth_562229"
+        },
+        "topics": [
+            {
+                "name": "Funky",
+                "url": "/topics/funky"
+            },
+            {
+                "name": "Fan",
+                "url": "/topics/fan"
+            },
+            {
+                "name": "Huge",
+                "url": "/topics/huge"
+            }
+        ]
+    }
+]

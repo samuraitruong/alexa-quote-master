@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/paul_strand_141176",
+        "quote": "Your photography is a record of your living, for anyone who really sees.",
+        "author": {
+            "name": "Paul Strand",
+            "url": "/quotes/paul_strand_141176"
+        },
+        "topics": [
+            {
+                "name": "Living",
+                "url": "/topics/living"
+            },
+            {
+                "name": "Sees",
+                "url": "/topics/sees"
+            },
+            {
+                "name": "Anyone",
+                "url": "/topics/anyone"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_strand_104116",
+        "quote": "The artist's world is limitless. It can be found anywhere, far from where he lives or a few feet away. It is always on his doorstep.",
+        "author": {
+            "name": "Paul Strand",
+            "url": "/quotes/paul_strand_104116"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Feet",
+                "url": "/topics/feet"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_strand_141216",
+        "quote": "It is one thing to photograph people. It is another to make others care about them by revealing the core of their humanness.",
+        "author": {
+            "name": "Paul Strand",
+            "url": "/quotes/paul_strand_141216"
+        },
+        "topics": [
+            {
+                "name": "Humanness",
+                "url": "/topics/humanness"
+            },
+            {
+                "name": "Another",
+                "url": "/topics/another"
+            }
+        ]
+    }
+]

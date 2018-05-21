@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/virginia_gildersleeve_113483",
+        "quote": "I was resolved to sustain and preserve in my college the bite of the mind, the chance to stand face to face with truth, the good life lived in a small, various, highly articulate and democratic society.",
+        "author": {
+            "name": "Virginia Gildersleeve",
+            "url": "/quotes/virginia_gildersleeve_113483"
+        },
+        "topics": [
+            {
+                "name": "College",
+                "url": "/topics/college"
+            },
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/virginia_gildersleeve_113484",
+        "quote": "The ability to think straight, some knowledge of the past, some vision of the future, some skill to do useful service, some urge to fit that service into the well-being of the community - these are the most vital things education must try to produce.",
+        "author": {
+            "name": "Virginia Gildersleeve",
+            "url": "/quotes/virginia_gildersleeve_113484"
+        },
+        "topics": [
+            {
+                "name": "Education",
+                "url": "/topics/education"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Urge",
+                "url": "/topics/urge"
+            }
+        ]
+    }
+]

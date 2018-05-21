@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/otto_bauer_208981",
+        "quote": "A nation is a totality of men united through community of fate into a community of character.",
+        "author": {
+            "name": "Otto Bauer",
+            "url": "/quotes/otto_bauer_208981"
+        },
+        "topics": [
+            {
+                "name": "Character",
+                "url": "/topics/character"
+            },
+            {
+                "name": "Fate",
+                "url": "/topics/fate"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/otto_bauer_208982",
+        "quote": "The dissolution of the Party - we will not let such a tremendous, big, and glorious party be so easily crashed: this would then be the moment, when we would begin to fight on all fronts.",
+        "author": {
+            "name": "Otto Bauer",
+            "url": "/quotes/otto_bauer_208982"
+        },
+        "topics": [
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Fronts",
+                "url": "/topics/fronts"
+            }
+        ]
+    }
+]

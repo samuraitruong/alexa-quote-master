@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/christopher_lehmannhaupt_162518",
+        "quote": "We breathe, we think, we conceive of our lives as narratives.",
+        "author": {
+            "name": "Christopher Lehmann-Haupt",
+            "url": "/quotes/christopher_lehmannhaupt_162518"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Lives",
+                "url": "/topics/lives"
+            },
+            {
+                "name": "Narratives",
+                "url": "/topics/narratives"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/christopher_lehmannhaupt_117451",
+        "quote": "The beginning of a plot is the prompting of desire.",
+        "author": {
+            "name": "Christopher Lehmann-Haupt",
+            "url": "/quotes/christopher_lehmannhaupt_117451"
+        },
+        "topics": [
+            {
+                "name": "Beginning",
+                "url": "/topics/beginning"
+            },
+            {
+                "name": "Desire",
+                "url": "/topics/desire"
+            },
+            {
+                "name": "Plot",
+                "url": "/topics/plot"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/archie_moore_197863",
+        "quote": "I'm like the drunk in the bar who wants just one more for the road.",
+        "author": {
+            "name": "Archie Moore",
+            "url": "/quotes/archie_moore_197863"
+        },
+        "topics": [
+            {
+                "name": "Drunk",
+                "url": "/topics/drunk"
+            },
+            {
+                "name": "Bar",
+                "url": "/topics/bar"
+            },
+            {
+                "name": "Just One",
+                "url": "/topics/just_one"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/archie_moore_269102",
+        "quote": "Very few people could make me fight out of my system. Burley was one.",
+        "author": {
+            "name": "Archie Moore",
+            "url": "/quotes/archie_moore_269102"
+        },
+        "topics": [
+            {
+                "name": "People",
+                "url": "/topics/people"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/archie_moore_269104",
+        "quote": "Mine was an apparent forward movement whereas Burley's was a continuous serpentine movement.",
+        "author": {
+            "name": "Archie Moore",
+            "url": "/quotes/archie_moore_269104"
+        },
+        "topics": [
+            {
+                "name": "Forward",
+                "url": "/topics/forward"
+            },
+            {
+                "name": "Continuous",
+                "url": "/topics/continuous"
+            },
+            {
+                "name": "Mine",
+                "url": "/topics/mine"
+            }
+        ]
+    }
+]

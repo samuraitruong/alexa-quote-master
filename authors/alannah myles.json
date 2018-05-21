@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/alannah_myles_355379",
+        "quote": "Make sure you love what you do or it will eat you alive.",
+        "author": {
+            "name": "Alannah Myles",
+            "url": "/quotes/alannah_myles_355379"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Alive",
+                "url": "/topics/alive"
+            },
+            {
+                "name": "Sure",
+                "url": "/topics/sure"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alannah_myles_355375",
+        "quote": "I give myself strength by staying away from any music.",
+        "author": {
+            "name": "Alannah Myles",
+            "url": "/quotes/alannah_myles_355375"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alannah_myles_355377",
+        "quote": "I ride my horse at competition level.",
+        "author": {
+            "name": "Alannah Myles",
+            "url": "/quotes/alannah_myles_355377"
+        },
+        "topics": [
+            {
+                "name": "Horse",
+                "url": "/topics/horse"
+            },
+            {
+                "name": "Competition",
+                "url": "/topics/competition"
+            },
+            {
+                "name": "Level",
+                "url": "/topics/level"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alannah_myles_355378",
+        "quote": "I also dance to music that makes me feel sexy in front of a mirror.",
+        "author": {
+            "name": "Alannah Myles",
+            "url": "/quotes/alannah_myles_355378"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "Mirror",
+                "url": "/topics/mirror"
+            },
+            {
+                "name": "Sexy",
+                "url": "/topics/sexy"
+            }
+        ]
+    }
+]

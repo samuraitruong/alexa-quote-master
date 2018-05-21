@@ -1,0 +1,38 @@
+[
+    {
+        "url": "/quotes/john_carter_409475",
+        "quote": "Singling out political opponents for working against the ruling party is precisely the tactic of every tyrannical government from Red China to Venezuela. The first step in the process is creating unfounded public suspicion of political opponents, followed by arresting and jailing any who continue speaking against the regime.",
+        "author": {
+            "name": "John Carter",
+            "url": "/quotes/john_carter_409475"
+        },
+        "topics": [
+            {
+                "name": "Out",
+                "url": "/topics/out"
+            },
+            {
+                "name": "Political Opponents",
+                "url": "/topics/political_opponents"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_carter_516409",
+        "quote": "The Constitution of the United States... specifically states the Congress shall write legislation for immigration policy in the United States.",
+        "author": {
+            "name": "John Carter",
+            "url": "/quotes/john_carter_516409"
+        },
+        "topics": [
+            {
+                "name": "Immigration",
+                "url": "/topics/immigration"
+            },
+            {
+                "name": "United States",
+                "url": "/topics/united_states"
+            }
+        ]
+    }
+]

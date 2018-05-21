@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/nan_fairbrother_101041",
+        "quote": "The hardest of all is learning to be a well of affection, and not a fountain; to show them we love them not when we feel like it, but when they do.",
+        "author": {
+            "name": "Nan Fairbrother",
+            "url": "/quotes/nan_fairbrother_101041"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Fountain",
+                "url": "/topics/fountain"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nan_fairbrother_105907",
+        "quote": "We are perverse creatures and never satisfied.",
+        "author": {
+            "name": "Nan Fairbrother",
+            "url": "/quotes/nan_fairbrother_105907"
+        },
+        "topics": [
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Satisfied",
+                "url": "/topics/satisfied"
+            },
+            {
+                "name": "Creatures",
+                "url": "/topics/creatures"
+            }
+        ]
+    }
+]

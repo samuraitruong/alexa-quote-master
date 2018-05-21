@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/daisy_bates_127365",
+        "quote": "No man or woman who tries to pursue an ideal in his or her won way is without enemies.",
+        "author": {
+            "name": "Daisy Bates",
+            "url": "/quotes/daisy_bates_127365"
+        },
+        "topics": [
+            {
+                "name": "Woman",
+                "url": "/topics/woman"
+            },
+            {
+                "name": "Pursue",
+                "url": "/topics/pursue"
+            },
+            {
+                "name": "Tries",
+                "url": "/topics/tries"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/daisy_bates_184455",
+        "quote": "The man who never makes a mistake always takes orders from one who does. No man or woman who tries to pursue an ideal in his or her own way is without enemies.",
+        "author": {
+            "name": "Daisy Bates",
+            "url": "/quotes/daisy_bates_184455"
+        },
+        "topics": [
+            {
+                "name": "Mistake",
+                "url": "/topics/mistake"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Tries",
+                "url": "/topics/tries"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/daisy_bates_184454",
+        "quote": "Opinions differ most when there is least scientific warrant for having any.",
+        "author": {
+            "name": "Daisy Bates",
+            "url": "/quotes/daisy_bates_184454"
+        },
+        "topics": [
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "Having",
+                "url": "/topics/having"
+            },
+            {
+                "name": "Scientific",
+                "url": "/topics/scientific"
+            }
+        ]
+    }
+]

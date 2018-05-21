@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/andre_kertesz_141209",
+        "quote": "The camera is my tool. Through it I give a reason to everything around me.",
+        "author": {
+            "name": "Andre Kertesz",
+            "url": "/quotes/andre_kertesz_141209"
+        },
+        "topics": [
+            {
+                "name": "Reason",
+                "url": "/topics/reason"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/andre_kertesz_115007",
+        "quote": "Everything is a subject. Every subject has a rhythm. To feel it is the raison detre. The photograph is a fixed moment of such a raison detre, which lives on in itself.",
+        "author": {
+            "name": "Andre Kertesz",
+            "url": "/quotes/andre_kertesz_115007"
+        },
+        "topics": [
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Subject",
+                "url": "/topics/subject"
+            },
+            {
+                "name": "Lives",
+                "url": "/topics/lives"
+            }
+        ]
+    }
+]

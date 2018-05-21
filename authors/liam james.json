@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/liam_james_662033",
+        "quote": "I've seen 'Fried Green Tomatoes' too many times. I love life stories told in flashback.",
+        "author": {
+            "name": "Liam James",
+            "url": "/quotes/liam_james_662033"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Green",
+                "url": "/topics/green"
+            },
+            {
+                "name": "Stories",
+                "url": "/topics/stories"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/liam_james_576978",
+        "quote": "A local newspaper where we were filming in Boston called me the Justin Bieber of Canada. I don't think they realized Justin Bieber is from Canada. I hope someday I can just be the Liam James of Canada.",
+        "author": {
+            "name": "Liam James",
+            "url": "/quotes/liam_james_576978"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Boston",
+                "url": "/topics/boston"
+            },
+            {
+                "name": "Newspaper",
+                "url": "/topics/newspaper"
+            }
+        ]
+    }
+]

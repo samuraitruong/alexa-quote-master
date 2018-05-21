@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/nicole_avant_639835",
+        "quote": "I remember my dad supporting everyone on the local and national level. I was pretty much born into it. I saw the importance of politics firsthand. It gave you a chance to be at the table.",
+        "author": {
+            "name": "Nicole Avant",
+            "url": "/quotes/nicole_avant_639835"
+        },
+        "topics": [
+            {
+                "name": "Politics",
+                "url": "/topics/politics"
+            },
+            {
+                "name": "Pretty",
+                "url": "/topics/pretty"
+            },
+            {
+                "name": "I Remember",
+                "url": "/topics/i_remember"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nicole_avant_639836",
+        "quote": "I'm out there talking to everyone. My days are filled with breakfast, lunches, dinner and drinks.",
+        "author": {
+            "name": "Nicole Avant",
+            "url": "/quotes/nicole_avant_639836"
+        },
+        "topics": [
+            {
+                "name": "Days",
+                "url": "/topics/days"
+            },
+            {
+                "name": "Drinks",
+                "url": "/topics/drinks"
+            },
+            {
+                "name": "Everyone",
+                "url": "/topics/everyone"
+            }
+        ]
+    }
+]

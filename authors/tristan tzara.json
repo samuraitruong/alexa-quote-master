@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/tristan_tzara_160643",
+        "quote": "The rest, called literature, is a dossier of human imbecility for the guidance of future professors.",
+        "author": {
+            "name": "Tristan Tzara",
+            "url": "/quotes/tristan_tzara_160643"
+        },
+        "topics": [
+            {
+                "name": "Literature",
+                "url": "/topics/literature"
+            },
+            {
+                "name": "Rest",
+                "url": "/topics/rest"
+            },
+            {
+                "name": "Guidance",
+                "url": "/topics/guidance"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tristan_tzara_404986",
+        "quote": "Any work of art that can be understood is the product of journalism.",
+        "author": {
+            "name": "Tristan Tzara",
+            "url": "/quotes/tristan_tzara_404986"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Product",
+                "url": "/topics/product"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tristan_tzara_160644",
+        "quote": "Thought is made in the mouth.",
+        "author": {
+            "name": "Tristan Tzara",
+            "url": "/quotes/tristan_tzara_160644"
+        },
+        "topics": [
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Mouth",
+                "url": "/topics/mouth"
+            },
+            {
+                "name": "Made",
+                "url": "/topics/made"
+            }
+        ]
+    }
+]

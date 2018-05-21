@@ -1,0 +1,134 @@
+[
+    {
+        "url": "/quotes/redd_foxx_105710",
+        "quote": "Health nuts are going to feel stupid someday, lying in hospitals dying of nothing.",
+        "author": {
+            "name": "Redd Foxx",
+            "url": "/quotes/redd_foxx_105710"
+        },
+        "topics": [
+            {
+                "name": "Health",
+                "url": "/topics/health"
+            },
+            {
+                "name": "Stupid",
+                "url": "/topics/stupid"
+            },
+            {
+                "name": "Hospitals",
+                "url": "/topics/hospitals"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/redd_foxx_369823",
+        "quote": "Certain things should be yours to have when you work your way to the top.",
+        "author": {
+            "name": "Redd Foxx",
+            "url": "/quotes/redd_foxx_369823"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Top",
+                "url": "/topics/top"
+            },
+            {
+                "name": "Certain Things",
+                "url": "/topics/certain_things"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/redd_foxx_137647",
+        "quote": "Beauty may be skin deep, but ugly goes clear to the bone.",
+        "author": {
+            "name": "Redd Foxx",
+            "url": "/quotes/redd_foxx_137647"
+        },
+        "topics": [
+            {
+                "name": "Beauty",
+                "url": "/topics/beauty"
+            },
+            {
+                "name": "Deep",
+                "url": "/topics/deep"
+            },
+            {
+                "name": "May",
+                "url": "/topics/may"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/redd_foxx_317199",
+        "quote": "This is the big one! You hear that, Elizabeth? I'm coming to join ya, honey!",
+        "author": {
+            "name": "Redd Foxx",
+            "url": "/quotes/redd_foxx_317199"
+        },
+        "topics": [
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Big One",
+                "url": "/topics/big_one"
+            },
+            {
+                "name": "Elizabeth",
+                "url": "/topics/elizabeth"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/redd_foxx_369825",
+        "quote": "The show doesn't drive home a lesson, but it can open up people's minds enough for them to see how stupid every kind of prejudice can be.",
+        "author": {
+            "name": "Redd Foxx",
+            "url": "/quotes/redd_foxx_369825"
+        },
+        "topics": [
+            {
+                "name": "Stupid",
+                "url": "/topics/stupid"
+            },
+            {
+                "name": "Kind",
+                "url": "/topics/kind"
+            },
+            {
+                "name": "Show",
+                "url": "/topics/show"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/redd_foxx_369824",
+        "quote": "I'm convinced that Sanford and Son shows middle-class America a lot of what they need to know.",
+        "author": {
+            "name": "Redd Foxx",
+            "url": "/quotes/redd_foxx_369824"
+        },
+        "topics": [
+            {
+                "name": "Son",
+                "url": "/topics/son"
+            },
+            {
+                "name": "Lot",
+                "url": "/topics/lot"
+            },
+            {
+                "name": "Middle-Class",
+                "url": "/topics/middle-class"
+            }
+        ]
+    }
+]

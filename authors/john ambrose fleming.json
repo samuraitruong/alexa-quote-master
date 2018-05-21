@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/john_ambrose_fleming_221506",
+        "quote": "Evolution is baseless and quite incredible.",
+        "author": {
+            "name": "John Ambrose Fleming",
+            "url": "/quotes/john_ambrose_fleming_221506"
+        },
+        "topics": [
+            {
+                "name": "Evolution",
+                "url": "/topics/evolution"
+            },
+            {
+                "name": "Quite",
+                "url": "/topics/quite"
+            },
+            {
+                "name": "Incredible",
+                "url": "/topics/incredible"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_ambrose_fleming_221505",
+        "quote": "The theory of evolution is totally inadequate to explain the origin and manifestation of the inorganic world.",
+        "author": {
+            "name": "John Ambrose Fleming",
+            "url": "/quotes/john_ambrose_fleming_221505"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Explain",
+                "url": "/topics/explain"
+            },
+            {
+                "name": "Inadequate",
+                "url": "/topics/inadequate"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_ambrose_fleming_221507",
+        "quote": "We completely reject the theory of evolution.",
+        "author": {
+            "name": "John Ambrose Fleming",
+            "url": "/quotes/john_ambrose_fleming_221507"
+        },
+        "topics": [
+            {
+                "name": "Evolution",
+                "url": "/topics/evolution"
+            },
+            {
+                "name": "Theory",
+                "url": "/topics/theory"
+            },
+            {
+                "name": "Reject",
+                "url": "/topics/reject"
+            }
+        ]
+    }
+]

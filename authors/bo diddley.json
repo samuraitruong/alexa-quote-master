@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/bo_diddley_183261",
+        "quote": "I thank you in advance for the great round of applause I'm about to get.",
+        "author": {
+            "name": "Bo Diddley",
+            "url": "/quotes/bo_diddley_183261"
+        },
+        "topics": [
+            {
+                "name": "Thank You",
+                "url": "/topics/thank_you"
+            },
+            {
+                "name": "Round",
+                "url": "/topics/round"
+            },
+            {
+                "name": "Get",
+                "url": "/topics/get"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bo_diddley_405045",
+        "quote": "Don't let your mouth write a check that your tail can't cash.",
+        "author": {
+            "name": "Bo Diddley",
+            "url": "/quotes/bo_diddley_405045"
+        },
+        "topics": [
+            {
+                "name": "Mouth",
+                "url": "/topics/mouth"
+            },
+            {
+                "name": "Tail",
+                "url": "/topics/tail"
+            },
+            {
+                "name": "Your",
+                "url": "/topics/your"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bo_diddley_183263",
+        "quote": "I opened the door for a lot of people, and they just ran through and left me holding the knob.",
+        "author": {
+            "name": "Bo Diddley",
+            "url": "/quotes/bo_diddley_183263"
+        },
+        "topics": [
+            {
+                "name": "Door",
+                "url": "/topics/door"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Lot",
+                "url": "/topics/lot"
+            }
+        ]
+    }
+]

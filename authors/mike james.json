@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/mike_james_404335",
+        "quote": "Any dog, you put him in the corner, no matter if they're vicious or not, they're going to bite back.",
+        "author": {
+            "name": "Mike James",
+            "url": "/quotes/mike_james_404335"
+        },
+        "topics": [
+            {
+                "name": "Back",
+                "url": "/topics/back"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Vicious",
+                "url": "/topics/vicious"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mike_james_404362",
+        "quote": "It doesn't matter what you do for 45 minutes, it's what you do the last three minutes.",
+        "author": {
+            "name": "Mike James",
+            "url": "/quotes/mike_james_404362"
+        },
+        "topics": [
+            {
+                "name": "Matter",
+                "url": "/topics/matter"
+            },
+            {
+                "name": "Last",
+                "url": "/topics/last"
+            },
+            {
+                "name": "Minutes",
+                "url": "/topics/minutes"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mike_james_431708",
+        "quote": "I'm probably one of the must humble people you'll ever meet.",
+        "author": {
+            "name": "Mike James",
+            "url": "/quotes/mike_james_431708"
+        },
+        "topics": [
+            {
+                "name": "Humble",
+                "url": "/topics/humble"
+            },
+            {
+                "name": "Meet",
+                "url": "/topics/meet"
+            },
+            {
+                "name": "Ever",
+                "url": "/topics/ever"
+            }
+        ]
+    }
+]

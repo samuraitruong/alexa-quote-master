@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/chavela_vargas_400568",
+        "quote": "I am a friend of life, at 80 life tells me to behave like a woman and not like an old woman.",
+        "author": {
+            "name": "Chavela Vargas",
+            "url": "/quotes/chavela_vargas_400568"
+        },
+        "topics": [
+            {
+                "name": "Woman",
+                "url": "/topics/woman"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Old",
+                "url": "/topics/old"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/chavela_vargas_403788",
+        "quote": "When you like something, you should do it all night long.",
+        "author": {
+            "name": "Chavela Vargas",
+            "url": "/quotes/chavela_vargas_403788"
+        },
+        "topics": [
+            {
+                "name": "Night",
+                "url": "/topics/night"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "All Night",
+                "url": "/topics/all_night"
+            }
+        ]
+    }
+]

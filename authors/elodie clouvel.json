@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/elodie_clouvel_752494",
+        "quote": "Obviously, swimming is my strength, but I'm also good at fencing.",
+        "author": {
+            "name": "Elodie Clouvel",
+            "url": "/quotes/elodie_clouvel_752494"
+        },
+        "topics": [
+            {
+                "name": "Strength",
+                "url": "/topics/strength"
+            },
+            {
+                "name": "Swimming",
+                "url": "/topics/swimming"
+            },
+            {
+                "name": "Also",
+                "url": "/topics/also"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/elodie_clouvel_752496",
+        "quote": "I'd like to do some modelling. But I will go on with pentathlon until the 2016 Olympic Games in Rio de Janeiro.",
+        "author": {
+            "name": "Elodie Clouvel",
+            "url": "/quotes/elodie_clouvel_752496"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Olympic",
+                "url": "/topics/olympic"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/elodie_clouvel_752493",
+        "quote": "Pentathlon is not a sign of my failure in swimming. It's a new start for me.",
+        "author": {
+            "name": "Elodie Clouvel",
+            "url": "/quotes/elodie_clouvel_752493"
+        },
+        "topics": [
+            {
+                "name": "Failure",
+                "url": "/topics/failure"
+            },
+            {
+                "name": "Swimming",
+                "url": "/topics/swimming"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/elodie_clouvel_752495",
+        "quote": "Fencing and shooting kind of came naturally. From the start, I knew that I had it in me.",
+        "author": {
+            "name": "Elodie Clouvel",
+            "url": "/quotes/elodie_clouvel_752495"
+        },
+        "topics": [
+            {
+                "name": "Kind",
+                "url": "/topics/kind"
+            },
+            {
+                "name": "Knew",
+                "url": "/topics/knew"
+            },
+            {
+                "name": "Naturally",
+                "url": "/topics/naturally"
+            }
+        ]
+    }
+]

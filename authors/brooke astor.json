@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/brooke_astor_609118",
+        "quote": "I love the Park. I like to walk on the East River, too, up at Gracie Square, but Central Park is my favorite part of the city.",
+        "author": {
+            "name": "Brooke Astor",
+            "url": "/quotes/brooke_astor_609118"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Favorite Part",
+                "url": "/topics/favorite_part"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brooke_astor_609120",
+        "quote": "'21' was the place, and you went down, and they opened the door. They had a little slit they'd look through, and then you'd murmur the password or whatever it was you had, showed a little ticket, and if they remembered who you were, you went in.",
+        "author": {
+            "name": "Brooke Astor",
+            "url": "/quotes/brooke_astor_609120"
+        },
+        "topics": [
+            {
+                "name": "Door",
+                "url": "/topics/door"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Ticket",
+                "url": "/topics/ticket"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brooke_astor_609119",
+        "quote": "I had a job; I was, during the war, a nurse, a 'Gray Lady.' We wore a veil and a gray dress.",
+        "author": {
+            "name": "Brooke Astor",
+            "url": "/quotes/brooke_astor_609119"
+        },
+        "topics": [
+            {
+                "name": "Dress",
+                "url": "/topics/dress"
+            },
+            {
+                "name": "Gray",
+                "url": "/topics/gray"
+            },
+            {
+                "name": "Veil",
+                "url": "/topics/veil"
+            }
+        ]
+    }
+]

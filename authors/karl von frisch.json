@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/karl_von_frisch_322955",
+        "quote": "After the first exams, I switched to the Faculty of Philosophy and studied Zoology in Munich and Vienna.",
+        "author": {
+            "name": "Karl von Frisch",
+            "url": "/quotes/karl_von_frisch_322955"
+        },
+        "topics": [
+            {
+                "name": "Exams",
+                "url": "/topics/exams"
+            },
+            {
+                "name": "Studied",
+                "url": "/topics/studied"
+            },
+            {
+                "name": "Switched",
+                "url": "/topics/switched"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/karl_von_frisch_322957",
+        "quote": "I received my doctorate from the University of Vienna in 1910.",
+        "author": {
+            "name": "Karl von Frisch",
+            "url": "/quotes/karl_von_frisch_322957"
+        },
+        "topics": [
+            {
+                "name": "Doctorate",
+                "url": "/topics/doctorate"
+            },
+            {
+                "name": "University",
+                "url": "/topics/university"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/karl_von_frisch_322956",
+        "quote": "I have been a Professor Emeritus since 1958, and have continued my scientific studies.",
+        "author": {
+            "name": "Karl von Frisch",
+            "url": "/quotes/karl_von_frisch_322956"
+        },
+        "topics": [
+            {
+                "name": "Professor",
+                "url": "/topics/professor"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Scientific",
+                "url": "/topics/scientific"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/karl_von_frisch_322958",
+        "quote": "I studied at a grammar school and later at the University of Vienna in the Faculty of Medicine.",
+        "author": {
+            "name": "Karl von Frisch",
+            "url": "/quotes/karl_von_frisch_322958"
+        },
+        "topics": [
+            {
+                "name": "School",
+                "url": "/topics/school"
+            },
+            {
+                "name": "Grammar",
+                "url": "/topics/grammar"
+            },
+            {
+                "name": "Later",
+                "url": "/topics/later"
+            }
+        ]
+    }
+]

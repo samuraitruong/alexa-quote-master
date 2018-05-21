@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/gordon_moore_173301",
+        "quote": "With engineering, I view this year's failure as next year's opportunity to try it again. Failures are not something to be avoided. You want to have them happen as quickly as you can so you can make progress rapidly.",
+        "author": {
+            "name": "Gordon Moore",
+            "url": "/quotes/gordon_moore_173301"
+        },
+        "topics": [
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            },
+            {
+                "name": "Happen",
+                "url": "/topics/happen"
+            },
+            {
+                "name": "Failures",
+                "url": "/topics/failures"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gordon_moore_173300",
+        "quote": "The technology at the leading edge changes so rapidly that you have to keep current after you get out of school. I think probably the most important thing is having good fundamentals.",
+        "author": {
+            "name": "Gordon Moore",
+            "url": "/quotes/gordon_moore_173300"
+        },
+        "topics": [
+            {
+                "name": "Fundamentals",
+                "url": "/topics/fundamentals"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gordon_moore_173298",
+        "quote": "I remember the difficulty we had in the beginning replacing magnetic cores in memories and eventually we had both cost and performance advantages. But it wasn't at all clear in the beginning.",
+        "author": {
+            "name": "Gordon Moore",
+            "url": "/quotes/gordon_moore_173298"
+        },
+        "topics": [
+            {
+                "name": "Beginning",
+                "url": "/topics/beginning"
+            },
+            {
+                "name": "Cost",
+                "url": "/topics/cost"
+            },
+            {
+                "name": "I Remember",
+                "url": "/topics/i_remember"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gordon_moore_173299",
+        "quote": "It is extremely unlikely that anyone coming out of school with a technical degree will go into one area and stay there. Today's students have to look forward to the excitement of probably having three or four careers.",
+        "author": {
+            "name": "Gordon Moore",
+            "url": "/quotes/gordon_moore_173299"
+        },
+        "topics": [
+            {
+                "name": "Three",
+                "url": "/topics/three"
+            },
+            {
+                "name": "Students",
+                "url": "/topics/students"
+            },
+            {
+                "name": "Technical",
+                "url": "/topics/technical"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/svante_paabo_554299",
+        "quote": "I really wanted to discover mummies, like Indiana Jones.",
+        "author": {
+            "name": "Svante Paabo",
+            "url": "/quotes/svante_paabo_554299"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Discover",
+                "url": "/topics/discover"
+            },
+            {
+                "name": "Wanted",
+                "url": "/topics/wanted"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/svante_paabo_554298",
+        "quote": "I want to know what changed in fully modern humans, compared with Neanderthals, that made a difference. What made it possible for us to build up these enormous societies, and spread around the globe, and develop the technology that I think no one can doubt is unique to humans.",
+        "author": {
+            "name": "Svante Paabo",
+            "url": "/quotes/svante_paabo_554298"
+        },
+        "topics": [
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Modern",
+                "url": "/topics/modern"
+            },
+            {
+                "name": "Around",
+                "url": "/topics/around"
+            }
+        ]
+    }
+]

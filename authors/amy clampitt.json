@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/amy_clampitt_331506",
+        "quote": "Women who are inclined to write poetry at all are inspired by being mad at something.",
+        "author": {
+            "name": "Amy Clampitt",
+            "url": "/quotes/amy_clampitt_331506"
+        },
+        "topics": [
+            {
+                "name": "Mad",
+                "url": "/topics/mad"
+            },
+            {
+                "name": "Being Mad",
+                "url": "/topics/being_mad"
+            },
+            {
+                "name": "Inclined",
+                "url": "/topics/inclined"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/amy_clampitt_331507",
+        "quote": "Everybody has to write out of rage sometimes.",
+        "author": {
+            "name": "Amy Clampitt",
+            "url": "/quotes/amy_clampitt_331507"
+        },
+        "topics": [
+            {
+                "name": "Sometimes",
+                "url": "/topics/sometimes"
+            },
+            {
+                "name": "Rage",
+                "url": "/topics/rage"
+            },
+            {
+                "name": "Everybody",
+                "url": "/topics/everybody"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/amy_clampitt_331509",
+        "quote": "When you get over the anxiety, you discover you should have been mad a long time ago.",
+        "author": {
+            "name": "Amy Clampitt",
+            "url": "/quotes/amy_clampitt_331509"
+        },
+        "topics": [
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Discover",
+                "url": "/topics/discover"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/amy_clampitt_331511",
+        "quote": "Some very plausible stuff is being written by women in a way that most men are not doing.",
+        "author": {
+            "name": "Amy Clampitt",
+            "url": "/quotes/amy_clampitt_331511"
+        },
+        "topics": [
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    }
+]

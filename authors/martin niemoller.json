@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/martin_niemoller_323042",
+        "quote": "Then they came for me - and there was no one left to speak out for me.",
+        "author": {
+            "name": "Martin Niemoller",
+            "url": "/quotes/martin_niemoller_323042"
+        },
+        "topics": [
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Left",
+                "url": "/topics/left"
+            },
+            {
+                "name": "Came",
+                "url": "/topics/came"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/martin_niemoller_323044",
+        "quote": "Then they came for the socialists, and I did not speak out - because I was not a socialist.",
+        "author": {
+            "name": "Martin Niemoller",
+            "url": "/quotes/martin_niemoller_323044"
+        },
+        "topics": [
+            {
+                "name": "Socialist",
+                "url": "/topics/socialist"
+            },
+            {
+                "name": "Socialists",
+                "url": "/topics/socialists"
+            },
+            {
+                "name": "Came",
+                "url": "/topics/came"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/martin_niemoller_323040",
+        "quote": "For it is, and must remain, the case that we must obey God rather than man.",
+        "author": {
+            "name": "Martin Niemoller",
+            "url": "/quotes/martin_niemoller_323040"
+        },
+        "topics": [
+            {
+                "name": "Obey",
+                "url": "/topics/obey"
+            },
+            {
+                "name": "Rather",
+                "url": "/topics/rather"
+            },
+            {
+                "name": "Remain",
+                "url": "/topics/remain"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/martin_niemoller_323045",
+        "quote": "Then they came for the trade unionists, and I did not speak out - because I was not a trade unionist.",
+        "author": {
+            "name": "Martin Niemoller",
+            "url": "/quotes/martin_niemoller_323045"
+        },
+        "topics": [
+            {
+                "name": "Trade",
+                "url": "/topics/trade"
+            },
+            {
+                "name": "Came",
+                "url": "/topics/came"
+            },
+            {
+                "name": "Unionist",
+                "url": "/topics/unionist"
+            }
+        ]
+    }
+]

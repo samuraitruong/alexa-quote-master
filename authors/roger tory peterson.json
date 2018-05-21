@@ -1,0 +1,104 @@
+[
+    {
+        "url": "/quotes/roger_tory_peterson_190874",
+        "quote": "Birds have wings; they're free; they can fly where they want when they want. They have the kind of mobility many people envy.",
+        "author": {
+            "name": "Roger Tory Peterson",
+            "url": "/quotes/roger_tory_peterson_190874"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "Envy",
+                "url": "/topics/envy"
+            },
+            {
+                "name": "Mobility",
+                "url": "/topics/mobility"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/roger_tory_peterson_190873",
+        "quote": "Birds are indicators of the environment. If they are in trouble, we know we'll soon be in trouble.",
+        "author": {
+            "name": "Roger Tory Peterson",
+            "url": "/quotes/roger_tory_peterson_190873"
+        },
+        "topics": [
+            {
+                "name": "Environmental",
+                "url": "/topics/environmental"
+            },
+            {
+                "name": "Environment",
+                "url": "/topics/environment"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/roger_tory_peterson_190878",
+        "quote": "Not all is doom and gloom. We are beginning to understand the natural world and are gaining a reverence for life - all life.",
+        "author": {
+            "name": "Roger Tory Peterson",
+            "url": "/quotes/roger_tory_peterson_190878"
+        },
+        "topics": [
+            {
+                "name": "Environmental",
+                "url": "/topics/environmental"
+            },
+            {
+                "name": "Gaining",
+                "url": "/topics/gaining"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/roger_tory_peterson_190876",
+        "quote": "I consider myself to have been the bridge between the shotgun and the binoculars in bird watching. Before I came along, the primary way to observe birds was to shoot them and stuff them.",
+        "author": {
+            "name": "Roger Tory Peterson",
+            "url": "/quotes/roger_tory_peterson_190876"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/roger_tory_peterson_190875",
+        "quote": "I can recognize the calls of practically every bird in North America. There are some in Africa I don't know, though.",
+        "author": {
+            "name": "Roger Tory Peterson",
+            "url": "/quotes/roger_tory_peterson_190875"
+        },
+        "topics": [
+            {
+                "name": "Africa",
+                "url": "/topics/africa"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Though",
+                "url": "/topics/though"
+            }
+        ]
+    }
+]

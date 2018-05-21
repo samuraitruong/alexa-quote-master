@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/myrna_loy_205847",
+        "quote": "Life, is not a having and a getting, but a being and a becoming.",
+        "author": {
+            "name": "Myrna Loy",
+            "url": "/quotes/myrna_loy_205847"
+        },
+        "topics": [
+            {
+                "name": "Getting",
+                "url": "/topics/getting"
+            },
+            {
+                "name": "Having",
+                "url": "/topics/having"
+            },
+            {
+                "name": "Becoming",
+                "url": "/topics/becoming"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/myrna_loy_310972",
+        "quote": "I think that carrying on a life that is meant to be private in public is a breach of taste, common sense, and mental hygiene.",
+        "author": {
+            "name": "Myrna Loy",
+            "url": "/quotes/myrna_loy_310972"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Breach",
+                "url": "/topics/breach"
+            },
+            {
+                "name": "Meant",
+                "url": "/topics/meant"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/myrna_loy_205846",
+        "quote": "Most of the sex I've seen on the screen looks like an expression of hostility towards sex.",
+        "author": {
+            "name": "Myrna Loy",
+            "url": "/quotes/myrna_loy_205846"
+        },
+        "topics": [
+            {
+                "name": "Looks",
+                "url": "/topics/looks"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "Expression",
+                "url": "/topics/expression"
+            }
+        ]
+    }
+]

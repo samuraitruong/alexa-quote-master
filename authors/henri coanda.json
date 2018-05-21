@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/henri_coanda_310321",
+        "quote": "These airplanes we have today are no more than a perfection of a child's toy made of paper.",
+        "author": {
+            "name": "Henri Coanda",
+            "url": "/quotes/henri_coanda_310321"
+        },
+        "topics": [
+            {
+                "name": "Paper",
+                "url": "/topics/paper"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Made",
+                "url": "/topics/made"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henri_coanda_310319",
+        "quote": "I imagine a future aircraft, which will take off vertically, fly as usual, and land vertically. This flying machine should have no moving parts. This idea came from the huge power of cyclones.",
+        "author": {
+            "name": "Henri Coanda",
+            "url": "/quotes/henri_coanda_310319"
+        },
+        "topics": [
+            {
+                "name": "Idea",
+                "url": "/topics/idea"
+            },
+            {
+                "name": "Vertically",
+                "url": "/topics/vertically"
+            },
+            {
+                "name": "Should",
+                "url": "/topics/should"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henri_coanda_310320",
+        "quote": "In my opinion, we should search for a completely different flying machine, based on other flying principles.",
+        "author": {
+            "name": "Henri Coanda",
+            "url": "/quotes/henri_coanda_310320"
+        },
+        "topics": [
+            {
+                "name": "Search",
+                "url": "/topics/search"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Based",
+                "url": "/topics/based"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/john_t_walton_229202",
+        "quote": "I figured if you're going to do something, you should do it the best you can.",
+        "author": {
+            "name": "John T. Walton",
+            "url": "/quotes/john_t_walton_229202"
+        },
+        "topics": [
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Should",
+                "url": "/topics/should"
+            },
+            {
+                "name": "Figured",
+                "url": "/topics/figured"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_t_walton_395699",
+        "quote": "There is a growing acceptance and interest in publicly funded school choice as a catalyst for education reform in general and a way to empower parents to be education reformers.",
+        "author": {
+            "name": "John T. Walton",
+            "url": "/quotes/john_t_walton_395699"
+        },
+        "topics": [
+            {
+                "name": "Education",
+                "url": "/topics/education"
+            },
+            {
+                "name": "Empower",
+                "url": "/topics/empower"
+            },
+            {
+                "name": "Publicly",
+                "url": "/topics/publicly"
+            }
+        ]
+    }
+]

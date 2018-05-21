@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/colleen_moore_546283",
+        "quote": "The flapper has charm, good looks, good clothes, intellect and a healthy point of view.",
+        "author": {
+            "name": "Colleen Moore",
+            "url": "/quotes/colleen_moore_546283"
+        },
+        "topics": [
+            {
+                "name": "View",
+                "url": "/topics/view"
+            },
+            {
+                "name": "Looks",
+                "url": "/topics/looks"
+            },
+            {
+                "name": "Intellect",
+                "url": "/topics/intellect"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/colleen_moore_546282",
+        "quote": "A flapper is just a little girl trying to grow up - in the process of growing up.",
+        "author": {
+            "name": "Colleen Moore",
+            "url": "/quotes/colleen_moore_546282"
+        },
+        "topics": [
+            {
+                "name": "Growing Up",
+                "url": "/topics/growing_up"
+            },
+            {
+                "name": "Process",
+                "url": "/topics/process"
+            },
+            {
+                "name": "Growing",
+                "url": "/topics/growing"
+            }
+        ]
+    }
+]

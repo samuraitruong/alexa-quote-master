@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/a_j_foyt_226701",
+        "quote": "My dad was very successful running midgets in Texas. Then, his two drivers ran into some bad luck. People started saying that Daddy had lost his touch. That it was the cars and not the drivers. I wanted to race just to prove all those people wrong.",
+        "author": {
+            "name": "A. J. Foyt",
+            "url": "/quotes/a_j_foyt_226701"
+        },
+        "topics": [
+            {
+                "name": "Car",
+                "url": "/topics/car"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/a_j_foyt_226702",
+        "quote": "I'm no where as tough as my father. I really think that I am more open to change than he was.",
+        "author": {
+            "name": "A. J. Foyt",
+            "url": "/quotes/a_j_foyt_226702"
+        },
+        "topics": [
+            {
+                "name": "Father",
+                "url": "/topics/father"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/a_j_foyt_226705",
+        "quote": "I guess John Wayne would be one. I just respected the way he acted.",
+        "author": {
+            "name": "A. J. Foyt",
+            "url": "/quotes/a_j_foyt_226705"
+        },
+        "topics": [
+            {
+                "name": "John Wayne",
+                "url": "/topics/john_wayne"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            },
+            {
+                "name": "Acted",
+                "url": "/topics/acted"
+            }
+        ]
+    }
+]

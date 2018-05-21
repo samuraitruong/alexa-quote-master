@@ -1,0 +1,134 @@
+[
+    {
+        "url": "/quotes/gioachino_rossini_377883",
+        "quote": "Give me a laundry-list and I'll set it to music.",
+        "author": {
+            "name": "Gioachino Rossini",
+            "url": "/quotes/gioachino_rossini_377883"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            },
+            {
+                "name": "Set",
+                "url": "/topics/set"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gioachino_rossini_379378",
+        "quote": "Every kind of music is good, except the boring kind.",
+        "author": {
+            "name": "Gioachino Rossini",
+            "url": "/quotes/gioachino_rossini_379378"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "Boring",
+                "url": "/topics/boring"
+            },
+            {
+                "name": "Kind",
+                "url": "/topics/kind"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gioachino_rossini_161544",
+        "quote": "Mr. Wagner has beautiful moments but bad quarters of an hour.",
+        "author": {
+            "name": "Gioachino Rossini",
+            "url": "/quotes/gioachino_rossini_161544"
+        },
+        "topics": [
+            {
+                "name": "Beautiful",
+                "url": "/topics/beautiful"
+            },
+            {
+                "name": "Moments",
+                "url": "/topics/moments"
+            },
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gioachino_rossini_125565",
+        "quote": "Wagner has lovely moments but awful quarters of an hour.",
+        "author": {
+            "name": "Gioachino Rossini",
+            "url": "/quotes/gioachino_rossini_125565"
+        },
+        "topics": [
+            {
+                "name": "Moments",
+                "url": "/topics/moments"
+            },
+            {
+                "name": "Lovely",
+                "url": "/topics/lovely"
+            },
+            {
+                "name": "Hour",
+                "url": "/topics/hour"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gioachino_rossini_388922",
+        "quote": "One can't judge Wagner's opera Lohengrin after a first hearing, and I certainly don't intend to hear it a second time.",
+        "author": {
+            "name": "Gioachino Rossini",
+            "url": "/quotes/gioachino_rossini_388922"
+        },
+        "topics": [
+            {
+                "name": "Opera",
+                "url": "/topics/opera"
+            },
+            {
+                "name": "Wagner",
+                "url": "/topics/wagner"
+            },
+            {
+                "name": "Certainly",
+                "url": "/topics/certainly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gioachino_rossini_392079",
+        "quote": "Wagner is a composer who has beautiful moments but awful quarter hours.",
+        "author": {
+            "name": "Gioachino Rossini",
+            "url": "/quotes/gioachino_rossini_392079"
+        },
+        "topics": [
+            {
+                "name": "Beautiful",
+                "url": "/topics/beautiful"
+            },
+            {
+                "name": "Moments",
+                "url": "/topics/moments"
+            },
+            {
+                "name": "Hours",
+                "url": "/topics/hours"
+            }
+        ]
+    }
+]

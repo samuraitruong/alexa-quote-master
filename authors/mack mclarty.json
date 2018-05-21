@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/mack_mclarty_307782",
+        "quote": "What this White House really needs is a chief of staff who can read Machiavelli in the original Italian.",
+        "author": {
+            "name": "Mack McLarty",
+            "url": "/quotes/mack_mclarty_307782"
+        },
+        "topics": [
+            {
+                "name": "Original",
+                "url": "/topics/original"
+            },
+            {
+                "name": "Needs",
+                "url": "/topics/needs"
+            },
+            {
+                "name": "Read",
+                "url": "/topics/read"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mack_mclarty_507411",
+        "quote": "I'm a strong believer in bipartisanship.",
+        "author": {
+            "name": "Mack McLarty",
+            "url": "/quotes/mack_mclarty_507411"
+        },
+        "topics": [
+            {
+                "name": "Strong",
+                "url": "/topics/strong"
+            },
+            {
+                "name": "Bipartisanship",
+                "url": "/topics/bipartisanship"
+            }
+        ]
+    }
+]

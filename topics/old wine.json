@@ -1,0 +1,108 @@
+[
+    {
+        "url": "/quotes/oliver_goldsmith_385884?src=t_old_wine",
+        "quote": "I love everything that's old, - old friends, old times, old manners, old books, old wine.",
+        "author": {
+            "name": "Oliver Goldsmith",
+            "url": "/authors/oliver_goldsmith"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Saint Patrick's Day",
+                "url": "/topics/saintpatricksday"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/francis_bacon_403060?src=t_old_wine",
+        "quote": "Age appears to be best in four things; old wood best to burn, old wine to drink, old friends to trust, and old authors to read.",
+        "author": {
+            "name": "Francis Bacon",
+            "url": "/authors/francis_bacon"
+        },
+        "topics": [
+            {
+                "name": "Trust",
+                "url": "/topics/trust"
+            },
+            {
+                "name": "Age",
+                "url": "/topics/age"
+            },
+            {
+                "name": "Burn",
+                "url": "/topics/burn"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/athenaeus_177457?src=t_old_wine",
+        "quote": "Old wood best to burn, old wine to drink, old friends to trust, and old authors to read.",
+        "author": {
+            "name": "Athenaeus",
+            "url": "/authors/athenaeus"
+        },
+        "topics": [
+            {
+                "name": "Trust",
+                "url": "/topics/trust"
+            },
+            {
+                "name": "Burn",
+                "url": "/topics/burn"
+            },
+            {
+                "name": "Read",
+                "url": "/topics/read"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rose_kennedy_163979?src=t_old_wine",
+        "quote": "I'm like old wine. They don't bring me out very often - but I'm well preserved.",
+        "author": {
+            "name": "Rose Kennedy",
+            "url": "/authors/rose_kennedy"
+        },
+        "topics": [
+            {
+                "name": "Funny",
+                "url": "/topics/funny"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_shields_796537?src=t_old_wine",
+        "quote": "Take Jonathan Franzen's work: it's just old wine in new bottles. They say he's the Tolstoy of the digital age, but there can only be a Tolstoy of the Tolstoyan age.",
+        "author": {
+            "name": "David Shields",
+            "url": "/authors/david_shields"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Digital",
+                "url": "/topics/digital"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            }
+        ]
+    }
+]

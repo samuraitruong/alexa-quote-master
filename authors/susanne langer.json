@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/susanne_langer_161075",
+        "quote": "Art is the objectification of feeling, and the subjectification of nature.",
+        "author": {
+            "name": "Susanne Langer",
+            "url": "/quotes/susanne_langer_161075"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Objectification",
+                "url": "/topics/objectification"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/susanne_langer_127371",
+        "quote": "If we would have new knowledge, we must get a whole world of new questions.",
+        "author": {
+            "name": "Susanne Langer",
+            "url": "/quotes/susanne_langer_127371"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/susanne_langer_403968",
+        "quote": "A signal is comprehended if it serves to make us notice the object or situation it bespeaks. A symbol is understood when we conceive the idea it presents.",
+        "author": {
+            "name": "Susanne Langer",
+            "url": "/quotes/susanne_langer_403968"
+        },
+        "topics": [
+            {
+                "name": "Idea",
+                "url": "/topics/idea"
+            },
+            {
+                "name": "Symbol",
+                "url": "/topics/symbol"
+            },
+            {
+                "name": "Conceive",
+                "url": "/topics/conceive"
+            }
+        ]
+    }
+]

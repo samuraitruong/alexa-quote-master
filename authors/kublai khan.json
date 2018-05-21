@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/kublai_khan_262412",
+        "quote": "Why do you speak to me of the stones? It is only the arch that matters to me.",
+        "author": {
+            "name": "Kublai Khan",
+            "url": "/quotes/kublai_khan_262412"
+        },
+        "topics": [
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Matters",
+                "url": "/topics/matters"
+            },
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kublai_khan_262411",
+        "quote": "But which is the stone that supports the bridge?",
+        "author": {
+            "name": "Kublai Khan",
+            "url": "/quotes/kublai_khan_262411"
+        },
+        "topics": [
+            {
+                "name": "Bridge",
+                "url": "/topics/bridge"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Supports",
+                "url": "/topics/supports"
+            }
+        ]
+    }
+]

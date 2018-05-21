@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/marina_tsvetaeva_166268",
+        "quote": "My desk, most loyal friend thank you. You've been with me on every road I've taken. My scar and my protection.",
+        "author": {
+            "name": "Marina Tsvetaeva",
+            "url": "/quotes/marina_tsvetaeva_166268"
+        },
+        "topics": [
+            {
+                "name": "Protection",
+                "url": "/topics/protection"
+            },
+            {
+                "name": "Loyal",
+                "url": "/topics/loyal"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marina_tsvetaeva_160647",
+        "quote": "A deception that elevates us is dearer than a host of low truths.",
+        "author": {
+            "name": "Marina Tsvetaeva",
+            "url": "/quotes/marina_tsvetaeva_160647"
+        },
+        "topics": [
+            {
+                "name": "Deception",
+                "url": "/topics/deception"
+            },
+            {
+                "name": "Low",
+                "url": "/topics/low"
+            },
+            {
+                "name": "Than",
+                "url": "/topics/than"
+            }
+        ]
+    }
+]

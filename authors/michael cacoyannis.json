@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/michael_cacoyannis_399216",
+        "quote": "Boss, life is trouble. Only death is not. To be alive is to undo your belt and look for trouble.",
+        "author": {
+            "name": "Michael Cacoyannis",
+            "url": "/quotes/michael_cacoyannis_399216"
+        },
+        "topics": [
+            {
+                "name": "Death",
+                "url": "/topics/death"
+            },
+            {
+                "name": "Boss",
+                "url": "/topics/boss"
+            },
+            {
+                "name": "Undo",
+                "url": "/topics/undo"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/michael_cacoyannis_403342",
+        "quote": "Why? Will no man ever do something without a why? Just like that? For the hell of it?",
+        "author": {
+            "name": "Michael Cacoyannis",
+            "url": "/quotes/michael_cacoyannis_403342"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Ever",
+                "url": "/topics/ever"
+            }
+        ]
+    }
+]

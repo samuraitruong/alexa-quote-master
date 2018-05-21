@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/william_carey_404660",
+        "quote": "Expect great things from God, attempt great things for God.",
+        "author": {
+            "name": "William Carey",
+            "url": "/quotes/william_carey_404660"
+        },
+        "topics": [
+            {
+                "name": "Great Things",
+                "url": "/topics/great_things"
+            },
+            {
+                "name": "Expect",
+                "url": "/topics/expect"
+            },
+            {
+                "name": "Things",
+                "url": "/topics/things"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_carey_404677",
+        "quote": "I can plod. I can persevere in any definite pursuit. To this I owe everything.",
+        "author": {
+            "name": "William Carey",
+            "url": "/quotes/william_carey_404677"
+        },
+        "topics": [
+            {
+                "name": "Persevere",
+                "url": "/topics/persevere"
+            },
+            {
+                "name": "Pursuit",
+                "url": "/topics/pursuit"
+            },
+            {
+                "name": "Definite",
+                "url": "/topics/definite"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_carey_191985",
+        "quote": "The future is as bright as the promises of God.",
+        "author": {
+            "name": "William Carey",
+            "url": "/quotes/william_carey_191985"
+        },
+        "topics": [
+            {
+                "name": "Future",
+                "url": "/topics/future"
+            },
+            {
+                "name": "Promises",
+                "url": "/topics/promises"
+            },
+            {
+                "name": "Bright",
+                "url": "/topics/bright"
+            }
+        ]
+    }
+]

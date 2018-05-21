@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/grant_tinker_303559",
+        "quote": "I assume you know what to do with this. That's why you were hired.",
+        "author": {
+            "name": "Grant Tinker",
+            "url": "/quotes/grant_tinker_303559"
+        },
+        "topics": [
+            {
+                "name": "Know",
+                "url": "/topics/know"
+            },
+            {
+                "name": "Why",
+                "url": "/topics/why"
+            },
+            {
+                "name": "Were",
+                "url": "/topics/were"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/grant_tinker_305058",
+        "quote": "First be best, then be first.",
+        "author": {
+            "name": "Grant Tinker",
+            "url": "/quotes/grant_tinker_305058"
+        },
+        "topics": [
+            {
+                "name": "Best",
+                "url": "/topics/best"
+            },
+            {
+                "name": "First",
+                "url": "/topics/first"
+            },
+            {
+                "name": "Then",
+                "url": "/topics/then"
+            }
+        ]
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "url": "/quotes/lord_acton_109401?src=t_absolute_power_corrupts",
+        "quote": "Power tends to corrupt and absolute power corrupts absolutely.",
+        "author": {
+            "name": "Lord Acton",
+            "url": "/authors/lord_acton"
+        },
+        "topics": [
+            {
+                "name": "Power",
+                "url": "/topics/power"
+            },
+            {
+                "name": "Corrupt",
+                "url": "/topics/corrupt"
+            },
+            {
+                "name": "Absolute",
+                "url": "/topics/absolute"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_acton_194641?src=t_absolute_power_corrupts",
+        "quote": "Power tends to corrupt, and absolute power corrupts absolutely.",
+        "author": {
+            "name": "John Acton",
+            "url": "/authors/john_acton"
+        },
+        "topics": [
+            {
+                "name": "Corrupt",
+                "url": "/topics/corrupt"
+            },
+            {
+                "name": "Absolute",
+                "url": "/topics/absolute"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rafael_correa_442988?src=t_absolute_power_corrupts",
+        "quote": "To assume all the powers is not good for anybody. Power corrupts and absolute power corrupts absolutely. All those experiments have a bad ending.",
+        "author": {
+            "name": "Rafael Correa",
+            "url": "/authors/rafael_correa"
+        },
+        "topics": [
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            },
+            {
+                "name": "Anybody",
+                "url": "/topics/anybody"
+            },
+            {
+                "name": "Experiments",
+                "url": "/topics/experiments"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/harry_shearer_185402?src=t_absolute_power_corrupts",
+        "quote": "If absolute power corrupts absolutely, does absolute powerlessness make you pure?",
+        "author": {
+            "name": "Harry Shearer",
+            "url": "/authors/harry_shearer"
+        },
+        "topics": [
+            {
+                "name": "Corrupts",
+                "url": "/topics/corrupts"
+            },
+            {
+                "name": "Powerlessness",
+                "url": "/topics/powerlessness"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_caro_432517?src=t_absolute_power_corrupts",
+        "quote": "We're taught Lord Acton's axiom: all power corrupts, absolute power corrupts absolutely. I believed that when I started these books, but I don't believe it's always true any more. Power doesn't always corrupt. Power can cleanse. What I believe is always true about power is that power always reveals.",
+        "author": {
+            "name": "Robert Caro",
+            "url": "/authors/robert_caro"
+        },
+        "topics": [
+            {
+                "name": "Lord",
+                "url": "/topics/lord"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Reveals",
+                "url": "/topics/reveals"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edward_brooke_732040?src=t_absolute_power_corrupts",
+        "quote": "Power corrupts, absolute power corrupts absolutely, and I found that out when I was Attorney General in Massachusetts.",
+        "author": {
+            "name": "Edward Brooke",
+            "url": "/authors/edward_brooke"
+        },
+        "topics": [
+            {
+                "name": "Power Corrupts",
+                "url": "/topics/power_corrupts"
+            },
+            {
+                "name": "Corrupts",
+                "url": "/topics/corrupts"
+            }
+        ]
+    }
+]

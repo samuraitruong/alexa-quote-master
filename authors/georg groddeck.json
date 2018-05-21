@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/georg_groddeck_393748",
+        "quote": "One must not forget that recovery is brought about not by the physician, but by the sick man himself. He heals himself, by his own power, exactly as he walks by means of his own power, or eats, or thinks, breathes or sleeps.",
+        "author": {
+            "name": "Georg Groddeck",
+            "url": "/quotes/georg_groddeck_393748"
+        },
+        "topics": [
+            {
+                "name": "Means",
+                "url": "/topics/means"
+            },
+            {
+                "name": "Sleeps",
+                "url": "/topics/sleeps"
+            },
+            {
+                "name": "Brought",
+                "url": "/topics/brought"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/georg_groddeck_388122",
+        "quote": "Disease is a vital expression of the human organism.",
+        "author": {
+            "name": "Georg Groddeck",
+            "url": "/quotes/georg_groddeck_388122"
+        },
+        "topics": [
+            {
+                "name": "Expression",
+                "url": "/topics/expression"
+            },
+            {
+                "name": "Disease",
+                "url": "/topics/disease"
+            },
+            {
+                "name": "Vital",
+                "url": "/topics/vital"
+            }
+        ]
+    }
+]

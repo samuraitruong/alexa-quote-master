@@ -1,0 +1,134 @@
+[
+    {
+        "url": "/quotes/claude_pepper_129826",
+        "quote": "Life is like riding a bicycle: you don't fall off unless you stop pedaling.",
+        "author": {
+            "name": "Claude Pepper",
+            "url": "/quotes/claude_pepper_129826"
+        },
+        "topics": [
+            {
+                "name": "Bicycle",
+                "url": "/topics/bicycle"
+            },
+            {
+                "name": "Fall",
+                "url": "/topics/fall"
+            },
+            {
+                "name": "Stop",
+                "url": "/topics/stop"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/claude_pepper_394494",
+        "quote": "If more politicians in this country were thinking about the next generation instead of the next election, it might be better for the United States and the world.",
+        "author": {
+            "name": "Claude Pepper",
+            "url": "/quotes/claude_pepper_394494"
+        },
+        "topics": [
+            {
+                "name": "Generation",
+                "url": "/topics/generation"
+            },
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            },
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/claude_pepper_378042",
+        "quote": "Ageism is as odious as racism and sexism.",
+        "author": {
+            "name": "Claude Pepper",
+            "url": "/quotes/claude_pepper_378042"
+        },
+        "topics": [
+            {
+                "name": "Racism",
+                "url": "/topics/racism"
+            },
+            {
+                "name": "Ageism",
+                "url": "/topics/ageism"
+            },
+            {
+                "name": "Odious",
+                "url": "/topics/odious"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/claude_pepper_392945",
+        "quote": "A stockbroker urged me to buy a stock that would triple its value every year. I told him, 'At my age, I don't even buy green bananas.'",
+        "author": {
+            "name": "Claude Pepper",
+            "url": "/quotes/claude_pepper_392945"
+        },
+        "topics": [
+            {
+                "name": "Funny",
+                "url": "/topics/funny"
+            },
+            {
+                "name": "Green",
+                "url": "/topics/green"
+            },
+            {
+                "name": "Year",
+                "url": "/topics/year"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/claude_pepper_378041",
+        "quote": "One has the right to be wrong in a democracy.",
+        "author": {
+            "name": "Claude Pepper",
+            "url": "/quotes/claude_pepper_378041"
+        },
+        "topics": [
+            {
+                "name": "Democracy",
+                "url": "/topics/democracy"
+            },
+            {
+                "name": "Wrong",
+                "url": "/topics/wrong"
+            },
+            {
+                "name": "Right",
+                "url": "/topics/right"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/claude_pepper_391220",
+        "quote": "The mistake a lot of politicians make is in forgetting they've been appointed and thinking they've been anointed.",
+        "author": {
+            "name": "Claude Pepper",
+            "url": "/quotes/claude_pepper_391220"
+        },
+        "topics": [
+            {
+                "name": "Mistake",
+                "url": "/topics/mistake"
+            },
+            {
+                "name": "Lot",
+                "url": "/topics/lot"
+            },
+            {
+                "name": "Appointed",
+                "url": "/topics/appointed"
+            }
+        ]
+    }
+]

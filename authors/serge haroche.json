@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/serge_haroche_476396",
+        "quote": "Most technological advances in our life now come from serendipitous discoveries. That is a contraction of rocket technology and computer technology and atomic clock technology.",
+        "author": {
+            "name": "Serge Haroche",
+            "url": "/quotes/serge_haroche_476396"
+        },
+        "topics": [
+            {
+                "name": "Technology",
+                "url": "/topics/technology"
+            },
+            {
+                "name": "Rocket",
+                "url": "/topics/rocket"
+            },
+            {
+                "name": "Come",
+                "url": "/topics/come"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/serge_haroche_476395",
+        "quote": "It is important to fund young researchers who want to do curiosity-driven research. Curiosity-driven research is a part of life. Some people are curious. They want to learn more about nature and society should help that. It's like art: you can learn more and bring more beauty.",
+        "author": {
+            "name": "Serge Haroche",
+            "url": "/quotes/serge_haroche_476395"
+        },
+        "topics": [
+            {
+                "name": "Beauty",
+                "url": "/topics/beauty"
+            },
+            {
+                "name": "Young",
+                "url": "/topics/young"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/serge_haroche_476397",
+        "quote": "It is hard to rationalise or explain why you love what you love. But I have always been interested in science and maths, and in high school I was struck that you could use maths to understand nature and science.",
+        "author": {
+            "name": "Serge Haroche",
+            "url": "/quotes/serge_haroche_476397"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Explain",
+                "url": "/topics/explain"
+            }
+        ]
+    }
+]

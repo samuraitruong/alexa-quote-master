@@ -1,0 +1,178 @@
+[
+    {
+        "url": "/quotes/benjamin_franklin_132003?src=t_dost",
+        "quote": "Dost thou love life? Then do not squander time, for that is the stuff life is made of.",
+        "author": {
+            "name": "Benjamin Franklin",
+            "url": "/authors/benjamin_franklin"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Wisdom",
+                "url": "/topics/wisdom"
+            },
+            {
+                "name": "Squander",
+                "url": "/topics/squander"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_donne_154209?src=t_dost",
+        "quote": "Death be not proud, though some have called thee Mighty and dreadful, for thou art not so. For, those, whom thou think'st thou dost overthrow. Die not, poor death, nor yet canst thou kill me.",
+        "author": {
+            "name": "John Donne",
+            "url": "/authors/john_donne"
+        },
+        "topics": [
+            {
+                "name": "Die",
+                "url": "/topics/die"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Thee",
+                "url": "/topics/thee"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_donne_154214?src=t_dost",
+        "quote": "Busy old fool, unruly Sun, why dost thou thus through windows and through curtains call on us? Must to thy motions lovers seasons run?",
+        "author": {
+            "name": "John Donne",
+            "url": "/authors/john_donne"
+        },
+        "topics": [
+            {
+                "name": "Seasons",
+                "url": "/topics/seasons"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Unruly",
+                "url": "/topics/unruly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/virgil_399953?src=t_dost",
+        "quote": "O accursed hunger of gold, to what dost thou not compel human hearts!",
+        "author": {
+            "name": "Virgil",
+            "url": "/authors/virgil"
+        },
+        "topics": [
+            {
+                "name": "Gold",
+                "url": "/topics/gold"
+            },
+            {
+                "name": "Hearts",
+                "url": "/topics/hearts"
+            },
+            {
+                "name": "Accursed",
+                "url": "/topics/accursed"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jules_verne_664848?src=t_dost",
+        "quote": "Dost thou not understand that there are two distinct forces in us, that of the soul and that of the body, that is, a movement and a regulator?",
+        "author": {
+            "name": "Jules Verne",
+            "url": "/authors/jules_verne"
+        },
+        "topics": [
+            {
+                "name": "Soul",
+                "url": "/topics/soul"
+            },
+            {
+                "name": "Understand",
+                "url": "/topics/understand"
+            },
+            {
+                "name": "Forces",
+                "url": "/topics/forces"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jules_verne_664847?src=t_dost",
+        "quote": "Dost thou know what life is, my child? Hast thou comprehended the action of those springs which produce existence? Hast thou examined thyself?",
+        "author": {
+            "name": "Jules Verne",
+            "url": "/authors/jules_verne"
+        },
+        "topics": [
+            {
+                "name": "Existence",
+                "url": "/topics/existence"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Springs",
+                "url": "/topics/springs"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_c_bryant_189773?src=t_dost",
+        "quote": "Where hast thou wandered, gentle gale, to find the perfumes thou dost bring?",
+        "author": {
+            "name": "William C. Bryant",
+            "url": "/authors/william_c_bryant"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "Wandered",
+                "url": "/topics/wandered"
+            },
+            {
+                "name": "Gale",
+                "url": "/topics/gale"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/christopher_love_187651?src=t_dost",
+        "quote": "Most Glorious and eternal Majesty, Thou art righteous and holy in all thou dost to the sons of men, though thou hast suffered men to condemn Thy servant, Thy servant will not condemn Thee.",
+        "author": {
+            "name": "Christopher Love",
+            "url": "/authors/christopher_love"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Righteous",
+                "url": "/topics/righteous"
+            },
+            {
+                "name": "Thee",
+                "url": "/topics/thee"
+            }
+        ]
+    }
+]

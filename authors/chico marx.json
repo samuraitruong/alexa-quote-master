@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/chico_marx_106329",
+        "quote": "I wasn't kissing her, I was whispering in her mouth.",
+        "author": {
+            "name": "Chico Marx",
+            "url": "/quotes/chico_marx_106329"
+        },
+        "topics": [
+            {
+                "name": "Mouth",
+                "url": "/topics/mouth"
+            },
+            {
+                "name": "Her",
+                "url": "/topics/her"
+            },
+            {
+                "name": "Kissing",
+                "url": "/topics/kissing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/chico_marx_164691",
+        "quote": "Mustard's no good without roast beef.",
+        "author": {
+            "name": "Chico Marx",
+            "url": "/quotes/chico_marx_164691"
+        },
+        "topics": [
+            {
+                "name": "Beef",
+                "url": "/topics/beef"
+            },
+            {
+                "name": "Mustard",
+                "url": "/topics/mustard"
+            },
+            {
+                "name": "Roast Beef",
+                "url": "/topics/roast_beef"
+            }
+        ]
+    }
+]

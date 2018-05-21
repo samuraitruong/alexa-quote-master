@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/rosa_bonheur_326130",
+        "quote": "But the suit I wear is my work attire, and nothing else.",
+        "author": {
+            "name": "Rosa Bonheur",
+            "url": "/quotes/rosa_bonheur_326130"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Attire",
+                "url": "/topics/attire"
+            },
+            {
+                "name": "Else",
+                "url": "/topics/else"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rosa_bonheur_323349",
+        "quote": "The epithets of imbeciles have never bothered me.",
+        "author": {
+            "name": "Rosa Bonheur",
+            "url": "/quotes/rosa_bonheur_323349"
+        },
+        "topics": [
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Imbeciles",
+                "url": "/topics/imbeciles"
+            }
+        ]
+    }
+]

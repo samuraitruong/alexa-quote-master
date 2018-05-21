@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/richard_benjamin_221616",
+        "quote": "I always say that you should remake flops, not hits.",
+        "author": {
+            "name": "Richard Benjamin",
+            "url": "/quotes/richard_benjamin_221616"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Hits",
+                "url": "/topics/hits"
+            },
+            {
+                "name": "Should",
+                "url": "/topics/should"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/richard_benjamin_221617",
+        "quote": "It's the texture of New York that people miss by filming elsewhere. There are layers and layers of character - even in the pavement - that you can't get anywhere else. And the speed that the people move. It's so different from other places.",
+        "author": {
+            "name": "Richard Benjamin",
+            "url": "/quotes/richard_benjamin_221617"
+        },
+        "topics": [
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Elsewhere",
+                "url": "/topics/elsewhere"
+            },
+            {
+                "name": "Anywhere",
+                "url": "/topics/anywhere"
+            }
+        ]
+    }
+]

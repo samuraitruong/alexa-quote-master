@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/eddie_obeng_550185",
+        "quote": "In the 21st century, somebody or something has changed the rules about how our world works.",
+        "author": {
+            "name": "Eddie Obeng",
+            "url": "/quotes/eddie_obeng_550185"
+        },
+        "topics": [
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Works",
+                "url": "/topics/works"
+            },
+            {
+                "name": "Our World",
+                "url": "/topics/our_world"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eddie_obeng_550183",
+        "quote": "We solve last year's problems without thinking about the future.",
+        "author": {
+            "name": "Eddie Obeng",
+            "url": "/quotes/eddie_obeng_550183"
+        },
+        "topics": [
+            {
+                "name": "Future",
+                "url": "/topics/future"
+            },
+            {
+                "name": "Last",
+                "url": "/topics/last"
+            },
+            {
+                "name": "Year",
+                "url": "/topics/year"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eddie_obeng_550184",
+        "quote": "If you haven't understood the world you're living in, it's impossible to think that the solution you're coming up with fits.",
+        "author": {
+            "name": "Eddie Obeng",
+            "url": "/quotes/eddie_obeng_550184"
+        },
+        "topics": [
+            {
+                "name": "Impossible",
+                "url": "/topics/impossible"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Living",
+                "url": "/topics/living"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eddie_obeng_550186",
+        "quote": "We spend our time responding rationally to a world which we understand and recognize, but which no longer exists.",
+        "author": {
+            "name": "Eddie Obeng",
+            "url": "/quotes/eddie_obeng_550186"
+        },
+        "topics": [
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Longer",
+                "url": "/topics/longer"
+            },
+            {
+                "name": "Responding",
+                "url": "/topics/responding"
+            }
+        ]
+    }
+]

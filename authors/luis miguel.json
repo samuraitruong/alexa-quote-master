@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/luis_miguel_192399",
+        "quote": "I think we all wish we could erase some dark times in our lives. But all of life's experiences, bad and good make you who you are. Erasing any of life's experiences would be a great mistake.",
+        "author": {
+            "name": "Luis Miguel",
+            "url": "/quotes/luis_miguel_192399"
+        },
+        "topics": [
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/luis_miguel_192394",
+        "quote": "I am very adamant about keeping my private life private. I don't prefer to talk about my family.",
+        "author": {
+            "name": "Luis Miguel",
+            "url": "/quotes/luis_miguel_192394"
+        },
+        "topics": [
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Private",
+                "url": "/topics/private"
+            },
+            {
+                "name": "Prefer",
+                "url": "/topics/prefer"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/luis_miguel_192395",
+        "quote": "I maintain my sanity by keeping my distance.",
+        "author": {
+            "name": "Luis Miguel",
+            "url": "/quotes/luis_miguel_192395"
+        },
+        "topics": [
+            {
+                "name": "Distance",
+                "url": "/topics/distance"
+            },
+            {
+                "name": "Keeping",
+                "url": "/topics/keeping"
+            },
+            {
+                "name": "Maintain",
+                "url": "/topics/maintain"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/luis_miguel_192396",
+        "quote": "The most enjoyable part of my career is singing live.",
+        "author": {
+            "name": "Luis Miguel",
+            "url": "/quotes/luis_miguel_192396"
+        },
+        "topics": [
+            {
+                "name": "Career",
+                "url": "/topics/career"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "Enjoyable",
+                "url": "/topics/enjoyable"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/luis_miguel_192398",
+        "quote": "I don't like rock. Honestly, I like to listen to it, but it's not for me. There's a lot of musical genres that I find interesting, but they don't suit me. It's one thing to listen to different genres, but to perform a genre that isn't yours is counterproductive.",
+        "author": {
+            "name": "Luis Miguel",
+            "url": "/quotes/luis_miguel_192398"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Honestly",
+                "url": "/topics/honestly"
+            },
+            {
+                "name": "Musical",
+                "url": "/topics/musical"
+            }
+        ]
+    }
+]

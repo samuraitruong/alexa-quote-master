@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/emile_coue_127527",
+        "quote": "Every day, in every way, I'm getting better and better.",
+        "author": {
+            "name": "Emile Coue",
+            "url": "/quotes/emile_coue_127527"
+        },
+        "topics": [
+            {
+                "name": "Better",
+                "url": "/topics/better"
+            },
+            {
+                "name": "Every Day",
+                "url": "/topics/every_day"
+            },
+            {
+                "name": "Getting",
+                "url": "/topics/getting"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/emile_coue_163393",
+        "quote": "When the imagination and will power are in conflict, are antagonistic, it is always the imagination which wins, without any exception.",
+        "author": {
+            "name": "Emile Coue",
+            "url": "/quotes/emile_coue_163393"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Wins",
+                "url": "/topics/wins"
+            }
+        ]
+    }
+]

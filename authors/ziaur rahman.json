@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/ziaur_rahman_323676",
+        "quote": "We shall fight to the last to free our Motherland.",
+        "author": {
+            "name": "Ziaur Rahman",
+            "url": "/quotes/ziaur_rahman_323676"
+        },
+        "topics": [
+            {
+                "name": "Last",
+                "url": "/topics/last"
+            },
+            {
+                "name": "Motherland",
+                "url": "/topics/motherland"
+            },
+            {
+                "name": "Shall",
+                "url": "/topics/shall"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ziaur_rahman_323673",
+        "quote": "At his direction, I have taken command as the temporary Head of the Republic.",
+        "author": {
+            "name": "Ziaur Rahman",
+            "url": "/quotes/ziaur_rahman_323673"
+        },
+        "topics": [
+            {
+                "name": "Temporary",
+                "url": "/topics/temporary"
+            },
+            {
+                "name": "Head",
+                "url": "/topics/head"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            }
+        ]
+    }
+]

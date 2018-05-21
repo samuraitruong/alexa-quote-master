@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/elsa_lanchester_164708",
+        "quote": "There is no such thing as a person that nothing has happened to, and each person's story is as different as his fingertips.",
+        "author": {
+            "name": "Elsa Lanchester",
+            "url": "/quotes/elsa_lanchester_164708"
+        },
+        "topics": [
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            },
+            {
+                "name": "Person",
+                "url": "/topics/person"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/elsa_lanchester_115222",
+        "quote": "She looked as if butter wouldn't melt in her mouth - or anywhere else.",
+        "author": {
+            "name": "Elsa Lanchester",
+            "url": "/quotes/elsa_lanchester_115222"
+        },
+        "topics": [
+            {
+                "name": "She",
+                "url": "/topics/she"
+            },
+            {
+                "name": "Butter",
+                "url": "/topics/butter"
+            },
+            {
+                "name": "Melt",
+                "url": "/topics/melt"
+            }
+        ]
+    }
+]

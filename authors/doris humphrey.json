@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/doris_humphrey_197475",
+        "quote": "The Dancer believes that his art has something to say which cannot be expressed in words or in any other way than by dancing.",
+        "author": {
+            "name": "Doris Humphrey",
+            "url": "/quotes/doris_humphrey_197475"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Dancing",
+                "url": "/topics/dancing"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/doris_humphrey_197476",
+        "quote": "There are movements which impinge upon the nerves with a strength that is incomparable, for movement has power to stir the senses and emotions, unique in itself.",
+        "author": {
+            "name": "Doris Humphrey",
+            "url": "/quotes/doris_humphrey_197476"
+        },
+        "topics": [
+            {
+                "name": "Strength",
+                "url": "/topics/strength"
+            },
+            {
+                "name": "Emotions",
+                "url": "/topics/emotions"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    }
+]

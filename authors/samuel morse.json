@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/samuel_morse_394355",
+        "quote": "If the presence of electricity can be made visible in any part of the circuit, I see no reason why intelligence may not be transmitted instantaneously by electricity.",
+        "author": {
+            "name": "Samuel Morse",
+            "url": "/quotes/samuel_morse_394355"
+        },
+        "topics": [
+            {
+                "name": "Reason",
+                "url": "/topics/reason"
+            },
+            {
+                "name": "Circuit",
+                "url": "/topics/circuit"
+            },
+            {
+                "name": "Visible",
+                "url": "/topics/visible"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/samuel_morse_207378",
+        "quote": "My price is five dollars for a miniature on ivory, and I have engaged three or four at that price. My price for profiles is one dollar, and everybody is willing to engage me at that price.",
+        "author": {
+            "name": "Samuel Morse",
+            "url": "/quotes/samuel_morse_207378"
+        },
+        "topics": [
+            {
+                "name": "Everybody",
+                "url": "/topics/everybody"
+            },
+            {
+                "name": "Willing",
+                "url": "/topics/willing"
+            },
+            {
+                "name": "Engaged",
+                "url": "/topics/engaged"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/samuel_morse_394217",
+        "quote": "The mere holding of slaves, therefore, is a condition having per se nothing of moral character in it, any more than the being a parent, or employer, or ruler.",
+        "author": {
+            "name": "Samuel Morse",
+            "url": "/quotes/samuel_morse_394217"
+        },
+        "topics": [
+            {
+                "name": "Parent",
+                "url": "/topics/parent"
+            },
+            {
+                "name": "Slaves",
+                "url": "/topics/slaves"
+            },
+            {
+                "name": "Having",
+                "url": "/topics/having"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/samuel_morse_207377",
+        "quote": "What God hath wrought?",
+        "author": {
+            "name": "Samuel Morse",
+            "url": "/quotes/samuel_morse_207377"
+        },
+        "topics": [
+            {
+                "name": "God",
+                "url": "/topics/god"
+            },
+            {
+                "name": "Wrought",
+                "url": "/topics/wrought"
+            },
+            {
+                "name": "God Hath",
+                "url": "/topics/god_hath"
+            }
+        ]
+    }
+]

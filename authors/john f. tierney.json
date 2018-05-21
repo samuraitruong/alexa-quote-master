@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/john_f_tierney_644592",
+        "quote": "On education, in order to ensure that America remains a world leader, we must create an educated, skilled workforce in the vital areas of science, math, engineering and information technology. At the same time, we must give every student access to a college degree.",
+        "author": {
+            "name": "John F. Tierney",
+            "url": "/quotes/john_f_tierney_644592"
+        },
+        "topics": [
+            {
+                "name": "Education",
+                "url": "/topics/education"
+            },
+            {
+                "name": "Leader",
+                "url": "/topics/leader"
+            },
+            {
+                "name": "College",
+                "url": "/topics/college"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_f_tierney_644590",
+        "quote": "We cannot continue to ask the brave men and women of our Armed Forces to put their lives on the line to protect our country while we jeopardize their safety by failing to ensure that Defense Department funds are not siphoned off to warlords in Afghanistan.",
+        "author": {
+            "name": "John F. Tierney",
+            "url": "/quotes/john_f_tierney_644590"
+        },
+        "topics": [
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Line",
+                "url": "/topics/line"
+            },
+            {
+                "name": "We Cannot",
+                "url": "/topics/we_cannot"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_f_tierney_644591",
+        "quote": "In order to invest in our future, we must ensure that we appropriately protect programs that provide skills, services, and education for middle-class Americans rather than providing tax breaks for large corporations.",
+        "author": {
+            "name": "John F. Tierney",
+            "url": "/quotes/john_f_tierney_644591"
+        },
+        "topics": [
+            {
+                "name": "Middle-Class",
+                "url": "/topics/middle-class"
+            },
+            {
+                "name": "Providing",
+                "url": "/topics/providing"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/alexander_berkman_174931",
+        "quote": "War means blind obedience, unthinking stupidity, brutish callousness, wanton destruction, and irresponsible murder.",
+        "author": {
+            "name": "Alexander Berkman",
+            "url": "/quotes/alexander_berkman_174931"
+        },
+        "topics": [
+            {
+                "name": "Stupidity",
+                "url": "/topics/stupidity"
+            },
+            {
+                "name": "Blind",
+                "url": "/topics/blind"
+            },
+            {
+                "name": "Means",
+                "url": "/topics/means"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alexander_berkman_174932",
+        "quote": "War paralyzes your courage and deadens the spirit of true manhood.",
+        "author": {
+            "name": "Alexander Berkman",
+            "url": "/quotes/alexander_berkman_174932"
+        },
+        "topics": [
+            {
+                "name": "War",
+                "url": "/topics/war"
+            },
+            {
+                "name": "Spirit",
+                "url": "/topics/spirit"
+            },
+            {
+                "name": "True",
+                "url": "/topics/true"
+            }
+        ]
+    }
+]

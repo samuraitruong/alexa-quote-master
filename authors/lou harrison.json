@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/lou_harrison_187497",
+        "quote": "We get more dangerous as we accumulate knowledge, and that's both a sadness and something to control, try to learn to live with, make terms with.",
+        "author": {
+            "name": "Lou Harrison",
+            "url": "/quotes/lou_harrison_187497"
+        },
+        "topics": [
+            {
+                "name": "Learn",
+                "url": "/topics/learn"
+            },
+            {
+                "name": "Dangerous",
+                "url": "/topics/dangerous"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lou_harrison_187495",
+        "quote": "Three days in a city now and I'm quite flipped. There's too much noise. I just can't do with it.",
+        "author": {
+            "name": "Lou Harrison",
+            "url": "/quotes/lou_harrison_187495"
+        },
+        "topics": [
+            {
+                "name": "City",
+                "url": "/topics/city"
+            },
+            {
+                "name": "Too Much",
+                "url": "/topics/too_much"
+            },
+            {
+                "name": "Flipped",
+                "url": "/topics/flipped"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lou_harrison_187597",
+        "quote": "I don't want to wear my compositional tools on my sleeve.",
+        "author": {
+            "name": "Lou Harrison",
+            "url": "/quotes/lou_harrison_187597"
+        },
+        "topics": [
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Wear",
+                "url": "/topics/wear"
+            },
+            {
+                "name": "Sleeve",
+                "url": "/topics/sleeve"
+            }
+        ]
+    }
+]

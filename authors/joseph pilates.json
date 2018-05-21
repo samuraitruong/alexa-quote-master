@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/joseph_pilates_542944",
+        "quote": "Americans! They want to go 600 miles an hour, and they don't know how to walk! Look at them in the street. Bent over. Coughing! Young men with gray faces! Why can't they look at the animals? Look at a cat. Look at any animal. The only animal that doesn't hold its stomach in is the pig.",
+        "author": {
+            "name": "Joseph Pilates",
+            "url": "/quotes/joseph_pilates_542944"
+        },
+        "topics": [
+            {
+                "name": "Young",
+                "url": "/topics/young"
+            },
+            {
+                "name": "Stomach",
+                "url": "/topics/stomach"
+            },
+            {
+                "name": "Why",
+                "url": "/topics/why"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joseph_pilates_542945",
+        "quote": "By exercising your stomach muscles, you wring out the body, you don't catch colds, you don't get cancer, you don't get hernias. Do animals get hernias? Do animals go on diets?",
+        "author": {
+            "name": "Joseph Pilates",
+            "url": "/quotes/joseph_pilates_542945"
+        },
+        "topics": [
+            {
+                "name": "Stomach",
+                "url": "/topics/stomach"
+            },
+            {
+                "name": "Go",
+                "url": "/topics/go"
+            },
+            {
+                "name": "Wring",
+                "url": "/topics/wring"
+            }
+        ]
+    }
+]

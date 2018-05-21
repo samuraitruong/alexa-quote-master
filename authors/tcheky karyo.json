@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/tcheky_karyo_697224",
+        "quote": "I love improvisation. It's quite exciting.",
+        "author": {
+            "name": "Tcheky Karyo",
+            "url": "/quotes/tcheky_karyo_697224"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Exciting",
+                "url": "/topics/exciting"
+            },
+            {
+                "name": "I Love",
+                "url": "/topics/i_love"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tcheky_karyo_697221",
+        "quote": "The luxury we have when we do a series is that we go through a long journey, and it keeps a lot of information and things to be revealed.",
+        "author": {
+            "name": "Tcheky Karyo",
+            "url": "/quotes/tcheky_karyo_697221"
+        },
+        "topics": [
+            {
+                "name": "Journey",
+                "url": "/topics/journey"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Go",
+                "url": "/topics/go"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tcheky_karyo_697222",
+        "quote": "Life is tragic comedy, in a way. There is humor.",
+        "author": {
+            "name": "Tcheky Karyo",
+            "url": "/quotes/tcheky_karyo_697222"
+        },
+        "topics": [
+            {
+                "name": "Humor",
+                "url": "/topics/humor"
+            },
+            {
+                "name": "Comedy",
+                "url": "/topics/comedy"
+            },
+            {
+                "name": "Tragic",
+                "url": "/topics/tragic"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tcheky_karyo_697223",
+        "quote": "In theater, there's a lot of work to do to build the characters. It's a great experience.",
+        "author": {
+            "name": "Tcheky Karyo",
+            "url": "/quotes/tcheky_karyo_697223"
+        },
+        "topics": [
+            {
+                "name": "Build",
+                "url": "/topics/build"
+            },
+            {
+                "name": "Characters",
+                "url": "/topics/characters"
+            },
+            {
+                "name": "Lot",
+                "url": "/topics/lot"
+            }
+        ]
+    }
+]

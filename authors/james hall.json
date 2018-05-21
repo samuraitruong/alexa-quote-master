@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/james_hall_182768",
+        "quote": "Why would anyone lie? The truth is always more colorful.",
+        "author": {
+            "name": "James Hall",
+            "url": "/quotes/james_hall_182768"
+        },
+        "topics": [
+            {
+                "name": "Truth",
+                "url": "/topics/truth"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_hall_406093",
+        "quote": "We want people to realize you are at a design school, not a land grant college. The way we look says a great deal about who we are.",
+        "author": {
+            "name": "James Hall",
+            "url": "/quotes/james_hall_406093"
+        },
+        "topics": [
+            {
+                "name": "College",
+                "url": "/topics/college"
+            },
+            {
+                "name": "Deal",
+                "url": "/topics/deal"
+            },
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            }
+        ]
+    }
+]

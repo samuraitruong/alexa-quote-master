@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/howard_blum_541653",
+        "quote": "Gold has an almost atavistic lure. People feel it has a panacea effect.",
+        "author": {
+            "name": "Howard Blum",
+            "url": "/quotes/howard_blum_541653"
+        },
+        "topics": [
+            {
+                "name": "Gold",
+                "url": "/topics/gold"
+            },
+            {
+                "name": "Almost",
+                "url": "/topics/almost"
+            },
+            {
+                "name": "Panacea",
+                "url": "/topics/panacea"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/howard_blum_541652",
+        "quote": "When hundreds of thousands of people from all over the world went to the Yukon to look for gold, the original prospectors had already claimed most of it.",
+        "author": {
+            "name": "Howard Blum",
+            "url": "/quotes/howard_blum_541652"
+        },
+        "topics": [
+            {
+                "name": "Original",
+                "url": "/topics/original"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Claimed",
+                "url": "/topics/claimed"
+            }
+        ]
+    }
+]

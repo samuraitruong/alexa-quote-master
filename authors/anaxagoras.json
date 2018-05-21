@@ -1,0 +1,134 @@
+[
+    {
+        "url": "/quotes/anaxagoras_180731",
+        "quote": "Appearances are a glimpse of the unseen.",
+        "author": {
+            "name": "Anaxagoras",
+            "url": "/quotes/anaxagoras_180731"
+        },
+        "topics": [
+            {
+                "name": "Appearances",
+                "url": "/topics/appearances"
+            },
+            {
+                "name": "Glimpse",
+                "url": "/topics/glimpse"
+            },
+            {
+                "name": "Unseen",
+                "url": "/topics/unseen"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/anaxagoras_180732",
+        "quote": "Everything has a natural explanation. The moon is not a god, but a great rock, and the sun a hot rock.",
+        "author": {
+            "name": "Anaxagoras",
+            "url": "/quotes/anaxagoras_180732"
+        },
+        "topics": [
+            {
+                "name": "Space",
+                "url": "/topics/space"
+            },
+            {
+                "name": "Rock",
+                "url": "/topics/rock"
+            },
+            {
+                "name": "Moon",
+                "url": "/topics/moon"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/anaxagoras_180734",
+        "quote": "Men would live exceedingly quiet if these two words, mine and thine, were taken away.",
+        "author": {
+            "name": "Anaxagoras",
+            "url": "/quotes/anaxagoras_180734"
+        },
+        "topics": [
+            {
+                "name": "Words",
+                "url": "/topics/words"
+            },
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            },
+            {
+                "name": "Mine",
+                "url": "/topics/mine"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/anaxagoras_598117",
+        "quote": "The seed of everything is in everything else.",
+        "author": {
+            "name": "Anaxagoras",
+            "url": "/quotes/anaxagoras_598117"
+        },
+        "topics": [
+            {
+                "name": "Seed",
+                "url": "/topics/seed"
+            },
+            {
+                "name": "Else",
+                "url": "/topics/else"
+            },
+            {
+                "name": "Everything Else",
+                "url": "/topics/everything_else"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/anaxagoras_180735",
+        "quote": "The descent to Hades is the same from every place.",
+        "author": {
+            "name": "Anaxagoras",
+            "url": "/quotes/anaxagoras_180735"
+        },
+        "topics": [
+            {
+                "name": "Place",
+                "url": "/topics/place"
+            },
+            {
+                "name": "Same",
+                "url": "/topics/same"
+            },
+            {
+                "name": "Descent",
+                "url": "/topics/descent"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/anaxagoras_180733",
+        "quote": "It is not I who have lost the Athenians, but the Athenians who have lost me.",
+        "author": {
+            "name": "Anaxagoras",
+            "url": "/quotes/anaxagoras_180733"
+        },
+        "topics": [
+            {
+                "name": "Lost",
+                "url": "/topics/lost"
+            },
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Who",
+                "url": "/topics/who"
+            }
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/c_p_scott_209699",
+        "quote": "The happy combination of fortuitous circumstances.",
+        "author": {
+            "name": "C. P. Scott",
+            "url": "/quotes/c_p_scott_209699"
+        },
+        "topics": [
+            {
+                "name": "Circumstances",
+                "url": "/topics/circumstances"
+            },
+            {
+                "name": "Fortuitous",
+                "url": "/topics/fortuitous"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/c_p_scott_209698",
+        "quote": "Television? The word is half Greek, half Latin. No good can come of it.",
+        "author": {
+            "name": "C. P. Scott",
+            "url": "/quotes/c_p_scott_209698"
+        },
+        "topics": [
+            {
+                "name": "Television",
+                "url": "/topics/television"
+            },
+            {
+                "name": "Half",
+                "url": "/topics/half"
+            },
+            {
+                "name": "Greek",
+                "url": "/topics/greek"
+            }
+        ]
+    }
+]

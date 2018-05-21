@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/michael_malone_400150",
+        "quote": "I think the greatest taboos in America are faith and failure.",
+        "author": {
+            "name": "Michael Malone",
+            "url": "/quotes/michael_malone_400150"
+        },
+        "topics": [
+            {
+                "name": "Faith",
+                "url": "/topics/faith"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/michael_malone_406488",
+        "quote": "It's especially important since September 11 for people to be trained for the unexpected. We want to try to make sure people are safe.",
+        "author": {
+            "name": "Michael Malone",
+            "url": "/quotes/michael_malone_406488"
+        },
+        "topics": [
+            {
+                "name": "Unexpected",
+                "url": "/topics/unexpected"
+            },
+            {
+                "name": "Sure",
+                "url": "/topics/sure"
+            },
+            {
+                "name": "Trained",
+                "url": "/topics/trained"
+            }
+        ]
+    }
+]

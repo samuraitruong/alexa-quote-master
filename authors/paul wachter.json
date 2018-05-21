@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/paul_wachter_747928",
+        "quote": "Go where you add value. Don't look for places where you're just like everybody else.",
+        "author": {
+            "name": "Paul Wachter",
+            "url": "/quotes/paul_wachter_747928"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Everybody",
+                "url": "/topics/everybody"
+            },
+            {
+                "name": "Add",
+                "url": "/topics/add"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_wachter_747929",
+        "quote": "Math people are math people. When you approach them with investments and business, they don't just ask the soft questions but eventually get to the hard questions.",
+        "author": {
+            "name": "Paul Wachter",
+            "url": "/quotes/paul_wachter_747929"
+        },
+        "topics": [
+            {
+                "name": "Business",
+                "url": "/topics/business"
+            },
+            {
+                "name": "Questions",
+                "url": "/topics/questions"
+            },
+            {
+                "name": "Them",
+                "url": "/topics/them"
+            }
+        ]
+    }
+]

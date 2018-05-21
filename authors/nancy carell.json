@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/nancy_carell_745480",
+        "quote": "What I don't miss is living in a small town where everybody knows you, your family, and what you ate for breakfast.",
+        "author": {
+            "name": "Nancy Carell",
+            "url": "/quotes/nancy_carell_745480"
+        },
+        "topics": [
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Living",
+                "url": "/topics/living"
+            },
+            {
+                "name": "Everybody",
+                "url": "/topics/everybody"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nancy_carell_745481",
+        "quote": "I'm a terrible cook, but I make very good lobster salad.",
+        "author": {
+            "name": "Nancy Carell",
+            "url": "/quotes/nancy_carell_745481"
+        },
+        "topics": [
+            {
+                "name": "Salad",
+                "url": "/topics/salad"
+            },
+            {
+                "name": "Cook",
+                "url": "/topics/cook"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/rumer_godden_113524",
+        "quote": "The stitch of a book is its words.",
+        "author": {
+            "name": "Rumer Godden",
+            "url": "/quotes/rumer_godden_113524"
+        },
+        "topics": [
+            {
+                "name": "Book",
+                "url": "/topics/book"
+            },
+            {
+                "name": "Words",
+                "url": "/topics/words"
+            },
+            {
+                "name": "Stitch",
+                "url": "/topics/stitch"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rumer_godden_117249",
+        "quote": "If books were Persian carpets, one would not look only at the outer side. because it is the stitch that makes a carpet wear, gives it its life and bloom.",
+        "author": {
+            "name": "Rumer Godden",
+            "url": "/quotes/rumer_godden_117249"
+        },
+        "topics": [
+            {
+                "name": "Side",
+                "url": "/topics/side"
+            },
+            {
+                "name": "Stitch",
+                "url": "/topics/stitch"
+            },
+            {
+                "name": "Outer",
+                "url": "/topics/outer"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rumer_godden_113521",
+        "quote": "The motto was 'Pax', but the word was set in a circle of thorns.",
+        "author": {
+            "name": "Rumer Godden",
+            "url": "/quotes/rumer_godden_113521"
+        },
+        "topics": [
+            {
+                "name": "Motto",
+                "url": "/topics/motto"
+            },
+            {
+                "name": "Thorns",
+                "url": "/topics/thorns"
+            },
+            {
+                "name": "Set",
+                "url": "/topics/set"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rumer_godden_117248",
+        "quote": "For a dyed-in-the-wool author, nothing is as dead as a book once it is written. She is rather like a cat whose kittens have grown up.",
+        "author": {
+            "name": "Rumer Godden",
+            "url": "/quotes/rumer_godden_117248"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Author",
+                "url": "/topics/author"
+            },
+            {
+                "name": "Rather",
+                "url": "/topics/rather"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/sam_francis_190704",
+        "quote": "An increase in light gives an increase in darkness.",
+        "author": {
+            "name": "Sam Francis",
+            "url": "/quotes/sam_francis_190704"
+        },
+        "topics": [
+            {
+                "name": "Light",
+                "url": "/topics/light"
+            },
+            {
+                "name": "Darkness",
+                "url": "/topics/darkness"
+            },
+            {
+                "name": "Increase",
+                "url": "/topics/increase"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sam_francis_190705",
+        "quote": "Color is born of the interpenetration of light and dark.",
+        "author": {
+            "name": "Sam Francis",
+            "url": "/quotes/sam_francis_190705"
+        },
+        "topics": [
+            {
+                "name": "Light",
+                "url": "/topics/light"
+            },
+            {
+                "name": "Color",
+                "url": "/topics/color"
+            },
+            {
+                "name": "Born",
+                "url": "/topics/born"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sam_francis_190706",
+        "quote": "What we want is to make something that fills utterly the sight and can't be used to make life only bearable.",
+        "author": {
+            "name": "Sam Francis",
+            "url": "/quotes/sam_francis_190706"
+        },
+        "topics": [
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Sight",
+                "url": "/topics/sight"
+            },
+            {
+                "name": "Utterly",
+                "url": "/topics/utterly"
+            }
+        ]
+    }
+]

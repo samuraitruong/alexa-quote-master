@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/colman_mccarthy_108405",
+        "quote": "Everyone's a pacifist between wars. It's like being a vegetarian between meals.",
+        "author": {
+            "name": "Colman McCarthy",
+            "url": "/quotes/colman_mccarthy_108405"
+        },
+        "topics": [
+            {
+                "name": "Vegetarian",
+                "url": "/topics/vegetarian"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Everyone",
+                "url": "/topics/everyone"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/colman_mccarthy_135201",
+        "quote": "Warmaking doesn't stop warmaking. If it did, our problems would have stopped millennia ago.",
+        "author": {
+            "name": "Colman McCarthy",
+            "url": "/quotes/colman_mccarthy_135201"
+        },
+        "topics": [
+            {
+                "name": "Stop",
+                "url": "/topics/stop"
+            },
+            {
+                "name": "Stopped",
+                "url": "/topics/stopped"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            }
+        ]
+    }
+]

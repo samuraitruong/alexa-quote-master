@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/anthony_atala_553148",
+        "quote": "When a patient does get an organ from another person, it comes from a different body. It has different properties, and a person's natural tendency is to reject that organ.",
+        "author": {
+            "name": "Anthony Atala",
+            "url": "/quotes/anthony_atala_553148"
+        },
+        "topics": [
+            {
+                "name": "Natural",
+                "url": "/topics/natural"
+            },
+            {
+                "name": "Organ",
+                "url": "/topics/organ"
+            },
+            {
+                "name": "Tendency",
+                "url": "/topics/tendency"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/anthony_atala_553147",
+        "quote": "Building a solid organ like the liver in the lab is different and harder than with an organ like the bladder because solid organs are very vascular.",
+        "author": {
+            "name": "Anthony Atala",
+            "url": "/quotes/anthony_atala_553147"
+        },
+        "topics": [
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Organ",
+                "url": "/topics/organ"
+            },
+            {
+                "name": "Organs",
+                "url": "/topics/organs"
+            }
+        ]
+    }
+]

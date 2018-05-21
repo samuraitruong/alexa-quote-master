@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/erin_daniels_561296",
+        "quote": "I don't pick roles based on how famous they are going to make me; I pick roles based on how they're going to inspire me intellectually.",
+        "author": {
+            "name": "Erin Daniels",
+            "url": "/quotes/erin_daniels_561296"
+        },
+        "topics": [
+            {
+                "name": "Famous",
+                "url": "/topics/famous"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Based",
+                "url": "/topics/based"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/erin_daniels_655643",
+        "quote": "I love a good steak with a great glass of red wine. But for the TV watching, laying around doing nothing kinds of days, nothing beats a pepperoni pizza and chocolate Haagen Daas.",
+        "author": {
+            "name": "Erin Daniels",
+            "url": "/quotes/erin_daniels_655643"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Glass",
+                "url": "/topics/glass"
+            },
+            {
+                "name": "TV",
+                "url": "/topics/tv"
+            }
+        ]
+    }
+]

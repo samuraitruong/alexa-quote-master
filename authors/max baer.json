@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/max_baer_242262",
+        "quote": "I define fear as standing across the ring from Joe Louis and knowing he wants to go home early.",
+        "author": {
+            "name": "Max Baer",
+            "url": "/quotes/max_baer_242262"
+        },
+        "topics": [
+            {
+                "name": "Ring",
+                "url": "/topics/ring"
+            },
+            {
+                "name": "Go Home",
+                "url": "/topics/go_home"
+            },
+            {
+                "name": "Joe",
+                "url": "/topics/joe"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/max_baer_242261",
+        "quote": "He hit me 18 times while I was in the act of falling.",
+        "author": {
+            "name": "Max Baer",
+            "url": "/quotes/max_baer_242261"
+        },
+        "topics": [
+            {
+                "name": "Falling",
+                "url": "/topics/falling"
+            },
+            {
+                "name": "Hit",
+                "url": "/topics/hit"
+            },
+            {
+                "name": "Times",
+                "url": "/topics/times"
+            }
+        ]
+    }
+]

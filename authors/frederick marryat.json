@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/frederick_marryat_309364",
+        "quote": "It's just six of one and half-a-dozen of the other.",
+        "author": {
+            "name": "Frederick Marryat",
+            "url": "/quotes/frederick_marryat_309364"
+        },
+        "topics": [
+            {
+                "name": "Just",
+                "url": "/topics/just"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Six",
+                "url": "/topics/six"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/frederick_marryat_310142",
+        "quote": "I would rather write for the instruction, or even the amusement of the poor than for the amusement of the rich.",
+        "author": {
+            "name": "Frederick Marryat",
+            "url": "/quotes/frederick_marryat_310142"
+        },
+        "topics": [
+            {
+                "name": "Rather",
+                "url": "/topics/rather"
+            },
+            {
+                "name": "Even",
+                "url": "/topics/even"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            }
+        ]
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/taisen_deshimaru_388281",
+        "quote": "To receive everything, one must open one's hands and give.",
+        "author": {
+            "name": "Taisen Deshimaru",
+            "url": "/quotes/taisen_deshimaru_388281"
+        },
+        "topics": [
+            {
+                "name": "Hands",
+                "url": "/topics/hands"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            },
+            {
+                "name": "Receive",
+                "url": "/topics/receive"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/taisen_deshimaru_387706",
+        "quote": "Time is not a line, but a series of now-points.",
+        "author": {
+            "name": "Taisen Deshimaru",
+            "url": "/quotes/taisen_deshimaru_387706"
+        },
+        "topics": [
+            {
+                "name": "Time",
+                "url": "/topics/time"
+            },
+            {
+                "name": "Line",
+                "url": "/topics/line"
+            },
+            {
+                "name": "Series",
+                "url": "/topics/series"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/taisen_deshimaru_110259",
+        "quote": "Think with your whole body.",
+        "author": {
+            "name": "Taisen Deshimaru",
+            "url": "/quotes/taisen_deshimaru_110259"
+        },
+        "topics": [
+            {
+                "name": "Inspirational",
+                "url": "/topics/inspirational"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Whole",
+                "url": "/topics/whole"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/taisen_deshimaru_105584",
+        "quote": "If you are not happy here and now, you never will be.",
+        "author": {
+            "name": "Taisen Deshimaru",
+            "url": "/quotes/taisen_deshimaru_105584"
+        },
+        "topics": [
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    }
+]

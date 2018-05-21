@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/andrew_mellon_202302",
+        "quote": "Strong men have sound ideas and the force to make these ideas effective.",
+        "author": {
+            "name": "Andrew Mellon",
+            "url": "/quotes/andrew_mellon_202302"
+        },
+        "topics": [
+            {
+                "name": "Strong",
+                "url": "/topics/strong"
+            },
+            {
+                "name": "Men",
+                "url": "/topics/men"
+            },
+            {
+                "name": "Effective",
+                "url": "/topics/effective"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/andrew_mellon_202301",
+        "quote": "Give tax breaks to large corporations, so that money can trickle down to the general public, in the form of extra jobs.",
+        "author": {
+            "name": "Andrew Mellon",
+            "url": "/quotes/andrew_mellon_202301"
+        },
+        "topics": [
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            },
+            {
+                "name": "Breaks",
+                "url": "/topics/breaks"
+            },
+            {
+                "name": "Large",
+                "url": "/topics/large"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/andrew_mellon_202300",
+        "quote": "A balanced program for tax reform based upon the common sense idea of lowering taxes out of surplus revenues.",
+        "author": {
+            "name": "Andrew Mellon",
+            "url": "/quotes/andrew_mellon_202300"
+        },
+        "topics": [
+            {
+                "name": "Idea",
+                "url": "/topics/idea"
+            },
+            {
+                "name": "Surplus",
+                "url": "/topics/surplus"
+            },
+            {
+                "name": "Based",
+                "url": "/topics/based"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/andrew_mellon_128857",
+        "quote": "Gentlemen prefer bonds.",
+        "author": {
+            "name": "Andrew Mellon",
+            "url": "/quotes/andrew_mellon_128857"
+        },
+        "topics": [
+            {
+                "name": "Bonds",
+                "url": "/topics/bonds"
+            },
+            {
+                "name": "Gentlemen",
+                "url": "/topics/gentlemen"
+            },
+            {
+                "name": "Prefer",
+                "url": "/topics/prefer"
+            }
+        ]
+    }
+]

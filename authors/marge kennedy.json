@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/marge_kennedy_403867",
+        "quote": "Soup is a lot like a family. Each ingredient enhances the others; each batch has its own characteristics; and it needs time to simmer to reach full flavor.",
+        "author": {
+            "name": "Marge Kennedy",
+            "url": "/quotes/marge_kennedy_403867"
+        },
+        "topics": [
+            {
+                "name": "Soup",
+                "url": "/topics/soup"
+            },
+            {
+                "name": "Needs",
+                "url": "/topics/needs"
+            },
+            {
+                "name": "Characteristics",
+                "url": "/topics/characteristics"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marge_kennedy_403929",
+        "quote": "Everyone needs reminders that the fact of their being on this earth is important and that each life changes everything.",
+        "author": {
+            "name": "Marge Kennedy",
+            "url": "/quotes/marge_kennedy_403929"
+        },
+        "topics": [
+            {
+                "name": "Fact",
+                "url": "/topics/fact"
+            },
+            {
+                "name": "Needs",
+                "url": "/topics/needs"
+            },
+            {
+                "name": "Reminders",
+                "url": "/topics/reminders"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marge_kennedy_403992",
+        "quote": "The informality of family life is a blessed condition that allows us all to become our best while looking our worst.",
+        "author": {
+            "name": "Marge Kennedy",
+            "url": "/quotes/marge_kennedy_403992"
+        },
+        "topics": [
+            {
+                "name": "Best",
+                "url": "/topics/best"
+            },
+            {
+                "name": "Blessed",
+                "url": "/topics/blessed"
+            },
+            {
+                "name": "While",
+                "url": "/topics/while"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marge_kennedy_403991",
+        "quote": "Hard though it may be to accept, remember that guilt is sometimes a friendly internal voice reminding you that you're messing up.",
+        "author": {
+            "name": "Marge Kennedy",
+            "url": "/quotes/marge_kennedy_403991"
+        },
+        "topics": [
+            {
+                "name": "Voice",
+                "url": "/topics/voice"
+            },
+            {
+                "name": "Guilt",
+                "url": "/topics/guilt"
+            },
+            {
+                "name": "Messing",
+                "url": "/topics/messing"
+            }
+        ]
+    }
+]

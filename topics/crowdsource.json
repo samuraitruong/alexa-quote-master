@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/geoff_mulgan_559300?src=t_crowdsource",
+        "quote": "Social innovation thrives on collaboration; on doing things with others, rather than just to them or for them: hence the great interest in new ways of using the web to 'crowdsource' ideas, or the many experiments involving users in designing services.",
+        "author": {
+            "name": "Geoff Mulgan",
+            "url": "/authors/geoff_mulgan"
+        },
+        "topics": [
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Rather",
+                "url": "/topics/rather"
+            },
+            {
+                "name": "Experiments",
+                "url": "/topics/experiments"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/vivek_wadhwa_614546?src=t_crowdsource",
+        "quote": "Writing a book is usually a full-time job that takes years. I didn't have years. So I decided to crowdsource content for the book.",
+        "author": {
+            "name": "Vivek Wadhwa",
+            "url": "/authors/vivek_wadhwa"
+        },
+        "topics": [
+            {
+                "name": "Book",
+                "url": "/topics/book"
+            },
+            {
+                "name": "Years",
+                "url": "/topics/years"
+            },
+            {
+                "name": "Full-Time",
+                "url": "/topics/full-time"
+            }
+        ]
+    }
+]

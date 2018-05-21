@@ -1,0 +1,156 @@
+[
+    {
+        "url": "/quotes/pablo_neruda_162949?src=t_easy_reading",
+        "quote": "The books that help you most are those which make you think that most. The hardest way of learning is that of easy reading; but a great book that comes from a great thinker is a ship of thought, deep freighted with truth and beauty.",
+        "author": {
+            "name": "Pablo Neruda",
+            "url": "/authors/pablo_neruda"
+        },
+        "topics": [
+            {
+                "name": "Inspirational",
+                "url": "/topics/inspirational"
+            },
+            {
+                "name": "Deep",
+                "url": "/topics/deep"
+            },
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nathaniel_hawthorne_108636?src=t_easy_reading",
+        "quote": "Easy reading is damn hard writing.",
+        "author": {
+            "name": "Nathaniel Hawthorne",
+            "url": "/authors/nathaniel_hawthorne"
+        },
+        "topics": [
+            {
+                "name": "Writing",
+                "url": "/topics/writing"
+            },
+            {
+                "name": "Reading",
+                "url": "/topics/reading"
+            },
+            {
+                "name": "Damn",
+                "url": "/topics/damn"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/m_h_abrams_290592?src=t_easy_reading",
+        "quote": "Hard work makes easy reading or, at least, easier reading.",
+        "author": {
+            "name": "M. H. Abrams",
+            "url": "/authors/m_h_abrams"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Makes",
+                "url": "/topics/makes"
+            },
+            {
+                "name": "Least",
+                "url": "/topics/least"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/maya_angelou_578768?src=t_easy_reading",
+        "quote": "Easy reading is damn hard writing. But if it's right, it's easy. It's the other way round, too. If it's slovenly written, then it's hard to read. It doesn't give the reader what the careful writer can give the reader.",
+        "author": {
+            "name": "Maya Angelou",
+            "url": "/authors/maya_angelou"
+        },
+        "topics": [
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Read",
+                "url": "/topics/read"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/wallace_stegner_124747?src=t_easy_reading",
+        "quote": "Hard writing makes easy reading.",
+        "author": {
+            "name": "Wallace Stegner",
+            "url": "/authors/wallace_stegner"
+        },
+        "topics": [
+            {
+                "name": "Writing",
+                "url": "/topics/writing"
+            },
+            {
+                "name": "Reading",
+                "url": "/topics/reading"
+            },
+            {
+                "name": "Makes",
+                "url": "/topics/makes"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/georgina_chapman_477187?src=t_easy_reading",
+        "quote": "I read a lot of thrillers because they're easy reading and I'm not a great flier. They take my head out of it. I like the fast pace and that you can't put them down.",
+        "author": {
+            "name": "Georgina Chapman",
+            "url": "/authors/georgina_chapman"
+        },
+        "topics": [
+            {
+                "name": "Pace",
+                "url": "/topics/pace"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Read",
+                "url": "/topics/read"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gilbert_murray_381367?src=t_easy_reading",
+        "quote": "Few of the great works of ancient Greek literature are easy reading.",
+        "author": {
+            "name": "Gilbert Murray",
+            "url": "/authors/gilbert_murray"
+        },
+        "topics": [
+            {
+                "name": "Literature",
+                "url": "/topics/literature"
+            },
+            {
+                "name": "Works",
+                "url": "/topics/works"
+            },
+            {
+                "name": "Greek",
+                "url": "/topics/greek"
+            }
+        ]
+    }
+]

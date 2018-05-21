@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/jim_bouton_104216",
+        "quote": "You spend a good piece of your life gripping a baseball and in the end it turns out that it was the other way around all the time.",
+        "author": {
+            "name": "Jim Bouton",
+            "url": "/quotes/jim_bouton_104216"
+        },
+        "topics": [
+            {
+                "name": "Sports",
+                "url": "/topics/sports"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Your",
+                "url": "/topics/your"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jim_bouton_104227",
+        "quote": "Baseball players are smarter than football players. How often do you see a baseball team penalized for too many men on the field?",
+        "author": {
+            "name": "Jim Bouton",
+            "url": "/quotes/jim_bouton_104227"
+        },
+        "topics": [
+            {
+                "name": "Sports",
+                "url": "/topics/sports"
+            },
+            {
+                "name": "Players",
+                "url": "/topics/players"
+            },
+            {
+                "name": "Often",
+                "url": "/topics/often"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jim_bouton_163890",
+        "quote": "Forget goals. Value the process.",
+        "author": {
+            "name": "Jim Bouton",
+            "url": "/quotes/jim_bouton_163890"
+        },
+        "topics": [
+            {
+                "name": "Value",
+                "url": "/topics/value"
+            },
+            {
+                "name": "Process",
+                "url": "/topics/process"
+            },
+            {
+                "name": "Forget",
+                "url": "/topics/forget"
+            }
+        ]
+    }
+]

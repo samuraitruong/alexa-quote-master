@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/maria_schell_338737",
+        "quote": "Peace is when time doesn't matter as it passes by.",
+        "author": {
+            "name": "Maria Schell",
+            "url": "/quotes/maria_schell_338737"
+        },
+        "topics": [
+            {
+                "name": "Time",
+                "url": "/topics/time"
+            },
+            {
+                "name": "Peace",
+                "url": "/topics/peace"
+            },
+            {
+                "name": "Passes",
+                "url": "/topics/passes"
+            }
+        ]
+    }
+]

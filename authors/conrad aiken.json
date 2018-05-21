@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/conrad_aiken_201105",
+        "quote": "All lovely things will have an ending, All lovely things will fade and die; And youth, that's now so bravely spending, Will beg a penny by and by.",
+        "author": {
+            "name": "Conrad Aiken",
+            "url": "/quotes/conrad_aiken_201105"
+        },
+        "topics": [
+            {
+                "name": "Die",
+                "url": "/topics/die"
+            },
+            {
+                "name": "Lovely",
+                "url": "/topics/lovely"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/conrad_aiken_201104",
+        "quote": "I love you, what star do you live on?",
+        "author": {
+            "name": "Conrad Aiken",
+            "url": "/quotes/conrad_aiken_201104"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Star",
+                "url": "/topics/star"
+            },
+            {
+                "name": "I Love",
+                "url": "/topics/i_love"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/conrad_aiken_201102",
+        "quote": "Music I heard with you was more than music, and bread I broke with you was more than bread. Now that I am without you, all is desolate; all that was once so beautiful is dead.",
+        "author": {
+            "name": "Conrad Aiken",
+            "url": "/quotes/conrad_aiken_201102"
+        },
+        "topics": [
+            {
+                "name": "Bread",
+                "url": "/topics/bread"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Broke",
+                "url": "/topics/broke"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/conrad_aiken_201103",
+        "quote": "Separate we come, and separate we go, And this be it known, is all that we know.",
+        "author": {
+            "name": "Conrad Aiken",
+            "url": "/quotes/conrad_aiken_201103"
+        },
+        "topics": [
+            {
+                "name": "Go",
+                "url": "/topics/go"
+            },
+            {
+                "name": "Separate",
+                "url": "/topics/separate"
+            },
+            {
+                "name": "Known",
+                "url": "/topics/known"
+            }
+        ]
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/phaneesh_murthy_625688",
+        "quote": "I'm lucky because I have the ability to look at the brighter side of life.",
+        "author": {
+            "name": "Phaneesh Murthy",
+            "url": "/quotes/phaneesh_murthy_625688"
+        },
+        "topics": [
+            {
+                "name": "Lucky",
+                "url": "/topics/lucky"
+            },
+            {
+                "name": "Side",
+                "url": "/topics/side"
+            },
+            {
+                "name": "Brighter",
+                "url": "/topics/brighter"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/phaneesh_murthy_625686",
+        "quote": "Lot of companies are looking for advisory work on business strategy, restructuring work.",
+        "author": {
+            "name": "Phaneesh Murthy",
+            "url": "/quotes/phaneesh_murthy_625686"
+        },
+        "topics": [
+            {
+                "name": "Lot",
+                "url": "/topics/lot"
+            },
+            {
+                "name": "Companies",
+                "url": "/topics/companies"
+            },
+            {
+                "name": "Advisory",
+                "url": "/topics/advisory"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/phaneesh_murthy_625687",
+        "quote": "Somebody once told me that self-punishment is worse than any other punishment.",
+        "author": {
+            "name": "Phaneesh Murthy",
+            "url": "/quotes/phaneesh_murthy_625687"
+        },
+        "topics": [
+            {
+                "name": "Punishment",
+                "url": "/topics/punishment"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Once",
+                "url": "/topics/once"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/phaneesh_murthy_625689",
+        "quote": "I have met so many people who are negative, and it tells on their attitude towards life and towards everything.",
+        "author": {
+            "name": "Phaneesh Murthy",
+            "url": "/quotes/phaneesh_murthy_625689"
+        },
+        "topics": [
+            {
+                "name": "People",
+                "url": "/topics/people"
+            },
+            {
+                "name": "Towards",
+                "url": "/topics/towards"
+            },
+            {
+                "name": "Many",
+                "url": "/topics/many"
+            }
+        ]
+    }
+]

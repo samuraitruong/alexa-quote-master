@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/mindy_sterling_502056",
+        "quote": "It is so important to talk about your cancer and the feelings you have about it.",
+        "author": {
+            "name": "Mindy Sterling",
+            "url": "/quotes/mindy_sterling_502056"
+        },
+        "topics": [
+            {
+                "name": "Important",
+                "url": "/topics/important"
+            },
+            {
+                "name": "Talk",
+                "url": "/topics/talk"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mindy_sterling_502057",
+        "quote": "I know it was harder for me taking care of my dad during his cancer than it was going through my own. You feel more helpless as a caregiver.",
+        "author": {
+            "name": "Mindy Sterling",
+            "url": "/quotes/mindy_sterling_502057"
+        },
+        "topics": [
+            {
+                "name": "My Own",
+                "url": "/topics/my_own"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mindy_sterling_502058",
+        "quote": "Breast cancer is scary and no one understands that like another woman who has gone through it too.",
+        "author": {
+            "name": "Mindy Sterling",
+            "url": "/quotes/mindy_sterling_502058"
+        },
+        "topics": [
+            {
+                "name": "Woman",
+                "url": "/topics/woman"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    }
+]

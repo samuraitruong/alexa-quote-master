@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/mike_butcher_405511",
+        "quote": "We're looking for a guy that can step it up.",
+        "author": {
+            "name": "Mike Butcher",
+            "url": "/quotes/mike_butcher_405511"
+        },
+        "topics": [
+            {
+                "name": "Step",
+                "url": "/topics/step"
+            },
+            {
+                "name": "Looking",
+                "url": "/topics/looking"
+            },
+            {
+                "name": "Guy",
+                "url": "/topics/guy"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mike_butcher_405512",
+        "quote": "You can not be afraid when you get to this level to teach. I don't care what level you're at, if you don't teach, you're worthless.",
+        "author": {
+            "name": "Mike Butcher",
+            "url": "/quotes/mike_butcher_405512"
+        },
+        "topics": [
+            {
+                "name": "Afraid",
+                "url": "/topics/afraid"
+            },
+            {
+                "name": "Worthless",
+                "url": "/topics/worthless"
+            },
+            {
+                "name": "Level",
+                "url": "/topics/level"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mike_butcher_405513",
+        "quote": "You give them recommendations. You throw different angles at them where, hopefully, they can get something out of it.",
+        "author": {
+            "name": "Mike Butcher",
+            "url": "/quotes/mike_butcher_405513"
+        },
+        "topics": [
+            {
+                "name": "Angles",
+                "url": "/topics/angles"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            },
+            {
+                "name": "Them",
+                "url": "/topics/them"
+            }
+        ]
+    }
+]

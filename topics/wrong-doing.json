@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/buddha_133656?src=t_wrong-doing",
+        "quote": "All wrong-doing arises because of mind. If mind is transformed can wrong-doing remain?",
+        "author": {
+            "name": "Buddha",
+            "url": "/authors/buddha"
+        },
+        "topics": [
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Remain",
+                "url": "/topics/remain"
+            },
+            {
+                "name": "Arises",
+                "url": "/topics/arises"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/epictetus_402917?src=t_wrong-doing",
+        "quote": "If thy brother wrongs thee, remember not so much his wrong-doing, but more than ever that he is thy brother.",
+        "author": {
+            "name": "Epictetus",
+            "url": "/authors/epictetus"
+        },
+        "topics": [
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Thy",
+                "url": "/topics/thy"
+            },
+            {
+                "name": "Thee",
+                "url": "/topics/thee"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edward_snowden_551870?src=t_wrong-doing",
+        "quote": "Citizens with a conscience are not going to ignore wrong-doing simply because they'll be destroyed for it: the conscience forbids it.",
+        "author": {
+            "name": "Edward Snowden",
+            "url": "/authors/edward_snowden"
+        },
+        "topics": [
+            {
+                "name": "Conscience",
+                "url": "/topics/conscience"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Destroyed",
+                "url": "/topics/destroyed"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henry_david_thoreau_395597?src=t_wrong-doing",
+        "quote": "Truth is always in harmony with herself, and is not concerned chiefly to reveal the justice that may consist with wrong-doing.",
+        "author": {
+            "name": "Henry David Thoreau",
+            "url": "/authors/henry_david_thoreau"
+        },
+        "topics": [
+            {
+                "name": "Truth",
+                "url": "/topics/truth"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Harmony",
+                "url": "/topics/harmony"
+            }
+        ]
+    }
+]

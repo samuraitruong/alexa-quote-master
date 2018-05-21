@@ -1,0 +1,130 @@
+[
+    {
+        "url": "/quotes/john_fairchild_616005",
+        "quote": "I have learned in fashion to be a little savage.",
+        "author": {
+            "name": "John Fairchild",
+            "url": "/quotes/john_fairchild_616005"
+        },
+        "topics": [
+            {
+                "name": "I Have Learned",
+                "url": "/topics/i_have_learned"
+            },
+            {
+                "name": "Learned",
+                "url": "/topics/learned"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_fairchild_616007",
+        "quote": "I find it an exhausting experience, personally, to go to a party every night.",
+        "author": {
+            "name": "John Fairchild",
+            "url": "/quotes/john_fairchild_616007"
+        },
+        "topics": [
+            {
+                "name": "Night",
+                "url": "/topics/night"
+            },
+            {
+                "name": "Find",
+                "url": "/topics/find"
+            },
+            {
+                "name": "Personally",
+                "url": "/topics/personally"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_fairchild_616006",
+        "quote": "People say 'Women's Wear' is a scandalous, gossipy publication. Sure we have gossip; we also have some very, very solid business stories. We are a creation of this business, which is fast, mean, tough, sometimes artistic, sometimes horrible.",
+        "author": {
+            "name": "John Fairchild",
+            "url": "/quotes/john_fairchild_616006"
+        },
+        "topics": [
+            {
+                "name": "Sometimes",
+                "url": "/topics/sometimes"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_fairchild_616008",
+        "quote": "I can't stand the idea of missing something. I've got to know what's going on - it's like an animal instinct with me.",
+        "author": {
+            "name": "John Fairchild",
+            "url": "/quotes/john_fairchild_616008"
+        },
+        "topics": [
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Idea",
+                "url": "/topics/idea"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_fairchild_616009",
+        "quote": "My new life is being with my wife without any interference, and the children come see us every once in a while.",
+        "author": {
+            "name": "John Fairchild",
+            "url": "/quotes/john_fairchild_616009"
+        },
+        "topics": [
+            {
+                "name": "Wife",
+                "url": "/topics/wife"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Come",
+                "url": "/topics/come"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_fairchild_616010",
+        "quote": "At 'Women's Wear', I always said, 'Get it first - get the bacon.'",
+        "author": {
+            "name": "John Fairchild",
+            "url": "/quotes/john_fairchild_616010"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Bacon",
+                "url": "/topics/bacon"
+            },
+            {
+                "name": "Get",
+                "url": "/topics/get"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/stella_blum_110645",
+        "quote": "After World War II society had to settle back for a moment before it picked up the 20th century.",
+        "author": {
+            "name": "Stella Blum",
+            "url": "/quotes/stella_blum_110645"
+        },
+        "topics": [
+            {
+                "name": "War",
+                "url": "/topics/war"
+            },
+            {
+                "name": "Settle",
+                "url": "/topics/settle"
+            },
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/stella_blum_110646",
+        "quote": "Fashion is so close in revealing a person's inner feelings and everybody seems to hate to lay claim to vanity so people tend to push it away. It's really too close to the quick of the soul.",
+        "author": {
+            "name": "Stella Blum",
+            "url": "/quotes/stella_blum_110646"
+        },
+        "topics": [
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            },
+            {
+                "name": "Quick",
+                "url": "/topics/quick"
+            },
+            {
+                "name": "Everybody",
+                "url": "/topics/everybody"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/stella_blum_116966",
+        "quote": "Fashion is a social agreement. the result of a consensus of a large group of people.",
+        "author": {
+            "name": "Stella Blum",
+            "url": "/quotes/stella_blum_116966"
+        },
+        "topics": [
+            {
+                "name": "Result",
+                "url": "/topics/result"
+            },
+            {
+                "name": "Agreement",
+                "url": "/topics/agreement"
+            },
+            {
+                "name": "Consensus",
+                "url": "/topics/consensus"
+            }
+        ]
+    }
+]

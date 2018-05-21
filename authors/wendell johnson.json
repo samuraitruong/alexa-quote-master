@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/wendell_johnson_171130",
+        "quote": "Always and never are two words you should always remember never to use.",
+        "author": {
+            "name": "Wendell Johnson",
+            "url": "/quotes/wendell_johnson_171130"
+        },
+        "topics": [
+            {
+                "name": "Remember",
+                "url": "/topics/remember"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/wendell_johnson_381931",
+        "quote": "While waiting for a Moses to lead us into the promised land, we have forgotten how to walk.",
+        "author": {
+            "name": "Wendell Johnson",
+            "url": "/quotes/wendell_johnson_381931"
+        },
+        "topics": [
+            {
+                "name": "Waiting",
+                "url": "/topics/waiting"
+            },
+            {
+                "name": "Forgotten",
+                "url": "/topics/forgotten"
+            },
+            {
+                "name": "How",
+                "url": "/topics/how"
+            }
+        ]
+    }
+]

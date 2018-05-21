@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/ron_kovic_609178",
+        "quote": "I am the living death, a Memorial Day on wheels. I am your Yankee Doodle Dandy, your John Wayne come home, your Fourth of July firecracker exploding in the grave.",
+        "author": {
+            "name": "Ron Kovic",
+            "url": "/quotes/ron_kovic_609178"
+        },
+        "topics": [
+            {
+                "name": "Wheels",
+                "url": "/topics/wheels"
+            },
+            {
+                "name": "Yankee",
+                "url": "/topics/yankee"
+            },
+            {
+                "name": "John Wayne",
+                "url": "/topics/john_wayne"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ron_kovic_609179",
+        "quote": "I served two tours of duty in Vietnam. I won the Bronze Star. I won the Purple Heart.",
+        "author": {
+            "name": "Ron Kovic",
+            "url": "/quotes/ron_kovic_609179"
+        },
+        "topics": [
+            {
+                "name": "Star",
+                "url": "/topics/star"
+            },
+            {
+                "name": "Served",
+                "url": "/topics/served"
+            },
+            {
+                "name": "Won",
+                "url": "/topics/won"
+            }
+        ]
+    }
+]

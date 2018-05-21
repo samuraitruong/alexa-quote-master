@@ -1,0 +1,134 @@
+[
+    {
+        "url": "/quotes/leo_tolstoy_109611?src=t_handicraft",
+        "quote": "Art is not a handicraft, it is the transmission of feeling the artist has experienced.",
+        "author": {
+            "name": "Leo Tolstoy",
+            "url": "/authors/leo_tolstoy"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Artist",
+                "url": "/topics/artist"
+            },
+            {
+                "name": "Transmission",
+                "url": "/topics/transmission"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lewis_mumford_384501?src=t_handicraft",
+        "quote": "To curb the machine and limit art to handicraft is a denial of opportunity.",
+        "author": {
+            "name": "Lewis Mumford",
+            "url": "/authors/lewis_mumford"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Denial",
+                "url": "/topics/denial"
+            },
+            {
+                "name": "Machine",
+                "url": "/topics/machine"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/liberty_hyde_bailey_198918?src=t_handicraft",
+        "quote": "Every decade needs its own manual of handicraft.",
+        "author": {
+            "name": "Liberty Hyde Bailey",
+            "url": "/authors/liberty_hyde_bailey"
+        },
+        "topics": [
+            {
+                "name": "Decade",
+                "url": "/topics/decade"
+            },
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            },
+            {
+                "name": "Needs",
+                "url": "/topics/needs"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/arthur_lewis_724538?src=t_handicraft",
+        "quote": "Trade allegedly does not foster growth because when it begins, a flood of imports of factory origin destroys the handicraft manufacturing of the less developed country: the models for this are the effects of British exports of textiles and of iron in India and Chile in the first half of the nineteenth century.",
+        "author": {
+            "name": "Arthur Lewis",
+            "url": "/authors/arthur_lewis"
+        },
+        "topics": [
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Exports",
+                "url": "/topics/exports"
+            },
+            {
+                "name": "Half",
+                "url": "/topics/half"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marshall_mcluhan_103336?src=t_handicraft",
+        "quote": "Ideally, advertising aims at the goal of a programmed harmony among all human impulses and aspirations and endeavors. Using handicraft methods, it stretches out toward the ultimate electronic goal of a collective consciousness.",
+        "author": {
+            "name": "Marshall McLuhan",
+            "url": "/authors/marshall_mcluhan"
+        },
+        "topics": [
+            {
+                "name": "Harmony",
+                "url": "/topics/harmony"
+            },
+            {
+                "name": "Using",
+                "url": "/topics/using"
+            },
+            {
+                "name": "Aims",
+                "url": "/topics/aims"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nathalie_sarraute_306010?src=t_handicraft",
+        "quote": "Television has lifted the manufacture of banality out of the sphere of handicraft and placed it in that of a major industry.",
+        "author": {
+            "name": "Nathalie Sarraute",
+            "url": "/authors/nathalie_sarraute"
+        },
+        "topics": [
+            {
+                "name": "Major",
+                "url": "/topics/major"
+            },
+            {
+                "name": "Manufacture",
+                "url": "/topics/manufacture"
+            },
+            {
+                "name": "Placed",
+                "url": "/topics/placed"
+            }
+        ]
+    }
+]

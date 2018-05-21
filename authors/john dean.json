@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/john_dean_400338",
+        "quote": "We are all encouraged that Bush appears, really for the first time in his experience on the stage of presidential politics, relaxed. His comfort is our comfort.",
+        "author": {
+            "name": "John Dean",
+            "url": "/quotes/john_dean_400338"
+        },
+        "topics": [
+            {
+                "name": "Politics",
+                "url": "/topics/politics"
+            },
+            {
+                "name": "Bush",
+                "url": "/topics/bush"
+            },
+            {
+                "name": "Appears",
+                "url": "/topics/appears"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_dean_117078",
+        "quote": "I began by telling the president that there was a cancer growing on the presidency and that if the cancer was not removed the president himself would be killed by it.",
+        "author": {
+            "name": "John Dean",
+            "url": "/quotes/john_dean_117078"
+        },
+        "topics": [
+            {
+                "name": "Growing",
+                "url": "/topics/growing"
+            },
+            {
+                "name": "Presidency",
+                "url": "/topics/presidency"
+            },
+            {
+                "name": "Telling",
+                "url": "/topics/telling"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_dean_388158",
+        "quote": "Bill Rehnquist makes Barry Goldwater look like a liberal.",
+        "author": {
+            "name": "John Dean",
+            "url": "/quotes/john_dean_388158"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Makes",
+                "url": "/topics/makes"
+            },
+            {
+                "name": "Barry",
+                "url": "/topics/barry"
+            }
+        ]
+    }
+]

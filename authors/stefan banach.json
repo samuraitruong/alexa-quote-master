@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/stefan_banach_311403",
+        "quote": "Mathematics is the most beautiful and most powerful creation of the human spirit.",
+        "author": {
+            "name": "Stefan Banach",
+            "url": "/quotes/stefan_banach_311403"
+        },
+        "topics": [
+            {
+                "name": "Beautiful",
+                "url": "/topics/beautiful"
+            },
+            {
+                "name": "Powerful",
+                "url": "/topics/powerful"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/stefan_banach_311401",
+        "quote": "A mathematician is a person who can find analogies between theorems; a better mathematician is one who can see analogies between proofs and the best mathematician can notice analogies between theories.",
+        "author": {
+            "name": "Stefan Banach",
+            "url": "/quotes/stefan_banach_311401"
+        },
+        "topics": [
+            {
+                "name": "Best",
+                "url": "/topics/best"
+            },
+            {
+                "name": "Better",
+                "url": "/topics/better"
+            },
+            {
+                "name": "Mathematician",
+                "url": "/topics/mathematician"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/stefan_banach_311404",
+        "quote": "One can imagine that the ultimate mathematician is one who can see analogies between analogies.",
+        "author": {
+            "name": "Stefan Banach",
+            "url": "/quotes/stefan_banach_311404"
+        },
+        "topics": [
+            {
+                "name": "See",
+                "url": "/topics/see"
+            },
+            {
+                "name": "Imagine",
+                "url": "/topics/imagine"
+            },
+            {
+                "name": "Ultimate",
+                "url": "/topics/ultimate"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/stefan_banach_311402",
+        "quote": "Mathematics is as old as Man.",
+        "author": {
+            "name": "Stefan Banach",
+            "url": "/quotes/stefan_banach_311402"
+        },
+        "topics": [
+            {
+                "name": "Mathematics",
+                "url": "/topics/mathematics"
+            },
+            {
+                "name": "Man",
+                "url": "/topics/man"
+            },
+            {
+                "name": "Old",
+                "url": "/topics/old"
+            }
+        ]
+    }
+]

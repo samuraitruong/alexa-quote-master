@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/red_faber_620160",
+        "quote": "I never resorted to the spitter until I was obliged to. I nearly ruined my arm throwing curves.",
+        "author": {
+            "name": "Red Faber",
+            "url": "/quotes/red_faber_620160"
+        },
+        "topics": [
+            {
+                "name": "Curves",
+                "url": "/topics/curves"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Throwing",
+                "url": "/topics/throwing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/red_faber_620161",
+        "quote": "It's a great honor to me to be named to the Hall of Fame. It's very hard for me to even imagine that I would ever be elected to it.",
+        "author": {
+            "name": "Red Faber",
+            "url": "/quotes/red_faber_620161"
+        },
+        "topics": [
+            {
+                "name": "Imagine",
+                "url": "/topics/imagine"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Named",
+                "url": "/topics/named"
+            }
+        ]
+    }
+]

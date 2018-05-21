@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/david_ferrer_674560",
+        "quote": "You can write 'little beast' if you want, but my name is David Ferrer.",
+        "author": {
+            "name": "David Ferrer",
+            "url": "/quotes/david_ferrer_674560"
+        },
+        "topics": [
+            {
+                "name": "Name",
+                "url": "/topics/name"
+            },
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Beast",
+                "url": "/topics/beast"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_ferrer_674561",
+        "quote": "Tennis doesn't owe me anything. Tennis is one of the fairest sports. It's given me so many extraordinary feelings.",
+        "author": {
+            "name": "David Ferrer",
+            "url": "/quotes/david_ferrer_674561"
+        },
+        "topics": [
+            {
+                "name": "Sports",
+                "url": "/topics/sports"
+            },
+            {
+                "name": "Given",
+                "url": "/topics/given"
+            },
+            {
+                "name": "Many",
+                "url": "/topics/many"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_ferrer_674562",
+        "quote": "I always try and do my best and put out the best and find the best in me, as well. But I'm not thinking about it beforehand.",
+        "author": {
+            "name": "David Ferrer",
+            "url": "/quotes/david_ferrer_674562"
+        },
+        "topics": [
+            {
+                "name": "Best",
+                "url": "/topics/best"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_ferrer_674563",
+        "quote": "Winning a Grand Slam is not something I'll think about.",
+        "author": {
+            "name": "David Ferrer",
+            "url": "/quotes/david_ferrer_674563"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Slam",
+                "url": "/topics/slam"
+            },
+            {
+                "name": "Grand Slam",
+                "url": "/topics/grand_slam"
+            }
+        ]
+    }
+]

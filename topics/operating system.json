@@ -1,0 +1,882 @@
+[
+    {
+        "url": "/quotes/kevin_mitnick_234018?src=t_operating_system",
+        "quote": "Any type of operating system that I wanted to be able to hack, I basically compromised the source code, copied it over to the university because I didn't have enough space on my 200 megabyte hard drive.",
+        "author": {
+            "name": "Kevin Mitnick",
+            "url": "/authors/kevin_mitnick"
+        },
+        "topics": [
+            {
+                "name": "University",
+                "url": "/topics/university"
+            },
+            {
+                "name": "Code",
+                "url": "/topics/code"
+            },
+            {
+                "name": "Copied",
+                "url": "/topics/copied"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/walt_mossberg_814354?src=t_operating_system",
+        "quote": "Though the S8, like all premium Samsung phones, runs Android with the basic Google suite of apps, Samsung keeps trying to duplicate Android functions with its own software. It wants to be a software platform like its rival Apple, but it uses someone else's operating system and core apps. Awkward.",
+        "author": {
+            "name": "Walt Mossberg",
+            "url": "/authors/walt_mossberg"
+        },
+        "topics": [
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "Android",
+                "url": "/topics/android"
+            },
+            {
+                "name": "Functions",
+                "url": "/topics/functions"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gillian_tans_885837?src=t_operating_system",
+        "quote": "A long time ago, we had to build interfaces to connect with other companies, and I thought that was a great idea. The company had to pay a lot of money to build it and basically launched it, but our whole operating system almost broke. So, we couldn't continue it. In the end, I had to go on the train to Paris to explain that I had spent millions.",
+        "author": {
+            "name": "Gillian Tans",
+            "url": "/authors/gillian_tans"
+        },
+        "topics": [
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Explain",
+                "url": "/topics/explain"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/richard_stallman_473479?src=t_operating_system",
+        "quote": "In essence, Chrome OS is the GNU/Linux operating system. However, it is delivered without the usual applications, and rigged up to impede and discourage installing applications.",
+        "author": {
+            "name": "Richard Stallman",
+            "url": "/authors/richard_stallman"
+        },
+        "topics": [
+            {
+                "name": "Essence",
+                "url": "/topics/essence"
+            },
+            {
+                "name": "However",
+                "url": "/topics/however"
+            },
+            {
+                "name": "Usual",
+                "url": "/topics/usual"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/richard_stallman_655288?src=t_operating_system",
+        "quote": "In essence, Chrome OS is the GNU/Linux operating system. However, it is delivered without the usual applications, and rigged up to impede and discourage installing applications. I'd say the problem is in the nature of the job ChromeOS is designed to do.",
+        "author": {
+            "name": "Richard Stallman",
+            "url": "/authors/richard_stallman"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "However",
+                "url": "/topics/however"
+            },
+            {
+                "name": "Usual",
+                "url": "/topics/usual"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tim_daly_706626?src=t_operating_system",
+        "quote": "I appreciate all the devices the Windows people are coming up with, but the operating system... I just want to smash it.",
+        "author": {
+            "name": "Tim Daly",
+            "url": "/authors/tim_daly"
+        },
+        "topics": [
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Windows",
+                "url": "/topics/windows"
+            },
+            {
+                "name": "Devices",
+                "url": "/topics/devices"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jonathan_zittrain_655715?src=t_operating_system",
+        "quote": "The crucial legacy of the personal computer is that anyone can write code for it and give or sell that code to you - and the vendors of the PC and its operating system have no more to say about it than your phone company does about which answering machine you decide to buy.",
+        "author": {
+            "name": "Jonathan Zittrain",
+            "url": "/authors/jonathan_zittrain"
+        },
+        "topics": [
+            {
+                "name": "Legacy",
+                "url": "/topics/legacy"
+            },
+            {
+                "name": "Code",
+                "url": "/topics/code"
+            },
+            {
+                "name": "Crucial",
+                "url": "/topics/crucial"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_ogden_stiers_331206?src=t_operating_system",
+        "quote": "In television you go in with this operating system that it is a crapshoot.",
+        "author": {
+            "name": "David Ogden Stiers",
+            "url": "/authors/david_ogden_stiers"
+        },
+        "topics": [
+            {
+                "name": "Television",
+                "url": "/topics/television"
+            },
+            {
+                "name": "Go",
+                "url": "/topics/go"
+            },
+            {
+                "name": "System",
+                "url": "/topics/system"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jim_barksdale_249480?src=t_operating_system",
+        "quote": "I think they should separate Microsoft's application group from its operating system group.",
+        "author": {
+            "name": "Jim Barksdale",
+            "url": "/authors/jim_barksdale"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "System",
+                "url": "/topics/system"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jim_barksdale_249482?src=t_operating_system",
+        "quote": "I think the touchstone is to give consumers a full, fair choice without the power of a monopoly operating system pushing them in a direction that free competition might or might not achieve.",
+        "author": {
+            "name": "Jim Barksdale",
+            "url": "/authors/jim_barksdale"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lawrence_lessig_333217?src=t_operating_system",
+        "quote": "By the time Apple's Macintosh operating system finally falls into the public domain, there will be no machine that could possibly run it. The term of copyright for software is effectively unlimited.",
+        "author": {
+            "name": "Lawrence Lessig",
+            "url": "/authors/lawrence_lessig"
+        },
+        "topics": [
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Copyright",
+                "url": "/topics/copyright"
+            },
+            {
+                "name": "By The Time",
+                "url": "/topics/by_the_time"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/miguel_de_icaza_232393?src=t_operating_system",
+        "quote": "I think that by October the whole company has to migrate to OpenOffice, and then I think it's by June next year we all migrate to Linux - you don't want to migrate 6,000 people both operating system and office suite in a single jump.",
+        "author": {
+            "name": "Miguel de Icaza",
+            "url": "/authors/miguel_de_icaza"
+        },
+        "topics": [
+            {
+                "name": "Year",
+                "url": "/topics/year"
+            },
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jim_allchin_409959?src=t_operating_system",
+        "quote": "There is no neat distinction between operating system software and the software that runs on top of it.",
+        "author": {
+            "name": "Jim Allchin",
+            "url": "/authors/jim_allchin"
+        },
+        "topics": [
+            {
+                "name": "Top",
+                "url": "/topics/top"
+            },
+            {
+                "name": "System",
+                "url": "/topics/system"
+            },
+            {
+                "name": "Distinction",
+                "url": "/topics/distinction"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/arkady_volozh_622172?src=t_operating_system",
+        "quote": "Yandex originated from a company called Arkadia, which created two search programs under the DOS operating system in 1990.",
+        "author": {
+            "name": "Arkady Volozh",
+            "url": "/authors/arkady_volozh"
+        },
+        "topics": [
+            {
+                "name": "Two",
+                "url": "/topics/two"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Created",
+                "url": "/topics/created"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dennis_ritchie_172475?src=t_operating_system",
+        "quote": "UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity.",
+        "author": {
+            "name": "Dennis Ritchie",
+            "url": "/authors/dennis_ritchie"
+        },
+        "topics": [
+            {
+                "name": "Genius",
+                "url": "/topics/genius"
+            },
+            {
+                "name": "System",
+                "url": "/topics/system"
+            },
+            {
+                "name": "Basically",
+                "url": "/topics/basically"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/virginia_postrel_642965?src=t_operating_system",
+        "quote": "The definition of an 'operating system' is bound to evolve with customer demands and technological possibilities.",
+        "author": {
+            "name": "Virginia Postrel",
+            "url": "/authors/virginia_postrel"
+        },
+        "topics": [
+            {
+                "name": "Possibilities",
+                "url": "/topics/possibilities"
+            },
+            {
+                "name": "Evolve",
+                "url": "/topics/evolve"
+            },
+            {
+                "name": "Bound",
+                "url": "/topics/bound"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_gates_446460?src=t_operating_system",
+        "quote": "There's no magic line between an application and an operating system that some bureaucrat in Washington should draw.",
+        "author": {
+            "name": "Bill Gates",
+            "url": "/authors/bill_gates"
+        },
+        "topics": [
+            {
+                "name": "Magic",
+                "url": "/topics/magic"
+            },
+            {
+                "name": "Line",
+                "url": "/topics/line"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marc_andreessen_529640?src=t_operating_system",
+        "quote": "An awful lot of successful technology companies ended up being in a slightly different market than they started out in. Microsoft started with programming tools, but came out with an operating system. Oracle started doing contracts for the CIA. AOL started out as an online video gaming network.",
+        "author": {
+            "name": "Marc Andreessen",
+            "url": "/authors/marc_andreessen"
+        },
+        "topics": [
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Slightly",
+                "url": "/topics/slightly"
+            },
+            {
+                "name": "Awful Lot",
+                "url": "/topics/awful_lot"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/peter_thiel_710409?src=t_operating_system",
+        "quote": "The next Bill Gates will not start an operating system. The next Larry Page won't start a search engine. The next Mark Zuckerberg won't start a social network company. If you are copying these people, you are not learning from them.",
+        "author": {
+            "name": "Peter Thiel",
+            "url": "/authors/peter_thiel"
+        },
+        "topics": [
+            {
+                "name": "Learning",
+                "url": "/topics/learning"
+            },
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            },
+            {
+                "name": "Network",
+                "url": "/topics/network"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dan_pink_825140?src=t_operating_system",
+        "quote": "Autonomy: the urge to direct our own lives. Mastery: the desire to get better and better at something that matters. Purpose: the yearning to do what we do in the service of something larger than ourselves. These are the building blocks of an entirely new operating system for our businesses.",
+        "author": {
+            "name": "Dan Pink",
+            "url": "/authors/dan_pink"
+        },
+        "topics": [
+            {
+                "name": "Purpose",
+                "url": "/topics/purpose"
+            },
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            },
+            {
+                "name": "Larger",
+                "url": "/topics/larger"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_hawken_637091?src=t_operating_system",
+        "quote": "This planet came with a set of instructions, but we seem to have misplaced them. Civilization needs a new operating system.",
+        "author": {
+            "name": "Paul Hawken",
+            "url": "/authors/paul_hawken"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Needs",
+                "url": "/topics/needs"
+            },
+            {
+                "name": "Instructions",
+                "url": "/topics/instructions"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/steve_wozniak_324717?src=t_operating_system",
+        "quote": "I thought Microsoft did a lot of things that were good and right building parts of the browser into the operating system. Then I thought it out and came up with reasons why it was a monopoly.",
+        "author": {
+            "name": "Steve Wozniak",
+            "url": "/authors/steve_wozniak"
+        },
+        "topics": [
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Why",
+                "url": "/topics/why"
+            },
+            {
+                "name": "Reasons",
+                "url": "/topics/reasons"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/steve_jobs_416880?src=t_operating_system",
+        "quote": "There's no other company that could make a MacBook Air and the reason is that not only do we control the hardware, but we control the operating system. And it is the intimate interaction between the operating system and the hardware that allows us to do that. There is no intimate interaction between Windows and a Dell notebook.",
+        "author": {
+            "name": "Steve Jobs",
+            "url": "/authors/steve_jobs"
+        },
+        "topics": [
+            {
+                "name": "Reason",
+                "url": "/topics/reason"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mark_zuckerberg_739588?src=t_operating_system",
+        "quote": "One of my big regrets is that Facebook hasn't had a major chance to shape the mobile operating system ecosystem.",
+        "author": {
+            "name": "Mark Zuckerberg",
+            "url": "/authors/mark_zuckerberg"
+        },
+        "topics": [
+            {
+                "name": "Chance",
+                "url": "/topics/chance"
+            },
+            {
+                "name": "Shape",
+                "url": "/topics/shape"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/douglas_rushkoff_585212?src=t_operating_system",
+        "quote": "As Apple continues to release new styles of netbooks, laptops, and even desktops with untold movie-watching and game-playing capabilities, I wouldn't be surprised to see the iPhone operating system running on them - and the Macintosh eventually becoming a thing of the past.",
+        "author": {
+            "name": "Douglas Rushkoff",
+            "url": "/authors/douglas_rushkoff"
+        },
+        "topics": [
+            {
+                "name": "Becoming",
+                "url": "/topics/becoming"
+            },
+            {
+                "name": "Running",
+                "url": "/topics/running"
+            },
+            {
+                "name": "Release",
+                "url": "/topics/release"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/clayton_christensen_671368?src=t_operating_system",
+        "quote": "The iPod is a proprietary integrated product, although that is becoming quite modular. You can download your music from Amazon as easily as you can from iTunes. You also see modularity organized around the Android operating system that is growing much faster than the iPhone. So I worry that modularity will do its work on Apple.",
+        "author": {
+            "name": "Clayton Christensen",
+            "url": "/authors/clayton_christensen"
+        },
+        "topics": [
+            {
+                "name": "Becoming",
+                "url": "/topics/becoming"
+            },
+            {
+                "name": "Android",
+                "url": "/topics/android"
+            },
+            {
+                "name": "Your",
+                "url": "/topics/your"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ellen_ullman_849347?src=t_operating_system",
+        "quote": "UNIX always presumes you know what you're doing. You're the human being, after all, and it is a mere operating system.",
+        "author": {
+            "name": "Ellen Ullman",
+            "url": "/authors/ellen_ullman"
+        },
+        "topics": [
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Human Being",
+                "url": "/topics/human_being"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ellen_ullman_849303?src=t_operating_system",
+        "quote": "Closed environments dominated the computing world of the 1970s and early '80s. An operating system written for a Hewlett-Packard computer ran only on H.P. computers; I.B.M. controlled its software from chips up to the user interfaces.",
+        "author": {
+            "name": "Ellen Ullman",
+            "url": "/authors/ellen_ullman"
+        },
+        "topics": [
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "Chips",
+                "url": "/topics/chips"
+            },
+            {
+                "name": "Computing",
+                "url": "/topics/computing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mitch_kapor_690370?src=t_operating_system",
+        "quote": "It became clear to me by 1984 that Microsoft was likely going to be the big winner in the PC software apps and operating system category, partly because of the dynamics of owning and controlling the operating system: that gave you enormous power, and I came to see Bill Gates was fierce competitor.",
+        "author": {
+            "name": "Mitch Kapor",
+            "url": "/authors/mitch_kapor"
+        },
+        "topics": [
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Became",
+                "url": "/topics/became"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/richard_stallman_473490?src=t_operating_system",
+        "quote": "Android is very different from the GNU/Linux operating system because it contains very little of GNU. Indeed, just about the only component in common between Android and GNU/Linux is Linux, the kernel.",
+        "author": {
+            "name": "Richard Stallman",
+            "url": "/authors/richard_stallman"
+        },
+        "topics": [
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Android",
+                "url": "/topics/android"
+            },
+            {
+                "name": "Kernel",
+                "url": "/topics/kernel"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/whitfield_diffie_675956?src=t_operating_system",
+        "quote": "If you depend on a secret for your security, what do you do when the secret is discovered? If it is easy to change, like a cryptographic key, you do so. If it's hard to change, like a cryptographic system or an operating system, you're stuck. You will be vulnerable until you invest the time and money to design another system.",
+        "author": {
+            "name": "Whitfield Diffie",
+            "url": "/authors/whitfield_diffie"
+        },
+        "topics": [
+            {
+                "name": "Depend",
+                "url": "/topics/depend"
+            },
+            {
+                "name": "Invest",
+                "url": "/topics/invest"
+            },
+            {
+                "name": "Discovered",
+                "url": "/topics/discovered"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jamie_zawinski_320505?src=t_operating_system",
+        "quote": "Why should someone have to retrain themselves to use a new application that does the same basic thing as the old application, just because something as trivial as the operating system changed out from under them?",
+        "author": {
+            "name": "Jamie Zawinski",
+            "url": "/authors/jamie_zawinski"
+        },
+        "topics": [
+            {
+                "name": "Why",
+                "url": "/topics/why"
+            },
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            },
+            {
+                "name": "Out",
+                "url": "/topics/out"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eric_s_raymond_233536?src=t_operating_system",
+        "quote": "Thompson and Ritchie were among the first to realize that hardware and compiler technology had become good enough that an entire operating system could be written in C, and by 1978 the whole environment had been successfully ported to several machines of different types.",
+        "author": {
+            "name": "Eric S. Raymond",
+            "url": "/authors/eric_s_raymond"
+        },
+        "topics": [
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Had",
+                "url": "/topics/had"
+            },
+            {
+                "name": "Several",
+                "url": "/topics/several"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marc_andreessen_429633?src=t_operating_system",
+        "quote": "Nokia and Research in Motion needed a modern operating system. They could have bought Palm or Android before Google did, but they didn't. Today, it's probably too late, and at the time they would have been criticized for overpaying, but as they say - shift happens.",
+        "author": {
+            "name": "Marc Andreessen",
+            "url": "/authors/marc_andreessen"
+        },
+        "topics": [
+            {
+                "name": "Too Late",
+                "url": "/topics/too_late"
+            },
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marc_andreessen_433619?src=t_operating_system",
+        "quote": "If the Net becomes the center of the universe, which is what seems to be happening, then the dizzying array of machines that will be plugged into it will virtually guarantee that the specifics of which chip and which operating system you've got will be irrelevant.",
+        "author": {
+            "name": "Marc Andreessen",
+            "url": "/authors/marc_andreessen"
+        },
+        "topics": [
+            {
+                "name": "Guarantee",
+                "url": "/topics/guarantee"
+            },
+            {
+                "name": "Got",
+                "url": "/topics/got"
+            },
+            {
+                "name": "Irrelevant",
+                "url": "/topics/irrelevant"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/guy_kawasaki_458320?src=t_operating_system",
+        "quote": "I have developed a Zen-like approach to the operating systems that people use: 'When you're ready, the right operating system will appear in your life.'",
+        "author": {
+            "name": "Guy Kawasaki",
+            "url": "/authors/guy_kawasaki"
+        },
+        "topics": [
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Right",
+                "url": "/topics/right"
+            },
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/douglas_rushkoff_585168?src=t_operating_system",
+        "quote": "Unlike the Tea Party, who see themselves as the customers of government, people in the Occupy Wall Street movement understand that we are the government. Stated most simply, we are trying to run a 21st-century society on a 13th-century economic operating system. It just doesn't work.",
+        "author": {
+            "name": "Douglas Rushkoff",
+            "url": "/authors/douglas_rushkoff"
+        },
+        "topics": [
+            {
+                "name": "Tea",
+                "url": "/topics/tea"
+            },
+            {
+                "name": "Run",
+                "url": "/topics/run"
+            },
+            {
+                "name": "Occupy",
+                "url": "/topics/occupy"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/douglas_rushkoff_585210?src=t_operating_system",
+        "quote": "The iPad - contrary to the way most people thought about it - is not a tablet computer running the Apple operating system. It's more like a very big iPhone, running the iPhone operating system.",
+        "author": {
+            "name": "Douglas Rushkoff",
+            "url": "/authors/douglas_rushkoff"
+        },
+        "topics": [
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/douglas_rushkoff_585240?src=t_operating_system",
+        "quote": "When Steve Jobs toured Xerox PARC and saw computers running the first operating system that used Windows and a mouse, he assumed he was looking at a new way to work a personal computer. He brought the concept back to Cupertino and created the Mac, then Bill Gates followed suit, and the rest is history.",
+        "author": {
+            "name": "Douglas Rushkoff",
+            "url": "/authors/douglas_rushkoff"
+        },
+        "topics": [
+            {
+                "name": "Concept",
+                "url": "/topics/concept"
+            },
+            {
+                "name": "Brought",
+                "url": "/topics/brought"
+            },
+            {
+                "name": "Xerox",
+                "url": "/topics/xerox"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/aung_san_suu_kyi_464217?src=t_operating_system",
+        "quote": "I learned to work on a computer years before I was placed under house arrest. Fortunately I had two laptops when I was under house arrest - one an Apple and one a different operating system. I was very proud of that because I know how to use both systems.",
+        "author": {
+            "name": "Aung San Suu Kyi",
+            "url": "/authors/aung_san_suu_kyi"
+        },
+        "topics": [
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Placed",
+                "url": "/topics/placed"
+            },
+            {
+                "name": "Arrest",
+                "url": "/topics/arrest"
+            }
+        ]
+    }
+]

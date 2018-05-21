@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/john_sutter_202499",
+        "quote": "In a private room he showed me the first specimens of gold, that is he was not certain if it was gold or not, but he thought it might be; immediately I made the proof and found that it was gold.",
+        "author": {
+            "name": "John Sutter",
+            "url": "/quotes/john_sutter_202499"
+        },
+        "topics": [
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Private",
+                "url": "/topics/private"
+            },
+            {
+                "name": "Might",
+                "url": "/topics/might"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_sutter_202498",
+        "quote": "The Indians began to be troublesome all around me, killing and wounding cattle, stealing horses, and threatening to attack us. I was obliged to make campaigns against them and punish them.",
+        "author": {
+            "name": "John Sutter",
+            "url": "/quotes/john_sutter_202498"
+        },
+        "topics": [
+            {
+                "name": "Against",
+                "url": "/topics/against"
+            },
+            {
+                "name": "Began",
+                "url": "/topics/began"
+            },
+            {
+                "name": "Threatening",
+                "url": "/topics/threatening"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_sutter_202496",
+        "quote": "I was everything, patriarch, priest, father and judge.",
+        "author": {
+            "name": "John Sutter",
+            "url": "/quotes/john_sutter_202496"
+        },
+        "topics": [
+            {
+                "name": "Father",
+                "url": "/topics/father"
+            },
+            {
+                "name": "Judge",
+                "url": "/topics/judge"
+            },
+            {
+                "name": "Priest",
+                "url": "/topics/priest"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/ron_taffel_400300",
+        "quote": "Even as kids reach adolescence, they need more than ever for us to watch over them. Adolescence is not about letting go. It's about hanging on during a very bumpy ride.",
+        "author": {
+            "name": "Ron Taffel",
+            "url": "/quotes/ron_taffel_400300"
+        },
+        "topics": [
+            {
+                "name": "Parenting",
+                "url": "/topics/parenting"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ron_taffel_397969",
+        "quote": "Being a parent is too complicated and emotional a task for magical techniques and miracle cures.",
+        "author": {
+            "name": "Ron Taffel",
+            "url": "/quotes/ron_taffel_397969"
+        },
+        "topics": [
+            {
+                "name": "Parent",
+                "url": "/topics/parent"
+            },
+            {
+                "name": "Magical",
+                "url": "/topics/magical"
+            },
+            {
+                "name": "Task",
+                "url": "/topics/task"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ron_taffel_403779",
+        "quote": "Once you have a child, you change so much along the way, you don't even recognize yourself by the time they're ready to move out!",
+        "author": {
+            "name": "Ron Taffel",
+            "url": "/quotes/ron_taffel_403779"
+        },
+        "topics": [
+            {
+                "name": "Change",
+                "url": "/topics/change"
+            },
+            {
+                "name": "Move",
+                "url": "/topics/move"
+            },
+            {
+                "name": "By The Time",
+                "url": "/topics/by_the_time"
+            }
+        ]
+    }
+]

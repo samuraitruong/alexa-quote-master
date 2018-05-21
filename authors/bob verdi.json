@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/bob_verdi_100282",
+        "quote": "The bell that tolls for all in boxing belongs to a cash register.",
+        "author": {
+            "name": "Bob Verdi",
+            "url": "/quotes/bob_verdi_100282"
+        },
+        "topics": [
+            {
+                "name": "Sports",
+                "url": "/topics/sports"
+            },
+            {
+                "name": "Cash Register",
+                "url": "/topics/cash_register"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bob_verdi_102281",
+        "quote": "What's unfortunate about buying a pitcher for $12 million is that he carries no warranty.",
+        "author": {
+            "name": "Bob Verdi",
+            "url": "/quotes/bob_verdi_102281"
+        },
+        "topics": [
+            {
+                "name": "Sports",
+                "url": "/topics/sports"
+            },
+            {
+                "name": "Unfortunate",
+                "url": "/topics/unfortunate"
+            },
+            {
+                "name": "Carries",
+                "url": "/topics/carries"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bob_verdi_102459",
+        "quote": "When is it too late to say it's still early for the Cubs? Try now. Their magic number is 1998, at least until it becomes 1999, but in lieu of a present, they offer you a future.",
+        "author": {
+            "name": "Bob Verdi",
+            "url": "/quotes/bob_verdi_102459"
+        },
+        "topics": [
+            {
+                "name": "Magic",
+                "url": "/topics/magic"
+            },
+            {
+                "name": "Too Late",
+                "url": "/topics/too_late"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            }
+        ]
+    }
+]

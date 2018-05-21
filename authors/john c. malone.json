@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/john_c_malone_532375",
+        "quote": "The public doesn't particularly care for advertisements.",
+        "author": {
+            "name": "John C. Malone",
+            "url": "/quotes/john_c_malone_532375"
+        },
+        "topics": [
+            {
+                "name": "Care",
+                "url": "/topics/care"
+            },
+            {
+                "name": "Public",
+                "url": "/topics/public"
+            },
+            {
+                "name": "Particularly",
+                "url": "/topics/particularly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_c_malone_532373",
+        "quote": "I'm not an extreme tree-hugger. I do believe trees grow and are a useful agricultural product that can be harvested without damaging the ecology and wildlife.",
+        "author": {
+            "name": "John C. Malone",
+            "url": "/quotes/john_c_malone_532373"
+        },
+        "topics": [
+            {
+                "name": "Believe",
+                "url": "/topics/believe"
+            },
+            {
+                "name": "Grow",
+                "url": "/topics/grow"
+            },
+            {
+                "name": "Product",
+                "url": "/topics/product"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_c_malone_532374",
+        "quote": "I think private ownership is generally superior to public because you care about the land more and it doesn't get trashed.",
+        "author": {
+            "name": "John C. Malone",
+            "url": "/quotes/john_c_malone_532374"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Private",
+                "url": "/topics/private"
+            }
+        ]
+    }
+]

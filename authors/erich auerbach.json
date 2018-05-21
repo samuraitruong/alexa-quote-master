@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/erich_auerbach_177845",
+        "quote": "The old man, of whom we know how he has become what he is, is more of an individual than the young man; for it is only in the course of an eventful life that men are differentiated into full individuality.",
+        "author": {
+            "name": "Erich Auerbach",
+            "url": "/quotes/erich_auerbach_177845"
+        },
+        "topics": [
+            {
+                "name": "Individual",
+                "url": "/topics/individual"
+            },
+            {
+                "name": "Differentiated",
+                "url": "/topics/differentiated"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/erich_auerbach_177846",
+        "quote": "To write history is so difficult that most historians are forced to make concessions to the technique of legende.",
+        "author": {
+            "name": "Erich Auerbach",
+            "url": "/quotes/erich_auerbach_177846"
+        },
+        "topics": [
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "Historians",
+                "url": "/topics/historians"
+            },
+            {
+                "name": "Forced",
+                "url": "/topics/forced"
+            }
+        ]
+    }
+]

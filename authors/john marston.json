@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/john_marston_198831",
+        "quote": "Wink and shut their apprehensions up.",
+        "author": {
+            "name": "John Marston",
+            "url": "/quotes/john_marston_198831"
+        },
+        "topics": [
+            {
+                "name": "Wink",
+                "url": "/topics/wink"
+            },
+            {
+                "name": "Shut",
+                "url": "/topics/shut"
+            },
+            {
+                "name": "Up",
+                "url": "/topics/up"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_marston_198830",
+        "quote": "Through danger safety comes - through trouble rest.",
+        "author": {
+            "name": "John Marston",
+            "url": "/quotes/john_marston_198830"
+        },
+        "topics": [
+            {
+                "name": "Safety",
+                "url": "/topics/safety"
+            },
+            {
+                "name": "Rest",
+                "url": "/topics/rest"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            }
+        ]
+    }
+]

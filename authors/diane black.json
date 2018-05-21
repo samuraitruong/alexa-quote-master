@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/diane_black_441057",
+        "quote": "In addition to being a nurse, I'm also a small business owner and I taught at a local community college. I'm also a proud mother of three and grandmother of six - all of them wonderful.",
+        "author": {
+            "name": "Diane Black",
+            "url": "/quotes/diane_black_441057"
+        },
+        "topics": [
+            {
+                "name": "College",
+                "url": "/topics/college"
+            },
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/diane_black_441056",
+        "quote": "The government continues to erode our freedom.",
+        "author": {
+            "name": "Diane Black",
+            "url": "/quotes/diane_black_441056"
+        },
+        "topics": [
+            {
+                "name": "Freedom",
+                "url": "/topics/freedom"
+            },
+            {
+                "name": "Government",
+                "url": "/topics/government"
+            },
+            {
+                "name": "Our",
+                "url": "/topics/our"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/diane_black_441058",
+        "quote": "Whenever I tour my district and I ask small businesspeople 'what can I do to help?,' they tell me to just get government out of the way and they'll create the jobs and grow on their own.",
+        "author": {
+            "name": "Diane Black",
+            "url": "/quotes/diane_black_441058"
+        },
+        "topics": [
+            {
+                "name": "Grow",
+                "url": "/topics/grow"
+            },
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Businesspeople",
+                "url": "/topics/businesspeople"
+            }
+        ]
+    }
+]

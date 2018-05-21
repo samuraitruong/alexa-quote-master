@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/robert_pittenger_622547",
+        "quote": "The enemy is not me. The enemy is Barack Obama.",
+        "author": {
+            "name": "Robert Pittenger",
+            "url": "/quotes/robert_pittenger_622547"
+        },
+        "topics": [
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Barack",
+                "url": "/topics/barack"
+            },
+            {
+                "name": "Obama",
+                "url": "/topics/obama"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_pittenger_622548",
+        "quote": "Barack Obama has been the architect of policies that have hurt our country domestically as well as foreign.",
+        "author": {
+            "name": "Robert Pittenger",
+            "url": "/quotes/robert_pittenger_622548"
+        },
+        "topics": [
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Barack",
+                "url": "/topics/barack"
+            }
+        ]
+    }
+]

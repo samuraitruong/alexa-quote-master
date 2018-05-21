@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/miriam_hopkins_207436",
+        "quote": "You know, my dear, I insured my voice for fifty thousand dollars.",
+        "author": {
+            "name": "Miriam Hopkins",
+            "url": "/quotes/miriam_hopkins_207436"
+        },
+        "topics": [
+            {
+                "name": "Voice",
+                "url": "/topics/voice"
+            },
+            {
+                "name": "Fifty",
+                "url": "/topics/fifty"
+            },
+            {
+                "name": "Insured",
+                "url": "/topics/insured"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/miriam_hopkins_207435",
+        "quote": "That's wonderful. And what did you do with the money?",
+        "author": {
+            "name": "Miriam Hopkins",
+            "url": "/quotes/miriam_hopkins_207435"
+        },
+        "topics": [
+            {
+                "name": "Money",
+                "url": "/topics/money"
+            },
+            {
+                "name": "Wonderful",
+                "url": "/topics/wonderful"
+            },
+            {
+                "name": "Did",
+                "url": "/topics/did"
+            }
+        ]
+    }
+]

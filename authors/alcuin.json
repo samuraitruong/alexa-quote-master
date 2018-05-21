@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/alcuin_177441",
+        "quote": "At Athens, wise men propose, and fools dispose.",
+        "author": {
+            "name": "Alcuin",
+            "url": "/quotes/alcuin_177441"
+        },
+        "topics": [
+            {
+                "name": "Wise",
+                "url": "/topics/wise"
+            },
+            {
+                "name": "Men",
+                "url": "/topics/men"
+            },
+            {
+                "name": "Wise Men",
+                "url": "/topics/wise_men"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alcuin_177443",
+        "quote": "Those people should not be listened to who keep saying the voice of the people is the voice of God, since the riotousness of the crowd is always very close to madness.",
+        "author": {
+            "name": "Alcuin",
+            "url": "/quotes/alcuin_177443"
+        },
+        "topics": [
+            {
+                "name": "Voice",
+                "url": "/topics/voice"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alcuin_177442",
+        "quote": "Man thinks, God directs.",
+        "author": {
+            "name": "Alcuin",
+            "url": "/quotes/alcuin_177442"
+        },
+        "topics": [
+            {
+                "name": "God",
+                "url": "/topics/god"
+            },
+            {
+                "name": "Man",
+                "url": "/topics/man"
+            },
+            {
+                "name": "Thinks",
+                "url": "/topics/thinks"
+            }
+        ]
+    }
+]

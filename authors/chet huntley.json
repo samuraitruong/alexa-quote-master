@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/chet_huntley_183350",
+        "quote": "I hesitate to get into the gutter with this guy.",
+        "author": {
+            "name": "Chet Huntley",
+            "url": "/quotes/chet_huntley_183350"
+        },
+        "topics": [
+            {
+                "name": "Guy",
+                "url": "/topics/guy"
+            },
+            {
+                "name": "Gutter",
+                "url": "/topics/gutter"
+            },
+            {
+                "name": "Get",
+                "url": "/topics/get"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/chet_huntley_183349",
+        "quote": "Maybe where there's clarity of air, there's clarity of thought.",
+        "author": {
+            "name": "Chet Huntley",
+            "url": "/quotes/chet_huntley_183349"
+        },
+        "topics": [
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Clarity",
+                "url": "/topics/clarity"
+            },
+            {
+                "name": "Maybe",
+                "url": "/topics/maybe"
+            }
+        ]
+    }
+]

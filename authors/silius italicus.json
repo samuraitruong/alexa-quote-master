@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/silius_italicus_395624",
+        "quote": "Make haste! The tide of Fortune soon ebbs.",
+        "author": {
+            "name": "Silius Italicus",
+            "url": "/quotes/silius_italicus_395624"
+        },
+        "topics": [
+            {
+                "name": "Tide",
+                "url": "/topics/tide"
+            },
+            {
+                "name": "Haste",
+                "url": "/topics/haste"
+            },
+            {
+                "name": "Fortune",
+                "url": "/topics/fortune"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/silius_italicus_399555",
+        "quote": "Take the word of experience, I speak the truth: inaction is safest in danger.",
+        "author": {
+            "name": "Silius Italicus",
+            "url": "/quotes/silius_italicus_399555"
+        },
+        "topics": [
+            {
+                "name": "Truth",
+                "url": "/topics/truth"
+            },
+            {
+                "name": "Inaction",
+                "url": "/topics/inaction"
+            },
+            {
+                "name": "Take",
+                "url": "/topics/take"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/silius_italicus_311852",
+        "quote": "Virtue herself is her own fairest reward.",
+        "author": {
+            "name": "Silius Italicus",
+            "url": "/quotes/silius_italicus_311852"
+        },
+        "topics": [
+            {
+                "name": "Reward",
+                "url": "/topics/reward"
+            },
+            {
+                "name": "Her",
+                "url": "/topics/her"
+            },
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/silius_italicus_399078",
+        "quote": "Where two take counsel there is no lack of plans.",
+        "author": {
+            "name": "Silius Italicus",
+            "url": "/quotes/silius_italicus_399078"
+        },
+        "topics": [
+            {
+                "name": "Plans",
+                "url": "/topics/plans"
+            },
+            {
+                "name": "Counsel",
+                "url": "/topics/counsel"
+            },
+            {
+                "name": "Take",
+                "url": "/topics/take"
+            }
+        ]
+    }
+]

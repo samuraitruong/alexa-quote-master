@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/georges_bizet_354557",
+        "quote": "What a beautiful art, but what a wretched profession.",
+        "author": {
+            "name": "Georges Bizet",
+            "url": "/quotes/georges_bizet_354557"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Beautiful",
+                "url": "/topics/beautiful"
+            },
+            {
+                "name": "Profession",
+                "url": "/topics/profession"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/georges_bizet_211355",
+        "quote": "As a musician I tell you that if you were to suppress adultery, fanaticism, crime, evil, the supernatural, there would no longer be the means for writing one note.",
+        "author": {
+            "name": "Georges Bizet",
+            "url": "/quotes/georges_bizet_211355"
+        },
+        "topics": [
+            {
+                "name": "Adultery",
+                "url": "/topics/adultery"
+            },
+            {
+                "name": "Means",
+                "url": "/topics/means"
+            },
+            {
+                "name": "Note",
+                "url": "/topics/note"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/georges_bizet_354558",
+        "quote": "Religion is a means of exploitation employed by the strong against the weak; religion is a cloak of ambition, injustice and vice.",
+        "author": {
+            "name": "Georges Bizet",
+            "url": "/quotes/georges_bizet_354558"
+        },
+        "topics": [
+            {
+                "name": "Strong",
+                "url": "/topics/strong"
+            },
+            {
+                "name": "Exploitation",
+                "url": "/topics/exploitation"
+            },
+            {
+                "name": "Means",
+                "url": "/topics/means"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/georges_bizet_211353",
+        "quote": "I want to do nothing chic, I want to have ideas before beginning a piece.",
+        "author": {
+            "name": "Georges Bizet",
+            "url": "/quotes/georges_bizet_211353"
+        },
+        "topics": [
+            {
+                "name": "Beginning",
+                "url": "/topics/beginning"
+            },
+            {
+                "name": "Chic",
+                "url": "/topics/chic"
+            },
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            }
+        ]
+    }
+]

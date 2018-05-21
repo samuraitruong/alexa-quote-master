@@ -1,0 +1,156 @@
+[
+    {
+        "url": "/quotes/walter_raleigh_144434?src=t_fain",
+        "quote": "Fain would I climb, yet fear I to fall.",
+        "author": {
+            "name": "Walter Raleigh",
+            "url": "/authors/walter_raleigh"
+        },
+        "topics": [
+            {
+                "name": "Climb",
+                "url": "/topics/climb"
+            },
+            {
+                "name": "Fall",
+                "url": "/topics/fall"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/plato_397850?src=t_fain",
+        "quote": "I would fain grow old learning many things.",
+        "author": {
+            "name": "Plato",
+            "url": "/authors/plato"
+        },
+        "topics": [
+            {
+                "name": "Grow",
+                "url": "/topics/grow"
+            },
+            {
+                "name": "Old",
+                "url": "/topics/old"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henri_bergson_208588?src=t_fain",
+        "quote": "In its entirety, probably, it follows us at every instant; all that we have felt, thought and willed from our earliest infancy is there, leaning over the present which is about to join it, pressing against the portals of consciousness that would fain leave it outside.",
+        "author": {
+            "name": "Henri Bergson",
+            "url": "/authors/henri_bergson"
+        },
+        "topics": [
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Against",
+                "url": "/topics/against"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henry_david_thoreau_394972?src=t_fain",
+        "quote": "In my afternoon walk I would fain forget all my morning occupations and my obligations to society.",
+        "author": {
+            "name": "Henry David Thoreau",
+            "url": "/authors/henry_david_thoreau"
+        },
+        "topics": [
+            {
+                "name": "Society",
+                "url": "/topics/society"
+            },
+            {
+                "name": "Forget",
+                "url": "/topics/forget"
+            },
+            {
+                "name": "Afternoon",
+                "url": "/topics/afternoon"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/hiram_rhodes_revels_737882?src=t_fain",
+        "quote": "The Republican party is not inflamed, as some would fain have the country believe, against the South. Its borders are wide enough for all truly loyal men to find within them peace and repose from the din and discord of angry faction.",
+        "author": {
+            "name": "Hiram Rhodes Revels",
+            "url": "/authors/hiram_rhodes_revels"
+        },
+        "topics": [
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Inflamed",
+                "url": "/topics/inflamed"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joseph_addison_396683?src=t_fain",
+        "quote": "We are always doing something for posterity, but I would fain see posterity do something for us.",
+        "author": {
+            "name": "Joseph Addison",
+            "url": "/authors/joseph_addison"
+        },
+        "topics": [
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "See",
+                "url": "/topics/see"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/richard_wagner_802889?src=t_fain",
+        "quote": "Here, everything is tragic through and through, and the will, that fain would shape a world according to its wish, at last can reach no greater satisfaction than the breaking of itself in dignified annulment.",
+        "author": {
+            "name": "Richard Wagner",
+            "url": "/authors/richard_wagner"
+        },
+        "topics": [
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            },
+            {
+                "name": "Shape",
+                "url": "/topics/shape"
+            }
+        ]
+    }
+]

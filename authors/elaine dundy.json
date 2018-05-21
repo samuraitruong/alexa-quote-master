@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/elaine_dundy_111923",
+        "quote": "I hate champagne more than anything in the world next to Seven-Up.",
+        "author": {
+            "name": "Elaine Dundy",
+            "url": "/quotes/elaine_dundy_111923"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/elaine_dundy_119412",
+        "quote": "Acting doesn't bring anything to a text. On the contrary, it detracts from it.",
+        "author": {
+            "name": "Elaine Dundy",
+            "url": "/quotes/elaine_dundy_119412"
+        },
+        "topics": [
+            {
+                "name": "Bring",
+                "url": "/topics/bring"
+            },
+            {
+                "name": "Text",
+                "url": "/topics/text"
+            },
+            {
+                "name": "On The Contrary",
+                "url": "/topics/on_the_contrary"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/elaine_dundy_162874",
+        "quote": "To love one that is great, is almost to be great one's self.",
+        "author": {
+            "name": "Elaine Dundy",
+            "url": "/quotes/elaine_dundy_162874"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Self",
+                "url": "/topics/self"
+            },
+            {
+                "name": "Almost",
+                "url": "/topics/almost"
+            }
+        ]
+    }
+]

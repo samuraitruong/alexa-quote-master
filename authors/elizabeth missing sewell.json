@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/elizabeth_missing_sewell_397608",
+        "quote": "Obedience is the primary object of all sound education.",
+        "author": {
+            "name": "Elizabeth Missing Sewell",
+            "url": "/quotes/elizabeth_missing_sewell_397608"
+        },
+        "topics": [
+            {
+                "name": "Education",
+                "url": "/topics/education"
+            },
+            {
+                "name": "Sound",
+                "url": "/topics/sound"
+            },
+            {
+                "name": "Obedience",
+                "url": "/topics/obedience"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/elizabeth_missing_sewell_401416",
+        "quote": "A young man is stirred and stimulated by the consciousness of how much depends upon his own exertions: a young girl is oppressed by it.",
+        "author": {
+            "name": "Elizabeth Missing Sewell",
+            "url": "/quotes/elizabeth_missing_sewell_401416"
+        },
+        "topics": [
+            {
+                "name": "Consciousness",
+                "url": "/topics/consciousness"
+            },
+            {
+                "name": "Young Girl",
+                "url": "/topics/young_girl"
+            }
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/stanford_moore_311398",
+        "quote": "In dedicating his estate to the honoring of endeavors that benefit mankind, Alfred Nobel expressed a lifelong concern that is even more timely in 1972 than it was in his lifetime.",
+        "author": {
+            "name": "Stanford Moore",
+            "url": "/quotes/stanford_moore_311398"
+        },
+        "topics": [
+            {
+                "name": "Mankind",
+                "url": "/topics/mankind"
+            },
+            {
+                "name": "Dedicating",
+                "url": "/topics/dedicating"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/stanford_moore_311400",
+        "quote": "This ceremony and the intellectual aura associated with the Nobel Prizes have grown from the wisdom of a practical chemist who wrote a remarkable will.",
+        "author": {
+            "name": "Stanford Moore",
+            "url": "/quotes/stanford_moore_311400"
+        },
+        "topics": [
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Practical",
+                "url": "/topics/practical"
+            },
+            {
+                "name": "Wrote",
+                "url": "/topics/wrote"
+            }
+        ]
+    }
+]

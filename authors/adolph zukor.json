@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/adolph_zukor_205891",
+        "quote": "The public is never wrong.",
+        "author": {
+            "name": "Adolph Zukor",
+            "url": "/quotes/adolph_zukor_205891"
+        },
+        "topics": [
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Wrong",
+                "url": "/topics/wrong"
+            },
+            {
+                "name": "Public",
+                "url": "/topics/public"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/adolph_zukor_391242",
+        "quote": "Rather than lose the public because television is here, wouldn't it be smart to adopt television as our instrument?",
+        "author": {
+            "name": "Adolph Zukor",
+            "url": "/quotes/adolph_zukor_391242"
+        },
+        "topics": [
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            },
+            {
+                "name": "Public",
+                "url": "/topics/public"
+            },
+            {
+                "name": "Rather",
+                "url": "/topics/rather"
+            }
+        ]
+    }
+]

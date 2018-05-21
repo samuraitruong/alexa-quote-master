@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/william_prescott_388433",
+        "quote": "If no man could become rich in Peru, no man could become poor.",
+        "author": {
+            "name": "William Prescott",
+            "url": "/quotes/william_prescott_388433"
+        },
+        "topics": [
+            {
+                "name": "Rich",
+                "url": "/topics/rich"
+            },
+            {
+                "name": "Poor",
+                "url": "/topics/poor"
+            },
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_prescott_380918",
+        "quote": "The name of Peru was not known to the natives.",
+        "author": {
+            "name": "William Prescott",
+            "url": "/quotes/william_prescott_380918"
+        },
+        "topics": [
+            {
+                "name": "Name",
+                "url": "/topics/name"
+            },
+            {
+                "name": "Known",
+                "url": "/topics/known"
+            },
+            {
+                "name": "Natives",
+                "url": "/topics/natives"
+            }
+        ]
+    }
+]

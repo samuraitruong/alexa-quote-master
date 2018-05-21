@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/francesca_lo_schiavo_537303",
+        "quote": "When I met Dante I didn't work in the movies, but I enjoyed so much the movies. I worked in interior design and when I met Dante, we tried to do something together.",
+        "author": {
+            "name": "Francesca Lo Schiavo",
+            "url": "/quotes/francesca_lo_schiavo_537303"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Something",
+                "url": "/topics/something"
+            },
+            {
+                "name": "Dante",
+                "url": "/topics/dante"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/francesca_lo_schiavo_537304",
+        "quote": "There is no difficult moment working together because when we start a new project, Dante starts to make all the sketches and I can see the vision of the movie and then I start my job.",
+        "author": {
+            "name": "Francesca Lo Schiavo",
+            "url": "/quotes/francesca_lo_schiavo_537304"
+        },
+        "topics": [
+            {
+                "name": "Start",
+                "url": "/topics/start"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Movie",
+                "url": "/topics/movie"
+            }
+        ]
+    }
+]

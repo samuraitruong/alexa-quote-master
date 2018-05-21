@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/rufus_jones_205260",
+        "quote": "Nations are not thugs. They are bodies of intelligent people.",
+        "author": {
+            "name": "Rufus Jones",
+            "url": "/quotes/rufus_jones_205260"
+        },
+        "topics": [
+            {
+                "name": "Intelligent People",
+                "url": "/topics/intelligent_people"
+            },
+            {
+                "name": "Bodies",
+                "url": "/topics/bodies"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rufus_jones_205261",
+        "quote": "In any case, fighting will not settle whether the claims were just or unjust. It will only settle which nation can mobilize and handle its fighting forces and its economic forces the better.",
+        "author": {
+            "name": "Rufus Jones",
+            "url": "/quotes/rufus_jones_205261"
+        },
+        "topics": [
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Unjust",
+                "url": "/topics/unjust"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rufus_jones_205262",
+        "quote": "When the war ends, it will be found that there was an equal amount of 'thuggery' practiced on both sides, that terrible things were done to force the final victory.",
+        "author": {
+            "name": "Rufus Jones",
+            "url": "/quotes/rufus_jones_205262"
+        },
+        "topics": [
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Both Sides",
+                "url": "/topics/both_sides"
+            },
+            {
+                "name": "Amount",
+                "url": "/topics/amount"
+            }
+        ]
+    }
+]

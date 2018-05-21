@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/julian_lincoln_simon_194165",
+        "quote": "The world's problem is not too many people, but lack of political and economic freedom.",
+        "author": {
+            "name": "Julian Lincoln Simon",
+            "url": "/quotes/julian_lincoln_simon_194165"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Economic Freedom",
+                "url": "/topics/economic_freedom"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/julian_lincoln_simon_194166",
+        "quote": "The increase in the world's population represents our victory against death.",
+        "author": {
+            "name": "Julian Lincoln Simon",
+            "url": "/quotes/julian_lincoln_simon_194166"
+        },
+        "topics": [
+            {
+                "name": "Death",
+                "url": "/topics/death"
+            },
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Represents",
+                "url": "/topics/represents"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/john_bachman_227584",
+        "quote": "I have seen one shrike occupy himself for hours in sticking up on thorns, a number of small fishes that the fishermen had thrown on the shore. The fishes dried up and decayed.",
+        "author": {
+            "name": "John Bachman",
+            "url": "/quotes/john_bachman_227584"
+        },
+        "topics": [
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Thorns",
+                "url": "/topics/thorns"
+            },
+            {
+                "name": "Hours",
+                "url": "/topics/hours"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_bachman_227585",
+        "quote": "I never found either this or the Northern Shrike return to such prey for food. I have seen them alight on the same thorn bush afterwards, but never made any use of this kind of food.",
+        "author": {
+            "name": "John Bachman",
+            "url": "/quotes/john_bachman_227585"
+        },
+        "topics": [
+            {
+                "name": "Prey",
+                "url": "/topics/prey"
+            },
+            {
+                "name": "Thorn",
+                "url": "/topics/thorn"
+            },
+            {
+                "name": "Afterwards",
+                "url": "/topics/afterwards"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_bachman_227588",
+        "quote": "The president said nothing about the views of government in regard to the possibility of Carolinas seceding. This however was frequently spoken of by other statesmen at the North. I think they were unanimous in this, that no army would be sent here.",
+        "author": {
+            "name": "John Bachman",
+            "url": "/quotes/john_bachman_227588"
+        },
+        "topics": [
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "However",
+                "url": "/topics/however"
+            }
+        ]
+    }
+]

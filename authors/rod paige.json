@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/rod_paige_394915",
+        "quote": "Character is one of most precious parts of you. You can't get involved in things that will damage your character.",
+        "author": {
+            "name": "Rod Paige",
+            "url": "/quotes/rod_paige_394915"
+        },
+        "topics": [
+            {
+                "name": "Precious",
+                "url": "/topics/precious"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Damage",
+                "url": "/topics/damage"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rod_paige_395042",
+        "quote": "We are in the middle of an education recession.",
+        "author": {
+            "name": "Rod Paige",
+            "url": "/quotes/rod_paige_395042"
+        },
+        "topics": [
+            {
+                "name": "Education",
+                "url": "/topics/education"
+            },
+            {
+                "name": "Middle",
+                "url": "/topics/middle"
+            },
+            {
+                "name": "Recession",
+                "url": "/topics/recession"
+            }
+        ]
+    }
+]

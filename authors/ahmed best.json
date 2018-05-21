@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/ahmed_best_203928",
+        "quote": "We like to think of film and music as art, but actually art is something that is not restricted.",
+        "author": {
+            "name": "Ahmed Best",
+            "url": "/quotes/ahmed_best_203928"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Actually",
+                "url": "/topics/actually"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ahmed_best_203923",
+        "quote": "I'm going to move on and do other things. My life isn't going to be about Jar Jar Binks.",
+        "author": {
+            "name": "Ahmed Best",
+            "url": "/quotes/ahmed_best_203923"
+        },
+        "topics": [
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Move",
+                "url": "/topics/move"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ahmed_best_203922",
+        "quote": "It doesn't bother me that people are stupid. I'm not stupid.",
+        "author": {
+            "name": "Ahmed Best",
+            "url": "/quotes/ahmed_best_203922"
+        },
+        "topics": [
+            {
+                "name": "Stupid",
+                "url": "/topics/stupid"
+            },
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Bother",
+                "url": "/topics/bother"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ahmed_best_203926",
+        "quote": "I'm recording another demo for another batch of record labels that we'll shop it around to.",
+        "author": {
+            "name": "Ahmed Best",
+            "url": "/quotes/ahmed_best_203926"
+        },
+        "topics": [
+            {
+                "name": "Record",
+                "url": "/topics/record"
+            },
+            {
+                "name": "Shop",
+                "url": "/topics/shop"
+            },
+            {
+                "name": "Another",
+                "url": "/topics/another"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ahmed_best_640286",
+        "quote": "My life isn't going to be about Jar Jar Binks.",
+        "author": {
+            "name": "Ahmed Best",
+            "url": "/quotes/ahmed_best_640286"
+        },
+        "topics": [
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    }
+]

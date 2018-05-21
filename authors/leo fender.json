@@ -1,0 +1,82 @@
+[
+    {
+        "url": "/quotes/leo_fender_206762",
+        "quote": "Let there be bass.",
+        "author": {
+            "name": "Leo Fender",
+            "url": "/quotes/leo_fender_206762"
+        },
+        "topics": [
+            {
+                "name": "Bass",
+                "url": "/topics/bass"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/leo_fender_206760",
+        "quote": "If something is easy to repair, it is easy to construct.",
+        "author": {
+            "name": "Leo Fender",
+            "url": "/quotes/leo_fender_206760"
+        },
+        "topics": [
+            {
+                "name": "Easy",
+                "url": "/topics/easy"
+            },
+            {
+                "name": "Repair",
+                "url": "/topics/repair"
+            },
+            {
+                "name": "Construct",
+                "url": "/topics/construct"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/leo_fender_206761",
+        "quote": "The design of each element should be thought out in order to be easy to make and easy to repair.",
+        "author": {
+            "name": "Leo Fender",
+            "url": "/quotes/leo_fender_206761"
+        },
+        "topics": [
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Design",
+                "url": "/topics/design"
+            },
+            {
+                "name": "Repair",
+                "url": "/topics/repair"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/leo_fender_206763",
+        "quote": "I wonder if I could make an electric bass.",
+        "author": {
+            "name": "Leo Fender",
+            "url": "/quotes/leo_fender_206763"
+        },
+        "topics": [
+            {
+                "name": "Electric",
+                "url": "/topics/electric"
+            },
+            {
+                "name": "Bass",
+                "url": "/topics/bass"
+            },
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            }
+        ]
+    }
+]

@@ -1,0 +1,442 @@
+[
+    {
+        "url": "/quotes/jeffrey_kluger_512072?src=t_operating_systems",
+        "quote": "Identical twins are ideal lab specimens for studying the difference between learned and inherited traits since they come from the womb preloaded with matching genetic operating systems. Any meaningful differences in their behaviors or personalities are thus likely to have been acquired, not innate.",
+        "author": {
+            "name": "Jeffrey Kluger",
+            "url": "/authors/jeffrey_kluger"
+        },
+        "topics": [
+            {
+                "name": "Differences",
+                "url": "/topics/differences"
+            },
+            {
+                "name": "Traits",
+                "url": "/topics/traits"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/linus_torvalds_129184?src=t_operating_systems",
+        "quote": "Microsoft isn't evil, they just make really crappy operating systems.",
+        "author": {
+            "name": "Linus Torvalds",
+            "url": "/authors/linus_torvalds"
+        },
+        "topics": [
+            {
+                "name": "Technology",
+                "url": "/topics/technology"
+            },
+            {
+                "name": "Systems",
+                "url": "/topics/systems"
+            },
+            {
+                "name": "Crappy",
+                "url": "/topics/crappy"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/neal_stephenson_183677?src=t_operating_systems",
+        "quote": "It is the fate of operating systems to become free.",
+        "author": {
+            "name": "Neal Stephenson",
+            "url": "/authors/neal_stephenson"
+        },
+        "topics": [
+            {
+                "name": "Fate",
+                "url": "/topics/fate"
+            },
+            {
+                "name": "Systems",
+                "url": "/topics/systems"
+            },
+            {
+                "name": "Operating",
+                "url": "/topics/operating"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/douglas_rushkoff_585241?src=t_operating_systems",
+        "quote": "Technology has moved away from sharing and toward ownership. This suits software and hardware companies just fine: They create new, bloated programs that require more disk space and processing power. We buy bigger, faster computers, which then require more complex operating systems, and so on.",
+        "author": {
+            "name": "Douglas Rushkoff",
+            "url": "/authors/douglas_rushkoff"
+        },
+        "topics": [
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            },
+            {
+                "name": "Moved",
+                "url": "/topics/moved"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/linus_torvalds_367377?src=t_operating_systems",
+        "quote": "In my opinion MS is a lot better at making money than it is at making good operating systems.",
+        "author": {
+            "name": "Linus Torvalds",
+            "url": "/authors/linus_torvalds"
+        },
+        "topics": [
+            {
+                "name": "Making",
+                "url": "/topics/making"
+            },
+            {
+                "name": "In My Opinion",
+                "url": "/topics/in_my_opinion"
+            },
+            {
+                "name": "Ms",
+                "url": "/topics/ms"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marvin_ammori_747804?src=t_operating_systems",
+        "quote": "From search and books to online TV and operating systems, antitrust affects our daily digital lives in more ways than we think.",
+        "author": {
+            "name": "Marvin Ammori",
+            "url": "/authors/marvin_ammori"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Digital",
+                "url": "/topics/digital"
+            },
+            {
+                "name": "TV",
+                "url": "/topics/tv"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jamie_zawinski_320491?src=t_operating_systems",
+        "quote": "I think Linux is a great thing, because Linux is an alternative to Windows, and because, of all the operating systems that are at all relevant today, Unix is the best of a bad lot.",
+        "author": {
+            "name": "Jamie Zawinski",
+            "url": "/authors/jamie_zawinski"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/linus_torvalds_587375?src=t_operating_systems",
+        "quote": "There's innovation in Linux. There are some really good technical features that I'm proud of. There are capabilities in Linux that aren't in other operating systems.",
+        "author": {
+            "name": "Linus Torvalds",
+            "url": "/authors/linus_torvalds"
+        },
+        "topics": [
+            {
+                "name": "Innovation",
+                "url": "/topics/innovation"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/guy_kawasaki_458320?src=t_operating_systems",
+        "quote": "I have developed a Zen-like approach to the operating systems that people use: 'When you're ready, the right operating system will appear in your life.'",
+        "author": {
+            "name": "Guy Kawasaki",
+            "url": "/authors/guy_kawasaki"
+        },
+        "topics": [
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Right",
+                "url": "/topics/right"
+            },
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alexa_von_tobel_618641?src=t_operating_systems",
+        "quote": "My ultimate goal is to create operating systems for myself that allow me to think as little as possible about the silly decisions you can make all day long - like what to eat or where we should meet - so I can focus on making real decisions. Because mental energy is a finite quantity.",
+        "author": {
+            "name": "Alexa Von Tobel",
+            "url": "/authors/alexa_von_tobel"
+        },
+        "topics": [
+            {
+                "name": "Focus",
+                "url": "/topics/focus"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Allow",
+                "url": "/topics/allow"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/markus_persson_713883?src=t_operating_systems",
+        "quote": "I'm worried about the future of computer operating systems, as they all seem to be sliding towards a more controlled experience, taking away much of what makes PC games so much fun.",
+        "author": {
+            "name": "Markus Persson",
+            "url": "/authors/markus_persson"
+        },
+        "topics": [
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            },
+            {
+                "name": "Sliding",
+                "url": "/topics/sliding"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kevin_mitnick_613260?src=t_operating_systems",
+        "quote": "My hacking involved pretty much exploring computer systems and obtaining access to the source code of telecommunication systems and computer operating systems, because my goal was to learn all I can about security vulnerabilities within these systems.",
+        "author": {
+            "name": "Kevin Mitnick",
+            "url": "/authors/kevin_mitnick"
+        },
+        "topics": [
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Access",
+                "url": "/topics/access"
+            },
+            {
+                "name": "Code",
+                "url": "/topics/code"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/fred_deluca_707206?src=t_operating_systems",
+        "quote": "We give great value for our franchisees: They can build a store for well under $200,000. And we have extremely simple operating systems. The preparation is mostly done in front of the customer. That simplicity is really what attracts our Subway franchise. You see it, and you can do it.",
+        "author": {
+            "name": "Fred DeLuca",
+            "url": "/authors/fred_deluca"
+        },
+        "topics": [
+            {
+                "name": "Simple",
+                "url": "/topics/simple"
+            },
+            {
+                "name": "Franchise",
+                "url": "/topics/franchise"
+            },
+            {
+                "name": "Mostly",
+                "url": "/topics/mostly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/om_malik_863760?src=t_operating_systems",
+        "quote": "The battle between Google and Apple has shifted from devices, operating systems, and apps to a new, amorphous idea called 'contextual computing.' We have become data-spewing factories, and the only way to make sense of it all is through context.",
+        "author": {
+            "name": "Om Malik",
+            "url": "/authors/om_malik"
+        },
+        "topics": [
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Idea",
+                "url": "/topics/idea"
+            },
+            {
+                "name": "Factories",
+                "url": "/topics/factories"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/michael_arrington_618852?src=t_operating_systems",
+        "quote": "Talking about Apple v. Microsoft without mentioning the Internet and the browser is like talking about WWII without talking about the nuke. Framing the conversation just in terms of open v. closed operating systems, the quality of the hardware or software or who the CEO was, is silly.",
+        "author": {
+            "name": "Michael Arrington",
+            "url": "/authors/michael_arrington"
+        },
+        "topics": [
+            {
+                "name": "Talking",
+                "url": "/topics/talking"
+            },
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/michael_arrington_618854?src=t_operating_systems",
+        "quote": "I remember endless Apple v. Windows debates in the early '90s when I was in college. Macs were better machines, everyone said; the whole Office thing was a huge pain. It was difficult to transfer files between operating systems, and generally speaking, if you wanted to do Office stuff, you needed a Windows machine.",
+        "author": {
+            "name": "Michael Arrington",
+            "url": "/authors/michael_arrington"
+        },
+        "topics": [
+            {
+                "name": "College",
+                "url": "/topics/college"
+            },
+            {
+                "name": "I Remember",
+                "url": "/topics/i_remember"
+            },
+            {
+                "name": "Needed",
+                "url": "/topics/needed"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/larry_wall_367164?src=t_operating_systems",
+        "quote": "I think operating systems work best if they're free and open. Particular applications are more likely to be proprietary.",
+        "author": {
+            "name": "Larry Wall",
+            "url": "/authors/larry_wall"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Likely",
+                "url": "/topics/likely"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/aaron_swartz_648155?src=t_operating_systems",
+        "quote": "I was around computers from birth; we had one of the first Macs, which came out shortly before I was born, and my dad ran a company that wrote computer operating systems. I don't think I have any particular technical skills; I just got a really large head start.",
+        "author": {
+            "name": "Aaron Swartz",
+            "url": "/authors/aaron_swartz"
+        },
+        "topics": [
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            },
+            {
+                "name": "Technical",
+                "url": "/topics/technical"
+            },
+            {
+                "name": "Dad",
+                "url": "/topics/dad"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mikko_hypponen_633643?src=t_operating_systems",
+        "quote": "The United States has an unfair advantage, as most of the popular cloud services, search engines, computer and mobile operating systems or web browsers are made by U.S. companies. When the rest of the world uses the net, they are effectively using U.S.-based services, making them a legal target for U.S. intelligence.",
+        "author": {
+            "name": "Mikko Hypponen",
+            "url": "/authors/mikko_hypponen"
+        },
+        "topics": [
+            {
+                "name": "Cloud",
+                "url": "/topics/cloud"
+            },
+            {
+                "name": "United",
+                "url": "/topics/united"
+            },
+            {
+                "name": "States",
+                "url": "/topics/states"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/stewart_alsop_388362?src=t_operating_systems",
+        "quote": "Microsoft has a monopoly over the desktop operating systems.",
+        "author": {
+            "name": "Stewart Alsop",
+            "url": "/authors/stewart_alsop"
+        },
+        "topics": [
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Systems",
+                "url": "/topics/systems"
+            },
+            {
+                "name": "Desktop",
+                "url": "/topics/desktop"
+            }
+        ]
+    }
+]

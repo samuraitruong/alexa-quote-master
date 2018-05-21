@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/ross_martin_405597",
+        "quote": "Our campaign is powered by college students who are not about to let the first genocide of the 21st century happen on their watch.",
+        "author": {
+            "name": "Ross Martin",
+            "url": "/quotes/ross_martin_405597"
+        },
+        "topics": [
+            {
+                "name": "College",
+                "url": "/topics/college"
+            },
+            {
+                "name": "Happen",
+                "url": "/topics/happen"
+            },
+            {
+                "name": "Powered",
+                "url": "/topics/powered"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ross_martin_405598",
+        "quote": "We created a show and a scenario for college students where they can take what they learn in class every day and apply it to the real world.",
+        "author": {
+            "name": "Ross Martin",
+            "url": "/quotes/ross_martin_405598"
+        },
+        "topics": [
+            {
+                "name": "College",
+                "url": "/topics/college"
+            },
+            {
+                "name": "Learn",
+                "url": "/topics/learn"
+            },
+            {
+                "name": "Apply",
+                "url": "/topics/apply"
+            }
+        ]
+    }
+]

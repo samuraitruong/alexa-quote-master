@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/david_m_shoup_113118",
+        "quote": "Remember, God provides the best camouflage several hours out of every 24.",
+        "author": {
+            "name": "David M. Shoup",
+            "url": "/quotes/david_m_shoup_113118"
+        },
+        "topics": [
+            {
+                "name": "War",
+                "url": "/topics/war"
+            },
+            {
+                "name": "Remember",
+                "url": "/topics/remember"
+            },
+            {
+                "name": "Hours",
+                "url": "/topics/hours"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_m_shoup_177360",
+        "quote": "To lack intelligence is to be in the ring blindfolded.",
+        "author": {
+            "name": "David M. Shoup",
+            "url": "/quotes/david_m_shoup_177360"
+        },
+        "topics": [
+            {
+                "name": "Intelligence",
+                "url": "/topics/intelligence"
+            },
+            {
+                "name": "Ring",
+                "url": "/topics/ring"
+            },
+            {
+                "name": "Lack",
+                "url": "/topics/lack"
+            }
+        ]
+    }
+]

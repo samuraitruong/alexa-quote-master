@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/paul_waner_140016",
+        "quote": "If a pitcher sees you fiddling with the bat, he'll stall until your arms are tired before you even get a chance to hit.",
+        "author": {
+            "name": "Paul Waner",
+            "url": "/quotes/paul_waner_140016"
+        },
+        "topics": [
+            {
+                "name": "Chance",
+                "url": "/topics/chance"
+            },
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            },
+            {
+                "name": "Fiddling",
+                "url": "/topics/fiddling"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_waner_140017",
+        "quote": "Let the pitcher move first, then, as he draws his arm back, you draw the bat back and you are ready.",
+        "author": {
+            "name": "Paul Waner",
+            "url": "/quotes/paul_waner_140017"
+        },
+        "topics": [
+            {
+                "name": "Back",
+                "url": "/topics/back"
+            },
+            {
+                "name": "Move",
+                "url": "/topics/move"
+            },
+            {
+                "name": "Then",
+                "url": "/topics/then"
+            }
+        ]
+    }
+]

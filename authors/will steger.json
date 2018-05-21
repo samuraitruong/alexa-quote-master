@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/will_steger_404724",
+        "quote": "I don't think there's any way we can save the polar bears.",
+        "author": {
+            "name": "Will Steger",
+            "url": "/quotes/will_steger_404724"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Save",
+                "url": "/topics/save"
+            },
+            {
+                "name": "Polar",
+                "url": "/topics/polar"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/will_steger_389153",
+        "quote": "Within 10 years it will be impossible to travel to the North Pole by dog team. There will be too much open water.",
+        "author": {
+            "name": "Will Steger",
+            "url": "/quotes/will_steger_389153"
+        },
+        "topics": [
+            {
+                "name": "Environmental",
+                "url": "/topics/environmental"
+            },
+            {
+                "name": "Within",
+                "url": "/topics/within"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    }
+]

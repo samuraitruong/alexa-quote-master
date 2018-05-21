@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/alfred_noyes_210805",
+        "quote": "The moon was a ghostly galleon tossed upon cloudy seas.",
+        "author": {
+            "name": "Alfred Noyes",
+            "url": "/quotes/alfred_noyes_210805"
+        },
+        "topics": [
+            {
+                "name": "Cloudy",
+                "url": "/topics/cloudy"
+            },
+            {
+                "name": "Ghostly",
+                "url": "/topics/ghostly"
+            },
+            {
+                "name": "Seas",
+                "url": "/topics/seas"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alfred_noyes_269096",
+        "quote": "Of the sayings of Christ in the Synoptic Gospels that can be compared to those in the fourth Gospel, there are one or two which I venture to think can only have been recorded on the authority of St. John.",
+        "author": {
+            "name": "Alfred Noyes",
+            "url": "/quotes/alfred_noyes_269096"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alfred_noyes_269095",
+        "quote": "St. Luke again associates St. John with St. Peter in the Acts of the Apostles, when, after the Resurrection, that strange boldness had come upon the disciples.",
+        "author": {
+            "name": "Alfred Noyes",
+            "url": "/quotes/alfred_noyes_269095"
+        },
+        "topics": [
+            {
+                "name": "Again",
+                "url": "/topics/again"
+            },
+            {
+                "name": "Had",
+                "url": "/topics/had"
+            },
+            {
+                "name": "Associates",
+                "url": "/topics/associates"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alfred_noyes_269100",
+        "quote": "At a certain stage in his evolution, man himself had been able to lay hold upon a higher order of things, which raised him above the level of the beasts that perish, and enabled him to see, at least in the distance, the shining towers of the City of God.",
+        "author": {
+            "name": "Alfred Noyes",
+            "url": "/quotes/alfred_noyes_269100"
+        },
+        "topics": [
+            {
+                "name": "City",
+                "url": "/topics/city"
+            },
+            {
+                "name": "Distance",
+                "url": "/topics/distance"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    }
+]

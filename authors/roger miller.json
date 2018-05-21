@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/roger_miller_107155",
+        "quote": "Some people walk in the rain, others just get wet.",
+        "author": {
+            "name": "Roger Miller",
+            "url": "/quotes/roger_miller_107155"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "Rain",
+                "url": "/topics/rain"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/roger_miller_391942",
+        "quote": "It's one thing to have talent. It's another to figure out how to use it.",
+        "author": {
+            "name": "Roger Miller",
+            "url": "/quotes/roger_miller_391942"
+        },
+        "topics": [
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            },
+            {
+                "name": "How",
+                "url": "/topics/how"
+            },
+            {
+                "name": "Figure",
+                "url": "/topics/figure"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/roger_miller_378486",
+        "quote": "I want my music to leave an indelible mark.",
+        "author": {
+            "name": "Roger Miller",
+            "url": "/quotes/roger_miller_378486"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "Leave",
+                "url": "/topics/leave"
+            },
+            {
+                "name": "Indelible",
+                "url": "/topics/indelible"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/roger_miller_382051",
+        "quote": "I always took a great deal of pride in being original.",
+        "author": {
+            "name": "Roger Miller",
+            "url": "/quotes/roger_miller_382051"
+        },
+        "topics": [
+            {
+                "name": "Deal",
+                "url": "/topics/deal"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Took",
+                "url": "/topics/took"
+            }
+        ]
+    }
+]

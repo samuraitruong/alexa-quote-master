@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/hannah_cowley_370926",
+        "quote": "Every body about me seem'd happy but every body seem'd in a hurry to be happy somewhere else.",
+        "author": {
+            "name": "Hannah Cowley",
+            "url": "/quotes/hannah_cowley_370926"
+        },
+        "topics": [
+            {
+                "name": "Happy",
+                "url": "/topics/happy"
+            },
+            {
+                "name": "Somewhere Else",
+                "url": "/topics/somewhere_else"
+            },
+            {
+                "name": "Else",
+                "url": "/topics/else"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/hannah_cowley_370925",
+        "quote": "It requires genius to make a good pun - some men of bright parts can't reach it.",
+        "author": {
+            "name": "Hannah Cowley",
+            "url": "/quotes/hannah_cowley_370925"
+        },
+        "topics": [
+            {
+                "name": "Genius",
+                "url": "/topics/genius"
+            },
+            {
+                "name": "Reach",
+                "url": "/topics/reach"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/hannah_cowley_370923",
+        "quote": "The charms of women were never more powerful never inspired such achievements, as in those immortal periods, when they could neither read nor write.",
+        "author": {
+            "name": "Hannah Cowley",
+            "url": "/quotes/hannah_cowley_370923"
+        },
+        "topics": [
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Achievements",
+                "url": "/topics/achievements"
+            },
+            {
+                "name": "Read",
+                "url": "/topics/read"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/hannah_cowley_370927",
+        "quote": "I have been five minutes too late all my life-time!",
+        "author": {
+            "name": "Hannah Cowley",
+            "url": "/quotes/hannah_cowley_370927"
+        },
+        "topics": [
+            {
+                "name": "Late",
+                "url": "/topics/late"
+            },
+            {
+                "name": "Too Late",
+                "url": "/topics/too_late"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    }
+]

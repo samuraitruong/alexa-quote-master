@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/angela_cope_652780",
+        "quote": "I can't even walk out the door without, even to go to the race track, without my MAC lip gloss.",
+        "author": {
+            "name": "Angela Cope",
+            "url": "/quotes/angela_cope_652780"
+        },
+        "topics": [
+            {
+                "name": "Door",
+                "url": "/topics/door"
+            },
+            {
+                "name": "Race",
+                "url": "/topics/race"
+            },
+            {
+                "name": "Go",
+                "url": "/topics/go"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/angela_cope_652779",
+        "quote": "I drive a BMW 1 series convertible. I love my Beamer.",
+        "author": {
+            "name": "Angela Cope",
+            "url": "/quotes/angela_cope_652779"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "I Love",
+                "url": "/topics/i_love"
+            },
+            {
+                "name": "Series",
+                "url": "/topics/series"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/angela_cope_652781",
+        "quote": "I love working on cars.",
+        "author": {
+            "name": "Angela Cope",
+            "url": "/quotes/angela_cope_652781"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Working",
+                "url": "/topics/working"
+            },
+            {
+                "name": "I Love",
+                "url": "/topics/i_love"
+            }
+        ]
+    }
+]

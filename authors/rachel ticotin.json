@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/rachel_ticotin_570666",
+        "quote": "I'm more interested in my life than I am in my career. I don't want to not work. I do enjoy working, but not to the point where that's the only thing I focus on.",
+        "author": {
+            "name": "Rachel Ticotin",
+            "url": "/quotes/rachel_ticotin_570666"
+        },
+        "topics": [
+            {
+                "name": "Career",
+                "url": "/topics/career"
+            },
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rachel_ticotin_570667",
+        "quote": "My mother's Puerto Rican and my father's Russian-Jewish, so we consider ourselves to be Jewricans or Puertojews. I think Puertojew sounds like a kosher bathroom, so I prefer Jewrican.",
+        "author": {
+            "name": "Rachel Ticotin",
+            "url": "/quotes/rachel_ticotin_570667"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Prefer",
+                "url": "/topics/prefer"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rachel_ticotin_570668",
+        "quote": "If you care about yourself and what you do, you get nervous about it. You just don't take the money and go home.",
+        "author": {
+            "name": "Rachel Ticotin",
+            "url": "/quotes/rachel_ticotin_570668"
+        },
+        "topics": [
+            {
+                "name": "Go",
+                "url": "/topics/go"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Go Home",
+                "url": "/topics/go_home"
+            }
+        ]
+    }
+]

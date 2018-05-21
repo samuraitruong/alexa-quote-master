@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/owen_wister_303572",
+        "quote": "When yu' can't have what you choose, yu' just choose what you have.",
+        "author": {
+            "name": "Owen Wister",
+            "url": "/quotes/owen_wister_303572"
+        },
+        "topics": [
+            {
+                "name": "Choose",
+                "url": "/topics/choose"
+            },
+            {
+                "name": "Just",
+                "url": "/topics/just"
+            },
+            {
+                "name": "You",
+                "url": "/topics/you"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/owen_wister_306135",
+        "quote": "When you can't have what you choose, you just choose what you have.",
+        "author": {
+            "name": "Owen Wister",
+            "url": "/quotes/owen_wister_306135"
+        },
+        "topics": [
+            {
+                "name": "Choose",
+                "url": "/topics/choose"
+            },
+            {
+                "name": "Just",
+                "url": "/topics/just"
+            },
+            {
+                "name": "You",
+                "url": "/topics/you"
+            }
+        ]
+    }
+]

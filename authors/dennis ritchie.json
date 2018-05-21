@@ -1,0 +1,464 @@
+[
+    {
+        "url": "/quotes/dennis_ritchie_274087",
+        "quote": "C is peculiar in a lot of ways, but it, like many other successful things, has a certain unity of approach that stems from development in a small group.",
+        "author": {
+            "name": "Dennis Ritchie",
+            "url": "/quotes/dennis_ritchie_274087"
+        },
+        "topics": [
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Stems",
+                "url": "/topics/stems"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dennis_ritchie_274082",
+        "quote": "I can't recall any difficulty in making the C language definition completely open - any discussion on the matter tended to mention languages whose inventors tried to keep tight control, and consequent ill fate.",
+        "author": {
+            "name": "Dennis Ritchie",
+            "url": "/quotes/dennis_ritchie_274082"
+        },
+        "topics": [
+            {
+                "name": "Fate",
+                "url": "/topics/fate"
+            },
+            {
+                "name": "Language",
+                "url": "/topics/language"
+            },
+            {
+                "name": "Inventors",
+                "url": "/topics/inventors"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dennis_ritchie_274062",
+        "quote": "At the same time, much of it seems to have to do with recreating things we or others had already done; it seems rather derivative intellectually; is there a dearth of really new ideas?",
+        "author": {
+            "name": "Dennis Ritchie",
+            "url": "/quotes/dennis_ritchie_274062"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Rather",
+                "url": "/topics/rather"
+            },
+            {
+                "name": "Intellectually",
+                "url": "/topics/intellectually"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dennis_ritchie_274073",
+        "quote": "C++ and Java, say, are presumably growing faster than plain C, but I bet C will still be around.",
+        "author": {
+            "name": "Dennis Ritchie",
+            "url": "/quotes/dennis_ritchie_274073"
+        },
+        "topics": [
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            },
+            {
+                "name": "Presumably",
+                "url": "/topics/presumably"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dennis_ritchie_274083",
+        "quote": "I'm just an observer of Java, and where Microsoft wants to go with C# is too early to tell.",
+        "author": {
+            "name": "Dennis Ritchie",
+            "url": "/quotes/dennis_ritchie_274083"
+        },
+        "topics": [
+            {
+                "name": "Observer",
+                "url": "/topics/observer"
+            },
+            {
+                "name": "Java",
+                "url": "/topics/java"
+            },
+            {
+                "name": "Too",
+                "url": "/topics/too"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dennis_ritchie_172475",
+        "quote": "UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity.",
+        "author": {
+            "name": "Dennis Ritchie",
+            "url": "/quotes/dennis_ritchie_172475"
+        },
+        "topics": [
+            {
+                "name": "Genius",
+                "url": "/topics/genius"
+            },
+            {
+                "name": "System",
+                "url": "/topics/system"
+            },
+            {
+                "name": "Basically",
+                "url": "/topics/basically"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dennis_ritchie_274054",
+        "quote": "Any editing, software work, and mail is done in this exported Plan 9.",
+        "author": {
+            "name": "Dennis Ritchie",
+            "url": "/quotes/dennis_ritchie_274054"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "Mail",
+                "url": "/topics/mail"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dennis_ritchie_274074",
+        "quote": "For infrastructure technology, C will be hard to displace.",
+        "author": {
+            "name": "Dennis Ritchie",
+            "url": "/quotes/dennis_ritchie_274074"
+        },
+        "topics": [
+            {
+                "name": "Technology",
+                "url": "/topics/technology"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Displace",
+                "url": "/topics/displace"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dennis_ritchie_274063",
+        "quote": "I'm not a person who particularly had heros when growing up.",
+        "author": {
+            "name": "Dennis Ritchie",
+            "url": "/quotes/dennis_ritchie_274063"
+        },
+        "topics": [
+            {
+                "name": "Growing Up",
+                "url": "/topics/growing_up"
+            },
+            {
+                "name": "Growing",
+                "url": "/topics/growing"
+            },
+            {
+                "name": "Heros",
+                "url": "/topics/heros"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dennis_ritchie_274045",
+        "quote": "C was already implemented on several quite different machines and OSs, Unix was already being distributed on the PDP-11, but the portability of the whole system was new.",
+        "author": {
+            "name": "Dennis Ritchie",
+            "url": "/quotes/dennis_ritchie_274045"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Several",
+                "url": "/topics/several"
+            },
+            {
+                "name": "Distributed",
+                "url": "/topics/distributed"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dennis_ritchie_274048",
+        "quote": "The visible things that have come from the group have been the Plan 9 system and Inferno, but I hasten to say that the ideas and the work have come from colleagues.",
+        "author": {
+            "name": "Dennis Ritchie",
+            "url": "/quotes/dennis_ritchie_274048"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Visible",
+                "url": "/topics/visible"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dennis_ritchie_274065",
+        "quote": "I've done a reasonable amount of travelling, which I enjoyed, but not for too long at a time.",
+        "author": {
+            "name": "Dennis Ritchie",
+            "url": "/quotes/dennis_ritchie_274065"
+        },
+        "topics": [
+            {
+                "name": "Travelling",
+                "url": "/topics/travelling"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Amount",
+                "url": "/topics/amount"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dennis_ritchie_274064",
+        "quote": "Obviously, the person who had most influence on my career was Ken Thompson.",
+        "author": {
+            "name": "Dennis Ritchie",
+            "url": "/quotes/dennis_ritchie_274064"
+        },
+        "topics": [
+            {
+                "name": "Career",
+                "url": "/topics/career"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "Ken",
+                "url": "/topics/ken"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dennis_ritchie_274050",
+        "quote": "I fix things now and then, more often tweak HTML and make scripts to do things.",
+        "author": {
+            "name": "Dennis Ritchie",
+            "url": "/quotes/dennis_ritchie_274050"
+        },
+        "topics": [
+            {
+                "name": "Fix",
+                "url": "/topics/fix"
+            },
+            {
+                "name": "Now And Then",
+                "url": "/topics/now_and_then"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dennis_ritchie_274086",
+        "quote": "When I read commentary about suggestions for where C should go, I often think back and give thanks that it wasn't developed under the advice of a worldwide crowd.",
+        "author": {
+            "name": "Dennis Ritchie",
+            "url": "/quotes/dennis_ritchie_274086"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            },
+            {
+                "name": "Read",
+                "url": "/topics/read"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dennis_ritchie_274077",
+        "quote": "The kind of programming that C provides will probably remain similar absolutely or slowly decline in usage, but relatively, JavaScript or its variants, or XML, will continue to become more central.",
+        "author": {
+            "name": "Dennis Ritchie",
+            "url": "/quotes/dennis_ritchie_274077"
+        },
+        "topics": [
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Kind",
+                "url": "/topics/kind"
+            },
+            {
+                "name": "Similar",
+                "url": "/topics/similar"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dennis_ritchie_274079",
+        "quote": "At least for the people who send me mail about a new language that they're designing, the general advice is: do it to learn about how to write a compiler.",
+        "author": {
+            "name": "Dennis Ritchie",
+            "url": "/quotes/dennis_ritchie_274079"
+        },
+        "topics": [
+            {
+                "name": "Learn",
+                "url": "/topics/learn"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Mail",
+                "url": "/topics/mail"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dennis_ritchie_274047",
+        "quote": "Over the past several years, I've been more in a managerial role.",
+        "author": {
+            "name": "Dennis Ritchie",
+            "url": "/quotes/dennis_ritchie_274047"
+        },
+        "topics": [
+            {
+                "name": "Role",
+                "url": "/topics/role"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dennis_ritchie_274070",
+        "quote": "A new release of Plan 9 happened in June, and at about the same time a new release of the Inferno system, which began here, was announced by Vita Nuova.",
+        "author": {
+            "name": "Dennis Ritchie",
+            "url": "/quotes/dennis_ritchie_274070"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dennis_ritchie_586156",
+        "quote": "My work was fairly theoretical. It was in recursive function theory. And in particular, hierarchies of functions in terms of computational complexity. I got involved in real computers and programming mainly by being - well, I was interested even as I came to graduate school.",
+        "author": {
+            "name": "Dennis Ritchie",
+            "url": "/quotes/dennis_ritchie_586156"
+        },
+        "topics": [
+            {
+                "name": "Complexity",
+                "url": "/topics/complexity"
+            },
+            {
+                "name": "Got",
+                "url": "/topics/got"
+            },
+            {
+                "name": "Theoretical",
+                "url": "/topics/theoretical"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dennis_ritchie_586157",
+        "quote": "One of the obvious things that went wrong with Multics as a commercial success was just that it was sort of over-engineered in a sense. There was just too much in it.",
+        "author": {
+            "name": "Dennis Ritchie",
+            "url": "/quotes/dennis_ritchie_586157"
+        },
+        "topics": [
+            {
+                "name": "Sense",
+                "url": "/topics/sense"
+            },
+            {
+                "name": "Commercial",
+                "url": "/topics/commercial"
+            },
+            {
+                "name": "Sort",
+                "url": "/topics/sort"
+            }
+        ]
+    }
+]

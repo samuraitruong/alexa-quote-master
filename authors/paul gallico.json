@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/paul_gallico_104385",
+        "quote": "Kittens can happen to anyone.",
+        "author": {
+            "name": "Paul Gallico",
+            "url": "/quotes/paul_gallico_104385"
+        },
+        "topics": [
+            {
+                "name": "Pet",
+                "url": "/topics/pet"
+            },
+            {
+                "name": "Happen",
+                "url": "/topics/happen"
+            },
+            {
+                "name": "Anyone",
+                "url": "/topics/anyone"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_gallico_394481",
+        "quote": "No game in the world is as tidy and dramatically neat as baseball, with cause and effect, crime and punishment, motive and result, so cleanly defined.",
+        "author": {
+            "name": "Paul Gallico",
+            "url": "/quotes/paul_gallico_394481"
+        },
+        "topics": [
+            {
+                "name": "Game",
+                "url": "/topics/game"
+            },
+            {
+                "name": "Result",
+                "url": "/topics/result"
+            },
+            {
+                "name": "Cause",
+                "url": "/topics/cause"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_gallico_113364",
+        "quote": "If there is any larceny in a man, golf will bring it out.",
+        "author": {
+            "name": "Paul Gallico",
+            "url": "/quotes/paul_gallico_113364"
+        },
+        "topics": [
+            {
+                "name": "Golf",
+                "url": "/topics/golf"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Larceny",
+                "url": "/topics/larceny"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_gallico_381723",
+        "quote": "Nobody's a natural. You work to get good and then work to get better. It's hard to stay on top.",
+        "author": {
+            "name": "Paul Gallico",
+            "url": "/quotes/paul_gallico_381723"
+        },
+        "topics": [
+            {
+                "name": "Better",
+                "url": "/topics/better"
+            },
+            {
+                "name": "Natural",
+                "url": "/topics/natural"
+            },
+            {
+                "name": "Top",
+                "url": "/topics/top"
+            }
+        ]
+    }
+]

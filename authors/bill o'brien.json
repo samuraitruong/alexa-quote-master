@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/bill_obrien_234463",
+        "quote": "The fun is in figuring out why the French are susceptible to such tripe.",
+        "author": {
+            "name": "Bill O'Brien",
+            "url": "/quotes/bill_obrien_234463"
+        },
+        "topics": [
+            {
+                "name": "Fun",
+                "url": "/topics/fun"
+            },
+            {
+                "name": "Why",
+                "url": "/topics/why"
+            },
+            {
+                "name": "Figuring",
+                "url": "/topics/figuring"
+            }
+        ]
+    }
+]

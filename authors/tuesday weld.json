@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/tuesday_weld_537722",
+        "quote": "I do not ever want to be a huge star.",
+        "author": {
+            "name": "Tuesday Weld",
+            "url": "/quotes/tuesday_weld_537722"
+        },
+        "topics": [
+            {
+                "name": "Star",
+                "url": "/topics/star"
+            },
+            {
+                "name": "Ever",
+                "url": "/topics/ever"
+            },
+            {
+                "name": "Huge Star",
+                "url": "/topics/huge_star"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tuesday_weld_537723",
+        "quote": "It seems the brighter you are, the deeper the hole you get into.",
+        "author": {
+            "name": "Tuesday Weld",
+            "url": "/quotes/tuesday_weld_537723"
+        },
+        "topics": [
+            {
+                "name": "Hole",
+                "url": "/topics/hole"
+            },
+            {
+                "name": "Get",
+                "url": "/topics/get"
+            },
+            {
+                "name": "Brighter",
+                "url": "/topics/brighter"
+            }
+        ]
+    }
+]

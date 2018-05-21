@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/gregory_keyes_682976",
+        "quote": "My degrees are in anthropology, and I have friends who have worked with apes.",
+        "author": {
+            "name": "Gregory Keyes",
+            "url": "/quotes/gregory_keyes_682976"
+        },
+        "topics": [
+            {
+                "name": "Anthropology",
+                "url": "/topics/anthropology"
+            },
+            {
+                "name": "Worked",
+                "url": "/topics/worked"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gregory_keyes_682977",
+        "quote": "I was pretty young when I saw the original 'Planet of the Apes', and for a time in the seventies, I was pretty obsessed with it.",
+        "author": {
+            "name": "Gregory Keyes",
+            "url": "/quotes/gregory_keyes_682977"
+        },
+        "topics": [
+            {
+                "name": "Seventies",
+                "url": "/topics/seventies"
+            },
+            {
+                "name": "Pretty",
+                "url": "/topics/pretty"
+            },
+            {
+                "name": "Original",
+                "url": "/topics/original"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gregory_keyes_682978",
+        "quote": "It takes a while to get a movie together, and they don't start talking books until the movie is close to being finished.",
+        "author": {
+            "name": "Gregory Keyes",
+            "url": "/quotes/gregory_keyes_682978"
+        },
+        "topics": [
+            {
+                "name": "Start",
+                "url": "/topics/start"
+            },
+            {
+                "name": "Finished",
+                "url": "/topics/finished"
+            },
+            {
+                "name": "Movie",
+                "url": "/topics/movie"
+            }
+        ]
+    }
+]

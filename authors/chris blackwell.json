@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/chris_blackwell_538223",
+        "quote": "Running a farm is about solving a problem, and that's always interesting to me. But it's a constant process.",
+        "author": {
+            "name": "Chris Blackwell",
+            "url": "/quotes/chris_blackwell_538223"
+        },
+        "topics": [
+            {
+                "name": "Process",
+                "url": "/topics/process"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Running",
+                "url": "/topics/running"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/chris_blackwell_538224",
+        "quote": "I'm intent on marketing Jamaica. Jamaica has the best coffee, the best sugar, the best ginger and some of the best cocoa in the world.",
+        "author": {
+            "name": "Chris Blackwell",
+            "url": "/quotes/chris_blackwell_538224"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Marketing",
+                "url": "/topics/marketing"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/chris_blackwell_538225",
+        "quote": "I think Jamaica would thrive if we promote agriculture as a way to bring people here.",
+        "author": {
+            "name": "Chris Blackwell",
+            "url": "/quotes/chris_blackwell_538225"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    }
+]

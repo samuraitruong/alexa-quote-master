@@ -1,0 +1,200 @@
+[
+    {
+        "url": "/quotes/jef_raskin_181798",
+        "quote": "As far as the customer is concerned, the interface is the product.",
+        "author": {
+            "name": "Jef Raskin",
+            "url": "/quotes/jef_raskin_181798"
+        },
+        "topics": [
+            {
+                "name": "Product",
+                "url": "/topics/product"
+            },
+            {
+                "name": "Concerned",
+                "url": "/topics/concerned"
+            },
+            {
+                "name": "Far",
+                "url": "/topics/far"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jef_raskin_181797",
+        "quote": "An interface is humane if it is responsive to human needs and considerate of human frailties.",
+        "author": {
+            "name": "Jef Raskin",
+            "url": "/quotes/jef_raskin_181797"
+        },
+        "topics": [
+            {
+                "name": "Considerate",
+                "url": "/topics/considerate"
+            },
+            {
+                "name": "Needs",
+                "url": "/topics/needs"
+            },
+            {
+                "name": "Humane",
+                "url": "/topics/humane"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jef_raskin_182601",
+        "quote": "Right now, computers, which are supposed to be our servant, are oppressing us.",
+        "author": {
+            "name": "Jef Raskin",
+            "url": "/quotes/jef_raskin_182601"
+        },
+        "topics": [
+            {
+                "name": "Computers",
+                "url": "/topics/computers"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Servant",
+                "url": "/topics/servant"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jef_raskin_182604",
+        "quote": "Users do not care about what is inside the box, as long as the box does what they need done.",
+        "author": {
+            "name": "Jef Raskin",
+            "url": "/quotes/jef_raskin_182604"
+        },
+        "topics": [
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Does",
+                "url": "/topics/does"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jef_raskin_173039",
+        "quote": "Imagine if every Thursday your shoes exploded if you tied them the usual way. This happens to us all the time with computers, and nobody thinks of complaining.",
+        "author": {
+            "name": "Jef Raskin",
+            "url": "/quotes/jef_raskin_173039"
+        },
+        "topics": [
+            {
+                "name": "Computers",
+                "url": "/topics/computers"
+            },
+            {
+                "name": "Imagine",
+                "url": "/topics/imagine"
+            },
+            {
+                "name": "Tied",
+                "url": "/topics/tied"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jef_raskin_181796",
+        "quote": "A computer shall not waste your time or require you to do more work than is strictly necessary.",
+        "author": {
+            "name": "Jef Raskin",
+            "url": "/quotes/jef_raskin_181796"
+        },
+        "topics": [
+            {
+                "name": "Waste",
+                "url": "/topics/waste"
+            },
+            {
+                "name": "Computer",
+                "url": "/topics/computer"
+            },
+            {
+                "name": "Necessary",
+                "url": "/topics/necessary"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jef_raskin_182603",
+        "quote": "Once the product's task is known, design the interface first; then implement to the interface design.",
+        "author": {
+            "name": "Jef Raskin",
+            "url": "/quotes/jef_raskin_182603"
+        },
+        "topics": [
+            {
+                "name": "Product",
+                "url": "/topics/product"
+            },
+            {
+                "name": "Task",
+                "url": "/topics/task"
+            },
+            {
+                "name": "Known",
+                "url": "/topics/known"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jef_raskin_182605",
+        "quote": "The system should treat all user input as sacred.",
+        "author": {
+            "name": "Jef Raskin",
+            "url": "/quotes/jef_raskin_182605"
+        },
+        "topics": [
+            {
+                "name": "Treat",
+                "url": "/topics/treat"
+            },
+            {
+                "name": "System",
+                "url": "/topics/system"
+            },
+            {
+                "name": "Input",
+                "url": "/topics/input"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jef_raskin_182606",
+        "quote": "A computer shall not harm your work or, through inaction, allow your work to come to harm.",
+        "author": {
+            "name": "Jef Raskin",
+            "url": "/quotes/jef_raskin_182606"
+        },
+        "topics": [
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Computer",
+                "url": "/topics/computer"
+            },
+            {
+                "name": "Allow",
+                "url": "/topics/allow"
+            }
+        ]
+    }
+]

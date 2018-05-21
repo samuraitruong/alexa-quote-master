@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/michael_spradlin_683062",
+        "quote": "I remember as a child, my mother loved Dean Martin. Every Christmas, about the only Christmas album that we were able to listen to was the Dean Martin Christmas album.",
+        "author": {
+            "name": "Michael Spradlin",
+            "url": "/quotes/michael_spradlin_683062"
+        },
+        "topics": [
+            {
+                "name": "I Remember",
+                "url": "/topics/i_remember"
+            },
+            {
+                "name": "Album",
+                "url": "/topics/album"
+            },
+            {
+                "name": "Dean",
+                "url": "/topics/dean"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/michael_spradlin_683063",
+        "quote": "'The Night of the Living Dead' zombies, I think I might have a shot at surviving. If they're the fast ones, I may have well just give up.",
+        "author": {
+            "name": "Michael Spradlin",
+            "url": "/quotes/michael_spradlin_683063"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    }
+]

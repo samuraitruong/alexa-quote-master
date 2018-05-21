@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/a_p_martinich_399928",
+        "quote": "A philosopher once said, 'Half of good philosophy is good grammar.'",
+        "author": {
+            "name": "A. P. Martinich",
+            "url": "/quotes/a_p_martinich_399928"
+        },
+        "topics": [
+            {
+                "name": "Half",
+                "url": "/topics/half"
+            },
+            {
+                "name": "Grammar",
+                "url": "/topics/grammar"
+            },
+            {
+                "name": "Philosopher",
+                "url": "/topics/philosopher"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/a_p_martinich_399225",
+        "quote": "God primes the pump of obligation.",
+        "author": {
+            "name": "A. P. Martinich",
+            "url": "/quotes/a_p_martinich_399225"
+        },
+        "topics": [
+            {
+                "name": "God",
+                "url": "/topics/god"
+            },
+            {
+                "name": "Obligation",
+                "url": "/topics/obligation"
+            },
+            {
+                "name": "Pump",
+                "url": "/topics/pump"
+            }
+        ]
+    }
+]

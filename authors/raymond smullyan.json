@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/raymond_smullyan_190329",
+        "quote": "Some people are always critical of vague statements. I tend rather to be critical of precise statements; they are the only ones which can correctly be labeled 'wrong'.",
+        "author": {
+            "name": "Raymond Smullyan",
+            "url": "/quotes/raymond_smullyan_190329"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Vague",
+                "url": "/topics/vague"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/raymond_smullyan_190330",
+        "quote": "Why should I be worried about dying? It's not going to happen in my lifetime!",
+        "author": {
+            "name": "Raymond Smullyan",
+            "url": "/quotes/raymond_smullyan_190330"
+        },
+        "topics": [
+            {
+                "name": "Dying",
+                "url": "/topics/dying"
+            },
+            {
+                "name": "Happen",
+                "url": "/topics/happen"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            }
+        ]
+    }
+]

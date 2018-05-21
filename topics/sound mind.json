@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/paul_valery_104279?src=t_sound_mind",
+        "quote": "A man who is 'of sound mind' is one who keeps the inner madman under lock and key.",
+        "author": {
+            "name": "Paul Valery",
+            "url": "/authors/paul_valery"
+        },
+        "topics": [
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Sound",
+                "url": "/topics/sound"
+            },
+            {
+                "name": "Lock",
+                "url": "/topics/lock"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_locke_151482?src=t_sound_mind",
+        "quote": "A sound mind in a sound body, is a short, but full description of a happy state in this World: he that has these two, has little more to wish for; and he that wants either of them, will be little the better for anything else.",
+        "author": {
+            "name": "John Locke",
+            "url": "/authors/john_locke"
+        },
+        "topics": [
+            {
+                "name": "Happy",
+                "url": "/topics/happy"
+            },
+            {
+                "name": "Sound",
+                "url": "/topics/sound"
+            },
+            {
+                "name": "Description",
+                "url": "/topics/description"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henry_home_190208?src=t_sound_mind",
+        "quote": "A rich man cannot enjoy a sound mind nor a sound body without exercise and abstinence; and yet these are truly the worst ingredients of poverty.",
+        "author": {
+            "name": "Henry Home",
+            "url": "/authors/henry_home"
+        },
+        "topics": [
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Rich",
+                "url": "/topics/rich"
+            },
+            {
+                "name": "Sound",
+                "url": "/topics/sound"
+            }
+        ]
+    }
+]

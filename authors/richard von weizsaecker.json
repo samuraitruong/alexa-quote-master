@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/richard_von_weizsaecker_112680",
+        "quote": "Seeking to forget makes exile all the longer; the secret of redemption lies in remembrance.",
+        "author": {
+            "name": "Richard von Weizsaecker",
+            "url": "/quotes/richard_von_weizsaecker_112680"
+        },
+        "topics": [
+            {
+                "name": "Forget",
+                "url": "/topics/forget"
+            },
+            {
+                "name": "Remembrance",
+                "url": "/topics/remembrance"
+            },
+            {
+                "name": "Longer",
+                "url": "/topics/longer"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/richard_von_weizsaecker_112679",
+        "quote": "Whoever refuses to remember the inhumanity is prone to new risks of infection.",
+        "author": {
+            "name": "Richard von Weizsaecker",
+            "url": "/quotes/richard_von_weizsaecker_112679"
+        },
+        "topics": [
+            {
+                "name": "Remember",
+                "url": "/topics/remember"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Infection",
+                "url": "/topics/infection"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/richard_von_weizsaecker_117166",
+        "quote": "All of us, whether guilty or not, whether old or young, must accept the past. It is not a case of coming to terms with the past. That is not possible. It cannot be subsequently modified or undone.",
+        "author": {
+            "name": "Richard von Weizsaecker",
+            "url": "/quotes/richard_von_weizsaecker_117166"
+        },
+        "topics": [
+            {
+                "name": "Past",
+                "url": "/topics/past"
+            },
+            {
+                "name": "Young",
+                "url": "/topics/young"
+            },
+            {
+                "name": "Old",
+                "url": "/topics/old"
+            }
+        ]
+    }
+]

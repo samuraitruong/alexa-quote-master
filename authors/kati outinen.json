@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/kati_outinen_712638",
+        "quote": "To me, Helsinki is one big movie studio.",
+        "author": {
+            "name": "Kati Outinen",
+            "url": "/quotes/kati_outinen_712638"
+        },
+        "topics": [
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Studio",
+                "url": "/topics/studio"
+            },
+            {
+                "name": "Big Movie",
+                "url": "/topics/big_movie"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kati_outinen_712639",
+        "quote": "Normally, Finns wait for a couple of years and watch Aki's films on television. But it is as though the international reputation of 'The Man Without a Past' caused them to go and see it at the cinema.",
+        "author": {
+            "name": "Kati Outinen",
+            "url": "/quotes/kati_outinen_712639"
+        },
+        "topics": [
+            {
+                "name": "Wait",
+                "url": "/topics/wait"
+            },
+            {
+                "name": "Couple",
+                "url": "/topics/couple"
+            },
+            {
+                "name": "Films",
+                "url": "/topics/films"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kati_outinen_712640",
+        "quote": "You have to remember that Finnish people hate art.",
+        "author": {
+            "name": "Kati Outinen",
+            "url": "/quotes/kati_outinen_712640"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Remember",
+                "url": "/topics/remember"
+            },
+            {
+                "name": "Finnish",
+                "url": "/topics/finnish"
+            }
+        ]
+    }
+]

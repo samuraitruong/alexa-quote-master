@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/bob_holden_238028",
+        "quote": "Missouri remains a low tax, efficiently run state, according to all prominent national rankings.",
+        "author": {
+            "name": "Bob Holden",
+            "url": "/quotes/bob_holden_238028"
+        },
+        "topics": [
+            {
+                "name": "Low",
+                "url": "/topics/low"
+            },
+            {
+                "name": "Prominent",
+                "url": "/topics/prominent"
+            },
+            {
+                "name": "Efficiently",
+                "url": "/topics/efficiently"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bob_holden_238031",
+        "quote": "We're only one of a few states that have maintained our Triple-A bond rating from the major rating agencies.",
+        "author": {
+            "name": "Bob Holden",
+            "url": "/quotes/bob_holden_238031"
+        },
+        "topics": [
+            {
+                "name": "Our",
+                "url": "/topics/our"
+            },
+            {
+                "name": "Rating",
+                "url": "/topics/rating"
+            },
+            {
+                "name": "Agencies",
+                "url": "/topics/agencies"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bob_holden_238032",
+        "quote": "More Missourians are working than ever before.",
+        "author": {
+            "name": "Bob Holden",
+            "url": "/quotes/bob_holden_238032"
+        },
+        "topics": [
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            },
+            {
+                "name": "Ever",
+                "url": "/topics/ever"
+            }
+        ]
+    }
+]

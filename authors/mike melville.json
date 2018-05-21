@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/mike_melville_115973",
+        "quote": "I've got tooth marks on my heart.",
+        "author": {
+            "name": "Mike Melville",
+            "url": "/quotes/mike_melville_115973"
+        },
+        "topics": [
+            {
+                "name": "Got",
+                "url": "/topics/got"
+            },
+            {
+                "name": "Tooth",
+                "url": "/topics/tooth"
+            },
+            {
+                "name": "Marks",
+                "url": "/topics/marks"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mike_melville_115974",
+        "quote": "What you want to do, and what you can do, is limited only by what you can dream.",
+        "author": {
+            "name": "Mike Melville",
+            "url": "/quotes/mike_melville_115974"
+        },
+        "topics": [
+            {
+                "name": "Dream",
+                "url": "/topics/dream"
+            },
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Limited",
+                "url": "/topics/limited"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/gabriela_mistral_267645",
+        "quote": "Many things we need can wait. The child cannot. Now is the time his bones are formed, his mind developed. To him we cannot say tomorrow, his name is today.",
+        "author": {
+            "name": "Gabriela Mistral",
+            "url": "/quotes/gabriela_mistral_267645"
+        },
+        "topics": [
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Wait",
+                "url": "/topics/wait"
+            },
+            {
+                "name": "We Cannot",
+                "url": "/topics/we_cannot"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gabriela_mistral_267642",
+        "quote": "At this moment, by an undeserved stroke of fortune, I am the direct voice of the poets of my race and the indirect voice for the noble Spanish and Portuguese tongues.",
+        "author": {
+            "name": "Gabriela Mistral",
+            "url": "/quotes/gabriela_mistral_267642"
+        },
+        "topics": [
+            {
+                "name": "Voice",
+                "url": "/topics/voice"
+            },
+            {
+                "name": "Fortune",
+                "url": "/topics/fortune"
+            },
+            {
+                "name": "Spanish",
+                "url": "/topics/spanish"
+            }
+        ]
+    }
+]

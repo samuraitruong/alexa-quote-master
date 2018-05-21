@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/david_carr_538942",
+        "quote": "We live in an age where there is a firehose of information, and there is no hierarchy of what is important and what is not. Where the truth is often fashioned through a variety of digital means. Are you your avatar? Who are you in social media? What face do you turn toward the world? How much does it have in common with who you actually are?",
+        "author": {
+            "name": "David Carr",
+            "url": "/quotes/david_carr_538942"
+        },
+        "topics": [
+            {
+                "name": "Media",
+                "url": "/topics/media"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Your",
+                "url": "/topics/your"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_carr_538941",
+        "quote": "Keep in mind that when public figures get in trouble for something they said, it is usually not because they misspoke, but because they accidentally told the truth.",
+        "author": {
+            "name": "David Carr",
+            "url": "/quotes/david_carr_538941"
+        },
+        "topics": [
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Something",
+                "url": "/topics/something"
+            },
+            {
+                "name": "Figures",
+                "url": "/topics/figures"
+            }
+        ]
+    }
+]

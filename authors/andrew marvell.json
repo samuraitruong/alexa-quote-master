@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/andrew_marvell_379559",
+        "quote": "Gather the flowers, but spare the buds.",
+        "author": {
+            "name": "Andrew Marvell",
+            "url": "/quotes/andrew_marvell_379559"
+        },
+        "topics": [
+            {
+                "name": "Flowers",
+                "url": "/topics/flowers"
+            },
+            {
+                "name": "Gather",
+                "url": "/topics/gather"
+            },
+            {
+                "name": "Buds",
+                "url": "/topics/buds"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/andrew_marvell_389587",
+        "quote": "Self-preservation, nature's first great law, all the creatures, except man, doth awe.",
+        "author": {
+            "name": "Andrew Marvell",
+            "url": "/quotes/andrew_marvell_389587"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "Law",
+                "url": "/topics/law"
+            },
+            {
+                "name": "Doth",
+                "url": "/topics/doth"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/andrew_marvell_166369",
+        "quote": "Had we but world enough, and time, this coyness, lady, were no crime.",
+        "author": {
+            "name": "Andrew Marvell",
+            "url": "/quotes/andrew_marvell_166369"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Lady",
+                "url": "/topics/lady"
+            },
+            {
+                "name": "Were",
+                "url": "/topics/were"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/andrew_marvell_138384",
+        "quote": "But at my back I always hear Time's winged chariot hurrying near.",
+        "author": {
+            "name": "Andrew Marvell",
+            "url": "/quotes/andrew_marvell_138384"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Winged",
+                "url": "/topics/winged"
+            },
+            {
+                "name": "Chariot",
+                "url": "/topics/chariot"
+            }
+        ]
+    }
+]

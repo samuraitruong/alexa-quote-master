@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/joan_leslie_224890",
+        "quote": "Who on earth can feel any respect for a girl who chases?",
+        "author": {
+            "name": "Joan Leslie",
+            "url": "/quotes/joan_leslie_224890"
+        },
+        "topics": [
+            {
+                "name": "Girl",
+                "url": "/topics/girl"
+            },
+            {
+                "name": "Earth",
+                "url": "/topics/earth"
+            },
+            {
+                "name": "Feel",
+                "url": "/topics/feel"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joan_leslie_224889",
+        "quote": "I am always begging them to spare me this chasing after men.",
+        "author": {
+            "name": "Joan Leslie",
+            "url": "/quotes/joan_leslie_224889"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Chasing",
+                "url": "/topics/chasing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joan_leslie_224891",
+        "quote": "I'd like to play nothing but good characters.",
+        "author": {
+            "name": "Joan Leslie",
+            "url": "/quotes/joan_leslie_224891"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Characters",
+                "url": "/topics/characters"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/john_hannah_207316",
+        "quote": "Higher education must lead the march back to the fundamentals of human relationships, to the old discovery that is ever new, that man does not live by bread alone.",
+        "author": {
+            "name": "John Hannah",
+            "url": "/quotes/john_hannah_207316"
+        },
+        "topics": [
+            {
+                "name": "Bread",
+                "url": "/topics/bread"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Fundamentals",
+                "url": "/topics/fundamentals"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_hannah_207317",
+        "quote": "The greatest ability in business is to get along with others and influence their actions. A chip on the shoulder is too heavy a piece of baggage to carry through life.",
+        "author": {
+            "name": "John Hannah",
+            "url": "/quotes/john_hannah_207317"
+        },
+        "topics": [
+            {
+                "name": "Business",
+                "url": "/topics/business"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Chip",
+                "url": "/topics/chip"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/bessie_head_212376",
+        "quote": "A discipline I have observed is an attitude of love and reverence to people.",
+        "author": {
+            "name": "Bessie Head",
+            "url": "/quotes/bessie_head_212376"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Discipline",
+                "url": "/topics/discipline"
+            },
+            {
+                "name": "Reverence",
+                "url": "/topics/reverence"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bessie_head_212377",
+        "quote": "Love is mutually feeding each other, not one living on another like a ghoul.",
+        "author": {
+            "name": "Bessie Head",
+            "url": "/quotes/bessie_head_212377"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Living",
+                "url": "/topics/living"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    }
+]

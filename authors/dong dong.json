@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/dong_dong_618541",
+        "quote": "No matter if you win or lose, the most important thing in life is to enjoy what you have.",
+        "author": {
+            "name": "Dong Dong",
+            "url": "/quotes/dong_dong_618541"
+        },
+        "topics": [
+            {
+                "name": "Lose",
+                "url": "/topics/lose"
+            },
+            {
+                "name": "The Most Important",
+                "url": "/topics/the_most_important"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dong_dong_618540",
+        "quote": "Don't judge a person on winning or losing.",
+        "author": {
+            "name": "Dong Dong",
+            "url": "/quotes/dong_dong_618540"
+        },
+        "topics": [
+            {
+                "name": "Winning",
+                "url": "/topics/winning"
+            },
+            {
+                "name": "Judge",
+                "url": "/topics/judge"
+            },
+            {
+                "name": "Person",
+                "url": "/topics/person"
+            }
+        ]
+    }
+]

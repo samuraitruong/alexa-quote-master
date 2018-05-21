@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/bruce_mccall_221855",
+        "quote": "I'm a great admirer of cartoons, because I can't do cartoons.",
+        "author": {
+            "name": "Bruce McCall",
+            "url": "/quotes/bruce_mccall_221855"
+        },
+        "topics": [
+            {
+                "name": "Because",
+                "url": "/topics/because"
+            },
+            {
+                "name": "Cartoons",
+                "url": "/topics/cartoons"
+            },
+            {
+                "name": "Admirer",
+                "url": "/topics/admirer"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bruce_mccall_221856",
+        "quote": "You can parody almost anything.",
+        "author": {
+            "name": "Bruce McCall",
+            "url": "/quotes/bruce_mccall_221856"
+        },
+        "topics": [
+            {
+                "name": "You",
+                "url": "/topics/you"
+            },
+            {
+                "name": "Almost",
+                "url": "/topics/almost"
+            },
+            {
+                "name": "Parody",
+                "url": "/topics/parody"
+            }
+        ]
+    }
+]

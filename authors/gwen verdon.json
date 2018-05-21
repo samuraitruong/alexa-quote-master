@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/gwen_verdon_302054",
+        "quote": "I can always remember the dances, even from shows I did 40 years ago.",
+        "author": {
+            "name": "Gwen Verdon",
+            "url": "/quotes/gwen_verdon_302054"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "I Can",
+                "url": "/topics/i_can"
+            },
+            {
+                "name": "Years",
+                "url": "/topics/years"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gwen_verdon_301331",
+        "quote": "Sex in a dance is in the eyes of the beholder. I never thought my dances sexy. I suppose that's because I see myself with my face washed, and to me I look like a rabbit.",
+        "author": {
+            "name": "Gwen Verdon",
+            "url": "/quotes/gwen_verdon_301331"
+        },
+        "topics": [
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Beholder",
+                "url": "/topics/beholder"
+            },
+            {
+                "name": "Washed",
+                "url": "/topics/washed"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gwen_verdon_302053",
+        "quote": "I always did each show for about two years. So if you play the music, it just comes back to me.",
+        "author": {
+            "name": "Gwen Verdon",
+            "url": "/quotes/gwen_verdon_302053"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Show",
+                "url": "/topics/show"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/alfredo_kraus_358127",
+        "quote": "Singing is a form of admitting that I'm alive.",
+        "author": {
+            "name": "Alfredo Kraus",
+            "url": "/quotes/alfredo_kraus_358127"
+        },
+        "topics": [
+            {
+                "name": "Singing",
+                "url": "/topics/singing"
+            },
+            {
+                "name": "Admitting",
+                "url": "/topics/admitting"
+            },
+            {
+                "name": "Form",
+                "url": "/topics/form"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alfredo_kraus_358126",
+        "quote": "You have to make a choice when you start to sing and decide whether you want to service the music, and be at the top of your art, or if you want to be a very popular tenor.",
+        "author": {
+            "name": "Alfredo Kraus",
+            "url": "/quotes/alfredo_kraus_358126"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alfredo_kraus_358129",
+        "quote": "I don't have the will for singing but I must do it.",
+        "author": {
+            "name": "Alfredo Kraus",
+            "url": "/quotes/alfredo_kraus_358129"
+        },
+        "topics": [
+            {
+                "name": "Singing",
+                "url": "/topics/singing"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Must",
+                "url": "/topics/must"
+            }
+        ]
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/jimmy_hoffa_132017",
+        "quote": "I may have many faults, but being wrong ain't one of them.",
+        "author": {
+            "name": "Jimmy Hoffa",
+            "url": "/quotes/jimmy_hoffa_132017"
+        },
+        "topics": [
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Being",
+                "url": "/topics/being"
+            },
+            {
+                "name": "Them",
+                "url": "/topics/them"
+            }
+        ]
+    }
+]

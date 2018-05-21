@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/a_j_langer_427354",
+        "quote": "I have a great life and I'm super active.",
+        "author": {
+            "name": "A. J. Langer",
+            "url": "/quotes/a_j_langer_427354"
+        },
+        "topics": [
+            {
+                "name": "Active",
+                "url": "/topics/active"
+            },
+            {
+                "name": "Great Life",
+                "url": "/topics/great_life"
+            },
+            {
+                "name": "Super",
+                "url": "/topics/super"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/a_j_langer_387817",
+        "quote": "You can't be a victim and heal.",
+        "author": {
+            "name": "A. J. Langer",
+            "url": "/quotes/a_j_langer_387817"
+        },
+        "topics": [
+            {
+                "name": "You",
+                "url": "/topics/you"
+            },
+            {
+                "name": "Heal",
+                "url": "/topics/heal"
+            },
+            {
+                "name": "Victim",
+                "url": "/topics/victim"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/a_j_langer_387959",
+        "quote": "You have to trust your body to take care of you.",
+        "author": {
+            "name": "A. J. Langer",
+            "url": "/quotes/a_j_langer_387959"
+        },
+        "topics": [
+            {
+                "name": "Trust",
+                "url": "/topics/trust"
+            },
+            {
+                "name": "Take Care",
+                "url": "/topics/take_care"
+            },
+            {
+                "name": "Take",
+                "url": "/topics/take"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/a_j_langer_387978",
+        "quote": "If I'm not living from my heart, I get sick.",
+        "author": {
+            "name": "A. J. Langer",
+            "url": "/quotes/a_j_langer_387978"
+        },
+        "topics": [
+            {
+                "name": "Living",
+                "url": "/topics/living"
+            },
+            {
+                "name": "Sick",
+                "url": "/topics/sick"
+            },
+            {
+                "name": "Get",
+                "url": "/topics/get"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/a_j_langer_427353",
+        "quote": "I don't look at myself as suffering.",
+        "author": {
+            "name": "A. J. Langer",
+            "url": "/quotes/a_j_langer_427353"
+        },
+        "topics": [
+            {
+                "name": "Myself",
+                "url": "/topics/myself"
+            },
+            {
+                "name": "Suffering",
+                "url": "/topics/suffering"
+            },
+            {
+                "name": "Look",
+                "url": "/topics/look"
+            }
+        ]
+    }
+]

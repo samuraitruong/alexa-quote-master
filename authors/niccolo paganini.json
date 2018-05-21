@@ -1,0 +1,134 @@
+[
+    {
+        "url": "/quotes/niccolo_paganini_197979",
+        "quote": "I am not handsome, but when women hear me play, they come crawling to my feet.",
+        "author": {
+            "name": "Niccolo Paganini",
+            "url": "/quotes/niccolo_paganini_197979"
+        },
+        "topics": [
+            {
+                "name": "Feet",
+                "url": "/topics/feet"
+            },
+            {
+                "name": "Handsome",
+                "url": "/topics/handsome"
+            },
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/niccolo_paganini_825336",
+        "quote": "The violin is my mistress, but the guitar is my master.",
+        "author": {
+            "name": "Niccolo Paganini",
+            "url": "/quotes/niccolo_paganini_825336"
+        },
+        "topics": [
+            {
+                "name": "Guitar",
+                "url": "/topics/guitar"
+            },
+            {
+                "name": "Violin",
+                "url": "/topics/violin"
+            },
+            {
+                "name": "Mistress",
+                "url": "/topics/mistress"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/niccolo_paganini_825337",
+        "quote": "In order to move others, I must be moved.",
+        "author": {
+            "name": "Niccolo Paganini",
+            "url": "/quotes/niccolo_paganini_825337"
+        },
+        "topics": [
+            {
+                "name": "Move",
+                "url": "/topics/move"
+            },
+            {
+                "name": "Moved",
+                "url": "/topics/moved"
+            },
+            {
+                "name": "Must",
+                "url": "/topics/must"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/niccolo_paganini_825338",
+        "quote": "At Vienna, one of the audience affirmed publicly that my performance was not surprising, for he had distinctly seen, while I was playing my variations, the devil at my elbow, directing my arm and guiding my bow. My resemblance to the devil was a proof of my origin.",
+        "author": {
+            "name": "Niccolo Paganini",
+            "url": "/quotes/niccolo_paganini_825338"
+        },
+        "topics": [
+            {
+                "name": "Origin",
+                "url": "/topics/origin"
+            },
+            {
+                "name": "Guiding",
+                "url": "/topics/guiding"
+            },
+            {
+                "name": "Elbow",
+                "url": "/topics/elbow"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/niccolo_paganini_825334",
+        "quote": "When I attained my seventh year, my father, whose ear was unmusical but who was nevertheless passionately fond of music, gave me my elementary lessons on the violin; in a very few months, I was able to play all manner of compositions at sight.",
+        "author": {
+            "name": "Niccolo Paganini",
+            "url": "/quotes/niccolo_paganini_825334"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Nevertheless",
+                "url": "/topics/nevertheless"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/niccolo_paganini_825335",
+        "quote": "At a grand evening service in a church, my concerto created such a furor that the worshippers rushed out to keep the crowd outside the church quiet.",
+        "author": {
+            "name": "Niccolo Paganini",
+            "url": "/quotes/niccolo_paganini_825335"
+        },
+        "topics": [
+            {
+                "name": "Church",
+                "url": "/topics/church"
+            },
+            {
+                "name": "Crowd",
+                "url": "/topics/crowd"
+            },
+            {
+                "name": "Created",
+                "url": "/topics/created"
+            }
+        ]
+    }
+]

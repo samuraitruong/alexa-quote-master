@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/tom_petri_404571",
+        "quote": "It isn't the original scandal that gets people in the most trouble - it's the attempted cover-up.",
+        "author": {
+            "name": "Tom Petri",
+            "url": "/quotes/tom_petri_404571"
+        },
+        "topics": [
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "Original",
+                "url": "/topics/original"
+            },
+            {
+                "name": "Scandal",
+                "url": "/topics/scandal"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tom_petri_404658",
+        "quote": "As so often happens with Washington scandals, it isn't the original scandal that gets people in the most trouble - it's the attempted cover-up.",
+        "author": {
+            "name": "Tom Petri",
+            "url": "/quotes/tom_petri_404658"
+        },
+        "topics": [
+            {
+                "name": "Original",
+                "url": "/topics/original"
+            },
+            {
+                "name": "Often",
+                "url": "/topics/often"
+            },
+            {
+                "name": "Gets",
+                "url": "/topics/gets"
+            }
+        ]
+    }
+]

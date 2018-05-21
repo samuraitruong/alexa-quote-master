@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/robin_givens_307679",
+        "quote": "I want someone who can handle me. And I'm not the easiest person to handle.",
+        "author": {
+            "name": "Robin Givens",
+            "url": "/quotes/robin_givens_307679"
+        },
+        "topics": [
+            {
+                "name": "Someone",
+                "url": "/topics/someone"
+            },
+            {
+                "name": "Person",
+                "url": "/topics/person"
+            },
+            {
+                "name": "Easiest",
+                "url": "/topics/easiest"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robin_givens_425659",
+        "quote": "I was hit for the first time before I was married.",
+        "author": {
+            "name": "Robin Givens",
+            "url": "/quotes/robin_givens_425659"
+        },
+        "topics": [
+            {
+                "name": "First Time",
+                "url": "/topics/first_time"
+            },
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            },
+            {
+                "name": "Hit",
+                "url": "/topics/hit"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robin_givens_640633",
+        "quote": "I'm one of the nicest, most fair people I know.",
+        "author": {
+            "name": "Robin Givens",
+            "url": "/quotes/robin_givens_640633"
+        },
+        "topics": [
+            {
+                "name": "Know",
+                "url": "/topics/know"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "Nicest",
+                "url": "/topics/nicest"
+            }
+        ]
+    }
+]

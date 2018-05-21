@@ -1,0 +1,60 @@
+[
+    {
+        "url": "/quotes/russell_mark_140468",
+        "quote": "Competing at the highest level is the greatest test of one's character.",
+        "author": {
+            "name": "Russell Mark",
+            "url": "/quotes/russell_mark_140468"
+        },
+        "topics": [
+            {
+                "name": "Competing",
+                "url": "/topics/competing"
+            },
+            {
+                "name": "Highest Level",
+                "url": "/topics/highest_level"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/russell_mark_140469",
+        "quote": "The Olympic Games is the ultimate level of competition.",
+        "author": {
+            "name": "Russell Mark",
+            "url": "/quotes/russell_mark_140469"
+        },
+        "topics": [
+            {
+                "name": "Olympic Games",
+                "url": "/topics/olympic_games"
+            },
+            {
+                "name": "Olympic",
+                "url": "/topics/olympic"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/russell_mark_140470",
+        "quote": "Being an Olympian is the ultimate test of one's sporting ability.",
+        "author": {
+            "name": "Russell Mark",
+            "url": "/quotes/russell_mark_140470"
+        },
+        "topics": [
+            {
+                "name": "Test",
+                "url": "/topics/test"
+            },
+            {
+                "name": "Olympian",
+                "url": "/topics/olympian"
+            },
+            {
+                "name": "Ultimate",
+                "url": "/topics/ultimate"
+            }
+        ]
+    }
+]

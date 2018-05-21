@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/james_keller_192856",
+        "quote": "A candle loses nothing by lighting another candle.",
+        "author": {
+            "name": "James Keller",
+            "url": "/quotes/james_keller_192856"
+        },
+        "topics": [
+            {
+                "name": "Candle",
+                "url": "/topics/candle"
+            },
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            },
+            {
+                "name": "Another",
+                "url": "/topics/another"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_keller_192854",
+        "quote": "Three hundred years ago a prisoner condemned to the Tower of London carved on the wall of his cell this sentiment to keep up his spirits during his long imprisonment: 'It is not adversity that kills, but the impatience with which we bear adversity.",
+        "author": {
+            "name": "James Keller",
+            "url": "/quotes/james_keller_192854"
+        },
+        "topics": [
+            {
+                "name": "London",
+                "url": "/topics/london"
+            },
+            {
+                "name": "Sentiment",
+                "url": "/topics/sentiment"
+            },
+            {
+                "name": "Hundred",
+                "url": "/topics/hundred"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_keller_192858",
+        "quote": "It is so often true that whether a person carries with him an atmosphere of gloom and depression or one of confidence and courage depends on his individual outlook.",
+        "author": {
+            "name": "James Keller",
+            "url": "/quotes/james_keller_192858"
+        },
+        "topics": [
+            {
+                "name": "Individual",
+                "url": "/topics/individual"
+            },
+            {
+                "name": "Atmosphere",
+                "url": "/topics/atmosphere"
+            }
+        ]
+    }
+]

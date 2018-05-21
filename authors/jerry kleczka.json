@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/jerry_kleczka_368713",
+        "quote": "You can go out feet first, and that's not my desire, or you can say, I think we've served with distinction, and this is the time to go home and seek a new challenge.",
+        "author": {
+            "name": "Jerry Kleczka",
+            "url": "/quotes/jerry_kleczka_368713"
+        },
+        "topics": [
+            {
+                "name": "Feet",
+                "url": "/topics/feet"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jerry_kleczka_368715",
+        "quote": "There's never any ability to plan a personal life.",
+        "author": {
+            "name": "Jerry Kleczka",
+            "url": "/quotes/jerry_kleczka_368715"
+        },
+        "topics": [
+            {
+                "name": "Personal",
+                "url": "/topics/personal"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Ability",
+                "url": "/topics/ability"
+            }
+        ]
+    }
+]

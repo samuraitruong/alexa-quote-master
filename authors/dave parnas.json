@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/dave_parnas_523902",
+        "quote": "There are no standards for computer programmers and no group to certify them.",
+        "author": {
+            "name": "Dave Parnas",
+            "url": "/quotes/dave_parnas_523902"
+        },
+        "topics": [
+            {
+                "name": "Standards",
+                "url": "/topics/standards"
+            },
+            {
+                "name": "Computer",
+                "url": "/topics/computer"
+            },
+            {
+                "name": "Them",
+                "url": "/topics/them"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dave_parnas_109417",
+        "quote": "Whenever anyone says, 'theoretically,' they really mean, 'not really.'",
+        "author": {
+            "name": "Dave Parnas",
+            "url": "/quotes/dave_parnas_109417"
+        },
+        "topics": [
+            {
+                "name": "Science",
+                "url": "/topics/science"
+            },
+            {
+                "name": "Whenever",
+                "url": "/topics/whenever"
+            },
+            {
+                "name": "Anyone",
+                "url": "/topics/anyone"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dave_parnas_131239",
+        "quote": "As a rule, software systems do not work well until they have been used, and have failed repeatedly, in real applications.",
+        "author": {
+            "name": "Dave Parnas",
+            "url": "/quotes/dave_parnas_131239"
+        },
+        "topics": [
+            {
+                "name": "Computers",
+                "url": "/topics/computers"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Repeatedly",
+                "url": "/topics/repeatedly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dave_parnas_523900",
+        "quote": "My judgment is that research in 'Star Wars' is going to fail, and I believe this so strongly that I'm willing to stake my professional reputation on this. I don't believe anybody is going to build this thing.",
+        "author": {
+            "name": "Dave Parnas",
+            "url": "/quotes/dave_parnas_523900"
+        },
+        "topics": [
+            {
+                "name": "Star",
+                "url": "/topics/star"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Star Wars",
+                "url": "/topics/star_wars"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dave_parnas_523901",
+        "quote": "When someone builds a bridge, he uses engineers who have been certified as knowing what they are doing. Yet when someone builds you a software program, he has no similar certification, even though your safety may be just as dependent upon that software working as it is upon the bridge supporting your weight.",
+        "author": {
+            "name": "Dave Parnas",
+            "url": "/quotes/dave_parnas_523901"
+        },
+        "topics": [
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/john_dobbin_141828",
+        "quote": "In reality, everyone is good in bed. Close eyes. Shutdown brain. Pause as necessary. Restart brain. Open eyes. What's there to not be good at? Bed is the one place where laziness is rewarded.",
+        "author": {
+            "name": "John Dobbin",
+            "url": "/quotes/john_dobbin_141828"
+        },
+        "topics": [
+            {
+                "name": "Bed",
+                "url": "/topics/bed"
+            },
+            {
+                "name": "Everyone",
+                "url": "/topics/everyone"
+            },
+            {
+                "name": "Necessary",
+                "url": "/topics/necessary"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_dobbin_130192",
+        "quote": "Internet mailing lists are like Fox television shows. They have really cool previews, and they get you all excited about them, but they just don't live up to their promises.",
+        "author": {
+            "name": "John Dobbin",
+            "url": "/quotes/john_dobbin_130192"
+        },
+        "topics": [
+            {
+                "name": "Television",
+                "url": "/topics/television"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Excited",
+                "url": "/topics/excited"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_dobbin_141829",
+        "quote": "In the time honored tradition of email, just ignore the question.",
+        "author": {
+            "name": "John Dobbin",
+            "url": "/quotes/john_dobbin_141829"
+        },
+        "topics": [
+            {
+                "name": "Time",
+                "url": "/topics/time"
+            },
+            {
+                "name": "Ignore",
+                "url": "/topics/ignore"
+            },
+            {
+                "name": "Question",
+                "url": "/topics/question"
+            }
+        ]
+    }
+]

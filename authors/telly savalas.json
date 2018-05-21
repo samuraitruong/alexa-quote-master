@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/telly_savalas_197905",
+        "quote": "We're all born bald, baby.",
+        "author": {
+            "name": "Telly Savalas",
+            "url": "/quotes/telly_savalas_197905"
+        },
+        "topics": [
+            {
+                "name": "Baby",
+                "url": "/topics/baby"
+            },
+            {
+                "name": "Born",
+                "url": "/topics/born"
+            },
+            {
+                "name": "Bald",
+                "url": "/topics/bald"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/telly_savalas_678790",
+        "quote": "I'm a proud Greek. I carry my Hellenism like a badge of merit.",
+        "author": {
+            "name": "Telly Savalas",
+            "url": "/quotes/telly_savalas_678790"
+        },
+        "topics": [
+            {
+                "name": "Proud",
+                "url": "/topics/proud"
+            },
+            {
+                "name": "Badge",
+                "url": "/topics/badge"
+            },
+            {
+                "name": "Greek",
+                "url": "/topics/greek"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/telly_savalas_678791",
+        "quote": "I'm a romantic realist. I knew I would become a star, just as I know some day the bubble will burst.",
+        "author": {
+            "name": "Telly Savalas",
+            "url": "/quotes/telly_savalas_678791"
+        },
+        "topics": [
+            {
+                "name": "Star",
+                "url": "/topics/star"
+            },
+            {
+                "name": "Realist",
+                "url": "/topics/realist"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/telly_savalas_678789",
+        "quote": "I was born with a romantic nature, and I'll carry it to my grave.",
+        "author": {
+            "name": "Telly Savalas",
+            "url": "/quotes/telly_savalas_678789"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "Romantic",
+                "url": "/topics/romantic"
+            },
+            {
+                "name": "Grave",
+                "url": "/topics/grave"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/telly_savalas_678793",
+        "quote": "I came from a tough neighborhood. I used to be a 'dirty Greek.'",
+        "author": {
+            "name": "Telly Savalas",
+            "url": "/quotes/telly_savalas_678793"
+        },
+        "topics": [
+            {
+                "name": "Dirty",
+                "url": "/topics/dirty"
+            },
+            {
+                "name": "Greek",
+                "url": "/topics/greek"
+            },
+            {
+                "name": "Came",
+                "url": "/topics/came"
+            }
+        ]
+    }
+]

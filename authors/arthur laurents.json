@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/arthur_laurents_303727",
+        "quote": "That was all and it was enough for me: fantasies are better left fantasies.",
+        "author": {
+            "name": "Arthur Laurents",
+            "url": "/quotes/arthur_laurents_303727"
+        },
+        "topics": [
+            {
+                "name": "Better",
+                "url": "/topics/better"
+            },
+            {
+                "name": "Left",
+                "url": "/topics/left"
+            },
+            {
+                "name": "Fantasies",
+                "url": "/topics/fantasies"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/arthur_laurents_403435",
+        "quote": "Psychoanalysts and elephants, they never forget.",
+        "author": {
+            "name": "Arthur Laurents",
+            "url": "/quotes/arthur_laurents_403435"
+        },
+        "topics": [
+            {
+                "name": "Forget",
+                "url": "/topics/forget"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Elephants",
+                "url": "/topics/elephants"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/hulagu_khan_375633",
+        "quote": "I will burn your city, your land, your self.",
+        "author": {
+            "name": "Hulagu Khan",
+            "url": "/quotes/hulagu_khan_375633"
+        },
+        "topics": [
+            {
+                "name": "City",
+                "url": "/topics/city"
+            },
+            {
+                "name": "Burn",
+                "url": "/topics/burn"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/hulagu_khan_375632",
+        "quote": "If you wish to spare yourself and your venerable family, give heed to my advice with the ear of intelligence. If you do not, you will see what God has willed.",
+        "author": {
+            "name": "Hulagu Khan",
+            "url": "/quotes/hulagu_khan_375632"
+        },
+        "topics": [
+            {
+                "name": "Advice",
+                "url": "/topics/advice"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    }
+]

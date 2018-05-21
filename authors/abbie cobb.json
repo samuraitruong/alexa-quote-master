@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/abbie_cobb_554086",
+        "quote": "I feel so fortunate and lucky I don't have to be a waitress or a bartender or a personal trainer.",
+        "author": {
+            "name": "Abbie Cobb",
+            "url": "/quotes/abbie_cobb_554086"
+        },
+        "topics": [
+            {
+                "name": "Lucky",
+                "url": "/topics/lucky"
+            },
+            {
+                "name": "Trainer",
+                "url": "/topics/trainer"
+            },
+            {
+                "name": "Waitress",
+                "url": "/topics/waitress"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/abbie_cobb_554087",
+        "quote": "It's so fun to play a villain. I get to tap into a side of myself I thought I never had.",
+        "author": {
+            "name": "Abbie Cobb",
+            "url": "/quotes/abbie_cobb_554087"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Side",
+                "url": "/topics/side"
+            },
+            {
+                "name": "Tap",
+                "url": "/topics/tap"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/felix_feneon_672617",
+        "quote": "If Monsieur X spent an eternity studying treatises on optics, he would never paint 'La Grande Jatte.'",
+        "author": {
+            "name": "Felix Feneon",
+            "url": "/quotes/felix_feneon_672617"
+        },
+        "topics": [
+            {
+                "name": "Studying",
+                "url": "/topics/studying"
+            },
+            {
+                "name": "Eternity",
+                "url": "/topics/eternity"
+            },
+            {
+                "name": "Spent",
+                "url": "/topics/spent"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/felix_feneon_672618",
+        "quote": "I aspire only to silence.",
+        "author": {
+            "name": "Felix Feneon",
+            "url": "/quotes/felix_feneon_672618"
+        },
+        "topics": [
+            {
+                "name": "Silence",
+                "url": "/topics/silence"
+            },
+            {
+                "name": "Aspire",
+                "url": "/topics/aspire"
+            },
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            }
+        ]
+    }
+]

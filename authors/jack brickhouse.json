@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/jack_brickhouse_355881",
+        "quote": "Any team can have a bad century.",
+        "author": {
+            "name": "Jack Brickhouse",
+            "url": "/quotes/jack_brickhouse_355881"
+        },
+        "topics": [
+            {
+                "name": "Team",
+                "url": "/topics/team"
+            },
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            },
+            {
+                "name": "Century",
+                "url": "/topics/century"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jack_brickhouse_355882",
+        "quote": "I regard sports first and foremost as entertainment, so dry documentary narration is not for me.",
+        "author": {
+            "name": "Jack Brickhouse",
+            "url": "/quotes/jack_brickhouse_355882"
+        },
+        "topics": [
+            {
+                "name": "Sports",
+                "url": "/topics/sports"
+            },
+            {
+                "name": "Entertainment",
+                "url": "/topics/entertainment"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jack_brickhouse_355883",
+        "quote": "I'm convinced you can combine this with reporting integrity and accuracy.",
+        "author": {
+            "name": "Jack Brickhouse",
+            "url": "/quotes/jack_brickhouse_355883"
+        },
+        "topics": [
+            {
+                "name": "Integrity",
+                "url": "/topics/integrity"
+            },
+            {
+                "name": "You",
+                "url": "/topics/you"
+            },
+            {
+                "name": "Convinced",
+                "url": "/topics/convinced"
+            }
+        ]
+    }
+]

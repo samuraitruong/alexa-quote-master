@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/william_daniels_207464",
+        "quote": "He's computerized, but I won't let him come on cold. I created KITT. I understand the personality of the car.",
+        "author": {
+            "name": "William Daniels",
+            "url": "/quotes/william_daniels_207464"
+        },
+        "topics": [
+            {
+                "name": "Car",
+                "url": "/topics/car"
+            },
+            {
+                "name": "Personality",
+                "url": "/topics/personality"
+            },
+            {
+                "name": "Created",
+                "url": "/topics/created"
+            }
+        ]
+    }
+]

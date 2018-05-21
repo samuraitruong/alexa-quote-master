@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/olof_palme_184914",
+        "quote": "The rights of democracy are not reserved for a select group within society, they are the rights of all the people.",
+        "author": {
+            "name": "Olof Palme",
+            "url": "/quotes/olof_palme_184914"
+        },
+        "topics": [
+            {
+                "name": "Society",
+                "url": "/topics/society"
+            },
+            {
+                "name": "Reserved",
+                "url": "/topics/reserved"
+            },
+            {
+                "name": "Select",
+                "url": "/topics/select"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/olof_palme_184886",
+        "quote": "For us democracy is a question of human dignity. And human dignity is political freedom.",
+        "author": {
+            "name": "Olof Palme",
+            "url": "/quotes/olof_palme_184886"
+        },
+        "topics": [
+            {
+                "name": "Question",
+                "url": "/topics/question"
+            },
+            {
+                "name": "Human Dignity",
+                "url": "/topics/human_dignity"
+            }
+        ]
+    }
+]

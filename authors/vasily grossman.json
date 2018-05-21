@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/vasily_grossman_533253",
+        "quote": "I have written only what I have thought through, felt through and suffered through.",
+        "author": {
+            "name": "Vasily Grossman",
+            "url": "/quotes/vasily_grossman_533253"
+        },
+        "topics": [
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Suffered",
+                "url": "/topics/suffered"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/vasily_grossman_533254",
+        "quote": "Humanity will live as long as there are humans.",
+        "author": {
+            "name": "Vasily Grossman",
+            "url": "/quotes/vasily_grossman_533254"
+        },
+        "topics": [
+            {
+                "name": "Live",
+                "url": "/topics/live"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Humans",
+                "url": "/topics/humans"
+            }
+        ]
+    }
+]

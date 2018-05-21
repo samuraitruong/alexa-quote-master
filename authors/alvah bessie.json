@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/alvah_bessie_400040",
+        "quote": "When you're dealing with monkeys, you've got to expect some wrenches.",
+        "author": {
+            "name": "Alvah Bessie",
+            "url": "/quotes/alvah_bessie_400040"
+        },
+        "topics": [
+            {
+                "name": "Expect",
+                "url": "/topics/expect"
+            },
+            {
+                "name": "Monkeys",
+                "url": "/topics/monkeys"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alvah_bessie_397686",
+        "quote": "Maybe! Maybe! Maybe if your aunt had a beard, she'd be your uncle.",
+        "author": {
+            "name": "Alvah Bessie",
+            "url": "/quotes/alvah_bessie_397686"
+        },
+        "topics": [
+            {
+                "name": "Beard",
+                "url": "/topics/beard"
+            },
+            {
+                "name": "She",
+                "url": "/topics/she"
+            },
+            {
+                "name": "Maybe",
+                "url": "/topics/maybe"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alvah_bessie_408990",
+        "quote": "So, my sweetheart back home writes to me and wants to know what this gal in Bombay's got that she hasn't got. So I just write back to her and says, Nothin', honey. Only she's got it here.",
+        "author": {
+            "name": "Alvah Bessie",
+            "url": "/quotes/alvah_bessie_408990"
+        },
+        "topics": [
+            {
+                "name": "Back",
+                "url": "/topics/back"
+            },
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            },
+            {
+                "name": "Sweetheart",
+                "url": "/topics/sweetheart"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alvah_bessie_400061",
+        "quote": "That's what the cat said to the canary when he swallowed him - 'You'll be all right.'",
+        "author": {
+            "name": "Alvah Bessie",
+            "url": "/quotes/alvah_bessie_400061"
+        },
+        "topics": [
+            {
+                "name": "Cat",
+                "url": "/topics/cat"
+            },
+            {
+                "name": "Canary",
+                "url": "/topics/canary"
+            },
+            {
+                "name": "Swallowed",
+                "url": "/topics/swallowed"
+            }
+        ]
+    }
+]

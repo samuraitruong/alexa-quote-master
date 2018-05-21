@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/juan_rulfo_239964",
+        "quote": "I am talking about misery and all of its implications.",
+        "author": {
+            "name": "Juan Rulfo",
+            "url": "/quotes/juan_rulfo_239964"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Implications",
+                "url": "/topics/implications"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/juan_rulfo_239966",
+        "quote": "Because to write, one must truly suffer.",
+        "author": {
+            "name": "Juan Rulfo",
+            "url": "/quotes/juan_rulfo_239966"
+        },
+        "topics": [
+            {
+                "name": "Suffer",
+                "url": "/topics/suffer"
+            },
+            {
+                "name": "Because",
+                "url": "/topics/because"
+            },
+            {
+                "name": "Must",
+                "url": "/topics/must"
+            }
+        ]
+    }
+]

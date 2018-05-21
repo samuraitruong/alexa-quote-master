@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/alain_aspect_638349",
+        "quote": "The main ingredient of the first quantum revolution, wave-particle duality, has led to inventions such as the transistor and the laser that are at the root of the information society.",
+        "author": {
+            "name": "Alain Aspect",
+            "url": "/quotes/alain_aspect_638349"
+        },
+        "topics": [
+            {
+                "name": "Quantum",
+                "url": "/topics/quantum"
+            },
+            {
+                "name": "Main",
+                "url": "/topics/main"
+            },
+            {
+                "name": "Ingredient",
+                "url": "/topics/ingredient"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alain_aspect_638348",
+        "quote": "The development of quantum mechanics early in the twentieth century obliged physicists to change radically the concepts they used to describe the world.",
+        "author": {
+            "name": "Alain Aspect",
+            "url": "/quotes/alain_aspect_638348"
+        },
+        "topics": [
+            {
+                "name": "Obliged",
+                "url": "/topics/obliged"
+            },
+            {
+                "name": "Quantum Mechanics",
+                "url": "/topics/quantum_mechanics"
+            }
+        ]
+    }
+]

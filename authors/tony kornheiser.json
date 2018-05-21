@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/tony_kornheiser_404563",
+        "quote": "The Bears treat offense as if it's bubonic plague.",
+        "author": {
+            "name": "Tony Kornheiser",
+            "url": "/quotes/tony_kornheiser_404563"
+        },
+        "topics": [
+            {
+                "name": "Treat",
+                "url": "/topics/treat"
+            },
+            {
+                "name": "Offense",
+                "url": "/topics/offense"
+            },
+            {
+                "name": "Bears",
+                "url": "/topics/bears"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tony_kornheiser_404573",
+        "quote": "I've got about 27 gigs right now. I've got radio, I've got television, I've got The Washington Post.",
+        "author": {
+            "name": "Tony Kornheiser",
+            "url": "/quotes/tony_kornheiser_404573"
+        },
+        "topics": [
+            {
+                "name": "Television",
+                "url": "/topics/television"
+            },
+            {
+                "name": "Now",
+                "url": "/topics/now"
+            },
+            {
+                "name": "Post",
+                "url": "/topics/post"
+            }
+        ]
+    }
+]

@@ -1,0 +1,126 @@
+[
+    {
+        "url": "/quotes/alfred_hitchcock_158334?src=t_scruples",
+        "quote": "There is nothing to winning, really. That is, if you happen to be blessed with a keen eye, an agile mind, and no scruples whatsoever.",
+        "author": {
+            "name": "Alfred Hitchcock",
+            "url": "/authors/alfred_hitchcock"
+        },
+        "topics": [
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Happen",
+                "url": "/topics/happen"
+            },
+            {
+                "name": "Whatsoever",
+                "url": "/topics/whatsoever"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/moliere_398997?src=t_scruples",
+        "quote": "I have the knack of easing scruples.",
+        "author": {
+            "name": "Moliere",
+            "url": "/authors/moliere"
+        },
+        "topics": [
+            {
+                "name": "Knack",
+                "url": "/topics/knack"
+            },
+            {
+                "name": "Easing",
+                "url": "/topics/easing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/xun_kuang_333698?src=t_scruples",
+        "quote": "Quarreling over food and drink, having neither scruples nor shame, not knowing right from wrong, not trying to avoid death or injury, not fearful of greater strength or of greater numbers, greedily aware only of food and drink - such is the bravery of the dog and boar.",
+        "author": {
+            "name": "Xun Kuang",
+            "url": "/authors/xun_kuang"
+        },
+        "topics": [
+            {
+                "name": "Strength",
+                "url": "/topics/strength"
+            },
+            {
+                "name": "Death",
+                "url": "/topics/death"
+            },
+            {
+                "name": "Shame",
+                "url": "/topics/shame"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/helmut_jahn_325272?src=t_scruples",
+        "quote": "The architecture profession has lost a lot of its integrity, especially in the USA. The general architect here has no scruples, no ambitions.",
+        "author": {
+            "name": "Helmut Jahn",
+            "url": "/authors/helmut_jahn"
+        },
+        "topics": [
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            },
+            {
+                "name": "Lot",
+                "url": "/topics/lot"
+            },
+            {
+                "name": "Profession",
+                "url": "/topics/profession"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_morris_hunt_542435?src=t_scruples",
+        "quote": "I don't like persuaded sitters. I never could paint a cat if the cat had any scruples, religious, superstitious, or otherwise, about sitting.",
+        "author": {
+            "name": "William Morris Hunt",
+            "url": "/authors/william_morris_hunt"
+        },
+        "topics": [
+            {
+                "name": "Religious",
+                "url": "/topics/religious"
+            },
+            {
+                "name": "Otherwise",
+                "url": "/topics/otherwise"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/markus_wolf_234598?src=t_scruples",
+        "quote": "One person can take papers, photograph them without getting excited, return them, and give them away without any scruples; while someone else has to overcome an enormous obstacle.",
+        "author": {
+            "name": "Markus Wolf",
+            "url": "/authors/markus_wolf"
+        },
+        "topics": [
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            },
+            {
+                "name": "Excited",
+                "url": "/topics/excited"
+            },
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            }
+        ]
+    }
+]

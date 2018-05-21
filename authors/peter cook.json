@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/peter_cook_170153",
+        "quote": "I would much prefer to be a judge than a coal miner because of the absence of falling coal.",
+        "author": {
+            "name": "Peter Cook",
+            "url": "/quotes/peter_cook_170153"
+        },
+        "topics": [
+            {
+                "name": "Falling",
+                "url": "/topics/falling"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            },
+            {
+                "name": "Prefer",
+                "url": "/topics/prefer"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/peter_cook_183023",
+        "quote": "I am very interested in the Universe - I am specialising in the Universe and all that surrounds it.",
+        "author": {
+            "name": "Peter Cook",
+            "url": "/quotes/peter_cook_183023"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Universe",
+                "url": "/topics/universe"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    }
+]

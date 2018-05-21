@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/francis_i_185239",
+        "quote": "There is nothing left to me but honor, and my life, which is saved.",
+        "author": {
+            "name": "Francis I",
+            "url": "/quotes/francis_i_185239"
+        },
+        "topics": [
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Left",
+                "url": "/topics/left"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/francis_i_185241",
+        "quote": "Woman is always fickle - foolish is he who trusts her.",
+        "author": {
+            "name": "Francis I",
+            "url": "/quotes/francis_i_185241"
+        },
+        "topics": [
+            {
+                "name": "Woman",
+                "url": "/topics/woman"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Fickle",
+                "url": "/topics/fickle"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/francis_i_185240",
+        "quote": "Persons famous in the arts partake of the immortality of princes, and are upon a footing with them.",
+        "author": {
+            "name": "Francis I",
+            "url": "/quotes/francis_i_185240"
+        },
+        "topics": [
+            {
+                "name": "Famous",
+                "url": "/topics/famous"
+            },
+            {
+                "name": "Immortality",
+                "url": "/topics/immortality"
+            },
+            {
+                "name": "Persons",
+                "url": "/topics/persons"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/francis_i_185238",
+        "quote": "All is lost save honor.",
+        "author": {
+            "name": "Francis I",
+            "url": "/quotes/francis_i_185238"
+        },
+        "topics": [
+            {
+                "name": "Lost",
+                "url": "/topics/lost"
+            },
+            {
+                "name": "Honor",
+                "url": "/topics/honor"
+            },
+            {
+                "name": "Save",
+                "url": "/topics/save"
+            }
+        ]
+    }
+]

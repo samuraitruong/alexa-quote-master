@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/john_chamberlain_250613",
+        "quote": "I'm more interested in seeing what the material tells me than in imposing my will on it.",
+        "author": {
+            "name": "John Chamberlain",
+            "url": "/quotes/john_chamberlain_250613"
+        },
+        "topics": [
+            {
+                "name": "Seeing",
+                "url": "/topics/seeing"
+            },
+            {
+                "name": "Tells",
+                "url": "/topics/tells"
+            },
+            {
+                "name": "Imposing",
+                "url": "/topics/imposing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_chamberlain_250611",
+        "quote": "Art is a liaison between some sort of deranged mentality and others who are not going through it.",
+        "author": {
+            "name": "John Chamberlain",
+            "url": "/quotes/john_chamberlain_250611"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_chamberlain_250612",
+        "quote": "Art is basically made by dissatisfied people who are willing to find some means to relieve the dissatisfaction.",
+        "author": {
+            "name": "John Chamberlain",
+            "url": "/quotes/john_chamberlain_250612"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Means",
+                "url": "/topics/means"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/tom_brown_jr_194225",
+        "quote": "We learned to be patient observers like the owl. We learned cleverness from the crow, and courage from the jay, who will attack an owl ten times its size to drive it off its territory. But above all of them ranked the chickadee because of its indomitable spirit.",
+        "author": {
+            "name": "Tom Brown, Jr.",
+            "url": "/quotes/tom_brown_jr_194225"
+        },
+        "topics": [
+            {
+                "name": "Courage",
+                "url": "/topics/courage"
+            },
+            {
+                "name": "Owl",
+                "url": "/topics/owl"
+            },
+            {
+                "name": "Be Patient",
+                "url": "/topics/be_patient"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tom_brown_jr_194226",
+        "quote": "Evil can be a teacher, if you look at the wisdom of its negative power.",
+        "author": {
+            "name": "Tom Brown, Jr.",
+            "url": "/quotes/tom_brown_jr_194226"
+        },
+        "topics": [
+            {
+                "name": "Teacher",
+                "url": "/topics/teacher"
+            },
+            {
+                "name": "Evil",
+                "url": "/topics/evil"
+            },
+            {
+                "name": "Negative",
+                "url": "/topics/negative"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tom_brown_jr_194227",
+        "quote": "We walk ourselves into ruts so deep we cannot see over them.",
+        "author": {
+            "name": "Tom Brown, Jr.",
+            "url": "/quotes/tom_brown_jr_194227"
+        },
+        "topics": [
+            {
+                "name": "Deep",
+                "url": "/topics/deep"
+            },
+            {
+                "name": "See",
+                "url": "/topics/see"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            }
+        ]
+    }
+]

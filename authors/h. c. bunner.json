@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/h_c_bunner_101967",
+        "quote": "Shake was a dramatist of note; He lived by writing things to quote.",
+        "author": {
+            "name": "H. C. Bunner",
+            "url": "/quotes/h_c_bunner_101967"
+        },
+        "topics": [
+            {
+                "name": "Shake",
+                "url": "/topics/shake"
+            },
+            {
+                "name": "Note",
+                "url": "/topics/note"
+            },
+            {
+                "name": "Quote",
+                "url": "/topics/quote"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/h_c_bunner_121657",
+        "quote": "Shakespeare was a dramatist of note who lived by writing things to quote.",
+        "author": {
+            "name": "H. C. Bunner",
+            "url": "/quotes/h_c_bunner_121657"
+        },
+        "topics": [
+            {
+                "name": "Note",
+                "url": "/topics/note"
+            },
+            {
+                "name": "Quote",
+                "url": "/topics/quote"
+            },
+            {
+                "name": "Dramatist",
+                "url": "/topics/dramatist"
+            }
+        ]
+    }
+]

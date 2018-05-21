@@ -1,0 +1,130 @@
+[
+    {
+        "url": "/quotes/jason_ritter_202461?src=t_fake_people",
+        "quote": "Fake relationships and fake people coming up to me and all of a sudden wanting to be my friend.",
+        "author": {
+            "name": "Jason Ritter",
+            "url": "/authors/jason_ritter"
+        },
+        "topics": [
+            {
+                "name": "People",
+                "url": "/topics/people"
+            },
+            {
+                "name": "Wanting",
+                "url": "/topics/wanting"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jacqueline_fernandez_805656?src=t_fake_people",
+        "quote": "I can't stand fake people. I can feel it when someone feigns it.",
+        "author": {
+            "name": "Jacqueline Fernandez",
+            "url": "/authors/jacqueline_fernandez"
+        },
+        "topics": [
+            {
+                "name": "Fake",
+                "url": "/topics/fake"
+            },
+            {
+                "name": "Someone",
+                "url": "/topics/someone"
+            },
+            {
+                "name": "Feel",
+                "url": "/topics/feel"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/diablo_cody_489798?src=t_fake_people",
+        "quote": "There's something magical about spending a Sunday night watching real people at a deli, then watching fake people pretending to be real on TV, then engaging in (arguably) false interaction with (arguably) real people on the Internet. Never at any prior point in time has this been possible.",
+        "author": {
+            "name": "Diablo Cody",
+            "url": "/authors/diablo_cody"
+        },
+        "topics": [
+            {
+                "name": "Real People",
+                "url": "/topics/real_people"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "TV",
+                "url": "/topics/tv"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/neil_sedaka_862531?src=t_fake_people",
+        "quote": "As far as I'm concerned, all politicians are fake people.",
+        "author": {
+            "name": "Neil Sedaka",
+            "url": "/authors/neil_sedaka"
+        },
+        "topics": [
+            {
+                "name": "Far",
+                "url": "/topics/far"
+            },
+            {
+                "name": "Concerned",
+                "url": "/topics/concerned"
+            },
+            {
+                "name": "As Far As",
+                "url": "/topics/as_far_as"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lauren_alaina_870669?src=t_fake_people",
+        "quote": "I don't like fake people.",
+        "author": {
+            "name": "Lauren Alaina",
+            "url": "/authors/lauren_alaina"
+        },
+        "topics": [
+            {
+                "name": "People",
+                "url": "/topics/people"
+            },
+            {
+                "name": "Fake",
+                "url": "/topics/fake"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/victoria_jackson_218795?src=t_fake_people",
+        "quote": "Because I hate fake people and I always think I'm never fake.",
+        "author": {
+            "name": "Victoria Jackson",
+            "url": "/authors/victoria_jackson"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            }
+        ]
+    }
+]

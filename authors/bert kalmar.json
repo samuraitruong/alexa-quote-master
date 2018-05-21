@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/bert_kalmar_399234",
+        "quote": "Don't look now but there's one man too many in this room and I think it's you!",
+        "author": {
+            "name": "Bert Kalmar",
+            "url": "/quotes/bert_kalmar_399234"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Many",
+                "url": "/topics/many"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bert_kalmar_400002",
+        "quote": "I've got a good mind to join a club and beat you over the head with it!",
+        "author": {
+            "name": "Bert Kalmar",
+            "url": "/quotes/bert_kalmar_400002"
+        },
+        "topics": [
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Head",
+                "url": "/topics/head"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bert_kalmar_403043",
+        "quote": "I'll see you at the theater tonight. I'll hold your seat til you get there. After that you're on your own.",
+        "author": {
+            "name": "Bert Kalmar",
+            "url": "/quotes/bert_kalmar_403043"
+        },
+        "topics": [
+            {
+                "name": "See",
+                "url": "/topics/see"
+            },
+            {
+                "name": "Seat",
+                "url": "/topics/seat"
+            },
+            {
+                "name": "Tonight",
+                "url": "/topics/tonight"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bert_kalmar_403802",
+        "quote": "You know you haven't stopped talking since I came here? You must have been vaccinated with a phonograph needle!",
+        "author": {
+            "name": "Bert Kalmar",
+            "url": "/quotes/bert_kalmar_403802"
+        },
+        "topics": [
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Stopped",
+                "url": "/topics/stopped"
+            }
+        ]
+    }
+]

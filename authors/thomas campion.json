@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/thomas_campion_204710",
+        "quote": "Never weather-beaten sail more willing bent to shore.",
+        "author": {
+            "name": "Thomas Campion",
+            "url": "/quotes/thomas_campion_204710"
+        },
+        "topics": [
+            {
+                "name": "Sail",
+                "url": "/topics/sail"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_campion_204708",
+        "quote": "Time's fatal wings do ever forward fly; to every day we live, a day we die.",
+        "author": {
+            "name": "Thomas Campion",
+            "url": "/quotes/thomas_campion_204708"
+        },
+        "topics": [
+            {
+                "name": "Fly",
+                "url": "/topics/fly"
+            },
+            {
+                "name": "Die",
+                "url": "/topics/die"
+            },
+            {
+                "name": "Ever",
+                "url": "/topics/ever"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_campion_204709",
+        "quote": "Follow thy fair sun, unhappy shadow.",
+        "author": {
+            "name": "Thomas Campion",
+            "url": "/quotes/thomas_campion_204709"
+        },
+        "topics": [
+            {
+                "name": "Shadow",
+                "url": "/topics/shadow"
+            },
+            {
+                "name": "Unhappy",
+                "url": "/topics/unhappy"
+            },
+            {
+                "name": "Thy",
+                "url": "/topics/thy"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_campion_394712",
+        "quote": "From heav'nly thoughts all true delight doth spring.",
+        "author": {
+            "name": "Thomas Campion",
+            "url": "/quotes/thomas_campion_394712"
+        },
+        "topics": [
+            {
+                "name": "Spring",
+                "url": "/topics/spring"
+            },
+            {
+                "name": "Thoughts",
+                "url": "/topics/thoughts"
+            },
+            {
+                "name": "Doth",
+                "url": "/topics/doth"
+            }
+        ]
+    }
+]

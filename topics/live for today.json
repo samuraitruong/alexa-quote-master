@@ -1,0 +1,134 @@
+[
+    {
+        "url": "/quotes/albert_einstein_125368?src=t_live_for_today",
+        "quote": "Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning.",
+        "author": {
+            "name": "Albert Einstein",
+            "url": "/authors/albert_einstein"
+        },
+        "topics": [
+            {
+                "name": "Hope",
+                "url": "/topics/hope"
+            },
+            {
+                "name": "Learn",
+                "url": "/topics/learn"
+            },
+            {
+                "name": "Questioning",
+                "url": "/topics/questioning"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/cilla_black_686267?src=t_live_for_today",
+        "quote": "I've had a blessed life. I've pulled back from trying to control my destiny and gone back to accepting whatever fate has in store for me. I live for today because I don't know what'll happen tomorrow.",
+        "author": {
+            "name": "Cilla Black",
+            "url": "/authors/cilla_black"
+        },
+        "topics": [
+            {
+                "name": "Destiny",
+                "url": "/topics/destiny"
+            },
+            {
+                "name": "Fate",
+                "url": "/topics/fate"
+            },
+            {
+                "name": "Back",
+                "url": "/topics/back"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/fernando_torres_869124?src=t_live_for_today",
+        "quote": "You have to prove yourself every day. You have to live for today.",
+        "author": {
+            "name": "Fernando Torres",
+            "url": "/authors/fernando_torres"
+        },
+        "topics": [
+            {
+                "name": "Today",
+                "url": "/topics/today"
+            },
+            {
+                "name": "Every Day",
+                "url": "/topics/every_day"
+            },
+            {
+                "name": "Prove",
+                "url": "/topics/prove"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kent_conrad_524691?src=t_live_for_today",
+        "quote": "We shouldn't just live for today; we should prepare for tomorrow.",
+        "author": {
+            "name": "Kent Conrad",
+            "url": "/authors/kent_conrad"
+        },
+        "topics": [
+            {
+                "name": "Today",
+                "url": "/topics/today"
+            },
+            {
+                "name": "Prepare",
+                "url": "/topics/prepare"
+            },
+            {
+                "name": "Should",
+                "url": "/topics/should"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/friedrich_nietzsche_166142?src=t_live_for_today",
+        "quote": "I love those who do not know how to live for today.",
+        "author": {
+            "name": "Friedrich Nietzsche",
+            "url": "/authors/friedrich_nietzsche"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "How",
+                "url": "/topics/how"
+            },
+            {
+                "name": "I Love",
+                "url": "/topics/i_love"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/penelope_keith_266668?src=t_live_for_today",
+        "quote": "I plant a lot of trees. I am a great believer in planting things for future generations. I loathe the now culture where you just live for today.",
+        "author": {
+            "name": "Penelope Keith",
+            "url": "/authors/penelope_keith"
+        },
+        "topics": [
+            {
+                "name": "Gardening",
+                "url": "/topics/gardening"
+            },
+            {
+                "name": "Loathe",
+                "url": "/topics/loathe"
+            },
+            {
+                "name": "Am",
+                "url": "/topics/am"
+            }
+        ]
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "url": "/quotes/beau_garrett_570380",
+        "quote": "I'm such an advocate for animal rights and environmental rights.",
+        "author": {
+            "name": "Beau Garrett",
+            "url": "/quotes/beau_garrett_570380"
+        },
+        "topics": [
+            {
+                "name": "Rights",
+                "url": "/topics/rights"
+            },
+            {
+                "name": "Animal Rights",
+                "url": "/topics/animal_rights"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/beau_garrett_570381",
+        "quote": "I was a model for eight years. That's the deal: People look. But I didn't like being looked at and never seen.",
+        "author": {
+            "name": "Beau Garrett",
+            "url": "/quotes/beau_garrett_570381"
+        },
+        "topics": [
+            {
+                "name": "Deal",
+                "url": "/topics/deal"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Looked",
+                "url": "/topics/looked"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/beau_garrett_570382",
+        "quote": "Acting is an uncomfortable business because you have to make yourself vulnerable.",
+        "author": {
+            "name": "Beau Garrett",
+            "url": "/quotes/beau_garrett_570382"
+        },
+        "topics": [
+            {
+                "name": "Business",
+                "url": "/topics/business"
+            },
+            {
+                "name": "Vulnerable",
+                "url": "/topics/vulnerable"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/beau_garrett_570383",
+        "quote": "I lived in Paris for six months when I was sixteen. It was a fend-for-yourself environment.",
+        "author": {
+            "name": "Beau Garrett",
+            "url": "/quotes/beau_garrett_570383"
+        },
+        "topics": [
+            {
+                "name": "Paris",
+                "url": "/topics/paris"
+            },
+            {
+                "name": "Environment",
+                "url": "/topics/environment"
+            },
+            {
+                "name": "Six",
+                "url": "/topics/six"
+            }
+        ]
+    }
+]

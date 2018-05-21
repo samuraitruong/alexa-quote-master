@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/chester_bowles_378056",
+        "quote": "Production is the only answer to inflation.",
+        "author": {
+            "name": "Chester Bowles",
+            "url": "/quotes/chester_bowles_378056"
+        },
+        "topics": [
+            {
+                "name": "Production",
+                "url": "/topics/production"
+            },
+            {
+                "name": "Answer",
+                "url": "/topics/answer"
+            },
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/chester_bowles_142452",
+        "quote": "Government is too big and too important to be left to the politicians.",
+        "author": {
+            "name": "Chester Bowles",
+            "url": "/quotes/chester_bowles_142452"
+        },
+        "topics": [
+            {
+                "name": "Government",
+                "url": "/topics/government"
+            },
+            {
+                "name": "Important",
+                "url": "/topics/important"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            }
+        ]
+    }
+]

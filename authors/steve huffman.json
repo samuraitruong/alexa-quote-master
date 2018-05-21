@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/steve_huffman_542609",
+        "quote": "The day I woke up and Reddit was working on its own was just the most incredible feeling.",
+        "author": {
+            "name": "Steve Huffman",
+            "url": "/quotes/steve_huffman_542609"
+        },
+        "topics": [
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "Woke",
+                "url": "/topics/woke"
+            },
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/steve_huffman_542605",
+        "quote": "I use the traditional phone noise that's built into iOS. I like an actual ringing sound.",
+        "author": {
+            "name": "Steve Huffman",
+            "url": "/quotes/steve_huffman_542605"
+        },
+        "topics": [
+            {
+                "name": "Built",
+                "url": "/topics/built"
+            },
+            {
+                "name": "Actual",
+                "url": "/topics/actual"
+            },
+            {
+                "name": "Ringing",
+                "url": "/topics/ringing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/steve_huffman_542608",
+        "quote": "I'm rarely in a position where I can actually answer my phone without being rude to someone else. Sometimes I look back and realize it's been weeks since I've actually been alone. With texting, I can at least get a sense of what's going on without interrupting what I'm doing.",
+        "author": {
+            "name": "Steve Huffman",
+            "url": "/quotes/steve_huffman_542608"
+        },
+        "topics": [
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Weeks",
+                "url": "/topics/weeks"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/steve_huffman_542607",
+        "quote": "I could go on a long rant about how much I despise e-mail. I wish it was more socially acceptable to ignore people.",
+        "author": {
+            "name": "Steve Huffman",
+            "url": "/quotes/steve_huffman_542607"
+        },
+        "topics": [
+            {
+                "name": "I Wish",
+                "url": "/topics/i_wish"
+            },
+            {
+                "name": "Acceptable",
+                "url": "/topics/acceptable"
+            },
+            {
+                "name": "Rant",
+                "url": "/topics/rant"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/steve_huffman_542606",
+        "quote": "I use the default iOS calendar app. I've tried others, but it's my favorite, and I can't live without it. If it's not on my calendar, I'm not aware of it, whatever it is.",
+        "author": {
+            "name": "Steve Huffman",
+            "url": "/quotes/steve_huffman_542606"
+        },
+        "topics": [
+            {
+                "name": "Calendar",
+                "url": "/topics/calendar"
+            },
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            },
+            {
+                "name": "App",
+                "url": "/topics/app"
+            }
+        ]
+    }
+]

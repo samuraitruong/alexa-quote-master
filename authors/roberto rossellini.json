@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/roberto_rossellini_205980",
+        "quote": "I am not a pessimist; to perceive evil where it exists is, in my opinion, a form of optimism.",
+        "author": {
+            "name": "Roberto Rossellini",
+            "url": "/quotes/roberto_rossellini_205980"
+        },
+        "topics": [
+            {
+                "name": "Optimism",
+                "url": "/topics/optimism"
+            },
+            {
+                "name": "In My Opinion",
+                "url": "/topics/in_my_opinion"
+            },
+            {
+                "name": "Am",
+                "url": "/topics/am"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/roberto_rossellini_205981",
+        "quote": "Don't get married to an actress because they're also actresses in bed.",
+        "author": {
+            "name": "Roberto Rossellini",
+            "url": "/quotes/roberto_rossellini_205981"
+        },
+        "topics": [
+            {
+                "name": "Bed",
+                "url": "/topics/bed"
+            },
+            {
+                "name": "Actress",
+                "url": "/topics/actress"
+            },
+            {
+                "name": "Get Married",
+                "url": "/topics/get_married"
+            }
+        ]
+    }
+]

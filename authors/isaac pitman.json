@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/isaac_pitman_354552",
+        "quote": "Well-arranged time is the surest mark of a well-arranged mind.",
+        "author": {
+            "name": "Isaac Pitman",
+            "url": "/quotes/isaac_pitman_354552"
+        },
+        "topics": [
+            {
+                "name": "Time",
+                "url": "/topics/time"
+            },
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Surest",
+                "url": "/topics/surest"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/isaac_pitman_354553",
+        "quote": "I have no intention of becoming a shorthand author.",
+        "author": {
+            "name": "Isaac Pitman",
+            "url": "/quotes/isaac_pitman_354553"
+        },
+        "topics": [
+            {
+                "name": "Author",
+                "url": "/topics/author"
+            },
+            {
+                "name": "Becoming",
+                "url": "/topics/becoming"
+            },
+            {
+                "name": "Shorthand",
+                "url": "/topics/shorthand"
+            }
+        ]
+    }
+]

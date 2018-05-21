@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/alice_s_rossi_400216",
+        "quote": "Demands for equality for women are threats to men's self-esteem and sense of sexual turf.",
+        "author": {
+            "name": "Alice S. Rossi",
+            "url": "/quotes/alice_s_rossi_400216"
+        },
+        "topics": [
+            {
+                "name": "Men",
+                "url": "/topics/men"
+            },
+            {
+                "name": "Self-Esteem",
+                "url": "/topics/self-esteem"
+            },
+            {
+                "name": "Turf",
+                "url": "/topics/turf"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alice_s_rossi_408930",
+        "quote": "Nothing is so threatening to conventional values as a man who does not want to work or does not want to work at a challenging job, and most people are disturbed if a man in a well- paying job indicates ambivalence or dislike toward it.",
+        "author": {
+            "name": "Alice S. Rossi",
+            "url": "/quotes/alice_s_rossi_408930"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Dislike",
+                "url": "/topics/dislike"
+            },
+            {
+                "name": "Disturbed",
+                "url": "/topics/disturbed"
+            }
+        ]
+    }
+]

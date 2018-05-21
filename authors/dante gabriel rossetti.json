@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/dante_gabriel_rossetti_304329",
+        "quote": "Love is the last relay and ultimate outposts of eternity.",
+        "author": {
+            "name": "Dante Gabriel Rossetti",
+            "url": "/quotes/dante_gabriel_rossetti_304329"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Last",
+                "url": "/topics/last"
+            },
+            {
+                "name": "Eternity",
+                "url": "/topics/eternity"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dante_gabriel_rossetti_304328",
+        "quote": "Conception, my boy, fundamental brain work, is what makes all the difference in art.",
+        "author": {
+            "name": "Dante Gabriel Rossetti",
+            "url": "/quotes/dante_gabriel_rossetti_304328"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "All The Difference",
+                "url": "/topics/all_the_difference"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dante_gabriel_rossetti_304330",
+        "quote": "The worst moment for the atheist is when he is really thankful and has nobody to thank.",
+        "author": {
+            "name": "Dante Gabriel Rossetti",
+            "url": "/quotes/dante_gabriel_rossetti_304330"
+        },
+        "topics": [
+            {
+                "name": "Thankful",
+                "url": "/topics/thankful"
+            },
+            {
+                "name": "Worst",
+                "url": "/topics/worst"
+            },
+            {
+                "name": "Thank",
+                "url": "/topics/thank"
+            }
+        ]
+    }
+]

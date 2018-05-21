@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/joshua_ledet_424040",
+        "quote": "I tune everything out.",
+        "author": {
+            "name": "Joshua Ledet",
+            "url": "/quotes/joshua_ledet_424040"
+        },
+        "topics": [
+            {
+                "name": "Everything",
+                "url": "/topics/everything"
+            },
+            {
+                "name": "Out",
+                "url": "/topics/out"
+            },
+            {
+                "name": "Tune",
+                "url": "/topics/tune"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joshua_ledet_424041",
+        "quote": "I only eat spicy food.",
+        "author": {
+            "name": "Joshua Ledet",
+            "url": "/quotes/joshua_ledet_424041"
+        },
+        "topics": [
+            {
+                "name": "Eat",
+                "url": "/topics/eat"
+            },
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            },
+            {
+                "name": "Spicy",
+                "url": "/topics/spicy"
+            }
+        ]
+    }
+]

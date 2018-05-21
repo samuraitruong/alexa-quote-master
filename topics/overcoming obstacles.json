@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/herbie_hancock_592313?src=t_overcoming_obstacles",
+        "quote": "It's part of life to have obstacles. It's about overcoming obstacles; that's the key to happiness.",
+        "author": {
+            "name": "Herbie Hancock",
+            "url": "/authors/herbie_hancock"
+        },
+        "topics": [
+            {
+                "name": "Happiness",
+                "url": "/topics/happiness"
+            },
+            {
+                "name": "Obstacles",
+                "url": "/topics/obstacles"
+            },
+            {
+                "name": "Part",
+                "url": "/topics/part"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/albert_schweitzer_155978?src=t_overcoming_obstacles",
+        "quote": "One who gains strength by overcoming obstacles possesses the only strength which can overcome adversity.",
+        "author": {
+            "name": "Albert Schweitzer",
+            "url": "/authors/albert_schweitzer"
+        },
+        "topics": [
+            {
+                "name": "Strength",
+                "url": "/topics/strength"
+            },
+            {
+                "name": "Adversity",
+                "url": "/topics/adversity"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_bradley_403208?src=t_overcoming_obstacles",
+        "quote": "Sports is a metaphor for overcoming obstacles and achieving against great odds. Athletes, in times of difficulty, can be important role models.",
+        "author": {
+            "name": "Bill Bradley",
+            "url": "/authors/bill_bradley"
+        },
+        "topics": [
+            {
+                "name": "Sports",
+                "url": "/topics/sports"
+            },
+            {
+                "name": "Role",
+                "url": "/topics/role"
+            },
+            {
+                "name": "Models",
+                "url": "/topics/models"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brian_boitano_303979?src=t_overcoming_obstacles",
+        "quote": "The U.S. Olympic spirit award is an award that is given to an athlete who embodies the Olympic spirit in more ways than just on the playing field, in showing incredible perseverance, in overcoming obstacles, and what we wanted to do is have everybody can vote on-line.",
+        "author": {
+            "name": "Brian Boitano",
+            "url": "/authors/brian_boitano"
+        },
+        "topics": [
+            {
+                "name": "Everybody",
+                "url": "/topics/everybody"
+            },
+            {
+                "name": "Olympic",
+                "url": "/topics/olympic"
+            }
+        ]
+    }
+]

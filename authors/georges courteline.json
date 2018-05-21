@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/georges_courteline_377147",
+        "quote": "If it was necessary to tolerate in other people everything that one permits oneself, life would be unbearable.",
+        "author": {
+            "name": "Georges Courteline",
+            "url": "/quotes/georges_courteline_377147"
+        },
+        "topics": [
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Necessary",
+                "url": "/topics/necessary"
+            },
+            {
+                "name": "Permits",
+                "url": "/topics/permits"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/georges_courteline_307837",
+        "quote": "It is better to waste one's youth than to do nothing with it at all.",
+        "author": {
+            "name": "Georges Courteline",
+            "url": "/quotes/georges_courteline_307837"
+        },
+        "topics": [
+            {
+                "name": "Better",
+                "url": "/topics/better"
+            },
+            {
+                "name": "Waste",
+                "url": "/topics/waste"
+            },
+            {
+                "name": "Than",
+                "url": "/topics/than"
+            }
+        ]
+    }
+]

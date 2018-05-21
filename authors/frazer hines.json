@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/frazer_hines_533821",
+        "quote": "Never having children is a huge regret of mine.",
+        "author": {
+            "name": "Frazer Hines",
+            "url": "/quotes/frazer_hines_533821"
+        },
+        "topics": [
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Mine",
+                "url": "/topics/mine"
+            },
+            {
+                "name": "Having",
+                "url": "/topics/having"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/frazer_hines_533822",
+        "quote": "I would've loved to have children and I'm really good with kids, but I just didn't want to commit to anything when I had cancer. I didn't want to plan for the future.",
+        "author": {
+            "name": "Frazer Hines",
+            "url": "/quotes/frazer_hines_533822"
+        },
+        "topics": [
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Had",
+                "url": "/topics/had"
+            },
+            {
+                "name": "Commit",
+                "url": "/topics/commit"
+            }
+        ]
+    }
+]

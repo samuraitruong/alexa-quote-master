@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/jim_cole_393067",
+        "quote": "They are the most fascinating, intelligent, resourceful, adaptable animals I have ever seen. Grizzlies are a real symbol of true wildness.",
+        "author": {
+            "name": "Jim Cole",
+            "url": "/quotes/jim_cole_393067"
+        },
+        "topics": [
+            {
+                "name": "Real",
+                "url": "/topics/real"
+            },
+            {
+                "name": "Symbol",
+                "url": "/topics/symbol"
+            },
+            {
+                "name": "Fascinating",
+                "url": "/topics/fascinating"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jim_cole_190214",
+        "quote": "Love is all fun and games until someone loses an eye or gets pregnant.",
+        "author": {
+            "name": "Jim Cole",
+            "url": "/quotes/jim_cole_190214"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Eye",
+                "url": "/topics/eye"
+            },
+            {
+                "name": "Someone",
+                "url": "/topics/someone"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jim_cole_190215",
+        "quote": "It's great to hear from people who have been touched by these songs. It has been good to know that the Lord is using this in ways I am not even aware of.",
+        "author": {
+            "name": "Jim Cole",
+            "url": "/quotes/jim_cole_190215"
+        },
+        "topics": [
+            {
+                "name": "Touched",
+                "url": "/topics/touched"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Using",
+                "url": "/topics/using"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jim_cole_190217",
+        "quote": "I want to be as honest as I can about the things I've been through - the sorrows and joys, victories and defeats - and to use those experiences as a well to draw from. Hopefully, the songs that result from that kind of writing will be songs that mean something to others.",
+        "author": {
+            "name": "Jim Cole",
+            "url": "/quotes/jim_cole_190217"
+        },
+        "topics": [
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Victories",
+                "url": "/topics/victories"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/bob_monkhouse_173598",
+        "quote": "Silence is not only golden, it is seldom misquoted.",
+        "author": {
+            "name": "Bob Monkhouse",
+            "url": "/quotes/bob_monkhouse_173598"
+        },
+        "topics": [
+            {
+                "name": "Golden",
+                "url": "/topics/golden"
+            },
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            },
+            {
+                "name": "Seldom",
+                "url": "/topics/seldom"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bob_monkhouse_391652",
+        "quote": "I'm not saying my wife's a bad cook, but she uses a smoke alarm as a timer.",
+        "author": {
+            "name": "Bob Monkhouse",
+            "url": "/quotes/bob_monkhouse_391652"
+        },
+        "topics": [
+            {
+                "name": "She",
+                "url": "/topics/she"
+            },
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            },
+            {
+                "name": "Timer",
+                "url": "/topics/timer"
+            }
+        ]
+    }
+]

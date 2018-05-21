@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/joan_blondell_205921",
+        "quote": "In the 20s, you were a face. And that was enough. In the 30s, you also had to be a voice. And your voice had to match your face, if you can imagine that.",
+        "author": {
+            "name": "Joan Blondell",
+            "url": "/quotes/joan_blondell_205921"
+        },
+        "topics": [
+            {
+                "name": "Voice",
+                "url": "/topics/voice"
+            },
+            {
+                "name": "Imagine",
+                "url": "/topics/imagine"
+            },
+            {
+                "name": "Match",
+                "url": "/topics/match"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joan_blondell_205922",
+        "quote": "I don't know what the secret to longevity as an actress is. It's more than talent and beauty. Maybe it's the audience seeing itself in you.",
+        "author": {
+            "name": "Joan Blondell",
+            "url": "/quotes/joan_blondell_205922"
+        },
+        "topics": [
+            {
+                "name": "Beauty",
+                "url": "/topics/beauty"
+            },
+            {
+                "name": "Audience",
+                "url": "/topics/audience"
+            },
+            {
+                "name": "Actress",
+                "url": "/topics/actress"
+            }
+        ]
+    }
+]

@@ -1,0 +1,104 @@
+[
+    {
+        "url": "/quotes/amy_adams_414255?src=t_worn-out",
+        "quote": "Most of the time it's the parents who recognise me. They try to tell their kids, 'Look, it's Giselle,' and I say, 'No, no, no, don't ruin this for them,' because I'm usually standing there with my hair sideways and no make-up on. And the kid is saying, 'That is not Giselle. No way. That is some worn-out girl who really needs a bath.'",
+        "author": {
+            "name": "Amy Adams",
+            "url": "/authors/amy_adams"
+        },
+        "topics": [
+            {
+                "name": "Tell",
+                "url": "/topics/tell"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Make-Up",
+                "url": "/topics/make-up"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/liz_vassey_564836?src=t_worn-out",
+        "quote": "I have this old worn-out, skintight T-shirt that I love. That's sexy.",
+        "author": {
+            "name": "Liz Vassey",
+            "url": "/authors/liz_vassey"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Old",
+                "url": "/topics/old"
+            },
+            {
+                "name": "I Love",
+                "url": "/topics/i_love"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/friedrich_nietzsche_397392?src=t_worn-out",
+        "quote": "When art dresses in worn-out material it is most easily recognized as art.",
+        "author": {
+            "name": "Friedrich Nietzsche",
+            "url": "/authors/friedrich_nietzsche"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Material",
+                "url": "/topics/material"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_r_brower_241228?src=t_worn-out",
+        "quote": "There is no place where we can safely store worn-out reactors or their garbage. No place!",
+        "author": {
+            "name": "David R. Brower",
+            "url": "/authors/david_r_brower"
+        },
+        "topics": [
+            {
+                "name": "Environmental",
+                "url": "/topics/environmental"
+            },
+            {
+                "name": "Garbage",
+                "url": "/topics/garbage"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/terry_southern_133967?src=t_worn-out",
+        "quote": "The important thing in writing is the capacity to astonish. Not shock - shock is a worn-out word - but astonish.",
+        "author": {
+            "name": "Terry Southern",
+            "url": "/authors/terry_southern"
+        },
+        "topics": [
+            {
+                "name": "Important",
+                "url": "/topics/important"
+            },
+            {
+                "name": "Important Thing",
+                "url": "/topics/important_thing"
+            }
+        ]
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/john_twelve_hawks_679509",
+        "quote": "Anyone who steps back for a minute and observes our modern digital world might conclude that we have destroyed our privacy in exchange for convenience and false security.",
+        "author": {
+            "name": "John Twelve Hawks",
+            "url": "/quotes/john_twelve_hawks_679509"
+        },
+        "topics": [
+            {
+                "name": "Digital",
+                "url": "/topics/digital"
+            },
+            {
+                "name": "Might",
+                "url": "/topics/might"
+            },
+            {
+                "name": "Conclude",
+                "url": "/topics/conclude"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_twelve_hawks_679511",
+        "quote": "Although I write dystopian fiction, I don't believe in dystopian fantasies.",
+        "author": {
+            "name": "John Twelve Hawks",
+            "url": "/quotes/john_twelve_hawks_679511"
+        },
+        "topics": [
+            {
+                "name": "Fiction",
+                "url": "/topics/fiction"
+            },
+            {
+                "name": "Although",
+                "url": "/topics/although"
+            },
+            {
+                "name": "I Write",
+                "url": "/topics/i_write"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_twelve_hawks_679510",
+        "quote": "Without private thoughts and actions, we can never truly be free.",
+        "author": {
+            "name": "John Twelve Hawks",
+            "url": "/quotes/john_twelve_hawks_679510"
+        },
+        "topics": [
+            {
+                "name": "Thoughts",
+                "url": "/topics/thoughts"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Private",
+                "url": "/topics/private"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_twelve_hawks_679512",
+        "quote": "You can't truly hear your own voice until the shouting around you disappears. New ideas and possibilities - our own ideas, our own possibilities - will occur only when we step away from the Virtual Panopticon.",
+        "author": {
+            "name": "John Twelve Hawks",
+            "url": "/quotes/john_twelve_hawks_679512"
+        },
+        "topics": [
+            {
+                "name": "Voice",
+                "url": "/topics/voice"
+            },
+            {
+                "name": "Possibilities",
+                "url": "/topics/possibilities"
+            },
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            }
+        ]
+    }
+]

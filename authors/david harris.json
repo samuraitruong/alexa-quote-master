@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/david_harris_170505",
+        "quote": "It's a sad and stupid thing to have to proclaim yourself a revolutionary just to be a decent man.",
+        "author": {
+            "name": "David Harris",
+            "url": "/quotes/david_harris_170505"
+        },
+        "topics": [
+            {
+                "name": "Sad",
+                "url": "/topics/sad"
+            },
+            {
+                "name": "Stupid",
+                "url": "/topics/stupid"
+            },
+            {
+                "name": "Proclaim",
+                "url": "/topics/proclaim"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_harris_390127",
+        "quote": "Civil rights are more important today than they ever have been in our country. There is so much divisiveness today.",
+        "author": {
+            "name": "David Harris",
+            "url": "/quotes/david_harris_390127"
+        },
+        "topics": [
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    }
+]

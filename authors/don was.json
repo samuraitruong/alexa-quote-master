@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/don_was_221553",
+        "quote": "I would say that longtime fans of the Rolling Stones will be thrilled with these results, and new fans will understand why they're the greatest rock'n'roll band in the world.",
+        "author": {
+            "name": "Don Was",
+            "url": "/quotes/don_was_221553"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Longtime",
+                "url": "/topics/longtime"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/don_was_445735",
+        "quote": "I did drop out of school.",
+        "author": {
+            "name": "Don Was",
+            "url": "/quotes/don_was_445735"
+        },
+        "topics": [
+            {
+                "name": "School",
+                "url": "/topics/school"
+            },
+            {
+                "name": "Drop",
+                "url": "/topics/drop"
+            },
+            {
+                "name": "Did",
+                "url": "/topics/did"
+            }
+        ]
+    }
+]

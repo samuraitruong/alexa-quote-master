@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/jaiprakash_gaur_638196",
+        "quote": "Every time someone tried to explain to me there are limits to what one man can do, I pointed to the boundless sky and said, 'There is the limit'.",
+        "author": {
+            "name": "Jaiprakash Gaur",
+            "url": "/quotes/jaiprakash_gaur_638196"
+        },
+        "topics": [
+            {
+                "name": "Sky",
+                "url": "/topics/sky"
+            },
+            {
+                "name": "Explain",
+                "url": "/topics/explain"
+            },
+            {
+                "name": "Boundless",
+                "url": "/topics/boundless"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jaiprakash_gaur_638195",
+        "quote": "A leader who is a benevolent dictator is actually a democrat by spirit.",
+        "author": {
+            "name": "Jaiprakash Gaur",
+            "url": "/quotes/jaiprakash_gaur_638195"
+        },
+        "topics": [
+            {
+                "name": "Leader",
+                "url": "/topics/leader"
+            },
+            {
+                "name": "Democrat",
+                "url": "/topics/democrat"
+            },
+            {
+                "name": "Actually",
+                "url": "/topics/actually"
+            }
+        ]
+    }
+]

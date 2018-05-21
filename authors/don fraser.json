@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/don_fraser_190659",
+        "quote": "A happy home is one in which each spouse grants the possibility that the other may be right, though neither believes it.",
+        "author": {
+            "name": "Don Fraser",
+            "url": "/quotes/don_fraser_190659"
+        },
+        "topics": [
+            {
+                "name": "Grants",
+                "url": "/topics/grants"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/don_fraser_190660",
+        "quote": "The trouble with having a place for everything is how often it gets filled up with everything else.",
+        "author": {
+            "name": "Don Fraser",
+            "url": "/quotes/don_fraser_190660"
+        },
+        "topics": [
+            {
+                "name": "Having",
+                "url": "/topics/having"
+            },
+            {
+                "name": "How",
+                "url": "/topics/how"
+            },
+            {
+                "name": "Else",
+                "url": "/topics/else"
+            }
+        ]
+    }
+]

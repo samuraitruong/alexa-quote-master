@@ -1,0 +1,592 @@
+[
+    {
+        "url": "/quotes/alan_perlis_177382",
+        "quote": "You can measure a programmer's perspective by noting his attitude on the continuing vitality of FORTRAN.",
+        "author": {
+            "name": "Alan Perlis",
+            "url": "/quotes/alan_perlis_177382"
+        },
+        "topics": [
+            {
+                "name": "Measure",
+                "url": "/topics/measure"
+            },
+            {
+                "name": "Vitality",
+                "url": "/topics/vitality"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alan_perlis_126631",
+        "quote": "A year spent in artificial intelligence is enough to make one believe in God.",
+        "author": {
+            "name": "Alan Perlis",
+            "url": "/quotes/alan_perlis_126631"
+        },
+        "topics": [
+            {
+                "name": "Science",
+                "url": "/topics/science"
+            },
+            {
+                "name": "Year",
+                "url": "/topics/year"
+            },
+            {
+                "name": "Artificial",
+                "url": "/topics/artificial"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alan_perlis_177188",
+        "quote": "Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.",
+        "author": {
+            "name": "Alan Perlis",
+            "url": "/quotes/alan_perlis_177188"
+        },
+        "topics": [
+            {
+                "name": "Complexity",
+                "url": "/topics/complexity"
+            },
+            {
+                "name": "Suffer",
+                "url": "/topics/suffer"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alan_perlis_177176",
+        "quote": "Computer Science is embarrassed by the computer.",
+        "author": {
+            "name": "Alan Perlis",
+            "url": "/quotes/alan_perlis_177176"
+        },
+        "topics": [
+            {
+                "name": "Computer Science",
+                "url": "/topics/computer_science"
+            },
+            {
+                "name": "Computer",
+                "url": "/topics/computer"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alan_perlis_177289",
+        "quote": "In software systems it is often the early bird that makes the worm.",
+        "author": {
+            "name": "Alan Perlis",
+            "url": "/quotes/alan_perlis_177289"
+        },
+        "topics": [
+            {
+                "name": "Technology",
+                "url": "/topics/technology"
+            },
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "Worm",
+                "url": "/topics/worm"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alan_perlis_142539",
+        "quote": "The computing field is always in need of new cliches.",
+        "author": {
+            "name": "Alan Perlis",
+            "url": "/quotes/alan_perlis_142539"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Computing",
+                "url": "/topics/computing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alan_perlis_177332",
+        "quote": "Simplicity does not precede complexity, but follows it.",
+        "author": {
+            "name": "Alan Perlis",
+            "url": "/quotes/alan_perlis_177332"
+        },
+        "topics": [
+            {
+                "name": "Complexity",
+                "url": "/topics/complexity"
+            },
+            {
+                "name": "Does",
+                "url": "/topics/does"
+            },
+            {
+                "name": "Precede",
+                "url": "/topics/precede"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alan_perlis_177279",
+        "quote": "If you have a procedure with 10 parameters, you probably missed some.",
+        "author": {
+            "name": "Alan Perlis",
+            "url": "/quotes/alan_perlis_177279"
+        },
+        "topics": [
+            {
+                "name": "Missed",
+                "url": "/topics/missed"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Procedure",
+                "url": "/topics/procedure"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alan_perlis_177288",
+        "quote": "In English every word can be verbed. Would that it were so in our programming languages.",
+        "author": {
+            "name": "Alan Perlis",
+            "url": "/quotes/alan_perlis_177288"
+        },
+        "topics": [
+            {
+                "name": "Languages",
+                "url": "/topics/languages"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            },
+            {
+                "name": "Were",
+                "url": "/topics/were"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alan_perlis_177179",
+        "quote": "Don't have good ideas if you aren't willing to be responsible for them.",
+        "author": {
+            "name": "Alan Perlis",
+            "url": "/quotes/alan_perlis_177179"
+        },
+        "topics": [
+            {
+                "name": "Ideas",
+                "url": "/topics/ideas"
+            },
+            {
+                "name": "Responsible",
+                "url": "/topics/responsible"
+            },
+            {
+                "name": "Willing",
+                "url": "/topics/willing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alan_perlis_177321",
+        "quote": "One man's constant is another man's variable.",
+        "author": {
+            "name": "Alan Perlis",
+            "url": "/quotes/alan_perlis_177321"
+        },
+        "topics": [
+            {
+                "name": "Constant",
+                "url": "/topics/constant"
+            },
+            {
+                "name": "Another",
+                "url": "/topics/another"
+            },
+            {
+                "name": "Variable",
+                "url": "/topics/variable"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alan_perlis_177342",
+        "quote": "The best book on programming for the layman is 'Alice in Wonderland'; but that's because it's the best book on anything for the layman.",
+        "author": {
+            "name": "Alan Perlis",
+            "url": "/quotes/alan_perlis_177342"
+        },
+        "topics": [
+            {
+                "name": "Book",
+                "url": "/topics/book"
+            },
+            {
+                "name": "Wonderland",
+                "url": "/topics/wonderland"
+            },
+            {
+                "name": "Alice",
+                "url": "/topics/alice"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alan_perlis_177334",
+        "quote": "Some programming languages manage to absorb change, but withstand progress.",
+        "author": {
+            "name": "Alan Perlis",
+            "url": "/quotes/alan_perlis_177334"
+        },
+        "topics": [
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Languages",
+                "url": "/topics/languages"
+            },
+            {
+                "name": "Withstand",
+                "url": "/topics/withstand"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alan_perlis_177293",
+        "quote": "It goes against the grain of modern education to teach students to program. What fun is there to making plans, acquiring discipline, organizing thoughts, devoting attention to detail, and learning to be self critical.",
+        "author": {
+            "name": "Alan Perlis",
+            "url": "/quotes/alan_perlis_177293"
+        },
+        "topics": [
+            {
+                "name": "Education",
+                "url": "/topics/education"
+            },
+            {
+                "name": "Thoughts",
+                "url": "/topics/thoughts"
+            },
+            {
+                "name": "Making",
+                "url": "/topics/making"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alan_perlis_177160",
+        "quote": "A picture is worth 10K words - but only those to describe the picture. Hardly any sets of 10K words can be adequately described with pictures.",
+        "author": {
+            "name": "Alan Perlis",
+            "url": "/quotes/alan_perlis_177160"
+        },
+        "topics": [
+            {
+                "name": "Words",
+                "url": "/topics/words"
+            },
+            {
+                "name": "Adequately",
+                "url": "/topics/adequately"
+            },
+            {
+                "name": "Sets",
+                "url": "/topics/sets"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alan_perlis_177294",
+        "quote": "It is easier to change the specification to fit the program than vice versa.",
+        "author": {
+            "name": "Alan Perlis",
+            "url": "/quotes/alan_perlis_177294"
+        },
+        "topics": [
+            {
+                "name": "Change",
+                "url": "/topics/change"
+            },
+            {
+                "name": "Fit",
+                "url": "/topics/fit"
+            },
+            {
+                "name": "Vice",
+                "url": "/topics/vice"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alan_perlis_177161",
+        "quote": "A programming language is low level when its programs require attention to the irrelevant.",
+        "author": {
+            "name": "Alan Perlis",
+            "url": "/quotes/alan_perlis_177161"
+        },
+        "topics": [
+            {
+                "name": "Low",
+                "url": "/topics/low"
+            },
+            {
+                "name": "Irrelevant",
+                "url": "/topics/irrelevant"
+            },
+            {
+                "name": "Level",
+                "url": "/topics/level"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alan_perlis_177182",
+        "quote": "Every program has two purposes: The one for which it was written and another for which it wasn't.",
+        "author": {
+            "name": "Alan Perlis",
+            "url": "/quotes/alan_perlis_177182"
+        },
+        "topics": [
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Purposes",
+                "url": "/topics/purposes"
+            },
+            {
+                "name": "Another",
+                "url": "/topics/another"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alan_perlis_177237",
+        "quote": "I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.",
+        "author": {
+            "name": "Alan Perlis",
+            "url": "/quotes/alan_perlis_177237"
+        },
+        "topics": [
+            {
+                "name": "Technology",
+                "url": "/topics/technology"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Poorly",
+                "url": "/topics/poorly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alan_perlis_177273",
+        "quote": "If a listener nods his head when you're explaining your program, wake him up.",
+        "author": {
+            "name": "Alan Perlis",
+            "url": "/quotes/alan_perlis_177273"
+        },
+        "topics": [
+            {
+                "name": "Listener",
+                "url": "/topics/listener"
+            },
+            {
+                "name": "Your",
+                "url": "/topics/your"
+            },
+            {
+                "name": "Program",
+                "url": "/topics/program"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alan_perlis_177280",
+        "quote": "If your computer speaks English, it was probably made in Japan.",
+        "author": {
+            "name": "Alan Perlis",
+            "url": "/quotes/alan_perlis_177280"
+        },
+        "topics": [
+            {
+                "name": "Computers",
+                "url": "/topics/computers"
+            },
+            {
+                "name": "Computer",
+                "url": "/topics/computer"
+            },
+            {
+                "name": "Japan",
+                "url": "/topics/japan"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alan_perlis_177287",
+        "quote": "In computing, turning the obvious into the useful is a living definition of the word 'frustration'.",
+        "author": {
+            "name": "Alan Perlis",
+            "url": "/quotes/alan_perlis_177287"
+        },
+        "topics": [
+            {
+                "name": "Computers",
+                "url": "/topics/computers"
+            },
+            {
+                "name": "Living",
+                "url": "/topics/living"
+            },
+            {
+                "name": "Computing",
+                "url": "/topics/computing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alan_perlis_177292",
+        "quote": "Is it possible that software is not like anything else, that it is meant to be discarded: that the whole point is to always see it as a soap bubble?",
+        "author": {
+            "name": "Alan Perlis",
+            "url": "/quotes/alan_perlis_177292"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Discarded",
+                "url": "/topics/discarded"
+            },
+            {
+                "name": "Meant",
+                "url": "/topics/meant"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alan_perlis_177295",
+        "quote": "It is easier to write an incorrect program than understand a correct one.",
+        "author": {
+            "name": "Alan Perlis",
+            "url": "/quotes/alan_perlis_177295"
+        },
+        "topics": [
+            {
+                "name": "Correct",
+                "url": "/topics/correct"
+            },
+            {
+                "name": "Than",
+                "url": "/topics/than"
+            },
+            {
+                "name": "Incorrect",
+                "url": "/topics/incorrect"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alan_perlis_177305",
+        "quote": "LISP programmers know the value of everything and the cost of nothing.",
+        "author": {
+            "name": "Alan Perlis",
+            "url": "/quotes/alan_perlis_177305"
+        },
+        "topics": [
+            {
+                "name": "Know",
+                "url": "/topics/know"
+            },
+            {
+                "name": "Cost",
+                "url": "/topics/cost"
+            },
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alan_perlis_177353",
+        "quote": "There are two ways to write error-free programs; only the third one works.",
+        "author": {
+            "name": "Alan Perlis",
+            "url": "/quotes/alan_perlis_177353"
+        },
+        "topics": [
+            {
+                "name": "Works",
+                "url": "/topics/works"
+            },
+            {
+                "name": "Third",
+                "url": "/topics/third"
+            },
+            {
+                "name": "Ways",
+                "url": "/topics/ways"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alan_perlis_177366",
+        "quote": "We toast the Lisp programmer who pens his thoughts within nests of parentheses.",
+        "author": {
+            "name": "Alan Perlis",
+            "url": "/quotes/alan_perlis_177366"
+        },
+        "topics": [
+            {
+                "name": "Thoughts",
+                "url": "/topics/thoughts"
+            },
+            {
+                "name": "Toast",
+                "url": "/topics/toast"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/roger_williams_190969",
+        "quote": "God requireth not a uniformity of religion.",
+        "author": {
+            "name": "Roger Williams",
+            "url": "/quotes/roger_williams_190969"
+        },
+        "topics": [
+            {
+                "name": "God",
+                "url": "/topics/god"
+            },
+            {
+                "name": "Religion",
+                "url": "/topics/religion"
+            },
+            {
+                "name": "Uniformity",
+                "url": "/topics/uniformity"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/roger_williams_190967",
+        "quote": "No man ever did, nor ever shall, truly go forth to convert the nations, nor to prophesy in the present state of witnesses against Antichrist, but by the gracious inspiration and instigation of the Holy Spirit of God.",
+        "author": {
+            "name": "Roger Williams",
+            "url": "/quotes/roger_williams_190967"
+        },
+        "topics": [
+            {
+                "name": "Against",
+                "url": "/topics/against"
+            },
+            {
+                "name": "Go",
+                "url": "/topics/go"
+            },
+            {
+                "name": "Holy",
+                "url": "/topics/holy"
+            }
+        ]
+    }
+]

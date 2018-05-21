@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/logan_browning_571797",
+        "quote": "I don't want people to know how I am feeling because it makes you more vulnerable.",
+        "author": {
+            "name": "Logan Browning",
+            "url": "/quotes/logan_browning_571797"
+        },
+        "topics": [
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Makes",
+                "url": "/topics/makes"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/logan_browning_704346",
+        "quote": "Every morning, when I'm really, really tired... when I'm dead tired is when I feel most alive.",
+        "author": {
+            "name": "Logan Browning",
+            "url": "/quotes/logan_browning_704346"
+        },
+        "topics": [
+            {
+                "name": "Tired",
+                "url": "/topics/tired"
+            },
+            {
+                "name": "Alive",
+                "url": "/topics/alive"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            }
+        ]
+    }
+]

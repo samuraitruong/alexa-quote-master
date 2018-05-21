@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/gordon_england_194913",
+        "quote": "The president said that this is not removing a mole. You know, removing a mole, that's an outpatient sort of an operation. This was removing a cancer, removing a cancer takes more time.",
+        "author": {
+            "name": "Gordon England",
+            "url": "/quotes/gordon_england_194913"
+        },
+        "topics": [
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Mole",
+                "url": "/topics/mole"
+            },
+            {
+                "name": "Sort",
+                "url": "/topics/sort"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gordon_england_194915",
+        "quote": "This is a war against terrorists. Not a war against a religion, but a war against terrorists.",
+        "author": {
+            "name": "Gordon England",
+            "url": "/quotes/gordon_england_194915"
+        },
+        "topics": [
+            {
+                "name": "War",
+                "url": "/topics/war"
+            },
+            {
+                "name": "Against",
+                "url": "/topics/against"
+            },
+            {
+                "name": "Terrorists",
+                "url": "/topics/terrorists"
+            }
+        ]
+    }
+]

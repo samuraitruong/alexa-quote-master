@@ -1,0 +1,188 @@
+[
+    {
+        "url": "/quotes/unknown_100895?src=t_picture_is_worth",
+        "quote": "A picture is worth a thousand words.",
+        "author": {
+            "name": "Unknown",
+            "url": "/authors/unknown"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Words",
+                "url": "/topics/words"
+            },
+            {
+                "name": "Thousand Words",
+                "url": "/topics/thousand_words"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ben_shneiderman_174925?src=t_picture_is_worth",
+        "quote": "A picture is worth a thousand words. An interface is worth a thousand pictures.",
+        "author": {
+            "name": "Ben Shneiderman",
+            "url": "/authors/ben_shneiderman"
+        },
+        "topics": [
+            {
+                "name": "Words",
+                "url": "/topics/words"
+            },
+            {
+                "name": "Thousand Words",
+                "url": "/topics/thousand_words"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sarah_parcak_741743?src=t_picture_is_worth",
+        "quote": "A picture is worth a thousand words. A satellite image is worth a million dollars.",
+        "author": {
+            "name": "Sarah Parcak",
+            "url": "/authors/sarah_parcak"
+        },
+        "topics": [
+            {
+                "name": "Image",
+                "url": "/topics/image"
+            },
+            {
+                "name": "Million Dollars",
+                "url": "/topics/million_dollars"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/inga_muscio_657326?src=t_picture_is_worth",
+        "quote": "Grown-ups and children are not readily encouraged to unearth the power of words. Adults are repeatedly assured a picture is worth a thousand of them, while the playground response to almost any verbal taunt is 'Sticks and stones may break my bones, but words will never hurt me.' I don't beg so much as command to differ.",
+        "author": {
+            "name": "Inga Muscio",
+            "url": "/authors/inga_muscio"
+        },
+        "topics": [
+            {
+                "name": "Almost",
+                "url": "/topics/almost"
+            },
+            {
+                "name": "Readily",
+                "url": "/topics/readily"
+            },
+            {
+                "name": "Beg",
+                "url": "/topics/beg"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ronald_reagan_380592?src=t_picture_is_worth",
+        "quote": "One picture is worth 1,000 denials.",
+        "author": {
+            "name": "Ronald Reagan",
+            "url": "/authors/ronald_reagan"
+        },
+        "topics": [
+            {
+                "name": "Funny",
+                "url": "/topics/funny"
+            },
+            {
+                "name": "Picture",
+                "url": "/topics/picture"
+            },
+            {
+                "name": "Worth",
+                "url": "/topics/worth"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/leila_janah_724691?src=t_picture_is_worth",
+        "quote": "They say a picture is worth a thousand words. In the nonprofit world, the right picture is worth tens of thousands of dollars. I use PhotoPad to sync our Samasource Flickr account to my iPad and slip it out of my purse at cocktail parties to tell our story.",
+        "author": {
+            "name": "Leila Janah",
+            "url": "/authors/leila_janah"
+        },
+        "topics": [
+            {
+                "name": "Nonprofit",
+                "url": "/topics/nonprofit"
+            },
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            },
+            {
+                "name": "Tens",
+                "url": "/topics/tens"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alan_perlis_177160?src=t_picture_is_worth",
+        "quote": "A picture is worth 10K words - but only those to describe the picture. Hardly any sets of 10K words can be adequately described with pictures.",
+        "author": {
+            "name": "Alan Perlis",
+            "url": "/authors/alan_perlis"
+        },
+        "topics": [
+            {
+                "name": "Words",
+                "url": "/topics/words"
+            },
+            {
+                "name": "Adequately",
+                "url": "/topics/adequately"
+            },
+            {
+                "name": "Sets",
+                "url": "/topics/sets"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/noah_hawley_874495?src=t_picture_is_worth",
+        "quote": "What's great is that each medium has a unique set of things that it does and does well. Film is a visual medium, and obviously, you can't fit a whole book into two hours unless you're really economical about it. Obviously, they say a picture is worth a thousand words, and on some level, it's sort of true.",
+        "author": {
+            "name": "Noah Hawley",
+            "url": "/authors/noah_hawley"
+        },
+        "topics": [
+            {
+                "name": "Book",
+                "url": "/topics/book"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kathleen_troia_mcfarland_644533?src=t_picture_is_worth",
+        "quote": "In politics, a picture is worth a thousand words.",
+        "author": {
+            "name": "Kathleen Troia McFarland",
+            "url": "/authors/kathleen_troia_mcfarland"
+        },
+        "topics": [
+            {
+                "name": "Words",
+                "url": "/topics/words"
+            },
+            {
+                "name": "Politics",
+                "url": "/topics/politics"
+            }
+        ]
+    }
+]

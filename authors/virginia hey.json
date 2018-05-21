@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/virginia_hey_570532",
+        "quote": "It's scary for me to act. It's terrifying. But I must be addicted to the adrenaline rush of the fear. It's like bungee jumping, I suppose. But after I accomplish it, I get this great sense of satisfaction and an overwhelming feeling of well being.",
+        "author": {
+            "name": "Virginia Hey",
+            "url": "/quotes/virginia_hey_570532"
+        },
+        "topics": [
+            {
+                "name": "Act",
+                "url": "/topics/act"
+            },
+            {
+                "name": "Terrifying",
+                "url": "/topics/terrifying"
+            },
+            {
+                "name": "Great Sense",
+                "url": "/topics/great_sense"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/virginia_hey_570533",
+        "quote": "I like the beach and would also love to learn golf because I think it is rather elegant for an older lady.",
+        "author": {
+            "name": "Virginia Hey",
+            "url": "/quotes/virginia_hey_570533"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/virginia_hey_570534",
+        "quote": "When I was younger, my mum used to put fresh flowers in bath water instead of rubber ducks, and since then I had a love of perfumes.",
+        "author": {
+            "name": "Virginia Hey",
+            "url": "/quotes/virginia_hey_570534"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Flowers",
+                "url": "/topics/flowers"
+            },
+            {
+                "name": "Mum",
+                "url": "/topics/mum"
+            }
+        ]
+    }
+]

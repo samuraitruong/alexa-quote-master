@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/andrew_niccol_404472",
+        "quote": "You have two choices when someone changes your work. You can either wash your hands of it or embrace it.",
+        "author": {
+            "name": "Andrew Niccol",
+            "url": "/quotes/andrew_niccol_404472"
+        },
+        "topics": [
+            {
+                "name": "Hands",
+                "url": "/topics/hands"
+            },
+            {
+                "name": "Someone",
+                "url": "/topics/someone"
+            },
+            {
+                "name": "Either",
+                "url": "/topics/either"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/andrew_niccol_404078",
+        "quote": "We hear so much about weapons of mass destruction. But nine out of 10 war victims are killed by guns. It's the AK-47 that's a weapon of mass destruction.",
+        "author": {
+            "name": "Andrew Niccol",
+            "url": "/quotes/andrew_niccol_404078"
+        },
+        "topics": [
+            {
+                "name": "Guns",
+                "url": "/topics/guns"
+            },
+            {
+                "name": "Mass",
+                "url": "/topics/mass"
+            },
+            {
+                "name": "Nine",
+                "url": "/topics/nine"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/andrew_niccol_404079",
+        "quote": "The U.S. is by far the biggest exporter of arms in the world. It was true during the Clinton administration, and it's true during the Bush administration. It's bipartisan.",
+        "author": {
+            "name": "Andrew Niccol",
+            "url": "/quotes/andrew_niccol_404079"
+        },
+        "topics": [
+            {
+                "name": "Administration",
+                "url": "/topics/administration"
+            },
+            {
+                "name": "Bush",
+                "url": "/topics/bush"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/andrew_niccol_404168",
+        "quote": "Nine out of 10 war victims die from a gun.",
+        "author": {
+            "name": "Andrew Niccol",
+            "url": "/quotes/andrew_niccol_404168"
+        },
+        "topics": [
+            {
+                "name": "Gun",
+                "url": "/topics/gun"
+            },
+            {
+                "name": "Die",
+                "url": "/topics/die"
+            },
+            {
+                "name": "Nine",
+                "url": "/topics/nine"
+            }
+        ]
+    }
+]

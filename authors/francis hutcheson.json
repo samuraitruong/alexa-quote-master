@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/francis_hutcheson_172292",
+        "quote": "Wisdom denotes the pursuing of the best ends by the best means.",
+        "author": {
+            "name": "Francis Hutcheson",
+            "url": "/quotes/francis_hutcheson_172292"
+        },
+        "topics": [
+            {
+                "name": "Means",
+                "url": "/topics/means"
+            },
+            {
+                "name": "Pursuing",
+                "url": "/topics/pursuing"
+            },
+            {
+                "name": "Ends",
+                "url": "/topics/ends"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/francis_hutcheson_175087",
+        "quote": "That action is best which procures the greatest happiness for the greatest numbers.",
+        "author": {
+            "name": "Francis Hutcheson",
+            "url": "/quotes/francis_hutcheson_175087"
+        },
+        "topics": [
+            {
+                "name": "Happiness",
+                "url": "/topics/happiness"
+            },
+            {
+                "name": "Numbers",
+                "url": "/topics/numbers"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    }
+]

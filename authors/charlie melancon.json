@@ -1,0 +1,100 @@
+[
+    {
+        "url": "/quotes/charlie_melancon_404051",
+        "quote": "When you are pulling people out of the water and off of rooftops, there are no Republicans and no Democrats.",
+        "author": {
+            "name": "Charlie Melancon",
+            "url": "/quotes/charlie_melancon_404051"
+        },
+        "topics": [
+            {
+                "name": "Rooftops",
+                "url": "/topics/rooftops"
+            },
+            {
+                "name": "Republicans",
+                "url": "/topics/republicans"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charlie_melancon_509398",
+        "quote": "I'm a pro-life, pro-gun Louisiana Democrat.",
+        "author": {
+            "name": "Charlie Melancon",
+            "url": "/quotes/charlie_melancon_509398"
+        },
+        "topics": [
+            {
+                "name": "Democrat",
+                "url": "/topics/democrat"
+            },
+            {
+                "name": "Louisiana",
+                "url": "/topics/louisiana"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charlie_melancon_509399",
+        "quote": "I think too many of the politicians in Washington have forgotten simple ideals like solving problems and helping neighbors. The Washington game is more about scoring points or sticking it to the other guy.",
+        "author": {
+            "name": "Charlie Melancon",
+            "url": "/quotes/charlie_melancon_509399"
+        },
+        "topics": [
+            {
+                "name": "Game",
+                "url": "/topics/game"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Scoring",
+                "url": "/topics/scoring"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charlie_melancon_509400",
+        "quote": "I'm a proud fighter for the little guy and the people of my state who are struggling to make ends meet. That's what Louisiana values are about.",
+        "author": {
+            "name": "Charlie Melancon",
+            "url": "/quotes/charlie_melancon_509400"
+        },
+        "topics": [
+            {
+                "name": "Proud",
+                "url": "/topics/proud"
+            },
+            {
+                "name": "Values",
+                "url": "/topics/values"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charlie_melancon_509401",
+        "quote": "I don't represent corporations.",
+        "author": {
+            "name": "Charlie Melancon",
+            "url": "/quotes/charlie_melancon_509401"
+        },
+        "topics": [
+            {
+                "name": "Corporations",
+                "url": "/topics/corporations"
+            },
+            {
+                "name": "Represent",
+                "url": "/topics/represent"
+            }
+        ]
+    }
+]

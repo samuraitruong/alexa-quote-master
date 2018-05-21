@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/isco_664014",
+        "quote": "It's great to have atmosphere at the stadium, but football is all about the players.",
+        "author": {
+            "name": "Isco",
+            "url": "/quotes/isco_664014"
+        },
+        "topics": [
+            {
+                "name": "Players",
+                "url": "/topics/players"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Atmosphere",
+                "url": "/topics/atmosphere"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/isco_664015",
+        "quote": "Madrid excites me. They are one of the best teams in the world.",
+        "author": {
+            "name": "Isco",
+            "url": "/quotes/isco_664015"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Teams",
+                "url": "/topics/teams"
+            },
+            {
+                "name": "Excites",
+                "url": "/topics/excites"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/isco_664013",
+        "quote": "When I was a boy, the neighbours all knew who I was because I'd take a ball with me everywhere I went.",
+        "author": {
+            "name": "Isco",
+            "url": "/quotes/isco_664013"
+        },
+        "topics": [
+            {
+                "name": "Boy",
+                "url": "/topics/boy"
+            },
+            {
+                "name": "Knew",
+                "url": "/topics/knew"
+            },
+            {
+                "name": "Neighbours",
+                "url": "/topics/neighbours"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/isco_664016",
+        "quote": "I'd say I'm a bit antimadridista although I do not know where my future will be, but it's a team that I never liked. I get the impression that it is an arrogant club, about how the players are. Without humility, you cannot get anywhere.",
+        "author": {
+            "name": "Isco",
+            "url": "/quotes/isco_664016"
+        },
+        "topics": [
+            {
+                "name": "Humility",
+                "url": "/topics/humility"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Bit",
+                "url": "/topics/bit"
+            }
+        ]
+    }
+]

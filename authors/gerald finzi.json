@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/gerald_finzi_224001",
+        "quote": "There is no room in the world, as you say, for second rate work.",
+        "author": {
+            "name": "Gerald Finzi",
+            "url": "/quotes/gerald_finzi_224001"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Rate",
+                "url": "/topics/rate"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gerald_finzi_224002",
+        "quote": "But no work from a first rate mind is ever really second rate.",
+        "author": {
+            "name": "Gerald Finzi",
+            "url": "/quotes/gerald_finzi_224002"
+        },
+        "topics": [
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Ever",
+                "url": "/topics/ever"
+            },
+            {
+                "name": "Rate",
+                "url": "/topics/rate"
+            }
+        ]
+    }
+]

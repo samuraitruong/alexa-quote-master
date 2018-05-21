@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/stephen_sommers_211673",
+        "quote": "I love all of mythology and rules pertaining to all of the monsters, but I like to go the extra step.",
+        "author": {
+            "name": "Stephen Sommers",
+            "url": "/quotes/stephen_sommers_211673"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "I Love",
+                "url": "/topics/i_love"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/stephen_sommers_381881",
+        "quote": "The best scary movies have great humor in them and a great story.",
+        "author": {
+            "name": "Stephen Sommers",
+            "url": "/quotes/stephen_sommers_381881"
+        },
+        "topics": [
+            {
+                "name": "Humor",
+                "url": "/topics/humor"
+            },
+            {
+                "name": "Movies",
+                "url": "/topics/movies"
+            },
+            {
+                "name": "Scary Movies",
+                "url": "/topics/scary_movies"
+            }
+        ]
+    }
+]

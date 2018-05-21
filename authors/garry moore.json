@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/garry_moore_234182",
+        "quote": "Christmas is, of course, the time to be home - in heart as well as body.",
+        "author": {
+            "name": "Garry Moore",
+            "url": "/quotes/garry_moore_234182"
+        },
+        "topics": [
+            {
+                "name": "Christmas",
+                "url": "/topics/christmas"
+            },
+            {
+                "name": "Course",
+                "url": "/topics/course"
+            },
+            {
+                "name": "Well",
+                "url": "/topics/well"
+            }
+        ]
+    }
+]

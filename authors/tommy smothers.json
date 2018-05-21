@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/tommy_smothers_381916",
+        "quote": "The only valid censorship of ideas is the right of people not to listen.",
+        "author": {
+            "name": "Tommy Smothers",
+            "url": "/quotes/tommy_smothers_381916"
+        },
+        "topics": [
+            {
+                "name": "Ideas",
+                "url": "/topics/ideas"
+            },
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            },
+            {
+                "name": "Valid",
+                "url": "/topics/valid"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tommy_smothers_161711",
+        "quote": "Red meat is not bad for you. Now blue-green meat, that's bad for you!",
+        "author": {
+            "name": "Tommy Smothers",
+            "url": "/quotes/tommy_smothers_161711"
+        },
+        "topics": [
+            {
+                "name": "Red",
+                "url": "/topics/red"
+            },
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            },
+            {
+                "name": "Red Meat",
+                "url": "/topics/red_meat"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tommy_smothers_381917",
+        "quote": "When you don't know what you're talking about, it's hard to know when you're finished.",
+        "author": {
+            "name": "Tommy Smothers",
+            "url": "/quotes/tommy_smothers_381917"
+        },
+        "topics": [
+            {
+                "name": "Know",
+                "url": "/topics/know"
+            },
+            {
+                "name": "Finished",
+                "url": "/topics/finished"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tommy_smothers_100051",
+        "quote": "The ultimate censorship is the flick of the dial.",
+        "author": {
+            "name": "Tommy Smothers",
+            "url": "/quotes/tommy_smothers_100051"
+        },
+        "topics": [
+            {
+                "name": "Censorship",
+                "url": "/topics/censorship"
+            },
+            {
+                "name": "Ultimate",
+                "url": "/topics/ultimate"
+            },
+            {
+                "name": "Flick",
+                "url": "/topics/flick"
+            }
+        ]
+    }
+]

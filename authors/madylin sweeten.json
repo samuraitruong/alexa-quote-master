@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/madylin_sweeten_625520",
+        "quote": "I like playing make-believe. And my brothers do it with me, so it's fun. It's almost better than chocolate ice cream.",
+        "author": {
+            "name": "Madylin Sweeten",
+            "url": "/quotes/madylin_sweeten_625520"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Brothers",
+                "url": "/topics/brothers"
+            },
+            {
+                "name": "Make-Believe",
+                "url": "/topics/make-believe"
+            }
+        ]
+    }
+]

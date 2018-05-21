@@ -1,0 +1,596 @@
+[
+    {
+        "url": "/quotes/harry_nilsson_179313?src=t_beatle",
+        "quote": "That incident ruined my reputation for 10 years. Get one Beatle drunk and look what happens!",
+        "author": {
+            "name": "Harry Nilsson",
+            "url": "/authors/harry_nilsson"
+        },
+        "topics": [
+            {
+                "name": "Reputation",
+                "url": "/topics/reputation"
+            },
+            {
+                "name": "Drunk",
+                "url": "/topics/drunk"
+            },
+            {
+                "name": "Get",
+                "url": "/topics/get"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_harrison_803780?src=t_beatle",
+        "quote": "People say I'm the Beatle who changed the most, but to me, that's what life's about.",
+        "author": {
+            "name": "George Harrison",
+            "url": "/authors/george_harrison"
+        },
+        "topics": [
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ringo_starr_454567?src=t_beatle",
+        "quote": "People only look at me as a Beatle, but my friends look at me as a whole person. That's how life works, but it's not bugging me anymore.",
+        "author": {
+            "name": "Ringo Starr",
+            "url": "/authors/ringo_starr"
+        },
+        "topics": [
+            {
+                "name": "Whole",
+                "url": "/topics/whole"
+            },
+            {
+                "name": "Works",
+                "url": "/topics/works"
+            },
+            {
+                "name": "Bugging",
+                "url": "/topics/bugging"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bono_569611?src=t_beatle",
+        "quote": "Contrary to reports, this boy is not a billionaire or going to be richer than any Beatle... and not just in the sense of money, by the way; the Beatles are untouchable - those billionaire reports are a joke.",
+        "author": {
+            "name": "Bono",
+            "url": "/authors/bono"
+        },
+        "topics": [
+            {
+                "name": "Reports",
+                "url": "/topics/reports"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Billionaire",
+                "url": "/topics/billionaire"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_harrison_797309?src=t_beatle",
+        "quote": "The Beatles exist apart from myself. I am not really Beatle George. Beatle George is like a suit or shirt that I once wore on occasion, and until the end of my life, people may see that shirt and mistake it for me.",
+        "author": {
+            "name": "George Harrison",
+            "url": "/authors/george_harrison"
+        },
+        "topics": [
+            {
+                "name": "Life",
+                "url": "/topics/life"
+            },
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Occasion",
+                "url": "/topics/occasion"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kurt_cobain_574668?src=t_beatle",
+        "quote": "John Lennon was definitely my favorite Beatle, hands down.",
+        "author": {
+            "name": "Kurt Cobain",
+            "url": "/authors/kurt_cobain"
+        },
+        "topics": [
+            {
+                "name": "Hands",
+                "url": "/topics/hands"
+            },
+            {
+                "name": "Definitely",
+                "url": "/topics/definitely"
+            },
+            {
+                "name": "Lennon",
+                "url": "/topics/lennon"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_mccartney_349126?src=t_beatle",
+        "quote": "I used to think that all my Wings stuff was second-rate stuff, but I began to meet younger kids, not kids from my Beatle generation, who would say, We really love this song.",
+        "author": {
+            "name": "Paul McCartney",
+            "url": "/authors/paul_mccartney"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Song",
+                "url": "/topics/song"
+            },
+            {
+                "name": "Generation",
+                "url": "/topics/generation"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ravi_shankar_617927?src=t_beatle",
+        "quote": "I do think that my Indian classical audiences thought I was sacrificing them through working with George; I became known as the 'fifth Beatle.' In India, they thought I was mad.",
+        "author": {
+            "name": "Ravi Shankar",
+            "url": "/authors/ravi_shankar"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Became",
+                "url": "/topics/became"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_mccartney_347683?src=t_beatle",
+        "quote": "Someone like John would want to end the Beatle period and start the Yoko period. He wouldn't like either to interfere with the other.",
+        "author": {
+            "name": "Paul McCartney",
+            "url": "/authors/paul_mccartney"
+        },
+        "topics": [
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Period",
+                "url": "/topics/period"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bruce_springsteen_596295?src=t_beatle",
+        "quote": "If you listen to the great Beatle records, the earliest ones where the lyrics are incredibly simple. Why are they still beautiful? Well, they're beautifully sung, beautifully played, and the mathematics in them is elegant. They retain their elegance.",
+        "author": {
+            "name": "Bruce Springsteen",
+            "url": "/authors/bruce_springsteen"
+        },
+        "topics": [
+            {
+                "name": "Mathematics",
+                "url": "/topics/mathematics"
+            },
+            {
+                "name": "Records",
+                "url": "/topics/records"
+            },
+            {
+                "name": "Retain",
+                "url": "/topics/retain"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tom_felton_597355?src=t_beatle",
+        "quote": "I'd love to be in Paul McCartney's shoes for a day. I'd love to pick up a guitar and write songs like he does. Or to experience what it might have been like to be a Beatle for a day.",
+        "author": {
+            "name": "Tom Felton",
+            "url": "/authors/tom_felton"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ray_comfort_485372?src=t_beatle",
+        "quote": "George Harrison was known as the quiet Beatle. Quiet people are often quiet because they are deep thinkers.",
+        "author": {
+            "name": "Ray Comfort",
+            "url": "/authors/ray_comfort"
+        },
+        "topics": [
+            {
+                "name": "Deep",
+                "url": "/topics/deep"
+            },
+            {
+                "name": "Known",
+                "url": "/topics/known"
+            },
+            {
+                "name": "George",
+                "url": "/topics/george"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_harrison_803766?src=t_beatle",
+        "quote": "Of course, once you've been a Beatle, you're never really out of it. People always want to know what you're up to, and if you don't immediately tell 'em, that's when they start making stuff up.",
+        "author": {
+            "name": "George Harrison",
+            "url": "/authors/george_harrison"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Making",
+                "url": "/topics/making"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_harrison_803775?src=t_beatle",
+        "quote": "It was all part of being a Beatle, really: just getting lugged around and thrust into rooms full of press men taking pictures and asking questions.",
+        "author": {
+            "name": "George Harrison",
+            "url": "/authors/george_harrison"
+        },
+        "topics": [
+            {
+                "name": "Asking",
+                "url": "/topics/asking"
+            },
+            {
+                "name": "Rooms",
+                "url": "/topics/rooms"
+            },
+            {
+                "name": "Part",
+                "url": "/topics/part"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ron_howard_786209?src=t_beatle",
+        "quote": "For my 10th birthday, what I wanted was Beatle boots and a Beatle wig. My parents couldn't find Beatle boots, but down at the dime store, Woolworths or someplace, they found a Beatle wig!",
+        "author": {
+            "name": "Ron Howard",
+            "url": "/authors/ron_howard"
+        },
+        "topics": [
+            {
+                "name": "Birthday",
+                "url": "/topics/birthday"
+            },
+            {
+                "name": "Down",
+                "url": "/topics/down"
+            },
+            {
+                "name": "Store",
+                "url": "/topics/store"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_best_474306?src=t_beatle",
+        "quote": "That thing about being an icon, the fifth Beatle, I just found it so freaky.",
+        "author": {
+            "name": "George Best",
+            "url": "/authors/george_best"
+        },
+        "topics": [
+            {
+                "name": "Found",
+                "url": "/topics/found"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Freaky",
+                "url": "/topics/freaky"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_best_797392?src=t_beatle",
+        "quote": "I was 19 or 20 when The Beatles were at their peak, and I was coming up to the peak of my career, too. I was also the first footballer to have long hair, and that's how I got my nickname 'the Fifth Beatle.'",
+        "author": {
+            "name": "George Best",
+            "url": "/authors/george_best"
+        },
+        "topics": [
+            {
+                "name": "Long",
+                "url": "/topics/long"
+            },
+            {
+                "name": "Career",
+                "url": "/topics/career"
+            },
+            {
+                "name": "Got",
+                "url": "/topics/got"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/christina_ricci_416589?src=t_beatle",
+        "quote": "Every night I fell asleep to a different Beatles album. So I'm very familiar with the Beatles; Ringo was my favorite Beatle until I grew up and then changed. I made the switch over to George Harrison just in time to regain my cool.",
+        "author": {
+            "name": "Christina Ricci",
+            "url": "/authors/christina_ricci"
+        },
+        "topics": [
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Switch",
+                "url": "/topics/switch"
+            },
+            {
+                "name": "Ringo",
+                "url": "/topics/ringo"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tig_notaro_836800?src=t_beatle",
+        "quote": "I got my first guitar when I was nine because I wanted to be the fifth Beatle, even though they had already broken up and John Lennon died that year.",
+        "author": {
+            "name": "Tig Notaro",
+            "url": "/authors/tig_notaro"
+        },
+        "topics": [
+            {
+                "name": "Broken",
+                "url": "/topics/broken"
+            },
+            {
+                "name": "Nine",
+                "url": "/topics/nine"
+            },
+            {
+                "name": "Though",
+                "url": "/topics/though"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sam_taylorjohnson_705343?src=t_beatle",
+        "quote": "My parents were Beatle fans, but my mom was especially a Lennon fan, so I was exposed to him more. I remember her playing 'Double Fantasy' quite often.",
+        "author": {
+            "name": "Sam Taylor-Johnson",
+            "url": "/authors/sam_taylorjohnson"
+        },
+        "topics": [
+            {
+                "name": "Fantasy",
+                "url": "/topics/fantasy"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "I Remember",
+                "url": "/topics/i_remember"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jon_landau_511708?src=t_beatle",
+        "quote": "Ringo Starr may not have much of a voice, but when he sang a song on a Beatle album, it had its own special charm.",
+        "author": {
+            "name": "Jon Landau",
+            "url": "/authors/jon_landau"
+        },
+        "topics": [
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Song",
+                "url": "/topics/song"
+            },
+            {
+                "name": "Voice",
+                "url": "/topics/voice"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/heather_mills_458621?src=t_beatle",
+        "quote": "I fell in love with a man, not a Beatle.",
+        "author": {
+            "name": "Heather Mills",
+            "url": "/authors/heather_mills"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Man",
+                "url": "/topics/man"
+            },
+            {
+                "name": "Fell",
+                "url": "/topics/fell"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ann_hood_540816?src=t_beatle",
+        "quote": "My cousins and I used to play Beatle wives. We all wanted to be married to Paul, but John was O.K. too. None of us wanted Ringo. Or even worse, George.",
+        "author": {
+            "name": "Ann Hood",
+            "url": "/authors/ann_hood"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Even Worse",
+                "url": "/topics/even_worse"
+            },
+            {
+                "name": "Ringo",
+                "url": "/topics/ringo"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lou_gramm_296986?src=t_beatle",
+        "quote": "We play some of my stuff and we play some Beatle covers.",
+        "author": {
+            "name": "Lou Gramm",
+            "url": "/authors/lou_gramm"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Stuff",
+                "url": "/topics/stuff"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_mccartney_548218?src=t_beatle",
+        "quote": "I did art; I made furniture. I didn't want to be a cliche - the Beatle's son who became a musician.",
+        "author": {
+            "name": "James McCartney",
+            "url": "/authors/james_mccartney"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Made",
+                "url": "/topics/made"
+            },
+            {
+                "name": "Became",
+                "url": "/topics/became"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alan_parsons_327197?src=t_beatle",
+        "quote": "That Beatle euphoria has always been there, and it's hard to be in a room with a Beatle and try to be totally natural. You never shake that off.",
+        "author": {
+            "name": "Alan Parsons",
+            "url": "/authors/alan_parsons"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Shake",
+                "url": "/topics/shake"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/michael_davis_188052?src=t_beatle",
+        "quote": "I went over to say hi to Rob and he introduced me to Wayne and Fred. I had made a radical purchase of some brown Beatle boots. Wayne was like 'Where did you get those boots! Who is this guy?",
+        "author": {
+            "name": "Michael Davis",
+            "url": "/authors/michael_davis"
+        },
+        "topics": [
+            {
+                "name": "Hi",
+                "url": "/topics/hi"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Rob",
+                "url": "/topics/rob"
+            }
+        ]
+    }
+]

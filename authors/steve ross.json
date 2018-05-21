@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/steve_ross_163699",
+        "quote": "You can't operate a company by fear, because the way to eliminate fear is to avoid criticism. And the way to avoid criticism is to do nothing.",
+        "author": {
+            "name": "Steve Ross",
+            "url": "/quotes/steve_ross_163699"
+        },
+        "topics": [
+            {
+                "name": "Business",
+                "url": "/topics/business"
+            },
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            },
+            {
+                "name": "Operate",
+                "url": "/topics/operate"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/steve_ross_276126",
+        "quote": "The city's contradictions and frailties drive me to the church. The church, in turn, binds my wounds and soothes my troubled heart, and sends me right back out into the city again.",
+        "author": {
+            "name": "Steve Ross",
+            "url": "/quotes/steve_ross_276126"
+        },
+        "topics": [
+            {
+                "name": "City",
+                "url": "/topics/city"
+            },
+            {
+                "name": "Wounds",
+                "url": "/topics/wounds"
+            },
+            {
+                "name": "Binds",
+                "url": "/topics/binds"
+            }
+        ]
+    }
+]

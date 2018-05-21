@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/jack_chick_288194",
+        "quote": "Yes, we get death threats every week... from the Muslims.",
+        "author": {
+            "name": "Jack Chick",
+            "url": "/quotes/jack_chick_288194"
+        },
+        "topics": [
+            {
+                "name": "Death",
+                "url": "/topics/death"
+            },
+            {
+                "name": "Week",
+                "url": "/topics/week"
+            },
+            {
+                "name": "Yes",
+                "url": "/topics/yes"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jack_chick_288193",
+        "quote": "I don't let my picture be taken. I'm on too many hit lists.",
+        "author": {
+            "name": "Jack Chick",
+            "url": "/quotes/jack_chick_288193"
+        },
+        "topics": [
+            {
+                "name": "Lists",
+                "url": "/topics/lists"
+            },
+            {
+                "name": "Hit",
+                "url": "/topics/hit"
+            },
+            {
+                "name": "Too",
+                "url": "/topics/too"
+            }
+        ]
+    }
+]

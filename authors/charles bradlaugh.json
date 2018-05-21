@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/charles_bradlaugh_325927",
+        "quote": "Without free speech no search for truth is possible... no discovery of truth is useful.",
+        "author": {
+            "name": "Charles Bradlaugh",
+            "url": "/quotes/charles_bradlaugh_325927"
+        },
+        "topics": [
+            {
+                "name": "Truth",
+                "url": "/topics/truth"
+            },
+            {
+                "name": "Search",
+                "url": "/topics/search"
+            },
+            {
+                "name": "Free Speech",
+                "url": "/topics/free_speech"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charles_bradlaugh_325925",
+        "quote": "I cannot follow you Christians; for you try to crawl through your life upon your knees, while I stride through mine on my feet.",
+        "author": {
+            "name": "Charles Bradlaugh",
+            "url": "/quotes/charles_bradlaugh_325925"
+        },
+        "topics": [
+            {
+                "name": "Feet",
+                "url": "/topics/feet"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Mine",
+                "url": "/topics/mine"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charles_bradlaugh_325926",
+        "quote": "The abuse dies in a day, but the denial slays the life of the people, and entombs the hope of the race.",
+        "author": {
+            "name": "Charles Bradlaugh",
+            "url": "/quotes/charles_bradlaugh_325926"
+        },
+        "topics": [
+            {
+                "name": "Race",
+                "url": "/topics/race"
+            },
+            {
+                "name": "Abuse",
+                "url": "/topics/abuse"
+            },
+            {
+                "name": "Denial",
+                "url": "/topics/denial"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charles_bradlaugh_325924",
+        "quote": "Better a thousandfold abuse of free speech than denial of free speech.",
+        "author": {
+            "name": "Charles Bradlaugh",
+            "url": "/quotes/charles_bradlaugh_325924"
+        },
+        "topics": [
+            {
+                "name": "Better",
+                "url": "/topics/better"
+            },
+            {
+                "name": "Abuse",
+                "url": "/topics/abuse"
+            },
+            {
+                "name": "Denial",
+                "url": "/topics/denial"
+            }
+        ]
+    }
+]

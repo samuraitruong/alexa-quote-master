@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/zara_cox_828873",
+        "quote": "I'm a voracious reader. I also have a ton of favorite TV shows I'm addicted to.",
+        "author": {
+            "name": "Zara Cox",
+            "url": "/quotes/zara_cox_828873"
+        },
+        "topics": [
+            {
+                "name": "TV Shows",
+                "url": "/topics/tv_shows"
+            },
+            {
+                "name": "Voracious",
+                "url": "/topics/voracious"
+            },
+            {
+                "name": "Ton",
+                "url": "/topics/ton"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/zara_cox_828874",
+        "quote": "Ninety percent of my ideas come to me either when I'm reading or watching a show.",
+        "author": {
+            "name": "Zara Cox",
+            "url": "/quotes/zara_cox_828874"
+        },
+        "topics": [
+            {
+                "name": "Reading",
+                "url": "/topics/reading"
+            },
+            {
+                "name": "Show",
+                "url": "/topics/show"
+            },
+            {
+                "name": "Ninety",
+                "url": "/topics/ninety"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/zara_cox_828875",
+        "quote": "I loved Alessandra Torre's 'Black Lies.'",
+        "author": {
+            "name": "Zara Cox",
+            "url": "/quotes/zara_cox_828875"
+        },
+        "topics": [
+            {
+                "name": "Loved",
+                "url": "/topics/loved"
+            },
+            {
+                "name": "Black",
+                "url": "/topics/black"
+            },
+            {
+                "name": "Lies",
+                "url": "/topics/lies"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/zara_cox_828876",
+        "quote": "I'm quite adept at writing two or sometimes even three stories at once. So if I get stuck on one story, I switch the next and let my subconscious work on unraveling any plot problems from another story.",
+        "author": {
+            "name": "Zara Cox",
+            "url": "/quotes/zara_cox_828876"
+        },
+        "topics": [
+            {
+                "name": "Sometimes",
+                "url": "/topics/sometimes"
+            },
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            },
+            {
+                "name": "Another",
+                "url": "/topics/another"
+            }
+        ]
+    }
+]

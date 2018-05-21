@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/mark_mccormack_171246",
+        "quote": "Commit yourself to quality from day one... it's better to do nothing at all than to do something badly.",
+        "author": {
+            "name": "Mark McCormack",
+            "url": "/quotes/mark_mccormack_171246"
+        },
+        "topics": [
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            },
+            {
+                "name": "Badly",
+                "url": "/topics/badly"
+            },
+            {
+                "name": "Commit",
+                "url": "/topics/commit"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mark_mccormack_280100",
+        "quote": "To me, Arnold was a pioneer in the spirit of Thomas Edison or Benjamin Franklin, while Tiger is a pioneer in the spirit of Bill Gates.",
+        "author": {
+            "name": "Mark McCormack",
+            "url": "/quotes/mark_mccormack_280100"
+        },
+        "topics": [
+            {
+                "name": "Spirit",
+                "url": "/topics/spirit"
+            },
+            {
+                "name": "Edison",
+                "url": "/topics/edison"
+            },
+            {
+                "name": "Bill",
+                "url": "/topics/bill"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mark_mccormack_280101",
+        "quote": "People retire to do what I do every day.",
+        "author": {
+            "name": "Mark McCormack",
+            "url": "/quotes/mark_mccormack_280101"
+        },
+        "topics": [
+            {
+                "name": "People",
+                "url": "/topics/people"
+            },
+            {
+                "name": "Every Day",
+                "url": "/topics/every_day"
+            },
+            {
+                "name": "Retire",
+                "url": "/topics/retire"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mark_mccormack_393357",
+        "quote": "All things being equal, people will do business with a friend; all things being unequal, people will still do business with a friend.",
+        "author": {
+            "name": "Mark McCormack",
+            "url": "/quotes/mark_mccormack_393357"
+        },
+        "topics": [
+            {
+                "name": "Business",
+                "url": "/topics/business"
+            },
+            {
+                "name": "Equal",
+                "url": "/topics/equal"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            }
+        ]
+    }
+]

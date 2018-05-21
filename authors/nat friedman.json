@@ -1,0 +1,222 @@
+[
+    {
+        "url": "/quotes/nat_friedman_204067",
+        "quote": "There are a lot of people who've been able to ditch their Windows machines and switch over to Linux because they can now use their Exchange server for calendaring and collaboration from their Linux desktop.",
+        "author": {
+            "name": "Nat Friedman",
+            "url": "/quotes/nat_friedman_204067"
+        },
+        "topics": [
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Server",
+                "url": "/topics/server"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nat_friedman_204068",
+        "quote": "We plan to support Exchange 2003 as soon as it is released. We already have the prerelease versions from MSDN.",
+        "author": {
+            "name": "Nat Friedman",
+            "url": "/quotes/nat_friedman_204068"
+        },
+        "topics": [
+            {
+                "name": "Plan",
+                "url": "/topics/plan"
+            },
+            {
+                "name": "Exchange",
+                "url": "/topics/exchange"
+            },
+            {
+                "name": "Versions",
+                "url": "/topics/versions"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nat_friedman_204070",
+        "quote": "It's probably fair to say that the ratio of time our Connector developers spend in the debugger versus the Emacs buffer is higher than with most software.",
+        "author": {
+            "name": "Nat Friedman",
+            "url": "/quotes/nat_friedman_204070"
+        },
+        "topics": [
+            {
+                "name": "Say",
+                "url": "/topics/say"
+            },
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "Developers",
+                "url": "/topics/developers"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nat_friedman_204075",
+        "quote": "A lot of that momentum comes from the fact that Linux is free.",
+        "author": {
+            "name": "Nat Friedman",
+            "url": "/quotes/nat_friedman_204075"
+        },
+        "topics": [
+            {
+                "name": "Fact",
+                "url": "/topics/fact"
+            },
+            {
+                "name": "Linux",
+                "url": "/topics/linux"
+            },
+            {
+                "name": "Lot",
+                "url": "/topics/lot"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nat_friedman_204078",
+        "quote": "Red Carpet has a nice package abstraction layer that allows us to support RPMs and DEBs transparently.",
+        "author": {
+            "name": "Nat Friedman",
+            "url": "/quotes/nat_friedman_204078"
+        },
+        "topics": [
+            {
+                "name": "Nice",
+                "url": "/topics/nice"
+            },
+            {
+                "name": "Package",
+                "url": "/topics/package"
+            },
+            {
+                "name": "Abstraction",
+                "url": "/topics/abstraction"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nat_friedman_204081",
+        "quote": "OS X is sweet: it's simple and intuitive, and I think GNOME shares a lot of values with it.",
+        "author": {
+            "name": "Nat Friedman",
+            "url": "/quotes/nat_friedman_204081"
+        },
+        "topics": [
+            {
+                "name": "Values",
+                "url": "/topics/values"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nat_friedman_204084",
+        "quote": "We're not going to make Evolution or any of our other products depend on Mono anytime in the near future.",
+        "author": {
+            "name": "Nat Friedman",
+            "url": "/quotes/nat_friedman_204084"
+        },
+        "topics": [
+            {
+                "name": "Depend",
+                "url": "/topics/depend"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nat_friedman_204086",
+        "quote": "Big Linux deployments have reached the point where it's become a real problem for administrators that they don't have nice tools to manage their servers and desktops.",
+        "author": {
+            "name": "Nat Friedman",
+            "url": "/quotes/nat_friedman_204086"
+        },
+        "topics": [
+            {
+                "name": "Tools",
+                "url": "/topics/tools"
+            },
+            {
+                "name": "Real",
+                "url": "/topics/real"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nat_friedman_204087",
+        "quote": "Red Carpet Enterprise has been really well received since one guy can install it in about an hour, and it makes it trivial to deal with software management issues like deploying updates and creating standard package sets for your various machines.",
+        "author": {
+            "name": "Nat Friedman",
+            "url": "/quotes/nat_friedman_204087"
+        },
+        "topics": [
+            {
+                "name": "Deal",
+                "url": "/topics/deal"
+            },
+            {
+                "name": "Standard",
+                "url": "/topics/standard"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nat_friedman_204088",
+        "quote": "This is what people need: an easy-to-deploy, easy-to-use tool.",
+        "author": {
+            "name": "Nat Friedman",
+            "url": "/quotes/nat_friedman_204088"
+        },
+        "topics": [
+            {
+                "name": "People",
+                "url": "/topics/people"
+            },
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            },
+            {
+                "name": "Tool",
+                "url": "/topics/tool"
+            }
+        ]
+    }
+]

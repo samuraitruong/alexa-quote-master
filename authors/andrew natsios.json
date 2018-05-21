@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/andrew_natsios_405125",
+        "quote": "Development does not take place in Washington, DC. Development takes place in the rest of the world.",
+        "author": {
+            "name": "Andrew Natsios",
+            "url": "/quotes/andrew_natsios_405125"
+        },
+        "topics": [
+            {
+                "name": "Rest",
+                "url": "/topics/rest"
+            },
+            {
+                "name": "Development",
+                "url": "/topics/development"
+            },
+            {
+                "name": "Take",
+                "url": "/topics/take"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/andrew_natsios_405117",
+        "quote": "We couldn't spend $91 billion if we wanted to.",
+        "author": {
+            "name": "Andrew Natsios",
+            "url": "/quotes/andrew_natsios_405117"
+        },
+        "topics": [
+            {
+                "name": "Wanted",
+                "url": "/topics/wanted"
+            },
+            {
+                "name": "Spend",
+                "url": "/topics/spend"
+            },
+            {
+                "name": "Billion",
+                "url": "/topics/billion"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/andrew_natsios_409045",
+        "quote": "It takes four months to ship food aid and 40 percent of the cost is in the shipping. People cannot eat shipping costs. We have had people die when there are surpluses in the markets.",
+        "author": {
+            "name": "Andrew Natsios",
+            "url": "/quotes/andrew_natsios_409045"
+        },
+        "topics": [
+            {
+                "name": "Die",
+                "url": "/topics/die"
+            },
+            {
+                "name": "Costs",
+                "url": "/topics/costs"
+            },
+            {
+                "name": "Months",
+                "url": "/topics/months"
+            }
+        ]
+    }
+]

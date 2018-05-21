@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/diana_lynn_221311",
+        "quote": "I will know how to hold you just by the look in your eye, I will never forget - not even on the day that I die. This is a promise of my passion for you, smile at me and make it true.",
+        "author": {
+            "name": "Diana Lynn",
+            "url": "/quotes/diana_lynn_221311"
+        },
+        "topics": [
+            {
+                "name": "Die",
+                "url": "/topics/die"
+            },
+            {
+                "name": "Promise",
+                "url": "/topics/promise"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/diana_lynn_221309",
+        "quote": "I will love you with all my heart, To have forever - never to part. This is a promise engrained in me, Take my hand and let it be.",
+        "author": {
+            "name": "Diana Lynn",
+            "url": "/quotes/diana_lynn_221309"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Part",
+                "url": "/topics/part"
+            }
+        ]
+    }
+]

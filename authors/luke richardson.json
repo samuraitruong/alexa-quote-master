@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/luke_richardson_648835",
+        "quote": "We need to change the culture of this topic and make it OK to speak about mental health and suicide.",
+        "author": {
+            "name": "Luke Richardson",
+            "url": "/quotes/luke_richardson_648835"
+        },
+        "topics": [
+            {
+                "name": "Change",
+                "url": "/topics/change"
+            },
+            {
+                "name": "Suicide",
+                "url": "/topics/suicide"
+            },
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/luke_richardson_405507",
+        "quote": "I would be surprised if there weren't some owners who didn't want to get a deal done right now and get back to playing hockey.",
+        "author": {
+            "name": "Luke Richardson",
+            "url": "/quotes/luke_richardson_405507"
+        },
+        "topics": [
+            {
+                "name": "Hockey",
+                "url": "/topics/hockey"
+            },
+            {
+                "name": "Deal",
+                "url": "/topics/deal"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/luke_richardson_425337",
+        "quote": "We decided to speak publicly about suicide because we wanted to make a difference in other people's lives.",
+        "author": {
+            "name": "Luke Richardson",
+            "url": "/quotes/luke_richardson_425337"
+        },
+        "topics": [
+            {
+                "name": "Suicide",
+                "url": "/topics/suicide"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Lives",
+                "url": "/topics/lives"
+            }
+        ]
+    }
+]

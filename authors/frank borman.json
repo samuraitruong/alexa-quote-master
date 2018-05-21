@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/frank_borman_162112",
+        "quote": "Exploration is really the essence of the human spirit.",
+        "author": {
+            "name": "Frank Borman",
+            "url": "/quotes/frank_borman_162112"
+        },
+        "topics": [
+            {
+                "name": "Travel",
+                "url": "/topics/travel"
+            },
+            {
+                "name": "Exploration",
+                "url": "/topics/exploration"
+            },
+            {
+                "name": "Essence",
+                "url": "/topics/essence"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/frank_borman_116968",
+        "quote": "It's a vast, lonely, forbidding expanse of nothing rather like clouds and clouds of pumice stone. And it certainly does not appear to be a very inviting place to live or work.",
+        "author": {
+            "name": "Frank Borman",
+            "url": "/quotes/frank_borman_116968"
+        },
+        "topics": [
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Inviting",
+                "url": "/topics/inviting"
+            },
+            {
+                "name": "Certainly",
+                "url": "/topics/certainly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/frank_borman_110700",
+        "quote": "Capitalism without bankruptcy is like Christianity without hell.",
+        "author": {
+            "name": "Frank Borman",
+            "url": "/quotes/frank_borman_110700"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Christianity",
+                "url": "/topics/christianity"
+            }
+        ]
+    }
+]

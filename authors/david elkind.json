@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/david_elkind_400617",
+        "quote": "Friendships in childhood are usually a matter of chance, whereas in adolescence they are most often a matter of choice.",
+        "author": {
+            "name": "David Elkind",
+            "url": "/quotes/david_elkind_400617"
+        },
+        "topics": [
+            {
+                "name": "Teen",
+                "url": "/topics/teen"
+            },
+            {
+                "name": "Chance",
+                "url": "/topics/chance"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_elkind_403540",
+        "quote": "We now recognize that abuse and neglect may be as frequent in nuclear families as love, protection, and commitment are in nonnuclear families.",
+        "author": {
+            "name": "David Elkind",
+            "url": "/quotes/david_elkind_403540"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Abuse",
+                "url": "/topics/abuse"
+            }
+        ]
+    }
+]

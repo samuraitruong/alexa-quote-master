@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/ben_linder_210808",
+        "quote": "Anything you can do needs to be done, so pick up the tool of your choice and get started.",
+        "author": {
+            "name": "Ben Linder",
+            "url": "/quotes/ben_linder_210808"
+        },
+        "topics": [
+            {
+                "name": "Pick",
+                "url": "/topics/pick"
+            },
+            {
+                "name": "Needs",
+                "url": "/topics/needs"
+            },
+            {
+                "name": "Get",
+                "url": "/topics/get"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ben_linder_283997",
+        "quote": "I see the kids and I feel like taking them all away to a safe place to hide until the war stops and the hunger stops and El Cua becomes strong enough to give them the care they deserve.",
+        "author": {
+            "name": "Ben Linder",
+            "url": "/quotes/ben_linder_283997"
+        },
+        "topics": [
+            {
+                "name": "Strong",
+                "url": "/topics/strong"
+            },
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            },
+            {
+                "name": "Feel",
+                "url": "/topics/feel"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ben_linder_283998",
+        "quote": "So, instead, I try to put in light and hope for the best.",
+        "author": {
+            "name": "Ben Linder",
+            "url": "/quotes/ben_linder_283998"
+        },
+        "topics": [
+            {
+                "name": "Light",
+                "url": "/topics/light"
+            },
+            {
+                "name": "Best",
+                "url": "/topics/best"
+            },
+            {
+                "name": "Try",
+                "url": "/topics/try"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ben_linder_283999",
+        "quote": "It's a wonderful feeling to work in a country where the government's first concern is for its people, for all its people.",
+        "author": {
+            "name": "Ben Linder",
+            "url": "/quotes/ben_linder_283999"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Government",
+                "url": "/topics/government"
+            },
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            }
+        ]
+    }
+]

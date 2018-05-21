@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/dudley_nichols_170829",
+        "quote": "Fear is the highest fence.",
+        "author": {
+            "name": "Dudley Nichols",
+            "url": "/quotes/dudley_nichols_170829"
+        },
+        "topics": [
+            {
+                "name": "Fear",
+                "url": "/topics/fear"
+            },
+            {
+                "name": "Fence",
+                "url": "/topics/fence"
+            },
+            {
+                "name": "Highest",
+                "url": "/topics/highest"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dudley_nichols_395333",
+        "quote": "Break up the printing presses and you break up rebellion.",
+        "author": {
+            "name": "Dudley Nichols",
+            "url": "/quotes/dudley_nichols_395333"
+        },
+        "topics": [
+            {
+                "name": "Rebellion",
+                "url": "/topics/rebellion"
+            },
+            {
+                "name": "Break",
+                "url": "/topics/break"
+            },
+            {
+                "name": "Break Up",
+                "url": "/topics/break_up"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dudley_nichols_396040",
+        "quote": "You can make children believe whatever you want, and the children of today are the soldiers and mothers of tomorrow.",
+        "author": {
+            "name": "Dudley Nichols",
+            "url": "/quotes/dudley_nichols_396040"
+        },
+        "topics": [
+            {
+                "name": "Children",
+                "url": "/topics/children"
+            },
+            {
+                "name": "Mothers",
+                "url": "/topics/mothers"
+            },
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/robert_strauss_128836",
+        "quote": "It's a little like wrestling a gorilla. You don't quit when you're tired - you quit when the gorilla is tired.",
+        "author": {
+            "name": "Robert Strauss",
+            "url": "/quotes/robert_strauss_128836"
+        },
+        "topics": [
+            {
+                "name": "Tired",
+                "url": "/topics/tired"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Gorilla",
+                "url": "/topics/gorilla"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_strauss_388280",
+        "quote": "If you increase the sales tax... everybody would be taxed.",
+        "author": {
+            "name": "Robert Strauss",
+            "url": "/quotes/robert_strauss_388280"
+        },
+        "topics": [
+            {
+                "name": "Everybody",
+                "url": "/topics/everybody"
+            },
+            {
+                "name": "Sales Tax",
+                "url": "/topics/sales_tax"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            }
+        ]
+    }
+]

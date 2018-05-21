@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/pierre_jean_de_beranger_183696",
+        "quote": "Paradise is open to all kind hearts.",
+        "author": {
+            "name": "Pierre Jean de Beranger",
+            "url": "/quotes/pierre_jean_de_beranger_183696"
+        },
+        "topics": [
+            {
+                "name": "Paradise",
+                "url": "/topics/paradise"
+            },
+            {
+                "name": "Hearts",
+                "url": "/topics/hearts"
+            },
+            {
+                "name": "Kind",
+                "url": "/topics/kind"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/pierre_jean_de_beranger_183694",
+        "quote": "It is better to decide a difference between enemies than friends, for one of our friends will certainly become an enemy and one of our enemies a friend.",
+        "author": {
+            "name": "Pierre Jean de Beranger",
+            "url": "/quotes/pierre_jean_de_beranger_183694"
+        },
+        "topics": [
+            {
+                "name": "Decide",
+                "url": "/topics/decide"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Certainly",
+                "url": "/topics/certainly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/pierre_jean_de_beranger_183695",
+        "quote": "Our friends, the enemy.",
+        "author": {
+            "name": "Pierre Jean de Beranger",
+            "url": "/quotes/pierre_jean_de_beranger_183695"
+        },
+        "topics": [
+            {
+                "name": "Friends",
+                "url": "/topics/friends"
+            },
+            {
+                "name": "Enemy",
+                "url": "/topics/enemy"
+            },
+            {
+                "name": "Our",
+                "url": "/topics/our"
+            }
+        ]
+    }
+]

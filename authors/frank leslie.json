@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/frank_leslie_288116",
+        "quote": "Expect nothing at all and accept as a joyful surprise whatever good you find in matrimony.",
+        "author": {
+            "name": "Frank Leslie",
+            "url": "/quotes/frank_leslie_288116"
+        },
+        "topics": [
+            {
+                "name": "Surprise",
+                "url": "/topics/surprise"
+            },
+            {
+                "name": "Find",
+                "url": "/topics/find"
+            },
+            {
+                "name": "Expect",
+                "url": "/topics/expect"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/frank_leslie_288115",
+        "quote": "I never had any childhood, for the word means sunshine and freedom from care. I had a starved and pinched little childhood, as far as love and merriment go.",
+        "author": {
+            "name": "Frank Leslie",
+            "url": "/quotes/frank_leslie_288115"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Childhood",
+                "url": "/topics/childhood"
+            },
+            {
+                "name": "Means",
+                "url": "/topics/means"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/frank_leslie_288117",
+        "quote": "I am with you heart and soul in the great cause to which you are devoting all your energy and your life.",
+        "author": {
+            "name": "Frank Leslie",
+            "url": "/quotes/frank_leslie_288117"
+        },
+        "topics": [
+            {
+                "name": "Soul",
+                "url": "/topics/soul"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Heart And Soul",
+                "url": "/topics/heart_and_soul"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/frank_leslie_288118",
+        "quote": "They are only after my money, they are nothing for me.",
+        "author": {
+            "name": "Frank Leslie",
+            "url": "/quotes/frank_leslie_288118"
+        },
+        "topics": [
+            {
+                "name": "Money",
+                "url": "/topics/money"
+            },
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            },
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            }
+        ]
+    }
+]

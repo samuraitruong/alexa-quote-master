@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/alice_stone_blackwell_344379",
+        "quote": "A woman finds the natural lay of the land almost unconsciously; and not feeling it incumbent on her to be guide and philosopher to any successor, she takes little pains to mark the route by which she is making her ascent.",
+        "author": {
+            "name": "Alice Stone Blackwell",
+            "url": "/quotes/alice_stone_blackwell_344379"
+        },
+        "topics": [
+            {
+                "name": "Woman",
+                "url": "/topics/woman"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Making",
+                "url": "/topics/making"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alice_stone_blackwell_312047",
+        "quote": "Justice is better than chivalry if we cannot have both.",
+        "author": {
+            "name": "Alice Stone Blackwell",
+            "url": "/quotes/alice_stone_blackwell_312047"
+        },
+        "topics": [
+            {
+                "name": "Better",
+                "url": "/topics/better"
+            },
+            {
+                "name": "Chivalry",
+                "url": "/topics/chivalry"
+            },
+            {
+                "name": "We Cannot",
+                "url": "/topics/we_cannot"
+            }
+        ]
+    }
+]

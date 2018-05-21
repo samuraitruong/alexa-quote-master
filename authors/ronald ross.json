@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/ronald_ross_199995",
+        "quote": "On some peculiar pigmented cells found in two mosquitoes fed on malarial.",
+        "author": {
+            "name": "Ronald Ross",
+            "url": "/quotes/ronald_ross_199995"
+        },
+        "topics": [
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Found",
+                "url": "/topics/found"
+            },
+            {
+                "name": "Cells",
+                "url": "/topics/cells"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ronald_ross_199996",
+        "quote": "The belief is growing on me that the disease is communicated by the bite of the mosquito... She always injects a small quantity of fluid with her bite - what if the parasites get into the system in this manner.",
+        "author": {
+            "name": "Ronald Ross",
+            "url": "/quotes/ronald_ross_199996"
+        },
+        "topics": [
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Disease",
+                "url": "/topics/disease"
+            }
+        ]
+    }
+]

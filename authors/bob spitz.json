@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/bob_spitz_516204",
+        "quote": "I was in Italy in 1992 working on magazine articles when I got a call from the Italian travel commission. They asked, would I mind being an escort for an older woman? I told them I don't do that kind of work, but then they said it was Julia Child, and I said I'd be right there.",
+        "author": {
+            "name": "Bob Spitz",
+            "url": "/quotes/bob_spitz_516204"
+        },
+        "topics": [
+            {
+                "name": "Woman",
+                "url": "/topics/woman"
+            },
+            {
+                "name": "Escort",
+                "url": "/topics/escort"
+            },
+            {
+                "name": "Older Woman",
+                "url": "/topics/older_woman"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bob_spitz_516205",
+        "quote": "The Beatles' story is all of our stories. It is about how the youth culture emerged, the drug culture emerged, how politics rose to the fore as a universal debate. It's about rebellion, it's about the growth of the British entertainment system, the growth of the rock n' roll entertainment system.",
+        "author": {
+            "name": "Bob Spitz",
+            "url": "/quotes/bob_spitz_516205"
+        },
+        "topics": [
+            {
+                "name": "Politics",
+                "url": "/topics/politics"
+            },
+            {
+                "name": "Entertainment",
+                "url": "/topics/entertainment"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bob_spitz_516206",
+        "quote": "The Beatles changed music forever. They took rock n' roll from a medium that was about cars and girls and gave it context, interesting chord changes and true musicianship.",
+        "author": {
+            "name": "Bob Spitz",
+            "url": "/quotes/bob_spitz_516206"
+        },
+        "topics": [
+            {
+                "name": "Interesting",
+                "url": "/topics/interesting"
+            },
+            {
+                "name": "Roll",
+                "url": "/topics/roll"
+            },
+            {
+                "name": "Took",
+                "url": "/topics/took"
+            }
+        ]
+    }
+]

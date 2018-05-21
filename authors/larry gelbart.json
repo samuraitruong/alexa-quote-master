@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/larry_gelbart_380276",
+        "quote": "Most jokes state a bitter truth.",
+        "author": {
+            "name": "Larry Gelbart",
+            "url": "/quotes/larry_gelbart_380276"
+        },
+        "topics": [
+            {
+                "name": "Truth",
+                "url": "/topics/truth"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "Bitter Truth",
+                "url": "/topics/bitter_truth"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/larry_gelbart_113422",
+        "quote": "If vaudeville had died, television was the box they put it in.",
+        "author": {
+            "name": "Larry Gelbart",
+            "url": "/quotes/larry_gelbart_113422"
+        },
+        "topics": [
+            {
+                "name": "Television",
+                "url": "/topics/television"
+            },
+            {
+                "name": "Box",
+                "url": "/topics/box"
+            },
+            {
+                "name": "Had",
+                "url": "/topics/had"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/larry_gelbart_113424",
+        "quote": "Today's audience knows more about what's on television than what's in life.",
+        "author": {
+            "name": "Larry Gelbart",
+            "url": "/quotes/larry_gelbart_113424"
+        },
+        "topics": [
+            {
+                "name": "Audience",
+                "url": "/topics/audience"
+            },
+            {
+                "name": "Television",
+                "url": "/topics/television"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/larry_gelbart_131325",
+        "quote": "One doesn't have a sense of humor. It has you.",
+        "author": {
+            "name": "Larry Gelbart",
+            "url": "/quotes/larry_gelbart_131325"
+        },
+        "topics": [
+            {
+                "name": "Humor",
+                "url": "/topics/humor"
+            },
+            {
+                "name": "Sense Of Humor",
+                "url": "/topics/sense_of_humor"
+            },
+            {
+                "name": "Sense",
+                "url": "/topics/sense"
+            }
+        ]
+    }
+]

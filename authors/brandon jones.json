@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/brandon_jones_625525",
+        "quote": "I'm a singer-songwriter. So I play guitar, and I sing. Along the lines of, I guess you could call it, alternative rock.",
+        "author": {
+            "name": "Brandon Jones",
+            "url": "/quotes/brandon_jones_625525"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Singer-Songwriter",
+                "url": "/topics/singer-songwriter"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brandon_jones_625526",
+        "quote": "A lot like Dave Matthews or John Mayer, I kind of stick with the acoustic genre.",
+        "author": {
+            "name": "Brandon Jones",
+            "url": "/quotes/brandon_jones_625526"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Lot",
+                "url": "/topics/lot"
+            },
+            {
+                "name": "Dave",
+                "url": "/topics/dave"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brandon_jones_625527",
+        "quote": "I'm a huge Twitter dork! That's the best way for fans to keep informed about what's going on with me.",
+        "author": {
+            "name": "Brandon Jones",
+            "url": "/quotes/brandon_jones_625527"
+        },
+        "topics": [
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Best Way",
+                "url": "/topics/best_way"
+            },
+            {
+                "name": "Informed",
+                "url": "/topics/informed"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brandon_jones_625528",
+        "quote": "I play the role of Andrew Campbell on ABC Family's 'Pretty Little Liars'.",
+        "author": {
+            "name": "Brandon Jones",
+            "url": "/quotes/brandon_jones_625528"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Pretty",
+                "url": "/topics/pretty"
+            },
+            {
+                "name": "Role",
+                "url": "/topics/role"
+            }
+        ]
+    }
+]

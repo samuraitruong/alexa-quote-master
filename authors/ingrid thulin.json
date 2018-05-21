@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/ingrid_thulin_306551",
+        "quote": "We worked lightly even in the heaviest parts.",
+        "author": {
+            "name": "Ingrid Thulin",
+            "url": "/quotes/ingrid_thulin_306551"
+        },
+        "topics": [
+            {
+                "name": "Even",
+                "url": "/topics/even"
+            },
+            {
+                "name": "Parts",
+                "url": "/topics/parts"
+            },
+            {
+                "name": "Worked",
+                "url": "/topics/worked"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ingrid_thulin_307611",
+        "quote": "Why can't people credit that he and all of us had a sense of humour?",
+        "author": {
+            "name": "Ingrid Thulin",
+            "url": "/quotes/ingrid_thulin_307611"
+        },
+        "topics": [
+            {
+                "name": "Why",
+                "url": "/topics/why"
+            },
+            {
+                "name": "Humour",
+                "url": "/topics/humour"
+            },
+            {
+                "name": "Had",
+                "url": "/topics/had"
+            }
+        ]
+    }
+]

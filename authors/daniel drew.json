@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/daniel_drew_190850",
+        "quote": "Anybody who plays the stock market not as an insider is like a man buying cows in the moonlight.",
+        "author": {
+            "name": "Daniel Drew",
+            "url": "/quotes/daniel_drew_190850"
+        },
+        "topics": [
+            {
+                "name": "Stock Market",
+                "url": "/topics/stock_market"
+            },
+            {
+                "name": "Market",
+                "url": "/topics/market"
+            },
+            {
+                "name": "Plays",
+                "url": "/topics/plays"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/daniel_drew_190851",
+        "quote": "He who sells what isn't his'n, Must buy it back or go to prison.",
+        "author": {
+            "name": "Daniel Drew",
+            "url": "/quotes/daniel_drew_190851"
+        },
+        "topics": [
+            {
+                "name": "Go",
+                "url": "/topics/go"
+            },
+            {
+                "name": "Buy",
+                "url": "/topics/buy"
+            },
+            {
+                "name": "Sells",
+                "url": "/topics/sells"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/daniel_drew_399431",
+        "quote": "We want a marriage with our customers, not a relationship.",
+        "author": {
+            "name": "Daniel Drew",
+            "url": "/quotes/daniel_drew_399431"
+        },
+        "topics": [
+            {
+                "name": "Marriage",
+                "url": "/topics/marriage"
+            },
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Customers",
+                "url": "/topics/customers"
+            }
+        ]
+    }
+]

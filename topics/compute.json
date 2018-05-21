@@ -1,0 +1,420 @@
+[
+    {
+        "url": "/quotes/william_jennings_bryan_121649?src=t_compute",
+        "quote": "Do not compute the totality of your poultry population until all the manifestations of incubation have been entirely completed.",
+        "author": {
+            "name": "William Jennings Bryan",
+            "url": "/authors/william_jennings_bryan"
+        },
+        "topics": [
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Until",
+                "url": "/topics/until"
+            },
+            {
+                "name": "Poultry",
+                "url": "/topics/poultry"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/peter_thiel_425645?src=t_compute",
+        "quote": "I think anything that requires real global breakthroughs requires a degree of intensity and sustained effort that cannot be done part time, so it's something you have to do around the clock, and that doesn't compute with our existing educational system.",
+        "author": {
+            "name": "Peter Thiel",
+            "url": "/authors/peter_thiel"
+        },
+        "topics": [
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Global",
+                "url": "/topics/global"
+            },
+            {
+                "name": "Part",
+                "url": "/topics/part"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/michael_dell_642657?src=t_compute",
+        "quote": "If you think about computing, there isn't just one way to compute, just like there's not just one way to move around. You can have shoes, you can have a car, you can have a bicycle, submarine, rocket, plane, train, glider, whatever. Because you have one doesn't mean you get rid of another one... But PCs continue to be important.",
+        "author": {
+            "name": "Michael Dell",
+            "url": "/authors/michael_dell"
+        },
+        "topics": [
+            {
+                "name": "Bicycle",
+                "url": "/topics/bicycle"
+            },
+            {
+                "name": "Rocket",
+                "url": "/topics/rocket"
+            },
+            {
+                "name": "Plane",
+                "url": "/topics/plane"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ira_glass_686356?src=t_compute",
+        "quote": "The Flash could do everything twice as fast. Except you never saw him think twice as fast or speak twice as fast. Could he do math faster than the other superheroes? Could he compute the tip for the bill twice as fast?",
+        "author": {
+            "name": "Ira Glass",
+            "url": "/authors/ira_glass"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/fred_ehrsam_850305?src=t_compute",
+        "quote": "OpenAI is doing important work by releasing tools which promote AI to be developed in the open. Compute power is largely produced by NVIDIA and Intel and still relatively expensive but openly purchasable. Blockchains may be the key final ingredient by providing massive pools of open training data.",
+        "author": {
+            "name": "Fred Ehrsam",
+            "url": "/authors/fred_ehrsam"
+        },
+        "topics": [
+            {
+                "name": "Data",
+                "url": "/topics/data"
+            },
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Providing",
+                "url": "/topics/providing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nick_frost_567931?src=t_compute",
+        "quote": "I think some people see me as being some kind of lovable, bumbling buffoon, and I'm actually quite mouthy and sharp, and that doesn't compute.",
+        "author": {
+            "name": "Nick Frost",
+            "url": "/authors/nick_frost"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marissa_mayer_456087?src=t_compute",
+        "quote": "I think what's really amazing is that given the scale of the web and getting the compute power we have today, we're starting to see things that appear intelligent but actually aren't semantically intelligent.",
+        "author": {
+            "name": "Marissa Mayer",
+            "url": "/authors/marissa_mayer"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Given",
+                "url": "/topics/given"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/douglas_rushkoff_585183?src=t_compute",
+        "quote": "If the clockwork universe equated the human body with the mechanics of the clock, the digital universe now equates human consciousness with the processing of the computer. We joke that things don't compute, that we need a reboot, or that our memory has been wiped.",
+        "author": {
+            "name": "Douglas Rushkoff",
+            "url": "/authors/douglas_rushkoff"
+        },
+        "topics": [
+            {
+                "name": "Memory",
+                "url": "/topics/memory"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Wiped",
+                "url": "/topics/wiped"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/larry_ellison_620123?src=t_compute",
+        "quote": "We've announced an Oracle Virtual Compute Appliance, a bunch of low-cost commodity servers running Linux, integrated in our case, with InfiniBand - connected with InfiniBand vs. the traditional Ethernet.",
+        "author": {
+            "name": "Larry Ellison",
+            "url": "/authors/larry_ellison"
+        },
+        "topics": [
+            {
+                "name": "Oracle",
+                "url": "/topics/oracle"
+            },
+            {
+                "name": "Appliance",
+                "url": "/topics/appliance"
+            },
+            {
+                "name": "Commodity",
+                "url": "/topics/commodity"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rajeev_suri_885635?src=t_compute",
+        "quote": "Imagine if we can get information from sensors, compute it in the cloud, and find and plug water leakages - leakage wastes 20 per cent water in the world.",
+        "author": {
+            "name": "Rajeev Suri",
+            "url": "/authors/rajeev_suri"
+        },
+        "topics": [
+            {
+                "name": "Imagine",
+                "url": "/topics/imagine"
+            },
+            {
+                "name": "Wastes",
+                "url": "/topics/wastes"
+            },
+            {
+                "name": "Cent",
+                "url": "/topics/cent"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/seth_lloyd_240690?src=t_compute",
+        "quote": "In order to figure out how to make atoms compute, you have to learn how to speak their language and to understand how they process information under normal circumstances.",
+        "author": {
+            "name": "Seth Lloyd",
+            "url": "/authors/seth_lloyd"
+        },
+        "topics": [
+            {
+                "name": "Process",
+                "url": "/topics/process"
+            },
+            {
+                "name": "Normal",
+                "url": "/topics/normal"
+            },
+            {
+                "name": "Figure",
+                "url": "/topics/figure"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brendan_iribe_743289?src=t_compute",
+        "quote": "Essentially, we're always trying to reduce latency. As you try to reduce the latency of the experience, you can only get it down so far before we start running into the limitations of game engines, computing, the intensity of the experience you're trying to compute.",
+        "author": {
+            "name": "Brendan Iribe",
+            "url": "/authors/brendan_iribe"
+        },
+        "topics": [
+            {
+                "name": "Game",
+                "url": "/topics/game"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Reduce",
+                "url": "/topics/reduce"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henry_winkler_622195?src=t_compute",
+        "quote": "Not every child learns the same way. I could not learn through my eyes. Reading was impossible. Math, to compute it in my mind, was impossible. I learned everything through listening.",
+        "author": {
+            "name": "Henry Winkler",
+            "url": "/authors/henry_winkler"
+        },
+        "topics": [
+            {
+                "name": "Listening",
+                "url": "/topics/listening"
+            },
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/theodore_william_richards_683114?src=t_compute",
+        "quote": "Experimental work of great refinement is necessary in order to determine atomic weights. No relationships between them have yet been certainly found which make it possible for us to compute by any sort of calculation exactly the value of any one atomic weight from any other.",
+        "author": {
+            "name": "Theodore William Richards",
+            "url": "/authors/theodore_william_richards"
+        },
+        "topics": [
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Calculation",
+                "url": "/topics/calculation"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/johnny_galecki_745120?src=t_compute",
+        "quote": "I'm still a Chicagoan in the fact that I can't do Christmas with sand and palm trees. It just doesn't compute - it's not Christmas unless your face hurts when you step outside.",
+        "author": {
+            "name": "Johnny Galecki",
+            "url": "/authors/johnny_galecki"
+        },
+        "topics": [
+            {
+                "name": "Palm",
+                "url": "/topics/palm"
+            },
+            {
+                "name": "Fact",
+                "url": "/topics/fact"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/andrew_buchan_682576?src=t_compute",
+        "quote": "When someone dies instantly, then I think the well of grief and disbelief all mixed in with it is unfathomable. And when murder is involved, that just takes it into a whole new place. There is an extra dimension you just can't compute or deal with.",
+        "author": {
+            "name": "Andrew Buchan",
+            "url": "/authors/andrew_buchan"
+        },
+        "topics": [
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Deal",
+                "url": "/topics/deal"
+            },
+            {
+                "name": "Mixed",
+                "url": "/topics/mixed"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lawrence_hargrave_305716?src=t_compute",
+        "quote": "It becomes a giant's task to compute the result when the effect of cross seas, wind at all angles and ever varying force, arched surfaces, head resistance, ratio of weight to area, and the intelligence of the guiding power crop up.",
+        "author": {
+            "name": "Lawrence Hargrave",
+            "url": "/authors/lawrence_hargrave"
+        },
+        "topics": [
+            {
+                "name": "Result",
+                "url": "/topics/result"
+            },
+            {
+                "name": "Angles",
+                "url": "/topics/angles"
+            },
+            {
+                "name": "Guiding",
+                "url": "/topics/guiding"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kate_mulgrew_460043?src=t_compute",
+        "quote": "Life is sacred to me on all levels. Abortion does not compute with my philosophy.",
+        "author": {
+            "name": "Kate Mulgrew",
+            "url": "/authors/kate_mulgrew"
+        },
+        "topics": [
+            {
+                "name": "Abortion",
+                "url": "/topics/abortion"
+            },
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Does",
+                "url": "/topics/does"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edward_boyden_550969?src=t_compute",
+        "quote": "What I'm really interested in is this idea of a 'brain co-processor' - a device that can record from, and deliver information to, so many points in the brain, with a computational infrastructure in between - a computer that can process the information and compute exactly what needs to be restored.",
+        "author": {
+            "name": "Edward Boyden",
+            "url": "/authors/edward_boyden"
+        },
+        "topics": [
+            {
+                "name": "Idea",
+                "url": "/topics/idea"
+            },
+            {
+                "name": "Deliver",
+                "url": "/topics/deliver"
+            },
+            {
+                "name": "Points",
+                "url": "/topics/points"
+            }
+        ]
+    }
+]

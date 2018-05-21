@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/berthe_morisot_309603",
+        "quote": "Real painters understand with a brush in their hand.",
+        "author": {
+            "name": "Berthe Morisot",
+            "url": "/quotes/berthe_morisot_309603"
+        },
+        "topics": [
+            {
+                "name": "Understand",
+                "url": "/topics/understand"
+            },
+            {
+                "name": "Brush",
+                "url": "/topics/brush"
+            },
+            {
+                "name": "Painters",
+                "url": "/topics/painters"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/berthe_morisot_309600",
+        "quote": "A love of nature is a consolation against failure.",
+        "author": {
+            "name": "Berthe Morisot",
+            "url": "/quotes/berthe_morisot_309600"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "Consolation",
+                "url": "/topics/consolation"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/berthe_morisot_309602",
+        "quote": "It is important to express oneself... provided the feelings are real and are taken from your own experience.",
+        "author": {
+            "name": "Berthe Morisot",
+            "url": "/quotes/berthe_morisot_309602"
+        },
+        "topics": [
+            {
+                "name": "Important",
+                "url": "/topics/important"
+            },
+            {
+                "name": "Taken",
+                "url": "/topics/taken"
+            },
+            {
+                "name": "Provided",
+                "url": "/topics/provided"
+            }
+        ]
+    }
+]

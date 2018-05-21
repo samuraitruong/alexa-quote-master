@@ -1,0 +1,200 @@
+[
+    {
+        "url": "/quotes/mother_jones_400298?src=t_scaffold",
+        "quote": "If they want to hang me, let them. And on the scaffold I will shout Freedom for the working class!",
+        "author": {
+            "name": "Mother Jones",
+            "url": "/authors/mother_jones"
+        },
+        "topics": [
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Hang",
+                "url": "/topics/hang"
+            },
+            {
+                "name": "Working Class",
+                "url": "/topics/working_class"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mother_jones_195574?src=t_scaffold",
+        "quote": "I am not afraid of the pen, or the scaffold, or the sword. I will tell the truth wherever I please.",
+        "author": {
+            "name": "Mother Jones",
+            "url": "/authors/mother_jones"
+        },
+        "topics": [
+            {
+                "name": "Truth",
+                "url": "/topics/truth"
+            },
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Sword",
+                "url": "/topics/sword"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/andres_segovia_303686?src=t_scaffold",
+        "quote": "When one puts up a building one makes an elaborate scaffold to get everything into its proper place. But when one takes the scaffold down, the building must stand by itself with no trace of the means by which it was erected. That is how a musician should work.",
+        "author": {
+            "name": "Andres Segovia",
+            "url": "/authors/andres_segovia"
+        },
+        "topics": [
+            {
+                "name": "Down",
+                "url": "/topics/down"
+            },
+            {
+                "name": "Elaborate",
+                "url": "/topics/elaborate"
+            },
+            {
+                "name": "Proper",
+                "url": "/topics/proper"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_russell_lowell_151397?src=t_scaffold",
+        "quote": "Truth forever on the scaffold, wrong forever on the throne.",
+        "author": {
+            "name": "James Russell Lowell",
+            "url": "/authors/james_russell_lowell"
+        },
+        "topics": [
+            {
+                "name": "Truth",
+                "url": "/topics/truth"
+            },
+            {
+                "name": "Forever",
+                "url": "/topics/forever"
+            },
+            {
+                "name": "Throne",
+                "url": "/topics/throne"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mary_harris_jones_232153?src=t_scaffold",
+        "quote": "I am not afraid of the pen, or the scaffold, or the sword.",
+        "author": {
+            "name": "Mary Harris Jones",
+            "url": "/authors/mary_harris_jones"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Sword",
+                "url": "/topics/sword"
+            },
+            {
+                "name": "Afraid",
+                "url": "/topics/afraid"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/wendell_phillips_386906?src=t_scaffold",
+        "quote": "Every step of progress the world has made has been from scaffold to scaffold, and from stake to stake.",
+        "author": {
+            "name": "Wendell Phillips",
+            "url": "/authors/wendell_phillips"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Stake",
+                "url": "/topics/stake"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/pierre_corneille_378882?src=t_scaffold",
+        "quote": "The crime and not the scaffold makes the shame.",
+        "author": {
+            "name": "Pierre Corneille",
+            "url": "/authors/pierre_corneille"
+        },
+        "topics": [
+            {
+                "name": "Shame",
+                "url": "/topics/shame"
+            },
+            {
+                "name": "Crime",
+                "url": "/topics/crime"
+            },
+            {
+                "name": "Makes",
+                "url": "/topics/makes"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/pierre_corneille_382324?src=t_scaffold",
+        "quote": "It is the crime not the scaffold which is the disgrace.",
+        "author": {
+            "name": "Pierre Corneille",
+            "url": "/authors/pierre_corneille"
+        },
+        "topics": [
+            {
+                "name": "Crime",
+                "url": "/topics/crime"
+            },
+            {
+                "name": "Disgrace",
+                "url": "/topics/disgrace"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_jordan_jarvis_375453?src=t_scaffold",
+        "quote": "The school-room sends men to the Legislature, to the bench, and the executive office. The bar-room sends them to the scaffold and hell.",
+        "author": {
+            "name": "Thomas Jordan Jarvis",
+            "url": "/authors/thomas_jordan_jarvis"
+        },
+        "topics": [
+            {
+                "name": "Men",
+                "url": "/topics/men"
+            },
+            {
+                "name": "Bench",
+                "url": "/topics/bench"
+            },
+            {
+                "name": "Executive",
+                "url": "/topics/executive"
+            }
+        ]
+    }
+]

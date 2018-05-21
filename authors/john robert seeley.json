@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/john_robert_seeley_286445",
+        "quote": "Life may not be beautiful, but it is interesting.",
+        "author": {
+            "name": "John Robert Seeley",
+            "url": "/quotes/john_robert_seeley_286445"
+        },
+        "topics": [
+            {
+                "name": "Beautiful",
+                "url": "/topics/beautiful"
+            },
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Interesting",
+                "url": "/topics/interesting"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_robert_seeley_286446",
+        "quote": "No virtue is safe that is not enthusiastic.",
+        "author": {
+            "name": "John Robert Seeley",
+            "url": "/quotes/john_robert_seeley_286446"
+        },
+        "topics": [
+            {
+                "name": "Safe",
+                "url": "/topics/safe"
+            },
+            {
+                "name": "Virtue",
+                "url": "/topics/virtue"
+            },
+            {
+                "name": "Enthusiastic",
+                "url": "/topics/enthusiastic"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_robert_seeley_286447",
+        "quote": "We seem, as it were, to have conquered and peopled half the world in a fit of absence of mind.",
+        "author": {
+            "name": "John Robert Seeley",
+            "url": "/quotes/john_robert_seeley_286447"
+        },
+        "topics": [
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Half",
+                "url": "/topics/half"
+            },
+            {
+                "name": "Fit",
+                "url": "/topics/fit"
+            }
+        ]
+    }
+]

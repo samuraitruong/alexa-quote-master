@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/john_d_barrow_102257",
+        "quote": "There is no reason that the universe should be designed for our convenience.",
+        "author": {
+            "name": "John D. Barrow",
+            "url": "/quotes/john_d_barrow_102257"
+        },
+        "topics": [
+            {
+                "name": "Universe",
+                "url": "/topics/universe"
+            },
+            {
+                "name": "Reason",
+                "url": "/topics/reason"
+            },
+            {
+                "name": "Should",
+                "url": "/topics/should"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_d_barrow_139263",
+        "quote": "There was no 'before' the beginning of our universe, because once upon a time there was no time.",
+        "author": {
+            "name": "John D. Barrow",
+            "url": "/quotes/john_d_barrow_139263"
+        },
+        "topics": [
+            {
+                "name": "Science",
+                "url": "/topics/science"
+            },
+            {
+                "name": "Beginning",
+                "url": "/topics/beginning"
+            },
+            {
+                "name": "No Time",
+                "url": "/topics/no_time"
+            }
+        ]
+    }
+]

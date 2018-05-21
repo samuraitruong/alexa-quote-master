@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/anthony_perkins_315948",
+        "quote": "I have learned more about love, selflessness and human understanding from the people I have met in this great adventure in the world of AIDS than I ever did in the cutthroat, competitive world in which I spent my life.",
+        "author": {
+            "name": "Anthony Perkins",
+            "url": "/quotes/anthony_perkins_315948"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/anthony_perkins_315949",
+        "quote": "Rock Hudson let his gay agent marry him off to his secretary because he didn't want people to get the right idea.",
+        "author": {
+            "name": "Anthony Perkins",
+            "url": "/quotes/anthony_perkins_315949"
+        },
+        "topics": [
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Idea",
+                "url": "/topics/idea"
+            },
+            {
+                "name": "Agent",
+                "url": "/topics/agent"
+            }
+        ]
+    }
+]

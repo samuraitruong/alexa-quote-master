@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/paul_rodriguez_170700",
+        "quote": "Hunting is not a sport. In a sport, both sides should know they're in the game.",
+        "author": {
+            "name": "Paul Rodriguez",
+            "url": "/quotes/paul_rodriguez_170700"
+        },
+        "topics": [
+            {
+                "name": "Game",
+                "url": "/topics/game"
+            },
+            {
+                "name": "Both Sides",
+                "url": "/topics/both_sides"
+            },
+            {
+                "name": "Should",
+                "url": "/topics/should"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_rodriguez_389003",
+        "quote": "Animals don't have anyone to protect them. If we don't stand up, the people who are harming animals will never get stopped.",
+        "author": {
+            "name": "Paul Rodriguez",
+            "url": "/quotes/paul_rodriguez_389003"
+        },
+        "topics": [
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Stopped",
+                "url": "/topics/stopped"
+            },
+            {
+                "name": "Harming",
+                "url": "/topics/harming"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_rodriguez_183109",
+        "quote": "Sometimes I think war is God's way of teaching us geography.",
+        "author": {
+            "name": "Paul Rodriguez",
+            "url": "/quotes/paul_rodriguez_183109"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Geography",
+                "url": "/topics/geography"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_rodriguez_381725",
+        "quote": "Everybody really needs to laugh... If you don't laugh, you're not going to live long.",
+        "author": {
+            "name": "Paul Rodriguez",
+            "url": "/quotes/paul_rodriguez_381725"
+        },
+        "topics": [
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Everybody",
+                "url": "/topics/everybody"
+            },
+            {
+                "name": "Needs",
+                "url": "/topics/needs"
+            }
+        ]
+    }
+]

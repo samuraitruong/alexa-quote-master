@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/anthony_howell_627745",
+        "quote": "It's great to have a place of my own, but I still see my family often, as we are very close.",
+        "author": {
+            "name": "Anthony Howell",
+            "url": "/quotes/anthony_howell_627745"
+        },
+        "topics": [
+            {
+                "name": "My Own",
+                "url": "/topics/my_own"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/anthony_howell_627746",
+        "quote": "I enjoy horse riding, tennis, yoga and running - it helps to clear my head, and I can do bits of yoga in between filming.",
+        "author": {
+            "name": "Anthony Howell",
+            "url": "/quotes/anthony_howell_627746"
+        },
+        "topics": [
+            {
+                "name": "Clear",
+                "url": "/topics/clear"
+            },
+            {
+                "name": "Yoga",
+                "url": "/topics/yoga"
+            },
+            {
+                "name": "Bits",
+                "url": "/topics/bits"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/anthony_howell_627747",
+        "quote": "In the new series of 'Foyle's War,' London starts to get bombed, and the country falls under heavy attack. It affects people's sense of well-being, their sense of the future and their concerns for their family and friends.",
+        "author": {
+            "name": "Anthony Howell",
+            "url": "/quotes/anthony_howell_627747"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Well-Being",
+                "url": "/topics/well-being"
+            },
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            }
+        ]
+    }
+]

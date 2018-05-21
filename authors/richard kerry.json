@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/richard_kerry_228904",
+        "quote": "Americans are inclined to see the world and foreign affairs in black and white.",
+        "author": {
+            "name": "Richard Kerry",
+            "url": "/quotes/richard_kerry_228904"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "See",
+                "url": "/topics/see"
+            },
+            {
+                "name": "Foreign Affairs",
+                "url": "/topics/foreign_affairs"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/richard_kerry_228906",
+        "quote": "At times we expected the allies unquestioningly to follow our leads; sometimes we failed to consult them in advance before reversing policies; at other times we ignored their requests.",
+        "author": {
+            "name": "Richard Kerry",
+            "url": "/quotes/richard_kerry_228906"
+        },
+        "topics": [
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Ignored",
+                "url": "/topics/ignored"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/richard_kerry_228907",
+        "quote": "They seem not to listen to what I have to say, so I'm going to quit.",
+        "author": {
+            "name": "Richard Kerry",
+            "url": "/quotes/richard_kerry_228907"
+        },
+        "topics": [
+            {
+                "name": "Say",
+                "url": "/topics/say"
+            },
+            {
+                "name": "Quit",
+                "url": "/topics/quit"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            }
+        ]
+    }
+]

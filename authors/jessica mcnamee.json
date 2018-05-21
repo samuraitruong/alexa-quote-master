@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/jessica_mcnamee_618678",
+        "quote": "I have no expectations. I just want to better myself.",
+        "author": {
+            "name": "Jessica McNamee",
+            "url": "/quotes/jessica_mcnamee_618678"
+        },
+        "topics": [
+            {
+                "name": "Myself",
+                "url": "/topics/myself"
+            },
+            {
+                "name": "Better",
+                "url": "/topics/better"
+            },
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jessica_mcnamee_618677",
+        "quote": "I help out at Tall Trees, which my aunt set up on the Central Coast. It's where intellectually impaired young people can paint. Their artwork's sent to hospitals all over Australia to brighten up their rooms.",
+        "author": {
+            "name": "Jessica McNamee",
+            "url": "/quotes/jessica_mcnamee_618677"
+        },
+        "topics": [
+            {
+                "name": "Young",
+                "url": "/topics/young"
+            },
+            {
+                "name": "Rooms",
+                "url": "/topics/rooms"
+            },
+            {
+                "name": "Hospitals",
+                "url": "/topics/hospitals"
+            }
+        ]
+    }
+]

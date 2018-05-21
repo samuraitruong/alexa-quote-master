@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/john_henry_patterson_160511",
+        "quote": "To survive, men and business and corporations must serve.",
+        "author": {
+            "name": "John Henry Patterson",
+            "url": "/quotes/john_henry_patterson_160511"
+        },
+        "topics": [
+            {
+                "name": "Business",
+                "url": "/topics/business"
+            },
+            {
+                "name": "Men",
+                "url": "/topics/men"
+            },
+            {
+                "name": "Survive",
+                "url": "/topics/survive"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_henry_patterson_160510",
+        "quote": "Before you try to convince anyone else, be sure you are convinced, and if you cannot convince yourself, drop the subject.",
+        "author": {
+            "name": "John Henry Patterson",
+            "url": "/quotes/john_henry_patterson_160510"
+        },
+        "topics": [
+            {
+                "name": "Drop",
+                "url": "/topics/drop"
+            },
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            },
+            {
+                "name": "Sure",
+                "url": "/topics/sure"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_henry_patterson_126626",
+        "quote": "An executive is a person who always decides sometimes he decides correctly, but he always decides.",
+        "author": {
+            "name": "John Henry Patterson",
+            "url": "/quotes/john_henry_patterson_126626"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Executive",
+                "url": "/topics/executive"
+            },
+            {
+                "name": "Correctly",
+                "url": "/topics/correctly"
+            }
+        ]
+    }
+]

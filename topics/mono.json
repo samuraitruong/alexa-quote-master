@@ -1,0 +1,178 @@
+[
+    {
+        "url": "/quotes/matt_haig_774732?src=t_mono",
+        "quote": "If you took away all pain, if everyone lived forever, everything would be bland, flat and boring; there would be no reason for art, music, newspapers, love because we would all be in a mono state of happiness.",
+        "author": {
+            "name": "Matt Haig",
+            "url": "/authors/matt_haig"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Reason",
+                "url": "/topics/reason"
+            },
+            {
+                "name": "Took",
+                "url": "/topics/took"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robbie_robertson_642327?src=t_mono",
+        "quote": "One of the greatest live recordings, I think, in the history of the world is Ray Charles in Atlanta... And they didn't even have a big mobile recording thing set up. The word on the street was they only had like two microphones, one for the band and one for him. Perfect recordings. I think it's mono.",
+        "author": {
+            "name": "Robbie Robertson",
+            "url": "/authors/robbie_robertson"
+        },
+        "topics": [
+            {
+                "name": "Perfect",
+                "url": "/topics/perfect"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sam_raimi_441934?src=t_mono",
+        "quote": "I like a good mono track, it's right up front. I don't need all the surrounds telling me there are birds in the neighbourhood.",
+        "author": {
+            "name": "Sam Raimi",
+            "url": "/authors/sam_raimi"
+        },
+        "topics": [
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Telling",
+                "url": "/topics/telling"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/miguel_de_icaza_232375?src=t_mono",
+        "quote": "In addition to that, Mono has produced a very large set of extra libraries.",
+        "author": {
+            "name": "Miguel de Icaza",
+            "url": "/authors/miguel_de_icaza"
+        },
+        "topics": [
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Set",
+                "url": "/topics/set"
+            },
+            {
+                "name": "Large",
+                "url": "/topics/large"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/miguel_de_icaza_232380?src=t_mono",
+        "quote": "After releasing Mono 1.0, we started work on a new edition of Mono that will be released later in the year.",
+        "author": {
+            "name": "Miguel de Icaza",
+            "url": "/authors/miguel_de_icaza"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Later",
+                "url": "/topics/later"
+            },
+            {
+                "name": "Releasing",
+                "url": "/topics/releasing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/miguel_de_icaza_232383?src=t_mono",
+        "quote": "The software patent problem is not limited to Mono. Software patents affect everyone writing software today.",
+        "author": {
+            "name": "Miguel de Icaza",
+            "url": "/authors/miguel_de_icaza"
+        },
+        "topics": [
+            {
+                "name": "Problem",
+                "url": "/topics/problem"
+            },
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "Patent",
+                "url": "/topics/patent"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/miguel_de_icaza_232384?src=t_mono",
+        "quote": "Our strategy in dealing with patents in Mono is the same strategy that any other software developer would take. In the event of a patent claim, we will try to find prior art to the claim of the patent.",
+        "author": {
+            "name": "Miguel de Icaza",
+            "url": "/authors/miguel_de_icaza"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Patent",
+                "url": "/topics/patent"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nat_friedman_204084?src=t_mono",
+        "quote": "We're not going to make Evolution or any of our other products depend on Mono anytime in the near future.",
+        "author": {
+            "name": "Nat Friedman",
+            "url": "/authors/nat_friedman"
+        },
+        "topics": [
+            {
+                "name": "Depend",
+                "url": "/topics/depend"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    }
+]

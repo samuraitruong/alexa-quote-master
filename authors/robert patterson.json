@@ -1,0 +1,222 @@
+[
+    {
+        "url": "/quotes/robert_patterson_337967",
+        "quote": "If we as a society are willing to have a preference for organic food, the farmer can pass on the savings.",
+        "author": {
+            "name": "Robert Patterson",
+            "url": "/quotes/robert_patterson_337967"
+        },
+        "topics": [
+            {
+                "name": "Society",
+                "url": "/topics/society"
+            },
+            {
+                "name": "Organic Food",
+                "url": "/topics/organic_food"
+            },
+            {
+                "name": "Pass",
+                "url": "/topics/pass"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_patterson_338223",
+        "quote": "Perhaps the most versatile and useful plug-in in the collection is Mass Copy. It is certainly the one I use the most. Due to limitations in how plugins can interact with Finale, Mass Copy has a somewhat unusual user interface.",
+        "author": {
+            "name": "Robert Patterson",
+            "url": "/quotes/robert_patterson_338223"
+        },
+        "topics": [
+            {
+                "name": "Finale",
+                "url": "/topics/finale"
+            },
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            },
+            {
+                "name": "Certainly",
+                "url": "/topics/certainly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_patterson_337986",
+        "quote": "In an organic system you don't waste anything. We need to educate the consumer to accept a tiny blemish on an orange.",
+        "author": {
+            "name": "Robert Patterson",
+            "url": "/quotes/robert_patterson_337986"
+        },
+        "topics": [
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            },
+            {
+                "name": "Waste",
+                "url": "/topics/waste"
+            },
+            {
+                "name": "Anything",
+                "url": "/topics/anything"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_patterson_337565",
+        "quote": "I am a composer, horn player, and computer programmer.",
+        "author": {
+            "name": "Robert Patterson",
+            "url": "/quotes/robert_patterson_337565"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Computer",
+                "url": "/topics/computer"
+            },
+            {
+                "name": "Horn",
+                "url": "/topics/horn"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_patterson_337350",
+        "quote": "Although Patterson Beams was not my first plug-in, I knew from the beginning that I would write it, because the single biggest time consuming factor for me was editing each beam manually.",
+        "author": {
+            "name": "Robert Patterson",
+            "url": "/quotes/robert_patterson_337350"
+        },
+        "topics": [
+            {
+                "name": "Beginning",
+                "url": "/topics/beginning"
+            },
+            {
+                "name": "Knew",
+                "url": "/topics/knew"
+            },
+            {
+                "name": "Beam",
+                "url": "/topics/beam"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_patterson_337457",
+        "quote": "But with carefully chosen keyboard macros to activate it, Mass Copy is quick, convenient, and powerful. Most users who have mastered it depend heavily on it. That certainly includes me.",
+        "author": {
+            "name": "Robert Patterson",
+            "url": "/quotes/robert_patterson_337457"
+        },
+        "topics": [
+            {
+                "name": "Quick",
+                "url": "/topics/quick"
+            },
+            {
+                "name": "Keyboard",
+                "url": "/topics/keyboard"
+            },
+            {
+                "name": "Certainly",
+                "url": "/topics/certainly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_patterson_337552",
+        "quote": "Here, we tell the story: why the people came here, what they did when they got here, going back to the Native Americans and coming all the way forward.",
+        "author": {
+            "name": "Robert Patterson",
+            "url": "/quotes/robert_patterson_337552"
+        },
+        "topics": [
+            {
+                "name": "Forward",
+                "url": "/topics/forward"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_patterson_337610",
+        "quote": "I do as much debugging as possible on the Mac, but I occasionally must debug problems in the PC world, which is significantly slower.",
+        "author": {
+            "name": "Robert Patterson",
+            "url": "/quotes/robert_patterson_337610"
+        },
+        "topics": [
+            {
+                "name": "Possible",
+                "url": "/topics/possible"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Slower",
+                "url": "/topics/slower"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_patterson_338066",
+        "quote": "It's more than just high quality food for the family table; it's growing the food in a way that does not harm the environment. That gives me emotional well-being that is important to me.",
+        "author": {
+            "name": "Robert Patterson",
+            "url": "/quotes/robert_patterson_338066"
+        },
+        "topics": [
+            {
+                "name": "Well-Being",
+                "url": "/topics/well-being"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Harm",
+                "url": "/topics/harm"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_patterson_338291",
+        "quote": "Suprisingly, one of the most complex pieces of code is the code to determine where a note is in the staff. Finale stores notes as relative scale positions in the current key.",
+        "author": {
+            "name": "Robert Patterson",
+            "url": "/quotes/robert_patterson_338291"
+        },
+        "topics": [
+            {
+                "name": "Notes",
+                "url": "/topics/notes"
+            },
+            {
+                "name": "Note",
+                "url": "/topics/note"
+            },
+            {
+                "name": "Code",
+                "url": "/topics/code"
+            }
+        ]
+    }
+]

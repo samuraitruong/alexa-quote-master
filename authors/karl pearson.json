@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/karl_pearson_197560",
+        "quote": "Statistics is the grammar of science.",
+        "author": {
+            "name": "Karl Pearson",
+            "url": "/quotes/karl_pearson_197560"
+        },
+        "topics": [
+            {
+                "name": "Science",
+                "url": "/topics/science"
+            },
+            {
+                "name": "Statistics",
+                "url": "/topics/statistics"
+            },
+            {
+                "name": "Grammar",
+                "url": "/topics/grammar"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/karl_pearson_197558",
+        "quote": "The mathematician, carried along on his flood of symbols, dealing apparently with purely formal truths, may still reach results of endless importance for our description of the physical universe.",
+        "author": {
+            "name": "Karl Pearson",
+            "url": "/quotes/karl_pearson_197558"
+        },
+        "topics": [
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            },
+            {
+                "name": "Carried",
+                "url": "/topics/carried"
+            },
+            {
+                "name": "Purely",
+                "url": "/topics/purely"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/john_agar_194957",
+        "quote": "Who wants to shake the hand of the first man to put it to America's sweetheart.",
+        "author": {
+            "name": "John Agar",
+            "url": "/quotes/john_agar_194957"
+        },
+        "topics": [
+            {
+                "name": "Shake",
+                "url": "/topics/shake"
+            },
+            {
+                "name": "Sweetheart",
+                "url": "/topics/sweetheart"
+            },
+            {
+                "name": "Wants",
+                "url": "/topics/wants"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_agar_194958",
+        "quote": "Archaeologists are underpaid publicity agents for deceased royalty.",
+        "author": {
+            "name": "John Agar",
+            "url": "/quotes/john_agar_194958"
+        },
+        "topics": [
+            {
+                "name": "Royalty",
+                "url": "/topics/royalty"
+            },
+            {
+                "name": "Publicity",
+                "url": "/topics/publicity"
+            },
+            {
+                "name": "Deceased",
+                "url": "/topics/deceased"
+            }
+        ]
+    }
+]

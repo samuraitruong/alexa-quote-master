@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/francis_darwin_176948",
+        "quote": "In science, the credit goes to the man who convinces the world, not to whom the idea first occurs.",
+        "author": {
+            "name": "Francis Darwin",
+            "url": "/quotes/francis_darwin_176948"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Idea",
+                "url": "/topics/idea"
+            },
+            {
+                "name": "Goes",
+                "url": "/topics/goes"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/francis_darwin_354559",
+        "quote": "There seems to be one quality of mind which seems to be of special and extreme advantage in leading him to make discoveries. It was the power of never letting exceptions go unnoticed.",
+        "author": {
+            "name": "Francis Darwin",
+            "url": "/quotes/francis_darwin_354559"
+        },
+        "topics": [
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Unnoticed",
+                "url": "/topics/unnoticed"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    }
+]

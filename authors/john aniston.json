@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/john_aniston_197598",
+        "quote": "Why thrust your kid into that? You try to protect them from all the bad people out there.",
+        "author": {
+            "name": "John Aniston",
+            "url": "/quotes/john_aniston_197598"
+        },
+        "topics": [
+            {
+                "name": "Kid",
+                "url": "/topics/kid"
+            },
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            },
+            {
+                "name": "Why",
+                "url": "/topics/why"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_aniston_197599",
+        "quote": "In show business, you get chewed up and spit out.",
+        "author": {
+            "name": "John Aniston",
+            "url": "/quotes/john_aniston_197599"
+        },
+        "topics": [
+            {
+                "name": "Business",
+                "url": "/topics/business"
+            },
+            {
+                "name": "Show",
+                "url": "/topics/show"
+            },
+            {
+                "name": "Get",
+                "url": "/topics/get"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_aniston_197600",
+        "quote": "This is a business. Be smart. Choose wisely.",
+        "author": {
+            "name": "John Aniston",
+            "url": "/quotes/john_aniston_197600"
+        },
+        "topics": [
+            {
+                "name": "Business",
+                "url": "/topics/business"
+            },
+            {
+                "name": "Smart",
+                "url": "/topics/smart"
+            },
+            {
+                "name": "Choose",
+                "url": "/topics/choose"
+            }
+        ]
+    }
+]

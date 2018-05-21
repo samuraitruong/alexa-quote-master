@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/ben_shneiderman_174925",
+        "quote": "A picture is worth a thousand words. An interface is worth a thousand pictures.",
+        "author": {
+            "name": "Ben Shneiderman",
+            "url": "/quotes/ben_shneiderman_174925"
+        },
+        "topics": [
+            {
+                "name": "Words",
+                "url": "/topics/words"
+            },
+            {
+                "name": "Thousand Words",
+                "url": "/topics/thousand_words"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ben_shneiderman_174926",
+        "quote": "Leonardo Da Vinci combined art and science and aesthetics and engineering, that kind of unity is needed once again.",
+        "author": {
+            "name": "Ben Shneiderman",
+            "url": "/quotes/ben_shneiderman_174926"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Kind",
+                "url": "/topics/kind"
+            },
+            {
+                "name": "Needed",
+                "url": "/topics/needed"
+            }
+        ]
+    }
+]

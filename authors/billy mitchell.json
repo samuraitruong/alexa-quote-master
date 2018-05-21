@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/billy_mitchell_164747",
+        "quote": "Nothing can stop the attack of aircraft except other aircraft.",
+        "author": {
+            "name": "Billy Mitchell",
+            "url": "/quotes/billy_mitchell_164747"
+        },
+        "topics": [
+            {
+                "name": "Attack",
+                "url": "/topics/attack"
+            },
+            {
+                "name": "Stop",
+                "url": "/topics/stop"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/billy_mitchell_143776",
+        "quote": "With us air people, the future of our nation is indissolubly bound up in the development of air power.",
+        "author": {
+            "name": "Billy Mitchell",
+            "url": "/quotes/billy_mitchell_143776"
+        },
+        "topics": [
+            {
+                "name": "Future",
+                "url": "/topics/future"
+            },
+            {
+                "name": "Development",
+                "url": "/topics/development"
+            },
+            {
+                "name": "Nation",
+                "url": "/topics/nation"
+            }
+        ]
+    }
+]

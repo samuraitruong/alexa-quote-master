@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/dave_mason_186223",
+        "quote": "People say we are survivors but I don't see us as survivors of anything. We are still here, there's nothing that's come and tried to dislodge us. We just go about our business.",
+        "author": {
+            "name": "Dave Mason",
+            "url": "/quotes/dave_mason_186223"
+        },
+        "topics": [
+            {
+                "name": "Business",
+                "url": "/topics/business"
+            },
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dave_mason_186224",
+        "quote": "We can talk about Manchester! I like coming here, it's a wicked city. It's my second favourite city in England after London. I like Liverpool too but there's a lot more to do in Manchester.",
+        "author": {
+            "name": "Dave Mason",
+            "url": "/quotes/dave_mason_186224"
+        },
+        "topics": [
+            {
+                "name": "London",
+                "url": "/topics/london"
+            },
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            },
+            {
+                "name": "England",
+                "url": "/topics/england"
+            }
+        ]
+    }
+]

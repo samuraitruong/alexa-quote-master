@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/charles_curtis_111621",
+        "quote": "Fraud is the homage that force pays to reason.",
+        "author": {
+            "name": "Charles Curtis",
+            "url": "/quotes/charles_curtis_111621"
+        },
+        "topics": [
+            {
+                "name": "Force",
+                "url": "/topics/force"
+            },
+            {
+                "name": "Reason",
+                "url": "/topics/reason"
+            },
+            {
+                "name": "Fraud",
+                "url": "/topics/fraud"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charles_curtis_111622",
+        "quote": "Bias and prejudice are attitudes to be kept in hand, not attitudes to be avoided.",
+        "author": {
+            "name": "Charles Curtis",
+            "url": "/quotes/charles_curtis_111622"
+        },
+        "topics": [
+            {
+                "name": "Avoided",
+                "url": "/topics/avoided"
+            },
+            {
+                "name": "Bias",
+                "url": "/topics/bias"
+            },
+            {
+                "name": "Attitudes",
+                "url": "/topics/attitudes"
+            }
+        ]
+    }
+]

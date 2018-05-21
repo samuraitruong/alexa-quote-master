@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/ross_bleckner_538221",
+        "quote": "I see my studio like a laboratory, where I work like an investigator - it's almost forensic. I love the discovery process in painting.",
+        "author": {
+            "name": "Ross Bleckner",
+            "url": "/quotes/ross_bleckner_538221"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Process",
+                "url": "/topics/process"
+            },
+            {
+                "name": "Studio",
+                "url": "/topics/studio"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ross_bleckner_538220",
+        "quote": "I'm not really a foodie; I could eat the same thing every night, and I go to restaurants that I can walk to.",
+        "author": {
+            "name": "Ross Bleckner",
+            "url": "/quotes/ross_bleckner_538220"
+        },
+        "topics": [
+            {
+                "name": "Night",
+                "url": "/topics/night"
+            },
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            },
+            {
+                "name": "Same Thing",
+                "url": "/topics/same_thing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ross_bleckner_538222",
+        "quote": "I like my surroundings to be pretty spare and severe. It helps me to concentrate on my work. All I ever do here is go from my studio to my bedroom. Everything else is extraneous. I never entertain, because to me, New York is about meeting people in public spaces, absorbing a little bit of their energy.",
+        "author": {
+            "name": "Ross Bleckner",
+            "url": "/quotes/ross_bleckner_538222"
+        },
+        "topics": [
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            },
+            {
+                "name": "Studio",
+                "url": "/topics/studio"
+            },
+            {
+                "name": "Entertain",
+                "url": "/topics/entertain"
+            }
+        ]
+    }
+]

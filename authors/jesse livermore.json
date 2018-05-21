@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/jesse_livermore_138165",
+        "quote": "It isn't as important to buy as cheap as possible as it is to buy at the right time.",
+        "author": {
+            "name": "Jesse Livermore",
+            "url": "/quotes/jesse_livermore_138165"
+        },
+        "topics": [
+            {
+                "name": "Important",
+                "url": "/topics/important"
+            },
+            {
+                "name": "Right Time",
+                "url": "/topics/right_time"
+            },
+            {
+                "name": "Buy",
+                "url": "/topics/buy"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jesse_livermore_138163",
+        "quote": "There is only one side of the market and it is not the bull side or the bear side, but the right side.",
+        "author": {
+            "name": "Jesse Livermore",
+            "url": "/quotes/jesse_livermore_138163"
+        },
+        "topics": [
+            {
+                "name": "Market",
+                "url": "/topics/market"
+            },
+            {
+                "name": "Side",
+                "url": "/topics/side"
+            },
+            {
+                "name": "Right Side",
+                "url": "/topics/right_side"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jesse_livermore_138172",
+        "quote": "A loss never bothers me after I take it. I forget it overnight. But being wrong - not taking the loss - that is what does damage to the pocketbook and to the soul.",
+        "author": {
+            "name": "Jesse Livermore",
+            "url": "/quotes/jesse_livermore_138172"
+        },
+        "topics": [
+            {
+                "name": "Soul",
+                "url": "/topics/soul"
+            },
+            {
+                "name": "Damage",
+                "url": "/topics/damage"
+            },
+            {
+                "name": "Bothers",
+                "url": "/topics/bothers"
+            }
+        ]
+    }
+]

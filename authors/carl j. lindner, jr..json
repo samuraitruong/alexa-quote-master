@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/carl_j_lindner_jr_476350",
+        "quote": "I'm working over 80 hours a week and have to keep on track.",
+        "author": {
+            "name": "Carl J. Lindner, Jr.",
+            "url": "/quotes/carl_j_lindner_jr_476350"
+        },
+        "topics": [
+            {
+                "name": "Week",
+                "url": "/topics/week"
+            },
+            {
+                "name": "Hours",
+                "url": "/topics/hours"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/carl_j_lindner_jr_476351",
+        "quote": "My main hobby is working. I love what I do.",
+        "author": {
+            "name": "Carl J. Lindner, Jr.",
+            "url": "/quotes/carl_j_lindner_jr_476351"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Working",
+                "url": "/topics/working"
+            },
+            {
+                "name": "I Love",
+                "url": "/topics/i_love"
+            }
+        ]
+    }
+]

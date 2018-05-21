@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/harriet_van_horne_112448",
+        "quote": "Cooking is like love. It should be entered into with abandon or not at all.",
+        "author": {
+            "name": "Harriet Van Horne",
+            "url": "/quotes/harriet_van_horne_112448"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Abandon",
+                "url": "/topics/abandon"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/harriet_van_horne_112449",
+        "quote": "There are days when any electrical appliance in the house, including the vacuum cleaner, seems to offer more entertainment possibilities than the television set.",
+        "author": {
+            "name": "Harriet Van Horne",
+            "url": "/quotes/harriet_van_horne_112449"
+        },
+        "topics": [
+            {
+                "name": "Possibilities",
+                "url": "/topics/possibilities"
+            },
+            {
+                "name": "Appliance",
+                "url": "/topics/appliance"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/harriet_van_horne_112450",
+        "quote": "One who roams the channels after dark, searching for buried treasure.",
+        "author": {
+            "name": "Harriet Van Horne",
+            "url": "/quotes/harriet_van_horne_112450"
+        },
+        "topics": [
+            {
+                "name": "Dark",
+                "url": "/topics/dark"
+            },
+            {
+                "name": "Searching",
+                "url": "/topics/searching"
+            },
+            {
+                "name": "Channels",
+                "url": "/topics/channels"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/harriet_van_horne_112452",
+        "quote": "Rarely in broadcasting history has so much been riding on the whimsical flick of a few thousand wrists.",
+        "author": {
+            "name": "Harriet Van Horne",
+            "url": "/quotes/harriet_van_horne_112452"
+        },
+        "topics": [
+            {
+                "name": "Riding",
+                "url": "/topics/riding"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Few",
+                "url": "/topics/few"
+            }
+        ]
+    }
+]

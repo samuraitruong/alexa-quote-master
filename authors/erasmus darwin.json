@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/erasmus_darwin_212995",
+        "quote": "And hail their queen, fair regent of the night.",
+        "author": {
+            "name": "Erasmus Darwin",
+            "url": "/quotes/erasmus_darwin_212995"
+        },
+        "topics": [
+            {
+                "name": "Queen",
+                "url": "/topics/queen"
+            },
+            {
+                "name": "Night",
+                "url": "/topics/night"
+            },
+            {
+                "name": "Fair",
+                "url": "/topics/fair"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/erasmus_darwin_388279",
+        "quote": "A fool is a man who never tried an experiment in his life.",
+        "author": {
+            "name": "Erasmus Darwin",
+            "url": "/quotes/erasmus_darwin_388279"
+        },
+        "topics": [
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            },
+            {
+                "name": "Tried",
+                "url": "/topics/tried"
+            }
+        ]
+    }
+]

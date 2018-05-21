@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/anne_spencer_193177",
+        "quote": "One cannot collect all the beautiful shells on the beach.",
+        "author": {
+            "name": "Anne Spencer",
+            "url": "/quotes/anne_spencer_193177"
+        },
+        "topics": [
+            {
+                "name": "Beautiful",
+                "url": "/topics/beautiful"
+            },
+            {
+                "name": "Beach",
+                "url": "/topics/beach"
+            },
+            {
+                "name": "Shells",
+                "url": "/topics/shells"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/anne_spencer_193178",
+        "quote": "Good communication is as stimulating as black coffee, and just as hard.",
+        "author": {
+            "name": "Anne Spencer",
+            "url": "/quotes/anne_spencer_193178"
+        },
+        "topics": [
+            {
+                "name": "Coffee",
+                "url": "/topics/coffee"
+            },
+            {
+                "name": "Black",
+                "url": "/topics/black"
+            },
+            {
+                "name": "Stimulating",
+                "url": "/topics/stimulating"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/anne_spencer_193179",
+        "quote": "A simple enough pleasure, surely, to have breakfast alone with one's husband, but how seldom married people in the midst of life achieve it.",
+        "author": {
+            "name": "Anne Spencer",
+            "url": "/quotes/anne_spencer_193179"
+        },
+        "topics": [
+            {
+                "name": "Pleasure",
+                "url": "/topics/pleasure"
+            },
+            {
+                "name": "Achieve",
+                "url": "/topics/achieve"
+            },
+            {
+                "name": "Surely",
+                "url": "/topics/surely"
+            }
+        ]
+    }
+]

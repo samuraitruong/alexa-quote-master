@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/gerald_massey_212184",
+        "quote": "There's no dearth of kindness In the world of ours; Only in our blindness We gather thorns for flowers.",
+        "author": {
+            "name": "Gerald Massey",
+            "url": "/quotes/gerald_massey_212184"
+        },
+        "topics": [
+            {
+                "name": "Flowers",
+                "url": "/topics/flowers"
+            },
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Ours",
+                "url": "/topics/ours"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gerald_massey_212185",
+        "quote": "Not by appointment do we meet delight Or joy; they heed not our expectancy; But round some corner of the streets of life they of a sudden greet us with a smile.",
+        "author": {
+            "name": "Gerald Massey",
+            "url": "/quotes/gerald_massey_212185"
+        },
+        "topics": [
+            {
+                "name": "Streets",
+                "url": "/topics/streets"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Greet",
+                "url": "/topics/greet"
+            }
+        ]
+    }
+]

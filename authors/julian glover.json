@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/julian_glover_207364",
+        "quote": "I'm a Bristol person too, I lived in Bristol during the war.",
+        "author": {
+            "name": "Julian Glover",
+            "url": "/quotes/julian_glover_207364"
+        },
+        "topics": [
+            {
+                "name": "War",
+                "url": "/topics/war"
+            },
+            {
+                "name": "Person",
+                "url": "/topics/person"
+            },
+            {
+                "name": "Too",
+                "url": "/topics/too"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/julian_glover_207365",
+        "quote": "Star Wars was not a very big part but I enjoyed doing it and I get more fan mail for that than anything else I've ever done. It's quite extraordinary, it comes in every day, unbelievable.",
+        "author": {
+            "name": "Julian Glover",
+            "url": "/quotes/julian_glover_207365"
+        },
+        "topics": [
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Big Part",
+                "url": "/topics/big_part"
+            }
+        ]
+    }
+]

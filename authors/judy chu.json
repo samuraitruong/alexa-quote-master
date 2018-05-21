@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/judy_chu_507737",
+        "quote": "At the end of the day, one of the most politically active voters in the country, seniors, will know who stood with them and who didn't.",
+        "author": {
+            "name": "Judy Chu",
+            "url": "/quotes/judy_chu_507737"
+        },
+        "topics": [
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Voters",
+                "url": "/topics/voters"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/judy_chu_507738",
+        "quote": "Democrats are fighting fire with fire. Our principled stance on Medicare and Social Security is absolutely no different than the Republicans' stance on no revenue increases without cuts.",
+        "author": {
+            "name": "Judy Chu",
+            "url": "/quotes/judy_chu_507738"
+        },
+        "topics": [
+            {
+                "name": "Democrats",
+                "url": "/topics/democrats"
+            },
+            {
+                "name": "Social",
+                "url": "/topics/social"
+            }
+        ]
+    }
+]

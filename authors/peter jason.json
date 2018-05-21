@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/peter_jason_726001",
+        "quote": "It's funny, but on a set there's a pecking order. There's a caste system, you know? It goes from the star down to the extra. That includes the crew as well. I've never liked that.",
+        "author": {
+            "name": "Peter Jason",
+            "url": "/quotes/peter_jason_726001"
+        },
+        "topics": [
+            {
+                "name": "Star",
+                "url": "/topics/star"
+            },
+            {
+                "name": "Caste",
+                "url": "/topics/caste"
+            },
+            {
+                "name": "Set",
+                "url": "/topics/set"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/peter_jason_726002",
+        "quote": "I've always felt that, in America, we're all equal. I don't care what you make or what kind of car you drive. You're not better than me.",
+        "author": {
+            "name": "Peter Jason",
+            "url": "/quotes/peter_jason_726002"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Kind",
+                "url": "/topics/kind"
+            },
+            {
+                "name": "Felt",
+                "url": "/topics/felt"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/peter_jason_726003",
+        "quote": "I think everybody's the same. I think we're all entitled to our space, and I like to treat everybody like that.",
+        "author": {
+            "name": "Peter Jason",
+            "url": "/quotes/peter_jason_726003"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Everybody",
+                "url": "/topics/everybody"
+            },
+            {
+                "name": "Entitled",
+                "url": "/topics/entitled"
+            }
+        ]
+    }
+]

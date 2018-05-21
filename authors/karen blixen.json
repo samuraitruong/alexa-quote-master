@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/karen_blixen_701474",
+        "quote": "If I know a song of Africa, of the giraffe and the African new moon lying on her back, of the plows in the fields and the sweaty faces of the coffee pickers, does Africa know a song of me?",
+        "author": {
+            "name": "Karen Blixen",
+            "url": "/quotes/karen_blixen_701474"
+        },
+        "topics": [
+            {
+                "name": "Song",
+                "url": "/topics/song"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Africa",
+                "url": "/topics/africa"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/karen_blixen_701475",
+        "quote": "When in the end, the day came on which I was going away, I learned the strange learning that things can happen which we ourselves cannot possibly imagine, either beforehand, or at the time when they are taking place, or afterwards when we look back on them.",
+        "author": {
+            "name": "Karen Blixen",
+            "url": "/quotes/karen_blixen_701475"
+        },
+        "topics": [
+            {
+                "name": "Learning",
+                "url": "/topics/learning"
+            },
+            {
+                "name": "Back",
+                "url": "/topics/back"
+            },
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            }
+        ]
+    }
+]

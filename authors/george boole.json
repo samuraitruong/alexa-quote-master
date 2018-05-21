@@ -1,0 +1,108 @@
+[
+    {
+        "url": "/quotes/george_boole_179597",
+        "quote": "No matter how correct a mathematical theorem may appear to be, one ought never to be satisfied that there was not something imperfect about it until it also gives the impression of being beautiful.",
+        "author": {
+            "name": "George Boole",
+            "url": "/quotes/george_boole_179597"
+        },
+        "topics": [
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Satisfied",
+                "url": "/topics/satisfied"
+            },
+            {
+                "name": "Correct",
+                "url": "/topics/correct"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_boole_179596",
+        "quote": "It is not of the essence of mathematics to be conversant with the ideas of number and quantity.",
+        "author": {
+            "name": "George Boole",
+            "url": "/quotes/george_boole_179596"
+        },
+        "topics": [
+            {
+                "name": "Essence",
+                "url": "/topics/essence"
+            },
+            {
+                "name": "Quantity",
+                "url": "/topics/quantity"
+            },
+            {
+                "name": "Number",
+                "url": "/topics/number"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_boole_179600",
+        "quote": "To unfold the secret laws and relations of those high faculties of thought by which all beyond the merely perceptive knowledge of the world and of ourselves is attained or matured, is a object which does not stand in need of commendation to a rational mind.",
+        "author": {
+            "name": "George Boole",
+            "url": "/quotes/george_boole_179600"
+        },
+        "topics": [
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Beyond",
+                "url": "/topics/beyond"
+            },
+            {
+                "name": "Secret",
+                "url": "/topics/secret"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_boole_179599",
+        "quote": "Probability is expectation founded upon partial knowledge. A perfect acquaintance with all the circumstances affecting the occurrence of an event would change expectation into certainty, and leave nether room nor demand for a theory of probabilities.",
+        "author": {
+            "name": "George Boole",
+            "url": "/quotes/george_boole_179599"
+        },
+        "topics": [
+            {
+                "name": "Perfect",
+                "url": "/topics/perfect"
+            },
+            {
+                "name": "Circumstances",
+                "url": "/topics/circumstances"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_boole_179598",
+        "quote": "Of the many forms of false culture, a premature converse with abstractions is perhaps the most likely to prove fatal to the growth of a masculine vigour of intellect.",
+        "author": {
+            "name": "George Boole",
+            "url": "/quotes/george_boole_179598"
+        },
+        "topics": [
+            {
+                "name": "Prove",
+                "url": "/topics/prove"
+            },
+            {
+                "name": "Intellect",
+                "url": "/topics/intellect"
+            },
+            {
+                "name": "Likely",
+                "url": "/topics/likely"
+            }
+        ]
+    }
+]

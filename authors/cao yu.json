@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/cao_yu_221858",
+        "quote": "For a writer, published works are like fallen flowers, but the expected new work is like a calyx waiting to blossom.",
+        "author": {
+            "name": "Cao Yu",
+            "url": "/quotes/cao_yu_221858"
+        },
+        "topics": [
+            {
+                "name": "Flowers",
+                "url": "/topics/flowers"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Works",
+                "url": "/topics/works"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/cao_yu_221859",
+        "quote": "As society diversifies, the number of people who read literature is decreasing. It will be difficult for readers to digest my ideas through literature.",
+        "author": {
+            "name": "Cao Yu",
+            "url": "/quotes/cao_yu_221859"
+        },
+        "topics": [
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Read",
+                "url": "/topics/read"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/cao_yu_221860",
+        "quote": "For a writer, life is always too short to write. I will just try my best during what remains of my life.",
+        "author": {
+            "name": "Cao Yu",
+            "url": "/quotes/cao_yu_221860"
+        },
+        "topics": [
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    }
+]

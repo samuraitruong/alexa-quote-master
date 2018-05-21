@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/teemu_selanne_405657",
+        "quote": "You keep shooting. You hope it goes in, and you smile.",
+        "author": {
+            "name": "Teemu Selanne",
+            "url": "/quotes/teemu_selanne_405657"
+        },
+        "topics": [
+            {
+                "name": "Shooting",
+                "url": "/topics/shooting"
+            },
+            {
+                "name": "Goes",
+                "url": "/topics/goes"
+            },
+            {
+                "name": "Keep",
+                "url": "/topics/keep"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/teemu_selanne_405654",
+        "quote": "I think we have played like a playoff team for some time. We can still do better. The key thing right now is to look forward, not behind you.",
+        "author": {
+            "name": "Teemu Selanne",
+            "url": "/quotes/teemu_selanne_405654"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Behind",
+                "url": "/topics/behind"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/teemu_selanne_405655",
+        "quote": "We've played with a lot of confidence and that's been the key so far. Hopefully, we can take more confidence into the playoffs.",
+        "author": {
+            "name": "Teemu Selanne",
+            "url": "/quotes/teemu_selanne_405655"
+        },
+        "topics": [
+            {
+                "name": "Confidence",
+                "url": "/topics/confidence"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/teemu_selanne_405656",
+        "quote": "When I was a kid, I remember playing hockey outside and whenever you did, you thought about playing for Finland vs. Sweden. That's just the way it was.",
+        "author": {
+            "name": "Teemu Selanne",
+            "url": "/quotes/teemu_selanne_405656"
+        },
+        "topics": [
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Hockey",
+                "url": "/topics/hockey"
+            },
+            {
+                "name": "I Remember",
+                "url": "/topics/i_remember"
+            }
+        ]
+    }
+]

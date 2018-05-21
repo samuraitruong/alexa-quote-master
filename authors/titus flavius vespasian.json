@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/titus_flavius_vespasian_145387",
+        "quote": "The body of a dead enemy always smells sweet.",
+        "author": {
+            "name": "Titus Flavius Vespasian",
+            "url": "/quotes/titus_flavius_vespasian_145387"
+        },
+        "topics": [
+            {
+                "name": "Dead",
+                "url": "/topics/dead"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Smells",
+                "url": "/topics/smells"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/titus_flavius_vespasian_145386",
+        "quote": "It becomes an emperor to die standing.",
+        "author": {
+            "name": "Titus Flavius Vespasian",
+            "url": "/quotes/titus_flavius_vespasian_145386"
+        },
+        "topics": [
+            {
+                "name": "Die",
+                "url": "/topics/die"
+            },
+            {
+                "name": "Emperor",
+                "url": "/topics/emperor"
+            },
+            {
+                "name": "Standing",
+                "url": "/topics/standing"
+            }
+        ]
+    }
+]

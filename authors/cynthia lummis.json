@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/cynthia_lummis_628175",
+        "quote": "It's typical for people living in nonurban areas to drive 100 miles to go to work, to the grocery store or to the doctor.",
+        "author": {
+            "name": "Cynthia Lummis",
+            "url": "/quotes/cynthia_lummis_628175"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Living",
+                "url": "/topics/living"
+            },
+            {
+                "name": "Go",
+                "url": "/topics/go"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/cynthia_lummis_628176",
+        "quote": "Federal gas tax revenues that are paid into the trust fund by highway users should be used for programs that benefit highway users.",
+        "author": {
+            "name": "Cynthia Lummis",
+            "url": "/quotes/cynthia_lummis_628176"
+        },
+        "topics": [
+            {
+                "name": "Trust",
+                "url": "/topics/trust"
+            },
+            {
+                "name": "Tax",
+                "url": "/topics/tax"
+            },
+            {
+                "name": "Used",
+                "url": "/topics/used"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/cynthia_lummis_628177",
+        "quote": "While restoring a sense of fiscal discipline to Congress is a top priority, infrastructure spending is an important and necessary task of government. Our nation's long-term debt requires us to prioritize and economize with every tax dollar.",
+        "author": {
+            "name": "Cynthia Lummis",
+            "url": "/quotes/cynthia_lummis_628177"
+        },
+        "topics": [
+            {
+                "name": "Nation",
+                "url": "/topics/nation"
+            },
+            {
+                "name": "Congress",
+                "url": "/topics/congress"
+            },
+            {
+                "name": "Restoring",
+                "url": "/topics/restoring"
+            }
+        ]
+    }
+]

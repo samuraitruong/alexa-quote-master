@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/john_cleveland_189642",
+        "quote": "Love melts the rigor which the rocks have bred; a flint will break upon a feather bed.",
+        "author": {
+            "name": "John Cleveland",
+            "url": "/quotes/john_cleveland_189642"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Bed",
+                "url": "/topics/bed"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_cleveland_189641",
+        "quote": "I am no Poet here; my pen's the spout where the rain water of my eyes run out.",
+        "author": {
+            "name": "John Cleveland",
+            "url": "/quotes/john_cleveland_189641"
+        },
+        "topics": [
+            {
+                "name": "Rain",
+                "url": "/topics/rain"
+            },
+            {
+                "name": "Run",
+                "url": "/topics/run"
+            },
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_cleveland_189645",
+        "quote": "Had Cain been Scot, God would have changed his doom nor forced him wander, but confine him home.",
+        "author": {
+            "name": "John Cleveland",
+            "url": "/quotes/john_cleveland_189645"
+        },
+        "topics": [
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Doom",
+                "url": "/topics/doom"
+            },
+            {
+                "name": "Forced",
+                "url": "/topics/forced"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_cleveland_189646",
+        "quote": "My tears will keep no channel, know no laws to guide their streams, but like the waves, their cause, run with disturbance till they swallow me as a description of his misery.",
+        "author": {
+            "name": "John Cleveland",
+            "url": "/quotes/john_cleveland_189646"
+        },
+        "topics": [
+            {
+                "name": "Waves",
+                "url": "/topics/waves"
+            },
+            {
+                "name": "Tears",
+                "url": "/topics/tears"
+            },
+            {
+                "name": "Disturbance",
+                "url": "/topics/disturbance"
+            }
+        ]
+    }
+]

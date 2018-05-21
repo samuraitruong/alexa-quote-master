@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/justin_berfield_569892",
+        "quote": "The wheels are spinning in my head all the time.",
+        "author": {
+            "name": "Justin Berfield",
+            "url": "/quotes/justin_berfield_569892"
+        },
+        "topics": [
+            {
+                "name": "Head",
+                "url": "/topics/head"
+            },
+            {
+                "name": "Spinning",
+                "url": "/topics/spinning"
+            },
+            {
+                "name": "Wheels",
+                "url": "/topics/wheels"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/justin_berfield_569891",
+        "quote": "L.A. can be intense, but the second you get over the hill into Calabasas, your stress level immediately drops because it's so peaceful and safe. Sometimes I really miss it.",
+        "author": {
+            "name": "Justin Berfield",
+            "url": "/quotes/justin_berfield_569891"
+        },
+        "topics": [
+            {
+                "name": "Stress",
+                "url": "/topics/stress"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Level",
+                "url": "/topics/level"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/justin_berfield_569893",
+        "quote": "Being in front of the camera, you never got to see the whole process from the conception of the script all the way through to the filming process.",
+        "author": {
+            "name": "Justin Berfield",
+            "url": "/quotes/justin_berfield_569893"
+        },
+        "topics": [
+            {
+                "name": "Process",
+                "url": "/topics/process"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Whole",
+                "url": "/topics/whole"
+            }
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/judy_johnson_193965",
+        "quote": "John Henry Lloyd is the man I gave the credit to for polishing my skills. He taught me how to play third base and how to protect myself. John taught me more baseball than anyone else.",
+        "author": {
+            "name": "Judy Johnson",
+            "url": "/quotes/judy_johnson_193965"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Skills",
+                "url": "/topics/skills"
+            },
+            {
+                "name": "How",
+                "url": "/topics/how"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/judy_johnson_193966",
+        "quote": "My Daddy liked physical fitness and wanted me to be a prizefighter.",
+        "author": {
+            "name": "Judy Johnson",
+            "url": "/quotes/judy_johnson_193966"
+        },
+        "topics": [
+            {
+                "name": "Daddy",
+                "url": "/topics/daddy"
+            },
+            {
+                "name": "Physical Fitness",
+                "url": "/topics/physical_fitness"
+            }
+        ]
+    }
+]

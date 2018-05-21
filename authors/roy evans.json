@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/roy_evans_250009",
+        "quote": "Liverpool without European football is like a banquet without wine.",
+        "author": {
+            "name": "Roy Evans",
+            "url": "/quotes/roy_evans_250009"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Banquet",
+                "url": "/topics/banquet"
+            },
+            {
+                "name": "European",
+                "url": "/topics/european"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/roy_evans_250006",
+        "quote": "Both Chelsea and Manchester United will be challenging for the Premiership title next season.",
+        "author": {
+            "name": "Roy Evans",
+            "url": "/quotes/roy_evans_250006"
+        },
+        "topics": [
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            },
+            {
+                "name": "United",
+                "url": "/topics/united"
+            },
+            {
+                "name": "Chelsea",
+                "url": "/topics/chelsea"
+            }
+        ]
+    }
+]

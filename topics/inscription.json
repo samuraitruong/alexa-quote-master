@@ -1,0 +1,134 @@
+[
+    {
+        "url": "/quotes/samuel_butler_391564?src=t_inscription",
+        "quote": "They say the test of literary power is whether a man can write an inscription. I say, 'Can he name a kitten?'",
+        "author": {
+            "name": "Samuel Butler",
+            "url": "/authors/samuel_butler"
+        },
+        "topics": [
+            {
+                "name": "Say",
+                "url": "/topics/say"
+            },
+            {
+                "name": "Test",
+                "url": "/topics/test"
+            },
+            {
+                "name": "Literary",
+                "url": "/topics/literary"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mason_cooley_395875?src=t_inscription",
+        "quote": "I love you is the inscription on Pandora's box.",
+        "author": {
+            "name": "Mason Cooley",
+            "url": "/authors/mason_cooley"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "I Love You",
+                "url": "/topics/i_love_you"
+            },
+            {
+                "name": "I Love",
+                "url": "/topics/i_love"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ryan_reynolds_587231?src=t_inscription",
+        "quote": "Making a mix CD - albeit slightly old school - is generally a pretty cool gift and something I like to receive, or giving someone a book that moved you. Writing an inscription inside makes it even better.",
+        "author": {
+            "name": "Ryan Reynolds",
+            "url": "/authors/ryan_reynolds"
+        },
+        "topics": [
+            {
+                "name": "Book",
+                "url": "/topics/book"
+            },
+            {
+                "name": "Gift",
+                "url": "/topics/gift"
+            },
+            {
+                "name": "Slightly",
+                "url": "/topics/slightly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_l_wolper_758719?src=t_inscription",
+        "quote": "Somebody said something funny to me the other day. They said, 'Wolper, until two weeks ago, your tombstone was going to say, 'David Wolper, the man who produced 'Roots.' I think the tombstone now has a new inscription. It's going to be 'David Wolper, the man who produced the opening ceremony of the 1984 Olympics.'",
+        "author": {
+            "name": "David L. Wolper",
+            "url": "/authors/david_l_wolper"
+        },
+        "topics": [
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Weeks",
+                "url": "/topics/weeks"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/zahi_hawass_177763?src=t_inscription",
+        "quote": "I found in one of the tombs an inscription saying, 'If you touch my tomb, you will be eaten by a crocodile and hippopotamus.' It doesn't mean the hippo will eat you, it means the person really wanted his tomb to be protected.",
+        "author": {
+            "name": "Zahi Hawass",
+            "url": "/authors/zahi_hawass"
+        },
+        "topics": [
+            {
+                "name": "Found",
+                "url": "/topics/found"
+            },
+            {
+                "name": "Crocodile",
+                "url": "/topics/crocodile"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_emmet_205850?src=t_inscription",
+        "quote": "Let there be no inscription upon my tomb; let no man write my epitaph: no man can write my epitaph.",
+        "author": {
+            "name": "Robert Emmet",
+            "url": "/authors/robert_emmet"
+        },
+        "topics": [
+            {
+                "name": "Man",
+                "url": "/topics/man"
+            },
+            {
+                "name": "Tomb",
+                "url": "/topics/tomb"
+            },
+            {
+                "name": "Epitaph",
+                "url": "/topics/epitaph"
+            }
+        ]
+    }
+]

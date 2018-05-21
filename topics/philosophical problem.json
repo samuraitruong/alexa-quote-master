@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/albert_camus_111059?src=t_philosophical_problem",
+        "quote": "There is but one truly serious philosophical problem and that is suicide.",
+        "author": {
+            "name": "Albert Camus",
+            "url": "/authors/albert_camus"
+        },
+        "topics": [
+            {
+                "name": "Suicide",
+                "url": "/topics/suicide"
+            },
+            {
+                "name": "Problem",
+                "url": "/topics/problem"
+            },
+            {
+                "name": "Serious",
+                "url": "/topics/serious"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/francine_prose_501446?src=t_philosophical_problem",
+        "quote": "A work of art can start you thinking about some aesthetic or philosophical problem; it can suggest some new method, some fresh approach to fiction.",
+        "author": {
+            "name": "Francine Prose",
+            "url": "/authors/francine_prose"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Aesthetic",
+                "url": "/topics/aesthetic"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bertrand_russell_408976?src=t_philosophical_problem",
+        "quote": "Every philosophical problem, when it is subjected to the necessary analysis and justification, is found either to be not really philosophical at all, or else to be, in the sense in which we are using the word, logical.",
+        "author": {
+            "name": "Bertrand Russell",
+            "url": "/authors/bertrand_russell"
+        },
+        "topics": [
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Subjected",
+                "url": "/topics/subjected"
+            },
+            {
+                "name": "Using",
+                "url": "/topics/using"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ludwig_wittgenstein_398869?src=t_philosophical_problem",
+        "quote": "A philosophical problem has the form: I don't know my way about.",
+        "author": {
+            "name": "Ludwig Wittgenstein",
+            "url": "/authors/ludwig_wittgenstein"
+        },
+        "topics": [
+            {
+                "name": "Problem",
+                "url": "/topics/problem"
+            },
+            {
+                "name": "Form",
+                "url": "/topics/form"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_ricoeur_255716?src=t_philosophical_problem",
+        "quote": "Testimony should be a philosophical problem and not limited to legal or historical contexts where it refers to the account of a witness who reports what he has seen.",
+        "author": {
+            "name": "Paul Ricoeur",
+            "url": "/authors/paul_ricoeur"
+        },
+        "topics": [
+            {
+                "name": "Reports",
+                "url": "/topics/reports"
+            },
+            {
+                "name": "Historical",
+                "url": "/topics/historical"
+            },
+            {
+                "name": "Limited",
+                "url": "/topics/limited"
+            }
+        ]
+    }
+]

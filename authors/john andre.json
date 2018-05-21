@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/john_andre_200260",
+        "quote": "As I suffer in the defence of my Country, I must consider this hour as the most glorious of my life -Remember that I die as becomes a British Officer, while the manner of my death must reflect disgrace on your Commander.",
+        "author": {
+            "name": "John Andre",
+            "url": "/quotes/john_andre_200260"
+        },
+        "topics": [
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Die",
+                "url": "/topics/die"
+            },
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_andre_378211",
+        "quote": "I am reconciled to my death, but I detest the mode.",
+        "author": {
+            "name": "John Andre",
+            "url": "/quotes/john_andre_378211"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Mode",
+                "url": "/topics/mode"
+            },
+            {
+                "name": "Reconciled",
+                "url": "/topics/reconciled"
+            }
+        ]
+    }
+]

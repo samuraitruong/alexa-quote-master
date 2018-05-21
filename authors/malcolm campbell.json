@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/malcolm_campbell_197622",
+        "quote": "Hurry boys, hurry, we have to make a quick change or the hour will be up.",
+        "author": {
+            "name": "Malcolm Campbell",
+            "url": "/quotes/malcolm_campbell_197622"
+        },
+        "topics": [
+            {
+                "name": "Quick",
+                "url": "/topics/quick"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Hour",
+                "url": "/topics/hour"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/malcolm_campbell_197624",
+        "quote": "The news comes somewhat late, but I'm glad to hear it nevertheless.",
+        "author": {
+            "name": "Malcolm Campbell",
+            "url": "/quotes/malcolm_campbell_197624"
+        },
+        "topics": [
+            {
+                "name": "Late",
+                "url": "/topics/late"
+            },
+            {
+                "name": "News",
+                "url": "/topics/news"
+            },
+            {
+                "name": "Nevertheless",
+                "url": "/topics/nevertheless"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/malcolm_campbell_197623",
+        "quote": "The tires were scorching hot, in fact I burned my fingers on one.",
+        "author": {
+            "name": "Malcolm Campbell",
+            "url": "/quotes/malcolm_campbell_197623"
+        },
+        "topics": [
+            {
+                "name": "Fact",
+                "url": "/topics/fact"
+            },
+            {
+                "name": "Were",
+                "url": "/topics/were"
+            },
+            {
+                "name": "Scorching",
+                "url": "/topics/scorching"
+            }
+        ]
+    }
+]

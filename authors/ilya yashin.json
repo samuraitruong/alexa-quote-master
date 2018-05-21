@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/ilya_yashin_442975",
+        "quote": "I can't predict whether I'll leave here freely or in handcuffs.",
+        "author": {
+            "name": "Ilya Yashin",
+            "url": "/quotes/ilya_yashin_442975"
+        },
+        "topics": [
+            {
+                "name": "Leave",
+                "url": "/topics/leave"
+            },
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            },
+            {
+                "name": "Whether",
+                "url": "/topics/whether"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ilya_yashin_442976",
+        "quote": "Our suspicions are being confirmed that Nashi will serve as a cover for storm brigades that will use violence against democratic organisations.",
+        "author": {
+            "name": "Ilya Yashin",
+            "url": "/quotes/ilya_yashin_442976"
+        },
+        "topics": [
+            {
+                "name": "Storm",
+                "url": "/topics/storm"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            }
+        ]
+    }
+]

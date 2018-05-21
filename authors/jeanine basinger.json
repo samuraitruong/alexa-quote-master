@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/jeanine_basinger_483125",
+        "quote": "Everyone will tell you how rigid I am, but a teacher has to be flexible. You can't cut the student to your cloth; you have to cut yourself to theirs.",
+        "author": {
+            "name": "Jeanine Basinger",
+            "url": "/quotes/jeanine_basinger_483125"
+        },
+        "topics": [
+            {
+                "name": "Cut",
+                "url": "/topics/cut"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Everyone",
+                "url": "/topics/everyone"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jeanine_basinger_483124",
+        "quote": "Magic in cinema is a bit like ventriloquism on the radio.",
+        "author": {
+            "name": "Jeanine Basinger",
+            "url": "/quotes/jeanine_basinger_483124"
+        },
+        "topics": [
+            {
+                "name": "Magic",
+                "url": "/topics/magic"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Ventriloquism",
+                "url": "/topics/ventriloquism"
+            }
+        ]
+    }
+]

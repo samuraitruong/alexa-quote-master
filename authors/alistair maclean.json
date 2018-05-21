@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/alistair_maclean_256506",
+        "quote": "I wrote each book in thirty-five days flat - just to get the darned thing finished.",
+        "author": {
+            "name": "Alistair Maclean",
+            "url": "/quotes/alistair_maclean_256506"
+        },
+        "topics": [
+            {
+                "name": "Book",
+                "url": "/topics/book"
+            },
+            {
+                "name": "Wrote",
+                "url": "/topics/wrote"
+            },
+            {
+                "name": "Flat",
+                "url": "/topics/flat"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alistair_maclean_256507",
+        "quote": "I'm not a born writer, and I don't enjoy writing.",
+        "author": {
+            "name": "Alistair Maclean",
+            "url": "/quotes/alistair_maclean_256507"
+        },
+        "topics": [
+            {
+                "name": "Writing",
+                "url": "/topics/writing"
+            },
+            {
+                "name": "Enjoy",
+                "url": "/topics/enjoy"
+            },
+            {
+                "name": "Born",
+                "url": "/topics/born"
+            }
+        ]
+    }
+]

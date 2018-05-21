@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/hans_fischer_733078",
+        "quote": "In cases of porphyria, a minor disease, the patient excretes large quantities of porphyrins.",
+        "author": {
+            "name": "Hans Fischer",
+            "url": "/quotes/hans_fischer_733078"
+        },
+        "topics": [
+            {
+                "name": "Disease",
+                "url": "/topics/disease"
+            },
+            {
+                "name": "Cases",
+                "url": "/topics/cases"
+            },
+            {
+                "name": "Minor",
+                "url": "/topics/minor"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/hans_fischer_733077",
+        "quote": "The blood pigment haemoglobin is a compound which can be split by diverse methods into its constituents, pigment and protein.",
+        "author": {
+            "name": "Hans Fischer",
+            "url": "/quotes/hans_fischer_733077"
+        },
+        "topics": [
+            {
+                "name": "Methods",
+                "url": "/topics/methods"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Split",
+                "url": "/topics/split"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/hans_fischer_733079",
+        "quote": "Coproporphyrin in particular is widespread; traces are present in normal urine and also in yeast. In special cultures, yeast can be made to produce considerable quantities of coproporphyrin.",
+        "author": {
+            "name": "Hans Fischer",
+            "url": "/quotes/hans_fischer_733079"
+        },
+        "topics": [
+            {
+                "name": "Normal",
+                "url": "/topics/normal"
+            },
+            {
+                "name": "Made",
+                "url": "/topics/made"
+            },
+            {
+                "name": "Traces",
+                "url": "/topics/traces"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/hans_fischer_733080",
+        "quote": "If we introduce iron complexly into ooporphyrin, we obtain haemin.",
+        "author": {
+            "name": "Hans Fischer",
+            "url": "/quotes/hans_fischer_733080"
+        },
+        "topics": [
+            {
+                "name": "Iron",
+                "url": "/topics/iron"
+            },
+            {
+                "name": "Introduce",
+                "url": "/topics/introduce"
+            },
+            {
+                "name": "Obtain",
+                "url": "/topics/obtain"
+            }
+        ]
+    }
+]

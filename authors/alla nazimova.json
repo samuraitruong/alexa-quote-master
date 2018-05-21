@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/alla_nazimova_403700",
+        "quote": "Sincerity and the correct use of the voice are the greatest things in the art of acting.",
+        "author": {
+            "name": "Alla Nazimova",
+            "url": "/quotes/alla_nazimova_403700"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Voice",
+                "url": "/topics/voice"
+            },
+            {
+                "name": "Greatest Things",
+                "url": "/topics/greatest_things"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alla_nazimova_402137",
+        "quote": "The actor should not play a part. Like the Aeolian harps that used to be hung in the trees to be played only by the breeze, the actor should be an instrument played upon by the character he depicts.",
+        "author": {
+            "name": "Alla Nazimova",
+            "url": "/quotes/alla_nazimova_402137"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Part",
+                "url": "/topics/part"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/robert_hamer_323295",
+        "quote": "That picture has become a sort of yardstick for everything else I've done.",
+        "author": {
+            "name": "Robert Hamer",
+            "url": "/quotes/robert_hamer_323295"
+        },
+        "topics": [
+            {
+                "name": "Yardstick",
+                "url": "/topics/yardstick"
+            },
+            {
+                "name": "Else",
+                "url": "/topics/else"
+            },
+            {
+                "name": "Sort",
+                "url": "/topics/sort"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_hamer_326129",
+        "quote": "It's flattering to make a picture which becomes a classic within 10 years; it's not so flattering, however, when people get the impression it's the only picture you've ever made.",
+        "author": {
+            "name": "Robert Hamer",
+            "url": "/quotes/robert_hamer_326129"
+        },
+        "topics": [
+            {
+                "name": "Within",
+                "url": "/topics/within"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "However",
+                "url": "/topics/however"
+            }
+        ]
+    }
+]

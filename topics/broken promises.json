@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/chief_joseph_280270?src=t_broken_promises",
+        "quote": "It makes my heart sick when I remember all the good words and the broken promises.",
+        "author": {
+            "name": "Chief Joseph",
+            "url": "/authors/chief_joseph"
+        },
+        "topics": [
+            {
+                "name": "Broken",
+                "url": "/topics/broken"
+            },
+            {
+                "name": "Good Words",
+                "url": "/topics/good_words"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brinjonathan_butler_758764?src=t_broken_promises",
+        "quote": "While Fidel Castro used to deliver his marathon seven-hour speeches in Havana, Cubans used to joke that if Spanish lacked a future tense, their leader would be speechless. He was only fluent in broken promises, they lamented.",
+        "author": {
+            "name": "Brin-Jonathan Butler",
+            "url": "/authors/brinjonathan_butler"
+        },
+        "topics": [
+            {
+                "name": "Leader",
+                "url": "/topics/leader"
+            },
+            {
+                "name": "Castro",
+                "url": "/topics/castro"
+            },
+            {
+                "name": "Fidel Castro",
+                "url": "/topics/fidel_castro"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sam_graves_768834?src=t_broken_promises",
+        "quote": "The fact that two-thirds of Americans who work at small businesses will see premium increases because of the health law is devastating news. This is one more in a long line of broken promises from President Obama and Washington Democrats.",
+        "author": {
+            "name": "Sam Graves",
+            "url": "/authors/sam_graves"
+        },
+        "topics": [
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Fact",
+                "url": "/topics/fact"
+            },
+            {
+                "name": "Two-Thirds",
+                "url": "/topics/two-thirds"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/buffalo_bill_327165?src=t_broken_promises",
+        "quote": "Every Indian outbreak that I have ever known has resulted from broken promises and broken treaties by the government.",
+        "author": {
+            "name": "Buffalo Bill",
+            "url": "/authors/buffalo_bill"
+        },
+        "topics": [
+            {
+                "name": "Broken",
+                "url": "/topics/broken"
+            },
+            {
+                "name": "Treaties",
+                "url": "/topics/treaties"
+            },
+            {
+                "name": "Resulted",
+                "url": "/topics/resulted"
+            }
+        ]
+    }
+]

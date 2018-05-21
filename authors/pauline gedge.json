@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/pauline_gedge_687467",
+        "quote": "I don't read much when I'm working. When I'm finished work, I don't want a thing to do with words.",
+        "author": {
+            "name": "Pauline Gedge",
+            "url": "/quotes/pauline_gedge_687467"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Read",
+                "url": "/topics/read"
+            },
+            {
+                "name": "Finished Work",
+                "url": "/topics/finished_work"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/pauline_gedge_687468",
+        "quote": "I'm not ashamed to say I love television. I put the TV on, and my brain switches off, and I just sit there for a few hours.",
+        "author": {
+            "name": "Pauline Gedge",
+            "url": "/quotes/pauline_gedge_687468"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Ashamed",
+                "url": "/topics/ashamed"
+            },
+            {
+                "name": "TV",
+                "url": "/topics/tv"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/james_gordon_bennett_140371",
+        "quote": "I have made mistakes but I have never made the mistake of claiming that I have never made one.",
+        "author": {
+            "name": "James Gordon Bennett",
+            "url": "/quotes/james_gordon_bennett_140371"
+        },
+        "topics": [
+            {
+                "name": "Mistake",
+                "url": "/topics/mistake"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Claiming",
+                "url": "/topics/claiming"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_gordon_bennett_392026",
+        "quote": "Many a good newspaper story has been ruined by over verification.",
+        "author": {
+            "name": "James Gordon Bennett",
+            "url": "/quotes/james_gordon_bennett_392026"
+        },
+        "topics": [
+            {
+                "name": "Newspaper",
+                "url": "/topics/newspaper"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    }
+]

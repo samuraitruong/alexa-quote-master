@@ -1,0 +1,1122 @@
+[
+    {
+        "url": "/quotes/john_w_thompson_339843?src=t_server",
+        "quote": "First, our focus on security is on the infrastructure itself. So it is all about how you protect the network, the device, and the application that is riding on the server.",
+        "author": {
+            "name": "John W. Thompson",
+            "url": "/authors/john_w_thompson"
+        },
+        "topics": [
+            {
+                "name": "Focus",
+                "url": "/topics/focus"
+            },
+            {
+                "name": "Riding",
+                "url": "/topics/riding"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_mcafee_755481?src=t_server",
+        "quote": "When a hacker gains access to any corporate data, the value of that data depends on which server, or sometimes a single person's computer, that the hacker gains access to.",
+        "author": {
+            "name": "John McAfee",
+            "url": "/authors/john_mcafee"
+        },
+        "topics": [
+            {
+                "name": "Data",
+                "url": "/topics/data"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Access",
+                "url": "/topics/access"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/evgeny_morozov_554931?src=t_server",
+        "quote": "Cloud computing is a great euphemism for centralization of computer services under one server.",
+        "author": {
+            "name": "Evgeny Morozov",
+            "url": "/authors/evgeny_morozov"
+        },
+        "topics": [
+            {
+                "name": "Cloud",
+                "url": "/topics/cloud"
+            },
+            {
+                "name": "Computer",
+                "url": "/topics/computer"
+            },
+            {
+                "name": "Computing",
+                "url": "/topics/computing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/richard_stallman_473470?src=t_server",
+        "quote": "If you use a proprietary program or somebody else's web server, you're defenceless. You're putty in the hands of whoever developed that software.",
+        "author": {
+            "name": "Richard Stallman",
+            "url": "/authors/richard_stallman"
+        },
+        "topics": [
+            {
+                "name": "Hands",
+                "url": "/topics/hands"
+            },
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tom_colicchio_500659?src=t_server",
+        "quote": "Don't touch my napkin. I do not want the server to pick up the napkin and put it on my lap. I know it belongs there; maybe I don't choose to put it there.",
+        "author": {
+            "name": "Tom Colicchio",
+            "url": "/authors/tom_colicchio"
+        },
+        "topics": [
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Touch",
+                "url": "/topics/touch"
+            },
+            {
+                "name": "Maybe",
+                "url": "/topics/maybe"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/aaron_allston_167918?src=t_server",
+        "quote": "If you hack the Vatican server, have you tampered in God's domain?",
+        "author": {
+            "name": "Aaron Allston",
+            "url": "/authors/aaron_allston"
+        },
+        "topics": [
+            {
+                "name": "Hack",
+                "url": "/topics/hack"
+            },
+            {
+                "name": "Domain",
+                "url": "/topics/domain"
+            },
+            {
+                "name": "Tampered",
+                "url": "/topics/tampered"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tim_bernerslee_373104?src=t_server",
+        "quote": "The Domain Name Server (DNS) is the Achilles heel of the Web. The important thing is that it's managed responsibly.",
+        "author": {
+            "name": "Tim Berners-Lee",
+            "url": "/authors/tim_bernerslee"
+        },
+        "topics": [
+            {
+                "name": "Important Thing",
+                "url": "/topics/important_thing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/virginia_postrel_642966?src=t_server",
+        "quote": "Traditional PCs face competition from specialty products like Palm Pilots and from the servers that provide the nodes in computer networks. Microsoft's Windows CE hasn't done too well in the specialty-device market, and its Windows NT faces strong competition for server customers.",
+        "author": {
+            "name": "Virginia Postrel",
+            "url": "/authors/virginia_postrel"
+        },
+        "topics": [
+            {
+                "name": "Strong",
+                "url": "/topics/strong"
+            },
+            {
+                "name": "Palm",
+                "url": "/topics/palm"
+            },
+            {
+                "name": "Specialty",
+                "url": "/topics/specialty"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/julie_wainwright_855696?src=t_server",
+        "quote": "Here is what the world looked like in 2000... there were no plug and play solutions for ecommerce/warehouse management and customer service that could scale... which means that we had to employ 40+ engineers. Cloud computing did not exist, which means that we had to have a server farm and several IT people to insure that the site did not go down.",
+        "author": {
+            "name": "Julie Wainwright",
+            "url": "/authors/julie_wainwright"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            },
+            {
+                "name": "Employ",
+                "url": "/topics/employ"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mark_zuckerberg_453458?src=t_server",
+        "quote": "I literally coded Facebook in my dorm room and launched it from my dorm room. I rented a server for $85 a month, and I funded it by putting an ad on the side, and we've funded ever since by putting ads on the side.",
+        "author": {
+            "name": "Mark Zuckerberg",
+            "url": "/authors/mark_zuckerberg"
+        },
+        "topics": [
+            {
+                "name": "Side",
+                "url": "/topics/side"
+            },
+            {
+                "name": "Ad",
+                "url": "/topics/ad"
+            },
+            {
+                "name": "Putting",
+                "url": "/topics/putting"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/vitalik_buterin_847216?src=t_server",
+        "quote": "You can write anything that you would be able to write on a server and put it onto the blockchain. Instead of Javascript making calls to the server, you would be making calls to the blockchain.",
+        "author": {
+            "name": "Vitalik Buterin",
+            "url": "/authors/vitalik_buterin"
+        },
+        "topics": [
+            {
+                "name": "Making",
+                "url": "/topics/making"
+            },
+            {
+                "name": "Instead",
+                "url": "/topics/instead"
+            },
+            {
+                "name": "Put",
+                "url": "/topics/put"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/richard_stallman_655287?src=t_server",
+        "quote": "In the U.S., you even lose legal rights if you store your data in a company's machines instead of your own. The police need to present you with a search warrant to get your data from you; but if they are stored in a company's server, the police can get it without showing you anything. They may not even have to give the company a search warrant.",
+        "author": {
+            "name": "Richard Stallman",
+            "url": "/authors/richard_stallman"
+        },
+        "topics": [
+            {
+                "name": "Data",
+                "url": "/topics/data"
+            },
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            },
+            {
+                "name": "Your",
+                "url": "/topics/your"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/wietse_venema_333654?src=t_server",
+        "quote": "One bug in an SMTP server can open up the whole machine for intrusion.",
+        "author": {
+            "name": "Wietse Venema",
+            "url": "/authors/wietse_venema"
+        },
+        "topics": [
+            {
+                "name": "Machine",
+                "url": "/topics/machine"
+            },
+            {
+                "name": "Bug",
+                "url": "/topics/bug"
+            },
+            {
+                "name": "Intrusion",
+                "url": "/topics/intrusion"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gary_johnson_764030?src=t_server",
+        "quote": "I'm not a stone-thrower when it comes to Hillary Clinton and her emails and her server. I don't think there has been criminal intent on Hillary Clinton's part. I don't see an indictment.",
+        "author": {
+            "name": "Gary Johnson",
+            "url": "/authors/gary_johnson"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Part",
+                "url": "/topics/part"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/satya_nadella_760420?src=t_server",
+        "quote": "Microsoft has no SQL Server developers. We have only Azure developers.",
+        "author": {
+            "name": "Satya Nadella",
+            "url": "/authors/satya_nadella"
+        },
+        "topics": [
+            {
+                "name": "Developers",
+                "url": "/topics/developers"
+            },
+            {
+                "name": "Microsoft",
+                "url": "/topics/microsoft"
+            },
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/michael_hayden_789048?src=t_server",
+        "quote": "My life experience confirms that the U.S. government frequently overclassifies data. But that's a stronger argument for not dumping large volumes of government traffic on an unclassified personal server than it is a justification for retroactively challenging classification decisions.",
+        "author": {
+            "name": "Michael Hayden",
+            "url": "/authors/michael_hayden"
+        },
+        "topics": [
+            {
+                "name": "Data",
+                "url": "/topics/data"
+            },
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Argument",
+                "url": "/topics/argument"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marc_andreessen_433631?src=t_server",
+        "quote": "Once you understand that everybody's going to get connected, a lot of things follow from that. If everybody gets the Internet, they end up with a browser, so they look at web pages - but they can also leave comments, create web pages. They can even host their own server! So not only is everybody consuming, they can also produce.",
+        "author": {
+            "name": "Marc Andreessen",
+            "url": "/authors/marc_andreessen"
+        },
+        "topics": [
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            },
+            {
+                "name": "Everybody",
+                "url": "/topics/everybody"
+            },
+            {
+                "name": "Lot",
+                "url": "/topics/lot"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tim_bernerslee_373087?src=t_server",
+        "quote": "I basically wrote the code and the specs and documentation for how the client and server talked to each other.",
+        "author": {
+            "name": "Tim Berners-Lee",
+            "url": "/authors/tim_bernerslee"
+        },
+        "topics": [
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "How",
+                "url": "/topics/how"
+            },
+            {
+                "name": "Talked",
+                "url": "/topics/talked"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_lopez_851630?src=t_server",
+        "quote": "Everything will be seen on your computer or BlackBerry or whatever devices we will be seeing in the future. Comedians will put their content on whatever server and send it to you specifically. We may even lose the live performance.",
+        "author": {
+            "name": "George Lopez",
+            "url": "/authors/george_lopez"
+        },
+        "topics": [
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Devices",
+                "url": "/topics/devices"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sebastian_maniscalco_786909?src=t_server",
+        "quote": "I do reflect on it sometimes, going, 'Wow, if I knew what I knew now I would be such a better server.'",
+        "author": {
+            "name": "Sebastian Maniscalco",
+            "url": "/authors/sebastian_maniscalco"
+        },
+        "topics": [
+            {
+                "name": "Better",
+                "url": "/topics/better"
+            },
+            {
+                "name": "Reflect",
+                "url": "/topics/reflect"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jon_bellion_827720?src=t_server",
+        "quote": "I used to work at a catering hall in Hauppauge. Anybody who works as a server in a catering hall, more power to you, but I wanted to make music.",
+        "author": {
+            "name": "Jon Bellion",
+            "url": "/authors/jon_bellion"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Works",
+                "url": "/topics/works"
+            },
+            {
+                "name": "Anybody",
+                "url": "/topics/anybody"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/michael_dell_173361?src=t_server",
+        "quote": "The interesting thing is when we design and architect a server, we don't design it for Windows or Linux, we design it for both. We don't really care, as long as we're selling the one the customer wants.",
+        "author": {
+            "name": "Michael Dell",
+            "url": "/authors/michael_dell"
+        },
+        "topics": [
+            {
+                "name": "Interesting",
+                "url": "/topics/interesting"
+            },
+            {
+                "name": "Architect",
+                "url": "/topics/architect"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mike_pompeo_794753?src=t_server",
+        "quote": "Secretary Clinton was warned repeatedly about her duty to secure classified information and that her unsecure server did not meet that standard.",
+        "author": {
+            "name": "Mike Pompeo",
+            "url": "/authors/mike_pompeo"
+        },
+        "topics": [
+            {
+                "name": "Standard",
+                "url": "/topics/standard"
+            },
+            {
+                "name": "Repeatedly",
+                "url": "/topics/repeatedly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/julian_castro_754175?src=t_server",
+        "quote": "I believe that Secretary Clinton has said, has acknowledged, that that was not the best way to handle her emails back then... and has turned over all of the information and the emails and documents and now the server.",
+        "author": {
+            "name": "Julian Castro",
+            "url": "/authors/julian_castro"
+        },
+        "topics": [
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Best Way",
+                "url": "/topics/best_way"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/matt_mullenweg_541107?src=t_server",
+        "quote": "Akismet started on a $70 dollar-a-month server. Anyone can scrape together $70.",
+        "author": {
+            "name": "Matt Mullenweg",
+            "url": "/authors/matt_mullenweg"
+        },
+        "topics": [
+            {
+                "name": "Anyone",
+                "url": "/topics/anyone"
+            },
+            {
+                "name": "Started",
+                "url": "/topics/started"
+            },
+            {
+                "name": "Scrape",
+                "url": "/topics/scrape"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ken_cuccinelli_803574?src=t_server",
+        "quote": "The very purpose of Clinton's server was to intentionally retain documents and materials - all emails and attachments - on the server in her house, including classified materials.",
+        "author": {
+            "name": "Ken Cuccinelli",
+            "url": "/authors/ken_cuccinelli"
+        },
+        "topics": [
+            {
+                "name": "Purpose",
+                "url": "/topics/purpose"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Including",
+                "url": "/topics/including"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ken_cuccinelli_803575?src=t_server",
+        "quote": "It borders on inconceivable that Clinton didn't know that the emails she received - and, more obviously, the emails that she created, stored and sent with the server - would contain classified information.",
+        "author": {
+            "name": "Ken Cuccinelli",
+            "url": "/authors/ken_cuccinelli"
+        },
+        "topics": [
+            {
+                "name": "Inconceivable",
+                "url": "/topics/inconceivable"
+            },
+            {
+                "name": "Contain",
+                "url": "/topics/contain"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/reid_hoffman_850060?src=t_server",
+        "quote": "Trump often says he needs to keep his tax returns private until the IRS finishes auditing him. But the IRS itself has said this isn't necessary. And recently, Trump changed his tune, saying he'll release his returns as soon as Hillary Clinton releases the 33,000 emails she deleted from her email server.",
+        "author": {
+            "name": "Reid Hoffman",
+            "url": "/authors/reid_hoffman"
+        },
+        "topics": [
+            {
+                "name": "Release",
+                "url": "/topics/release"
+            },
+            {
+                "name": "Private",
+                "url": "/topics/private"
+            },
+            {
+                "name": "Trump",
+                "url": "/topics/trump"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/richard_stallman_655283?src=t_server",
+        "quote": "One reason you should not use web applications to do your computing is that you lose control. It's just as bad as using a proprietary program. Do your own computing on your own computer with your copy of a freedom-respecting program. If you use a proprietary program or somebody else's web server, you're defenceless.",
+        "author": {
+            "name": "Richard Stallman",
+            "url": "/authors/richard_stallman"
+        },
+        "topics": [
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            },
+            {
+                "name": "Reason",
+                "url": "/topics/reason"
+            },
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/richard_stallman_473477?src=t_server",
+        "quote": "In the US, you even lose legal rights if you store your data in a company's machines instead of your own. The police need to present you with a search warrant to get your data from you; but if they are stored in a company's server, the police can get it without showing you anything.",
+        "author": {
+            "name": "Richard Stallman",
+            "url": "/authors/richard_stallman"
+        },
+        "topics": [
+            {
+                "name": "Data",
+                "url": "/topics/data"
+            },
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            },
+            {
+                "name": "Your",
+                "url": "/topics/your"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kevin_mccarthy_721450?src=t_server",
+        "quote": "For restaurants that have a minimum gratuity charge on large groups, the IRS will now count those tips as regular wages rather than traditional tips that we are all familiar with when we dine out. Ask any server, and they will tell you that this will directly affect their day-to-day lifestyle.",
+        "author": {
+            "name": "Kevin McCarthy",
+            "url": "/authors/kevin_mccarthy"
+        },
+        "topics": [
+            {
+                "name": "Affect",
+                "url": "/topics/affect"
+            },
+            {
+                "name": "Rather",
+                "url": "/topics/rather"
+            },
+            {
+                "name": "Large Groups",
+                "url": "/topics/large_groups"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/chris_milk_748681?src=t_server",
+        "quote": "Web projects aren't done until I'm happy, or someone changes the password to the server. A formal release does not stop me from working on it more.",
+        "author": {
+            "name": "Chris Milk",
+            "url": "/authors/chris_milk"
+        },
+        "topics": [
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Release",
+                "url": "/topics/release"
+            },
+            {
+                "name": "Projects",
+                "url": "/topics/projects"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/blake_farenthold_766694?src=t_server",
+        "quote": "Hillary Clinton and her media machine try to dismiss, but anybody who understands anything about how email works - and this is millennials in particular, who grew up on the Internet - know that you're an idiot to keep sensitive information on a server in your house.",
+        "author": {
+            "name": "Blake Farenthold",
+            "url": "/authors/blake_farenthold"
+        },
+        "topics": [
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Works",
+                "url": "/topics/works"
+            },
+            {
+                "name": "Anybody",
+                "url": "/topics/anybody"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/scott_walker_714396?src=t_server",
+        "quote": "It's sad to think right now, but probably the Russian and Chinese government know more about Hillary Clinton's e-mail server than do the members of the United States Congress. And - and that has put our national security at risk.",
+        "author": {
+            "name": "Scott Walker",
+            "url": "/authors/scott_walker"
+        },
+        "topics": [
+            {
+                "name": "Congress",
+                "url": "/topics/congress"
+            },
+            {
+                "name": "United",
+                "url": "/topics/united"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_manafort_770938?src=t_server",
+        "quote": "The conversation we should be having is, what does Russia have from Hillary Clinton's server?",
+        "author": {
+            "name": "Paul Manafort",
+            "url": "/authors/paul_manafort"
+        },
+        "topics": [
+            {
+                "name": "Russia",
+                "url": "/topics/russia"
+            },
+            {
+                "name": "Having",
+                "url": "/topics/having"
+            },
+            {
+                "name": "Does",
+                "url": "/topics/does"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/russell_smith_640068?src=t_server",
+        "quote": "What I would love to see is art that explicitly addresses not personal intimacies but anonymous intimacies: the vast collections of facts about you and me that now exist in giant server banks.",
+        "author": {
+            "name": "Russell Smith",
+            "url": "/authors/russell_smith"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Explicitly",
+                "url": "/topics/explicitly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jack_dangermond_731740?src=t_server",
+        "quote": "Web GIS allows us to take our systems of record - our traditional server and desktop technologies - and integrate them, bringing them together into a system of systems.",
+        "author": {
+            "name": "Jack Dangermond",
+            "url": "/authors/jack_dangermond"
+        },
+        "topics": [
+            {
+                "name": "Them",
+                "url": "/topics/them"
+            },
+            {
+                "name": "Our",
+                "url": "/topics/our"
+            },
+            {
+                "name": "Integrate",
+                "url": "/topics/integrate"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ramez_naam_706077?src=t_server",
+        "quote": "I'm a geek through and through. My last job at Microsoft was leading much of the search engine relevance work on Bing. There we got to play with huge amounts of data, with neural networks and other AI techniques, with massive server farms.",
+        "author": {
+            "name": "Ramez Naam",
+            "url": "/authors/ramez_naam"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brad_thor_643500?src=t_server",
+        "quote": "Let me make this very clear: 24 hours a day, 7 days a week, our digital exhaust is being sucked up by the government. It is being compiled on big server farms and it's being analyzed by different computer programs, looking for any hint that you and I are up to no good.",
+        "author": {
+            "name": "Brad Thor",
+            "url": "/authors/brad_thor"
+        },
+        "topics": [
+            {
+                "name": "Week",
+                "url": "/topics/week"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/fred_ehrsam_851377?src=t_server",
+        "quote": "If you are going to store your e-wallet on your own server, don't keep your e-wallet on your desktop, and make sure you use encryption. If you lose your computer, your bitcoins are lost forever.",
+        "author": {
+            "name": "Fred Ehrsam",
+            "url": "/authors/fred_ehrsam"
+        },
+        "topics": [
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Sure",
+                "url": "/topics/sure"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ken_thompson_254865?src=t_server",
+        "quote": "The X server has to be the biggest program I've ever seen that doesn't do anything for you.",
+        "author": {
+            "name": "Ken Thompson",
+            "url": "/authors/ken_thompson"
+        },
+        "topics": [
+            {
+                "name": "Program",
+                "url": "/topics/program"
+            },
+            {
+                "name": "Ever",
+                "url": "/topics/ever"
+            },
+            {
+                "name": "Biggest",
+                "url": "/topics/biggest"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alex_stamos_894491?src=t_server",
+        "quote": "Almost every OS X server service offers weak or broken authentication mechanisms.",
+        "author": {
+            "name": "Alex Stamos",
+            "url": "/authors/alex_stamos"
+        },
+        "topics": [
+            {
+                "name": "Broken",
+                "url": "/topics/broken"
+            },
+            {
+                "name": "Almost",
+                "url": "/topics/almost"
+            },
+            {
+                "name": "Offers",
+                "url": "/topics/offers"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/cat_cora_442579?src=t_server",
+        "quote": "If eating out, order your meal and ask the server to wrap up half of the portion to take home with your for the next day, keeping your portion size in check, and stretching your dollar into two meals.",
+        "author": {
+            "name": "Cat Cora",
+            "url": "/authors/cat_cora"
+        },
+        "topics": [
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            },
+            {
+                "name": "Keeping",
+                "url": "/topics/keeping"
+            },
+            {
+                "name": "Half",
+                "url": "/topics/half"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/condola_rashad_762707?src=t_server",
+        "quote": "I had a period without acting work, and I took a job as a cocktail server. In 'Stick Fly,' my character has to carry a tray, and I knew how to do it because of the job.",
+        "author": {
+            "name": "Condola Rashad",
+            "url": "/authors/condola_rashad"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Period",
+                "url": "/topics/period"
+            },
+            {
+                "name": "Took",
+                "url": "/topics/took"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/peter_levine_895765?src=t_server",
+        "quote": "Doing processing locally has its advantages. For instance, the cost of an endpoint CPU and memory is a 1000x cheaper than the cost of CPU and memory in the server. And in many places around the world, connectivity and transmission costs are sometimes far more expensive than the device.",
+        "author": {
+            "name": "Peter Levine",
+            "url": "/authors/peter_levine"
+        },
+        "topics": [
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Cheaper",
+                "url": "/topics/cheaper"
+            },
+            {
+                "name": "Instance",
+                "url": "/topics/instance"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/shawn_fanning_333421?src=t_server",
+        "quote": "It was very early, and we were still like beta or alpha stage, and so we started receiving a ton of download. The server became overloaded, and that's when I realized that this had a huge market.",
+        "author": {
+            "name": "Shawn Fanning",
+            "url": "/authors/shawn_fanning"
+        },
+        "topics": [
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Became",
+                "url": "/topics/became"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jon_johansen_438920?src=t_server",
+        "quote": "I still haven't heard anything from Apple about my hacks. There is a tool based on my work reverse-engineering Apple's FairPlay called jhymn that's been hosted on a U.S. server for over a year and nothing has happened.",
+        "author": {
+            "name": "Jon Johansen",
+            "url": "/authors/jon_johansen"
+        },
+        "topics": [
+            {
+                "name": "Year",
+                "url": "/topics/year"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jon_johansen_438922?src=t_server",
+        "quote": "I took a job in the U.S. because I wanted to work on products that would get into end users' hands. In Norway, most of the jobs are in server software, niche stuff.",
+        "author": {
+            "name": "Jon Johansen",
+            "url": "/authors/jon_johansen"
+        },
+        "topics": [
+            {
+                "name": "Hands",
+                "url": "/topics/hands"
+            },
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "Took",
+                "url": "/topics/took"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/amy_hood_708804?src=t_server",
+        "quote": "In addition to transitioning to the cloud, our customers continue to invest in premium versions of our on-prem server products like Window Server, System Center and SQL Server.",
+        "author": {
+            "name": "Amy Hood",
+            "url": "/authors/amy_hood"
+        },
+        "topics": [
+            {
+                "name": "Invest",
+                "url": "/topics/invest"
+            },
+            {
+                "name": "Center",
+                "url": "/topics/center"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nat_friedman_204067?src=t_server",
+        "quote": "There are a lot of people who've been able to ditch their Windows machines and switch over to Linux because they can now use their Exchange server for calendaring and collaboration from their Linux desktop.",
+        "author": {
+            "name": "Nat Friedman",
+            "url": "/authors/nat_friedman"
+        },
+        "topics": [
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Ditch",
+                "url": "/topics/ditch"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_atkinson_725673?src=t_server",
+        "quote": "'PhotoCard' has 20 times as much code as the sum of 'QuickDraw,' 'MacPaint,' and 'HyperCard.' It is more elaborate and complicated, with all the client and server stuff. It took a lot more of me to do this than other projects, requiring an almost Mother Teresa dedication to do it.",
+        "author": {
+            "name": "Bill Atkinson",
+            "url": "/authors/bill_atkinson"
+        },
+        "topics": [
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Code",
+                "url": "/topics/code"
+            },
+            {
+                "name": "Elaborate",
+                "url": "/topics/elaborate"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_fowler_234820?src=t_server",
+        "quote": "Today, Web services is really about developing for the server. What it means to developers is any set of systems services that you make a Web service you to access by any kind of device with a highly interactive client, not just a browser.",
+        "author": {
+            "name": "John Fowler",
+            "url": "/authors/john_fowler"
+        },
+        "topics": [
+            {
+                "name": "Access",
+                "url": "/topics/access"
+            },
+            {
+                "name": "Means",
+                "url": "/topics/means"
+            },
+            {
+                "name": "Set",
+                "url": "/topics/set"
+            }
+        ]
+    }
+]

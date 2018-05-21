@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/martin_delany_135489",
+        "quote": "Every people should be originators of their own destiny.",
+        "author": {
+            "name": "Martin Delany",
+            "url": "/quotes/martin_delany_135489"
+        },
+        "topics": [
+            {
+                "name": "Destiny",
+                "url": "/topics/destiny"
+            },
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            },
+            {
+                "name": "Should",
+                "url": "/topics/should"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/martin_delany_390804",
+        "quote": "If we treated everyone we meet with the same affection we bestow upon our favorite cat, they, too, would purr.",
+        "author": {
+            "name": "Martin Delany",
+            "url": "/quotes/martin_delany_390804"
+        },
+        "topics": [
+            {
+                "name": "Everyone",
+                "url": "/topics/everyone"
+            },
+            {
+                "name": "Treated",
+                "url": "/topics/treated"
+            },
+            {
+                "name": "Bestow",
+                "url": "/topics/bestow"
+            }
+        ]
+    }
+]

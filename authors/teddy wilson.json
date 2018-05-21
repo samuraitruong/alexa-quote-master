@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/teddy_wilson_202669",
+        "quote": "When you hear a large symphony orchestra. for instance, in a concert hall, there's a big, sweeping sound that just doesn't get on to a record.",
+        "author": {
+            "name": "Teddy Wilson",
+            "url": "/quotes/teddy_wilson_202669"
+        },
+        "topics": [
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Large",
+                "url": "/topics/large"
+            },
+            {
+                "name": "Instance",
+                "url": "/topics/instance"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/teddy_wilson_202672",
+        "quote": "If it's enough money, I'll play the North Pole.",
+        "author": {
+            "name": "Teddy Wilson",
+            "url": "/quotes/teddy_wilson_202672"
+        },
+        "topics": [
+            {
+                "name": "Money",
+                "url": "/topics/money"
+            },
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "North",
+                "url": "/topics/north"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/teddy_wilson_202670",
+        "quote": "I'll play with a hundred pieces or do a solo job.",
+        "author": {
+            "name": "Teddy Wilson",
+            "url": "/quotes/teddy_wilson_202670"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Pieces",
+                "url": "/topics/pieces"
+            },
+            {
+                "name": "Hundred",
+                "url": "/topics/hundred"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/teddy_wilson_202671",
+        "quote": "Within reasonable limits, a professional player should keep busy at music.",
+        "author": {
+            "name": "Teddy Wilson",
+            "url": "/quotes/teddy_wilson_202671"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "Within",
+                "url": "/topics/within"
+            },
+            {
+                "name": "Reasonable",
+                "url": "/topics/reasonable"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/liam_aiken_564807",
+        "quote": "I've never really tried to copy anyone; I like to have my own style.",
+        "author": {
+            "name": "Liam Aiken",
+            "url": "/quotes/liam_aiken_564807"
+        },
+        "topics": [
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Tried",
+                "url": "/topics/tried"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/liam_aiken_654441",
+        "quote": "I hang out with the 'nerdy' people - they have a different sense of humor than most kids.",
+        "author": {
+            "name": "Liam Aiken",
+            "url": "/quotes/liam_aiken_654441"
+        },
+        "topics": [
+            {
+                "name": "Sense Of Humor",
+                "url": "/topics/sense_of_humor"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "Hang",
+                "url": "/topics/hang"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/liam_aiken_564806",
+        "quote": "Shortly after my dad died, my mom figured that if I could do a few commercials, I'd get a college fund.",
+        "author": {
+            "name": "Liam Aiken",
+            "url": "/quotes/liam_aiken_564806"
+        },
+        "topics": [
+            {
+                "name": "College",
+                "url": "/topics/college"
+            },
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            },
+            {
+                "name": "Dad",
+                "url": "/topics/dad"
+            }
+        ]
+    }
+]

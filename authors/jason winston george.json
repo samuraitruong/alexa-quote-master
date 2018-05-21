@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/jason_winston_george_563437",
+        "quote": "I'm that weird guy; I hate being told what to do.",
+        "author": {
+            "name": "Jason Winston George",
+            "url": "/quotes/jason_winston_george_563437"
+        },
+        "topics": [
+            {
+                "name": "Hate",
+                "url": "/topics/hate"
+            },
+            {
+                "name": "Weird",
+                "url": "/topics/weird"
+            },
+            {
+                "name": "Guy",
+                "url": "/topics/guy"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jason_winston_george_563435",
+        "quote": "I just want to work with the best people I can get my hands on.",
+        "author": {
+            "name": "Jason Winston George",
+            "url": "/quotes/jason_winston_george_563435"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Hands",
+                "url": "/topics/hands"
+            },
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jason_winston_george_563436",
+        "quote": "American television tends to move faster than European or U.K. television.",
+        "author": {
+            "name": "Jason Winston George",
+            "url": "/quotes/jason_winston_george_563436"
+        },
+        "topics": [
+            {
+                "name": "Television",
+                "url": "/topics/television"
+            },
+            {
+                "name": "Move",
+                "url": "/topics/move"
+            },
+            {
+                "name": "Faster",
+                "url": "/topics/faster"
+            }
+        ]
+    }
+]

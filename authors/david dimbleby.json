@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/david_dimbleby_400757",
+        "quote": "We're allowed to have had a private life before politics in which we make mistakes and do things we should not.",
+        "author": {
+            "name": "David Dimbleby",
+            "url": "/quotes/david_dimbleby_400757"
+        },
+        "topics": [
+            {
+                "name": "Politics",
+                "url": "/topics/politics"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Private",
+                "url": "/topics/private"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_dimbleby_400964",
+        "quote": "And there's the Victoria Memorial, built as a memorial to Victoria.",
+        "author": {
+            "name": "David Dimbleby",
+            "url": "/quotes/david_dimbleby_400964"
+        },
+        "topics": [
+            {
+                "name": "Memorial",
+                "url": "/topics/memorial"
+            },
+            {
+                "name": "Built",
+                "url": "/topics/built"
+            },
+            {
+                "name": "Victoria",
+                "url": "/topics/victoria"
+            }
+        ]
+    }
+]

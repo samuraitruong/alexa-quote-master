@@ -1,0 +1,420 @@
+[
+    {
+        "url": "/quotes/marvin_minsky_343275",
+        "quote": "There was a failure to recognize the deep problems in AI; for instance, those captured in Blocks World. The people building physical robots learned nothing.",
+        "author": {
+            "name": "Marvin Minsky",
+            "url": "/quotes/marvin_minsky_343275"
+        },
+        "topics": [
+            {
+                "name": "Deep",
+                "url": "/topics/deep"
+            },
+            {
+                "name": "Learned",
+                "url": "/topics/learned"
+            },
+            {
+                "name": "Instance",
+                "url": "/topics/instance"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marvin_minsky_343281",
+        "quote": "No computer has ever been designed that is ever aware of what it's doing; but most of the time, we aren't either.",
+        "author": {
+            "name": "Marvin Minsky",
+            "url": "/quotes/marvin_minsky_343281"
+        },
+        "topics": [
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "Aware",
+                "url": "/topics/aware"
+            },
+            {
+                "name": "Ever",
+                "url": "/topics/ever"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marvin_minsky_343279",
+        "quote": "Societies need rules that make no sense for individuals. For example, it makes no difference whether a single car drives on the left or on the right. But it makes all the difference when there are many cars!",
+        "author": {
+            "name": "Marvin Minsky",
+            "url": "/quotes/marvin_minsky_343279"
+        },
+        "topics": [
+            {
+                "name": "Car",
+                "url": "/topics/car"
+            },
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            },
+            {
+                "name": "No Sense",
+                "url": "/topics/no_sense"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marvin_minsky_343272",
+        "quote": "We wanted to solve robot problems and needed some vision, action, reasoning, planning, and so forth. We even used some structural learning, such as was being explored by Patrick Winston.",
+        "author": {
+            "name": "Marvin Minsky",
+            "url": "/quotes/marvin_minsky_343272"
+        },
+        "topics": [
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Reasoning",
+                "url": "/topics/reasoning"
+            },
+            {
+                "name": "Needed",
+                "url": "/topics/needed"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marvin_minsky_106398",
+        "quote": "You don't understand anything until you learn it more than one way.",
+        "author": {
+            "name": "Marvin Minsky",
+            "url": "/quotes/marvin_minsky_106398"
+        },
+        "topics": [
+            {
+                "name": "Learn",
+                "url": "/topics/learn"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "One Way",
+                "url": "/topics/one_way"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marvin_minsky_343276",
+        "quote": "There are three basic approaches to AI: Case-based, rule-based, and connectionist reasoning.",
+        "author": {
+            "name": "Marvin Minsky",
+            "url": "/quotes/marvin_minsky_343276"
+        },
+        "topics": [
+            {
+                "name": "Reasoning",
+                "url": "/topics/reasoning"
+            },
+            {
+                "name": "AI",
+                "url": "/topics/ai"
+            },
+            {
+                "name": "Approaches",
+                "url": "/topics/approaches"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marvin_minsky_343292",
+        "quote": "Around 1967 Dan Bobrow wrote a program to do algebra problems based on symbols rather than numbers.",
+        "author": {
+            "name": "Marvin Minsky",
+            "url": "/quotes/marvin_minsky_343292"
+        },
+        "topics": [
+            {
+                "name": "Rather",
+                "url": "/topics/rather"
+            },
+            {
+                "name": "Wrote",
+                "url": "/topics/wrote"
+            },
+            {
+                "name": "Based",
+                "url": "/topics/based"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marvin_minsky_343273",
+        "quote": "This is a tricky domain because, unlike simple arithmetic, to solve a calculus problem - and in particular to perform integration - you have to be smart about which integration technique should be used: integration by partial fractions, integration by parts, and so on.",
+        "author": {
+            "name": "Marvin Minsky",
+            "url": "/quotes/marvin_minsky_343273"
+        },
+        "topics": [
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Perform",
+                "url": "/topics/perform"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marvin_minsky_343282",
+        "quote": "Kubrick's vision seemed to be that humans are doomed, whereas Clarke's is that humans are moving on to a better stage of evolution.",
+        "author": {
+            "name": "Marvin Minsky",
+            "url": "/quotes/marvin_minsky_343282"
+        },
+        "topics": [
+            {
+                "name": "Moving On",
+                "url": "/topics/movingon"
+            },
+            {
+                "name": "Seemed",
+                "url": "/topics/seemed"
+            },
+            {
+                "name": "Kubrick",
+                "url": "/topics/kubrick"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marvin_minsky_343270",
+        "quote": "When David Marr at MIT moved into computer vision, he generated a lot of excitement, but he hit up against the problem of knowledge representation; he had no good representations for knowledge in his vision systems.",
+        "author": {
+            "name": "Marvin Minsky",
+            "url": "/quotes/marvin_minsky_343270"
+        },
+        "topics": [
+            {
+                "name": "Against",
+                "url": "/topics/against"
+            },
+            {
+                "name": "Had",
+                "url": "/topics/had"
+            },
+            {
+                "name": "Moved",
+                "url": "/topics/moved"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marvin_minsky_343277",
+        "quote": "The basic idea in case-based, or CBR, is that the program has stored problems and solutions. Then, when a new problem comes up, the program tries to find a similar problem in its database by finding analogous aspects between the problems.",
+        "author": {
+            "name": "Marvin Minsky",
+            "url": "/quotes/marvin_minsky_343277"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Similar",
+                "url": "/topics/similar"
+            },
+            {
+                "name": "Tries",
+                "url": "/topics/tries"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marvin_minsky_343278",
+        "quote": "Stanley Kubrick knew we had good graphics around MIT and came to my lab to find out how to do it. We had some really good stuff. I was very impressed with Kubrick; he knew all the graphics work I had ever heard of, and probably more.",
+        "author": {
+            "name": "Marvin Minsky",
+            "url": "/quotes/marvin_minsky_343278"
+        },
+        "topics": [
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Impressed",
+                "url": "/topics/impressed"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marvin_minsky_343280",
+        "quote": "Once when I was standing at the base, they started rotating the set and a big, heavy wrench fell down from the 12 o'clock position of the set, and got buried in the ground a few feet from me. I could have been killed!",
+        "author": {
+            "name": "Marvin Minsky",
+            "url": "/quotes/marvin_minsky_343280"
+        },
+        "topics": [
+            {
+                "name": "Feet",
+                "url": "/topics/feet"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Rotating",
+                "url": "/topics/rotating"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marvin_minsky_343283",
+        "quote": "In general we are least aware of what our minds do best.",
+        "author": {
+            "name": "Marvin Minsky",
+            "url": "/quotes/marvin_minsky_343283"
+        },
+        "topics": [
+            {
+                "name": "Minds",
+                "url": "/topics/minds"
+            },
+            {
+                "name": "General",
+                "url": "/topics/general"
+            },
+            {
+                "name": "Aware",
+                "url": "/topics/aware"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marvin_minsky_343284",
+        "quote": "If you just have a single problem to solve, then fine, go ahead and use a neural network. But if you want to do science and understand how to choose architectures, or how to go to a new problem, you have to understand what different architectures can and cannot do.",
+        "author": {
+            "name": "Marvin Minsky",
+            "url": "/quotes/marvin_minsky_343284"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Ahead",
+                "url": "/topics/ahead"
+            },
+            {
+                "name": "Neural",
+                "url": "/topics/neural"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marvin_minsky_343285",
+        "quote": "I think Lenat is headed in the right direction, but someone needs to include a knowledge base about learning.",
+        "author": {
+            "name": "Marvin Minsky",
+            "url": "/quotes/marvin_minsky_343285"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Needs",
+                "url": "/topics/needs"
+            },
+            {
+                "name": "Include",
+                "url": "/topics/include"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marvin_minsky_343288",
+        "quote": "I heard that the same thing occurred in a scene in Alien, where the creature pops out of the chest of a crewman. The other actors didn't know what was to happen; the director wanted to get true surprise.",
+        "author": {
+            "name": "Marvin Minsky",
+            "url": "/quotes/marvin_minsky_343288"
+        },
+        "topics": [
+            {
+                "name": "Surprise",
+                "url": "/topics/surprise"
+            },
+            {
+                "name": "Happen",
+                "url": "/topics/happen"
+            },
+            {
+                "name": "Chest",
+                "url": "/topics/chest"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marvin_minsky_343289",
+        "quote": "I believed in realism, as summarized by John McCarthy's comment to the effect that if we worked really hard, we'd have an intelligent system in from four to four hundred years.",
+        "author": {
+            "name": "Marvin Minsky",
+            "url": "/quotes/marvin_minsky_343289"
+        },
+        "topics": [
+            {
+                "name": "Realism",
+                "url": "/topics/realism"
+            },
+            {
+                "name": "Hundred",
+                "url": "/topics/hundred"
+            },
+            {
+                "name": "McCarthy",
+                "url": "/topics/mccarthy"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marvin_minsky_343291",
+        "quote": "By the way, it was his simulations that helped out in Jurassic Park - without them, there would have been only a few dinosaurs. Based on his techniques, Industrial Light and Magic could make whole herds of dinosaurs race across the screen.",
+        "author": {
+            "name": "Marvin Minsky",
+            "url": "/quotes/marvin_minsky_343291"
+        },
+        "topics": [
+            {
+                "name": "Magic",
+                "url": "/topics/magic"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Screen",
+                "url": "/topics/screen"
+            }
+        ]
+    }
+]

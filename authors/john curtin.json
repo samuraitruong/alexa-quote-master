@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/john_curtin_195438",
+        "quote": "The game is not lost - or won - until the last bell goes.",
+        "author": {
+            "name": "John Curtin",
+            "url": "/quotes/john_curtin_195438"
+        },
+        "topics": [
+            {
+                "name": "Game",
+                "url": "/topics/game"
+            },
+            {
+                "name": "Lost",
+                "url": "/topics/lost"
+            },
+            {
+                "name": "Last",
+                "url": "/topics/last"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_curtin_195435",
+        "quote": "If I liken the Pacific War to a football match, I can say to you that the first half is over, we have kicked off after the interval, and we are going to carry the ball into enemy territory for a smashing victory.",
+        "author": {
+            "name": "John Curtin",
+            "url": "/quotes/john_curtin_195435"
+        },
+        "topics": [
+            {
+                "name": "Enemy",
+                "url": "/topics/enemy"
+            },
+            {
+                "name": "I Can",
+                "url": "/topics/i_can"
+            },
+            {
+                "name": "Half",
+                "url": "/topics/half"
+            }
+        ]
+    }
+]

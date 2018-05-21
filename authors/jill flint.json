@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/jill_flint_665612",
+        "quote": "I am a fantastic nurse. I discovered this about myself, and I'm really fantastic about diagnosing things.",
+        "author": {
+            "name": "Jill Flint",
+            "url": "/quotes/jill_flint_665612"
+        },
+        "topics": [
+            {
+                "name": "Myself",
+                "url": "/topics/myself"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Discovered",
+                "url": "/topics/discovered"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jill_flint_665613",
+        "quote": "I tend to be hypercritical of my performances. That's why I hate watching them with people I know.",
+        "author": {
+            "name": "Jill Flint",
+            "url": "/quotes/jill_flint_665613"
+        },
+        "topics": [
+            {
+                "name": "Know",
+                "url": "/topics/know"
+            },
+            {
+                "name": "Why",
+                "url": "/topics/why"
+            },
+            {
+                "name": "Tend",
+                "url": "/topics/tend"
+            }
+        ]
+    }
+]

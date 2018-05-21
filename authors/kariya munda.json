@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/kariya_munda_692354",
+        "quote": "I am a common man. Why do I need security?",
+        "author": {
+            "name": "Kariya Munda",
+            "url": "/quotes/kariya_munda_692354"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Security",
+                "url": "/topics/security"
+            },
+            {
+                "name": "Common",
+                "url": "/topics/common"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kariya_munda_692353",
+        "quote": "I grow the vegetables my family eats. I grow enough, and we seldom buy from the market.",
+        "author": {
+            "name": "Kariya Munda",
+            "url": "/quotes/kariya_munda_692353"
+        },
+        "topics": [
+            {
+                "name": "Grow",
+                "url": "/topics/grow"
+            },
+            {
+                "name": "Market",
+                "url": "/topics/market"
+            },
+            {
+                "name": "Eats",
+                "url": "/topics/eats"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kariya_munda_692355",
+        "quote": "Definitely, a non-tribal can become chief minister in Jharkhand.",
+        "author": {
+            "name": "Kariya Munda",
+            "url": "/quotes/kariya_munda_692355"
+        },
+        "topics": [
+            {
+                "name": "Minister",
+                "url": "/topics/minister"
+            },
+            {
+                "name": "Chief",
+                "url": "/topics/chief"
+            },
+            {
+                "name": "Definitely",
+                "url": "/topics/definitely"
+            }
+        ]
+    }
+]

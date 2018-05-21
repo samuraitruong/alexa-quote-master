@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/dave_allison_404591",
+        "quote": "If we remain humble and hungry, we can win.",
+        "author": {
+            "name": "Dave Allison",
+            "url": "/quotes/dave_allison_404591"
+        },
+        "topics": [
+            {
+                "name": "Humble",
+                "url": "/topics/humble"
+            },
+            {
+                "name": "Hungry",
+                "url": "/topics/hungry"
+            },
+            {
+                "name": "Remain",
+                "url": "/topics/remain"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dave_allison_404596",
+        "quote": "Your best penalty killer is your goalie.",
+        "author": {
+            "name": "Dave Allison",
+            "url": "/quotes/dave_allison_404596"
+        },
+        "topics": [
+            {
+                "name": "Best",
+                "url": "/topics/best"
+            },
+            {
+                "name": "Your",
+                "url": "/topics/your"
+            },
+            {
+                "name": "Penalty",
+                "url": "/topics/penalty"
+            }
+        ]
+    }
+]

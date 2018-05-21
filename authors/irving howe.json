@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/irving_howe_114510",
+        "quote": "The knowledge that makes us cherish innocence makes innocence unattainable.",
+        "author": {
+            "name": "Irving Howe",
+            "url": "/quotes/irving_howe_114510"
+        },
+        "topics": [
+            {
+                "name": "Innocence",
+                "url": "/topics/innocence"
+            },
+            {
+                "name": "Unattainable",
+                "url": "/topics/unattainable"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/irving_howe_124564",
+        "quote": "Imagination is not something apart and hermetic, not a way of leaving reality behind; it is a way of engaging reality.",
+        "author": {
+            "name": "Irving Howe",
+            "url": "/quotes/irving_howe_124564"
+        },
+        "topics": [
+            {
+                "name": "Reality",
+                "url": "/topics/reality"
+            },
+            {
+                "name": "Behind",
+                "url": "/topics/behind"
+            },
+            {
+                "name": "Engaging",
+                "url": "/topics/engaging"
+            }
+        ]
+    }
+]

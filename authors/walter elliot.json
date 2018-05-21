@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/walter_elliot_190719",
+        "quote": "Perseverance is not a long race; it is many short races one after the other.",
+        "author": {
+            "name": "Walter Elliot",
+            "url": "/quotes/walter_elliot_190719"
+        },
+        "topics": [
+            {
+                "name": "Motivational",
+                "url": "/topics/motivational"
+            },
+            {
+                "name": "Race",
+                "url": "/topics/race"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/walter_elliot_190720",
+        "quote": "The desert has its holiness of silence, the crowd its holiness of conversation.",
+        "author": {
+            "name": "Walter Elliot",
+            "url": "/quotes/walter_elliot_190720"
+        },
+        "topics": [
+            {
+                "name": "Silence",
+                "url": "/topics/silence"
+            },
+            {
+                "name": "Desert",
+                "url": "/topics/desert"
+            },
+            {
+                "name": "Crowd",
+                "url": "/topics/crowd"
+            }
+        ]
+    }
+]

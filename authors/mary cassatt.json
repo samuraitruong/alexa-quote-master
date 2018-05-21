@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/mary_cassatt_221234",
+        "quote": "I think that if you shake the tree, you ought to be around when the fruit falls to pick it up.",
+        "author": {
+            "name": "Mary Cassatt",
+            "url": "/quotes/mary_cassatt_221234"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Shake",
+                "url": "/topics/shake"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mary_cassatt_221235",
+        "quote": "I used to go and flatten my nose against that window and absorb all I could of his art. It changed my life. I saw art then as I wanted to see it.",
+        "author": {
+            "name": "Mary Cassatt",
+            "url": "/quotes/mary_cassatt_221235"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Nose",
+                "url": "/topics/nose"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mary_cassatt_221232",
+        "quote": "Why do people so love to wander? I think the civilized parts of the World will suffice for me in the future.",
+        "author": {
+            "name": "Mary Cassatt",
+            "url": "/quotes/mary_cassatt_221232"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Civilized",
+                "url": "/topics/civilized"
+            }
+        ]
+    }
+]

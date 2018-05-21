@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/mitzi_gaynor_605624",
+        "quote": "It's hard to talk about yourself onstage and be sincere about it.",
+        "author": {
+            "name": "Mitzi Gaynor",
+            "url": "/quotes/mitzi_gaynor_605624"
+        },
+        "topics": [
+            {
+                "name": "Yourself",
+                "url": "/topics/yourself"
+            },
+            {
+                "name": "Talk",
+                "url": "/topics/talk"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mitzi_gaynor_605625",
+        "quote": "When my husband died in 2006, I didn't want to be Mitzi Gaynor anymore.",
+        "author": {
+            "name": "Mitzi Gaynor",
+            "url": "/quotes/mitzi_gaynor_605625"
+        },
+        "topics": [
+            {
+                "name": "Husband",
+                "url": "/topics/husband"
+            },
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Died",
+                "url": "/topics/died"
+            }
+        ]
+    }
+]

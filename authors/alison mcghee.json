@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/alison_mcghee_521841",
+        "quote": "I like to write in all different genres. I just like a new challenge.",
+        "author": {
+            "name": "Alison McGhee",
+            "url": "/quotes/alison_mcghee_521841"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Genres",
+                "url": "/topics/genres"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alison_mcghee_521842",
+        "quote": "I suppose, the natural outgrowth about writing about two friends, it becomes about their friendship, and the complexities of it, and the way personality plays off each other, and what they each like to do, separately and together.",
+        "author": {
+            "name": "Alison McGhee",
+            "url": "/quotes/alison_mcghee_521842"
+        },
+        "topics": [
+            {
+                "name": "Friendship",
+                "url": "/topics/friendship"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Plays",
+                "url": "/topics/plays"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alison_mcghee_521843",
+        "quote": "It's very cool to be short, very cool. When I was in eighth grade, and the height I am now, I would just look at the cute little short girls and think, 'If only, if only.'",
+        "author": {
+            "name": "Alison McGhee",
+            "url": "/quotes/alison_mcghee_521843"
+        },
+        "topics": [
+            {
+                "name": "Cool",
+                "url": "/topics/cool"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alison_mcghee_521844",
+        "quote": "I'm a big State Fair person, and my main goal is to eat as much food as possible, but I tend not to do the foods on a stick. But I like Big Fat Bacon.",
+        "author": {
+            "name": "Alison McGhee",
+            "url": "/quotes/alison_mcghee_521844"
+        },
+        "topics": [
+            {
+                "name": "Goal",
+                "url": "/topics/goal"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Foods",
+                "url": "/topics/foods"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alison_mcghee_521845",
+        "quote": "Walk slowly; all you can ever come to is yourself.",
+        "author": {
+            "name": "Alison McGhee",
+            "url": "/quotes/alison_mcghee_521845"
+        },
+        "topics": [
+            {
+                "name": "Yourself",
+                "url": "/topics/yourself"
+            },
+            {
+                "name": "Come",
+                "url": "/topics/come"
+            },
+            {
+                "name": "Ever",
+                "url": "/topics/ever"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/alfred_werner_724556",
+        "quote": "With the assistance of electrical conductivity, we were able to trace by measurements the process of intercalation in a large number of cases and, consequently, to establish experimental foundations for the evaluation of the formation of such intercalation compounds.",
+        "author": {
+            "name": "Alfred Werner",
+            "url": "/quotes/alfred_werner_724556"
+        },
+        "topics": [
+            {
+                "name": "Process",
+                "url": "/topics/process"
+            },
+            {
+                "name": "Large",
+                "url": "/topics/large"
+            },
+            {
+                "name": "Cases",
+                "url": "/topics/cases"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alfred_werner_724554",
+        "quote": "I started my scientific work by putting forward a hypothesis on the arrangement of atoms in nitrogen-containing molecules.",
+        "author": {
+            "name": "Alfred Werner",
+            "url": "/quotes/alfred_werner_724554"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Putting",
+                "url": "/topics/putting"
+            },
+            {
+                "name": "Arrangement",
+                "url": "/topics/arrangement"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alfred_werner_724555",
+        "quote": "Even when they are saturated in the sense of the older theory of valence, the elementary atoms still possess sufficient chemical affinity to bind other seemingly also saturated atoms and groups of atoms, under generation of clearly defined atomic bonds.",
+        "author": {
+            "name": "Alfred Werner",
+            "url": "/quotes/alfred_werner_724555"
+        },
+        "topics": [
+            {
+                "name": "Bonds",
+                "url": "/topics/bonds"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Clearly",
+                "url": "/topics/clearly"
+            }
+        ]
+    }
+]

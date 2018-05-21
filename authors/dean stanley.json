@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/dean_stanley_190811",
+        "quote": "The true call of a Christian is not to do extraordinary things, but to do ordinary things in an extraordinary way.",
+        "author": {
+            "name": "Dean Stanley",
+            "url": "/quotes/dean_stanley_190811"
+        },
+        "topics": [
+            {
+                "name": "True",
+                "url": "/topics/true"
+            },
+            {
+                "name": "Extraordinary",
+                "url": "/topics/extraordinary"
+            },
+            {
+                "name": "Call",
+                "url": "/topics/call"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dean_stanley_190813",
+        "quote": "I have looked on scenery as a strange and on scenery more grand, but on scenery at once so strange and so grand I have never looked and probably never shall again.",
+        "author": {
+            "name": "Dean Stanley",
+            "url": "/quotes/dean_stanley_190813"
+        },
+        "topics": [
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Looked",
+                "url": "/topics/looked"
+            },
+            {
+                "name": "Once",
+                "url": "/topics/once"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dean_stanley_190812",
+        "quote": "We must never throw away a bushel of truth because it happens to contain a few grains of chaff.",
+        "author": {
+            "name": "Dean Stanley",
+            "url": "/quotes/dean_stanley_190812"
+        },
+        "topics": [
+            {
+                "name": "Truth",
+                "url": "/topics/truth"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            }
+        ]
+    }
+]

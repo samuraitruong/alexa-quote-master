@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/john_flavel_399277",
+        "quote": "Man's extremity is God's opportunity.",
+        "author": {
+            "name": "John Flavel",
+            "url": "/quotes/john_flavel_399277"
+        },
+        "topics": [
+            {
+                "name": "God",
+                "url": "/topics/god"
+            },
+            {
+                "name": "Opportunity",
+                "url": "/topics/opportunity"
+            },
+            {
+                "name": "Man",
+                "url": "/topics/man"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_flavel_405252",
+        "quote": "Brethren, it is easier to declaim against a thousand sins of others, than to mortify one sin in ourselves.",
+        "author": {
+            "name": "John Flavel",
+            "url": "/quotes/john_flavel_405252"
+        },
+        "topics": [
+            {
+                "name": "Against",
+                "url": "/topics/against"
+            },
+            {
+                "name": "Brethren",
+                "url": "/topics/brethren"
+            },
+            {
+                "name": "Mortify",
+                "url": "/topics/mortify"
+            }
+        ]
+    }
+]

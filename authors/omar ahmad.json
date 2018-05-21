@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/omar_ahmad_643128",
+        "quote": "We live in a digital world, but we're fairly analog creatures.",
+        "author": {
+            "name": "Omar Ahmad",
+            "url": "/quotes/omar_ahmad_643128"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Digital",
+                "url": "/topics/digital"
+            },
+            {
+                "name": "Analog",
+                "url": "/topics/analog"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/omar_ahmad_643126",
+        "quote": "One of the things that defines a TEDster is you've taken your passion, and you've turned it into stewardship. You actually put action to the issues you care about.",
+        "author": {
+            "name": "Omar Ahmad",
+            "url": "/quotes/omar_ahmad_643126"
+        },
+        "topics": [
+            {
+                "name": "Turned",
+                "url": "/topics/turned"
+            },
+            {
+                "name": "One Of The Things",
+                "url": "/topics/one_of_the_things"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/omar_ahmad_643129",
+        "quote": "Letters actually work. Even the top dog himself takes time every day to read 10 letters that are picked out by staff. I can tell you that every official that I've ever worked with will tell you about the letters they get and what they mean.",
+        "author": {
+            "name": "Omar Ahmad",
+            "url": "/quotes/omar_ahmad_643129"
+        },
+        "topics": [
+            {
+                "name": "Every Day",
+                "url": "/topics/every_day"
+            },
+            {
+                "name": "Tell",
+                "url": "/topics/tell"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/omar_ahmad_643127",
+        "quote": "When you start to think about politicians, you've got to realize these are strange creatures. Other than the fact that they can't tell directions, and they have very strange breeding habits, how do you actually work with these things?",
+        "author": {
+            "name": "Omar Ahmad",
+            "url": "/quotes/omar_ahmad_643127"
+        },
+        "topics": [
+            {
+                "name": "Habits",
+                "url": "/topics/habits"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    }
+]

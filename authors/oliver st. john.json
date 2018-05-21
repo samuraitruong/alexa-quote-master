@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/oliver_st_john_234634",
+        "quote": "If a queen bee were crossed with a Friesian bull, would not the land flow with milk and honey?",
+        "author": {
+            "name": "Oliver St. John",
+            "url": "/quotes/oliver_st_john_234634"
+        },
+        "topics": [
+            {
+                "name": "Queen",
+                "url": "/topics/queen"
+            },
+            {
+                "name": "Bee",
+                "url": "/topics/bee"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/oliver_st_john_234633",
+        "quote": "Politics is the chloroform of the Irish people, or rather the hashish.",
+        "author": {
+            "name": "Oliver St. John",
+            "url": "/quotes/oliver_st_john_234633"
+        },
+        "topics": [
+            {
+                "name": "Politics",
+                "url": "/topics/politics"
+            },
+            {
+                "name": "Irish",
+                "url": "/topics/irish"
+            },
+            {
+                "name": "Rather",
+                "url": "/topics/rather"
+            }
+        ]
+    }
+]

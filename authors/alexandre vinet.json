@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/alexandre_vinet_190293",
+        "quote": "God has never ceased to be the one true aim of all right human aspirations.",
+        "author": {
+            "name": "Alexandre Vinet",
+            "url": "/quotes/alexandre_vinet_190293"
+        },
+        "topics": [
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Aim",
+                "url": "/topics/aim"
+            },
+            {
+                "name": "Aspirations",
+                "url": "/topics/aspirations"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alexandre_vinet_190294",
+        "quote": "Resignation is the courage of Christian sorrow.",
+        "author": {
+            "name": "Alexandre Vinet",
+            "url": "/quotes/alexandre_vinet_190294"
+        },
+        "topics": [
+            {
+                "name": "Christian",
+                "url": "/topics/christian"
+            },
+            {
+                "name": "Resignation",
+                "url": "/topics/resignation"
+            }
+        ]
+    }
+]

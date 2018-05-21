@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/home_run_baker_621367",
+        "quote": "It's better to get a rosebud while you're alive than a whole bouquet after you're dead.",
+        "author": {
+            "name": "Home Run Baker",
+            "url": "/quotes/home_run_baker_621367"
+        },
+        "topics": [
+            {
+                "name": "Better",
+                "url": "/topics/better"
+            },
+            {
+                "name": "Alive",
+                "url": "/topics/alive"
+            },
+            {
+                "name": "Get",
+                "url": "/topics/get"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/home_run_baker_621366",
+        "quote": "The farmer doesn't care for the pitchers' battle that resolves itself into a checkers game. The farmer loves the dramatic, and slugging is more dramatic than even the cleverest pitching.",
+        "author": {
+            "name": "Home Run Baker",
+            "url": "/quotes/home_run_baker_621366"
+        },
+        "topics": [
+            {
+                "name": "Game",
+                "url": "/topics/game"
+            },
+            {
+                "name": "Checkers",
+                "url": "/topics/checkers"
+            },
+            {
+                "name": "Pitchers",
+                "url": "/topics/pitchers"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/home_run_baker_621368",
+        "quote": "I hope I never do anything to hurt baseball.",
+        "author": {
+            "name": "Home Run Baker",
+            "url": "/quotes/home_run_baker_621368"
+        },
+        "topics": [
+            {
+                "name": "Hope",
+                "url": "/topics/hope"
+            },
+            {
+                "name": "Baseball",
+                "url": "/topics/baseball"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            }
+        ]
+    }
+]

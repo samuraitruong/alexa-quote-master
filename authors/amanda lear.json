@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/amanda_lear_197844",
+        "quote": "I hate to spread rumours, but what else can one do with them?",
+        "author": {
+            "name": "Amanda Lear",
+            "url": "/quotes/amanda_lear_197844"
+        },
+        "topics": [
+            {
+                "name": "Hate",
+                "url": "/topics/hate"
+            },
+            {
+                "name": "Rumours",
+                "url": "/topics/rumours"
+            },
+            {
+                "name": "Else",
+                "url": "/topics/else"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/amanda_lear_281240",
+        "quote": "I am not interested in releasing best of stuff and I have not given my permission. You release best of packages when you're a has-been and have nothing new to offer.",
+        "author": {
+            "name": "Amanda Lear",
+            "url": "/quotes/amanda_lear_281240"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Given",
+                "url": "/topics/given"
+            },
+            {
+                "name": "Has-Been",
+                "url": "/topics/has-been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/amanda_lear_281242",
+        "quote": "I've tried to tell a story. For me, it is the best one.",
+        "author": {
+            "name": "Amanda Lear",
+            "url": "/quotes/amanda_lear_281242"
+        },
+        "topics": [
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Tell",
+                "url": "/topics/tell"
+            },
+            {
+                "name": "Tried",
+                "url": "/topics/tried"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/amanda_lear_281243",
+        "quote": "My talk show takes place in bed, in Italy.",
+        "author": {
+            "name": "Amanda Lear",
+            "url": "/quotes/amanda_lear_281243"
+        },
+        "topics": [
+            {
+                "name": "Bed",
+                "url": "/topics/bed"
+            },
+            {
+                "name": "Talk",
+                "url": "/topics/talk"
+            },
+            {
+                "name": "Show",
+                "url": "/topics/show"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/amanda_lear_508357",
+        "quote": "There is nothing the pop world loves more than a way-out freak.",
+        "author": {
+            "name": "Amanda Lear",
+            "url": "/quotes/amanda_lear_508357"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Freak",
+                "url": "/topics/freak"
+            },
+            {
+                "name": "Pop",
+                "url": "/topics/pop"
+            }
+        ]
+    }
+]

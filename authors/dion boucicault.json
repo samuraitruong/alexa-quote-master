@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/dion_boucicault_104442",
+        "quote": "Men talk of killing time, while time quietly kills them.",
+        "author": {
+            "name": "Dion Boucicault",
+            "url": "/quotes/dion_boucicault_104442"
+        },
+        "topics": [
+            {
+                "name": "Time",
+                "url": "/topics/time"
+            },
+            {
+                "name": "Men",
+                "url": "/topics/men"
+            },
+            {
+                "name": "Talk",
+                "url": "/topics/talk"
+            }
+        ]
+    }
+]

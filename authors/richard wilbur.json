@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/richard_wilbur_105631",
+        "quote": "What is the opposite of two? A lonely me, a lonely you.",
+        "author": {
+            "name": "Richard Wilbur",
+            "url": "/quotes/richard_wilbur_105631"
+        },
+        "topics": [
+            {
+                "name": "Lonely",
+                "url": "/topics/lonely"
+            },
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Opposite",
+                "url": "/topics/opposite"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/richard_wilbur_112803",
+        "quote": "To this congress the poet speaks not of peculiar and personal things, but of what in himself is most common, most anonymous, most fundamental, most true of all men.",
+        "author": {
+            "name": "Richard Wilbur",
+            "url": "/quotes/richard_wilbur_112803"
+        },
+        "topics": [
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "Congress",
+                "url": "/topics/congress"
+            },
+            {
+                "name": "Fundamental",
+                "url": "/topics/fundamental"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/richard_wilbur_112802",
+        "quote": "It is true that the poet does not directly address his neighbors; but he does address a great congress of persons who dwell at the back of his mind, a congress of all those who have taught him and whom he has admired; they constitute his ideal audience and his better self.",
+        "author": {
+            "name": "Richard Wilbur",
+            "url": "/quotes/richard_wilbur_112802"
+        },
+        "topics": [
+            {
+                "name": "Back",
+                "url": "/topics/back"
+            },
+            {
+                "name": "Dwell",
+                "url": "/topics/dwell"
+            },
+            {
+                "name": "Congress",
+                "url": "/topics/congress"
+            }
+        ]
+    }
+]

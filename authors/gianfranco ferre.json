@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/gianfranco_ferre_438834",
+        "quote": "The design of a dress, furniture, a house, a room, a street and a city are all the same process.",
+        "author": {
+            "name": "Gianfranco Ferre",
+            "url": "/quotes/gianfranco_ferre_438834"
+        },
+        "topics": [
+            {
+                "name": "Dress",
+                "url": "/topics/dress"
+            },
+            {
+                "name": "Process",
+                "url": "/topics/process"
+            },
+            {
+                "name": "Same",
+                "url": "/topics/same"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gianfranco_ferre_438835",
+        "quote": "As an architect, I learned to think and express myself on flat forms, on paper, and to imagine the contour of the lines of a design.",
+        "author": {
+            "name": "Gianfranco Ferre",
+            "url": "/quotes/gianfranco_ferre_438835"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Learned",
+                "url": "/topics/learned"
+            },
+            {
+                "name": "Imagine",
+                "url": "/topics/imagine"
+            }
+        ]
+    }
+]

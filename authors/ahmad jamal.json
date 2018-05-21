@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/ahmad_jamal_228321",
+        "quote": "I would like to be a scholar in whatever I do, a scholar is never finished, he is always seeking and I am always seeking.",
+        "author": {
+            "name": "Ahmad Jamal",
+            "url": "/quotes/ahmad_jamal_228321"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ahmad_jamal_228323",
+        "quote": "You've got a big, big problem if you get caught up in what people say. If you're gonna live for what people say, you might as well lay down and forget it. Because it doesn't work that way.",
+        "author": {
+            "name": "Ahmad Jamal",
+            "url": "/quotes/ahmad_jamal_228323"
+        },
+        "topics": [
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Caught",
+                "url": "/topics/caught"
+            },
+            {
+                "name": "Lay",
+                "url": "/topics/lay"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ahmad_jamal_228324",
+        "quote": "The quickest way to become troubled is to be concerned with what people are gonna say about your life and your work.",
+        "author": {
+            "name": "Ahmad Jamal",
+            "url": "/quotes/ahmad_jamal_228324"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Gonna",
+                "url": "/topics/gonna"
+            },
+            {
+                "name": "Concerned",
+                "url": "/topics/concerned"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ahmad_jamal_228325",
+        "quote": "Many fail to realize this great recording industry was built by so-called jazz artists. And at the other end of the spectrum, a base in European classical music as well.",
+        "author": {
+            "name": "Ahmad Jamal",
+            "url": "/quotes/ahmad_jamal_228325"
+        },
+        "topics": [
+            {
+                "name": "Jazz",
+                "url": "/topics/jazz"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Built",
+                "url": "/topics/built"
+            }
+        ]
+    }
+]

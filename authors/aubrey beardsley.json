@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/aubrey_beardsley_190396",
+        "quote": "No language is rude that can boast polite writers.",
+        "author": {
+            "name": "Aubrey Beardsley",
+            "url": "/quotes/aubrey_beardsley_190396"
+        },
+        "topics": [
+            {
+                "name": "Language",
+                "url": "/topics/language"
+            },
+            {
+                "name": "Rude",
+                "url": "/topics/rude"
+            },
+            {
+                "name": "Polite",
+                "url": "/topics/polite"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/aubrey_beardsley_689509",
+        "quote": "If I am not grotesque, I am nothing.",
+        "author": {
+            "name": "Aubrey Beardsley",
+            "url": "/quotes/aubrey_beardsley_689509"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            },
+            {
+                "name": "Grotesque",
+                "url": "/topics/grotesque"
+            }
+        ]
+    }
+]

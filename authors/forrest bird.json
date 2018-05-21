@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/forrest_bird_739292",
+        "quote": "My daddy was a World War I pilot, and I just wanted to be able to fly like he did.",
+        "author": {
+            "name": "Forrest Bird",
+            "url": "/quotes/forrest_bird_739292"
+        },
+        "topics": [
+            {
+                "name": "World War I",
+                "url": "/topics/world_war_i"
+            },
+            {
+                "name": "Pilot",
+                "url": "/topics/pilot"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/forrest_bird_739293",
+        "quote": "I work as if I were going to be the next person to need a respirator. I share in the benefits I bestow on others, and my work has enriched my life.",
+        "author": {
+            "name": "Forrest Bird",
+            "url": "/quotes/forrest_bird_739293"
+        },
+        "topics": [
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            },
+            {
+                "name": "Benefits",
+                "url": "/topics/benefits"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/forrest_bird_739294",
+        "quote": "In the human lung, there are millions of air foils, just like aeroplane wings, which facilitate normal breathing.",
+        "author": {
+            "name": "Forrest Bird",
+            "url": "/quotes/forrest_bird_739294"
+        },
+        "topics": [
+            {
+                "name": "Normal",
+                "url": "/topics/normal"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Facilitate",
+                "url": "/topics/facilitate"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/heinz_fischer_168146",
+        "quote": "I declare myself an Austrian and a European. A united Europe will be a peaceful Europe.",
+        "author": {
+            "name": "Heinz Fischer",
+            "url": "/quotes/heinz_fischer_168146"
+        },
+        "topics": [
+            {
+                "name": "United",
+                "url": "/topics/united"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Declare",
+                "url": "/topics/declare"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/heinz_fischer_168149",
+        "quote": "We have all examined our past critically and are very much aware of even the unpleasant things. Now, we need to look at what we plan to do with the lessons we have learned from the past.",
+        "author": {
+            "name": "Heinz Fischer",
+            "url": "/quotes/heinz_fischer_168149"
+        },
+        "topics": [
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            },
+            {
+                "name": "Learned",
+                "url": "/topics/learned"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    }
+]

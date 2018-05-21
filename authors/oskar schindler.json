@@ -1,0 +1,130 @@
+[
+    {
+        "url": "/quotes/oskar_schindler_232603",
+        "quote": "If you saw a dog going to be crushed under a car, wouldn't you help him?",
+        "author": {
+            "name": "Oskar Schindler",
+            "url": "/quotes/oskar_schindler_232603"
+        },
+        "topics": [
+            {
+                "name": "Car",
+                "url": "/topics/car"
+            },
+            {
+                "name": "Help",
+                "url": "/topics/help"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/oskar_schindler_701894",
+        "quote": "We must differentiate between guilt and duty. The soldier on the front, like the common man, who does his duty everywhere, should not be held responsible for the actions of a few who also called themselves Germans.",
+        "author": {
+            "name": "Oskar Schindler",
+            "url": "/quotes/oskar_schindler_701894"
+        },
+        "topics": [
+            {
+                "name": "Guilt",
+                "url": "/topics/guilt"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Held",
+                "url": "/topics/held"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/oskar_schindler_232604",
+        "quote": "I was now resolved to do everything in my power to defeat the system.",
+        "author": {
+            "name": "Oskar Schindler",
+            "url": "/quotes/oskar_schindler_232604"
+        },
+        "topics": [
+            {
+                "name": "Power",
+                "url": "/topics/power"
+            },
+            {
+                "name": "Defeat",
+                "url": "/topics/defeat"
+            },
+            {
+                "name": "System",
+                "url": "/topics/system"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/oskar_schindler_701896",
+        "quote": "I thank my personal staff for their restless sacrifice for my work.",
+        "author": {
+            "name": "Oskar Schindler",
+            "url": "/quotes/oskar_schindler_701896"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Restless",
+                "url": "/topics/restless"
+            },
+            {
+                "name": "Thank",
+                "url": "/topics/thank"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/oskar_schindler_232605",
+        "quote": "Beyond this day, no thinking person could fail to see what would happen.",
+        "author": {
+            "name": "Oskar Schindler",
+            "url": "/quotes/oskar_schindler_232605"
+        },
+        "topics": [
+            {
+                "name": "See",
+                "url": "/topics/see"
+            },
+            {
+                "name": "Happen",
+                "url": "/topics/happen"
+            },
+            {
+                "name": "Fail",
+                "url": "/topics/fail"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/oskar_schindler_701895",
+        "quote": "The Schindler Jews were off-limits in Brunnlitz.",
+        "author": {
+            "name": "Oskar Schindler",
+            "url": "/quotes/oskar_schindler_701895"
+        },
+        "topics": [
+            {
+                "name": "Jews",
+                "url": "/topics/jews"
+            },
+            {
+                "name": "Were",
+                "url": "/topics/were"
+            }
+        ]
+    }
+]

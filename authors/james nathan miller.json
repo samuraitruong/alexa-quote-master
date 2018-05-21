@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/james_nathan_miller_388109",
+        "quote": "The only exercise I excel at is jumping to conclusions.",
+        "author": {
+            "name": "James Nathan Miller",
+            "url": "/quotes/james_nathan_miller_388109"
+        },
+        "topics": [
+            {
+                "name": "Conclusions",
+                "url": "/topics/conclusions"
+            },
+            {
+                "name": "Jumping",
+                "url": "/topics/jumping"
+            },
+            {
+                "name": "Excel",
+                "url": "/topics/excel"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_nathan_miller_172017",
+        "quote": "There is no such thing as a worthless conversation, provided you know what to listen for. And questions are the breath of life for a conversation.",
+        "author": {
+            "name": "James Nathan Miller",
+            "url": "/quotes/james_nathan_miller_172017"
+        },
+        "topics": [
+            {
+                "name": "Breath",
+                "url": "/topics/breath"
+            },
+            {
+                "name": "Worthless",
+                "url": "/topics/worthless"
+            },
+            {
+                "name": "Provided",
+                "url": "/topics/provided"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_nathan_miller_182988",
+        "quote": "Through his mastery of storytelling techniques, he has managed to separate his character, in the public mind, from his actions as president. He has, in short, mesmerized us with that steady gaze.",
+        "author": {
+            "name": "James Nathan Miller",
+            "url": "/quotes/james_nathan_miller_182988"
+        },
+        "topics": [
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Storytelling",
+                "url": "/topics/storytelling"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/willie_keeler_139850",
+        "quote": "I keep my eyes clear and I hit 'em where they ain't.",
+        "author": {
+            "name": "Willie Keeler",
+            "url": "/quotes/willie_keeler_139850"
+        },
+        "topics": [
+            {
+                "name": "Clear",
+                "url": "/topics/clear"
+            },
+            {
+                "name": "Hit",
+                "url": "/topics/hit"
+            },
+            {
+                "name": "Keep",
+                "url": "/topics/keep"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/willie_keeler_139851",
+        "quote": "Learn what pitch you can hit good; then wait for that pitch.",
+        "author": {
+            "name": "Willie Keeler",
+            "url": "/quotes/willie_keeler_139851"
+        },
+        "topics": [
+            {
+                "name": "Learn",
+                "url": "/topics/learn"
+            },
+            {
+                "name": "Wait",
+                "url": "/topics/wait"
+            },
+            {
+                "name": "Hit",
+                "url": "/topics/hit"
+            }
+        ]
+    }
+]

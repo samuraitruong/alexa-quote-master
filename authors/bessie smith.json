@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/bessie_smith_200304",
+        "quote": "I ain't good-lookin', but I'm somebody's angel child.",
+        "author": {
+            "name": "Bessie Smith",
+            "url": "/quotes/bessie_smith_200304"
+        },
+        "topics": [
+            {
+                "name": "Child",
+                "url": "/topics/child"
+            },
+            {
+                "name": "Angel",
+                "url": "/topics/angel"
+            },
+            {
+                "name": "Somebody",
+                "url": "/topics/somebody"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bessie_smith_200306",
+        "quote": "It's a long old road, but I know I'm gonna find the end.",
+        "author": {
+            "name": "Bessie Smith",
+            "url": "/quotes/bessie_smith_200306"
+        },
+        "topics": [
+            {
+                "name": "Road",
+                "url": "/topics/road"
+            },
+            {
+                "name": "Old",
+                "url": "/topics/old"
+            },
+            {
+                "name": "Gonna",
+                "url": "/topics/gonna"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bessie_smith_200308",
+        "quote": "No time to marry, no time to settle down; I'm a young woman, and I ain't done runnin' around.",
+        "author": {
+            "name": "Bessie Smith",
+            "url": "/quotes/bessie_smith_200308"
+        },
+        "topics": [
+            {
+                "name": "Woman",
+                "url": "/topics/woman"
+            },
+            {
+                "name": "Young",
+                "url": "/topics/young"
+            },
+            {
+                "name": "No Time",
+                "url": "/topics/no_time"
+            }
+        ]
+    }
+]

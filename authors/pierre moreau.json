@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/pierre_moreau_510431",
+        "quote": "There is no linguistic war in Montreal.",
+        "author": {
+            "name": "Pierre Moreau",
+            "url": "/quotes/pierre_moreau_510431"
+        },
+        "topics": [
+            {
+                "name": "War",
+                "url": "/topics/war"
+            },
+            {
+                "name": "Linguistic",
+                "url": "/topics/linguistic"
+            },
+            {
+                "name": "Montreal",
+                "url": "/topics/montreal"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/pierre_moreau_510428",
+        "quote": "There's no question in my mind that there's a problem with the funding of our universities here in Quebec.",
+        "author": {
+            "name": "Pierre Moreau",
+            "url": "/quotes/pierre_moreau_510428"
+        },
+        "topics": [
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            },
+            {
+                "name": "No Question",
+                "url": "/topics/no_question"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/pierre_moreau_510429",
+        "quote": "If a bank is robbed by one of its employees, do you think the bank is corrupt? I don't think so. I think it's a victim.",
+        "author": {
+            "name": "Pierre Moreau",
+            "url": "/quotes/pierre_moreau_510429"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Corrupt",
+                "url": "/topics/corrupt"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/pierre_moreau_510430",
+        "quote": "Make no mistake: one is not a better Quebecer because one speaks French. One is not less of a Quebecer because one speaks English. We all share the same rights.",
+        "author": {
+            "name": "Pierre Moreau",
+            "url": "/quotes/pierre_moreau_510430"
+        },
+        "topics": [
+            {
+                "name": "Mistake",
+                "url": "/topics/mistake"
+            },
+            {
+                "name": "Make No Mistake",
+                "url": "/topics/make_no_mistake"
+            }
+        ]
+    }
+]

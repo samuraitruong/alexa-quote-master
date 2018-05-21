@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/thomas_gold_221636",
+        "quote": "In choosing a hypothesis there is no virtue in being timid. I clearly would have been burned at the stake in another age.",
+        "author": {
+            "name": "Thomas Gold",
+            "url": "/quotes/thomas_gold_221636"
+        },
+        "topics": [
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Timid",
+                "url": "/topics/timid"
+            },
+            {
+                "name": "Another",
+                "url": "/topics/another"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_gold_221643",
+        "quote": "I wrote somewhere during the Cold War that I sometimes wish the Iron Curtain were much taller than it is, so that you could see whether the development of science with no communication was parallel on the two sides. In this case it certainly wasn't.",
+        "author": {
+            "name": "Thomas Gold",
+            "url": "/quotes/thomas_gold_221643"
+        },
+        "topics": [
+            {
+                "name": "Sometimes",
+                "url": "/topics/sometimes"
+            },
+            {
+                "name": "Cold",
+                "url": "/topics/cold"
+            },
+            {
+                "name": "Somewhere",
+                "url": "/topics/somewhere"
+            }
+        ]
+    }
+]

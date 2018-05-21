@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/alfred_day_hershey_264829",
+        "quote": "I can only point out a curious fact. Year after year the Nobel Awards bring a moment of happiness not only to the recipients, not only to colleagues and friends of the recipients, but even to strangers.",
+        "author": {
+            "name": "Alfred Day Hershey",
+            "url": "/quotes/alfred_day_hershey_264829"
+        },
+        "topics": [
+            {
+                "name": "Curious",
+                "url": "/topics/curious"
+            },
+            {
+                "name": "Year",
+                "url": "/topics/year"
+            },
+            {
+                "name": "Fact",
+                "url": "/topics/fact"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alfred_day_hershey_264830",
+        "quote": "Humans love truth and justice, and rejoice in ceremonies that honor those qualities. For that sentiment we should indeed thank God.",
+        "author": {
+            "name": "Alfred Day Hershey",
+            "url": "/quotes/alfred_day_hershey_264830"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Honor",
+                "url": "/topics/honor"
+            },
+            {
+                "name": "Sentiment",
+                "url": "/topics/sentiment"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alfred_day_hershey_264828",
+        "quote": "Actually, my correspondent's language is better than mine. He can put his sentiment into words.",
+        "author": {
+            "name": "Alfred Day Hershey",
+            "url": "/quotes/alfred_day_hershey_264828"
+        },
+        "topics": [
+            {
+                "name": "Words",
+                "url": "/topics/words"
+            },
+            {
+                "name": "Mine",
+                "url": "/topics/mine"
+            },
+            {
+                "name": "Sentiment",
+                "url": "/topics/sentiment"
+            }
+        ]
+    }
+]

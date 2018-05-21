@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/eddie_plank_621703",
+        "quote": "There are only so many pitches in this old arm, and I don't believe in wasting them throwing to first base.",
+        "author": {
+            "name": "Eddie Plank",
+            "url": "/quotes/eddie_plank_621703"
+        },
+        "topics": [
+            {
+                "name": "Old",
+                "url": "/topics/old"
+            },
+            {
+                "name": "Wasting",
+                "url": "/topics/wasting"
+            },
+            {
+                "name": "Them",
+                "url": "/topics/them"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eddie_plank_621704",
+        "quote": "I am through with baseball forever. I have my farm and my home and enough to take care of me, so why should I work and worry any longer?",
+        "author": {
+            "name": "Eddie Plank",
+            "url": "/quotes/eddie_plank_621704"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Worry",
+                "url": "/topics/worry"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            }
+        ]
+    }
+]

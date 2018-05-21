@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/irving_fisher_193089",
+        "quote": "The rate of interest acts as a link between income-value and capital-value.",
+        "author": {
+            "name": "Irving Fisher",
+            "url": "/quotes/irving_fisher_193089"
+        },
+        "topics": [
+            {
+                "name": "Finance",
+                "url": "/topics/finance"
+            },
+            {
+                "name": "Interest",
+                "url": "/topics/interest"
+            },
+            {
+                "name": "Rate",
+                "url": "/topics/rate"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/irving_fisher_193090",
+        "quote": "Stock prices have reached what looks like a permanently high plateau.",
+        "author": {
+            "name": "Irving Fisher",
+            "url": "/quotes/irving_fisher_193090"
+        },
+        "topics": [
+            {
+                "name": "Looks",
+                "url": "/topics/looks"
+            },
+            {
+                "name": "High",
+                "url": "/topics/high"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/john_the_apostle_567504",
+        "quote": "If a man say, 'I love God,' and hateth his brother, he is a liar: for he that loveth not his brother whom he hath seen, how can he love God whom he hath not seen? And this commandment have we from him, That he who loveth God love his brother also.",
+        "author": {
+            "name": "John the Apostle",
+            "url": "/quotes/john_the_apostle_567504"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Say",
+                "url": "/topics/say"
+            },
+            {
+                "name": "Also",
+                "url": "/topics/also"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_the_apostle_430115",
+        "quote": "Greater love has no one than this, than to lay down one's life for his friends.",
+        "author": {
+            "name": "John the Apostle",
+            "url": "/quotes/john_the_apostle_430115"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            },
+            {
+                "name": "Lay",
+                "url": "/topics/lay"
+            }
+        ]
+    }
+]

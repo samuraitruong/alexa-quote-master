@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/cliff_shaw_197281",
+        "quote": "It's the little things that count, hundreds of 'em.",
+        "author": {
+            "name": "Cliff Shaw",
+            "url": "/quotes/cliff_shaw_197281"
+        },
+        "topics": [
+            {
+                "name": "Little Things",
+                "url": "/topics/little_things"
+            },
+            {
+                "name": "Count",
+                "url": "/topics/count"
+            },
+            {
+                "name": "Things",
+                "url": "/topics/things"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/cliff_shaw_197282",
+        "quote": "To devise an information processing system capable of getting along on its own - it must handle its own problems of programming, bookkeeping, communication and coordination with its users. It must appear to its users as a single, integrated personality.",
+        "author": {
+            "name": "Cliff Shaw",
+            "url": "/quotes/cliff_shaw_197282"
+        },
+        "topics": [
+            {
+                "name": "Capable",
+                "url": "/topics/capable"
+            },
+            {
+                "name": "Handle",
+                "url": "/topics/handle"
+            },
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/cliff_shaw_197283",
+        "quote": "It must be able to assist in devising the method of solution of problems and not merely solve them.",
+        "author": {
+            "name": "Cliff Shaw",
+            "url": "/quotes/cliff_shaw_197283"
+        },
+        "topics": [
+            {
+                "name": "Solution",
+                "url": "/topics/solution"
+            },
+            {
+                "name": "Able",
+                "url": "/topics/able"
+            },
+            {
+                "name": "Method",
+                "url": "/topics/method"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/cliff_shaw_197284",
+        "quote": "The concepts of Joss are pure, and express attitudes and technical ideals.",
+        "author": {
+            "name": "Cliff Shaw",
+            "url": "/quotes/cliff_shaw_197284"
+        },
+        "topics": [
+            {
+                "name": "Ideals",
+                "url": "/topics/ideals"
+            },
+            {
+                "name": "Concepts",
+                "url": "/topics/concepts"
+            },
+            {
+                "name": "Technical",
+                "url": "/topics/technical"
+            }
+        ]
+    }
+]

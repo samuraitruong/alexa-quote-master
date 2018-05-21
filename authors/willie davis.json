@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/willie_davis_182846",
+        "quote": "The road to success runs uphill.",
+        "author": {
+            "name": "Willie Davis",
+            "url": "/quotes/willie_davis_182846"
+        },
+        "topics": [
+            {
+                "name": "Success",
+                "url": "/topics/success"
+            },
+            {
+                "name": "Road",
+                "url": "/topics/road"
+            },
+            {
+                "name": "Runs",
+                "url": "/topics/runs"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/willie_davis_106311",
+        "quote": "If you step on people in this life, you're going to come back as a cockroach.",
+        "author": {
+            "name": "Willie Davis",
+            "url": "/quotes/willie_davis_106311"
+        },
+        "topics": [
+            {
+                "name": "Back",
+                "url": "/topics/back"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Cockroach",
+                "url": "/topics/cockroach"
+            }
+        ]
+    }
+]

@@ -1,0 +1,174 @@
+[
+    {
+        "url": "/quotes/isaac_newton_384639?src=t_heavenly_bodies",
+        "quote": "I can calculate the motion of heavenly bodies, but not the madness of people.",
+        "author": {
+            "name": "Isaac Newton",
+            "url": "/authors/isaac_newton"
+        },
+        "topics": [
+            {
+                "name": "Madness",
+                "url": "/topics/madness"
+            },
+            {
+                "name": "Motion",
+                "url": "/topics/motion"
+            },
+            {
+                "name": "Bodies",
+                "url": "/topics/bodies"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/luanne_rice_691669?src=t_heavenly_bodies",
+        "quote": "'Little Night' has layers of meaning. There's something enchanted about night. All those heavenly bodies, shooting stars, the crescent moon, celestial phenomenon. Owls fly at night, and first kisses happen. Night is romantic. Alternately, darkness hides the worst of human behavior.",
+        "author": {
+            "name": "Luanne Rice",
+            "url": "/authors/luanne_rice"
+        },
+        "topics": [
+            {
+                "name": "Shooting",
+                "url": "/topics/shooting"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Bodies",
+                "url": "/topics/bodies"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nicolaus_copernicus_238360?src=t_heavenly_bodies",
+        "quote": "I can easily conceive, most Holy Father, that as soon as some people learn that in this book which I have written concerning the revolutions of the heavenly bodies, I ascribe certain motions to the Earth, they will cry out at once that I and my theory should be rejected.",
+        "author": {
+            "name": "Nicolaus Copernicus",
+            "url": "/authors/nicolaus_copernicus"
+        },
+        "topics": [
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Bodies",
+                "url": "/topics/bodies"
+            },
+            {
+                "name": "Rejected",
+                "url": "/topics/rejected"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nicolaus_copernicus_238364?src=t_heavenly_bodies",
+        "quote": "Therefore I would not have it unknown to Your Holiness, the the only thing which induced me to look for another way of reckoning the movements of the heavenly bodies was that I knew that mathematicians by no means agree in their investigation thereof.",
+        "author": {
+            "name": "Nicolaus Copernicus",
+            "url": "/authors/nicolaus_copernicus"
+        },
+        "topics": [
+            {
+                "name": "Bodies",
+                "url": "/topics/bodies"
+            },
+            {
+                "name": "The Only Thing",
+                "url": "/topics/the_only_thing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nicolaus_copernicus_238381?src=t_heavenly_bodies",
+        "quote": "I shall now recall to mind that the motion of the heavenly bodies is circular, since the motion appropriate to a sphere is rotation in a circle.",
+        "author": {
+            "name": "Nicolaus Copernicus",
+            "url": "/authors/nicolaus_copernicus"
+        },
+        "topics": [
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Motion",
+                "url": "/topics/motion"
+            },
+            {
+                "name": "Appropriate",
+                "url": "/topics/appropriate"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henry_wadsworth_longfello_151354?src=t_heavenly_bodies",
+        "quote": "Morality without religion is only a kind of dead reckoning - an endeavor to find our place on a cloudy sea by measuring the distance we have run, but without any observation of the heavenly bodies.",
+        "author": {
+            "name": "Henry Wadsworth Longfellow",
+            "url": "/authors/henry_wadsworth_longfello"
+        },
+        "topics": [
+            {
+                "name": "Distance",
+                "url": "/topics/distance"
+            },
+            {
+                "name": "Kind",
+                "url": "/topics/kind"
+            },
+            {
+                "name": "Measuring",
+                "url": "/topics/measuring"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ezra_taft_benson_611056?src=t_heavenly_bodies",
+        "quote": "The true scientist no longer attempts to disprove the pull of gravity, or the rotation of the earth, or the motion of heavenly bodies, or the sequence of the seasons, or man's need of food and water, or the function of the heart.",
+        "author": {
+            "name": "Ezra Taft Benson",
+            "url": "/authors/ezra_taft_benson"
+        },
+        "topics": [
+            {
+                "name": "Seasons",
+                "url": "/topics/seasons"
+            },
+            {
+                "name": "Motion",
+                "url": "/topics/motion"
+            },
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_phillips_bond_199339?src=t_heavenly_bodies",
+        "quote": "Until very recently, the heavenly bodies have been investigated only with reference to their position and their laws of motion, and a quarter of a century ago astronomy was little more than celestial topography.",
+        "author": {
+            "name": "George Phillips Bond",
+            "url": "/authors/george_phillips_bond"
+        },
+        "topics": [
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Laws",
+                "url": "/topics/laws"
+            }
+        ]
+    }
+]

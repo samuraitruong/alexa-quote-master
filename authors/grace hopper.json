@@ -1,0 +1,108 @@
+[
+    {
+        "url": "/quotes/grace_hopper_125849",
+        "quote": "A ship in port is safe, but that's not what ships are built for.",
+        "author": {
+            "name": "Grace Hopper",
+            "url": "/quotes/grace_hopper_125849"
+        },
+        "topics": [
+            {
+                "name": "Ships",
+                "url": "/topics/ships"
+            },
+            {
+                "name": "Port",
+                "url": "/topics/port"
+            },
+            {
+                "name": "Built",
+                "url": "/topics/built"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/grace_hopper_170166",
+        "quote": "It is often easier to ask for forgiveness than to ask for permission.",
+        "author": {
+            "name": "Grace Hopper",
+            "url": "/quotes/grace_hopper_170166"
+        },
+        "topics": [
+            {
+                "name": "Forgiveness",
+                "url": "/topics/forgiveness"
+            },
+            {
+                "name": "Ask",
+                "url": "/topics/ask"
+            },
+            {
+                "name": "Than",
+                "url": "/topics/than"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/grace_hopper_126420",
+        "quote": "If it's a good idea, go ahead and do it. It's much easier to apologize than it is to get permission.",
+        "author": {
+            "name": "Grace Hopper",
+            "url": "/quotes/grace_hopper_126420"
+        },
+        "topics": [
+            {
+                "name": "Ahead",
+                "url": "/topics/ahead"
+            },
+            {
+                "name": "Go",
+                "url": "/topics/go"
+            },
+            {
+                "name": "Idea",
+                "url": "/topics/idea"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/grace_hopper_599222",
+        "quote": "No computer is ever going to ask a new, reasonable question. It takes trained people to do that.",
+        "author": {
+            "name": "Grace Hopper",
+            "url": "/quotes/grace_hopper_599222"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Computer",
+                "url": "/topics/computer"
+            },
+            {
+                "name": "Ever",
+                "url": "/topics/ever"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/grace_hopper_114489",
+        "quote": "I handed my passport to the immigration officer, and he looked at it and looked at me and said, 'What are you?'",
+        "author": {
+            "name": "Grace Hopper",
+            "url": "/quotes/grace_hopper_114489"
+        },
+        "topics": [
+            {
+                "name": "Immigration",
+                "url": "/topics/immigration"
+            },
+            {
+                "name": "Passport",
+                "url": "/topics/passport"
+            }
+        ]
+    }
+]

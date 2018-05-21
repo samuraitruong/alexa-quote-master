@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/john_gilpin_221402",
+        "quote": "Usually bad guys are much more fun to play and much more interesting to watch.",
+        "author": {
+            "name": "John Gilpin",
+            "url": "/quotes/john_gilpin_221402"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            },
+            {
+                "name": "Watch",
+                "url": "/topics/watch"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_gilpin_221404",
+        "quote": "I didn't want to spend my life behind a desk.",
+        "author": {
+            "name": "John Gilpin",
+            "url": "/quotes/john_gilpin_221404"
+        },
+        "topics": [
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Behind",
+                "url": "/topics/behind"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_gilpin_221405",
+        "quote": "It's important to do research. I do that in every play, every actor does.",
+        "author": {
+            "name": "John Gilpin",
+            "url": "/quotes/john_gilpin_221405"
+        },
+        "topics": [
+            {
+                "name": "Important",
+                "url": "/topics/important"
+            },
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Actor",
+                "url": "/topics/actor"
+            }
+        ]
+    }
+]

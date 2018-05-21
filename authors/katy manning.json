@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/katy_manning_533823",
+        "quote": "Life doesn't get easier but it does get funnier.",
+        "author": {
+            "name": "Katy Manning",
+            "url": "/quotes/katy_manning_533823"
+        },
+        "topics": [
+            {
+                "name": "Funnier",
+                "url": "/topics/funnier"
+            },
+            {
+                "name": "Get",
+                "url": "/topics/get"
+            },
+            {
+                "name": "Does",
+                "url": "/topics/does"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/katy_manning_533824",
+        "quote": "I lose things all the time. I once left my mother's ashes at a bus stop!",
+        "author": {
+            "name": "Katy Manning",
+            "url": "/quotes/katy_manning_533824"
+        },
+        "topics": [
+            {
+                "name": "Mother",
+                "url": "/topics/mother"
+            },
+            {
+                "name": "Bus",
+                "url": "/topics/bus"
+            },
+            {
+                "name": "Stop",
+                "url": "/topics/stop"
+            }
+        ]
+    }
+]

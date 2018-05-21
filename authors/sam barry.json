@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/sam_barry_514984",
+        "quote": "I picked up a harmonica and taught myself.",
+        "author": {
+            "name": "Sam Barry",
+            "url": "/quotes/sam_barry_514984"
+        },
+        "topics": [
+            {
+                "name": "Taught",
+                "url": "/topics/taught"
+            },
+            {
+                "name": "Harmonica",
+                "url": "/topics/harmonica"
+            },
+            {
+                "name": "Picked",
+                "url": "/topics/picked"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sam_barry_514985",
+        "quote": "Music was in the air when I was growing up. My siblings Katy, Dave and Phil were musical; my dad worked in inner-city New York where a musical revolution was taking place - folk music, rock n' roll, gospel music. My sister taught me to sing. My brothers taught me to play.",
+        "author": {
+            "name": "Sam Barry",
+            "url": "/quotes/sam_barry_514985"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Brothers",
+                "url": "/topics/brothers"
+            },
+            {
+                "name": "Dave",
+                "url": "/topics/dave"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sam_barry_514986",
+        "quote": "I was a Presbyterian minister at a small church in Omaha, Nebraska.",
+        "author": {
+            "name": "Sam Barry",
+            "url": "/quotes/sam_barry_514986"
+        },
+        "topics": [
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Minister",
+                "url": "/topics/minister"
+            },
+            {
+                "name": "Omaha",
+                "url": "/topics/omaha"
+            }
+        ]
+    }
+]

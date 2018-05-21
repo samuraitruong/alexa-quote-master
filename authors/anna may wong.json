@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/anna_may_wong_229361",
+        "quote": "I'm Anna May Wong. I come from old Hong Kong. But now I'm a Hollywood star.",
+        "author": {
+            "name": "Anna May Wong",
+            "url": "/quotes/anna_may_wong_229361"
+        },
+        "topics": [
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Star",
+                "url": "/topics/star"
+            },
+            {
+                "name": "Hollywood",
+                "url": "/topics/hollywood"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/anna_may_wong_229362",
+        "quote": "I've come to the conclusion that everybody should marry, including me.",
+        "author": {
+            "name": "Anna May Wong",
+            "url": "/quotes/anna_may_wong_229362"
+        },
+        "topics": [
+            {
+                "name": "Everybody",
+                "url": "/topics/everybody"
+            },
+            {
+                "name": "Conclusion",
+                "url": "/topics/conclusion"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/anna_may_wong_229363",
+        "quote": "Every time your picture is taken, you lose a part of your soul.",
+        "author": {
+            "name": "Anna May Wong",
+            "url": "/quotes/anna_may_wong_229363"
+        },
+        "topics": [
+            {
+                "name": "Soul",
+                "url": "/topics/soul"
+            },
+            {
+                "name": "Lose",
+                "url": "/topics/lose"
+            },
+            {
+                "name": "Taken",
+                "url": "/topics/taken"
+            }
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/john_metcalf_202490",
+        "quote": "I wanted the press to become something of a movement. Not a movement committed to a particular 'ism', but a gathering together of writers with an aesthetic approach to literature and with a lust for excellence.",
+        "author": {
+            "name": "John Metcalf",
+            "url": "/quotes/john_metcalf_202490"
+        },
+        "topics": [
+            {
+                "name": "Aesthetic",
+                "url": "/topics/aesthetic"
+            },
+            {
+                "name": "Committed",
+                "url": "/topics/committed"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_metcalf_202491",
+        "quote": "Writers don't have to keep themselves honest. They have to keep themselves accurate.",
+        "author": {
+            "name": "John Metcalf",
+            "url": "/quotes/john_metcalf_202491"
+        },
+        "topics": [
+            {
+                "name": "Themselves",
+                "url": "/topics/themselves"
+            },
+            {
+                "name": "Keep",
+                "url": "/topics/keep"
+            },
+            {
+                "name": "Accurate",
+                "url": "/topics/accurate"
+            }
+        ]
+    }
+]

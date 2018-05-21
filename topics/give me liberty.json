@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/patrick_henry_161991?src=t_give_me_liberty",
+        "quote": "Give me liberty or give me death.",
+        "author": {
+            "name": "Patrick Henry",
+            "url": "/authors/patrick_henry"
+        },
+        "topics": [
+            {
+                "name": "Death",
+                "url": "/topics/death"
+            },
+            {
+                "name": "Liberty",
+                "url": "/topics/liberty"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/patrick_henry_101580?src=t_give_me_liberty",
+        "quote": "Is life so dear or peace so sweet as to be purchased at the price of chains and slavery? Forbid it, Almighty God! I know not what course others may take, but as for me, give me liberty, or give me death!",
+        "author": {
+            "name": "Patrick Henry",
+            "url": "/authors/patrick_henry"
+        },
+        "topics": [
+            {
+                "name": "Death",
+                "url": "/topics/death"
+            },
+            {
+                "name": "Patriotism",
+                "url": "/topics/patriotism"
+            },
+            {
+                "name": "Chains",
+                "url": "/topics/chains"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/colin_mochrie_410145?src=t_give_me_liberty",
+        "quote": "Give me liberty or give me a bran muffin!",
+        "author": {
+            "name": "Colin Mochrie",
+            "url": "/authors/colin_mochrie"
+        },
+        "topics": [
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Liberty",
+                "url": "/topics/liberty"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/colin_mochrie_410144?src=t_give_me_liberty",
+        "quote": "Give me liberty or a bran muffin!",
+        "author": {
+            "name": "Colin Mochrie",
+            "url": "/authors/colin_mochrie"
+        },
+        "topics": [
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Liberty",
+                "url": "/topics/liberty"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/david_valadao_644883",
+        "quote": "If Congress is unable to do its job and pass a federal budget, then I do not believe we should receive a salary.",
+        "author": {
+            "name": "David Valadao",
+            "url": "/quotes/david_valadao_644883"
+        },
+        "topics": [
+            {
+                "name": "Congress",
+                "url": "/topics/congress"
+            },
+            {
+                "name": "Pass",
+                "url": "/topics/pass"
+            },
+            {
+                "name": "Receive",
+                "url": "/topics/receive"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_valadao_644882",
+        "quote": "I'm happy to work with Democrats. After all, they have to represent their districts just as I have to represent mine.",
+        "author": {
+            "name": "David Valadao",
+            "url": "/quotes/david_valadao_644882"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Democrats",
+                "url": "/topics/democrats"
+            },
+            {
+                "name": "Mine",
+                "url": "/topics/mine"
+            }
+        ]
+    }
+]

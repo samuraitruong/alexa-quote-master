@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/alan_cox_177183",
+        "quote": "Everybody in the real world will agree - the moment a project is behind deadline, quality assurance tends to go out the window.",
+        "author": {
+            "name": "Alan Cox",
+            "url": "/quotes/alan_cox_177183"
+        },
+        "topics": [
+            {
+                "name": "Behind",
+                "url": "/topics/behind"
+            },
+            {
+                "name": "Everybody",
+                "url": "/topics/everybody"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alan_cox_177165",
+        "quote": "All software sucks.",
+        "author": {
+            "name": "Alan Cox",
+            "url": "/quotes/alan_cox_177165"
+        },
+        "topics": [
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "Sucks",
+                "url": "/topics/sucks"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alan_cox_177207",
+        "quote": "I figure lots of predictions is best. People will forget the ones I get wrong and marvel over the rest.",
+        "author": {
+            "name": "Alan Cox",
+            "url": "/quotes/alan_cox_177207"
+        },
+        "topics": [
+            {
+                "name": "Rest",
+                "url": "/topics/rest"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Figure",
+                "url": "/topics/figure"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alan_cox_177307",
+        "quote": "Live fast, die old, and make very sure everyone knows you were there.",
+        "author": {
+            "name": "Alan Cox",
+            "url": "/quotes/alan_cox_177307"
+        },
+        "topics": [
+            {
+                "name": "Fast",
+                "url": "/topics/fast"
+            },
+            {
+                "name": "Die",
+                "url": "/topics/die"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    }
+]

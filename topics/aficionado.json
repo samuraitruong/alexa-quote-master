@@ -1,0 +1,429 @@
+[
+    {
+        "url": "/quotes/john_cena_800401?src=t_aficionado",
+        "quote": "I'm a cigar aficionado.",
+        "author": {
+            "name": "John Cena",
+            "url": "/authors/john_cena"
+        },
+        "topics": []
+    },
+    {
+        "url": "/quotes/david_blunkett_672021?src=t_aficionado",
+        "quote": "I'm a great aficionado of history. I was deeply affected by seeing the disintegration of any chance of democracy coping with fascism in the Weimar republic, where woolly-minded, well-meaning liberalism actually allowed the forces of darkness to use democracy, to exploit democracy, to overturn democracy.",
+        "author": {
+            "name": "David Blunkett",
+            "url": "/authors/david_blunkett"
+        },
+        "topics": [
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            },
+            {
+                "name": "Republic",
+                "url": "/topics/republic"
+            },
+            {
+                "name": "Allowed",
+                "url": "/topics/allowed"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marc_andreessen_419353?src=t_aficionado",
+        "quote": "The days when a car aficionado could repair his or her own car are long past, due primarily to the high software content.",
+        "author": {
+            "name": "Marc Andreessen",
+            "url": "/authors/marc_andreessen"
+        },
+        "topics": [
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "Repair",
+                "url": "/topics/repair"
+            },
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jordan_gavaris_566263?src=t_aficionado",
+        "quote": "I actually love woodworking. I'm just getting into it. And I love playing guitar, I'm a big movie aficionado, and I like hiking.",
+        "author": {
+            "name": "Jordan Gavaris",
+            "url": "/authors/jordan_gavaris"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Movie",
+                "url": "/topics/movie"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robin_lord_taylor_714058?src=t_aficionado",
+        "quote": "I wasn't as big a comic book aficionado as some of my friends, but I definitely had some Batman comics.",
+        "author": {
+            "name": "Robin Lord Taylor",
+            "url": "/authors/robin_lord_taylor"
+        },
+        "topics": [
+            {
+                "name": "Book",
+                "url": "/topics/book"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/michael_caine_602580?src=t_aficionado",
+        "quote": "Am I a car aficionado? No: for me, cars have always been just for transport. I didn't even know anyone who had a car until I was 14 or 15.",
+        "author": {
+            "name": "Michael Caine",
+            "url": "/authors/michael_caine"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Had",
+                "url": "/topics/had"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/michael_dirda_737189?src=t_aficionado",
+        "quote": "I am something of an aficionado of thrift stores. In my youth, I regularly searched their shelves for old books.",
+        "author": {
+            "name": "Michael Dirda",
+            "url": "/authors/michael_dirda"
+        },
+        "topics": [
+            {
+                "name": "Old",
+                "url": "/topics/old"
+            },
+            {
+                "name": "Stores",
+                "url": "/topics/stores"
+            },
+            {
+                "name": "Am",
+                "url": "/topics/am"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/j_k_simmons_767710?src=t_aficionado",
+        "quote": "I wasn't a comic book aficionado at all when I was a kid, but my cousin Weed was. Every time we went to visit him on the farm, he had two really fun things: comedy albums and comic books.",
+        "author": {
+            "name": "J. K. Simmons",
+            "url": "/authors/j_k_simmons"
+        },
+        "topics": [
+            {
+                "name": "Book",
+                "url": "/topics/book"
+            },
+            {
+                "name": "Comic Books",
+                "url": "/topics/comic_books"
+            },
+            {
+                "name": "Albums",
+                "url": "/topics/albums"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/danai_gurira_520269?src=t_aficionado",
+        "quote": "Back in the day, I used to read 'Archie,' but I haven't been a comic book aficionado.",
+        "author": {
+            "name": "Danai Gurira",
+            "url": "/authors/danai_gurira"
+        },
+        "topics": [
+            {
+                "name": "Book",
+                "url": "/topics/book"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Read",
+                "url": "/topics/read"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/martin_parr_606841?src=t_aficionado",
+        "quote": "I pride myself in being an aficionado of the British seaside. Throughout my career, I have visited and worked in many of the famous British resorts, from Great Yarmouth to Largs.",
+        "author": {
+            "name": "Martin Parr",
+            "url": "/authors/martin_parr"
+        },
+        "topics": [
+            {
+                "name": "Myself",
+                "url": "/topics/myself"
+            },
+            {
+                "name": "Career",
+                "url": "/topics/career"
+            },
+            {
+                "name": "Famous",
+                "url": "/topics/famous"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/danny_boyle_445340?src=t_aficionado",
+        "quote": "Originally I'm a big pop-music aficionado, that's my love.",
+        "author": {
+            "name": "Danny Boyle",
+            "url": "/authors/danny_boyle"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Originally",
+                "url": "/topics/originally"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/st_vincent_494767?src=t_aficionado",
+        "quote": "In regards to being a fashion aficionado, there's a certain amount of taking yourself seriously in the professional world. The self-effacing person can't completely go down the serious road. But I design, and love when things are beautiful.",
+        "author": {
+            "name": "St. Vincent",
+            "url": "/authors/st_vincent"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Professional",
+                "url": "/topics/professional"
+            },
+            {
+                "name": "Down",
+                "url": "/topics/down"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/annie_jacobsen_673182?src=t_aficionado",
+        "quote": "I'm not an aviation historian, I'm not an Air Force aficionado, and I'm definitely not a ufologist. I'm not someone who studies UFOs.",
+        "author": {
+            "name": "Annie Jacobsen",
+            "url": "/authors/annie_jacobsen"
+        },
+        "topics": [
+            {
+                "name": "Aviation",
+                "url": "/topics/aviation"
+            },
+            {
+                "name": "Air",
+                "url": "/topics/air"
+            },
+            {
+                "name": "Historian",
+                "url": "/topics/historian"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gina_gershon_266463?src=t_aficionado",
+        "quote": "I did the cover of Cigar Aficionado, so I'm supposed to talk about loving cigars. I've smoked them a couple of times. My father used to smoke cigars. I love the idea and the concept, and I love the smell of cigars.",
+        "author": {
+            "name": "Gina Gershon",
+            "url": "/authors/gina_gershon"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Idea",
+                "url": "/topics/idea"
+            },
+            {
+                "name": "Couple",
+                "url": "/topics/couple"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lisa_gardner_503018?src=t_aficionado",
+        "quote": "All I've really ever done is write since I was 17, so I don't know anything about anything. For me to do a novel, I have to talk to people who know things. And what keeps me in suspense is that I am a crime aficionado.",
+        "author": {
+            "name": "Lisa Gardner",
+            "url": "/authors/lisa_gardner"
+        },
+        "topics": [
+            {
+                "name": "Suspense",
+                "url": "/topics/suspense"
+            },
+            {
+                "name": "Anything",
+                "url": "/topics/anything"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robin_lord_taylor_714062?src=t_aficionado",
+        "quote": "I had a few comics, but I was by no means a huge aficionado. I was more of a 'Mad Magazine,' 'Calvin & Hobbes' sort of nerd.",
+        "author": {
+            "name": "Robin Lord Taylor",
+            "url": "/authors/robin_lord_taylor"
+        },
+        "topics": [
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Means",
+                "url": "/topics/means"
+            },
+            {
+                "name": "Comics",
+                "url": "/topics/comics"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paulo_costanzo_584784?src=t_aficionado",
+        "quote": "I'm a musical theater aficionado, a.k.a. loser.",
+        "author": {
+            "name": "Paulo Costanzo",
+            "url": "/authors/paulo_costanzo"
+        },
+        "topics": [
+            {
+                "name": "Loser",
+                "url": "/topics/loser"
+            },
+            {
+                "name": "Theater",
+                "url": "/topics/theater"
+            },
+            {
+                "name": "Musical",
+                "url": "/topics/musical"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joe_flanigan_410482?src=t_aficionado",
+        "quote": "I wasn't a big science fiction aficionado, there were a few films like 2001 or Blade Runner that were favorites of mine, but since I started this series I have gained more respect for the genre and become more of a fan myself.",
+        "author": {
+            "name": "Joe Flanigan",
+            "url": "/authors/joe_flanigan"
+        },
+        "topics": [
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Fiction",
+                "url": "/topics/fiction"
+            },
+            {
+                "name": "Favorites",
+                "url": "/topics/favorites"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/margaux_hemingway_338746?src=t_aficionado",
+        "quote": "I am not a Hemingway aficionado.",
+        "author": {
+            "name": "Margaux Hemingway",
+            "url": "/authors/margaux_hemingway"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Hemingway",
+                "url": "/topics/hemingway"
+            },
+            {
+                "name": "Am",
+                "url": "/topics/am"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ray_wise_534045?src=t_aficionado",
+        "quote": "I've always been a Dracula/vampire aficionado, being half-Romanian myself. Dracula has always been close to my heart - in fact, I have a first edition of Bram Stoker's book. I read it over and over again as a young kid.",
+        "author": {
+            "name": "Ray Wise",
+            "url": "/authors/ray_wise"
+        },
+        "topics": [
+            {
+                "name": "Young",
+                "url": "/topics/young"
+            },
+            {
+                "name": "Fact",
+                "url": "/topics/fact"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    }
+]

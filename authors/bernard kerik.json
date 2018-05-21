@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/bernard_kerik_437492",
+        "quote": "Going to prison is like dying with your eyes open.",
+        "author": {
+            "name": "Bernard Kerik",
+            "url": "/quotes/bernard_kerik_437492"
+        },
+        "topics": [
+            {
+                "name": "Dying",
+                "url": "/topics/dying"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bernard_kerik_221712",
+        "quote": "Political criticism is our enemies' best friend.",
+        "author": {
+            "name": "Bernard Kerik",
+            "url": "/quotes/bernard_kerik_221712"
+        },
+        "topics": [
+            {
+                "name": "Political",
+                "url": "/topics/political"
+            },
+            {
+                "name": "Friend",
+                "url": "/topics/friend"
+            },
+            {
+                "name": "Enemies",
+                "url": "/topics/enemies"
+            }
+        ]
+    }
+]

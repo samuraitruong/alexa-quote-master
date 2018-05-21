@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/cyril_tourneur_404808",
+        "quote": "I shine in tears like the sun in April.",
+        "author": {
+            "name": "Cyril Tourneur",
+            "url": "/quotes/cyril_tourneur_404808"
+        },
+        "topics": [
+            {
+                "name": "Sun",
+                "url": "/topics/sun"
+            },
+            {
+                "name": "Tears",
+                "url": "/topics/tears"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/cyril_tourneur_311905",
+        "quote": "Joy is a subtle elf; I think one's happiest when he forgets himself.",
+        "author": {
+            "name": "Cyril Tourneur",
+            "url": "/quotes/cyril_tourneur_311905"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Subtle",
+                "url": "/topics/subtle"
+            },
+            {
+                "name": "Himself",
+                "url": "/topics/himself"
+            }
+        ]
+    }
+]

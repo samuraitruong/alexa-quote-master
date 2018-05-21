@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/louis_adolphe_thiers_177149",
+        "quote": "The king reigns but does not govern.",
+        "author": {
+            "name": "Louis Adolphe Thiers",
+            "url": "/quotes/louis_adolphe_thiers_177149"
+        },
+        "topics": [
+            {
+                "name": "King",
+                "url": "/topics/king"
+            },
+            {
+                "name": "Govern",
+                "url": "/topics/govern"
+            },
+            {
+                "name": "Does",
+                "url": "/topics/does"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/louis_adolphe_thiers_170258",
+        "quote": "In politics it is necessary to take nothing tragically and everything seriously.",
+        "author": {
+            "name": "Louis Adolphe Thiers",
+            "url": "/quotes/louis_adolphe_thiers_170258"
+        },
+        "topics": [
+            {
+                "name": "Politics",
+                "url": "/topics/politics"
+            },
+            {
+                "name": "Take",
+                "url": "/topics/take"
+            },
+            {
+                "name": "Necessary",
+                "url": "/topics/necessary"
+            }
+        ]
+    }
+]

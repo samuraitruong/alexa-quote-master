@@ -1,0 +1,82 @@
+[
+    {
+        "url": "/quotes/lee_remick_211415",
+        "quote": "I make movies for grownups. When Hollywood starts making them again, I'll start acting in them again.",
+        "author": {
+            "name": "Lee Remick",
+            "url": "/quotes/lee_remick_211415"
+        },
+        "topics": [
+            {
+                "name": "Hollywood",
+                "url": "/topics/hollywood"
+            },
+            {
+                "name": "Again",
+                "url": "/topics/again"
+            },
+            {
+                "name": "Making",
+                "url": "/topics/making"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lee_remick_347801",
+        "quote": "You can compare me with Greta Garbo. I have big feet, too.",
+        "author": {
+            "name": "Lee Remick",
+            "url": "/quotes/lee_remick_347801"
+        },
+        "topics": [
+            {
+                "name": "Feet",
+                "url": "/topics/feet"
+            },
+            {
+                "name": "Compare",
+                "url": "/topics/compare"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lee_remick_349303",
+        "quote": "I'm not an oddball.",
+        "author": {
+            "name": "Lee Remick",
+            "url": "/quotes/lee_remick_349303"
+        },
+        "topics": [
+            {
+                "name": "Oddball",
+                "url": "/topics/oddball"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lee_remick_349331",
+        "quote": "Breasts and bottoms look boringly alike. Faces, though, can be quite different and a damn sight more interesting!",
+        "author": {
+            "name": "Lee Remick",
+            "url": "/quotes/lee_remick_349331"
+        },
+        "topics": [
+            {
+                "name": "Interesting",
+                "url": "/topics/interesting"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Though",
+                "url": "/topics/though"
+            }
+        ]
+    }
+]

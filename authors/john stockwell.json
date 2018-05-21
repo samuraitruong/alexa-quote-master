@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/john_stockwell_142598",
+        "quote": "Enemies are necessary for the wheels of the U.S. military machine to turn.",
+        "author": {
+            "name": "John Stockwell",
+            "url": "/quotes/john_stockwell_142598"
+        },
+        "topics": [
+            {
+                "name": "Wheels",
+                "url": "/topics/wheels"
+            },
+            {
+                "name": "Machine",
+                "url": "/topics/machine"
+            },
+            {
+                "name": "Necessary",
+                "url": "/topics/necessary"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_stockwell_143297",
+        "quote": "Short, successful military adventures are as effective as the Super Bowl in diverting people's attention from unpleasant truths.",
+        "author": {
+            "name": "John Stockwell",
+            "url": "/quotes/john_stockwell_143297"
+        },
+        "topics": [
+            {
+                "name": "Diverting",
+                "url": "/topics/diverting"
+            },
+            {
+                "name": "Unpleasant",
+                "url": "/topics/unpleasant"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/alfred_kinsey_176477",
+        "quote": "Males do not represent two discrete populations, heterosexual and homosexual. The world is not to be divided into sheeps and goats. Not all things are black nor all things white.",
+        "author": {
+            "name": "Alfred Kinsey",
+            "url": "/quotes/alfred_kinsey_176477"
+        },
+        "topics": [
+            {
+                "name": "Black",
+                "url": "/topics/black"
+            },
+            {
+                "name": "Divided",
+                "url": "/topics/divided"
+            },
+            {
+                "name": "Goats",
+                "url": "/topics/goats"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alfred_kinsey_176479",
+        "quote": "We are the recorders and reporters of facts - not the judges of the behaviors we describe.",
+        "author": {
+            "name": "Alfred Kinsey",
+            "url": "/quotes/alfred_kinsey_176479"
+        },
+        "topics": [
+            {
+                "name": "Facts",
+                "url": "/topics/facts"
+            },
+            {
+                "name": "Reporters",
+                "url": "/topics/reporters"
+            },
+            {
+                "name": "Behaviors",
+                "url": "/topics/behaviors"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alfred_kinsey_176478",
+        "quote": "The only unnatural sex act is that which you cannot perform.",
+        "author": {
+            "name": "Alfred Kinsey",
+            "url": "/quotes/alfred_kinsey_176478"
+        },
+        "topics": [
+            {
+                "name": "Act",
+                "url": "/topics/act"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Unnatural",
+                "url": "/topics/unnatural"
+            }
+        ]
+    }
+]

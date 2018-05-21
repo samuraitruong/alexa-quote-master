@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/rob_bishop_395041",
+        "quote": "The political spin in Washington is revolting, just revolting. It's a callous political game.",
+        "author": {
+            "name": "Rob Bishop",
+            "url": "/quotes/rob_bishop_395041"
+        },
+        "topics": [
+            {
+                "name": "Political",
+                "url": "/topics/political"
+            },
+            {
+                "name": "Game",
+                "url": "/topics/game"
+            },
+            {
+                "name": "Spin",
+                "url": "/topics/spin"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rob_bishop_190092",
+        "quote": "Space exploration and experimentation are critically valuable to our nation. I know of no better way to honor those seven who sacrificed their lives than to recommit ourselves to defend and enhance America's important strategies in space.",
+        "author": {
+            "name": "Rob Bishop",
+            "url": "/quotes/rob_bishop_190092"
+        },
+        "topics": [
+            {
+                "name": "Honor",
+                "url": "/topics/honor"
+            },
+            {
+                "name": "Nation",
+                "url": "/topics/nation"
+            },
+            {
+                "name": "Seven",
+                "url": "/topics/seven"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rob_bishop_190093",
+        "quote": "I firmly believe that the best way to stimulate our economy and create jobs is to let hard-working Americans keep more of their money - after all, the money belongs to them, not to Washington.",
+        "author": {
+            "name": "Rob Bishop",
+            "url": "/quotes/rob_bishop_190093"
+        },
+        "topics": [
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Best Way",
+                "url": "/topics/best_way"
+            },
+            {
+                "name": "Firmly",
+                "url": "/topics/firmly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rob_bishop_190094",
+        "quote": "I am strongly pro-life, and have fought to protect the rights of the unborn my entire career. I will continue to fight for this cause because I value the sanctity of all human life.",
+        "author": {
+            "name": "Rob Bishop",
+            "url": "/quotes/rob_bishop_190094"
+        },
+        "topics": [
+            {
+                "name": "Career",
+                "url": "/topics/career"
+            },
+            {
+                "name": "Unborn",
+                "url": "/topics/unborn"
+            },
+            {
+                "name": "Fought",
+                "url": "/topics/fought"
+            }
+        ]
+    }
+]

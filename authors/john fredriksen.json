@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/john_fredriksen_685292",
+        "quote": "When the market goes to hell, it's more of an opportunity than a problem.",
+        "author": {
+            "name": "John Fredriksen",
+            "url": "/quotes/john_fredriksen_685292"
+        },
+        "topics": [
+            {
+                "name": "Problem",
+                "url": "/topics/problem"
+            },
+            {
+                "name": "Market",
+                "url": "/topics/market"
+            },
+            {
+                "name": "Goes",
+                "url": "/topics/goes"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_fredriksen_685293",
+        "quote": "I've been in tankers for 50 years, and I like it. For me, it's still fun.",
+        "author": {
+            "name": "John Fredriksen",
+            "url": "/quotes/john_fredriksen_685293"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            }
+        ]
+    }
+]

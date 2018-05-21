@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/bob_hayes_183271",
+        "quote": "I'm thrilled, I'm grateful, I'm blessed. I played for the world's greatest professional sports team in history. Once a Dallas Cowboy, always a Dallas Cowboy.",
+        "author": {
+            "name": "Bob Hayes",
+            "url": "/quotes/bob_hayes_183271"
+        },
+        "topics": [
+            {
+                "name": "Grateful",
+                "url": "/topics/grateful"
+            },
+            {
+                "name": "Dallas",
+                "url": "/topics/dallas"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bob_hayes_183270",
+        "quote": "There's a lot of pain in my heart because what I accomplished was second to none. I'm not losing any sleep, but I do pay attention every year at this time.",
+        "author": {
+            "name": "Bob Hayes",
+            "url": "/quotes/bob_hayes_183270"
+        },
+        "topics": [
+            {
+                "name": "Pain",
+                "url": "/topics/pain"
+            },
+            {
+                "name": "Pay Attention",
+                "url": "/topics/pay_attention"
+            },
+            {
+                "name": "Year",
+                "url": "/topics/year"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bob_hayes_405383",
+        "quote": "Soul travel can be a general expansion of awareness and knowingness or conscious experience of the heavenly worlds.",
+        "author": {
+            "name": "Bob Hayes",
+            "url": "/quotes/bob_hayes_405383"
+        },
+        "topics": [
+            {
+                "name": "Awareness",
+                "url": "/topics/awareness"
+            },
+            {
+                "name": "General",
+                "url": "/topics/general"
+            },
+            {
+                "name": "Worlds",
+                "url": "/topics/worlds"
+            }
+        ]
+    }
+]

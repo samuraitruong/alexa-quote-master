@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/rowland_hill_183105",
+        "quote": "We can do more good by being good, than in any other way.",
+        "author": {
+            "name": "Rowland Hill",
+            "url": "/quotes/rowland_hill_183105"
+        },
+        "topics": [
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Any Other Way",
+                "url": "/topics/any_other_way"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rowland_hill_170180",
+        "quote": "Why should the Devil have all the good tunes?",
+        "author": {
+            "name": "Rowland Hill",
+            "url": "/quotes/rowland_hill_170180"
+        },
+        "topics": [
+            {
+                "name": "Devil",
+                "url": "/topics/devil"
+            },
+            {
+                "name": "Tunes",
+                "url": "/topics/tunes"
+            },
+            {
+                "name": "Should",
+                "url": "/topics/should"
+            }
+        ]
+    }
+]

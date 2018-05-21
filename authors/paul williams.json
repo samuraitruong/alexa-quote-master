@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/paul_williams_404358",
+        "quote": "If I allow the fact that I am a Negro to checkmate my will to do, now, I will inevitably form the habit of being defeated.",
+        "author": {
+            "name": "Paul Williams",
+            "url": "/quotes/paul_williams_404358"
+        },
+        "topics": [
+            {
+                "name": "Fact",
+                "url": "/topics/fact"
+            },
+            {
+                "name": "Allow",
+                "url": "/topics/allow"
+            },
+            {
+                "name": "Checkmate",
+                "url": "/topics/checkmate"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_williams_404380",
+        "quote": "I am not on this planet to get something done - the things we accomplish are expressions of our purpose.",
+        "author": {
+            "name": "Paul Williams",
+            "url": "/quotes/paul_williams_404380"
+        },
+        "topics": [
+            {
+                "name": "Purpose",
+                "url": "/topics/purpose"
+            },
+            {
+                "name": "Planet",
+                "url": "/topics/planet"
+            },
+            {
+                "name": "Am",
+                "url": "/topics/am"
+            }
+        ]
+    }
+]

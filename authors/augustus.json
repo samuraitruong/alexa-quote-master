@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/augustus_142486",
+        "quote": "I found Rome a city of bricks and left it a city of marble.",
+        "author": {
+            "name": "Augustus",
+            "url": "/quotes/augustus_142486"
+        },
+        "topics": [
+            {
+                "name": "Rome",
+                "url": "/topics/rome"
+            },
+            {
+                "name": "Bricks",
+                "url": "/topics/bricks"
+            },
+            {
+                "name": "Marble",
+                "url": "/topics/marble"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/augustus_179477",
+        "quote": "Young men, hear an old man to whom old men hearkened when he was young.",
+        "author": {
+            "name": "Augustus",
+            "url": "/quotes/augustus_179477"
+        },
+        "topics": [
+            {
+                "name": "Young",
+                "url": "/topics/young"
+            },
+            {
+                "name": "Old",
+                "url": "/topics/old"
+            },
+            {
+                "name": "Old Men",
+                "url": "/topics/old_men"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/augustus_169973",
+        "quote": "Hasten slowly.",
+        "author": {
+            "name": "Augustus",
+            "url": "/quotes/augustus_169973"
+        },
+        "topics": [
+            {
+                "name": "Slowly",
+                "url": "/topics/slowly"
+            },
+            {
+                "name": "Hasten",
+                "url": "/topics/hasten"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/alfred_newman_212366",
+        "quote": "We are living in a world today where lemonade is made from artificial flavors and furniture polish is made from real lemons.",
+        "author": {
+            "name": "Alfred Newman",
+            "url": "/quotes/alfred_newman_212366"
+        },
+        "topics": [
+            {
+                "name": "Living",
+                "url": "/topics/living"
+            },
+            {
+                "name": "Made",
+                "url": "/topics/made"
+            },
+            {
+                "name": "Flavors",
+                "url": "/topics/flavors"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alfred_newman_212365",
+        "quote": "Crime does not pay as well as politics.",
+        "author": {
+            "name": "Alfred Newman",
+            "url": "/quotes/alfred_newman_212365"
+        },
+        "topics": [
+            {
+                "name": "Politics",
+                "url": "/topics/politics"
+            },
+            {
+                "name": "Pay",
+                "url": "/topics/pay"
+            },
+            {
+                "name": "Does",
+                "url": "/topics/does"
+            }
+        ]
+    }
+]

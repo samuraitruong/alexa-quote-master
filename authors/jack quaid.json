@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/jack_quaid_489347",
+        "quote": "I'm in a sketch comedy group in school and I also do stand-up.",
+        "author": {
+            "name": "Jack Quaid",
+            "url": "/quotes/jack_quaid_489347"
+        },
+        "topics": [
+            {
+                "name": "School",
+                "url": "/topics/school"
+            },
+            {
+                "name": "Sketch Comedy",
+                "url": "/topics/sketch_comedy"
+            },
+            {
+                "name": "Also",
+                "url": "/topics/also"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jack_quaid_489348",
+        "quote": "I kept getting told, 'You need to bulk up. Burgers and shakes. Burgers and shakes.' That's never been my thing.",
+        "author": {
+            "name": "Jack Quaid",
+            "url": "/quotes/jack_quaid_489348"
+        },
+        "topics": [
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Shakes",
+                "url": "/topics/shakes"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jack_quaid_663082",
+        "quote": "I've been on sets my whole life.",
+        "author": {
+            "name": "Jack Quaid",
+            "url": "/quotes/jack_quaid_663082"
+        },
+        "topics": [
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Whole",
+                "url": "/topics/whole"
+            },
+            {
+                "name": "Sets",
+                "url": "/topics/sets"
+            }
+        ]
+    }
+]

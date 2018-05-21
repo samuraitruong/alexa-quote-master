@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/tony_hoare_620783",
+        "quote": "There are two methods in software design. One is to make the program so simple, there are obviously no errors. The other is to make it so complicated, there are no obvious errors.",
+        "author": {
+            "name": "Tony Hoare",
+            "url": "/quotes/tony_hoare_620783"
+        },
+        "topics": [
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "Methods",
+                "url": "/topics/methods"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tony_hoare_620780",
+        "quote": "An ultimate joint challenge for the biological and the computational sciences is the understanding of the mechanisms of the human brain, and its relationship with the human mind.",
+        "author": {
+            "name": "Tony Hoare",
+            "url": "/quotes/tony_hoare_620780"
+        },
+        "topics": [
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Joint",
+                "url": "/topics/joint"
+            },
+            {
+                "name": "Ultimate",
+                "url": "/topics/ultimate"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tony_hoare_620781",
+        "quote": "A single human brain has about a hundred million nerve cells... and a computer program that throws light on the mind/brain problem will have to incorporate the deepest insights of biologists, nerve scientists, psychologists, physiologists, linguists, social scientists, and even philosophers.",
+        "author": {
+            "name": "Tony Hoare",
+            "url": "/quotes/tony_hoare_620781"
+        },
+        "topics": [
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Hundred",
+                "url": "/topics/hundred"
+            },
+            {
+                "name": "Program",
+                "url": "/topics/program"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tony_hoare_620782",
+        "quote": "It is easy to predict that some of the discoveries of research directed towards Grand Challenges - but only the most unexpected ones, and at the most unexpected times - will be the basis of revolutionary improvements in the way that we exploit the power of our future computing devices.",
+        "author": {
+            "name": "Tony Hoare",
+            "url": "/quotes/tony_hoare_620782"
+        },
+        "topics": [
+            {
+                "name": "Challenges",
+                "url": "/topics/challenges"
+            },
+            {
+                "name": "Unexpected",
+                "url": "/topics/unexpected"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    }
+]

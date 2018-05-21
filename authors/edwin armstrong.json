@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/edwin_armstrong_298980",
+        "quote": "It ain't ignorance that causes all the trouble in this world. It's the things people know that ain't so.",
+        "author": {
+            "name": "Edwin Armstrong",
+            "url": "/quotes/edwin_armstrong_298980"
+        },
+        "topics": [
+            {
+                "name": "Ignorance",
+                "url": "/topics/ignorance"
+            },
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Causes",
+                "url": "/topics/causes"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edwin_armstrong_182432",
+        "quote": "I could never accept findings based almost exclusively on mathematics. It ain't ignorance that causes all the trouble in this world. It's the things people know that ain't so.",
+        "author": {
+            "name": "Edwin Armstrong",
+            "url": "/quotes/edwin_armstrong_182432"
+        },
+        "topics": [
+            {
+                "name": "Mathematics",
+                "url": "/topics/mathematics"
+            },
+            {
+                "name": "Almost",
+                "url": "/topics/almost"
+            },
+            {
+                "name": "Based",
+                "url": "/topics/based"
+            }
+        ]
+    }
+]

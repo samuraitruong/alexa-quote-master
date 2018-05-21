@@ -1,0 +1,200 @@
+[
+    {
+        "url": "/quotes/bob_ney_329379?src=t_braille",
+        "quote": "Effective use of Braille is as important to the blind as independent mobility, knowledge in the use of adaptive technology, and the core belief that equality, opportunity and security are truly possible for all people who are blind.",
+        "author": {
+            "name": "Bob Ney",
+            "url": "/authors/bob_ney"
+        },
+        "topics": [
+            {
+                "name": "Blind",
+                "url": "/topics/blind"
+            },
+            {
+                "name": "Independent",
+                "url": "/topics/independent"
+            },
+            {
+                "name": "Mobility",
+                "url": "/topics/mobility"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ray_charles_167080?src=t_braille",
+        "quote": "Learning to read music in Braille and play by ear helped me develop a damn good memory.",
+        "author": {
+            "name": "Ray Charles",
+            "url": "/authors/ray_charles"
+        },
+        "topics": [
+            {
+                "name": "Memory",
+                "url": "/topics/memory"
+            },
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Read",
+                "url": "/topics/read"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/quincy_jones_601571?src=t_braille",
+        "quote": "When I was 13, I started working in a nightclub with Ray Charles. That's the greatest school in the world, the school of the streets. Ray taught me how to read in Braille. He was only two years older than me, but it was like he was 100 years older.",
+        "author": {
+            "name": "Quincy Jones",
+            "url": "/authors/quincy_jones"
+        },
+        "topics": [
+            {
+                "name": "Two",
+                "url": "/topics/two"
+            },
+            {
+                "name": "Streets",
+                "url": "/topics/streets"
+            },
+            {
+                "name": "Charles",
+                "url": "/topics/charles"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rosemary_mahoney_627656?src=t_braille",
+        "quote": "A majority of my blind students at the International Institute for Social Entrepreneurs in Trivandrum, India, a branch of Braille Without Borders, came from the developing world: Madagascar, Colombia, Tibet, Liberia, Ghana, Kenya, Nepal and India.",
+        "author": {
+            "name": "Rosemary Mahoney",
+            "url": "/authors/rosemary_mahoney"
+        },
+        "topics": [
+            {
+                "name": "Blind",
+                "url": "/topics/blind"
+            },
+            {
+                "name": "Students",
+                "url": "/topics/students"
+            },
+            {
+                "name": "Borders",
+                "url": "/topics/borders"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bob_ney_329368?src=t_braille",
+        "quote": "Louis Braille created the code of raised dots for reading and writing that bears his name and brings literacy, independence, and productivity to the blind.",
+        "author": {
+            "name": "Bob Ney",
+            "url": "/authors/bob_ney"
+        },
+        "topics": [
+            {
+                "name": "Blind",
+                "url": "/topics/blind"
+            },
+            {
+                "name": "Dots",
+                "url": "/topics/dots"
+            },
+            {
+                "name": "Code",
+                "url": "/topics/code"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/carl_karcher_359701?src=t_braille",
+        "quote": "We have developed overlays for the keys of the cash registers with the help of the Braille Institute, so that blind crew members can take orders and help our guests.",
+        "author": {
+            "name": "Carl Karcher",
+            "url": "/authors/carl_karcher"
+        },
+        "topics": [
+            {
+                "name": "Blind",
+                "url": "/topics/blind"
+            },
+            {
+                "name": "Keys",
+                "url": "/topics/keys"
+            },
+            {
+                "name": "Crew Members",
+                "url": "/topics/crew_members"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/stevie_wonder_463220?src=t_braille",
+        "quote": "Of course I read Braille, yes.",
+        "author": {
+            "name": "Stevie Wonder",
+            "url": "/authors/stevie_wonder"
+        },
+        "topics": [
+            {
+                "name": "Yes",
+                "url": "/topics/yes"
+            },
+            {
+                "name": "Course",
+                "url": "/topics/course"
+            },
+            {
+                "name": "Read",
+                "url": "/topics/read"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/armistead_maupin_414034?src=t_braille",
+        "quote": "Like I've always said, love wouldn't be blind if the braille weren't so damned much fun.",
+        "author": {
+            "name": "Armistead Maupin",
+            "url": "/authors/armistead_maupin"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Blind",
+                "url": "/topics/blind"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_shearing_229793?src=t_braille",
+        "quote": "In Braille you write your flat sign first and then your note.",
+        "author": {
+            "name": "George Shearing",
+            "url": "/authors/george_shearing"
+        },
+        "topics": [
+            {
+                "name": "Note",
+                "url": "/topics/note"
+            },
+            {
+                "name": "Sign",
+                "url": "/topics/sign"
+            },
+            {
+                "name": "Flat",
+                "url": "/topics/flat"
+            }
+        ]
+    }
+]

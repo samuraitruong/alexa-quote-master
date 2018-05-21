@@ -1,0 +1,200 @@
+[
+    {
+        "url": "/quotes/jeff_foxworthy_369592?src=t_kool",
+        "quote": "If you have a complete set of salad bowls and they all say Kool Whip on the side, you might be a redneck.",
+        "author": {
+            "name": "Jeff Foxworthy",
+            "url": "/authors/jeff_foxworthy"
+        },
+        "topics": [
+            {
+                "name": "Salad",
+                "url": "/topics/salad"
+            },
+            {
+                "name": "Side",
+                "url": "/topics/side"
+            },
+            {
+                "name": "Set",
+                "url": "/topics/set"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eminem_620552?src=t_kool",
+        "quote": "Being a student of hip-hop in general, you take technical aspects from places. You may take a rhyme pattern or flow from Big Daddy Kane or Kool G Rap.",
+        "author": {
+            "name": "Eminem",
+            "url": "/authors/eminem"
+        },
+        "topics": [
+            {
+                "name": "Rap",
+                "url": "/topics/rap"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Technical",
+                "url": "/topics/technical"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/estelle_663673?src=t_kool",
+        "quote": "I got into hip hop from my uncle; he was always playing us Kool G Rap and Big Daddy Kane. He was a bad boy, and my mum was not really happy that I was hanging out with him.",
+        "author": {
+            "name": "Estelle",
+            "url": "/authors/estelle"
+        },
+        "topics": [
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Mum",
+                "url": "/topics/mum"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_weah_482319?src=t_kool",
+        "quote": "When I was growing up in Monrovia, the capital of Liberia, I sold doughnuts, popcorn and Kool Aid every day after school so that my family had some money and I could pay my school fees. It was a tough life.",
+        "author": {
+            "name": "George Weah",
+            "url": "/authors/george_weah"
+        },
+        "topics": [
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Capital",
+                "url": "/topics/capital"
+            },
+            {
+                "name": "Fees",
+                "url": "/topics/fees"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/afrika_bambaataa_256547?src=t_kool",
+        "quote": "I am one of the founders of Hip-Hop along with my brothers Kool DJ Herc and Grandmaster Flash.",
+        "author": {
+            "name": "Afrika Bambaataa",
+            "url": "/authors/afrika_bambaataa"
+        },
+        "topics": [
+            {
+                "name": "DJ",
+                "url": "/topics/dj"
+            },
+            {
+                "name": "Brothers",
+                "url": "/topics/brothers"
+            },
+            {
+                "name": "Founders",
+                "url": "/topics/founders"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/action_bronson_702841?src=t_kool",
+        "quote": "My main influence is Kool G Rap and Cam'ron, pretty much. If you were to mix those two people up, I wish that would be me... This is my voice. I sound like nobody; I sound like me.",
+        "author": {
+            "name": "Action Bronson",
+            "url": "/authors/action_bronson"
+        },
+        "topics": [
+            {
+                "name": "Voice",
+                "url": "/topics/voice"
+            },
+            {
+                "name": "Sound",
+                "url": "/topics/sound"
+            },
+            {
+                "name": "Main",
+                "url": "/topics/main"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/grandmaster_flash_321120?src=t_kool",
+        "quote": "I had love for Breakout; I had love for Bambaataa. I had love for Kool Herc.",
+        "author": {
+            "name": "Grandmaster Flash",
+            "url": "/authors/grandmaster_flash"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Had",
+                "url": "/topics/had"
+            },
+            {
+                "name": "Breakout",
+                "url": "/topics/breakout"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kurtis_blow_305663?src=t_kool",
+        "quote": "I was called Kool Dj Kurt Walker... but they wanted tocall me Kurtis Blow.",
+        "author": {
+            "name": "Kurtis Blow",
+            "url": "/authors/kurtis_blow"
+        },
+        "topics": [
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "DJ",
+                "url": "/topics/dj"
+            },
+            {
+                "name": "Wanted",
+                "url": "/topics/wanted"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/omar_sy_556535?src=t_kool",
+        "quote": "When I was a boy, my older brothers listened to Earth, Wind & Fire and Kool and the Gang. When I would try to get into their room, they would close the door and say, 'You can't hear that. It's not for a child!' Now, I can listen to it and enjoy it.",
+        "author": {
+            "name": "Omar Sy",
+            "url": "/authors/omar_sy"
+        },
+        "topics": [
+            {
+                "name": "Door",
+                "url": "/topics/door"
+            },
+            {
+                "name": "Enjoy",
+                "url": "/topics/enjoy"
+            },
+            {
+                "name": "Brothers",
+                "url": "/topics/brothers"
+            }
+        ]
+    }
+]

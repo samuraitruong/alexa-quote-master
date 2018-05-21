@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/alfred_kazin_114865",
+        "quote": "If we practiced medicine like we practice education, we'd look for the liver on the right side and left side in alternate years.",
+        "author": {
+            "name": "Alfred Kazin",
+            "url": "/quotes/alfred_kazin_114865"
+        },
+        "topics": [
+            {
+                "name": "Education",
+                "url": "/topics/education"
+            },
+            {
+                "name": "Practice",
+                "url": "/topics/practice"
+            },
+            {
+                "name": "Side",
+                "url": "/topics/side"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alfred_kazin_114866",
+        "quote": "When a writer talks about his work, he's talking about a love affair.",
+        "author": {
+            "name": "Alfred Kazin",
+            "url": "/quotes/alfred_kazin_114866"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alfred_kazin_114867",
+        "quote": "One writes to make a home for oneself, on paper, in time and in others' minds.",
+        "author": {
+            "name": "Alfred Kazin",
+            "url": "/quotes/alfred_kazin_114867"
+        },
+        "topics": [
+            {
+                "name": "Time",
+                "url": "/topics/time"
+            },
+            {
+                "name": "Minds",
+                "url": "/topics/minds"
+            },
+            {
+                "name": "Paper",
+                "url": "/topics/paper"
+            }
+        ]
+    }
+]

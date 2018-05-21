@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/don_thompson_624757",
+        "quote": "Burgers and fries are an American staple. On the same token, my kids eat vegetables, and they always have eaten vegetables. They didn't have a choice but to eat vegetables.",
+        "author": {
+            "name": "Don Thompson",
+            "url": "/quotes/don_thompson_624757"
+        },
+        "topics": [
+            {
+                "name": "American",
+                "url": "/topics/american"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Staple",
+                "url": "/topics/staple"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/don_thompson_624756",
+        "quote": "If my kids want to have fries, you know what, I'm gonna let my kids have fries. If they are active and if they're moving, there's nothing wrong with having some fries.",
+        "author": {
+            "name": "Don Thompson",
+            "url": "/quotes/don_thompson_624756"
+        },
+        "topics": [
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Gonna",
+                "url": "/topics/gonna"
+            },
+            {
+                "name": "Having",
+                "url": "/topics/having"
+            }
+        ]
+    }
+]

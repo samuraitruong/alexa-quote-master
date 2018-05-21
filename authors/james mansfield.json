@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/james_mansfield_190687",
+        "quote": "Give your decisions, never your reasons; your decisions may be right, your reasons are sure to be wrong.",
+        "author": {
+            "name": "James Mansfield",
+            "url": "/quotes/james_mansfield_190687"
+        },
+        "topics": [
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            },
+            {
+                "name": "Reasons",
+                "url": "/topics/reasons"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_mansfield_190689",
+        "quote": "The air of England has long been too pure for a slave, and every man is free who breathes it.",
+        "author": {
+            "name": "James Mansfield",
+            "url": "/quotes/james_mansfield_190689"
+        },
+        "topics": [
+            {
+                "name": "England",
+                "url": "/topics/england"
+            },
+            {
+                "name": "Every Man",
+                "url": "/topics/every_man"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    }
+]

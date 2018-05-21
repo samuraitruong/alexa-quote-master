@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/robert_greene_189825",
+        "quote": "For as one star another far exceeds, So souls in heaven are placed by their deeds.",
+        "author": {
+            "name": "Robert Greene",
+            "url": "/quotes/robert_greene_189825"
+        },
+        "topics": [
+            {
+                "name": "Star",
+                "url": "/topics/star"
+            },
+            {
+                "name": "Deeds",
+                "url": "/topics/deeds"
+            },
+            {
+                "name": "Placed",
+                "url": "/topics/placed"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_greene_189829",
+        "quote": "I know My God commands, whose power no power resists.",
+        "author": {
+            "name": "Robert Greene",
+            "url": "/quotes/robert_greene_189829"
+        },
+        "topics": [
+            {
+                "name": "Power",
+                "url": "/topics/power"
+            },
+            {
+                "name": "God",
+                "url": "/topics/god"
+            },
+            {
+                "name": "Know",
+                "url": "/topics/know"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_greene_189830",
+        "quote": "Though men determine, the gods doo dispose: and oft times many things fall out betweene the cup and the lip.",
+        "author": {
+            "name": "Robert Greene",
+            "url": "/quotes/robert_greene_189830"
+        },
+        "topics": [
+            {
+                "name": "Gods",
+                "url": "/topics/gods"
+            },
+            {
+                "name": "Determine",
+                "url": "/topics/determine"
+            },
+            {
+                "name": "Though",
+                "url": "/topics/though"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_greene_189831",
+        "quote": "Waste brings woe, and sorrow hates despair.",
+        "author": {
+            "name": "Robert Greene",
+            "url": "/quotes/robert_greene_189831"
+        },
+        "topics": [
+            {
+                "name": "Sorrow",
+                "url": "/topics/sorrow"
+            },
+            {
+                "name": "Waste",
+                "url": "/topics/waste"
+            },
+            {
+                "name": "Brings",
+                "url": "/topics/brings"
+            }
+        ]
+    }
+]

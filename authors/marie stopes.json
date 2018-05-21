@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/marie_stopes_312093",
+        "quote": "You can take no credit for beauty at sixteen. But if you are beautiful at sixty, it will be your soul's own doing.",
+        "author": {
+            "name": "Marie Stopes",
+            "url": "/quotes/marie_stopes_312093"
+        },
+        "topics": [
+            {
+                "name": "Beauty",
+                "url": "/topics/beauty"
+            },
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Sixty",
+                "url": "/topics/sixty"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marie_stopes_399769",
+        "quote": "Each coming together of man and wife, even if they have been mated for many years, should be a fresh adventure; each winning should necessitate a fresh wooing.",
+        "author": {
+            "name": "Marie Stopes",
+            "url": "/quotes/marie_stopes_399769"
+        },
+        "topics": [
+            {
+                "name": "Wife",
+                "url": "/topics/wife"
+            },
+            {
+                "name": "Winning",
+                "url": "/topics/winning"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    }
+]

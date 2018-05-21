@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/garrett_fort_399568",
+        "quote": "The strength of the vampire is that people will not believe in him.",
+        "author": {
+            "name": "Garrett Fort",
+            "url": "/quotes/garrett_fort_399568"
+        },
+        "topics": [
+            {
+                "name": "Strength",
+                "url": "/topics/strength"
+            },
+            {
+                "name": "Vampire",
+                "url": "/topics/vampire"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/garrett_fort_403279",
+        "quote": "Superstition? Who can define the boundary line between the superstition of yesterday and the scientific fact of tomorrow?",
+        "author": {
+            "name": "Garrett Fort",
+            "url": "/quotes/garrett_fort_403279"
+        },
+        "topics": [
+            {
+                "name": "Yesterday",
+                "url": "/topics/yesterday"
+            },
+            {
+                "name": "Fact",
+                "url": "/topics/fact"
+            },
+            {
+                "name": "Boundary",
+                "url": "/topics/boundary"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/garrett_fort_403321",
+        "quote": "God will not damn a lunatic's soul. He knows that the powers of evil are too great for those of us with weak minds.",
+        "author": {
+            "name": "Garrett Fort",
+            "url": "/quotes/garrett_fort_403321"
+        },
+        "topics": [
+            {
+                "name": "Soul",
+                "url": "/topics/soul"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Weak Minds",
+                "url": "/topics/weak_minds"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/garrett_fort_392526",
+        "quote": "To die, to be really dead, that must be glorious. There are far worse things awaiting man than death.",
+        "author": {
+            "name": "Garrett Fort",
+            "url": "/quotes/garrett_fort_392526"
+        },
+        "topics": [
+            {
+                "name": "Death",
+                "url": "/topics/death"
+            },
+            {
+                "name": "Die",
+                "url": "/topics/die"
+            },
+            {
+                "name": "Dead",
+                "url": "/topics/dead"
+            }
+        ]
+    }
+]

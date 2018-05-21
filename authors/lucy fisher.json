@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/lucy_fisher_632381",
+        "quote": "I like all kinds of movies. I really do.",
+        "author": {
+            "name": "Lucy Fisher",
+            "url": "/quotes/lucy_fisher_632381"
+        },
+        "topics": [
+            {
+                "name": "Movies",
+                "url": "/topics/movies"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Kinds",
+                "url": "/topics/kinds"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lucy_fisher_632378",
+        "quote": "Just selling through a movie theater is not ever going to be a viable way to make money back on a movie anymore.",
+        "author": {
+            "name": "Lucy Fisher",
+            "url": "/quotes/lucy_fisher_632378"
+        },
+        "topics": [
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Movie",
+                "url": "/topics/movie"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lucy_fisher_632379",
+        "quote": "The earliest movies that I loved were French movies and Italian movies. I grew up watching those kind of movies and often find the truest looks at human nature - you can find them in another country's movies.",
+        "author": {
+            "name": "Lucy Fisher",
+            "url": "/quotes/lucy_fisher_632379"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Truest",
+                "url": "/topics/truest"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lucy_fisher_632380",
+        "quote": "There's nothing worse than making a good movie that doesn't get seen.",
+        "author": {
+            "name": "Lucy Fisher",
+            "url": "/quotes/lucy_fisher_632380"
+        },
+        "topics": [
+            {
+                "name": "Good Movie",
+                "url": "/topics/good_movie"
+            },
+            {
+                "name": "Making",
+                "url": "/topics/making"
+            },
+            {
+                "name": "Movie",
+                "url": "/topics/movie"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/anson_williams_505476",
+        "quote": "'Happy Days' is the type of show that represents the best we can be. It's something warm, something tactile when life was good and life was simple.",
+        "author": {
+            "name": "Anson Williams",
+            "url": "/quotes/anson_williams_505476"
+        },
+        "topics": [
+            {
+                "name": "Happy",
+                "url": "/topics/happy"
+            },
+            {
+                "name": "Show",
+                "url": "/topics/show"
+            },
+            {
+                "name": "Tactile",
+                "url": "/topics/tactile"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/anson_williams_221272",
+        "quote": "I missed that question on Alaska. I hear they want to make it a state now.",
+        "author": {
+            "name": "Anson Williams",
+            "url": "/quotes/anson_williams_221272"
+        },
+        "topics": [
+            {
+                "name": "Missed",
+                "url": "/topics/missed"
+            },
+            {
+                "name": "Alaska",
+                "url": "/topics/alaska"
+            },
+            {
+                "name": "Question",
+                "url": "/topics/question"
+            }
+        ]
+    }
+]

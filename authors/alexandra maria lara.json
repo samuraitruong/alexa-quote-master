@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/alexandra_maria_lara_566216",
+        "quote": "No matter what happens to me and my career in the future, Berlin is always going to be my hometown.",
+        "author": {
+            "name": "Alexandra Maria Lara",
+            "url": "/quotes/alexandra_maria_lara_566216"
+        },
+        "topics": [
+            {
+                "name": "Career",
+                "url": "/topics/career"
+            },
+            {
+                "name": "Hometown",
+                "url": "/topics/hometown"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alexandra_maria_lara_704343",
+        "quote": "When I was younger, the red carpet used to terrify me because it's not about playing a part: you're not in a film pretending to be someone - you are yourself. It's intimidating.",
+        "author": {
+            "name": "Alexandra Maria Lara",
+            "url": "/quotes/alexandra_maria_lara_704343"
+        },
+        "topics": [
+            {
+                "name": "Pretending",
+                "url": "/topics/pretending"
+            },
+            {
+                "name": "Younger",
+                "url": "/topics/younger"
+            },
+            {
+                "name": "Terrify",
+                "url": "/topics/terrify"
+            }
+        ]
+    }
+]

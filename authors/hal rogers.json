@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/hal_rogers_622233",
+        "quote": "In my district, I know we have thousands of little creeks and streams, some of which only fill up when it rains. Nationwide, they're in the tens of thousands.",
+        "author": {
+            "name": "Hal Rogers",
+            "url": "/quotes/hal_rogers_622233"
+        },
+        "topics": [
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Tens",
+                "url": "/topics/tens"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/hal_rogers_622234",
+        "quote": "It seems the EPA has worked hard to devise new regulations that are designed to eliminate coal mining, coal burning, usage of coal.",
+        "author": {
+            "name": "Hal Rogers",
+            "url": "/quotes/hal_rogers_622234"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Eliminate",
+                "url": "/topics/eliminate"
+            },
+            {
+                "name": "Usage",
+                "url": "/topics/usage"
+            }
+        ]
+    }
+]

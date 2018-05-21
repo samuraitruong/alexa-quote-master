@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/orlando_cepeda_404475",
+        "quote": "Trust me, you have to fight. When people are wrong, you've got to let them know it.",
+        "author": {
+            "name": "Orlando Cepeda",
+            "url": "/quotes/orlando_cepeda_404475"
+        },
+        "topics": [
+            {
+                "name": "Trust",
+                "url": "/topics/trust"
+            },
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Know",
+                "url": "/topics/know"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/orlando_cepeda_404421",
+        "quote": "When people are wrong, you've got to let them know it.",
+        "author": {
+            "name": "Orlando Cepeda",
+            "url": "/quotes/orlando_cepeda_404421"
+        },
+        "topics": [
+            {
+                "name": "People",
+                "url": "/topics/people"
+            },
+            {
+                "name": "Know",
+                "url": "/topics/know"
+            },
+            {
+                "name": "Them",
+                "url": "/topics/them"
+            }
+        ]
+    }
+]

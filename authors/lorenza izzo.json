@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/lorenza_izzo_723297",
+        "quote": "I go to shady places all the time.",
+        "author": {
+            "name": "Lorenza Izzo",
+            "url": "/quotes/lorenza_izzo_723297"
+        },
+        "topics": [
+            {
+                "name": "Places",
+                "url": "/topics/places"
+            },
+            {
+                "name": "Shady",
+                "url": "/topics/shady"
+            },
+            {
+                "name": "Go",
+                "url": "/topics/go"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lorenza_izzo_723295",
+        "quote": "Boom, I move to L.A. after doing 'Aftershock,' and I've been actually working here. So it's all been 'boom'; it's all been 'boom' everything. It's so exciting. It's been amazing. I'm a very lucky girl.",
+        "author": {
+            "name": "Lorenza Izzo",
+            "url": "/quotes/lorenza_izzo_723295"
+        },
+        "topics": [
+            {
+                "name": "Lucky",
+                "url": "/topics/lucky"
+            },
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lorenza_izzo_723296",
+        "quote": "Whenever I'm terrified of anything, I jump to it.",
+        "author": {
+            "name": "Lorenza Izzo",
+            "url": "/quotes/lorenza_izzo_723296"
+        },
+        "topics": [
+            {
+                "name": "Jump",
+                "url": "/topics/jump"
+            },
+            {
+                "name": "Terrified",
+                "url": "/topics/terrified"
+            },
+            {
+                "name": "Whenever",
+                "url": "/topics/whenever"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lorenza_izzo_723298",
+        "quote": "I love kids. I always have. I was an only child until I was 12, and then my sister arrived.",
+        "author": {
+            "name": "Lorenza Izzo",
+            "url": "/quotes/lorenza_izzo_723298"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Then",
+                "url": "/topics/then"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/julian_morris_514152",
+        "quote": "Educate yourself as much as you can with life. Just go out there.",
+        "author": {
+            "name": "Julian Morris",
+            "url": "/quotes/julian_morris_514152"
+        },
+        "topics": [
+            {
+                "name": "Yourself",
+                "url": "/topics/yourself"
+            },
+            {
+                "name": "Go",
+                "url": "/topics/go"
+            },
+            {
+                "name": "Educate",
+                "url": "/topics/educate"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/julian_morris_514153",
+        "quote": "Acting for me is finding those things that, finding the strings of humanity that tie us all together. And you only find that by living life and loving and breaking up.",
+        "author": {
+            "name": "Julian Morris",
+            "url": "/quotes/julian_morris_514153"
+        },
+        "topics": [
+            {
+                "name": "Finding",
+                "url": "/topics/finding"
+            },
+            {
+                "name": "Living",
+                "url": "/topics/living"
+            },
+            {
+                "name": "Living Life",
+                "url": "/topics/living_life"
+            }
+        ]
+    }
+]

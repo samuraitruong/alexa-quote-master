@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/john_jay_142442",
+        "quote": "No power on earth has a right to take our property from us without our consent.",
+        "author": {
+            "name": "John Jay",
+            "url": "/quotes/john_jay_142442"
+        },
+        "topics": [
+            {
+                "name": "Earth",
+                "url": "/topics/earth"
+            },
+            {
+                "name": "Property",
+                "url": "/topics/property"
+            },
+            {
+                "name": "Take",
+                "url": "/topics/take"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_jay_143293",
+        "quote": "Those who own the country ought to govern it.",
+        "author": {
+            "name": "John Jay",
+            "url": "/quotes/john_jay_143293"
+        },
+        "topics": [
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            },
+            {
+                "name": "Govern",
+                "url": "/topics/govern"
+            }
+        ]
+    }
+]

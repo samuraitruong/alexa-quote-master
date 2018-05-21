@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/paul_rhys_571111",
+        "quote": "I'm totally obsessed with Dickens, and 'Great Expectations' was one of the first book's I read when I was still in school in Porthcawl.",
+        "author": {
+            "name": "Paul Rhys",
+            "url": "/quotes/paul_rhys_571111"
+        },
+        "topics": [
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            },
+            {
+                "name": "Read",
+                "url": "/topics/read"
+            },
+            {
+                "name": "Obsessed",
+                "url": "/topics/obsessed"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_rhys_571112",
+        "quote": "I've always just been more comfortable as an outsider.",
+        "author": {
+            "name": "Paul Rhys",
+            "url": "/quotes/paul_rhys_571112"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    }
+]

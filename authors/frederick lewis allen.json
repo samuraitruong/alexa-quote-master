@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/frederick_lewis_allen_202223",
+        "quote": "Wilson thought in terms of the whole world; Harding was for America first. And, finally, whereas Wilson wanted America to exert itself nobly, Harding wanted to give it a rest.",
+        "author": {
+            "name": "Frederick Lewis Allen",
+            "url": "/quotes/frederick_lewis_allen_202223"
+        },
+        "topics": [
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Rest",
+                "url": "/topics/rest"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/frederick_lewis_allen_202225",
+        "quote": "Everything is more complicated than it looks to most people.",
+        "author": {
+            "name": "Frederick Lewis Allen",
+            "url": "/quotes/frederick_lewis_allen_202225"
+        },
+        "topics": [
+            {
+                "name": "Looks",
+                "url": "/topics/looks"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            }
+        ]
+    }
+]

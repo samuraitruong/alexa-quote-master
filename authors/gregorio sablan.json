@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/gregorio_sablan_632252",
+        "quote": "I love to walk. Back home, I do that every day. I leave home and walk, and go walk for hours.",
+        "author": {
+            "name": "Gregorio Sablan",
+            "url": "/quotes/gregorio_sablan_632252"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Hours",
+                "url": "/topics/hours"
+            },
+            {
+                "name": "I Love",
+                "url": "/topics/i_love"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gregorio_sablan_632253",
+        "quote": "My wife doesn't like me eating doughnuts. I love doughnuts.",
+        "author": {
+            "name": "Gregorio Sablan",
+            "url": "/quotes/gregorio_sablan_632253"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "I Love",
+                "url": "/topics/i_love"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gregorio_sablan_632254",
+        "quote": "I've always had this core belief in public service. Even before I became a citizen, I volunteered in the Army.",
+        "author": {
+            "name": "Gregorio Sablan",
+            "url": "/quotes/gregorio_sablan_632254"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Volunteered",
+                "url": "/topics/volunteered"
+            },
+            {
+                "name": "Became",
+                "url": "/topics/became"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gregorio_sablan_632255",
+        "quote": "We in Congress must take action to keep assault weapons and high-capacity clips out of the hands of those who are so dangerous or deranged or deluded that they can snuff out the life of innocents on a whim.",
+        "author": {
+            "name": "Gregorio Sablan",
+            "url": "/quotes/gregorio_sablan_632255"
+        },
+        "topics": [
+            {
+                "name": "Hands",
+                "url": "/topics/hands"
+            },
+            {
+                "name": "Assault",
+                "url": "/topics/assault"
+            },
+            {
+                "name": "Whim",
+                "url": "/topics/whim"
+            }
+        ]
+    }
+]

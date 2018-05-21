@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/john_knox_194151",
+        "quote": "A man with God is always in the majority.",
+        "author": {
+            "name": "John Knox",
+            "url": "/quotes/john_knox_194151"
+        },
+        "topics": [
+            {
+                "name": "Man",
+                "url": "/topics/man"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Majority",
+                "url": "/topics/majority"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_knox_194152",
+        "quote": "No one else holds or has held the place in the heart of the world which Jesus holds. Other gods have been as devoutly worshipped; no other man has been so devoutly loved.",
+        "author": {
+            "name": "John Knox",
+            "url": "/quotes/john_knox_194152"
+        },
+        "topics": [
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_knox_378457",
+        "quote": "You cannot antagonize and influence at the same time.",
+        "author": {
+            "name": "John Knox",
+            "url": "/quotes/john_knox_378457"
+        },
+        "topics": [
+            {
+                "name": "Same",
+                "url": "/topics/same"
+            },
+            {
+                "name": "Cannot",
+                "url": "/topics/cannot"
+            },
+            {
+                "name": "Same Time",
+                "url": "/topics/same_time"
+            }
+        ]
+    }
+]

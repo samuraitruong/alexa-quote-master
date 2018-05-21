@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/jim_balsillie_404891",
+        "quote": "You have to pay a lot of attention to what's important, what's permanent, what's real.",
+        "author": {
+            "name": "Jim Balsillie",
+            "url": "/quotes/jim_balsillie_404891"
+        },
+        "topics": [
+            {
+                "name": "Important",
+                "url": "/topics/important"
+            },
+            {
+                "name": "Permanent",
+                "url": "/topics/permanent"
+            },
+            {
+                "name": "Lot",
+                "url": "/topics/lot"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jim_balsillie_405161",
+        "quote": "I don't think people buy technology products because of the personalities of the people behind them.",
+        "author": {
+            "name": "Jim Balsillie",
+            "url": "/quotes/jim_balsillie_405161"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Behind",
+                "url": "/topics/behind"
+            },
+            {
+                "name": "Buy",
+                "url": "/topics/buy"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jim_balsillie_405465",
+        "quote": "In spite of all this noise, customers are still definitely buying in North America, and they're really, really buying internationally.",
+        "author": {
+            "name": "Jim Balsillie",
+            "url": "/quotes/jim_balsillie_405465"
+        },
+        "topics": [
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            },
+            {
+                "name": "North",
+                "url": "/topics/north"
+            },
+            {
+                "name": "North America",
+                "url": "/topics/north_america"
+            }
+        ]
+    }
+]

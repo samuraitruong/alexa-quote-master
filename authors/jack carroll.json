@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/jack_carroll_185511",
+        "quote": "Perhaps the greatest utopia would be if we could all realize that no utopia is possible; no place to run, no place to hide, just take care of business here and now.",
+        "author": {
+            "name": "Jack Carroll",
+            "url": "/quotes/jack_carroll_185511"
+        },
+        "topics": [
+            {
+                "name": "Business",
+                "url": "/topics/business"
+            },
+            {
+                "name": "Utopia",
+                "url": "/topics/utopia"
+            },
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jack_carroll_393273",
+        "quote": "I was gladly cuffed, shackled, loaded into the caged bus and driven through the main gate of Bare Hill Correctional Facility for what I pray to God will be forever.",
+        "author": {
+            "name": "Jack Carroll",
+            "url": "/quotes/jack_carroll_393273"
+        },
+        "topics": [
+            {
+                "name": "Bus",
+                "url": "/topics/bus"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    }
+]

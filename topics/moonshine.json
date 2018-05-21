@@ -1,0 +1,134 @@
+[
+    {
+        "url": "/quotes/william_tecumseh_sherman_190604?src=t_moonshine",
+        "quote": "I am tired and sick of war. Its glory is all moonshine. It is only those who have neither fired a shot nor heard the shrieks and groans of the wounded who cry aloud for blood, for vengeance, for desolation. War is hell.",
+        "author": {
+            "name": "William Tecumseh Sherman",
+            "url": "/authors/william_tecumseh_sherman"
+        },
+        "topics": [
+            {
+                "name": "War",
+                "url": "/topics/war"
+            },
+            {
+                "name": "Sick",
+                "url": "/topics/sick"
+            },
+            {
+                "name": "Vengeance",
+                "url": "/topics/vengeance"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/big_smo_702765?src=t_moonshine",
+        "quote": "My playground is full of moonshine, mason jars, beer bottles, and bonfires.",
+        "author": {
+            "name": "Big Smo",
+            "url": "/authors/big_smo"
+        },
+        "topics": [
+            {
+                "name": "Playground",
+                "url": "/topics/playground"
+            },
+            {
+                "name": "Bottles",
+                "url": "/topics/bottles"
+            },
+            {
+                "name": "Mason",
+                "url": "/topics/mason"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/johnny_knoxville_404211?src=t_moonshine",
+        "quote": "You can tell it's good if you light it and a blue flame comes up; that means it's good moonshine and it won't make you go blind.",
+        "author": {
+            "name": "Johnny Knoxville",
+            "url": "/authors/johnny_knoxville"
+        },
+        "topics": [
+            {
+                "name": "Blind",
+                "url": "/topics/blind"
+            },
+            {
+                "name": "Tell",
+                "url": "/topics/tell"
+            },
+            {
+                "name": "Means",
+                "url": "/topics/means"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/h_l_mencken_124666?src=t_moonshine",
+        "quote": "We are here and it is now. Further than that, all human knowledge is moonshine.",
+        "author": {
+            "name": "H. L. Mencken",
+            "url": "/authors/h_l_mencken"
+        },
+        "topics": [
+            {
+                "name": "Knowledge",
+                "url": "/topics/knowledge"
+            },
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            },
+            {
+                "name": "Now",
+                "url": "/topics/now"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/loretta_lynn_313405?src=t_moonshine",
+        "quote": "Doo never actually made moonshine, but he hauled about an ocean of it.",
+        "author": {
+            "name": "Loretta Lynn",
+            "url": "/authors/loretta_lynn"
+        },
+        "topics": [
+            {
+                "name": "Ocean",
+                "url": "/topics/ocean"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Actually",
+                "url": "/topics/actually"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dierks_bentley_791743?src=t_moonshine",
+        "quote": "I've had some shows where I really plan out what I'm going to say. Then I've had other shows where I'm like, 'Take a sip of the Ole Smoky Moonshine and just let it be natural and cross your fingers that you say the right things.'",
+        "author": {
+            "name": "Dierks Bentley",
+            "url": "/authors/dierks_bentley"
+        },
+        "topics": [
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Smoky",
+                "url": "/topics/smoky"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/lionel_stander_211429",
+        "quote": "I am a professional performer and I only appear on TV for entertainment or for philanthropic organizations, and I consider this a very serious matter that doesn't fit into either category.",
+        "author": {
+            "name": "Lionel Stander",
+            "url": "/quotes/lionel_stander_211429"
+        },
+        "topics": [
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Performer",
+                "url": "/topics/performer"
+            },
+            {
+                "name": "TV",
+                "url": "/topics/tv"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lionel_stander_211430",
+        "quote": "Anyone who lives within his means suffers from a lack of imagination.",
+        "author": {
+            "name": "Lionel Stander",
+            "url": "/quotes/lionel_stander_211430"
+        },
+        "topics": [
+            {
+                "name": "His",
+                "url": "/topics/his"
+            },
+            {
+                "name": "Means",
+                "url": "/topics/means"
+            },
+            {
+                "name": "Lives",
+                "url": "/topics/lives"
+            }
+        ]
+    }
+]

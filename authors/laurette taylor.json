@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/laurette_taylor_400673",
+        "quote": "Acting is the physical representation of a mental picture and the projection of an emotional concept.",
+        "author": {
+            "name": "Laurette Taylor",
+            "url": "/quotes/laurette_taylor_400673"
+        },
+        "topics": [
+            {
+                "name": "Emotional",
+                "url": "/topics/emotional"
+            },
+            {
+                "name": "Mental",
+                "url": "/topics/mental"
+            },
+            {
+                "name": "Concept",
+                "url": "/topics/concept"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/laurette_taylor_401970",
+        "quote": "Personality is more important than beauty, but imagination is more important than both of them.",
+        "author": {
+            "name": "Laurette Taylor",
+            "url": "/quotes/laurette_taylor_401970"
+        },
+        "topics": [
+            {
+                "name": "Personality",
+                "url": "/topics/personality"
+            },
+            {
+                "name": "Important",
+                "url": "/topics/important"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/chang_chenyue_742655",
+        "quote": "I love playing the guitar.",
+        "author": {
+            "name": "Chang Chen-yue",
+            "url": "/quotes/chang_chenyue_742655"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Playing",
+                "url": "/topics/playing"
+            },
+            {
+                "name": "I Love",
+                "url": "/topics/i_love"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/chang_chenyue_742656",
+        "quote": "As a songwriter, that's really what you hope for - to make that connection with your audience.",
+        "author": {
+            "name": "Chang Chen-yue",
+            "url": "/quotes/chang_chenyue_742656"
+        },
+        "topics": [
+            {
+                "name": "Connection",
+                "url": "/topics/connection"
+            },
+            {
+                "name": "Audience",
+                "url": "/topics/audience"
+            },
+            {
+                "name": "Your",
+                "url": "/topics/your"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/chang_chenyue_742657",
+        "quote": "I don't feel any warmth towards politics. I'm with the forever opposition party.",
+        "author": {
+            "name": "Chang Chen-yue",
+            "url": "/quotes/chang_chenyue_742657"
+        },
+        "topics": [
+            {
+                "name": "Politics",
+                "url": "/topics/politics"
+            },
+            {
+                "name": "Opposition",
+                "url": "/topics/opposition"
+            },
+            {
+                "name": "Warmth",
+                "url": "/topics/warmth"
+            }
+        ]
+    }
+]

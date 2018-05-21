@@ -1,0 +1,288 @@
+[
+    {
+        "url": "/quotes/guido_van_rossum_242964?src=t_scripting",
+        "quote": "Now, it's my belief that Python is a lot easier than to teach to students programming and teach them C or C++ or Java at the same time because all the details of the languages are so much harder. Other scripting languages really don't work very well there either.",
+        "author": {
+            "name": "Guido van Rossum",
+            "url": "/authors/guido_van_rossum"
+        },
+        "topics": [
+            {
+                "name": "Students",
+                "url": "/topics/students"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/vitalik_buterin_847207?src=t_scripting",
+        "quote": "Bitcoin is great as a form of digital money, but its scripting language is too weak for any kind of serious advanced applications to be built on top.",
+        "author": {
+            "name": "Vitalik Buterin",
+            "url": "/authors/vitalik_buterin"
+        },
+        "topics": [
+            {
+                "name": "Digital",
+                "url": "/topics/digital"
+            },
+            {
+                "name": "Built",
+                "url": "/topics/built"
+            },
+            {
+                "name": "Advanced",
+                "url": "/topics/advanced"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_middleditch_870945?src=t_scripting",
+        "quote": "I understand what scripting and programming is, but do I know how to do it? Not really. But, I think that even knocking on the door allows you to understand a little bit of that kind of stuff. Mainly what 'Silicon Valley' has taught me, in that respect, is the business side of it, with that gold rush element as opposed to creating software.",
+        "author": {
+            "name": "Thomas Middleditch",
+            "url": "/authors/thomas_middleditch"
+        },
+        "topics": [
+            {
+                "name": "Door",
+                "url": "/topics/door"
+            },
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/matthew_perry_588547?src=t_scripting",
+        "quote": "Women always think that I'm Chandler, so if I don't joke around for half an hour, they think that something's wrong. Then I explain that I don't have comedy writers scripting everything I'm saying at this particular dinner.",
+        "author": {
+            "name": "Matthew Perry",
+            "url": "/authors/matthew_perry"
+        },
+        "topics": [
+            {
+                "name": "Explain",
+                "url": "/topics/explain"
+            },
+            {
+                "name": "Half",
+                "url": "/topics/half"
+            },
+            {
+                "name": "Around",
+                "url": "/topics/around"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/fred_ehrsam_850330?src=t_scripting",
+        "quote": "When the actual Bitcoin network launched in 2009, no one knew about it, and many of those who did thought it would surely fail. Just to make sure the thing worked, the scripting language in Bitcoin was intentionally extremely restrictive.",
+        "author": {
+            "name": "Fred Ehrsam",
+            "url": "/authors/fred_ehrsam"
+        },
+        "topics": [
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Surely",
+                "url": "/topics/surely"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/fred_ehrsam_850331?src=t_scripting",
+        "quote": "The scripting language in Bitcoin is important because it is what makes Bitcoin 'programmable money'. Within each Bitcoin transaction is the ability to write a little program.",
+        "author": {
+            "name": "Fred Ehrsam",
+            "url": "/authors/fred_ehrsam"
+        },
+        "topics": [
+            {
+                "name": "Language",
+                "url": "/topics/language"
+            },
+            {
+                "name": "Within",
+                "url": "/topics/within"
+            },
+            {
+                "name": "Makes",
+                "url": "/topics/makes"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jeffrey_zeldman_722236?src=t_scripting",
+        "quote": "We at The Web Standards Project turned everything on its head. We said browsers should support the same standards instead of competing to invent new tags and scripting languages. We said designers, developers, and content folks should create one site that was accessible to everyone.",
+        "author": {
+            "name": "Jeffrey Zeldman",
+            "url": "/authors/jeffrey_zeldman"
+        },
+        "topics": [
+            {
+                "name": "Project",
+                "url": "/topics/project"
+            },
+            {
+                "name": "Accessible",
+                "url": "/topics/accessible"
+            },
+            {
+                "name": "Turned",
+                "url": "/topics/turned"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/guido_van_rossum_242965?src=t_scripting",
+        "quote": "There was a project at Lawrence Livermore National Labs where many years ago they went down this path for scripting and controlling very large numerical calculations.",
+        "author": {
+            "name": "Guido van Rossum",
+            "url": "/authors/guido_van_rossum"
+        },
+        "topics": [
+            {
+                "name": "Project",
+                "url": "/topics/project"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Large",
+                "url": "/topics/large"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/guido_van_rossum_242970?src=t_scripting",
+        "quote": "Mark Hammond is working in this area, with Windows Scripting Host. It is definitely an area where Python fits almost perfectly. That's quite independent from Java, actually.",
+        "author": {
+            "name": "Guido van Rossum",
+            "url": "/authors/guido_van_rossum"
+        },
+        "topics": [
+            {
+                "name": "Python",
+                "url": "/topics/python"
+            },
+            {
+                "name": "Area",
+                "url": "/topics/area"
+            },
+            {
+                "name": "Perfectly",
+                "url": "/topics/perfectly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/hari_kunzru_537381?src=t_scripting",
+        "quote": "These days we're all hyper-aware of the canonical way in which stories are supposed to play out - people are taught all about three-act scripting and where to put the reversal and all of that - and I think we can do more interesting narratives.",
+        "author": {
+            "name": "Hari Kunzru",
+            "url": "/authors/hari_kunzru"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jacques_audiard_539660?src=t_scripting",
+        "quote": "I really believe the form of the film must be in the scenario; cinema is not just added value to the scripting. I believe in it as a totality.",
+        "author": {
+            "name": "Jacques Audiard",
+            "url": "/authors/jacques_audiard"
+        },
+        "topics": [
+            {
+                "name": "Believe",
+                "url": "/topics/believe"
+            },
+            {
+                "name": "Film",
+                "url": "/topics/film"
+            },
+            {
+                "name": "Added",
+                "url": "/topics/added"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/natalie_jeremijenko_563842?src=t_scripting",
+        "quote": "Eating together is the most intimate form of kinship. By scripting a work where we share the same kind of food with fish, I'm scripting our interrelationship with them.",
+        "author": {
+            "name": "Natalie Jeremijenko",
+            "url": "/authors/natalie_jeremijenko"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Kind",
+                "url": "/topics/kind"
+            },
+            {
+                "name": "Kinship",
+                "url": "/topics/kinship"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jeffrey_brown_644730?src=t_scripting",
+        "quote": "Generally, I don't pencil, especially with the autobiographical comics, although I've usually planed out composition in my head during the scripting stage. I like to work directly in ink, to keep the spontaneity and expression conveyed by a less worked over line.",
+        "author": {
+            "name": "Jeffrey Brown",
+            "url": "/authors/jeffrey_brown"
+        },
+        "topics": [
+            {
+                "name": "Line",
+                "url": "/topics/line"
+            },
+            {
+                "name": "Comics",
+                "url": "/topics/comics"
+            },
+            {
+                "name": "Conveyed",
+                "url": "/topics/conveyed"
+            }
+        ]
+    }
+]

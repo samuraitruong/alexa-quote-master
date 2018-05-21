@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/hugh_hudson_620993",
+        "quote": "With unknown actors, you look at them afresh. It's a very powerful element.",
+        "author": {
+            "name": "Hugh Hudson",
+            "url": "/quotes/hugh_hudson_620993"
+        },
+        "topics": [
+            {
+                "name": "Powerful",
+                "url": "/topics/powerful"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Them",
+                "url": "/topics/them"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/hugh_hudson_620994",
+        "quote": "It's much more straightforward to get finance when you have an Oscar.",
+        "author": {
+            "name": "Hugh Hudson",
+            "url": "/quotes/hugh_hudson_620994"
+        },
+        "topics": [
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Straightforward",
+                "url": "/topics/straightforward"
+            },
+            {
+                "name": "Oscar",
+                "url": "/topics/oscar"
+            }
+        ]
+    }
+]

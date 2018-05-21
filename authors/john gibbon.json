@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/john_gibbon_221921",
+        "quote": "Few of us will forget the wail of mingled grief, rage and horror which rose from the camp when the Indians returned to it and recognized their slaughtered warriors, women, and children.",
+        "author": {
+            "name": "John Gibbon",
+            "url": "/quotes/john_gibbon_221921"
+        },
+        "topics": [
+            {
+                "name": "Horror",
+                "url": "/topics/horror"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_gibbon_221919",
+        "quote": "Suddenly a single shot on the extreme left rang out on the clear morning air, followed quickly by several others, and the whole line pushed rapidly forward through the brush.",
+        "author": {
+            "name": "John Gibbon",
+            "url": "/quotes/john_gibbon_221919"
+        },
+        "topics": [
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Line",
+                "url": "/topics/line"
+            },
+            {
+                "name": "Brush",
+                "url": "/topics/brush"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/earl_hines_177066",
+        "quote": "I always challenge myself. I get out in deep water and I always try to get back. But I get hung up. The audience never knows, but that's when I smile the most, when I show the most ivory.",
+        "author": {
+            "name": "Earl Hines",
+            "url": "/quotes/earl_hines_177066"
+        },
+        "topics": [
+            {
+                "name": "Deep",
+                "url": "/topics/deep"
+            },
+            {
+                "name": "Audience",
+                "url": "/topics/audience"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/earl_hines_177067",
+        "quote": "I don't think I think when I play. I have a photographic memory for chords, and when I'm playing, the right chords appear in my mind like photographs long before I get to them.",
+        "author": {
+            "name": "Earl Hines",
+            "url": "/quotes/earl_hines_177067"
+        },
+        "topics": [
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            }
+        ]
+    }
+]

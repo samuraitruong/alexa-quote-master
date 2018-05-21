@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/benjamin_graham_173254",
+        "quote": "Wall Street people learn nothing and forget everything.",
+        "author": {
+            "name": "Benjamin Graham",
+            "url": "/quotes/benjamin_graham_173254"
+        },
+        "topics": [
+            {
+                "name": "Forget",
+                "url": "/topics/forget"
+            },
+            {
+                "name": "Street",
+                "url": "/topics/street"
+            },
+            {
+                "name": "Learn",
+                "url": "/topics/learn"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/benjamin_graham_173252",
+        "quote": "Most of the time common stocks are subject to irrational and excessive price fluctuations in both directions as the consequence of the ingrained tendency of most people to speculate or gamble... to give way to hope, fear and greed.",
+        "author": {
+            "name": "Benjamin Graham",
+            "url": "/quotes/benjamin_graham_173252"
+        },
+        "topics": [
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            },
+            {
+                "name": "Tendency",
+                "url": "/topics/tendency"
+            },
+            {
+                "name": "Consequence",
+                "url": "/topics/consequence"
+            }
+        ]
+    }
+]

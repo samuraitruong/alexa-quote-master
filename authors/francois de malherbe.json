@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/francois_de_malherbe_338692",
+        "quote": "Our days and nights have sorrows woven with delights.",
+        "author": {
+            "name": "Francois de Malherbe",
+            "url": "/quotes/francois_de_malherbe_338692"
+        },
+        "topics": [
+            {
+                "name": "Nights",
+                "url": "/topics/nights"
+            },
+            {
+                "name": "Delights",
+                "url": "/topics/delights"
+            },
+            {
+                "name": "Woven",
+                "url": "/topics/woven"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/francois_de_malherbe_629326",
+        "quote": "To will what God doth will, that is the only science that gives us any rest.",
+        "author": {
+            "name": "Francois de Malherbe",
+            "url": "/quotes/francois_de_malherbe_629326"
+        },
+        "topics": [
+            {
+                "name": "Rest",
+                "url": "/topics/rest"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Doth",
+                "url": "/topics/doth"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/morey_amsterdam_212197",
+        "quote": "Even the police have an unlisted number.",
+        "author": {
+            "name": "Morey Amsterdam",
+            "url": "/quotes/morey_amsterdam_212197"
+        },
+        "topics": [
+            {
+                "name": "Police",
+                "url": "/topics/police"
+            },
+            {
+                "name": "Number",
+                "url": "/topics/number"
+            },
+            {
+                "name": "Even",
+                "url": "/topics/even"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/morey_amsterdam_212198",
+        "quote": "A Cannibal is a person who walks into a restaurant and orders a waiter.",
+        "author": {
+            "name": "Morey Amsterdam",
+            "url": "/quotes/morey_amsterdam_212198"
+        },
+        "topics": [
+            {
+                "name": "Person",
+                "url": "/topics/person"
+            },
+            {
+                "name": "Walks",
+                "url": "/topics/walks"
+            },
+            {
+                "name": "Cannibal",
+                "url": "/topics/cannibal"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/jeane_dixon_182178",
+        "quote": "Our lives are programmed at conception and are endowed with purpose and meaning.",
+        "author": {
+            "name": "Jeane Dixon",
+            "url": "/quotes/jeane_dixon_182178"
+        },
+        "topics": [
+            {
+                "name": "Purpose",
+                "url": "/topics/purpose"
+            },
+            {
+                "name": "Meaning",
+                "url": "/topics/meaning"
+            },
+            {
+                "name": "Lives",
+                "url": "/topics/lives"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jeane_dixon_182179",
+        "quote": "During the 1960 election, I saw Richard Nixon as the winner.",
+        "author": {
+            "name": "Jeane Dixon",
+            "url": "/quotes/jeane_dixon_182179"
+        },
+        "topics": [
+            {
+                "name": "Election",
+                "url": "/topics/election"
+            },
+            {
+                "name": "Richard",
+                "url": "/topics/richard"
+            },
+            {
+                "name": "Nixon",
+                "url": "/topics/nixon"
+            }
+        ]
+    }
+]

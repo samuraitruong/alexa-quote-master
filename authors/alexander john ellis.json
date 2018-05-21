@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/alexander_john_ellis_228326",
+        "quote": "Rounding to the nearest cent is sufficiently accurate for practical purposes.",
+        "author": {
+            "name": "Alexander John Ellis",
+            "url": "/quotes/alexander_john_ellis_228326"
+        },
+        "topics": [
+            {
+                "name": "Finance",
+                "url": "/topics/finance"
+            },
+            {
+                "name": "Practical",
+                "url": "/topics/practical"
+            },
+            {
+                "name": "Accurate",
+                "url": "/topics/accurate"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alexander_john_ellis_228327",
+        "quote": "Cents are the most universally used interval measure.",
+        "author": {
+            "name": "Alexander John Ellis",
+            "url": "/quotes/alexander_john_ellis_228327"
+        },
+        "topics": [
+            {
+                "name": "Measure",
+                "url": "/topics/measure"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "Universally",
+                "url": "/topics/universally"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/jason_falkner_733118",
+        "quote": "I love building a song up from nothing and jumping from one instrument to another.",
+        "author": {
+            "name": "Jason Falkner",
+            "url": "/quotes/jason_falkner_733118"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Song",
+                "url": "/topics/song"
+            },
+            {
+                "name": "I Love",
+                "url": "/topics/i_love"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jason_falkner_733119",
+        "quote": "I feel that recording a song already compromises the magical music one can create in the mind, so the fewer people watering down this process the better.",
+        "author": {
+            "name": "Jason Falkner",
+            "url": "/quotes/jason_falkner_733119"
+        },
+        "topics": [
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Song",
+                "url": "/topics/song"
+            },
+            {
+                "name": "Process",
+                "url": "/topics/process"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jason_falkner_733120",
+        "quote": "I can't say that I knocked on every door, but the few that I did didn't respond the way I wanted them to, so I think it was kind of disenchanting enough for me to go back to being subterranean.",
+        "author": {
+            "name": "Jason Falkner",
+            "url": "/quotes/jason_falkner_733120"
+        },
+        "topics": [
+            {
+                "name": "Door",
+                "url": "/topics/door"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    }
+]

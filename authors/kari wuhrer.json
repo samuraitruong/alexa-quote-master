@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/kari_wuhrer_569973",
+        "quote": "I wanna create a character that's really memorable... like Julia Roberts did in 'Pretty Woman.'",
+        "author": {
+            "name": "Kari Wuhrer",
+            "url": "/quotes/kari_wuhrer_569973"
+        },
+        "topics": [
+            {
+                "name": "Woman",
+                "url": "/topics/woman"
+            },
+            {
+                "name": "Pretty",
+                "url": "/topics/pretty"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kari_wuhrer_656773",
+        "quote": "I'm the queen of the independent video!",
+        "author": {
+            "name": "Kari Wuhrer",
+            "url": "/quotes/kari_wuhrer_656773"
+        },
+        "topics": [
+            {
+                "name": "Queen",
+                "url": "/topics/queen"
+            },
+            {
+                "name": "Independent",
+                "url": "/topics/independent"
+            },
+            {
+                "name": "Video",
+                "url": "/topics/video"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kari_wuhrer_656774",
+        "quote": "My body is my greatest asset.",
+        "author": {
+            "name": "Kari Wuhrer",
+            "url": "/quotes/kari_wuhrer_656774"
+        },
+        "topics": [
+            {
+                "name": "Body",
+                "url": "/topics/body"
+            },
+            {
+                "name": "Greatest Asset",
+                "url": "/topics/greatest_asset"
+            },
+            {
+                "name": "Asset",
+                "url": "/topics/asset"
+            }
+        ]
+    }
+]

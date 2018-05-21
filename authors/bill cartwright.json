@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/bill_cartwright_195147",
+        "quote": "The triangle is a foundation to an offense.",
+        "author": {
+            "name": "Bill Cartwright",
+            "url": "/quotes/bill_cartwright_195147"
+        },
+        "topics": [
+            {
+                "name": "Foundation",
+                "url": "/topics/foundation"
+            },
+            {
+                "name": "Offense",
+                "url": "/topics/offense"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_cartwright_195144",
+        "quote": "I remember when I was in college, people told me I couldn't play in the NBA. There's always somebody saying you can't do it, and those people have to be ignored.",
+        "author": {
+            "name": "Bill Cartwright",
+            "url": "/quotes/bill_cartwright_195144"
+        },
+        "topics": [
+            {
+                "name": "College",
+                "url": "/topics/college"
+            },
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_cartwright_195146",
+        "quote": "You can lead a team in a lot of different ways. It can be talking to somebody who is down or, during the course of a game, looking to penetrate and then dropping the ball off to someone else for an easy bucket.",
+        "author": {
+            "name": "Bill Cartwright",
+            "url": "/quotes/bill_cartwright_195146"
+        },
+        "topics": [
+            {
+                "name": "Team",
+                "url": "/topics/team"
+            },
+            {
+                "name": "Game",
+                "url": "/topics/game"
+            },
+            {
+                "name": "Dropping",
+                "url": "/topics/dropping"
+            }
+        ]
+    }
+]

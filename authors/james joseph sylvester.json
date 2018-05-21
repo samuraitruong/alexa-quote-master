@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/james_joseph_sylvester_198791",
+        "quote": "Mathematics is the music of reason.",
+        "author": {
+            "name": "James Joseph Sylvester",
+            "url": "/quotes/james_joseph_sylvester_198791"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "Mathematics",
+                "url": "/topics/mathematics"
+            },
+            {
+                "name": "Reason",
+                "url": "/topics/reason"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_joseph_sylvester_198792",
+        "quote": "May not music be described as the mathematics of the sense, mathematics as music of the reason? The musician feels mathematics, the mathematician thinks music: music the dream, mathematics the working life.",
+        "author": {
+            "name": "James Joseph Sylvester",
+            "url": "/quotes/james_joseph_sylvester_198792"
+        },
+        "topics": [
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Reason",
+                "url": "/topics/reason"
+            },
+            {
+                "name": "Feels",
+                "url": "/topics/feels"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_joseph_sylvester_198793",
+        "quote": "The object of pure physics is the unfolding of the laws of the intelligible world; the object of pure mathematics that of unfolding the laws of human intelligence.",
+        "author": {
+            "name": "James Joseph Sylvester",
+            "url": "/quotes/james_joseph_sylvester_198793"
+        },
+        "topics": [
+            {
+                "name": "Human Intelligence",
+                "url": "/topics/human_intelligence"
+            },
+            {
+                "name": "Laws",
+                "url": "/topics/laws"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_joseph_sylvester_198794",
+        "quote": "The early study of Euclid made me a hater of geometry.",
+        "author": {
+            "name": "James Joseph Sylvester",
+            "url": "/quotes/james_joseph_sylvester_198794"
+        },
+        "topics": [
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Study",
+                "url": "/topics/study"
+            },
+            {
+                "name": "Made",
+                "url": "/topics/made"
+            }
+        ]
+    }
+]

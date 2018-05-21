@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/tom_colicchio_500710?src=t_is_it_worth_it",
+        "quote": "I want to feed my kid something that is real and not processed. It's hard to do. People are working and busy. The question is: Is it worth it? Is it worth stopping at the farm stand or supermarket to buy fresh ingredients?",
+        "author": {
+            "name": "Tom Colicchio",
+            "url": "/authors/tom_colicchio"
+        },
+        "topics": [
+            {
+                "name": "Kid",
+                "url": "/topics/kid"
+            },
+            {
+                "name": "Worth",
+                "url": "/topics/worth"
+            },
+            {
+                "name": "Buy",
+                "url": "/topics/buy"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/roger_mcgough_306195?src=t_is_it_worth_it",
+        "quote": "Yes, you can feel very alone as a poet and you sometimes think, is it worth it? Is it worth carrying on? But because there were other poets, you became part of a scene. Even though they were very different writers, it made it easier because you were together.",
+        "author": {
+            "name": "Roger McGough",
+            "url": "/authors/roger_mcgough"
+        },
+        "topics": [
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Became",
+                "url": "/topics/became"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/christine_odonnell_412676?src=t_is_it_worth_it",
+        "quote": "Will they attack us? Yes. Will they smear our backgrounds and distort our records? Undoubtedly. Will they lie about us, harass our families, namecall to try to intimidate us? They will. There's nothing safe about it. But is it worth it? Well, let me ask you. Is freedom worth it? Is America worth it?",
+        "author": {
+            "name": "Christine O'Donnell",
+            "url": "/authors/christine_odonnell"
+        },
+        "topics": [
+            {
+                "name": "Lie",
+                "url": "/topics/lie"
+            },
+            {
+                "name": "Records",
+                "url": "/topics/records"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/larry_charles_571107?src=t_is_it_worth_it",
+        "quote": "I don't want to just add another DVD to the pile. So I think, 'Is this going to have an impact and some lasting value? Is it worth it for me to spend two years of my middle-aged life on this?' They're my criteria, and I think that's led me to more urgent projects.",
+        "author": {
+            "name": "Larry Charles",
+            "url": "/authors/larry_charles"
+        },
+        "topics": [
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Projects",
+                "url": "/topics/projects"
+            }
+        ]
+    }
+]

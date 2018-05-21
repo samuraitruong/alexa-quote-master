@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/roger_vadim_228962",
+        "quote": "We're playing strip billiards.",
+        "author": {
+            "name": "Roger Vadim",
+            "url": "/quotes/roger_vadim_228962"
+        },
+        "topics": [
+            {
+                "name": "Playing",
+                "url": "/topics/playing"
+            },
+            {
+                "name": "Billiards",
+                "url": "/topics/billiards"
+            },
+            {
+                "name": "Strip",
+                "url": "/topics/strip"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/roger_vadim_228959",
+        "quote": "You wouldn't ask Rodin to make an ugly sculpture, or me to make a film with an ugly woman.",
+        "author": {
+            "name": "Roger Vadim",
+            "url": "/quotes/roger_vadim_228959"
+        },
+        "topics": [
+            {
+                "name": "Woman",
+                "url": "/topics/woman"
+            },
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Ask",
+                "url": "/topics/ask"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/roger_vadim_228960",
+        "quote": "I wanted to show a normal young girl whose only difference was that she behaved in the way a boy might, without any sense of guilt on a moral or sexual level.",
+        "author": {
+            "name": "Roger Vadim",
+            "url": "/quotes/roger_vadim_228960"
+        },
+        "topics": [
+            {
+                "name": "Normal",
+                "url": "/topics/normal"
+            },
+            {
+                "name": "Only Difference",
+                "url": "/topics/only_difference"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/roger_vadim_228961",
+        "quote": "I shudder at the image they would piece together.",
+        "author": {
+            "name": "Roger Vadim",
+            "url": "/quotes/roger_vadim_228961"
+        },
+        "topics": [
+            {
+                "name": "Image",
+                "url": "/topics/image"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            },
+            {
+                "name": "Piece",
+                "url": "/topics/piece"
+            }
+        ]
+    }
+]

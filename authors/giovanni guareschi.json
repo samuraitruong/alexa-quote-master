@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/giovanni_guareschi_305055",
+        "quote": "When you share your last crust of bread with a beggar, you mustn't behave as if you were throwing a bone to a dog. You must give humbly, and thank him for allowing you to have a part in his hunger.",
+        "author": {
+            "name": "Giovanni Guareschi",
+            "url": "/quotes/giovanni_guareschi_305055"
+        },
+        "topics": [
+            {
+                "name": "Bread",
+                "url": "/topics/bread"
+            },
+            {
+                "name": "Last",
+                "url": "/topics/last"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/giovanni_guareschi_305054",
+        "quote": "It is right to hate sin, but not to hate the sinner.",
+        "author": {
+            "name": "Giovanni Guareschi",
+            "url": "/quotes/giovanni_guareschi_305054"
+        },
+        "topics": [
+            {
+                "name": "Hate",
+                "url": "/topics/hate"
+            },
+            {
+                "name": "Sin",
+                "url": "/topics/sin"
+            },
+            {
+                "name": "Right",
+                "url": "/topics/right"
+            }
+        ]
+    }
+]

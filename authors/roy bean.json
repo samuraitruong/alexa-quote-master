@@ -1,0 +1,156 @@
+[
+    {
+        "url": "/quotes/roy_bean_249999",
+        "quote": "Time will pass and seasons will come and go.",
+        "author": {
+            "name": "Roy Bean",
+            "url": "/quotes/roy_bean_249999"
+        },
+        "topics": [
+            {
+                "name": "Time",
+                "url": "/topics/time"
+            },
+            {
+                "name": "Seasons",
+                "url": "/topics/seasons"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/roy_bean_250003",
+        "quote": "And finally Winter, with its bitin', whinin' wind, and all the land will be mantled with snow.",
+        "author": {
+            "name": "Roy Bean",
+            "url": "/quotes/roy_bean_250003"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "Snow",
+                "url": "/topics/snow"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/roy_bean_250002",
+        "quote": "And Fall, with her yeller harvest moon and the hills growin' brown and golden under a sinkin' sun.",
+        "author": {
+            "name": "Roy Bean",
+            "url": "/quotes/roy_bean_250002"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "Moon",
+                "url": "/topics/moon"
+            },
+            {
+                "name": "Harvest",
+                "url": "/topics/harvest"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/roy_bean_249998",
+        "quote": "You have been tried by twelve good men and true, not of your peers but as high above you as heaven is of hell, and they have said you are guilty.",
+        "author": {
+            "name": "Roy Bean",
+            "url": "/quotes/roy_bean_249998"
+        },
+        "topics": [
+            {
+                "name": "Peers",
+                "url": "/topics/peers"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Your",
+                "url": "/topics/your"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/roy_bean_249995",
+        "quote": "Hang 'em first, try 'em later.",
+        "author": {
+            "name": "Roy Bean",
+            "url": "/quotes/roy_bean_249995"
+        },
+        "topics": [
+            {
+                "name": "Try",
+                "url": "/topics/try"
+            },
+            {
+                "name": "Later",
+                "url": "/topics/later"
+            },
+            {
+                "name": "Hang",
+                "url": "/topics/hang"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/roy_bean_249997",
+        "quote": "Gentlemen, I find the law very explicit on murdering your fellow man, but there's nothing here about killing a Chinaman. Case dismissed.",
+        "author": {
+            "name": "Roy Bean",
+            "url": "/quotes/roy_bean_249997"
+        },
+        "topics": [
+            {
+                "name": "Law",
+                "url": "/topics/law"
+            },
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/roy_bean_250005",
+        "quote": "I know the law... I am it's greatest transgressor.",
+        "author": {
+            "name": "Roy Bean",
+            "url": "/quotes/roy_bean_250005"
+        },
+        "topics": [
+            {
+                "name": "Law",
+                "url": "/topics/law"
+            },
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Know",
+                "url": "/topics/know"
+            }
+        ]
+    }
+]

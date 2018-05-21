@@ -1,0 +1,368 @@
+[
+    {
+        "url": "/quotes/brian_kernighan_722018",
+        "quote": "Even though most people won't be directly involved with programming, everyone is affected by computers, so an educated person should have a good understanding of how computer hardware, software, and networks operate.",
+        "author": {
+            "name": "Brian Kernighan",
+            "url": "/quotes/brian_kernighan_722018"
+        },
+        "topics": [
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "Everyone",
+                "url": "/topics/everyone"
+            },
+            {
+                "name": "Though",
+                "url": "/topics/though"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brian_kernighan_722017",
+        "quote": "Programming language is very specific to instructing a computer to do a particular structure of a sequence. It's the very way you tell the machine what you want it to do.",
+        "author": {
+            "name": "Brian Kernighan",
+            "url": "/quotes/brian_kernighan_722017"
+        },
+        "topics": [
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Programming Language",
+                "url": "/topics/programming_language"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brian_kernighan_722013",
+        "quote": "No matter what, the way to learn to program is to write code and rewrite it and see it used and rewrite again. Reading other people's code is invaluable as well.",
+        "author": {
+            "name": "Brian Kernighan",
+            "url": "/quotes/brian_kernighan_722013"
+        },
+        "topics": [
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Code",
+                "url": "/topics/code"
+            },
+            {
+                "name": "Invaluable",
+                "url": "/topics/invaluable"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brian_kernighan_722012",
+        "quote": "Every language teaches you something, so learning a language is never wasted, especially if it's different in more than just syntactic trivia.",
+        "author": {
+            "name": "Brian Kernighan",
+            "url": "/quotes/brian_kernighan_722012"
+        },
+        "topics": [
+            {
+                "name": "Language",
+                "url": "/topics/language"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Trivia",
+                "url": "/topics/trivia"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brian_kernighan_722009",
+        "quote": "If you don't understand viruses, phishing, and similar threats, you become more susceptible to them. If you don't know how social networks leak information that you thought was private, you're likely to reveal much more than you realize.",
+        "author": {
+            "name": "Brian Kernighan",
+            "url": "/quotes/brian_kernighan_722009"
+        },
+        "topics": [
+            {
+                "name": "Social Networks",
+                "url": "/topics/social_networks"
+            },
+            {
+                "name": "Private",
+                "url": "/topics/private"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brian_kernighan_722019",
+        "quote": "It's important to be informed about issues like usability, reliability, security, privacy, and some of the inherent limitations of computers.",
+        "author": {
+            "name": "Brian Kernighan",
+            "url": "/quotes/brian_kernighan_722019"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Informed",
+                "url": "/topics/informed"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brian_kernighan_722014",
+        "quote": "Bell Labs was an astonishing place for many decades, though it fell on somewhat hard times during the telecom meltdown some years ago, as its corporate owner had to cope with shrinking markets.",
+        "author": {
+            "name": "Brian Kernighan",
+            "url": "/quotes/brian_kernighan_722014"
+        },
+        "topics": [
+            {
+                "name": "Years",
+                "url": "/topics/years"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Had",
+                "url": "/topics/had"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brian_kernighan_722003",
+        "quote": "Unix has, I think for many years, had a reputation as being difficult to learn and incomplete. Difficult to learn means that the set of shared conventions, and things that are assumed about the way it works, and the basic mechanisms, are just different from what they are in other systems.",
+        "author": {
+            "name": "Brian Kernighan",
+            "url": "/quotes/brian_kernighan_722003"
+        },
+        "topics": [
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Shared",
+                "url": "/topics/shared"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brian_kernighan_722004",
+        "quote": "I had spent the summer of 1966 working at MIT in the group that was the MIT component of the Multics effort.",
+        "author": {
+            "name": "Brian Kernighan",
+            "url": "/quotes/brian_kernighan_722004"
+        },
+        "topics": [
+            {
+                "name": "Working",
+                "url": "/topics/working"
+            },
+            {
+                "name": "Component",
+                "url": "/topics/component"
+            },
+            {
+                "name": "Spent",
+                "url": "/topics/spent"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brian_kernighan_722005",
+        "quote": "Anytime you want to hear about graph partitioning, I will be glad to tell you what I know about graph partitioning. It remains a standard problem. I think it's an interesting problem, because it shows up in a variety of guises in real life.",
+        "author": {
+            "name": "Brian Kernighan",
+            "url": "/quotes/brian_kernighan_722005"
+        },
+        "topics": [
+            {
+                "name": "Tell",
+                "url": "/topics/tell"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Standard",
+                "url": "/topics/standard"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brian_kernighan_722006",
+        "quote": "I really enjoyed Princeton as a graduate student.",
+        "author": {
+            "name": "Brian Kernighan",
+            "url": "/quotes/brian_kernighan_722006"
+        },
+        "topics": [
+            {
+                "name": "Student",
+                "url": "/topics/student"
+            },
+            {
+                "name": "Princeton",
+                "url": "/topics/princeton"
+            },
+            {
+                "name": "Graduate",
+                "url": "/topics/graduate"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brian_kernighan_722007",
+        "quote": "No matter how non-technical your life and work, you're going to have to interact with technology and technical people. If you know something about how devices and systems operate, it's a big advantage.",
+        "author": {
+            "name": "Brian Kernighan",
+            "url": "/quotes/brian_kernighan_722007"
+        },
+        "topics": [
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Technical",
+                "url": "/topics/technical"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brian_kernighan_722008",
+        "quote": "Computers and computing are all around us. Some computing is highly visible, like your laptop. But this is only part of a computing iceberg. A lot more lies hidden below the surface. We don't see and usually don't think about the computers inside appliances, cars, airplanes, cameras, smartphones, GPS navigators and games.",
+        "author": {
+            "name": "Brian Kernighan",
+            "url": "/quotes/brian_kernighan_722008"
+        },
+        "topics": [
+            {
+                "name": "Hidden",
+                "url": "/topics/hidden"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Appliances",
+                "url": "/topics/appliances"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brian_kernighan_722010",
+        "quote": "Technology is mostly a force for good, but it has its downsides, too. I want my students - and my readers - to be intelligently skeptical about technology and be informed about the good and the not-so-good parts.",
+        "author": {
+            "name": "Brian Kernighan",
+            "url": "/quotes/brian_kernighan_722010"
+        },
+        "topics": [
+            {
+                "name": "Informed",
+                "url": "/topics/informed"
+            },
+            {
+                "name": "Good Parts",
+                "url": "/topics/good_parts"
+            },
+            {
+                "name": "Mostly",
+                "url": "/topics/mostly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brian_kernighan_722011",
+        "quote": "For better or worse, the people who become leaders and decision makers in politics, law and business are going to come from schools like Princeton.",
+        "author": {
+            "name": "Brian Kernighan",
+            "url": "/quotes/brian_kernighan_722011"
+        },
+        "topics": [
+            {
+                "name": "Politics",
+                "url": "/topics/politics"
+            },
+            {
+                "name": "Law",
+                "url": "/topics/law"
+            },
+            {
+                "name": "Decision",
+                "url": "/topics/decision"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brian_kernighan_722015",
+        "quote": "I seem to get totally wrapped up in teaching and working with students during the school year. During the summer, I try to spend time in the real world, writing code for therapy and perhaps for some useful purpose.",
+        "author": {
+            "name": "Brian Kernighan",
+            "url": "/quotes/brian_kernighan_722015"
+        },
+        "topics": [
+            {
+                "name": "Year",
+                "url": "/topics/year"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Code",
+                "url": "/topics/code"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brian_kernighan_722016",
+        "quote": "I want students to understand specific technologies, but the real goal is that they should be able to reason about how systems work and be intelligently skeptical about technology so that, when they're running the world in a few years, they'll do a good job.",
+        "author": {
+            "name": "Brian Kernighan",
+            "url": "/quotes/brian_kernighan_722016"
+        },
+        "topics": [
+            {
+                "name": "Students",
+                "url": "/topics/students"
+            },
+            {
+                "name": "Reason",
+                "url": "/topics/reason"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    }
+]

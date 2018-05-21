@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/liberace_403937",
+        "quote": "When the reviews are bad I tell my staff that they can join me as I cry all the way to the bank.",
+        "author": {
+            "name": "Liberace",
+            "url": "/quotes/liberace_403937"
+        },
+        "topics": [
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            },
+            {
+                "name": "Tell",
+                "url": "/topics/tell"
+            },
+            {
+                "name": "Staff",
+                "url": "/topics/staff"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/liberace_115373",
+        "quote": "You know that bank I used to cry all the way to? I bought it.",
+        "author": {
+            "name": "Liberace",
+            "url": "/quotes/liberace_115373"
+        },
+        "topics": [
+            {
+                "name": "Know",
+                "url": "/topics/know"
+            },
+            {
+                "name": "Bank",
+                "url": "/topics/bank"
+            },
+            {
+                "name": "Bought",
+                "url": "/topics/bought"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/liberace_115374",
+        "quote": "You can have either the Resurrection or you can have Liberace. But you can't have both.",
+        "author": {
+            "name": "Liberace",
+            "url": "/quotes/liberace_115374"
+        },
+        "topics": [
+            {
+                "name": "You",
+                "url": "/topics/you"
+            },
+            {
+                "name": "Liberace",
+                "url": "/topics/liberace"
+            },
+            {
+                "name": "Either",
+                "url": "/topics/either"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/liberace_115372",
+        "quote": "I cried all the way to the bank.",
+        "author": {
+            "name": "Liberace",
+            "url": "/quotes/liberace_115372"
+        },
+        "topics": [
+            {
+                "name": "Way",
+                "url": "/topics/way"
+            },
+            {
+                "name": "Bank",
+                "url": "/topics/bank"
+            },
+            {
+                "name": "Cried",
+                "url": "/topics/cried"
+            }
+        ]
+    }
+]

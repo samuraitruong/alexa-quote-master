@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/andrej_kiska_674994",
+        "quote": "I want to re-establish the people's trust in the office of president.",
+        "author": {
+            "name": "Andrej Kiska",
+            "url": "/quotes/andrej_kiska_674994"
+        },
+        "topics": [
+            {
+                "name": "Trust",
+                "url": "/topics/trust"
+            },
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Office",
+                "url": "/topics/office"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/andrej_kiska_674993",
+        "quote": "I will try to make our politics more human.",
+        "author": {
+            "name": "Andrej Kiska",
+            "url": "/quotes/andrej_kiska_674993"
+        },
+        "topics": [
+            {
+                "name": "Politics",
+                "url": "/topics/politics"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    }
+]

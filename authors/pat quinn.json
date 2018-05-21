@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/pat_quinn_493911",
+        "quote": "I have a job to do on policy. And I think that's what people want their governor to do. Not politics, policy.",
+        "author": {
+            "name": "Pat Quinn",
+            "url": "/quotes/pat_quinn_493911"
+        },
+        "topics": [
+            {
+                "name": "Politics",
+                "url": "/topics/politics"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/pat_quinn_493912",
+        "quote": "I will never be an insider. I want to be the champion of people who don't have insiders and lobbyists supporting them.",
+        "author": {
+            "name": "Pat Quinn",
+            "url": "/quotes/pat_quinn_493912"
+        },
+        "topics": [
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Lobbyists",
+                "url": "/topics/lobbyists"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/pat_quinn_493913",
+        "quote": "I don't aspire to have high approval ratings. I aspire, in light of my two predecessors, to be the most honest governor I can be. I'd rather focus on honesty than popularity.",
+        "author": {
+            "name": "Pat Quinn",
+            "url": "/quotes/pat_quinn_493913"
+        },
+        "topics": [
+            {
+                "name": "Focus",
+                "url": "/topics/focus"
+            },
+            {
+                "name": "Rather",
+                "url": "/topics/rather"
+            },
+            {
+                "name": "Predecessors",
+                "url": "/topics/predecessors"
+            }
+        ]
+    }
+]

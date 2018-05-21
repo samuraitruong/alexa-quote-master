@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/guy_madison_221369",
+        "quote": "Those are the men who will dance at your wedding.",
+        "author": {
+            "name": "Guy Madison",
+            "url": "/quotes/guy_madison_221369"
+        },
+        "topics": [
+            {
+                "name": "Men",
+                "url": "/topics/men"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Your",
+                "url": "/topics/your"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/guy_madison_221368",
+        "quote": "Prim and proper white women, I like what I see.",
+        "author": {
+            "name": "Guy Madison",
+            "url": "/quotes/guy_madison_221368"
+        },
+        "topics": [
+            {
+                "name": "White",
+                "url": "/topics/white"
+            },
+            {
+                "name": "See",
+                "url": "/topics/see"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/jim_mitchell_395861",
+        "quote": "Contrary to what the fans may think, you don't just show up, wear a striped shirt and a whistle on Friday night.",
+        "author": {
+            "name": "Jim Mitchell",
+            "url": "/quotes/jim_mitchell_395861"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Friday Night",
+                "url": "/topics/friday_night"
+            },
+            {
+                "name": "Striped",
+                "url": "/topics/striped"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jim_mitchell_202467",
+        "quote": "Time is the scarcity, and it's the commodity we can't create any more of.",
+        "author": {
+            "name": "Jim Mitchell",
+            "url": "/quotes/jim_mitchell_202467"
+        },
+        "topics": [
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Scarcity",
+                "url": "/topics/scarcity"
+            },
+            {
+                "name": "Commodity",
+                "url": "/topics/commodity"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jim_mitchell_202469",
+        "quote": "People tend to work in teams, in a collaborative way, in an informal network. If you create an environment like that, it's much more effective and much more efficient.",
+        "author": {
+            "name": "Jim Mitchell",
+            "url": "/quotes/jim_mitchell_202469"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Teams",
+                "url": "/topics/teams"
+            },
+            {
+                "name": "Efficient",
+                "url": "/topics/efficient"
+            }
+        ]
+    }
+]

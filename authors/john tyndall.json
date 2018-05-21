@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/john_tyndall_129238",
+        "quote": "Life is a wave, which in no two consecutive moments of its existence is composed of the same particles.",
+        "author": {
+            "name": "John Tyndall",
+            "url": "/quotes/john_tyndall_129238"
+        },
+        "topics": [
+            {
+                "name": "Moments",
+                "url": "/topics/moments"
+            },
+            {
+                "name": "Same",
+                "url": "/topics/same"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_tyndall_393134",
+        "quote": "The brightest flashes in the world of thought are incomplete until they have been proven to have their counterparts in the world of fact.",
+        "author": {
+            "name": "John Tyndall",
+            "url": "/quotes/john_tyndall_393134"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Incomplete",
+                "url": "/topics/incomplete"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_tyndall_392024",
+        "quote": "Knowledge once gained casts a light beyond its own immediate boundaries.",
+        "author": {
+            "name": "John Tyndall",
+            "url": "/quotes/john_tyndall_392024"
+        },
+        "topics": [
+            {
+                "name": "Casts",
+                "url": "/topics/casts"
+            },
+            {
+                "name": "Once",
+                "url": "/topics/once"
+            },
+            {
+                "name": "Gained",
+                "url": "/topics/gained"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/moses_hadas_103664",
+        "quote": "Thank you for sending me a copy of your book - I'll waste no time reading it.",
+        "author": {
+            "name": "Moses Hadas",
+            "url": "/quotes/moses_hadas_103664"
+        },
+        "topics": [
+            {
+                "name": "Book",
+                "url": "/topics/book"
+            },
+            {
+                "name": "Waste",
+                "url": "/topics/waste"
+            },
+            {
+                "name": "No Time",
+                "url": "/topics/no_time"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/moses_hadas_103680",
+        "quote": "I have read your book and much like it.",
+        "author": {
+            "name": "Moses Hadas",
+            "url": "/quotes/moses_hadas_103680"
+        },
+        "topics": [
+            {
+                "name": "Book",
+                "url": "/topics/book"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Read",
+                "url": "/topics/read"
+            }
+        ]
+    }
+]

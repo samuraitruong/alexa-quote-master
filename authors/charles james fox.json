@@ -1,0 +1,82 @@
+[
+    {
+        "url": "/quotes/charles_james_fox_181208",
+        "quote": "All political power is a trust.",
+        "author": {
+            "name": "Charles James Fox",
+            "url": "/quotes/charles_james_fox_181208"
+        },
+        "topics": [
+            {
+                "name": "Trust",
+                "url": "/topics/trust"
+            },
+            {
+                "name": "Political Power",
+                "url": "/topics/political_power"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charles_james_fox_181206",
+        "quote": "The worst of revolutions is a restoration.",
+        "author": {
+            "name": "Charles James Fox",
+            "url": "/quotes/charles_james_fox_181206"
+        },
+        "topics": [
+            {
+                "name": "Worst",
+                "url": "/topics/worst"
+            },
+            {
+                "name": "Revolutions",
+                "url": "/topics/revolutions"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charles_james_fox_181207",
+        "quote": "How much the greatest event it is that ever happened in the world! And how much the best!",
+        "author": {
+            "name": "Charles James Fox",
+            "url": "/quotes/charles_james_fox_181207"
+        },
+        "topics": [
+            {
+                "name": "Ever",
+                "url": "/topics/ever"
+            },
+            {
+                "name": "How Much",
+                "url": "/topics/how_much"
+            },
+            {
+                "name": "How",
+                "url": "/topics/how"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charles_james_fox_395948",
+        "quote": "Kings govern by popular assemblies only when they cannot do without them.",
+        "author": {
+            "name": "Charles James Fox",
+            "url": "/quotes/charles_james_fox_395948"
+        },
+        "topics": [
+            {
+                "name": "Kings",
+                "url": "/topics/kings"
+            },
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            },
+            {
+                "name": "Govern",
+                "url": "/topics/govern"
+            }
+        ]
+    }
+]

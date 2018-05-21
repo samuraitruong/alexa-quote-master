@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/horace_smith_104749",
+        "quote": "Courage is the fear of being thought a coward.",
+        "author": {
+            "name": "Horace Smith",
+            "url": "/quotes/horace_smith_104749"
+        },
+        "topics": [
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Coward",
+                "url": "/topics/coward"
+            },
+            {
+                "name": "Being",
+                "url": "/topics/being"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/horace_smith_278237",
+        "quote": "Inconsistency is the only thing in which men are consistent.",
+        "author": {
+            "name": "Horace Smith",
+            "url": "/quotes/horace_smith_278237"
+        },
+        "topics": [
+            {
+                "name": "Men",
+                "url": "/topics/men"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "The Only Thing",
+                "url": "/topics/the_only_thing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/horace_smith_278238",
+        "quote": "Good advice is one of those injuries which a good man ought, if possible, to forgive, but at all events to forget at once.",
+        "author": {
+            "name": "Horace Smith",
+            "url": "/quotes/horace_smith_278238"
+        },
+        "topics": [
+            {
+                "name": "Advice",
+                "url": "/topics/advice"
+            },
+            {
+                "name": "Injuries",
+                "url": "/topics/injuries"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/horace_smith_278239",
+        "quote": "Our charity begins at home, And mostly ends where it begins.",
+        "author": {
+            "name": "Horace Smith",
+            "url": "/quotes/horace_smith_278239"
+        },
+        "topics": [
+            {
+                "name": "Charity",
+                "url": "/topics/charity"
+            },
+            {
+                "name": "Begins",
+                "url": "/topics/begins"
+            },
+            {
+                "name": "Mostly",
+                "url": "/topics/mostly"
+            }
+        ]
+    }
+]

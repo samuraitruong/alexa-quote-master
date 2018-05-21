@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/charles_davenport_202214",
+        "quote": "Custom, that unwritten law, By which the people keep even kings in awe.",
+        "author": {
+            "name": "Charles Davenport",
+            "url": "/quotes/charles_davenport_202214"
+        },
+        "topics": [
+            {
+                "name": "Law",
+                "url": "/topics/law"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Even",
+                "url": "/topics/even"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charles_davenport_202215",
+        "quote": "This is very clever. They have created a system to cheat.",
+        "author": {
+            "name": "Charles Davenport",
+            "url": "/quotes/charles_davenport_202215"
+        },
+        "topics": [
+            {
+                "name": "System",
+                "url": "/topics/system"
+            },
+            {
+                "name": "Cheat",
+                "url": "/topics/cheat"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    }
+]

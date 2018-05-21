@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/lorraine_gary_619990",
+        "quote": "'Jaws' freed me to discover that a successful movie didn't make a damn bit of difference to my life.",
+        "author": {
+            "name": "Lorraine Gary",
+            "url": "/quotes/lorraine_gary_619990"
+        },
+        "topics": [
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "Jaws",
+                "url": "/topics/jaws"
+            },
+            {
+                "name": "Discover",
+                "url": "/topics/discover"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lorraine_gary_619991",
+        "quote": "I started turning 40 at 38. I had pains all over my body. I couldn't sleep, I had rampant anxiety, and I couldn't stop eating and drinking.",
+        "author": {
+            "name": "Lorraine Gary",
+            "url": "/quotes/lorraine_gary_619991"
+        },
+        "topics": [
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Started",
+                "url": "/topics/started"
+            },
+            {
+                "name": "Drinking",
+                "url": "/topics/drinking"
+            }
+        ]
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/taliesin_202660",
+        "quote": "I praise the Lord, the Sovereign of the royal realm, Who has extended his sway over the tract of the world.",
+        "author": {
+            "name": "Taliesin",
+            "url": "/quotes/taliesin_202660"
+        },
+        "topics": [
+            {
+                "name": "Lord",
+                "url": "/topics/lord"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Tract",
+                "url": "/topics/tract"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/taliesin_202656",
+        "quote": "Reaper of enemies; strong of grip; One kind with his fathers.",
+        "author": {
+            "name": "Taliesin",
+            "url": "/quotes/taliesin_202656"
+        },
+        "topics": [
+            {
+                "name": "Strong",
+                "url": "/topics/strong"
+            },
+            {
+                "name": "Grip",
+                "url": "/topics/grip"
+            },
+            {
+                "name": "Fathers",
+                "url": "/topics/fathers"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/taliesin_202658",
+        "quote": "From warriors ravens grew red And with their leader a host attacked.",
+        "author": {
+            "name": "Taliesin",
+            "url": "/quotes/taliesin_202658"
+        },
+        "topics": [
+            {
+                "name": "Leader",
+                "url": "/topics/leader"
+            },
+            {
+                "name": "Red",
+                "url": "/topics/red"
+            },
+            {
+                "name": "Host",
+                "url": "/topics/host"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/taliesin_202659",
+        "quote": "I have been a multitude of shapes, Before I assumed a consistent form.",
+        "author": {
+            "name": "Taliesin",
+            "url": "/quotes/taliesin_202659"
+        },
+        "topics": [
+            {
+                "name": "Multitude",
+                "url": "/topics/multitude"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Form",
+                "url": "/topics/form"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/melody_carlson_530603",
+        "quote": "A book is kind of like a river; I simply jump in and start swimming.",
+        "author": {
+            "name": "Melody Carlson",
+            "url": "/quotes/melody_carlson_530603"
+        },
+        "topics": [
+            {
+                "name": "Swimming",
+                "url": "/topics/swimming"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Kind",
+                "url": "/topics/kind"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/melody_carlson_530601",
+        "quote": "I grew up in a difficult environment, but I became a Christian as a teen. My mom and my sister soon became Christians also.",
+        "author": {
+            "name": "Melody Carlson",
+            "url": "/quotes/melody_carlson_530601"
+        },
+        "topics": [
+            {
+                "name": "Mom",
+                "url": "/topics/mom"
+            },
+            {
+                "name": "Became",
+                "url": "/topics/became"
+            },
+            {
+                "name": "Christians",
+                "url": "/topics/christians"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/melody_carlson_530602",
+        "quote": "I don't usually think of my writing as a 'challenge' because I enjoy the process so much. I suppose that's what's helped me to avoid 'writer's block' all these years.",
+        "author": {
+            "name": "Melody Carlson",
+            "url": "/quotes/melody_carlson_530602"
+        },
+        "topics": [
+            {
+                "name": "Enjoy",
+                "url": "/topics/enjoy"
+            },
+            {
+                "name": "Process",
+                "url": "/topics/process"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            }
+        ]
+    }
+]

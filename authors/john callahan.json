@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/john_callahan_197961",
+        "quote": "This is a feminist bookstore. There is no humor section.",
+        "author": {
+            "name": "John Callahan",
+            "url": "/quotes/john_callahan_197961"
+        },
+        "topics": [
+            {
+                "name": "Humor",
+                "url": "/topics/humor"
+            },
+            {
+                "name": "Section",
+                "url": "/topics/section"
+            },
+            {
+                "name": "Bookstore",
+                "url": "/topics/bookstore"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_callahan_394338",
+        "quote": "We're competing with everything: the beach, the mall, bookstores. Libraries are in a transition right now, caught between two forces, the old ways and technology. Libraries are under a lot of pressure to provide both.",
+        "author": {
+            "name": "John Callahan",
+            "url": "/quotes/john_callahan_394338"
+        },
+        "topics": [
+            {
+                "name": "Competing",
+                "url": "/topics/competing"
+            },
+            {
+                "name": "Old",
+                "url": "/topics/old"
+            },
+            {
+                "name": "Bookstores",
+                "url": "/topics/bookstores"
+            }
+        ]
+    }
+]

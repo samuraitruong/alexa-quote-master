@@ -1,0 +1,78 @@
+[
+    {
+        "url": "/quotes/louise_fresco_561410",
+        "quote": "Food, in the end, in our own tradition, is something holy. It's not about nutrients and calories. It's about sharing. It's about honesty. It's about identity.",
+        "author": {
+            "name": "Louise Fresco",
+            "url": "/quotes/louise_fresco_561410"
+        },
+        "topics": [
+            {
+                "name": "Food",
+                "url": "/topics/food"
+            },
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            },
+            {
+                "name": "Holy",
+                "url": "/topics/holy"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/louise_fresco_561409",
+        "quote": "Food is as important as energy, as security, as the environment. Everything is linked together.",
+        "author": {
+            "name": "Louise Fresco",
+            "url": "/quotes/louise_fresco_561409"
+        },
+        "topics": [
+            {
+                "name": "Security",
+                "url": "/topics/security"
+            },
+            {
+                "name": "Important",
+                "url": "/topics/important"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/louise_fresco_561412",
+        "quote": "Our food is safer and our diets are more diverse than ever before; production methods are becoming increasingly sustainable, clean and efficient; and we are constantly becoming better at protecting biodiversity.",
+        "author": {
+            "name": "Louise Fresco",
+            "url": "/quotes/louise_fresco_561412"
+        },
+        "topics": [
+            {
+                "name": "Protecting",
+                "url": "/topics/protecting"
+            },
+            {
+                "name": "Increasingly",
+                "url": "/topics/increasingly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/louise_fresco_561411",
+        "quote": "Rising demand for animal products highlights microbiological risks, with animal-welfare measures sometimes creating new hazards. For example, open pens for poultry may increase the spread of communicable diseases like avian influenza.",
+        "author": {
+            "name": "Louise Fresco",
+            "url": "/quotes/louise_fresco_561411"
+        },
+        "topics": [
+            {
+                "name": "Influenza",
+                "url": "/topics/influenza"
+            },
+            {
+                "name": "Animal Products",
+                "url": "/topics/animal_products"
+            }
+        ]
+    }
+]

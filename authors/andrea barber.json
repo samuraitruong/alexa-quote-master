@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/andrea_barber_307640",
+        "quote": "I want to be a writer someday.",
+        "author": {
+            "name": "Andrea Barber",
+            "url": "/quotes/andrea_barber_307640"
+        },
+        "topics": [
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Someday",
+                "url": "/topics/someday"
+            },
+            {
+                "name": "Writer",
+                "url": "/topics/writer"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/andrea_barber_420168",
+        "quote": "I love being a student, if I could, I'd stay in school forever.",
+        "author": {
+            "name": "Andrea Barber",
+            "url": "/quotes/andrea_barber_420168"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Student",
+                "url": "/topics/student"
+            },
+            {
+                "name": "I Love",
+                "url": "/topics/i_love"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/andrea_barber_420169",
+        "quote": "My character was obnoxious, had stinky feet and wore things like purple tights and a yellow top. I hated the clothes.",
+        "author": {
+            "name": "Andrea Barber",
+            "url": "/quotes/andrea_barber_420169"
+        },
+        "topics": [
+            {
+                "name": "Feet",
+                "url": "/topics/feet"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Stinky",
+                "url": "/topics/stinky"
+            }
+        ]
+    }
+]

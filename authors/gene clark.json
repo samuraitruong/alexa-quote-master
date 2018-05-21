@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/gene_clark_191106",
+        "quote": "Zen, per se, is not just an art, it's not just a religion, it's a realisation.",
+        "author": {
+            "name": "Gene Clark",
+            "url": "/quotes/gene_clark_191106"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Zen",
+                "url": "/topics/zen"
+            },
+            {
+                "name": "Realisation",
+                "url": "/topics/realisation"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gene_clark_191108",
+        "quote": "The actual writing of a song usually comes in the form of a realisation. I can't contrive a song.",
+        "author": {
+            "name": "Gene Clark",
+            "url": "/quotes/gene_clark_191108"
+        },
+        "topics": [
+            {
+                "name": "Song",
+                "url": "/topics/song"
+            },
+            {
+                "name": "Actual",
+                "url": "/topics/actual"
+            },
+            {
+                "name": "Form",
+                "url": "/topics/form"
+            }
+        ]
+    }
+]

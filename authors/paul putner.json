@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/paul_putner_174178",
+        "quote": "I just want to keep creating stuff, work regularly and learn how to use a computer properly.",
+        "author": {
+            "name": "Paul Putner",
+            "url": "/quotes/paul_putner_174178"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Learn",
+                "url": "/topics/learn"
+            },
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_putner_174179",
+        "quote": "I liked playing Morph in Mash and Peas and doing Phil Daniels in the Blur Rock Profile was a giggle too.",
+        "author": {
+            "name": "Paul Putner",
+            "url": "/quotes/paul_putner_174179"
+        },
+        "topics": [
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Profile",
+                "url": "/topics/profile"
+            },
+            {
+                "name": "Giggle",
+                "url": "/topics/giggle"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_putner_174181",
+        "quote": "I remember going to my school careers advisor and asked about jobs that required scuba divers. It was a phase.",
+        "author": {
+            "name": "Paul Putner",
+            "url": "/quotes/paul_putner_174181"
+        },
+        "topics": [
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Phase",
+                "url": "/topics/phase"
+            },
+            {
+                "name": "I Remember",
+                "url": "/topics/i_remember"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_putner_174183",
+        "quote": "I wear so many disguises on the show that only a real comedy fan might spot me.",
+        "author": {
+            "name": "Paul Putner",
+            "url": "/quotes/paul_putner_174183"
+        },
+        "topics": [
+            {
+                "name": "Comedy",
+                "url": "/topics/comedy"
+            },
+            {
+                "name": "Wear",
+                "url": "/topics/wear"
+            },
+            {
+                "name": "Might",
+                "url": "/topics/might"
+            }
+        ]
+    }
+]

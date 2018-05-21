@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/romain_gary_172688",
+        "quote": "Humor is an affirmation of dignity, a declaration of man's superiority to all that befalls him.",
+        "author": {
+            "name": "Romain Gary",
+            "url": "/quotes/romain_gary_172688"
+        },
+        "topics": [
+            {
+                "name": "Humor",
+                "url": "/topics/humor"
+            },
+            {
+                "name": "Dignity",
+                "url": "/topics/dignity"
+            },
+            {
+                "name": "Superiority",
+                "url": "/topics/superiority"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/romain_gary_317258",
+        "quote": "The avantgarde are people who don't exactly know where they want to go, but are the first to get there.",
+        "author": {
+            "name": "Romain Gary",
+            "url": "/quotes/romain_gary_317258"
+        },
+        "topics": [
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Go",
+                "url": "/topics/go"
+            },
+            {
+                "name": "Get",
+                "url": "/topics/get"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/lyle_alzado_142481",
+        "quote": "I don't really trust a sane person.",
+        "author": {
+            "name": "Lyle Alzado",
+            "url": "/quotes/lyle_alzado_142481"
+        },
+        "topics": [
+            {
+                "name": "Trust",
+                "url": "/topics/trust"
+            },
+            {
+                "name": "Person",
+                "url": "/topics/person"
+            },
+            {
+                "name": "Sane",
+                "url": "/topics/sane"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lyle_alzado_142482",
+        "quote": "I never met a man I didn't want to fight.",
+        "author": {
+            "name": "Lyle Alzado",
+            "url": "/quotes/lyle_alzado_142482"
+        },
+        "topics": [
+            {
+                "name": "Man",
+                "url": "/topics/man"
+            },
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            }
+        ]
+    }
+]

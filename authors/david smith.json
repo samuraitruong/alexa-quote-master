@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/david_smith_102968",
+        "quote": "In this business you either sink or swim or you don't.",
+        "author": {
+            "name": "David Smith",
+            "url": "/quotes/david_smith_102968"
+        },
+        "topics": [
+            {
+                "name": "Business",
+                "url": "/topics/business"
+            },
+            {
+                "name": "Sink",
+                "url": "/topics/sink"
+            },
+            {
+                "name": "Either",
+                "url": "/topics/either"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_smith_387692",
+        "quote": "He's thinking more with his heart than with his brain.",
+        "author": {
+            "name": "David Smith",
+            "url": "/quotes/david_smith_387692"
+        },
+        "topics": [
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            },
+            {
+                "name": "Than",
+                "url": "/topics/than"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_smith_388685",
+        "quote": "The big question society will have to answer is whether it wants computers thinking like humans.",
+        "author": {
+            "name": "David Smith",
+            "url": "/quotes/david_smith_388685"
+        },
+        "topics": [
+            {
+                "name": "Society",
+                "url": "/topics/society"
+            },
+            {
+                "name": "Question",
+                "url": "/topics/question"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            }
+        ]
+    }
+]

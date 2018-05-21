@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/adam_sadowsky_594677",
+        "quote": "Keep your eyes open. Make mistakes - because you will anyway - and remember that small stuff stinks but that it's also essential.",
+        "author": {
+            "name": "Adam Sadowsky",
+            "url": "/quotes/adam_sadowsky_594677"
+        },
+        "topics": [
+            {
+                "name": "Mistakes",
+                "url": "/topics/mistakes"
+            },
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/adam_sadowsky_662182",
+        "quote": "A Rube Goldberg machine is, in its essence, a trial-and-error thing.",
+        "author": {
+            "name": "Adam Sadowsky",
+            "url": "/quotes/adam_sadowsky_662182"
+        },
+        "topics": [
+            {
+                "name": "Essence",
+                "url": "/topics/essence"
+            },
+            {
+                "name": "Machine",
+                "url": "/topics/machine"
+            },
+            {
+                "name": "Thing",
+                "url": "/topics/thing"
+            }
+        ]
+    }
+]

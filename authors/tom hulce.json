@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/tom_hulce_570832",
+        "quote": "In the world of the Internet, there are many falsehoods. Anyone can write stuff on Wikipedia, and it doesn't have to be true.",
+        "author": {
+            "name": "Tom Hulce",
+            "url": "/quotes/tom_hulce_570832"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Anyone",
+                "url": "/topics/anyone"
+            },
+            {
+                "name": "Falsehoods",
+                "url": "/topics/falsehoods"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tom_hulce_682818",
+        "quote": "I really believe if I'm the best person for the role, I'll be hired. That's always been my experience.",
+        "author": {
+            "name": "Tom Hulce",
+            "url": "/quotes/tom_hulce_682818"
+        },
+        "topics": [
+            {
+                "name": "Role",
+                "url": "/topics/role"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tom_hulce_682819",
+        "quote": "Teachers don't tell us the truth about historical people. If we knew the truth, parents couldn't hold their lives up as examples.",
+        "author": {
+            "name": "Tom Hulce",
+            "url": "/quotes/tom_hulce_682819"
+        },
+        "topics": [
+            {
+                "name": "Tell",
+                "url": "/topics/tell"
+            },
+            {
+                "name": "Knew",
+                "url": "/topics/knew"
+            },
+            {
+                "name": "Lives",
+                "url": "/topics/lives"
+            }
+        ]
+    }
+]

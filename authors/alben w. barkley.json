@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/alben_w_barkley_177030",
+        "quote": "The best audience is intelligent, well-educated and a little drunk.",
+        "author": {
+            "name": "Alben W. Barkley",
+            "url": "/quotes/alben_w_barkley_177030"
+        },
+        "topics": [
+            {
+                "name": "Best",
+                "url": "/topics/best"
+            },
+            {
+                "name": "Drunk",
+                "url": "/topics/drunk"
+            },
+            {
+                "name": "Audience",
+                "url": "/topics/audience"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alben_w_barkley_332389",
+        "quote": "I would rather be a servant in the House of the Lord than to sit in the seats of the mighty.",
+        "author": {
+            "name": "Alben W. Barkley",
+            "url": "/quotes/alben_w_barkley_332389"
+        },
+        "topics": [
+            {
+                "name": "Servant",
+                "url": "/topics/servant"
+            },
+            {
+                "name": "Rather",
+                "url": "/topics/rather"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            }
+        ]
+    }
+]

@@ -1,0 +1,170 @@
+[
+    {
+        "url": "/quotes/steve_wynn_637210?src=t_job_creator",
+        "quote": "I'm a job creator.",
+        "author": {
+            "name": "Steve Wynn",
+            "url": "/authors/steve_wynn"
+        },
+        "topics": [
+            {
+                "name": "Job",
+                "url": "/topics/job"
+            },
+            {
+                "name": "Creator",
+                "url": "/topics/creator"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jeff_greene_708508?src=t_job_creator",
+        "quote": "I've been a job creator. I've worked in the economy myself.",
+        "author": {
+            "name": "Jeff Greene",
+            "url": "/authors/jeff_greene"
+        },
+        "topics": [
+            {
+                "name": "Creator",
+                "url": "/topics/creator"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Worked",
+                "url": "/topics/worked"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marco_rubio_415686?src=t_job_creator",
+        "quote": "I traveled the state of Florida for two years campaigning. I have never met a job creator who told me that they were waiting for the next tax increase before they started growing their business. I've never met a single job creator who's ever said to me I can't wait until government raises taxes again so I can go out and create a job.",
+        "author": {
+            "name": "Marco Rubio",
+            "url": "/authors/marco_rubio"
+        },
+        "topics": [
+            {
+                "name": "Waiting",
+                "url": "/topics/waiting"
+            },
+            {
+                "name": "Wait",
+                "url": "/topics/wait"
+            },
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marco_rubio_440796?src=t_job_creator",
+        "quote": "If someone knows of a job creator anywhere in the world that's looking for a high, complex tax environment or looking for a high regulatory environment, I would like to meet them because I have yet to meet a job creator that's looking for that, and that's what we have.",
+        "author": {
+            "name": "Marco Rubio",
+            "url": "/authors/marco_rubio"
+        },
+        "topics": [
+            {
+                "name": "Creator",
+                "url": "/topics/creator"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Regulatory",
+                "url": "/topics/regulatory"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mitt_romney_447834?src=t_job_creator",
+        "quote": "Fourth, to assure every entrepreneur and every job creator that their investments in America will not vanish as have those in Greece, we will cut the deficit and put America on track to a balanced budget.",
+        "author": {
+            "name": "Mitt Romney",
+            "url": "/authors/mitt_romney"
+        },
+        "topics": [
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Creator",
+                "url": "/topics/creator"
+            },
+            {
+                "name": "Cut",
+                "url": "/topics/cut"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_kasich_447797?src=t_job_creator",
+        "quote": "Mitt Romney has a history of being a great job creator. Secondly, he was a great governor. He went from billions of dollars in the hole when he became governor to billions of dollars in surplus when he left. And he went from the loss of tens of thousands jobs when he became governor to the creation of 40,000 new jobs when he left office.",
+        "author": {
+            "name": "John Kasich",
+            "url": "/authors/john_kasich"
+        },
+        "topics": [
+            {
+                "name": "Became",
+                "url": "/topics/became"
+            },
+            {
+                "name": "Tens",
+                "url": "/topics/tens"
+            },
+            {
+                "name": "Mitt Romney",
+                "url": "/topics/mitt_romney"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mitch_daniels_414871?src=t_job_creator",
+        "quote": "Finally, treat domestic energy production as the economic necessity it is and the job creator it can be. Drill, and frack, and lease, and license, unleash in every way the jobs potential in the enormous energy resources we have been denying ourselves.",
+        "author": {
+            "name": "Mitch Daniels",
+            "url": "/authors/mitch_daniels"
+        },
+        "topics": [
+            {
+                "name": "Treat",
+                "url": "/topics/treat"
+            },
+            {
+                "name": "Energy Production",
+                "url": "/topics/energy_production"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/pete_domenici_168881?src=t_job_creator",
+        "quote": "Small business in America is booming. The job creator in America, small business, is absolutely moving ahead.",
+        "author": {
+            "name": "Pete Domenici",
+            "url": "/authors/pete_domenici"
+        },
+        "topics": [
+            {
+                "name": "Business",
+                "url": "/topics/business"
+            },
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Creator",
+                "url": "/topics/creator"
+            }
+        ]
+    }
+]

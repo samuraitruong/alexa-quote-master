@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/william_eardley_iv_324812",
+        "quote": "Ambition is the path to success, persistence is the vehicle you arrive in.",
+        "author": {
+            "name": "William Eardley IV",
+            "url": "/quotes/william_eardley_iv_324812"
+        },
+        "topics": [
+            {
+                "name": "Success",
+                "url": "/topics/success"
+            },
+            {
+                "name": "Path",
+                "url": "/topics/path"
+            },
+            {
+                "name": "Ambition",
+                "url": "/topics/ambition"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_eardley_iv_324811",
+        "quote": "Lord, bless me with the ability to achieve all that I can, and the wisdom to realize it doesn't all have to be by tomorrow!",
+        "author": {
+            "name": "William Eardley IV",
+            "url": "/quotes/william_eardley_iv_324811"
+        },
+        "topics": [
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Achieve",
+                "url": "/topics/achieve"
+            },
+            {
+                "name": "Lord",
+                "url": "/topics/lord"
+            }
+        ]
+    }
+]

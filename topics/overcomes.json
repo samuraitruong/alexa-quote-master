@@ -1,0 +1,500 @@
+[
+    {
+        "url": "/quotes/jimi_hendrix_195397?src=t_overcomes",
+        "quote": "When the power of love overcomes the love of power the world will know peace.",
+        "author": {
+            "name": "Jimi Hendrix",
+            "url": "/authors/jimi_hendrix"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Peace",
+                "url": "/topics/peace"
+            },
+            {
+                "name": "World",
+                "url": "/topics/world"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/christopher_reeve_471515?src=t_overcomes",
+        "quote": "A hero is someone who, in spite of weakness, doubt or not always knowing the answers, goes ahead and overcomes anyway.",
+        "author": {
+            "name": "Christopher Reeve",
+            "url": "/authors/christopher_reeve"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Ahead",
+                "url": "/topics/ahead"
+            },
+            {
+                "name": "Goes",
+                "url": "/topics/goes"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_d_rockefeller_165071?src=t_overcomes",
+        "quote": "I do not think that there is any other quality so essential to success of any kind as the quality of perseverance. It overcomes almost everything, even nature.",
+        "author": {
+            "name": "John D. Rockefeller",
+            "url": "/authors/john_d_rockefeller"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/aristotle_117887?src=t_overcomes",
+        "quote": "I count him braver who overcomes his desires than him who conquers his enemies; for the hardest victory is over self.",
+        "author": {
+            "name": "Aristotle",
+            "url": "/authors/aristotle"
+        },
+        "topics": [
+            {
+                "name": "Victory",
+                "url": "/topics/victory"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Desires",
+                "url": "/topics/desires"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/vincent_nichols_532657?src=t_overcomes",
+        "quote": "In Christ we see a maturity of love that flowers in self-sacrifice and forgiveness; a maturity of power that never swerves from the ideal of service; a maturity of goodness that overcomes every temptation, and, of course, we see the ultimate victory of life over death itself.",
+        "author": {
+            "name": "Vincent Nichols",
+            "url": "/authors/vincent_nichols"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Flowers",
+                "url": "/topics/flowers"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/andre_gide_150755?src=t_overcomes",
+        "quote": "It is not always by plugging away at a difficulty and sticking to it that one overcomes it; often it is by working on the one next to it. Some things and some people have to be approached obliquely, at an angle.",
+        "author": {
+            "name": "Andre Gide",
+            "url": "/authors/andre_gide"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_butler_yeats_385063?src=t_overcomes",
+        "quote": "Joy is of the will which labours, which overcomes obstacles, which knows triumph.",
+        "author": {
+            "name": "William Butler Yeats",
+            "url": "/authors/william_butler_yeats"
+        },
+        "topics": [
+            {
+                "name": "Triumph",
+                "url": "/topics/triumph"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Labours",
+                "url": "/topics/labours"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_keats_396914?src=t_overcomes",
+        "quote": "With a great poet the sense of Beauty overcomes every other consideration, or rather obliterates all consideration.",
+        "author": {
+            "name": "John Keats",
+            "url": "/authors/john_keats"
+        },
+        "topics": [
+            {
+                "name": "Beauty",
+                "url": "/topics/beauty"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Rather",
+                "url": "/topics/rather"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/leopold_von_ranke_184866?src=t_overcomes",
+        "quote": "He who overcomes himself is divine. Most see their ruin before their eyes; but they go on into it.",
+        "author": {
+            "name": "Leopold Von Ranke",
+            "url": "/authors/leopold_von_ranke"
+        },
+        "topics": [
+            {
+                "name": "Go",
+                "url": "/topics/go"
+            },
+            {
+                "name": "Divine",
+                "url": "/topics/divine"
+            },
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/natalie_dormer_683620?src=t_overcomes",
+        "quote": "For me, it's not necessarily interesting to play a strong, fearless woman. It's interesting to play a woman who is terrified and then overcomes that fear. It's about the journey. Courage is not the absence of fear, it's overcoming it.",
+        "author": {
+            "name": "Natalie Dormer",
+            "url": "/authors/natalie_dormer"
+        },
+        "topics": [
+            {
+                "name": "Strong",
+                "url": "/topics/strong"
+            },
+            {
+                "name": "Woman",
+                "url": "/topics/woman"
+            },
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/harry_golden_103791?src=t_overcomes",
+        "quote": "The only thing that overcomes hard luck is hard work.",
+        "author": {
+            "name": "Harry Golden",
+            "url": "/authors/harry_golden"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Luck",
+                "url": "/topics/luck"
+            },
+            {
+                "name": "The Only Thing",
+                "url": "/topics/the_only_thing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mary_steenburgen_799832?src=t_overcomes",
+        "quote": "It's very easy to approach a character like that - a so-called strong woman who overcomes the odds - and give a one-note performance, playing that strength alone. Strength is only one thing a person has.",
+        "author": {
+            "name": "Mary Steenburgen",
+            "url": "/authors/mary_steenburgen"
+        },
+        "topics": [
+            {
+                "name": "Strong",
+                "url": "/topics/strong"
+            },
+            {
+                "name": "Woman",
+                "url": "/topics/woman"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_lois_719202?src=t_overcomes",
+        "quote": "The creative act, the defeat of habit by originality, overcomes everything. And I really believe that. And what I try to teach young people, or anybody in any creative field, is that every idea should seemingly be outrageous.",
+        "author": {
+            "name": "George Lois",
+            "url": "/authors/george_lois"
+        },
+        "topics": [
+            {
+                "name": "Young",
+                "url": "/topics/young"
+            },
+            {
+                "name": "Anybody",
+                "url": "/topics/anybody"
+            },
+            {
+                "name": "Creative Act",
+                "url": "/topics/creative_act"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lynn_flewelling_729155?src=t_overcomes",
+        "quote": "It would be lovely if it was all Right vs. Wrong, Good overcomes Evil - I think most Americans, going about their daily lives, fool themselves into thinking that that's how our little world works, but it just isn't so.",
+        "author": {
+            "name": "Lynn Flewelling",
+            "url": "/authors/lynn_flewelling"
+        },
+        "topics": [
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Works",
+                "url": "/topics/works"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_milton_166738?src=t_overcomes",
+        "quote": "Who overcomes by force, hath overcome but half his foe.",
+        "author": {
+            "name": "John Milton",
+            "url": "/authors/john_milton"
+        },
+        "topics": [
+            {
+                "name": "Overcome",
+                "url": "/topics/overcome"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            },
+            {
+                "name": "Half",
+                "url": "/topics/half"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_singer_sargent_533022?src=t_overcomes",
+        "quote": "It is certain that at certain times talent entirely overcomes thought or poetry.",
+        "author": {
+            "name": "John Singer Sargent",
+            "url": "/authors/john_singer_sargent"
+        },
+        "topics": [
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Talent",
+                "url": "/topics/talent"
+            },
+            {
+                "name": "Times",
+                "url": "/topics/times"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/glenn_gould_832144?src=t_overcomes",
+        "quote": "There's a very curious and - and almost sadistic lust for blood that overcomes the concert listener, and there's a waiting for it to happen: a waiting for the horn to fluff; a waiting for the strings to become ragged; a waiting for the conductor to forget the subdivide, you know? And it's dreadful!",
+        "author": {
+            "name": "Glenn Gould",
+            "url": "/authors/glenn_gould"
+        },
+        "topics": [
+            {
+                "name": "Happen",
+                "url": "/topics/happen"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Ragged",
+                "url": "/topics/ragged"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nikki_giovanni_452233?src=t_overcomes",
+        "quote": "The catchword I use with my classes is: The authority of the writer always overcomes the skepticism of the reader.",
+        "author": {
+            "name": "Nikki Giovanni",
+            "url": "/authors/nikki_giovanni"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            },
+            {
+                "name": "Reader",
+                "url": "/topics/reader"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/britt_ekland_499721?src=t_overcomes",
+        "quote": "Fame overcomes everything.",
+        "author": {
+            "name": "Britt Ekland",
+            "url": "/authors/britt_ekland"
+        },
+        "topics": [
+            {
+                "name": "Fame",
+                "url": "/topics/fame"
+            },
+            {
+                "name": "Everything",
+                "url": "/topics/everything"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ted_dekker_527647?src=t_overcomes",
+        "quote": "My stories are not Christianized at all. I don't even have any Christians in my stories. What they are, are stories about ordinary people going through extraordinary circumstances in which I'm exploring truth. How light overcomes darkness in a way that's unmistakable to anyone who has any kind of faith.",
+        "author": {
+            "name": "Ted Dekker",
+            "url": "/authors/ted_dekker"
+        },
+        "topics": [
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Unmistakable",
+                "url": "/topics/unmistakable"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ulrich_beck_345878?src=t_overcomes",
+        "quote": "The basic assumption of the secular society is that modernity overcomes religion.",
+        "author": {
+            "name": "Ulrich Beck",
+            "url": "/authors/ulrich_beck"
+        },
+        "topics": [
+            {
+                "name": "Society",
+                "url": "/topics/society"
+            },
+            {
+                "name": "Modernity",
+                "url": "/topics/modernity"
+            },
+            {
+                "name": "Secular",
+                "url": "/topics/secular"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jeff_vandermeer_444944?src=t_overcomes",
+        "quote": "I see music as an aid. It overcomes my internal editor, especially when the music evokes the character or the mood I'm trying to build.",
+        "author": {
+            "name": "Jeff Vandermeer",
+            "url": "/authors/jeff_vandermeer"
+        },
+        "topics": [
+            {
+                "name": "Mood",
+                "url": "/topics/mood"
+            },
+            {
+                "name": "Editor",
+                "url": "/topics/editor"
+            },
+            {
+                "name": "Internal",
+                "url": "/topics/internal"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/stephen_dillane_504334?src=t_overcomes",
+        "quote": "I have to phrase this perfectly: I'm just not convinced that the attention we give to creating what we think of as a character isn't actually quite often the means by which an actor overcomes his own terror of standing there onstage and creating a mask to hide behind.",
+        "author": {
+            "name": "Stephen Dillane",
+            "url": "/authors/stephen_dillane"
+        },
+        "topics": [
+            {
+                "name": "Behind",
+                "url": "/topics/behind"
+            },
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            },
+            {
+                "name": "Perfectly",
+                "url": "/topics/perfectly"
+            }
+        ]
+    }
+]

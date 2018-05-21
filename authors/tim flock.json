@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/tim_flock_323550",
+        "quote": "Back then the cars had a trap door that we could pull open with a chain to check our tire wear.",
+        "author": {
+            "name": "Tim Flock",
+            "url": "/quotes/tim_flock_323550"
+        },
+        "topics": [
+            {
+                "name": "Door",
+                "url": "/topics/door"
+            },
+            {
+                "name": "Chain",
+                "url": "/topics/chain"
+            },
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tim_flock_324201",
+        "quote": "It was hard enough to drive those heavy old cars back then under normal circumstances, but with a crazed monkey clawing you at the same time, it becomes nearly impossible!",
+        "author": {
+            "name": "Tim Flock",
+            "url": "/quotes/tim_flock_324201"
+        },
+        "topics": [
+            {
+                "name": "Circumstances",
+                "url": "/topics/circumstances"
+            },
+            {
+                "name": "Normal",
+                "url": "/topics/normal"
+            },
+            {
+                "name": "Old",
+                "url": "/topics/old"
+            }
+        ]
+    }
+]

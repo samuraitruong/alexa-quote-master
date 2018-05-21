@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/marliece_andrada_234305",
+        "quote": "And you wouldn't believe what a small world it is because everyone seems to know that I was a Playmate. You wouldn't be scared of me, would you?",
+        "author": {
+            "name": "Marliece Andrada",
+            "url": "/quotes/marliece_andrada_234305"
+        },
+        "topics": [
+            {
+                "name": "Believe",
+                "url": "/topics/believe"
+            },
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Everyone",
+                "url": "/topics/everyone"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marliece_andrada_640505",
+        "quote": "I hate clothes. As soon as I get home every day, I take off as many clothes as possible.",
+        "author": {
+            "name": "Marliece Andrada",
+            "url": "/quotes/marliece_andrada_640505"
+        },
+        "topics": [
+            {
+                "name": "Every Day",
+                "url": "/topics/every_day"
+            },
+            {
+                "name": "Possible",
+                "url": "/topics/possible"
+            },
+            {
+                "name": "Many",
+                "url": "/topics/many"
+            }
+        ]
+    }
+]

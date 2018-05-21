@@ -1,0 +1,438 @@
+[
+    {
+        "url": "/quotes/john_mcafee_755497?src=t_social_engineering",
+        "quote": "Social engineering has become about 75% of an average hacker's toolkit, and for the most successful hackers, it reaches 90% or more.",
+        "author": {
+            "name": "John McAfee",
+            "url": "/authors/john_mcafee"
+        },
+        "topics": [
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Average",
+                "url": "/topics/average"
+            },
+            {
+                "name": "Social",
+                "url": "/topics/social"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kevin_mitnick_469439?src=t_social_engineering",
+        "quote": "Social engineering is using deception, manipulation and influence to convince a human who has access to a computer system to do something, like click on an attachment in an e-mail.",
+        "author": {
+            "name": "Kevin Mitnick",
+            "url": "/authors/kevin_mitnick"
+        },
+        "topics": [
+            {
+                "name": "Social",
+                "url": "/topics/social"
+            },
+            {
+                "name": "Access",
+                "url": "/topics/access"
+            },
+            {
+                "name": "Using",
+                "url": "/topics/using"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/frank_abagnale_790763?src=t_social_engineering",
+        "quote": "There is no technology today that cannot be defeated by social engineering.",
+        "author": {
+            "name": "Frank Abagnale",
+            "url": "/authors/frank_abagnale"
+        },
+        "topics": [
+            {
+                "name": "Today",
+                "url": "/topics/today"
+            },
+            {
+                "name": "Defeated",
+                "url": "/topics/defeated"
+            },
+            {
+                "name": "Social",
+                "url": "/topics/social"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jaron_lanier_483082?src=t_social_engineering",
+        "quote": "It is impossible to work in information technology without also engaging in social engineering.",
+        "author": {
+            "name": "Jaron Lanier",
+            "url": "/authors/jaron_lanier"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Social",
+                "url": "/topics/social"
+            },
+            {
+                "name": "Engaging",
+                "url": "/topics/engaging"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_mcafee_755478?src=t_social_engineering",
+        "quote": "A hacker is someone who uses a combination of high-tech cybertools and social engineering to gain illicit access to someone else's data.",
+        "author": {
+            "name": "John McAfee",
+            "url": "/authors/john_mcafee"
+        },
+        "topics": [
+            {
+                "name": "Data",
+                "url": "/topics/data"
+            },
+            {
+                "name": "Social",
+                "url": "/topics/social"
+            },
+            {
+                "name": "Access",
+                "url": "/topics/access"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kevin_mitnick_469475?src=t_social_engineering",
+        "quote": "The key to social engineering is influencing a person to do something that allows the hacker to gain access to information or your network.",
+        "author": {
+            "name": "Kevin Mitnick",
+            "url": "/authors/kevin_mitnick"
+        },
+        "topics": [
+            {
+                "name": "Engineering",
+                "url": "/topics/engineering"
+            },
+            {
+                "name": "Social",
+                "url": "/topics/social"
+            },
+            {
+                "name": "Access",
+                "url": "/topics/access"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kevin_mitnick_469455?src=t_social_engineering",
+        "quote": "Social engineering is using manipulation, influence and deception to get a person, a trusted insider within an organization, to comply with a request, and the request is usually to release information or to perform some sort of action item that benefits that attacker.",
+        "author": {
+            "name": "Kevin Mitnick",
+            "url": "/authors/kevin_mitnick"
+        },
+        "topics": [
+            {
+                "name": "Benefits",
+                "url": "/topics/benefits"
+            },
+            {
+                "name": "Request",
+                "url": "/topics/request"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/marshall_herskovitz_644877?src=t_social_engineering",
+        "quote": "Hey, if I had my choice for social engineering, I'd declare an automatic R-rating for any movie that depicts television commercials. There's a truly dangerous influence on our children.",
+        "author": {
+            "name": "Marshall Herskovitz",
+            "url": "/authors/marshall_herskovitz"
+        },
+        "topics": [
+            {
+                "name": "Social",
+                "url": "/topics/social"
+            },
+            {
+                "name": "Declare",
+                "url": "/topics/declare"
+            },
+            {
+                "name": "Movie",
+                "url": "/topics/movie"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/barton_gellman_652440?src=t_social_engineering",
+        "quote": "'Social engineering,' the fancy term for tricking you into giving away your digital secrets, is at least as great a threat as spooky technology.",
+        "author": {
+            "name": "Barton Gellman",
+            "url": "/authors/barton_gellman"
+        },
+        "topics": [
+            {
+                "name": "Digital",
+                "url": "/topics/digital"
+            },
+            {
+                "name": "Fancy",
+                "url": "/topics/fancy"
+            },
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/stockwell_day_203892?src=t_social_engineering",
+        "quote": "The same undisciplined government spending and social engineering that has undermined our economy over the past 30 years has also been tearing at the social fabric of this land.",
+        "author": {
+            "name": "Stockwell Day",
+            "url": "/authors/stockwell_day"
+        },
+        "topics": [
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Government Spending",
+                "url": "/topics/government_spending"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kevin_mitnick_469459?src=t_social_engineering",
+        "quote": "Both social engineering and technical attacks played a big part in what I was able to do. It was a hybrid. I used social engineering when it was appropriate, and exploited technical vulnerabilities when it was appropriate.",
+        "author": {
+            "name": "Kevin Mitnick",
+            "url": "/authors/kevin_mitnick"
+        },
+        "topics": [
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Appropriate",
+                "url": "/topics/appropriate"
+            },
+            {
+                "name": "Big Part",
+                "url": "/topics/big_part"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/karl_popper_389282?src=t_social_engineering",
+        "quote": "Piecemeal social engineering resembles physical engineering in regarding the ends as beyond the province of technology.",
+        "author": {
+            "name": "Karl Popper",
+            "url": "/authors/karl_popper"
+        },
+        "topics": [
+            {
+                "name": "Social",
+                "url": "/topics/social"
+            },
+            {
+                "name": "Resembles",
+                "url": "/topics/resembles"
+            },
+            {
+                "name": "Province",
+                "url": "/topics/province"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/noam_chomsky_635941?src=t_social_engineering",
+        "quote": "The social and physical construction of suburban America really was quite complex. It was a very elaborate system, and clearly a massive social engineering project that has changed U.S. society enormously.",
+        "author": {
+            "name": "Noam Chomsky",
+            "url": "/authors/noam_chomsky"
+        },
+        "topics": [
+            {
+                "name": "Social",
+                "url": "/topics/social"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Elaborate",
+                "url": "/topics/elaborate"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_mcafee_485414?src=t_social_engineering",
+        "quote": "I am looking at opening a school of social engineering. The McAfee School of Social Engineering has a nice ring to it. Beyond that, it is hard to say what life will bring my way.",
+        "author": {
+            "name": "John McAfee",
+            "url": "/authors/john_mcafee"
+        },
+        "topics": [
+            {
+                "name": "Ring",
+                "url": "/topics/ring"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Social",
+                "url": "/topics/social"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_mcafee_755479?src=t_social_engineering",
+        "quote": "I was one of the first practitioners of social engineering as a hacking technique, and today it is my only tool of use, aside from a smartphone - in a purely white hat sort of way. But if you don't trust me, then ask any reasonably competent social engineer.",
+        "author": {
+            "name": "John McAfee",
+            "url": "/authors/john_mcafee"
+        },
+        "topics": [
+            {
+                "name": "Trust",
+                "url": "/topics/trust"
+            },
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            },
+            {
+                "name": "Purely",
+                "url": "/topics/purely"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_mcafee_755498?src=t_social_engineering",
+        "quote": "A simple social engineering hack might involve leaving a thumb drive on the pavement close to the driver's door of a car.",
+        "author": {
+            "name": "John McAfee",
+            "url": "/authors/john_mcafee"
+        },
+        "topics": [
+            {
+                "name": "Door",
+                "url": "/topics/door"
+            },
+            {
+                "name": "Social",
+                "url": "/topics/social"
+            },
+            {
+                "name": "Pavement",
+                "url": "/topics/pavement"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ron_paul_401775?src=t_social_engineering",
+        "quote": "Having federal officials, whether judges, bureaucrats, or congressmen, impose a new definition of marriage on the people is an act of social engineering profoundly hostile to liberty.",
+        "author": {
+            "name": "Ron Paul",
+            "url": "/authors/ron_paul"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Social",
+                "url": "/topics/social"
+            },
+            {
+                "name": "Having",
+                "url": "/topics/having"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/frank_abagnale_790762?src=t_social_engineering",
+        "quote": "I taught at the FBI for four decades - how to think outside of the box and deal with social engineering.",
+        "author": {
+            "name": "Frank Abagnale",
+            "url": "/authors/frank_abagnale"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Social",
+                "url": "/topics/social"
+            },
+            {
+                "name": "Deal",
+                "url": "/topics/deal"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_dallek_652117?src=t_social_engineering",
+        "quote": "Lyndon Johnson is not a comfortable model for President Obama to imitate. He is an all-but-forgotten president - pilloried for the failed war in Vietnam and criticized for grandiose reforms conservatives denounce as the epitome of federal social engineering that costs too much and does too little.",
+        "author": {
+            "name": "Robert Dallek",
+            "url": "/authors/robert_dallek"
+        },
+        "topics": [
+            {
+                "name": "Epitome",
+                "url": "/topics/epitome"
+            },
+            {
+                "name": "Obama",
+                "url": "/topics/obama"
+            },
+            {
+                "name": "Lyndon",
+                "url": "/topics/lyndon"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joseph_nye_561685?src=t_social_engineering",
+        "quote": "We live in a world of diverse cultures, and we know very little about social engineering and how to 'build nations.' And when we cannot be sure how to improve the world, hubristic visions pose a grave danger.",
+        "author": {
+            "name": "Joseph Nye",
+            "url": "/authors/joseph_nye"
+        },
+        "topics": [
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Sure",
+                "url": "/topics/sure"
+            },
+            {
+                "name": "We Cannot",
+                "url": "/topics/we_cannot"
+            }
+        ]
+    }
+]

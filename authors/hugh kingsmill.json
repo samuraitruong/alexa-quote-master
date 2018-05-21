@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/hugh_kingsmill_325305",
+        "quote": "Friends are God's apology for relations.",
+        "author": {
+            "name": "Hugh Kingsmill",
+            "url": "/quotes/hugh_kingsmill_325305"
+        },
+        "topics": [
+            {
+                "name": "God",
+                "url": "/topics/god"
+            },
+            {
+                "name": "Friends",
+                "url": "/topics/friends"
+            },
+            {
+                "name": "Relations",
+                "url": "/topics/relations"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/hugh_kingsmill_325304",
+        "quote": "Bacon's not the only thing that's cured by hanging from a string.",
+        "author": {
+            "name": "Hugh Kingsmill",
+            "url": "/quotes/hugh_kingsmill_325304"
+        },
+        "topics": [
+            {
+                "name": "Bacon",
+                "url": "/topics/bacon"
+            },
+            {
+                "name": "String",
+                "url": "/topics/string"
+            },
+            {
+                "name": "Cured",
+                "url": "/topics/cured"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/hugh_kingsmill_325306",
+        "quote": "Society is based on the assumption that everyone is alike and no one is alive.",
+        "author": {
+            "name": "Hugh Kingsmill",
+            "url": "/quotes/hugh_kingsmill_325306"
+        },
+        "topics": [
+            {
+                "name": "Society",
+                "url": "/topics/society"
+            },
+            {
+                "name": "Alike",
+                "url": "/topics/alike"
+            },
+            {
+                "name": "Based",
+                "url": "/topics/based"
+            }
+        ]
+    }
+]

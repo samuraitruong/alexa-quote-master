@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/neal_cassady_306012",
+        "quote": "I alone, as the sharer of their way of life, presented a replica of childhood.",
+        "author": {
+            "name": "Neal Cassady",
+            "url": "/quotes/neal_cassady_306012"
+        },
+        "topics": [
+            {
+                "name": "Alone",
+                "url": "/topics/alone"
+            },
+            {
+                "name": "Childhood",
+                "url": "/topics/childhood"
+            },
+            {
+                "name": "Replica",
+                "url": "/topics/replica"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/neal_cassady_306014",
+        "quote": "I became the unnatural son of a few score of beaten men.",
+        "author": {
+            "name": "Neal Cassady",
+            "url": "/quotes/neal_cassady_306014"
+        },
+        "topics": [
+            {
+                "name": "Son",
+                "url": "/topics/son"
+            },
+            {
+                "name": "Score",
+                "url": "/topics/score"
+            },
+            {
+                "name": "Became",
+                "url": "/topics/became"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/dick_button_201026",
+        "quote": "They were two halves that together formed a magical whole.",
+        "author": {
+            "name": "Dick Button",
+            "url": "/quotes/dick_button_201026"
+        },
+        "topics": [
+            {
+                "name": "Magical",
+                "url": "/topics/magical"
+            },
+            {
+                "name": "Halves",
+                "url": "/topics/halves"
+            },
+            {
+                "name": "Were",
+                "url": "/topics/were"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/dick_button_405421",
+        "quote": "That's what really makes great skating competitions. When you have two top skaters in good form giving superb performances.",
+        "author": {
+            "name": "Dick Button",
+            "url": "/quotes/dick_button_405421"
+        },
+        "topics": [
+            {
+                "name": "Skating",
+                "url": "/topics/skating"
+            },
+            {
+                "name": "Superb",
+                "url": "/topics/superb"
+            },
+            {
+                "name": "Makes",
+                "url": "/topics/makes"
+            }
+        ]
+    }
+]

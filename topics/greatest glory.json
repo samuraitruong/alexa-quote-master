@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/confucius_101164?src=t_greatest_glory",
+        "quote": "Our greatest glory is not in never falling, but in rising every time we fall.",
+        "author": {
+            "name": "Confucius",
+            "url": "/authors/confucius"
+        },
+        "topics": [
+            {
+                "name": "History",
+                "url": "/topics/history"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Falling",
+                "url": "/topics/falling"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ralph_waldo_emerson_178794?src=t_greatest_glory",
+        "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+        "author": {
+            "name": "Ralph Waldo Emerson",
+            "url": "/authors/ralph_waldo_emerson"
+        },
+        "topics": [
+            {
+                "name": "Failure",
+                "url": "/topics/failure"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Falling",
+                "url": "/topics/falling"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ralph_waldo_emerson_107066?src=t_greatest_glory",
+        "quote": "Our greatest glory is not in never failing, but in rising up every time we fail.",
+        "author": {
+            "name": "Ralph Waldo Emerson",
+            "url": "/authors/ralph_waldo_emerson"
+        },
+        "topics": [
+            {
+                "name": "Great",
+                "url": "/topics/great"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Fail",
+                "url": "/topics/fail"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/pericles_385591?src=t_greatest_glory",
+        "quote": "A woman's greatest glory is to be little talked about by men, whether for good or ill.",
+        "author": {
+            "name": "Pericles",
+            "url": "/authors/pericles"
+        },
+        "topics": [
+            {
+                "name": "Woman",
+                "url": "/topics/woman"
+            },
+            {
+                "name": "Talked",
+                "url": "/topics/talked"
+            },
+            {
+                "name": "Whether",
+                "url": "/topics/whether"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/clay_aiken_156048?src=t_greatest_glory",
+        "quote": "The greatest glory never comes from falling, but from rising each time you fall.",
+        "author": {
+            "name": "Clay Aiken",
+            "url": "/authors/clay_aiken"
+        },
+        "topics": [
+            {
+                "name": "Falling",
+                "url": "/topics/falling"
+            },
+            {
+                "name": "Rising",
+                "url": "/topics/rising"
+            },
+            {
+                "name": "Each Time",
+                "url": "/topics/each_time"
+            }
+        ]
+    }
+]

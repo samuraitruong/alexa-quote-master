@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/kool_keith_248490",
+        "quote": "I've done so many hip-hop albums already I got tired of just hip-hop.",
+        "author": {
+            "name": "Kool Keith",
+            "url": "/quotes/kool_keith_248490"
+        },
+        "topics": [
+            {
+                "name": "Tired",
+                "url": "/topics/tired"
+            },
+            {
+                "name": "Albums",
+                "url": "/topics/albums"
+            },
+            {
+                "name": "Many",
+                "url": "/topics/many"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kool_keith_248508",
+        "quote": "I've always been a direct guy.",
+        "author": {
+            "name": "Kool Keith",
+            "url": "/quotes/kool_keith_248508"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Direct",
+                "url": "/topics/direct"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/james_patrick_murray_128329",
+        "quote": "Show me a man who is a good loser and I'll show you a man who is playing golf with his boss.",
+        "author": {
+            "name": "James Patrick Murray",
+            "url": "/quotes/james_patrick_murray_128329"
+        },
+        "topics": [
+            {
+                "name": "Good",
+                "url": "/topics/good"
+            },
+            {
+                "name": "Boss",
+                "url": "/topics/boss"
+            },
+            {
+                "name": "Show",
+                "url": "/topics/show"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_patrick_murray_104226",
+        "quote": "Baseball is a game where a curve is an optical illusion, a screwball can be a pitch or a person, stealing is legal and you can spit anywhere you like except in the umpire's eye or on the ball.",
+        "author": {
+            "name": "James Patrick Murray",
+            "url": "/quotes/james_patrick_murray_104226"
+        },
+        "topics": [
+            {
+                "name": "Sports",
+                "url": "/topics/sports"
+            },
+            {
+                "name": "Game",
+                "url": "/topics/game"
+            },
+            {
+                "name": "Curve",
+                "url": "/topics/curve"
+            }
+        ]
+    }
+]

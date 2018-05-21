@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/julia_mckenzie_632772",
+        "quote": "I'd love to have been in things like 'The Jewel in the Crown,' but of course they're terribly old English. I can do that. But I'm not that.",
+        "author": {
+            "name": "Julia McKenzie",
+            "url": "/quotes/julia_mckenzie_632772"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/julia_mckenzie_632773",
+        "quote": "I can be a bit nosey. I like a bit of gossip.",
+        "author": {
+            "name": "Julia McKenzie",
+            "url": "/quotes/julia_mckenzie_632773"
+        },
+        "topics": [
+            {
+                "name": "Gossip",
+                "url": "/topics/gossip"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Bit",
+                "url": "/topics/bit"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/barnaby_c_keeney_114871",
+        "quote": "The scramble to get into college is going to be so terrible in the next few years that students are going to put up with almost anything, even an education.",
+        "author": {
+            "name": "Barnaby C. Keeney",
+            "url": "/quotes/barnaby_c_keeney_114871"
+        },
+        "topics": [
+            {
+                "name": "Education",
+                "url": "/topics/education"
+            },
+            {
+                "name": "College",
+                "url": "/topics/college"
+            },
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/barnaby_c_keeney_114872",
+        "quote": "At college age, you can tell who is best at taking tests and going to school, but you can't tell who the best people are. That worries the hell out of me.",
+        "author": {
+            "name": "Barnaby C. Keeney",
+            "url": "/quotes/barnaby_c_keeney_114872"
+        },
+        "topics": [
+            {
+                "name": "College",
+                "url": "/topics/college"
+            },
+            {
+                "name": "Tell",
+                "url": "/topics/tell"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            }
+        ]
+    }
+]

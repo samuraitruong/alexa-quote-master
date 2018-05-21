@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/bill_hayden_239162",
+        "quote": "Cosmoe is nearing the stage where I would feel comfortable doing a preliminary release aimed at developers.",
+        "author": {
+            "name": "Bill Hayden",
+            "url": "/quotes/bill_hayden_239162"
+        },
+        "topics": [
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Release",
+                "url": "/topics/release"
+            },
+            {
+                "name": "Developers",
+                "url": "/topics/developers"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_hayden_239166",
+        "quote": "Carbon is probably a bit harder to wrap since it's procedural.",
+        "author": {
+            "name": "Bill Hayden",
+            "url": "/quotes/bill_hayden_239166"
+        },
+        "topics": [
+            {
+                "name": "Carbon",
+                "url": "/topics/carbon"
+            },
+            {
+                "name": "Procedural",
+                "url": "/topics/procedural"
+            },
+            {
+                "name": "Bit",
+                "url": "/topics/bit"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_hayden_239169",
+        "quote": "Stock kernels will be the norm for some time.",
+        "author": {
+            "name": "Bill Hayden",
+            "url": "/quotes/bill_hayden_239169"
+        },
+        "topics": [
+            {
+                "name": "Time",
+                "url": "/topics/time"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_hayden_239173",
+        "quote": "Cosmoe works on any of the standard filesystems available for Linux.",
+        "author": {
+            "name": "Bill Hayden",
+            "url": "/quotes/bill_hayden_239173"
+        },
+        "topics": [
+            {
+                "name": "Linux",
+                "url": "/topics/linux"
+            },
+            {
+                "name": "Standard",
+                "url": "/topics/standard"
+            },
+            {
+                "name": "Works",
+                "url": "/topics/works"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_hayden_239176",
+        "quote": "Support for alternate languages will largely depend on the underlying OS.",
+        "author": {
+            "name": "Bill Hayden",
+            "url": "/quotes/bill_hayden_239176"
+        },
+        "topics": [
+            {
+                "name": "Depend",
+                "url": "/topics/depend"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Languages",
+                "url": "/topics/languages"
+            }
+        ]
+    }
+]

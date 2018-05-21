@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/lionel_ferbos_657626",
+        "quote": "As long as I have teeth, I'll keep playing. You can't play trumpet without teeth.",
+        "author": {
+            "name": "Lionel Ferbos",
+            "url": "/quotes/lionel_ferbos_657626"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Trumpet",
+                "url": "/topics/trumpet"
+            },
+            {
+                "name": "Keep",
+                "url": "/topics/keep"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lionel_ferbos_657625",
+        "quote": "I've had a wonderful life with music.",
+        "author": {
+            "name": "Lionel Ferbos",
+            "url": "/quotes/lionel_ferbos_657625"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "Wonderful Life",
+                "url": "/topics/wonderful_life"
+            },
+            {
+                "name": "Had",
+                "url": "/topics/had"
+            }
+        ]
+    }
+]

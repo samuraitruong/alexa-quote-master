@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/scott_glenn_450516",
+        "quote": "Acting gives you cosmic permission to take a trip in movies that lasts 24 hours a day, seven days a week, until the film is finished.",
+        "author": {
+            "name": "Scott Glenn",
+            "url": "/quotes/scott_glenn_450516"
+        },
+        "topics": [
+            {
+                "name": "Hours",
+                "url": "/topics/hours"
+            },
+            {
+                "name": "Cosmic",
+                "url": "/topics/cosmic"
+            },
+            {
+                "name": "Lasts",
+                "url": "/topics/lasts"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/scott_glenn_450515",
+        "quote": "I'm sure one reason I became an actor is my basic unwillingness to live one life.",
+        "author": {
+            "name": "Scott Glenn",
+            "url": "/quotes/scott_glenn_450515"
+        },
+        "topics": [
+            {
+                "name": "Actor",
+                "url": "/topics/actor"
+            },
+            {
+                "name": "Reason",
+                "url": "/topics/reason"
+            },
+            {
+                "name": "Became",
+                "url": "/topics/became"
+            }
+        ]
+    }
+]

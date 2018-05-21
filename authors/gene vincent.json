@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/gene_vincent_193013",
+        "quote": "I hope my fans remember my name is Gene Vincent and not Gene Autry.",
+        "author": {
+            "name": "Gene Vincent",
+            "url": "/quotes/gene_vincent_193013"
+        },
+        "topics": [
+            {
+                "name": "Remember",
+                "url": "/topics/remember"
+            },
+            {
+                "name": "Name",
+                "url": "/topics/name"
+            },
+            {
+                "name": "Gene",
+                "url": "/topics/gene"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gene_vincent_193015",
+        "quote": "I'm a crack shot and I've won medals for shooting. But I don't think I could shoot a person.",
+        "author": {
+            "name": "Gene Vincent",
+            "url": "/quotes/gene_vincent_193015"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Medals",
+                "url": "/topics/medals"
+            },
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            }
+        ]
+    }
+]

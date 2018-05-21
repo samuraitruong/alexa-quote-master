@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/henry_home_190208",
+        "quote": "A rich man cannot enjoy a sound mind nor a sound body without exercise and abstinence; and yet these are truly the worst ingredients of poverty.",
+        "author": {
+            "name": "Henry Home",
+            "url": "/quotes/henry_home_190208"
+        },
+        "topics": [
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Rich",
+                "url": "/topics/rich"
+            },
+            {
+                "name": "Sound",
+                "url": "/topics/sound"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henry_home_389857",
+        "quote": "The difficulty is not that great to die for a friend, the hard part is finding a friend worth dying for.",
+        "author": {
+            "name": "Henry Home",
+            "url": "/quotes/henry_home_389857"
+        },
+        "topics": [
+            {
+                "name": "Dying",
+                "url": "/topics/dying"
+            },
+            {
+                "name": "Die",
+                "url": "/topics/die"
+            },
+            {
+                "name": "Difficulty",
+                "url": "/topics/difficulty"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henry_home_190206",
+        "quote": "Violent passions are formed in solitude. In the busy world no object has time to make a deep impression.",
+        "author": {
+            "name": "Henry Home",
+            "url": "/quotes/henry_home_190206"
+        },
+        "topics": [
+            {
+                "name": "Deep",
+                "url": "/topics/deep"
+            },
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Violent",
+                "url": "/topics/violent"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henry_home_190207",
+        "quote": "The truly generous is the truly wise, and he who loves not others lives unblest!",
+        "author": {
+            "name": "Henry Home",
+            "url": "/quotes/henry_home_190207"
+        },
+        "topics": [
+            {
+                "name": "Wise",
+                "url": "/topics/wise"
+            },
+            {
+                "name": "Lives",
+                "url": "/topics/lives"
+            },
+            {
+                "name": "Loves",
+                "url": "/topics/loves"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/henry_home_190209",
+        "quote": "Luxury may possibly contribute to give bread to the poor; but if there were no luxury, there would be no poor.",
+        "author": {
+            "name": "Henry Home",
+            "url": "/quotes/henry_home_190209"
+        },
+        "topics": [
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Bread",
+                "url": "/topics/bread"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            }
+        ]
+    }
+]

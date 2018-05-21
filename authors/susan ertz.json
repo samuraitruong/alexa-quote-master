@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/susan_ertz_104798",
+        "quote": "Millions long for immortality who don't know what to do with themselves on a rainy Sunday afternoon.",
+        "author": {
+            "name": "Susan Ertz",
+            "url": "/quotes/susan_ertz_104798"
+        },
+        "topics": [
+            {
+                "name": "Death",
+                "url": "/topics/death"
+            },
+            {
+                "name": "Rainy",
+                "url": "/topics/rainy"
+            },
+            {
+                "name": "Afternoon",
+                "url": "/topics/afternoon"
+            }
+        ]
+    }
+]

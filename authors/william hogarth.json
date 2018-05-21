@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/william_hogarth_184996",
+        "quote": "All the world is competent to judge my pictures except those who are of my profession.",
+        "author": {
+            "name": "William Hogarth",
+            "url": "/quotes/william_hogarth_184996"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Profession",
+                "url": "/topics/profession"
+            },
+            {
+                "name": "Competent",
+                "url": "/topics/competent"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_hogarth_184997",
+        "quote": "I have generally found that persons who had studied painting least were the best judges of it.",
+        "author": {
+            "name": "William Hogarth",
+            "url": "/quotes/william_hogarth_184997"
+        },
+        "topics": [
+            {
+                "name": "Painting",
+                "url": "/topics/painting"
+            },
+            {
+                "name": "Found",
+                "url": "/topics/found"
+            },
+            {
+                "name": "Persons",
+                "url": "/topics/persons"
+            }
+        ]
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/stanley_smith_stevens_202604",
+        "quote": "A technical survey that systematize, digest, and appraise the mid century state of psychology.",
+        "author": {
+            "name": "Stanley Smith Stevens",
+            "url": "/quotes/stanley_smith_stevens_202604"
+        },
+        "topics": [
+            {
+                "name": "Century",
+                "url": "/topics/century"
+            },
+            {
+                "name": "Technical",
+                "url": "/topics/technical"
+            },
+            {
+                "name": "Appraise",
+                "url": "/topics/appraise"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/stanley_smith_stevens_202602",
+        "quote": "The method of magnitude estimation provided a direct measure of sensation.",
+        "author": {
+            "name": "Stanley Smith Stevens",
+            "url": "/quotes/stanley_smith_stevens_202602"
+        },
+        "topics": [
+            {
+                "name": "Estimation",
+                "url": "/topics/estimation"
+            },
+            {
+                "name": "Sensation",
+                "url": "/topics/sensation"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/stanley_smith_stevens_202603",
+        "quote": "The type of measure used placed constraints on which statistics can be used.",
+        "author": {
+            "name": "Stanley Smith Stevens",
+            "url": "/quotes/stanley_smith_stevens_202603"
+        },
+        "topics": [
+            {
+                "name": "Measure",
+                "url": "/topics/measure"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Placed",
+                "url": "/topics/placed"
+            }
+        ]
+    }
+]

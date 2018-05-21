@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/francisco_de_quevedo_277993",
+        "quote": "In short, not only are things not what they seem, they are not even what they are called!",
+        "author": {
+            "name": "Francisco de Quevedo",
+            "url": "/quotes/francisco_de_quevedo_277993"
+        },
+        "topics": [
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            },
+            {
+                "name": "Things",
+                "url": "/topics/things"
+            },
+            {
+                "name": "Even",
+                "url": "/topics/even"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/francisco_de_quevedo_694344",
+        "quote": "We all wish to reach a ripe old age, but none of us are prepared to admit that we are already there.",
+        "author": {
+            "name": "Francisco de Quevedo",
+            "url": "/quotes/francisco_de_quevedo_694344"
+        },
+        "topics": [
+            {
+                "name": "Reach",
+                "url": "/topics/reach"
+            },
+            {
+                "name": "Prepared",
+                "url": "/topics/prepared"
+            },
+            {
+                "name": "Old",
+                "url": "/topics/old"
+            }
+        ]
+    }
+]

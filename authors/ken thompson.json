@@ -1,0 +1,676 @@
+[
+    {
+        "url": "/quotes/ken_thompson_254865",
+        "quote": "The X server has to be the biggest program I've ever seen that doesn't do anything for you.",
+        "author": {
+            "name": "Ken Thompson",
+            "url": "/quotes/ken_thompson_254865"
+        },
+        "topics": [
+            {
+                "name": "Server",
+                "url": "/topics/server"
+            },
+            {
+                "name": "Ever",
+                "url": "/topics/ever"
+            },
+            {
+                "name": "Biggest",
+                "url": "/topics/biggest"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ken_thompson_254866",
+        "quote": "There are no projects per se in the Computing Sciences Research Center.",
+        "author": {
+            "name": "Ken Thompson",
+            "url": "/quotes/ken_thompson_254866"
+        },
+        "topics": [
+            {
+                "name": "Center",
+                "url": "/topics/center"
+            },
+            {
+                "name": "Computing",
+                "url": "/topics/computing"
+            },
+            {
+                "name": "Sciences",
+                "url": "/topics/sciences"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ken_thompson_254870",
+        "quote": "Unauthorized access to computer systems is already a serious crime in a few states and is currently being addressed in many more state legislatures as well as Congress.",
+        "author": {
+            "name": "Ken Thompson",
+            "url": "/quotes/ken_thompson_254870"
+        },
+        "topics": [
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Congress",
+                "url": "/topics/congress"
+            },
+            {
+                "name": "Access",
+                "url": "/topics/access"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ken_thompson_254872",
+        "quote": "We have persistant objects, they're called files.",
+        "author": {
+            "name": "Ken Thompson",
+            "url": "/quotes/ken_thompson_254872"
+        },
+        "topics": [
+            {
+                "name": "Objects",
+                "url": "/topics/objects"
+            },
+            {
+                "name": "Files",
+                "url": "/topics/files"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ken_thompson_254873",
+        "quote": "We tried to avoid, you know, records. We were told over and over that was probably the most serious mistake and the reason was the system would never catch on, because we didn't have records.",
+        "author": {
+            "name": "Ken Thompson",
+            "url": "/quotes/ken_thompson_254873"
+        },
+        "topics": [
+            {
+                "name": "Mistake",
+                "url": "/topics/mistake"
+            },
+            {
+                "name": "Reason",
+                "url": "/topics/reason"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ken_thompson_254858",
+        "quote": "One of my most productive days was throwing away 1,000 lines of code.",
+        "author": {
+            "name": "Ken Thompson",
+            "url": "/quotes/ken_thompson_254858"
+        },
+        "topics": [
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            },
+            {
+                "name": "Throwing",
+                "url": "/topics/throwing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ken_thompson_254855",
+        "quote": "No amount of source-level verification or scrutiny will protect you from using untrusted code.",
+        "author": {
+            "name": "Ken Thompson",
+            "url": "/quotes/ken_thompson_254855"
+        },
+        "topics": [
+            {
+                "name": "Code",
+                "url": "/topics/code"
+            },
+            {
+                "name": "Amount",
+                "url": "/topics/amount"
+            },
+            {
+                "name": "Using",
+                "url": "/topics/using"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ken_thompson_254849",
+        "quote": "In college, before video games, we would amuse ourselves by posing programming exercises.",
+        "author": {
+            "name": "Ken Thompson",
+            "url": "/quotes/ken_thompson_254849"
+        },
+        "topics": [
+            {
+                "name": "College",
+                "url": "/topics/college"
+            },
+            {
+                "name": "Amuse",
+                "url": "/topics/amuse"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ken_thompson_185574",
+        "quote": "When in doubt, use brute force.",
+        "author": {
+            "name": "Ken Thompson",
+            "url": "/quotes/ken_thompson_185574"
+        },
+        "topics": [
+            {
+                "name": "Doubt",
+                "url": "/topics/doubt"
+            },
+            {
+                "name": "Brute Force",
+                "url": "/topics/brute_force"
+            },
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ken_thompson_254869",
+        "quote": "There's a lot of power in executing data - generating data and executing data.",
+        "author": {
+            "name": "Ken Thompson",
+            "url": "/quotes/ken_thompson_254869"
+        },
+        "topics": [
+            {
+                "name": "Data",
+                "url": "/topics/data"
+            },
+            {
+                "name": "Lot",
+                "url": "/topics/lot"
+            },
+            {
+                "name": "Generating",
+                "url": "/topics/generating"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ken_thompson_254827",
+        "quote": "A well installed microcode bug will be almost impossible to detect.",
+        "author": {
+            "name": "Ken Thompson",
+            "url": "/quotes/ken_thompson_254827"
+        },
+        "topics": [
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Bug",
+                "url": "/topics/bug"
+            },
+            {
+                "name": "Almost",
+                "url": "/topics/almost"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ken_thompson_254875",
+        "quote": "You can't trust code that you did not totally create yourself.",
+        "author": {
+            "name": "Ken Thompson",
+            "url": "/quotes/ken_thompson_254875"
+        },
+        "topics": [
+            {
+                "name": "Trust",
+                "url": "/topics/trust"
+            },
+            {
+                "name": "Create",
+                "url": "/topics/create"
+            },
+            {
+                "name": "Code",
+                "url": "/topics/code"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ken_thompson_254840",
+        "quote": "I still have a full-time day job, which is why it took me five years to write An Ear to the Ground, and why I won't have another book finished by next week.",
+        "author": {
+            "name": "Ken Thompson",
+            "url": "/quotes/ken_thompson_254840"
+        },
+        "topics": [
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Full-Time",
+                "url": "/topics/full-time"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ken_thompson_254856",
+        "quote": "On the one hand, the press, television, and movies make heroes of vandals by calling them whiz kids.",
+        "author": {
+            "name": "Ken Thompson",
+            "url": "/quotes/ken_thompson_254856"
+        },
+        "topics": [
+            {
+                "name": "Movies",
+                "url": "/topics/movies"
+            },
+            {
+                "name": "Heroes",
+                "url": "/topics/heroes"
+            },
+            {
+                "name": "Whiz",
+                "url": "/topics/whiz"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ken_thompson_254848",
+        "quote": "If you want to go somewhere, goto is the best way to get there.",
+        "author": {
+            "name": "Ken Thompson",
+            "url": "/quotes/ken_thompson_254848"
+        },
+        "topics": [
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Best Way",
+                "url": "/topics/best_way"
+            },
+            {
+                "name": "Get",
+                "url": "/topics/get"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ken_thompson_254850",
+        "quote": "In fact, we started off with two or three different shells and the shell had life of its own.",
+        "author": {
+            "name": "Ken Thompson",
+            "url": "/quotes/ken_thompson_254850"
+        },
+        "topics": [
+            {
+                "name": "Shell",
+                "url": "/topics/shell"
+            },
+            {
+                "name": "Shells",
+                "url": "/topics/shells"
+            },
+            {
+                "name": "Fact",
+                "url": "/topics/fact"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ken_thompson_254861",
+        "quote": "So maybe I can go back to being a Gardeners' World addict again.",
+        "author": {
+            "name": "Ken Thompson",
+            "url": "/quotes/ken_thompson_254861"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Again",
+                "url": "/topics/again"
+            },
+            {
+                "name": "Maybe",
+                "url": "/topics/maybe"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ken_thompson_254842",
+        "quote": "I think the major good idea in Unix was its clean and simple interface: open, close, read, and write.",
+        "author": {
+            "name": "Ken Thompson",
+            "url": "/quotes/ken_thompson_254842"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Read",
+                "url": "/topics/read"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ken_thompson_254834",
+        "quote": "I also have an idea for a book on biodiversity, and why and how we should be conserving it.",
+        "author": {
+            "name": "Ken Thompson",
+            "url": "/quotes/ken_thompson_254834"
+        },
+        "topics": [
+            {
+                "name": "Biodiversity",
+                "url": "/topics/biodiversity"
+            },
+            {
+                "name": "Idea",
+                "url": "/topics/idea"
+            },
+            {
+                "name": "How",
+                "url": "/topics/how"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ken_thompson_254852",
+        "quote": "It's always good to take an orthogonal view of something. It develops ideas.",
+        "author": {
+            "name": "Ken Thompson",
+            "url": "/quotes/ken_thompson_254852"
+        },
+        "topics": [
+            {
+                "name": "View",
+                "url": "/topics/view"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Take",
+                "url": "/topics/take"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ken_thompson_254832",
+        "quote": "Grant, if we edited Fortran, I assume that you'd put a column thing in there.",
+        "author": {
+            "name": "Ken Thompson",
+            "url": "/quotes/ken_thompson_254832"
+        },
+        "topics": [
+            {
+                "name": "Grant",
+                "url": "/topics/grant"
+            },
+            {
+                "name": "Edited",
+                "url": "/topics/edited"
+            },
+            {
+                "name": "Column",
+                "url": "/topics/column"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ken_thompson_254835",
+        "quote": "I am a programmer.",
+        "author": {
+            "name": "Ken Thompson",
+            "url": "/quotes/ken_thompson_254835"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Programmer",
+                "url": "/topics/programmer"
+            },
+            {
+                "name": "Am",
+                "url": "/topics/am"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ken_thompson_254836",
+        "quote": "I am a very bottom-up thinker.",
+        "author": {
+            "name": "Ken Thompson",
+            "url": "/quotes/ken_thompson_254836"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Bottom-Up",
+                "url": "/topics/bottom-up"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ken_thompson_254838",
+        "quote": "I have to keep up with the scientific literature as part of my job, but increasingly I found myself reading things that weren't really relevant to my academic work, but were relevant to gardening.",
+        "author": {
+            "name": "Ken Thompson",
+            "url": "/quotes/ken_thompson_254838"
+        },
+        "topics": [
+            {
+                "name": "Gardening",
+                "url": "/topics/gardening"
+            },
+            {
+                "name": "Increasingly",
+                "url": "/topics/increasingly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ken_thompson_254844",
+        "quote": "I wanted to avoid, special IO for terminals.",
+        "author": {
+            "name": "Ken Thompson",
+            "url": "/quotes/ken_thompson_254844"
+        },
+        "topics": [
+            {
+                "name": "Special",
+                "url": "/topics/special"
+            },
+            {
+                "name": "Avoid",
+                "url": "/topics/avoid"
+            },
+            {
+                "name": "Wanted",
+                "url": "/topics/wanted"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ken_thompson_254845",
+        "quote": "I wanted to have virtual memory, at least as it's coupled with file systems.",
+        "author": {
+            "name": "Ken Thompson",
+            "url": "/quotes/ken_thompson_254845"
+        },
+        "topics": [
+            {
+                "name": "Memory",
+                "url": "/topics/memory"
+            },
+            {
+                "name": "Virtual",
+                "url": "/topics/virtual"
+            },
+            {
+                "name": "File",
+                "url": "/topics/file"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ken_thompson_254846",
+        "quote": "I wanted to separate data from programs, because data and instructions are very different.",
+        "author": {
+            "name": "Ken Thompson",
+            "url": "/quotes/ken_thompson_254846"
+        },
+        "topics": [
+            {
+                "name": "Wanted",
+                "url": "/topics/wanted"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Instructions",
+                "url": "/topics/instructions"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ken_thompson_254851",
+        "quote": "It is only the inadequacy of the criminal code that saves the hackers from very serious prosecution.",
+        "author": {
+            "name": "Ken Thompson",
+            "url": "/quotes/ken_thompson_254851"
+        },
+        "topics": [
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Code",
+                "url": "/topics/code"
+            },
+            {
+                "name": "Saves",
+                "url": "/topics/saves"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ken_thompson_254857",
+        "quote": "One is that the perfect garden can be created overnight, which it can't.",
+        "author": {
+            "name": "Ken Thompson",
+            "url": "/quotes/ken_thompson_254857"
+        },
+        "topics": [
+            {
+                "name": "Perfect",
+                "url": "/topics/perfect"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Overnight",
+                "url": "/topics/overnight"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ken_thompson_254862",
+        "quote": "That brings me to Dennis Ritchie. Our collaboration has been a thing of beauty.",
+        "author": {
+            "name": "Ken Thompson",
+            "url": "/quotes/ken_thompson_254862"
+        },
+        "topics": [
+            {
+                "name": "Beauty",
+                "url": "/topics/beauty"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Brings",
+                "url": "/topics/brings"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ken_thompson_254864",
+        "quote": "The average gardener probably knows little about what is going on in his or her garden.",
+        "author": {
+            "name": "Ken Thompson",
+            "url": "/quotes/ken_thompson_254864"
+        },
+        "topics": [
+            {
+                "name": "Her",
+                "url": "/topics/her"
+            },
+            {
+                "name": "Average",
+                "url": "/topics/average"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            }
+        ]
+    }
+]

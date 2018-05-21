@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/ron_rice_405594",
+        "quote": "I tell people retirement isn't what you think. You are going to sit around and waste your life, you can only golf so much. To stay young, you have to stay in the mix.",
+        "author": {
+            "name": "Ron Rice",
+            "url": "/quotes/ron_rice_405594"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Waste",
+                "url": "/topics/waste"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ron_rice_405595",
+        "quote": "If there's such a thing as somebody having nine lives, I guess I'm somewhat in that category.",
+        "author": {
+            "name": "Ron Rice",
+            "url": "/quotes/ron_rice_405595"
+        },
+        "topics": [
+            {
+                "name": "Having",
+                "url": "/topics/having"
+            },
+            {
+                "name": "Lives",
+                "url": "/topics/lives"
+            },
+            {
+                "name": "Nine",
+                "url": "/topics/nine"
+            }
+        ]
+    }
+]

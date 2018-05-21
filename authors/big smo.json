@@ -1,0 +1,134 @@
+[
+    {
+        "url": "/quotes/big_smo_702765",
+        "quote": "My playground is full of moonshine, mason jars, beer bottles, and bonfires.",
+        "author": {
+            "name": "Big Smo",
+            "url": "/quotes/big_smo_702765"
+        },
+        "topics": [
+            {
+                "name": "Playground",
+                "url": "/topics/playground"
+            },
+            {
+                "name": "Mason",
+                "url": "/topics/mason"
+            },
+            {
+                "name": "Bottles",
+                "url": "/topics/bottles"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/big_smo_702768",
+        "quote": "I had a sister who was killed in a motorcycle wreck when I was around 4 years old. My parents adopted her son, and so my nephew became my brother. He was three years older than me, so through him, I was exposed to hip-hop.",
+        "author": {
+            "name": "Big Smo",
+            "url": "/quotes/big_smo_702768"
+        },
+        "topics": [
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Had",
+                "url": "/topics/had"
+            },
+            {
+                "name": "Became",
+                "url": "/topics/became"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/big_smo_702763",
+        "quote": "I'm a product of my surroundings. I grew up on Hank Williams Jr., Johnny Cash, Jerry Reed, and also Run-D.M.C., the Beastie Boys, the Fat Boys, and Biz Markie.",
+        "author": {
+            "name": "Big Smo",
+            "url": "/quotes/big_smo_702763"
+        },
+        "topics": [
+            {
+                "name": "Product",
+                "url": "/topics/product"
+            },
+            {
+                "name": "Hank",
+                "url": "/topics/hank"
+            },
+            {
+                "name": "Reed",
+                "url": "/topics/reed"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/big_smo_702764",
+        "quote": "I don't like putting a name on my music. It's not just country and rap; it's got Southern rock, classic rock.",
+        "author": {
+            "name": "Big Smo",
+            "url": "/quotes/big_smo_702764"
+        },
+        "topics": [
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Rap",
+                "url": "/topics/rap"
+            },
+            {
+                "name": "Southern",
+                "url": "/topics/southern"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/big_smo_702766",
+        "quote": "Myself, I'm just a simple country boy who spent time on the streets and developed a style of writing and rapping and a cool sound that people seem to enjoy.",
+        "author": {
+            "name": "Big Smo",
+            "url": "/quotes/big_smo_702766"
+        },
+        "topics": [
+            {
+                "name": "Myself",
+                "url": "/topics/myself"
+            },
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Country Boy",
+                "url": "/topics/country_boy"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/big_smo_702767",
+        "quote": "My music is about my life. If it's something that I've lived, then it's something that I've written about.",
+        "author": {
+            "name": "Big Smo",
+            "url": "/quotes/big_smo_702767"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "My Life",
+                "url": "/topics/my_life"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    }
+]

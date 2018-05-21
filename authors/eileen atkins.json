@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/eileen_atkins_387746",
+        "quote": "I'm rarely wrong.",
+        "author": {
+            "name": "Eileen Atkins",
+            "url": "/quotes/eileen_atkins_387746"
+        },
+        "topics": [
+            {
+                "name": "Wrong",
+                "url": "/topics/wrong"
+            },
+            {
+                "name": "Rarely",
+                "url": "/topics/rarely"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eileen_atkins_394514",
+        "quote": "I think most British people who say they can do an American accent are so bad at it. I find it excruciating. I find it excruciating the other way around, too.",
+        "author": {
+            "name": "Eileen Atkins",
+            "url": "/quotes/eileen_atkins_394514"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Excruciating",
+                "url": "/topics/excruciating"
+            }
+        ]
+    }
+]

@@ -1,0 +1,178 @@
+[
+    {
+        "url": "/quotes/tim_oreilly_671272?src=t_perl",
+        "quote": "A lot of the websites built through the 1990s used Perl. The first webmaster of Sun Microsystems coined a wonderful phrase. He said Perl is the duck tape of the Internet - it's this language that people would write all these scripts that make things just work.",
+        "author": {
+            "name": "Tim O'Reilly",
+            "url": "/authors/tim_oreilly"
+        },
+        "topics": [
+            {
+                "name": "Language",
+                "url": "/topics/language"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Used",
+                "url": "/topics/used"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mitch_kapor_690392?src=t_perl",
+        "quote": "The main languages out of which web applications are built - whether it's Perl or Python or PHP or any of the other languages - those are all open source languages. So the infrastructure of the web is open source... the web as we know it is completely dependent on open source.",
+        "author": {
+            "name": "Mitch Kapor",
+            "url": "/authors/mitch_kapor"
+        },
+        "topics": [
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Source",
+                "url": "/topics/source"
+            },
+            {
+                "name": "Main",
+                "url": "/topics/main"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/larry_wall_367170?src=t_perl",
+        "quote": "I want people to use Perl. I want to be a positive ingredient of the world and make my American history. So, whatever it takes to give away my software and get it used, that's great.",
+        "author": {
+            "name": "Larry Wall",
+            "url": "/authors/larry_wall"
+        },
+        "topics": [
+            {
+                "name": "Technology",
+                "url": "/topics/technology"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            },
+            {
+                "name": "Ingredient",
+                "url": "/topics/ingredient"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/larry_wall_367189?src=t_perl",
+        "quote": "Perl was designed to work more like a natural language. It's a little more complicated but there are more shortcuts, and once you learned the language, it's more expressive.",
+        "author": {
+            "name": "Larry Wall",
+            "url": "/authors/larry_wall"
+        },
+        "topics": [
+            {
+                "name": "Natural",
+                "url": "/topics/natural"
+            },
+            {
+                "name": "Learned",
+                "url": "/topics/learned"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/larry_wall_367198?src=t_perl",
+        "quote": "The world has become a larger place. The universe has been expanding, and Perl's been expanding along with the universe.",
+        "author": {
+            "name": "Larry Wall",
+            "url": "/authors/larry_wall"
+        },
+        "topics": [
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Larger",
+                "url": "/topics/larger"
+            },
+            {
+                "name": "Expanding",
+                "url": "/topics/expanding"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/larry_wall_367202?src=t_perl",
+        "quote": "There is no schedule. We are all volunteers, so we get it done when we get it done. Perl 5 still works fine, and we plan to take the right amount of time on Perl 6.",
+        "author": {
+            "name": "Larry Wall",
+            "url": "/authors/larry_wall"
+        },
+        "topics": [
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            },
+            {
+                "name": "Amount",
+                "url": "/topics/amount"
+            },
+            {
+                "name": "Works",
+                "url": "/topics/works"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/larry_wall_367209?src=t_perl",
+        "quote": "When I announced the development of Perl 6, I said it was going to be a community design. I designed Perl, myself. It's limited by my own brain power. So I wanted Perl 6 to be a community design.",
+        "author": {
+            "name": "Larry Wall",
+            "url": "/authors/larry_wall"
+        },
+        "topics": [
+            {
+                "name": "Development",
+                "url": "/topics/development"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Limited",
+                "url": "/topics/limited"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/yukihiro_matsumoto_213504?src=t_perl",
+        "quote": "Ruby inherited the Perl philosophy of having more than one way to do the same thing. I inherited that philosophy from Larry Wall, who is my hero actually. I want to make Ruby users free. I want to give them the freedom to choose.",
+        "author": {
+            "name": "Yukihiro Matsumoto",
+            "url": "/authors/yukihiro_matsumoto"
+        },
+        "topics": [
+            {
+                "name": "Hero",
+                "url": "/topics/hero"
+            },
+            {
+                "name": "Choose",
+                "url": "/topics/choose"
+            },
+            {
+                "name": "Same Thing",
+                "url": "/topics/same_thing"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/thomas_guthrie_197201",
+        "quote": "As in nature, as in art, so in grace; it is rough treatment that gives souls, as well as stones, their luster.",
+        "author": {
+            "name": "Thomas Guthrie",
+            "url": "/quotes/thomas_guthrie_197201"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Rough",
+                "url": "/topics/rough"
+            },
+            {
+                "name": "Treatment",
+                "url": "/topics/treatment"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_guthrie_197202",
+        "quote": "The more the diamond is cut the brighter it sparkles; and in what seems hard dealing, there God has no end in view but to perfect His people.",
+        "author": {
+            "name": "Thomas Guthrie",
+            "url": "/quotes/thomas_guthrie_197202"
+        },
+        "topics": [
+            {
+                "name": "Perfect",
+                "url": "/topics/perfect"
+            },
+            {
+                "name": "Cut",
+                "url": "/topics/cut"
+            },
+            {
+                "name": "Dealing",
+                "url": "/topics/dealing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_guthrie_197200",
+        "quote": "Do it now. It is not safe to leave a generous feeling to the cooling influences of the world.",
+        "author": {
+            "name": "Thomas Guthrie",
+            "url": "/quotes/thomas_guthrie_197200"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Leave",
+                "url": "/topics/leave"
+            },
+            {
+                "name": "Now",
+                "url": "/topics/now"
+            }
+        ]
+    }
+]

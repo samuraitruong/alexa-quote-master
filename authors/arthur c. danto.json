@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/arthur_c_danto_111648",
+        "quote": "The Rockwell magazine cover was more a part of the American reality than a record of it.",
+        "author": {
+            "name": "Arthur C. Danto",
+            "url": "/quotes/arthur_c_danto_111648"
+        },
+        "topics": [
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Part",
+                "url": "/topics/part"
+            },
+            {
+                "name": "Cover",
+                "url": "/topics/cover"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/arthur_c_danto_162191",
+        "quote": "It really is impossible not to like him. His success was his failure.",
+        "author": {
+            "name": "Arthur C. Danto",
+            "url": "/quotes/arthur_c_danto_162191"
+        },
+        "topics": [
+            {
+                "name": "Success",
+                "url": "/topics/success"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            }
+        ]
+    }
+]

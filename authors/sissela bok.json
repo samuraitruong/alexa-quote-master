@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/sissela_bok_110667",
+        "quote": "While all deception requires secrecy, all secrecy is not meant to deceive.",
+        "author": {
+            "name": "Sissela Bok",
+            "url": "/quotes/sissela_bok_110667"
+        },
+        "topics": [
+            {
+                "name": "Deception",
+                "url": "/topics/deception"
+            },
+            {
+                "name": "Secrecy",
+                "url": "/topics/secrecy"
+            },
+            {
+                "name": "Meant",
+                "url": "/topics/meant"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sissela_bok_110666",
+        "quote": "Liars share with those they deceive the desire not to be deceived.",
+        "author": {
+            "name": "Sissela Bok",
+            "url": "/quotes/sissela_bok_110666"
+        },
+        "topics": [
+            {
+                "name": "Desire",
+                "url": "/topics/desire"
+            },
+            {
+                "name": "Deceived",
+                "url": "/topics/deceived"
+            },
+            {
+                "name": "Liars",
+                "url": "/topics/liars"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sissela_bok_110668",
+        "quote": "We are all, in a sense, experts on secrecy. From earliest childhood we feel its mystery and attraction. We know both the power it confers and the burden it imposes. We learn how it can delight, give breathing space and protect.",
+        "author": {
+            "name": "Sissela Bok",
+            "url": "/quotes/sissela_bok_110668"
+        },
+        "topics": [
+            {
+                "name": "Childhood",
+                "url": "/topics/childhood"
+            },
+            {
+                "name": "Learn",
+                "url": "/topics/learn"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            }
+        ]
+    }
+]

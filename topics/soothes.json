@@ -1,0 +1,200 @@
+[
+    {
+        "url": "/quotes/jon_bon_jovi_599417?src=t_soothes",
+        "quote": "I pray every day, several times. It soothes me. I don't ask for anything, except for health.",
+        "author": {
+            "name": "Jon Bon Jovi",
+            "url": "/authors/jon_bon_jovi"
+        },
+        "topics": [
+            {
+                "name": "Health",
+                "url": "/topics/health"
+            },
+            {
+                "name": "Every Day",
+                "url": "/topics/every_day"
+            },
+            {
+                "name": "Several",
+                "url": "/topics/several"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mother_angelica_769375?src=t_soothes",
+        "quote": "Love fills and empties simultaneously. It makes us reach out to God, ready to be pruned, recklessly desiring whatever the cost. It soothes the aching heart and then makes it thirst for more.",
+        "author": {
+            "name": "Mother Angelica",
+            "url": "/authors/mother_angelica"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Cost",
+                "url": "/topics/cost"
+            },
+            {
+                "name": "Desiring",
+                "url": "/topics/desiring"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paul_walker_185137?src=t_soothes",
+        "quote": "Surfing soothes me, it's always been a kind of Zen experience for me. The ocean is so magnificent, peaceful, and awesome. The rest of the world disappears for me when I'm on a wave.",
+        "author": {
+            "name": "Paul Walker",
+            "url": "/authors/paul_walker"
+        },
+        "topics": [
+            {
+                "name": "Rest",
+                "url": "/topics/rest"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/willie_stargell_370737?src=t_soothes",
+        "quote": "Love soothes wounds, while hatred and violence deepen them.",
+        "author": {
+            "name": "Willie Stargell",
+            "url": "/authors/willie_stargell"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Hatred",
+                "url": "/topics/hatred"
+            },
+            {
+                "name": "Wounds",
+                "url": "/topics/wounds"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/graham_nash_196365?src=t_soothes",
+        "quote": "We want to get this good music to as many people as possible because I think it heals, it soothes, I think music is incredibly important, especially in today's chaos.",
+        "author": {
+            "name": "Graham Nash",
+            "url": "/authors/graham_nash"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Heals",
+                "url": "/topics/heals"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joan_didion_392950?src=t_soothes",
+        "quote": "The fancy that extraterrestrial life is by definition of a higher order than our own is one that soothes all children, and many writers.",
+        "author": {
+            "name": "Joan Didion",
+            "url": "/authors/joan_didion"
+        },
+        "topics": [
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            },
+            {
+                "name": "Fancy",
+                "url": "/topics/fancy"
+            },
+            {
+                "name": "Writers",
+                "url": "/topics/writers"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/seinabo_sey_693314?src=t_soothes",
+        "quote": "I sing because it soothes me, and I write because I want to let others know that they're not alone with their problems.",
+        "author": {
+            "name": "Seinabo Sey",
+            "url": "/authors/seinabo_sey"
+        },
+        "topics": [
+            {
+                "name": "Alone",
+                "url": "/topics/alone"
+            },
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "I Write",
+                "url": "/topics/i_write"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/louis_kronenberger_115192?src=t_soothes",
+        "quote": "Nothing so soothes our vanity as a display of greater vanity in others; it make us vain, in fact, of our modesty.",
+        "author": {
+            "name": "Louis Kronenberger",
+            "url": "/authors/louis_kronenberger"
+        },
+        "topics": [
+            {
+                "name": "Fact",
+                "url": "/topics/fact"
+            },
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            },
+            {
+                "name": "Display",
+                "url": "/topics/display"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/steve_ross_276126?src=t_soothes",
+        "quote": "The city's contradictions and frailties drive me to the church. The church, in turn, binds my wounds and soothes my troubled heart, and sends me right back out into the city again.",
+        "author": {
+            "name": "Steve Ross",
+            "url": "/authors/steve_ross"
+        },
+        "topics": [
+            {
+                "name": "City",
+                "url": "/topics/city"
+            },
+            {
+                "name": "Wounds",
+                "url": "/topics/wounds"
+            },
+            {
+                "name": "Binds",
+                "url": "/topics/binds"
+            }
+        ]
+    }
+]

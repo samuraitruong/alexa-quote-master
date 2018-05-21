@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/michael_laws_404430",
+        "quote": "There is nothing likely to get you a bigger headline than attacking your own party.",
+        "author": {
+            "name": "Michael Laws",
+            "url": "/quotes/michael_laws_404430"
+        },
+        "topics": [
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            },
+            {
+                "name": "Bigger",
+                "url": "/topics/bigger"
+            },
+            {
+                "name": "Likely",
+                "url": "/topics/likely"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/michael_laws_510352",
+        "quote": "It's wrong for kids to be angry about something inanimate.",
+        "author": {
+            "name": "Michael Laws",
+            "url": "/quotes/michael_laws_510352"
+        },
+        "topics": [
+            {
+                "name": "Angry",
+                "url": "/topics/angry"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Inanimate",
+                "url": "/topics/inanimate"
+            }
+        ]
+    }
+]

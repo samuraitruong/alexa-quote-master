@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/kevin_sussman_882818",
+        "quote": "Everybody should leave their country at some point and visit others because you realize we're all people who need a chance to know about each other. That would benefit everyone.",
+        "author": {
+            "name": "Kevin Sussman",
+            "url": "/quotes/kevin_sussman_882818"
+        },
+        "topics": [
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Everybody",
+                "url": "/topics/everybody"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kevin_sussman_882819",
+        "quote": "I had done enough TV stuff before 'The Big Bang Theory.' I had done enough to sort of appreciate how awesome everybody is on 'The Big Bang Theory,' how nice and cool everybody is.",
+        "author": {
+            "name": "Kevin Sussman",
+            "url": "/quotes/kevin_sussman_882819"
+        },
+        "topics": [
+            {
+                "name": "Everybody",
+                "url": "/topics/everybody"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "TV",
+                "url": "/topics/tv"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kevin_sussman_882820",
+        "quote": "I used to actually work in a comic book stores in New York.",
+        "author": {
+            "name": "Kevin Sussman",
+            "url": "/quotes/kevin_sussman_882820"
+        },
+        "topics": [
+            {
+                "name": "New York",
+                "url": "/topics/new_york"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Actually",
+                "url": "/topics/actually"
+            }
+        ]
+    }
+]

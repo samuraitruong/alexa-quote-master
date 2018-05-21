@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/jerry_coleman_140276",
+        "quote": "Gaylord Perry and Willie McCovey should know each other like a book. They've been ex-teammates for years now.",
+        "author": {
+            "name": "Jerry Coleman",
+            "url": "/quotes/jerry_coleman_140276"
+        },
+        "topics": [
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Willie",
+                "url": "/topics/willie"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jerry_coleman_164455",
+        "quote": "He slides into second with a stand up double.",
+        "author": {
+            "name": "Jerry Coleman",
+            "url": "/quotes/jerry_coleman_164455"
+        },
+        "topics": [
+            {
+                "name": "Stand Up",
+                "url": "/topics/stand_up"
+            },
+            {
+                "name": "Double",
+                "url": "/topics/double"
+            },
+            {
+                "name": "Slides",
+                "url": "/topics/slides"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jerry_coleman_140279",
+        "quote": "You never ask why you've been fired because if you do, they're liable to tell you.",
+        "author": {
+            "name": "Jerry Coleman",
+            "url": "/quotes/jerry_coleman_140279"
+        },
+        "topics": [
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Fired",
+                "url": "/topics/fired"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    }
+]

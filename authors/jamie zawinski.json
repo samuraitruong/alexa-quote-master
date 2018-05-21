@@ -1,0 +1,420 @@
+[
+    {
+        "url": "/quotes/jamie_zawinski_320502",
+        "quote": "Software Engineering might be science; but that's not what I do. I'm a hacker, not an engineer.",
+        "author": {
+            "name": "Jamie Zawinski",
+            "url": "/quotes/jamie_zawinski_320502"
+        },
+        "topics": [
+            {
+                "name": "Hacker",
+                "url": "/topics/hacker"
+            },
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "Might",
+                "url": "/topics/might"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jamie_zawinski_320495",
+        "quote": "If you give a hacker a new toy, the first thing he'll do is take it apart to figure out how it works.",
+        "author": {
+            "name": "Jamie Zawinski",
+            "url": "/quotes/jamie_zawinski_320495"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            },
+            {
+                "name": "Figure",
+                "url": "/topics/figure"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jamie_zawinski_320496",
+        "quote": "Linux is only free if your time has no value.",
+        "author": {
+            "name": "Jamie Zawinski",
+            "url": "/quotes/jamie_zawinski_320496"
+        },
+        "topics": [
+            {
+                "name": "Linux",
+                "url": "/topics/linux"
+            },
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            },
+            {
+                "name": "Your",
+                "url": "/topics/your"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jamie_zawinski_320498",
+        "quote": "My one purpose in life is to serve as a warning to others.",
+        "author": {
+            "name": "Jamie Zawinski",
+            "url": "/quotes/jamie_zawinski_320498"
+        },
+        "topics": [
+            {
+                "name": "Purpose",
+                "url": "/topics/purpose"
+            },
+            {
+                "name": "Warning",
+                "url": "/topics/warning"
+            },
+            {
+                "name": "Serve",
+                "url": "/topics/serve"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jamie_zawinski_320492",
+        "quote": "I think Linux is a great thing, in the big picture. It's a great hacker's tool, and it has a lot of potential to become something more.",
+        "author": {
+            "name": "Jamie Zawinski",
+            "url": "/quotes/jamie_zawinski_320492"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jamie_zawinski_320499",
+        "quote": "Of course, all of the software I write runs on Linux; that's the beauty of standards, and of cross-platform code. I don't have to run your OS, and you don't have to run mine, and we can use the same applications anyway!",
+        "author": {
+            "name": "Jamie Zawinski",
+            "url": "/quotes/jamie_zawinski_320499"
+        },
+        "topics": [
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "Mine",
+                "url": "/topics/mine"
+            },
+            {
+                "name": "Code",
+                "url": "/topics/code"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jamie_zawinski_320501",
+        "quote": "See, unlike most hackers, I get little joy out of figuring out how to install the latest toy.",
+        "author": {
+            "name": "Jamie Zawinski",
+            "url": "/quotes/jamie_zawinski_320501"
+        },
+        "topics": [
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "Out",
+                "url": "/topics/out"
+            },
+            {
+                "name": "Figuring",
+                "url": "/topics/figuring"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jamie_zawinski_479625",
+        "quote": "You can always affect things - so can you change it in a way that will make you as happy with it in the future as you were in the past? Maybe it won't be the same, but it might be something else you also like.",
+        "author": {
+            "name": "Jamie Zawinski",
+            "url": "/quotes/jamie_zawinski_479625"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "In The Past",
+                "url": "/topics/in_the_past"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jamie_zawinski_320505",
+        "quote": "Why should someone have to retrain themselves to use a new application that does the same basic thing as the old application, just because something as trivial as the operating system changed out from under them?",
+        "author": {
+            "name": "Jamie Zawinski",
+            "url": "/quotes/jamie_zawinski_320505"
+        },
+        "topics": [
+            {
+                "name": "Why",
+                "url": "/topics/why"
+            },
+            {
+                "name": "Out",
+                "url": "/topics/out"
+            },
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jamie_zawinski_320493",
+        "quote": "I use a really simple calendar program on my computer.",
+        "author": {
+            "name": "Jamie Zawinski",
+            "url": "/quotes/jamie_zawinski_320493"
+        },
+        "topics": [
+            {
+                "name": "Calendar",
+                "url": "/topics/calendar"
+            },
+            {
+                "name": "Computer",
+                "url": "/topics/computer"
+            },
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jamie_zawinski_320488",
+        "quote": "Because, you see, what I want to do is to commoditize the OS. I want to have access to all the applications that I need to do the things that I need to do, regardless.",
+        "author": {
+            "name": "Jamie Zawinski",
+            "url": "/quotes/jamie_zawinski_320488"
+        },
+        "topics": [
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            },
+            {
+                "name": "Access",
+                "url": "/topics/access"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jamie_zawinski_320491",
+        "quote": "I think Linux is a great thing, because Linux is an alternative to Windows, and because, of all the operating systems that are at all relevant today, Unix is the best of a bad lot.",
+        "author": {
+            "name": "Jamie Zawinski",
+            "url": "/quotes/jamie_zawinski_320491"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jamie_zawinski_479626",
+        "quote": "Nothing stands still. The real question is can you change it?",
+        "author": {
+            "name": "Jamie Zawinski",
+            "url": "/quotes/jamie_zawinski_479626"
+        },
+        "topics": [
+            {
+                "name": "Question",
+                "url": "/topics/question"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            },
+            {
+                "name": "Stands",
+                "url": "/topics/stands"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jamie_zawinski_320487",
+        "quote": "And when the time comes to replace the O2 I have today, maybe my next machine will run Linux.",
+        "author": {
+            "name": "Jamie Zawinski",
+            "url": "/quotes/jamie_zawinski_320487"
+        },
+        "topics": [
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Maybe",
+                "url": "/topics/maybe"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jamie_zawinski_320489",
+        "quote": "I don't get much sense of reward from having discovered how to get the Foo card to coexist with the Bar card.",
+        "author": {
+            "name": "Jamie Zawinski",
+            "url": "/quotes/jamie_zawinski_320489"
+        },
+        "topics": [
+            {
+                "name": "Reward",
+                "url": "/topics/reward"
+            },
+            {
+                "name": "Having",
+                "url": "/topics/having"
+            },
+            {
+                "name": "Discovered",
+                "url": "/topics/discovered"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jamie_zawinski_320490",
+        "quote": "I eat and drink at my desk, but I'm a tidy eater.",
+        "author": {
+            "name": "Jamie Zawinski",
+            "url": "/quotes/jamie_zawinski_320490"
+        },
+        "topics": [
+            {
+                "name": "Desk",
+                "url": "/topics/desk"
+            },
+            {
+                "name": "Eat",
+                "url": "/topics/eat"
+            },
+            {
+                "name": "Eater",
+                "url": "/topics/eater"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jamie_zawinski_320497",
+        "quote": "Mostly I use the O2 as an X terminal, however, running my apps on Linux and displaying remotely.",
+        "author": {
+            "name": "Jamie Zawinski",
+            "url": "/quotes/jamie_zawinski_320497"
+        },
+        "topics": [
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            },
+            {
+                "name": "However",
+                "url": "/topics/however"
+            },
+            {
+                "name": "Mostly",
+                "url": "/topics/mostly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jamie_zawinski_320500",
+        "quote": "On the other hand, there would be some value in different folks getting together to share expertise and technology; but to the listener, it wouldn't necessarily seem like a single station in the traditional sense.",
+        "author": {
+            "name": "Jamie Zawinski",
+            "url": "/quotes/jamie_zawinski_320500"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jamie_zawinski_321153",
+        "quote": "Using these toolkits is like trying to make a bookshelf out of mashed potatoes.",
+        "author": {
+            "name": "Jamie Zawinski",
+            "url": "/quotes/jamie_zawinski_321153"
+        },
+        "topics": [
+            {
+                "name": "Potatoes",
+                "url": "/topics/potatoes"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Using",
+                "url": "/topics/using"
+            }
+        ]
+    }
+]

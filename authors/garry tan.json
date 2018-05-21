@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/garry_tan_851321",
+        "quote": "Bitcoin will make a dent in society when more normal transactions occur that would have occurred with dollars or credit card.",
+        "author": {
+            "name": "Garry Tan",
+            "url": "/quotes/garry_tan_851321"
+        },
+        "topics": [
+            {
+                "name": "Normal",
+                "url": "/topics/normal"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Occurred",
+                "url": "/topics/occurred"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/garry_tan_851319",
+        "quote": "Bitcoin has the potential to destroy credit cards and banks as we know it. Maybe that is a good thing or a bad thing, but I like the idea that if someone needs to remit payments, they can do it without being gouged.",
+        "author": {
+            "name": "Garry Tan",
+            "url": "/quotes/garry_tan_851319"
+        },
+        "topics": [
+            {
+                "name": "Cards",
+                "url": "/topics/cards"
+            },
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            },
+            {
+                "name": "Maybe",
+                "url": "/topics/maybe"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/garry_tan_851320",
+        "quote": "Being right is important. Too many great teams march off saying, 'If we build it, they will come,' and then never are able to change the idea towards something that people really want.",
+        "author": {
+            "name": "Garry Tan",
+            "url": "/quotes/garry_tan_851320"
+        },
+        "topics": [
+            {
+                "name": "Saying",
+                "url": "/topics/saying"
+            },
+            {
+                "name": "Idea",
+                "url": "/topics/idea"
+            },
+            {
+                "name": "Too",
+                "url": "/topics/too"
+            }
+        ]
+    }
+]

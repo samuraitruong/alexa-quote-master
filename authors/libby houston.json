@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/libby_houston_160567",
+        "quote": "The base emotions Plato banned have left a radio-active and not radiant land.",
+        "author": {
+            "name": "Libby Houston",
+            "url": "/quotes/libby_houston_160567"
+        },
+        "topics": [
+            {
+                "name": "Land",
+                "url": "/topics/land"
+            },
+            {
+                "name": "Emotions",
+                "url": "/topics/emotions"
+            },
+            {
+                "name": "Left",
+                "url": "/topics/left"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/libby_houston_160566",
+        "quote": "When your dreams tire, they go underground and out of kindness that's where they stay.",
+        "author": {
+            "name": "Libby Houston",
+            "url": "/quotes/libby_houston_160566"
+        },
+        "topics": [
+            {
+                "name": "Dreams",
+                "url": "/topics/dreams"
+            },
+            {
+                "name": "Go",
+                "url": "/topics/go"
+            },
+            {
+                "name": "Underground",
+                "url": "/topics/underground"
+            }
+        ]
+    }
+]

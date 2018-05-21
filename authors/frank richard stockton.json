@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/frank_richard_stockton_215706",
+        "quote": "May you live to see the green grass growing over your grave.",
+        "author": {
+            "name": "Frank Richard Stockton",
+            "url": "/quotes/frank_richard_stockton_215706"
+        },
+        "topics": [
+            {
+                "name": "Growing",
+                "url": "/topics/growing"
+            },
+            {
+                "name": "See",
+                "url": "/topics/see"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/frank_richard_stockton_215704",
+        "quote": "I had my share of critics, and I wash my hands of the whole lot.",
+        "author": {
+            "name": "Frank Richard Stockton",
+            "url": "/quotes/frank_richard_stockton_215704"
+        },
+        "topics": [
+            {
+                "name": "Hands",
+                "url": "/topics/hands"
+            },
+            {
+                "name": "Lot",
+                "url": "/topics/lot"
+            },
+            {
+                "name": "Critics",
+                "url": "/topics/critics"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/frank_richard_stockton_215703",
+        "quote": "I think I won't do for your business at all, but personally I have no fight with you. You can go on and save all the critics you can, but don't send them to me.",
+        "author": {
+            "name": "Frank Richard Stockton",
+            "url": "/quotes/frank_richard_stockton_215703"
+        },
+        "topics": [
+            {
+                "name": "Business",
+                "url": "/topics/business"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    }
+]

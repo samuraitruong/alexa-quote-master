@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/tone_vays_852246",
+        "quote": "The events over the DAO hack might have spooked some people from ether to Bitcoin, helping with the rise in price, and now that ether is recovering a little, that movement is reversing the action.",
+        "author": {
+            "name": "Tone Vays",
+            "url": "/quotes/tone_vays_852246"
+        },
+        "topics": [
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Recovering",
+                "url": "/topics/recovering"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tone_vays_852242",
+        "quote": "A token like ethereum has gone up 10 times faster than bitcoin, and it's fueling an ICO bubble no different then the dot-com IPOs of the late '90s.",
+        "author": {
+            "name": "Tone Vays",
+            "url": "/quotes/tone_vays_852242"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Then",
+                "url": "/topics/then"
+            },
+            {
+                "name": "Dot-Com",
+                "url": "/topics/dot-com"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tone_vays_852243",
+        "quote": "Bitcoin Cash was created by people who don't approve of Segregated Witness.",
+        "author": {
+            "name": "Tone Vays",
+            "url": "/quotes/tone_vays_852243"
+        },
+        "topics": [
+            {
+                "name": "Witness",
+                "url": "/topics/witness"
+            },
+            {
+                "name": "Created",
+                "url": "/topics/created"
+            },
+            {
+                "name": "Approve",
+                "url": "/topics/approve"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tone_vays_852244",
+        "quote": "Bitcoin Cash won't be a viable alternative to Bitcoin.",
+        "author": {
+            "name": "Tone Vays",
+            "url": "/quotes/tone_vays_852244"
+        },
+        "topics": [
+            {
+                "name": "Cash",
+                "url": "/topics/cash"
+            },
+            {
+                "name": "Alternative",
+                "url": "/topics/alternative"
+            },
+            {
+                "name": "Viable",
+                "url": "/topics/viable"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tone_vays_852245",
+        "quote": "Segregated Witness was forced onto the miners by the community.",
+        "author": {
+            "name": "Tone Vays",
+            "url": "/quotes/tone_vays_852245"
+        },
+        "topics": [
+            {
+                "name": "Community",
+                "url": "/topics/community"
+            },
+            {
+                "name": "Witness",
+                "url": "/topics/witness"
+            },
+            {
+                "name": "Forced",
+                "url": "/topics/forced"
+            }
+        ]
+    }
+]

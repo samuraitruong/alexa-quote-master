@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/john_newton_162609",
+        "quote": "A bowler can make or break a chap.",
+        "author": {
+            "name": "John Newton",
+            "url": "/quotes/john_newton_162609"
+        },
+        "topics": [
+            {
+                "name": "Break",
+                "url": "/topics/break"
+            },
+            {
+                "name": "Chap",
+                "url": "/topics/chap"
+            },
+            {
+                "name": "Bowler",
+                "url": "/topics/bowler"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_newton_161773",
+        "quote": "We can easily manage if we will only take, each day, the burden appointed to it. But the load will be too heavy for us if we carry yesterday's burden over again today, and then add the burden of the morrow before we are required to bear it.",
+        "author": {
+            "name": "John Newton",
+            "url": "/quotes/john_newton_161773"
+        },
+        "topics": [
+            {
+                "name": "Burden",
+                "url": "/topics/burden"
+            },
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            },
+            {
+                "name": "Required",
+                "url": "/topics/required"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_newton_166130",
+        "quote": "Many have puzzled themselves about the origin of evil. I am content to observe that there is evil, and that there is a way to escape from it, and with this I begin and end.",
+        "author": {
+            "name": "John Newton",
+            "url": "/quotes/john_newton_166130"
+        },
+        "topics": [
+            {
+                "name": "Origin",
+                "url": "/topics/origin"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Many",
+                "url": "/topics/many"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_newton_392099",
+        "quote": "God works powerfully, but for the most part gently and gradually.",
+        "author": {
+            "name": "John Newton",
+            "url": "/quotes/john_newton_392099"
+        },
+        "topics": [
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            },
+            {
+                "name": "Works",
+                "url": "/topics/works"
+            },
+            {
+                "name": "Gradually",
+                "url": "/topics/gradually"
+            }
+        ]
+    }
+]

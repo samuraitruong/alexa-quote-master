@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/august_wilhelm_von_schleg_190402",
+        "quote": "In actual life, every great enterprise begins with and takes its first forward step in faith.",
+        "author": {
+            "name": "August Wilhelm von Schlegel",
+            "url": "/quotes/august_wilhelm_von_schleg_190402"
+        },
+        "topics": [
+            {
+                "name": "Enterprise",
+                "url": "/topics/enterprise"
+            },
+            {
+                "name": "Begins",
+                "url": "/topics/begins"
+            },
+            {
+                "name": "Actual",
+                "url": "/topics/actual"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/august_wilhelm_von_schleg_190400",
+        "quote": "Literature is the immortality of speech.",
+        "author": {
+            "name": "August Wilhelm von Schlegel",
+            "url": "/quotes/august_wilhelm_von_schleg_190400"
+        },
+        "topics": [
+            {
+                "name": "Literature",
+                "url": "/topics/literature"
+            },
+            {
+                "name": "Immortality",
+                "url": "/topics/immortality"
+            }
+        ]
+    }
+]

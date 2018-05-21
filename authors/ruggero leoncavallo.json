@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/ruggero_leoncavallo_191937",
+        "quote": "This new art made a deep impression on me, and I began to study it ardently.",
+        "author": {
+            "name": "Ruggero Leoncavallo",
+            "url": "/quotes/ruggero_leoncavallo_191937"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Deep",
+                "url": "/topics/deep"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ruggero_leoncavallo_191939",
+        "quote": "When I need the idea, I can find it immediately. I have a horror of rewriting or deleting; the parts of my composition are carried in my head 'till I can write them down, even to the last note. Then I do not alter a jot.",
+        "author": {
+            "name": "Ruggero Leoncavallo",
+            "url": "/quotes/ruggero_leoncavallo_191939"
+        },
+        "topics": [
+            {
+                "name": "Idea",
+                "url": "/topics/idea"
+            },
+            {
+                "name": "Note",
+                "url": "/topics/note"
+            },
+            {
+                "name": "Till",
+                "url": "/topics/till"
+            }
+        ]
+    }
+]

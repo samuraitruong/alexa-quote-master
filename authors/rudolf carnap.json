@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/rudolf_carnap_395686",
+        "quote": "Logic is the last scientific ingredient of Philosophy; its extraction leaves behind only a confusion of non-scientific, pseudo problems.",
+        "author": {
+            "name": "Rudolf Carnap",
+            "url": "/quotes/rudolf_carnap_395686"
+        },
+        "topics": [
+            {
+                "name": "Last",
+                "url": "/topics/last"
+            },
+            {
+                "name": "Behind",
+                "url": "/topics/behind"
+            },
+            {
+                "name": "Ingredient",
+                "url": "/topics/ingredient"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rudolf_carnap_205522",
+        "quote": "In science there are no 'depths'; there is surface everywhere.",
+        "author": {
+            "name": "Rudolf Carnap",
+            "url": "/quotes/rudolf_carnap_205522"
+        },
+        "topics": [
+            {
+                "name": "Science",
+                "url": "/topics/science"
+            },
+            {
+                "name": "Surface",
+                "url": "/topics/surface"
+            },
+            {
+                "name": "Everywhere",
+                "url": "/topics/everywhere"
+            }
+        ]
+    }
+]

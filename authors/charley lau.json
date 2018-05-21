@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/charley_lau_104234",
+        "quote": "There are two theories on hitting the knuckleball. Unfortunately, neither of them works.",
+        "author": {
+            "name": "Charley Lau",
+            "url": "/quotes/charley_lau_104234"
+        },
+        "topics": [
+            {
+                "name": "Sports",
+                "url": "/topics/sports"
+            },
+            {
+                "name": "Works",
+                "url": "/topics/works"
+            },
+            {
+                "name": "Neither",
+                "url": "/topics/neither"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charley_lau_139840",
+        "quote": "Nobody should hit .200. Anybody should hit .250.",
+        "author": {
+            "name": "Charley Lau",
+            "url": "/quotes/charley_lau_139840"
+        },
+        "topics": [
+            {
+                "name": "Hit",
+                "url": "/topics/hit"
+            },
+            {
+                "name": "Anybody",
+                "url": "/topics/anybody"
+            },
+            {
+                "name": "Should",
+                "url": "/topics/should"
+            }
+        ]
+    }
+]

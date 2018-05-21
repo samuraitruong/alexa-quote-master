@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/giovanni_papini_312161",
+        "quote": "There are those who have a desire to love, but do not have the capacity to love.",
+        "author": {
+            "name": "Giovanni Papini",
+            "url": "/quotes/giovanni_papini_312161"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Desire",
+                "url": "/topics/desire"
+            },
+            {
+                "name": "To Love",
+                "url": "/topics/to_love"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/giovanni_papini_312160",
+        "quote": "Humans: become atheists each and all! God will nevertheless welcome you with all his heart!",
+        "author": {
+            "name": "Giovanni Papini",
+            "url": "/quotes/giovanni_papini_312160"
+        },
+        "topics": [
+            {
+                "name": "His",
+                "url": "/topics/his"
+            },
+            {
+                "name": "Nevertheless",
+                "url": "/topics/nevertheless"
+            },
+            {
+                "name": "Atheists",
+                "url": "/topics/atheists"
+            }
+        ]
+    }
+]

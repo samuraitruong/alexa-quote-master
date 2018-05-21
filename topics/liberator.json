@@ -1,0 +1,134 @@
+[
+    {
+        "url": "/quotes/abraham_lincoln_138223?src=t_liberator",
+        "quote": "The shepherd drives the wolf from the sheep's for which the sheep thanks the shepherd as his liberator, while the wolf denounces him for the same act as the destroyer of liberty. Plainly, the sheep and the wolf are not agreed upon a definition of liberty.",
+        "author": {
+            "name": "Abraham Lincoln",
+            "url": "/authors/abraham_lincoln"
+        },
+        "topics": [
+            {
+                "name": "Wolf",
+                "url": "/topics/wolf"
+            },
+            {
+                "name": "Shepherd",
+                "url": "/topics/shepherd"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/emma_goldman_402307?src=t_liberator",
+        "quote": "Anarchism is the great liberator of man from the phantoms that have held him captive; it is the arbiter and pacifier of the two forces for individual and social harmony.",
+        "author": {
+            "name": "Emma Goldman",
+            "url": "/authors/emma_goldman"
+        },
+        "topics": [
+            {
+                "name": "Harmony",
+                "url": "/topics/harmony"
+            },
+            {
+                "name": "Individual",
+                "url": "/topics/individual"
+            },
+            {
+                "name": "Held",
+                "url": "/topics/held"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/charles_caleb_colton_165887?src=t_liberator",
+        "quote": "Death is the liberator of him whom freedom cannot release, the physician of him whom medicine cannot cure, and the comforter of him whom time cannot console.",
+        "author": {
+            "name": "Charles Caleb Colton",
+            "url": "/authors/charles_caleb_colton"
+        },
+        "topics": [
+            {
+                "name": "Death",
+                "url": "/topics/death"
+            },
+            {
+                "name": "Release",
+                "url": "/topics/release"
+            },
+            {
+                "name": "Console",
+                "url": "/topics/console"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/yair_lapid_761119?src=t_liberator",
+        "quote": "Judaism shouldn't be the jailhouse of ideas but a liberator of ideas; not a disintegrator of people but what brings people together.",
+        "author": {
+            "name": "Yair Lapid",
+            "url": "/authors/yair_lapid"
+        },
+        "topics": [
+            {
+                "name": "Ideas",
+                "url": "/topics/ideas"
+            },
+            {
+                "name": "Judaism",
+                "url": "/topics/judaism"
+            },
+            {
+                "name": "Brings",
+                "url": "/topics/brings"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/orison_swett_marden_718740?src=t_liberator",
+        "quote": "The most irresistible charm of youth is its bubbling enthusiasm. Youth sees no darkness ahead - no defile that has no outlet - it forgets that there is such a thing as failure in the world and believes that mankind has been waiting all these centuries for him to come and be the liberator of truth and energy and beauty.",
+        "author": {
+            "name": "Orison Swett Marden",
+            "url": "/authors/orison_swett_marden"
+        },
+        "topics": [
+            {
+                "name": "Beauty",
+                "url": "/topics/beauty"
+            },
+            {
+                "name": "Waiting",
+                "url": "/topics/waiting"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/zell_miller_160359?src=t_liberator",
+        "quote": "Motivated more by partisan politics than by national security, today's Democratic leaders see America as an occupier, not a liberator. And nothing makes this Marine madder than someone calling American troops occupiers rather than liberators.",
+        "author": {
+            "name": "Zell Miller",
+            "url": "/authors/zell_miller"
+        },
+        "topics": [
+            {
+                "name": "Politics",
+                "url": "/topics/politics"
+            },
+            {
+                "name": "Rather",
+                "url": "/topics/rather"
+            },
+            {
+                "name": "Madder",
+                "url": "/topics/madder"
+            }
+        ]
+    }
+]

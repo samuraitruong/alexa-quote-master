@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/bill_gothard_190423",
+        "quote": "A message prepared in the mind reaches a mind; a message prepared in a life reaches a life.",
+        "author": {
+            "name": "Bill Gothard",
+            "url": "/quotes/bill_gothard_190423"
+        },
+        "topics": [
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Prepared",
+                "url": "/topics/prepared"
+            },
+            {
+                "name": "Message",
+                "url": "/topics/message"
+            }
+        ]
+    }
+]

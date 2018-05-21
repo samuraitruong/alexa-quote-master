@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/rene_rivkin_173419",
+        "quote": "I hate weekends because there is no stock market.",
+        "author": {
+            "name": "Rene Rivkin",
+            "url": "/quotes/rene_rivkin_173419"
+        },
+        "topics": [
+            {
+                "name": "Hate",
+                "url": "/topics/hate"
+            },
+            {
+                "name": "Market",
+                "url": "/topics/market"
+            },
+            {
+                "name": "Weekends",
+                "url": "/topics/weekends"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rene_rivkin_173422",
+        "quote": "When buying shares, ask yourself, would you buy the whole company?",
+        "author": {
+            "name": "Rene Rivkin",
+            "url": "/quotes/rene_rivkin_173422"
+        },
+        "topics": [
+            {
+                "name": "Buy",
+                "url": "/topics/buy"
+            },
+            {
+                "name": "Shares",
+                "url": "/topics/shares"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rene_rivkin_173421",
+        "quote": "I think one can achieve a very pleasant lifestyle by treating human beings, fellow human beings, very well.",
+        "author": {
+            "name": "Rene Rivkin",
+            "url": "/quotes/rene_rivkin_173421"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rene_rivkin_173420",
+        "quote": "I love the market, it is my work, my play and my life.",
+        "author": {
+            "name": "Rene Rivkin",
+            "url": "/quotes/rene_rivkin_173420"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Market",
+                "url": "/topics/market"
+            }
+        ]
+    }
+]

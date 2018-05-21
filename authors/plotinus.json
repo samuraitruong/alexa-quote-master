@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/plotinus_144428",
+        "quote": "Mankind is poised midway between the gods and the beasts.",
+        "author": {
+            "name": "Plotinus",
+            "url": "/quotes/plotinus_144428"
+        },
+        "topics": [
+            {
+                "name": "Mankind",
+                "url": "/topics/mankind"
+            },
+            {
+                "name": "Midway",
+                "url": "/topics/midway"
+            },
+            {
+                "name": "Poised",
+                "url": "/topics/poised"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/plotinus_404258",
+        "quote": "God is not external to anyone, but is present with all things, though they are ignorant that he is so.",
+        "author": {
+            "name": "Plotinus",
+            "url": "/quotes/plotinus_404258"
+        },
+        "topics": [
+            {
+                "name": "External",
+                "url": "/topics/external"
+            },
+            {
+                "name": "Though",
+                "url": "/topics/though"
+            },
+            {
+                "name": "Anyone",
+                "url": "/topics/anyone"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/plotinus_416438",
+        "quote": "Knowing demands the organ fitted to the object.",
+        "author": {
+            "name": "Plotinus",
+            "url": "/quotes/plotinus_416438"
+        },
+        "topics": [
+            {
+                "name": "Knowing",
+                "url": "/topics/knowing"
+            },
+            {
+                "name": "Organ",
+                "url": "/topics/organ"
+            },
+            {
+                "name": "Demands",
+                "url": "/topics/demands"
+            }
+        ]
+    }
+]

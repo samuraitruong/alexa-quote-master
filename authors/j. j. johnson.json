@@ -1,0 +1,82 @@
+[
+    {
+        "url": "/quotes/j_j_johnson_397549",
+        "quote": "Midi is my hobby.",
+        "author": {
+            "name": "J. J. Johnson",
+            "url": "/quotes/j_j_johnson_397549"
+        },
+        "topics": [
+            {
+                "name": "Hobby",
+                "url": "/topics/hobby"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/j_j_johnson_192988",
+        "quote": "There are no black film composers doing the likes of Star Wars, doing the likes of E.T., doing the likes of Jurassic Park. There are none, nor will there ever be one. That ain't about to happen!",
+        "author": {
+            "name": "J. J. Johnson",
+            "url": "/quotes/j_j_johnson_192988"
+        },
+        "topics": [
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Happen",
+                "url": "/topics/happen"
+            },
+            {
+                "name": "Composers",
+                "url": "/topics/composers"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/j_j_johnson_192989",
+        "quote": "I was lucky enough to occasionally break out of that racist situation that prevails in the Hollywood film production community. But it was racist then and it will always be that way. It will never be otherwise.",
+        "author": {
+            "name": "J. J. Johnson",
+            "url": "/quotes/j_j_johnson_192989"
+        },
+        "topics": [
+            {
+                "name": "Lucky",
+                "url": "/topics/lucky"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Otherwise",
+                "url": "/topics/otherwise"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/j_j_johnson_400484",
+        "quote": "Sometimes you need to stand with your nose to the window and have a good look at jazz. And I've done that on many occasions.",
+        "author": {
+            "name": "J. J. Johnson",
+            "url": "/quotes/j_j_johnson_400484"
+        },
+        "topics": [
+            {
+                "name": "Jazz",
+                "url": "/topics/jazz"
+            },
+            {
+                "name": "Nose",
+                "url": "/topics/nose"
+            },
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            }
+        ]
+    }
+]

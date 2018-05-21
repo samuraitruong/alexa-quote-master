@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/john_j_mack_546688",
+        "quote": "Ethical is 'I'll wait and do what's right even in the hardest times and even if I have to give up gains to do it.'",
+        "author": {
+            "name": "John J. Mack",
+            "url": "/quotes/john_j_mack_546688"
+        },
+        "topics": [
+            {
+                "name": "Wait",
+                "url": "/topics/wait"
+            },
+            {
+                "name": "Right",
+                "url": "/topics/right"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_j_mack_546686",
+        "quote": "It is very easy to get people focused on children.",
+        "author": {
+            "name": "John J. Mack",
+            "url": "/quotes/john_j_mack_546686"
+        },
+        "topics": [
+            {
+                "name": "Children",
+                "url": "/topics/children"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Get",
+                "url": "/topics/get"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_j_mack_546687",
+        "quote": "There are a lot of ethical firms on Wall Street.",
+        "author": {
+            "name": "John J. Mack",
+            "url": "/quotes/john_j_mack_546687"
+        },
+        "topics": [
+            {
+                "name": "Street",
+                "url": "/topics/street"
+            },
+            {
+                "name": "Ethical",
+                "url": "/topics/ethical"
+            },
+            {
+                "name": "Lot",
+                "url": "/topics/lot"
+            }
+        ]
+    }
+]

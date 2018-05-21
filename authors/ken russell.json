@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/ken_russell_187595",
+        "quote": "Reality is a dirty word for me, I know it isn't for most people, but I am not interested. There's too much of it about.",
+        "author": {
+            "name": "Ken Russell",
+            "url": "/quotes/ken_russell_187595"
+        },
+        "topics": [
+            {
+                "name": "Too Much",
+                "url": "/topics/too_much"
+            },
+            {
+                "name": "Dirty",
+                "url": "/topics/dirty"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ken_russell_187596",
+        "quote": "Films are hard to make and I think the word indulge really leads one to believe that it's an easy sort of business and it's really extremely difficult.",
+        "author": {
+            "name": "Ken Russell",
+            "url": "/quotes/ken_russell_187596"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Films",
+                "url": "/topics/films"
+            }
+        ]
+    }
+]

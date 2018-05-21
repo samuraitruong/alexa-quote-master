@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/harry_golden_103791",
+        "quote": "The only thing that overcomes hard luck is hard work.",
+        "author": {
+            "name": "Harry Golden",
+            "url": "/quotes/harry_golden_103791"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Luck",
+                "url": "/topics/luck"
+            },
+            {
+                "name": "Overcomes",
+                "url": "/topics/overcomes"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/harry_golden_113545",
+        "quote": "Sex in a woman's world has the same currency a penny has in a man's. Every penny saved is a penny earned in one world and in the next every sexual adventure is a literary experience.",
+        "author": {
+            "name": "Harry Golden",
+            "url": "/quotes/harry_golden_113545"
+        },
+        "topics": [
+            {
+                "name": "Woman",
+                "url": "/topics/woman"
+            },
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            },
+            {
+                "name": "Saved",
+                "url": "/topics/saved"
+            }
+        ]
+    }
+]

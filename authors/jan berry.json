@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/jan_berry_193003",
+        "quote": "When the darkness comes, keep an eye on the light - whatever that is for you - no matter how far away it seems.",
+        "author": {
+            "name": "Jan Berry",
+            "url": "/quotes/jan_berry_193003"
+        },
+        "topics": [
+            {
+                "name": "Matter",
+                "url": "/topics/matter"
+            },
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            },
+            {
+                "name": "How Far",
+                "url": "/topics/how_far"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jan_berry_193002",
+        "quote": "I want to be remembered as one of the best record producers of my era.",
+        "author": {
+            "name": "Jan Berry",
+            "url": "/quotes/jan_berry_193002"
+        },
+        "topics": [
+            {
+                "name": "Remembered",
+                "url": "/topics/remembered"
+            },
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Era",
+                "url": "/topics/era"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jan_berry_376866",
+        "quote": "We have to fight sometimes to survive.",
+        "author": {
+            "name": "Jan Berry",
+            "url": "/quotes/jan_berry_376866"
+        },
+        "topics": [
+            {
+                "name": "Fight",
+                "url": "/topics/fight"
+            },
+            {
+                "name": "Survive",
+                "url": "/topics/survive"
+            },
+            {
+                "name": "Sometimes",
+                "url": "/topics/sometimes"
+            }
+        ]
+    }
+]

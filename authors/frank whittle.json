@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/frank_whittle_221741",
+        "quote": "A nation's ability to fight a modern war is as good as its technological ability.",
+        "author": {
+            "name": "Frank Whittle",
+            "url": "/quotes/frank_whittle_221741"
+        },
+        "topics": [
+            {
+                "name": "Nation",
+                "url": "/topics/nation"
+            },
+            {
+                "name": "Modern",
+                "url": "/topics/modern"
+            },
+            {
+                "name": "Modern War",
+                "url": "/topics/modern_war"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/frank_whittle_221744",
+        "quote": "Well, that's what it was bloody well designed to do, wasn't it?",
+        "author": {
+            "name": "Frank Whittle",
+            "url": "/quotes/frank_whittle_221744"
+        },
+        "topics": [
+            {
+                "name": "Well",
+                "url": "/topics/well"
+            },
+            {
+                "name": "Designed",
+                "url": "/topics/designed"
+            },
+            {
+                "name": "Bloody",
+                "url": "/topics/bloody"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/frank_whittle_221742",
+        "quote": "Gentlemen, I give you the Whittle engine.",
+        "author": {
+            "name": "Frank Whittle",
+            "url": "/quotes/frank_whittle_221742"
+        },
+        "topics": [
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            },
+            {
+                "name": "Engine",
+                "url": "/topics/engine"
+            },
+            {
+                "name": "Gentlemen",
+                "url": "/topics/gentlemen"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/frank_whittle_221745",
+        "quote": "I had always realized it was desirable to gear down the jet.",
+        "author": {
+            "name": "Frank Whittle",
+            "url": "/quotes/frank_whittle_221745"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Jet",
+                "url": "/topics/jet"
+            },
+            {
+                "name": "Had",
+                "url": "/topics/had"
+            }
+        ]
+    }
+]

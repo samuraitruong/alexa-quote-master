@@ -1,0 +1,156 @@
+[
+    {
+        "url": "/quotes/samantha_smith_250020",
+        "quote": "Well, I just hope we can have peace, and I hope it'll do some good.",
+        "author": {
+            "name": "Samantha Smith",
+            "url": "/quotes/samantha_smith_250020"
+        },
+        "topics": [
+            {
+                "name": "Peace",
+                "url": "/topics/peace"
+            },
+            {
+                "name": "Well",
+                "url": "/topics/well"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/samantha_smith_250019",
+        "quote": "He said that if we were going to have a war, they would never be the first ones to start it.",
+        "author": {
+            "name": "Samantha Smith",
+            "url": "/quotes/samantha_smith_250019"
+        },
+        "topics": [
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/samantha_smith_250013",
+        "quote": "Sometimes I still worry that the next day will be the last day of the Earth.",
+        "author": {
+            "name": "Samantha Smith",
+            "url": "/quotes/samantha_smith_250013"
+        },
+        "topics": [
+            {
+                "name": "Worry",
+                "url": "/topics/worry"
+            },
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/samantha_smith_250011",
+        "quote": "If you aren't please tell me how you are going to not have a war.",
+        "author": {
+            "name": "Samantha Smith",
+            "url": "/quotes/samantha_smith_250011"
+        },
+        "topics": [
+            {
+                "name": "Tell",
+                "url": "/topics/tell"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "How",
+                "url": "/topics/how"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/samantha_smith_250012",
+        "quote": "God made the world for us to live together in peace and not fight.",
+        "author": {
+            "name": "Samantha Smith",
+            "url": "/quotes/samantha_smith_250012"
+        },
+        "topics": [
+            {
+                "name": "Peace",
+                "url": "/topics/peace"
+            },
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Made",
+                "url": "/topics/made"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/samantha_smith_250017",
+        "quote": "And he said that he didn't want to have a war or anything like that again.",
+        "author": {
+            "name": "Samantha Smith",
+            "url": "/quotes/samantha_smith_250017"
+        },
+        "topics": [
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Again",
+                "url": "/topics/again"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/samantha_smith_250018",
+        "quote": "Well, I asked him who would start the war first.",
+        "author": {
+            "name": "Samantha Smith",
+            "url": "/quotes/samantha_smith_250018"
+        },
+        "topics": [
+            {
+                "name": "Start",
+                "url": "/topics/start"
+            },
+            {
+                "name": "Asked",
+                "url": "/topics/asked"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            }
+        ]
+    }
+]

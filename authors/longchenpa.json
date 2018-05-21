@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/longchenpa_696286",
+        "quote": "Realization that is beyond characteristic or designation is marvelous!",
+        "author": {
+            "name": "Longchenpa",
+            "url": "/quotes/longchenpa_696286"
+        },
+        "topics": [
+            {
+                "name": "Marvelous",
+                "url": "/topics/marvelous"
+            },
+            {
+                "name": "Designation",
+                "url": "/topics/designation"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/longchenpa_696285",
+        "quote": "Self-appearing subjects and objects are the power of the baseless ultimate truth.",
+        "author": {
+            "name": "Longchenpa",
+            "url": "/quotes/longchenpa_696285"
+        },
+        "topics": [
+            {
+                "name": "Truth",
+                "url": "/topics/truth"
+            },
+            {
+                "name": "Ultimate",
+                "url": "/topics/ultimate"
+            },
+            {
+                "name": "Subjects",
+                "url": "/topics/subjects"
+            }
+        ]
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/giorgio_vasari_305053",
+        "quote": "These rough sketches, which are born in an instant in the heat of inspiration, express the idea of their author in a few strokes, while on the other hand too much effort and diligence sometimes saps the vitality and powers of those who never know when to leave off.",
+        "author": {
+            "name": "Giorgio Vasari",
+            "url": "/quotes/giorgio_vasari_305053"
+        },
+        "topics": [
+            {
+                "name": "Heat",
+                "url": "/topics/heat"
+            },
+            {
+                "name": "Rough",
+                "url": "/topics/rough"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/giorgio_vasari_305048",
+        "quote": "Art owes its origin to Nature herself... this beautiful creation, the world, supplied the first model, while the original teacher was that divine intelligence which has not only made us superior to the other animals, but like God Himself, if I may venture to say it.",
+        "author": {
+            "name": "Giorgio Vasari",
+            "url": "/quotes/giorgio_vasari_305048"
+        },
+        "topics": [
+            {
+                "name": "Origin",
+                "url": "/topics/origin"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "While",
+                "url": "/topics/while"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/giorgio_vasari_305051",
+        "quote": "In our own time it has been seen... that simple children, roughly brought up in the wilderness, have begun to draw by themselves, impelled by their own natural genius, instructed solely by the example of these beautiful paintings and sculptures of Nature.",
+        "author": {
+            "name": "Giorgio Vasari",
+            "url": "/quotes/giorgio_vasari_305051"
+        },
+        "topics": [
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Sculptures",
+                "url": "/topics/sculptures"
+            },
+            {
+                "name": "Brought",
+                "url": "/topics/brought"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/giorgio_vasari_303578",
+        "quote": "Men of genius sometimes accomplish most when they work the least, for they are thinking out inventions and forming in their minds the perfect idea that they subsequently express with their hands.",
+        "author": {
+            "name": "Giorgio Vasari",
+            "url": "/quotes/giorgio_vasari_303578"
+        },
+        "topics": [
+            {
+                "name": "Hands",
+                "url": "/topics/hands"
+            },
+            {
+                "name": "Perfect",
+                "url": "/topics/perfect"
+            },
+            {
+                "name": "Forming",
+                "url": "/topics/forming"
+            }
+        ]
+    }
+]

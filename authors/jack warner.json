@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/jack_warner_614070",
+        "quote": "I don't want it good. I want it Tuesday.",
+        "author": {
+            "name": "Jack Warner",
+            "url": "/quotes/jack_warner_614070"
+        },
+        "topics": [
+            {
+                "name": "Good",
+                "url": "/topics/good"
+            },
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Tuesday",
+                "url": "/topics/tuesday"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jack_warner_614069",
+        "quote": "If it's anything I can't stand, it's yes-men. When I say no, I want you to say no, too.",
+        "author": {
+            "name": "Jack Warner",
+            "url": "/quotes/jack_warner_614069"
+        },
+        "topics": [
+            {
+                "name": "Say",
+                "url": "/topics/say"
+            },
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Anything",
+                "url": "/topics/anything"
+            }
+        ]
+    }
+]

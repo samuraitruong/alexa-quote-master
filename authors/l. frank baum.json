@@ -1,0 +1,130 @@
+[
+    {
+        "url": "/quotes/l_frank_baum_379188",
+        "quote": "Whenever I feel blue, I start breathing again.",
+        "author": {
+            "name": "L. Frank Baum",
+            "url": "/quotes/l_frank_baum_379188"
+        },
+        "topics": [
+            {
+                "name": "Blue",
+                "url": "/topics/blue"
+            },
+            {
+                "name": "Breathing",
+                "url": "/topics/breathing"
+            },
+            {
+                "name": "Whenever",
+                "url": "/topics/whenever"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/l_frank_baum_131316",
+        "quote": "Imagination has brought mankind through the dark ages to its present state of civilization. Imagination led Columbus to discover America. Imagination led Franklin to discover electricity.",
+        "author": {
+            "name": "L. Frank Baum",
+            "url": "/quotes/l_frank_baum_131316"
+        },
+        "topics": [
+            {
+                "name": "Imagination",
+                "url": "/topics/imagination"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/l_frank_baum_136053",
+        "quote": "Hearts will never be practical until they can be made unbreakable.",
+        "author": {
+            "name": "L. Frank Baum",
+            "url": "/quotes/l_frank_baum_136053"
+        },
+        "topics": [
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Practical",
+                "url": "/topics/practical"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/l_frank_baum_382105",
+        "quote": "I can't give you a brain, but I can give you a diploma.",
+        "author": {
+            "name": "L. Frank Baum",
+            "url": "/quotes/l_frank_baum_382105"
+        },
+        "topics": [
+            {
+                "name": "Brain",
+                "url": "/topics/brain"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            },
+            {
+                "name": "Diploma",
+                "url": "/topics/diploma"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/l_frank_baum_388352",
+        "quote": "The road to the City of Emeralds is paved with yellow brick.",
+        "author": {
+            "name": "L. Frank Baum",
+            "url": "/quotes/l_frank_baum_388352"
+        },
+        "topics": [
+            {
+                "name": "City",
+                "url": "/topics/city"
+            },
+            {
+                "name": "Yellow",
+                "url": "/topics/yellow"
+            },
+            {
+                "name": "Road",
+                "url": "/topics/road"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/l_frank_baum_379189",
+        "quote": "I have a feeling we're not in Kansas anymore.",
+        "author": {
+            "name": "L. Frank Baum",
+            "url": "/quotes/l_frank_baum_379189"
+        },
+        "topics": [
+            {
+                "name": "Feeling",
+                "url": "/topics/feeling"
+            },
+            {
+                "name": "Kansas",
+                "url": "/topics/kansas"
+            },
+            {
+                "name": "Anymore",
+                "url": "/topics/anymore"
+            }
+        ]
+    }
+]

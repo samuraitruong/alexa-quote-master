@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/cass_canfield_132708",
+        "quote": "Some people think that doctors and nurses can put scrambled eggs back in the shell.",
+        "author": {
+            "name": "Cass Canfield",
+            "url": "/quotes/cass_canfield_132708"
+        },
+        "topics": [
+            {
+                "name": "Medical",
+                "url": "/topics/medical"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/cass_canfield_111077",
+        "quote": "A publisher should always be on the receiving end. He should take an interest in almost any subject and remain anonymous, letting the author take center stage.",
+        "author": {
+            "name": "Cass Canfield",
+            "url": "/quotes/cass_canfield_111077"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Subject",
+                "url": "/topics/subject"
+            },
+            {
+                "name": "Almost",
+                "url": "/topics/almost"
+            }
+        ]
+    }
+]

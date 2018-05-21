@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/bernard_joseph_saurin_395636",
+        "quote": "Valor is common but great souls are rare.",
+        "author": {
+            "name": "Bernard Joseph Saurin",
+            "url": "/quotes/bernard_joseph_saurin_395636"
+        },
+        "topics": [
+            {
+                "name": "Rare",
+                "url": "/topics/rare"
+            },
+            {
+                "name": "Valor",
+                "url": "/topics/valor"
+            },
+            {
+                "name": "Common",
+                "url": "/topics/common"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bernard_joseph_saurin_397871",
+        "quote": "Nothing is sacred to a gamester.",
+        "author": {
+            "name": "Bernard Joseph Saurin",
+            "url": "/quotes/bernard_joseph_saurin_397871"
+        },
+        "topics": [
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            },
+            {
+                "name": "Sacred",
+                "url": "/topics/sacred"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bernard_joseph_saurin_397872",
+        "quote": "The law often allows what honor forbids.",
+        "author": {
+            "name": "Bernard Joseph Saurin",
+            "url": "/quotes/bernard_joseph_saurin_397872"
+        },
+        "topics": [
+            {
+                "name": "Law",
+                "url": "/topics/law"
+            },
+            {
+                "name": "Honor",
+                "url": "/topics/honor"
+            },
+            {
+                "name": "Often",
+                "url": "/topics/often"
+            }
+        ]
+    }
+]

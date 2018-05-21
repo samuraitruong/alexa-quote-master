@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/thomas_gold_appleton_161003",
+        "quote": "Good Americans, when they die, go to Paris.",
+        "author": {
+            "name": "Thomas Gold Appleton",
+            "url": "/quotes/thomas_gold_appleton_161003"
+        },
+        "topics": [
+            {
+                "name": "Paris",
+                "url": "/topics/paris"
+            },
+            {
+                "name": "Die",
+                "url": "/topics/die"
+            },
+            {
+                "name": "Go",
+                "url": "/topics/go"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_gold_appleton_161004",
+        "quote": "A Boston man is the east wind made flesh.",
+        "author": {
+            "name": "Thomas Gold Appleton",
+            "url": "/quotes/thomas_gold_appleton_161004"
+        },
+        "topics": [
+            {
+                "name": "Boston",
+                "url": "/topics/boston"
+            },
+            {
+                "name": "Made",
+                "url": "/topics/made"
+            },
+            {
+                "name": "East",
+                "url": "/topics/east"
+            }
+        ]
+    }
+]

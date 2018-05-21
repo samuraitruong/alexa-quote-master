@@ -1,0 +1,372 @@
+[
+    {
+        "url": "/quotes/mike_davidson_230199",
+        "quote": "We are constantly working towards the highest level of compliance possible.",
+        "author": {
+            "name": "Mike Davidson",
+            "url": "/quotes/mike_davidson_230199"
+        },
+        "topics": [
+            {
+                "name": "Highest Level",
+                "url": "/topics/highest_level"
+            },
+            {
+                "name": "Highest",
+                "url": "/topics/highest"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mike_davidson_230205",
+        "quote": "It's all about people. It's about networking and being nice to people and not burning any bridges. Your book is going to impress, but in the end it is people that are going to hire you.",
+        "author": {
+            "name": "Mike Davidson",
+            "url": "/quotes/mike_davidson_230205"
+        },
+        "topics": [
+            {
+                "name": "Book",
+                "url": "/topics/book"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Hire",
+                "url": "/topics/hire"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mike_davidson_230169",
+        "quote": "We found a way to make things look great to the human eye through the window of a graphical web browser without worrying about what everything looked like under the hood.",
+        "author": {
+            "name": "Mike Davidson",
+            "url": "/quotes/mike_davidson_230169"
+        },
+        "topics": [
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Human Eye",
+                "url": "/topics/human_eye"
+            },
+            {
+                "name": "Looked",
+                "url": "/topics/looked"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mike_davidson_230162",
+        "quote": "I don't start with a design objective, I start with a communication objective. I feel my project is successful if it communicates what it is supposed to communicate.",
+        "author": {
+            "name": "Mike Davidson",
+            "url": "/quotes/mike_davidson_230162"
+        },
+        "topics": [
+            {
+                "name": "Start",
+                "url": "/topics/start"
+            },
+            {
+                "name": "Design",
+                "url": "/topics/design"
+            },
+            {
+                "name": "Communicate",
+                "url": "/topics/communicate"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mike_davidson_230168",
+        "quote": "Because the competitive landscape of the web is such that the site which looks and works best gets the most traffic, developers and designers put a premium on the presentation of that content and let structural markup take a back seat.",
+        "author": {
+            "name": "Mike Davidson",
+            "url": "/quotes/mike_davidson_230168"
+        },
+        "topics": [
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Works",
+                "url": "/topics/works"
+            },
+            {
+                "name": "Designers",
+                "url": "/topics/designers"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mike_davidson_230164",
+        "quote": "You can have information and ease of use and have artistic integrity at the same time. The art of being a good Web designer is getting yourself into that middle ground and treating it as a final destination instead of as a compromise.",
+        "author": {
+            "name": "Mike Davidson",
+            "url": "/quotes/mike_davidson_230164"
+        },
+        "topics": [
+            {
+                "name": "Destination",
+                "url": "/topics/destination"
+            },
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            },
+            {
+                "name": "Ease",
+                "url": "/topics/ease"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mike_davidson_230167",
+        "quote": "For most of the '90s and the first part of this decade, content providers who wanted to publish online only needed to worry about the graphical web browser.",
+        "author": {
+            "name": "Mike Davidson",
+            "url": "/quotes/mike_davidson_230167"
+        },
+        "topics": [
+            {
+                "name": "Worry",
+                "url": "/topics/worry"
+            },
+            {
+                "name": "Decade",
+                "url": "/topics/decade"
+            },
+            {
+                "name": "Needed",
+                "url": "/topics/needed"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mike_davidson_230170",
+        "quote": "Now that digital lifestyle devices, tablets, wireless phones, and other Internet appliances are beginning to come of age, we need to worry about presenting our content to these devices so that it is optimized for their display capabilities.",
+        "author": {
+            "name": "Mike Davidson",
+            "url": "/quotes/mike_davidson_230170"
+        },
+        "topics": [
+            {
+                "name": "Beginning",
+                "url": "/topics/beginning"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Appliances",
+                "url": "/topics/appliances"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mike_davidson_230171",
+        "quote": "We fully expect our competitors to join us in embracing open standards with their next redesigns.",
+        "author": {
+            "name": "Mike Davidson",
+            "url": "/quotes/mike_davidson_230171"
+        },
+        "topics": [
+            {
+                "name": "Standards",
+                "url": "/topics/standards"
+            },
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            },
+            {
+                "name": "Expect",
+                "url": "/topics/expect"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mike_davidson_230173",
+        "quote": "We reduced the size of our front page code by about 50%, and by using absolute positioning, we are able to display important parts of the page before other parts may have fully loaded yet.",
+        "author": {
+            "name": "Mike Davidson",
+            "url": "/quotes/mike_davidson_230173"
+        },
+        "topics": [
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Code",
+                "url": "/topics/code"
+            },
+            {
+                "name": "Using",
+                "url": "/topics/using"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mike_davidson_230176",
+        "quote": "Writing old school HTML code was never very much fun but now it's getting downright tedious for most people.",
+        "author": {
+            "name": "Mike Davidson",
+            "url": "/quotes/mike_davidson_230176"
+        },
+        "topics": [
+            {
+                "name": "Old",
+                "url": "/topics/old"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Code",
+                "url": "/topics/code"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mike_davidson_230180",
+        "quote": "Our old site did not have very good support for the disabled, but our new site should soon have much better support. With all of our content in divs now, we can hide all but the relevant chunks of content and navigation with a simple alternate CSS file.",
+        "author": {
+            "name": "Mike Davidson",
+            "url": "/quotes/mike_davidson_230180"
+        },
+        "topics": [
+            {
+                "name": "Simple",
+                "url": "/topics/simple"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Chunks",
+                "url": "/topics/chunks"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mike_davidson_230181",
+        "quote": "For the tiny percentage of people who are negatively affected by our embracing of standards, they can just get their sports somewhere else in the meantime. It's not like we're denying them hospital care.",
+        "author": {
+            "name": "Mike Davidson",
+            "url": "/quotes/mike_davidson_230181"
+        },
+        "topics": [
+            {
+                "name": "Somewhere",
+                "url": "/topics/somewhere"
+            },
+            {
+                "name": "Our",
+                "url": "/topics/our"
+            },
+            {
+                "name": "Negatively",
+                "url": "/topics/negatively"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mike_davidson_230195",
+        "quote": "I vertically center things in tables a lot, and the fact that there is no way to control vertical positioning in divs affects the way we do things across the board.",
+        "author": {
+            "name": "Mike Davidson",
+            "url": "/quotes/mike_davidson_230195"
+        },
+        "topics": [
+            {
+                "name": "Center",
+                "url": "/topics/center"
+            },
+            {
+                "name": "Fact",
+                "url": "/topics/fact"
+            },
+            {
+                "name": "Vertically",
+                "url": "/topics/vertically"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mike_davidson_230198",
+        "quote": "If I somehow felt like having a site which strictly validates was an indication of my manhood, maybe I'd do it, but it really means very little to me. We're mavericks over here, what can we say?",
+        "author": {
+            "name": "Mike Davidson",
+            "url": "/quotes/mike_davidson_230198"
+        },
+        "topics": [
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            },
+            {
+                "name": "Maybe",
+                "url": "/topics/maybe"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mike_davidson_230201",
+        "quote": "If I was designing a web site for elementary school children, I might have a much higher percentage of older computers with outdated browsers since keeping up with browser and hardware technology has not traditionally been a strong point of most elementary schools.",
+        "author": {
+            "name": "Mike Davidson",
+            "url": "/quotes/mike_davidson_230201"
+        },
+        "topics": [
+            {
+                "name": "Strong",
+                "url": "/topics/strong"
+            },
+            {
+                "name": "Point",
+                "url": "/topics/point"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mike_davidson_230204",
+        "quote": "Blogs are a great way to monitor and even participate in the chatter about your new site.",
+        "author": {
+            "name": "Mike Davidson",
+            "url": "/quotes/mike_davidson_230204"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Participate",
+                "url": "/topics/participate"
+            },
+            {
+                "name": "Great Way",
+                "url": "/topics/great_way"
+            }
+        ]
+    }
+]

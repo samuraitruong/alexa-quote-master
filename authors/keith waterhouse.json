@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/keith_waterhouse_395949",
+        "quote": "I turn over a new leaf every day. But the blots show through.",
+        "author": {
+            "name": "Keith Waterhouse",
+            "url": "/quotes/keith_waterhouse_395949"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/keith_waterhouse_161227",
+        "quote": "Should not the Society of Indexers be know as Indexers, Society of, The?",
+        "author": {
+            "name": "Keith Waterhouse",
+            "url": "/quotes/keith_waterhouse_161227"
+        },
+        "topics": [
+            {
+                "name": "Society",
+                "url": "/topics/society"
+            },
+            {
+                "name": "Know",
+                "url": "/topics/know"
+            },
+            {
+                "name": "Should",
+                "url": "/topics/should"
+            }
+        ]
+    }
+]

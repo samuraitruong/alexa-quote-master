@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/andrew_brown_104628",
+        "quote": "The Internet is so big, so powerful and pointless that for some people it is a complete substitute for life.",
+        "author": {
+            "name": "Andrew Brown",
+            "url": "/quotes/andrew_brown_104628"
+        },
+        "topics": [
+            {
+                "name": "Technology",
+                "url": "/topics/technology"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/andrew_brown_382065",
+        "quote": "Art, in the first place, has to connect with yourself.",
+        "author": {
+            "name": "Andrew Brown",
+            "url": "/quotes/andrew_brown_382065"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Yourself",
+                "url": "/topics/yourself"
+            },
+            {
+                "name": "First Place",
+                "url": "/topics/first_place"
+            }
+        ]
+    }
+]

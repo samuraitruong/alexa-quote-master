@@ -1,0 +1,222 @@
+[
+    {
+        "url": "/quotes/rob_pike_719846",
+        "quote": "Web servers are written in C, and if they're not, they're written in Java or C++, which are C derivatives, or Python or Ruby, which are implemented in C.",
+        "author": {
+            "name": "Rob Pike",
+            "url": "/quotes/rob_pike_719846"
+        },
+        "topics": [
+            {
+                "name": "Ruby",
+                "url": "/topics/ruby"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Python",
+                "url": "/topics/python"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rob_pike_719852",
+        "quote": "The process of software development doesn't feel any better than it did a generation ago.",
+        "author": {
+            "name": "Rob Pike",
+            "url": "/quotes/rob_pike_719852"
+        },
+        "topics": [
+            {
+                "name": "Generation",
+                "url": "/topics/generation"
+            },
+            {
+                "name": "Process",
+                "url": "/topics/process"
+            },
+            {
+                "name": "Better",
+                "url": "/topics/better"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rob_pike_719847",
+        "quote": "To write a kernel without a data structure and have it be as consistent and graceful as UNIX would have been a much, much harder challenge.",
+        "author": {
+            "name": "Rob Pike",
+            "url": "/quotes/rob_pike_719847"
+        },
+        "topics": [
+            {
+                "name": "Data",
+                "url": "/topics/data"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Kernel",
+                "url": "/topics/kernel"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rob_pike_719845",
+        "quote": "Pretty much everything on the web uses those two things: C and UNIX. The browsers are written in C. The UNIX kernel - that pretty much the entire Internet runs on - is written in C.",
+        "author": {
+            "name": "Rob Pike",
+            "url": "/quotes/rob_pike_719845"
+        },
+        "topics": [
+            {
+                "name": "Pretty",
+                "url": "/topics/pretty"
+            },
+            {
+                "name": "Kernel",
+                "url": "/topics/kernel"
+            },
+            {
+                "name": "Entire",
+                "url": "/topics/entire"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rob_pike_719853",
+        "quote": "We don't believe we've solved the multicore-programming problem. But we think we've built an environment in which a certain class of problems can take advantage of the multicore architecture.",
+        "author": {
+            "name": "Rob Pike",
+            "url": "/quotes/rob_pike_719853"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Built",
+                "url": "/topics/built"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rob_pike_719850",
+        "quote": "Go is an attempt to combine the safety and performance of statically typed languages with the convenience and fun of dynamically typed interpretative languages.",
+        "author": {
+            "name": "Rob Pike",
+            "url": "/quotes/rob_pike_719850"
+        },
+        "topics": [
+            {
+                "name": "Safety",
+                "url": "/topics/safety"
+            },
+            {
+                "name": "Performance",
+                "url": "/topics/performance"
+            },
+            {
+                "name": "Typed",
+                "url": "/topics/typed"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rob_pike_719849",
+        "quote": "Dynamic typing is not necessarily good. You get static errors at run time, which you really should be able to catch at compile time.",
+        "author": {
+            "name": "Rob Pike",
+            "url": "/quotes/rob_pike_719849"
+        },
+        "topics": [
+            {
+                "name": "Run",
+                "url": "/topics/run"
+            },
+            {
+                "name": "Static",
+                "url": "/topics/static"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rob_pike_719844",
+        "quote": "When Steve Jobs died last week, there was a huge outcry, and that was very moving and justified.",
+        "author": {
+            "name": "Rob Pike",
+            "url": "/quotes/rob_pike_719844"
+        },
+        "topics": [
+            {
+                "name": "Week",
+                "url": "/topics/week"
+            },
+            {
+                "name": "Last",
+                "url": "/topics/last"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rob_pike_719848",
+        "quote": "You have to make a decision whether it's a new product or you integrate it with an existing product. It takes time to work these things out.",
+        "author": {
+            "name": "Rob Pike",
+            "url": "/quotes/rob_pike_719848"
+        },
+        "topics": [
+            {
+                "name": "Decision",
+                "url": "/topics/decision"
+            },
+            {
+                "name": "Product",
+                "url": "/topics/product"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rob_pike_719851",
+        "quote": "We're systems software people ourselves. We wanted a language to make our lives better.",
+        "author": {
+            "name": "Rob Pike",
+            "url": "/quotes/rob_pike_719851"
+        },
+        "topics": [
+            {
+                "name": "Better",
+                "url": "/topics/better"
+            },
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "Wanted",
+                "url": "/topics/wanted"
+            }
+        ]
+    }
+]

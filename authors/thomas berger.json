@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/thomas_berger_120671",
+        "quote": "The art and science of asking questions is the source of all knowledge.",
+        "author": {
+            "name": "Thomas Berger",
+            "url": "/quotes/thomas_berger_120671"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Asking Questions",
+                "url": "/topics/asking_questions"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_berger_120672",
+        "quote": "No matter what side of the argument you are on, you always find people on your side that you wish were on the other.",
+        "author": {
+            "name": "Thomas Berger",
+            "url": "/quotes/thomas_berger_120672"
+        },
+        "topics": [
+            {
+                "name": "Wish",
+                "url": "/topics/wish"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Side",
+                "url": "/topics/side"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_berger_102867",
+        "quote": "Why do writers write? Because it isn't there.",
+        "author": {
+            "name": "Thomas Berger",
+            "url": "/quotes/thomas_berger_102867"
+        },
+        "topics": [
+            {
+                "name": "Why",
+                "url": "/topics/why"
+            },
+            {
+                "name": "Because",
+                "url": "/topics/because"
+            },
+            {
+                "name": "Writers",
+                "url": "/topics/writers"
+            }
+        ]
+    }
+]

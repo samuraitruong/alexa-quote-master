@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/frank_rizzo_102269",
+        "quote": "The streets are safe in Philadelphia, it's only the people that make them unsafe.",
+        "author": {
+            "name": "Frank Rizzo",
+            "url": "/quotes/frank_rizzo_102269"
+        },
+        "topics": [
+            {
+                "name": "Streets",
+                "url": "/topics/streets"
+            },
+            {
+                "name": "Philadelphia",
+                "url": "/topics/philadelphia"
+            },
+            {
+                "name": "Safe",
+                "url": "/topics/safe"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/frank_rizzo_125560",
+        "quote": "A conservative is a liberal who got mugged the night before.",
+        "author": {
+            "name": "Frank Rizzo",
+            "url": "/quotes/frank_rizzo_125560"
+        },
+        "topics": [
+            {
+                "name": "Conservative",
+                "url": "/topics/conservative"
+            },
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            },
+            {
+                "name": "Mugged",
+                "url": "/topics/mugged"
+            }
+        ]
+    }
+]

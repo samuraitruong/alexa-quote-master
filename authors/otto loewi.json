@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/otto_loewi_728613",
+        "quote": "In nerve-free multicellular organisms, the relationships of the cells to each other can only be of a chemical nature. In multicellular organisms with nerve systems, the nerve cells only represent cells like any others, but they have extensions suited to the purpose which they serve, namely the nerves.",
+        "author": {
+            "name": "Otto Loewi",
+            "url": "/quotes/otto_loewi_728613"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/otto_loewi_728611",
+        "quote": "Natural or artificial stimulation of nerves gives rise to a process of progressive excitation in them, leading to a response in the effector organ of the nerves concerned.",
+        "author": {
+            "name": "Otto Loewi",
+            "url": "/quotes/otto_loewi_728611"
+        },
+        "topics": [
+            {
+                "name": "Process",
+                "url": "/topics/process"
+            },
+            {
+                "name": "Natural",
+                "url": "/topics/natural"
+            },
+            {
+                "name": "Organ",
+                "url": "/topics/organ"
+            }
+        ]
+    }
+]

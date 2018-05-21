@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/max_schmeling_177877",
+        "quote": "I had a happy marriage and a nice wife. I accomplished everything you can. What more can you want?",
+        "author": {
+            "name": "Max Schmeling",
+            "url": "/quotes/max_schmeling_177877"
+        },
+        "topics": [
+            {
+                "name": "Marriage",
+                "url": "/topics/marriage"
+            },
+            {
+                "name": "Wife",
+                "url": "/topics/wife"
+            },
+            {
+                "name": "Accomplished",
+                "url": "/topics/accomplished"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/max_schmeling_177878",
+        "quote": "Looking back, I'm almost happy I lost that fight. Just imagine if I would have come back to Germany with a victory. I had nothing to do with the Nazis, but they would have given me a medal. After the war I might have been considered a war criminal.",
+        "author": {
+            "name": "Max Schmeling",
+            "url": "/quotes/max_schmeling_177878"
+        },
+        "topics": [
+            {
+                "name": "Looking Back",
+                "url": "/topics/looking_back"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Almost",
+                "url": "/topics/almost"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/vernon_law_115255",
+        "quote": "Experience is a hard teacher because she gives the test first, the lesson afterward.",
+        "author": {
+            "name": "Vernon Law",
+            "url": "/quotes/vernon_law_115255"
+        },
+        "topics": [
+            {
+                "name": "Teacher",
+                "url": "/topics/teacher"
+            },
+            {
+                "name": "Test",
+                "url": "/topics/test"
+            },
+            {
+                "name": "She",
+                "url": "/topics/she"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/vernon_law_115256",
+        "quote": "Some people are so busy learning the tricks of the trade that they never learn the trade.",
+        "author": {
+            "name": "Vernon Law",
+            "url": "/quotes/vernon_law_115256"
+        },
+        "topics": [
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Trade",
+                "url": "/topics/trade"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/carole_lombard_309713",
+        "quote": "Relax, Georgie, I'm just making my collar and cuffs match.",
+        "author": {
+            "name": "Carole Lombard",
+            "url": "/quotes/carole_lombard_309713"
+        },
+        "topics": [
+            {
+                "name": "Relax",
+                "url": "/topics/relax"
+            },
+            {
+                "name": "Making",
+                "url": "/topics/making"
+            },
+            {
+                "name": "Collar",
+                "url": "/topics/collar"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/carole_lombard_145732",
+        "quote": "I live by a man's code, designed to fit a man's world, yet at the same time I never forget that a woman's first job is to choose the right shade of lipstick.",
+        "author": {
+            "name": "Carole Lombard",
+            "url": "/quotes/carole_lombard_145732"
+        },
+        "topics": [
+            {
+                "name": "Woman",
+                "url": "/topics/woman"
+            },
+            {
+                "name": "Code",
+                "url": "/topics/code"
+            },
+            {
+                "name": "Same Time",
+                "url": "/topics/same_time"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/carole_lombard_309712",
+        "quote": "Bill Powell is the only intelligent actor I've ever met.",
+        "author": {
+            "name": "Carole Lombard",
+            "url": "/quotes/carole_lombard_309712"
+        },
+        "topics": [
+            {
+                "name": "Actor",
+                "url": "/topics/actor"
+            },
+            {
+                "name": "Only",
+                "url": "/topics/only"
+            },
+            {
+                "name": "Ever",
+                "url": "/topics/ever"
+            }
+        ]
+    }
+]

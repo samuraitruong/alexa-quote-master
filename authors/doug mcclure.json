@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/doug_mcclure_215613",
+        "quote": "What you think of a name depends so much on the people you know by that name.",
+        "author": {
+            "name": "Doug McClure",
+            "url": "/quotes/doug_mcclure_215613"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Name",
+                "url": "/topics/name"
+            },
+            {
+                "name": "Depends",
+                "url": "/topics/depends"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/doug_mcclure_215616",
+        "quote": "My Pa always said, 'Live fast, die laughing,' that's the way to do it.",
+        "author": {
+            "name": "Doug McClure",
+            "url": "/quotes/doug_mcclure_215616"
+        },
+        "topics": [
+            {
+                "name": "Die",
+                "url": "/topics/die"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Pa",
+                "url": "/topics/pa"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/bob_thaves_108014",
+        "quote": "I don't know if I can live on my income or not - the government won't let me try it.",
+        "author": {
+            "name": "Bob Thaves",
+            "url": "/quotes/bob_thaves_108014"
+        },
+        "topics": [
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Government",
+                "url": "/topics/government"
+            },
+            {
+                "name": "Income",
+                "url": "/topics/income"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bob_thaves_163180",
+        "quote": "It's not that Good doesn't triumph over Evil, it's that the point spread is too small.",
+        "author": {
+            "name": "Bob Thaves",
+            "url": "/quotes/bob_thaves_163180"
+        },
+        "topics": [
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Triumph",
+                "url": "/topics/triumph"
+            },
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            }
+        ]
+    }
+]

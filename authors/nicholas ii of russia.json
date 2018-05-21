@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/nicholas_ii_of_russia_187269",
+        "quote": "I am not yet ready to be Tsar. I know nothing of the business of ruling.",
+        "author": {
+            "name": "Nicholas II of Russia",
+            "url": "/quotes/nicholas_ii_of_russia_187269"
+        },
+        "topics": [
+            {
+                "name": "Business",
+                "url": "/topics/business"
+            },
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Ruling",
+                "url": "/topics/ruling"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/nicholas_ii_of_russia_187268",
+        "quote": "There is no justice among men.",
+        "author": {
+            "name": "Nicholas II of Russia",
+            "url": "/quotes/nicholas_ii_of_russia_187268"
+        },
+        "topics": [
+            {
+                "name": "Justice",
+                "url": "/topics/justice"
+            },
+            {
+                "name": "Men",
+                "url": "/topics/men"
+            },
+            {
+                "name": "Among",
+                "url": "/topics/among"
+            }
+        ]
+    }
+]

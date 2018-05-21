@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/michael_weston_568900",
+        "quote": "To be honest, I was never really interested in theatre as a kid.",
+        "author": {
+            "name": "Michael Weston",
+            "url": "/quotes/michael_weston_568900"
+        },
+        "topics": [
+            {
+                "name": "Theatre",
+                "url": "/topics/theatre"
+            },
+            {
+                "name": "Kid",
+                "url": "/topics/kid"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/michael_weston_568901",
+        "quote": "My interest in theatre started in high school, mostly because my dean forced me to do it. I was creating trouble in the hallways, so he demanded that I do something with my spare time.",
+        "author": {
+            "name": "Michael Weston",
+            "url": "/quotes/michael_weston_568901"
+        },
+        "topics": [
+            {
+                "name": "Dean",
+                "url": "/topics/dean"
+            },
+            {
+                "name": "Mostly",
+                "url": "/topics/mostly"
+            },
+            {
+                "name": "Spare Time",
+                "url": "/topics/spare_time"
+            }
+        ]
+    }
+]

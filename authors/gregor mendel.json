@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/gregor_mendel_177069",
+        "quote": "My scientific studies have afforded me great gratification; and I am convinced that it will not be long before the whole world acknowledges the results of my work.",
+        "author": {
+            "name": "Gregor Mendel",
+            "url": "/quotes/gregor_mendel_177069"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gregor_mendel_177070",
+        "quote": "The value and utility of any experiment are determined by the fitness of the material to the purpose for which it is used, and thus in the case before us it cannot be immaterial what plants are subjected to experiment and in what manner such experiment is conducted.",
+        "author": {
+            "name": "Gregor Mendel",
+            "url": "/quotes/gregor_mendel_177070"
+        },
+        "topics": [
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Subjected",
+                "url": "/topics/subjected"
+            },
+            {
+                "name": "Thus",
+                "url": "/topics/thus"
+            }
+        ]
+    }
+]

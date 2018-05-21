@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/eva_gabrielsson_493543",
+        "quote": "I'm not violent, I don't believe in killing people, but standing up for yourself, speaking out against injustice, is another form of vengeance.",
+        "author": {
+            "name": "Eva Gabrielsson",
+            "url": "/quotes/eva_gabrielsson_493543"
+        },
+        "topics": [
+            {
+                "name": "Injustice",
+                "url": "/topics/injustice"
+            },
+            {
+                "name": "Violent",
+                "url": "/topics/violent"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eva_gabrielsson_493542",
+        "quote": "Marriage is not common in Sweden.",
+        "author": {
+            "name": "Eva Gabrielsson",
+            "url": "/quotes/eva_gabrielsson_493542"
+        },
+        "topics": [
+            {
+                "name": "Marriage",
+                "url": "/topics/marriage"
+            },
+            {
+                "name": "Sweden",
+                "url": "/topics/sweden"
+            },
+            {
+                "name": "Common",
+                "url": "/topics/common"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eva_gabrielsson_493544",
+        "quote": "Maybe people become bitter when they don't know what they are fighting for. But I keep my eyes open.",
+        "author": {
+            "name": "Eva Gabrielsson",
+            "url": "/quotes/eva_gabrielsson_493544"
+        },
+        "topics": [
+            {
+                "name": "People",
+                "url": "/topics/people"
+            },
+            {
+                "name": "Fighting",
+                "url": "/topics/fighting"
+            },
+            {
+                "name": "Maybe",
+                "url": "/topics/maybe"
+            }
+        ]
+    }
+]

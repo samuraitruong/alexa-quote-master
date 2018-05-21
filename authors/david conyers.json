@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/david_conyers_696467",
+        "quote": "'Star Wars,' 'Doctor Who,' 'Forgotten Realms,' even 'Firefly' and 'The X-Files' have shared world novels and other media. I can't help but notice these settings have large shelf space in bookstores, so their publishers and authors are getting something right.",
+        "author": {
+            "name": "David Conyers",
+            "url": "/quotes/david_conyers_696467"
+        },
+        "topics": [
+            {
+                "name": "Media",
+                "url": "/topics/media"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Shared",
+                "url": "/topics/shared"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_conyers_696469",
+        "quote": "I'm a science fiction author at heart, and what I like about the Cthulhu Mythos setting is that, at its core, it is horror science fiction. I can take ideas from modern theoretical science, manipulate them in truly bizarre and weird ways, and remain true to the Cthulhu Mythos vision.",
+        "author": {
+            "name": "David Conyers",
+            "url": "/quotes/david_conyers_696469"
+        },
+        "topics": [
+            {
+                "name": "Bizarre",
+                "url": "/topics/bizarre"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Theoretical",
+                "url": "/topics/theoretical"
+            }
+        ]
+    }
+]

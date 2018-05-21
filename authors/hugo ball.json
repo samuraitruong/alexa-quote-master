@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/hugo_ball_403908",
+        "quote": "The symbolic view of things is a consequence of long absorption in images. Is sign language the real language of Paradise?",
+        "author": {
+            "name": "Hugo Ball",
+            "url": "/quotes/hugo_ball_403908"
+        },
+        "topics": [
+            {
+                "name": "View",
+                "url": "/topics/view"
+            },
+            {
+                "name": "Consequence",
+                "url": "/topics/consequence"
+            },
+            {
+                "name": "Symbolic",
+                "url": "/topics/symbolic"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/hugo_ball_403973",
+        "quote": "We should burn all libraries and allow to remain only that which everyone knows by heart. A beautiful age of the legend would then begin.",
+        "author": {
+            "name": "Hugo Ball",
+            "url": "/quotes/hugo_ball_403973"
+        },
+        "topics": [
+            {
+                "name": "Burn",
+                "url": "/topics/burn"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Allow",
+                "url": "/topics/allow"
+            }
+        ]
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/ezer_weizman_377708",
+        "quote": "Honey, have you ever seen a man knitting socks?",
+        "author": {
+            "name": "Ezer Weizman",
+            "url": "/quotes/ezer_weizman_377708"
+        },
+        "topics": [
+            {
+                "name": "Honey",
+                "url": "/topics/honey"
+            },
+            {
+                "name": "Socks",
+                "url": "/topics/socks"
+            },
+            {
+                "name": "Ever",
+                "url": "/topics/ever"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ezer_weizman_377709",
+        "quote": "Give it a kick at the right place and it'll work.",
+        "author": {
+            "name": "Ezer Weizman",
+            "url": "/quotes/ezer_weizman_377709"
+        },
+        "topics": [
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            },
+            {
+                "name": "Kick",
+                "url": "/topics/kick"
+            },
+            {
+                "name": "Right Place",
+                "url": "/topics/right_place"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ezer_weizman_381997",
+        "quote": "We have a country that is in a very delicate situation.",
+        "author": {
+            "name": "Ezer Weizman",
+            "url": "/quotes/ezer_weizman_381997"
+        },
+        "topics": [
+            {
+                "name": "Country",
+                "url": "/topics/country"
+            },
+            {
+                "name": "Delicate",
+                "url": "/topics/delicate"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ezer_weizman_391555",
+        "quote": "Leave my image alone... I will behave as I think I should and I will not change anything.",
+        "author": {
+            "name": "Ezer Weizman",
+            "url": "/quotes/ezer_weizman_391555"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Image",
+                "url": "/topics/image"
+            },
+            {
+                "name": "Behave",
+                "url": "/topics/behave"
+            }
+        ]
+    }
+]

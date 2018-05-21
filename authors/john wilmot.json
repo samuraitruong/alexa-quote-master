@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/john_wilmot_175259",
+        "quote": "Before I married, I had three theories about raising children and no children. Now, I have three children and no theories.",
+        "author": {
+            "name": "John Wilmot",
+            "url": "/quotes/john_wilmot_175259"
+        },
+        "topics": [
+            {
+                "name": "Children",
+                "url": "/topics/children"
+            },
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            },
+            {
+                "name": "Raising",
+                "url": "/topics/raising"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_wilmot_171030",
+        "quote": "Before I got married I had six theories about bringing up children; now I have six children, and no theories.",
+        "author": {
+            "name": "John Wilmot",
+            "url": "/quotes/john_wilmot_171030"
+        },
+        "topics": [
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            },
+            {
+                "name": "Six",
+                "url": "/topics/six"
+            },
+            {
+                "name": "Bringing",
+                "url": "/topics/bringing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_wilmot_397935",
+        "quote": "For all men would be cowards if they durst.",
+        "author": {
+            "name": "John Wilmot",
+            "url": "/quotes/john_wilmot_397935"
+        },
+        "topics": [
+            {
+                "name": "Men",
+                "url": "/topics/men"
+            },
+            {
+                "name": "Cowards",
+                "url": "/topics/cowards"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_wilmot_400562",
+        "quote": "Man differs more from Man, than Man from Beast.",
+        "author": {
+            "name": "John Wilmot",
+            "url": "/quotes/john_wilmot_400562"
+        },
+        "topics": [
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Than",
+                "url": "/topics/than"
+            },
+            {
+                "name": "Differs",
+                "url": "/topics/differs"
+            }
+        ]
+    }
+]

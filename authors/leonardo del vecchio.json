@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/leonardo_del_vecchio_510271",
+        "quote": "I don't like paying taxes, but I like sleeping at night.",
+        "author": {
+            "name": "Leonardo Del Vecchio",
+            "url": "/quotes/leonardo_del_vecchio_510271"
+        },
+        "topics": [
+            {
+                "name": "Night",
+                "url": "/topics/night"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Paying",
+                "url": "/topics/paying"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/leonardo_del_vecchio_510273",
+        "quote": "The values of life are most important.",
+        "author": {
+            "name": "Leonardo Del Vecchio",
+            "url": "/quotes/leonardo_del_vecchio_510273"
+        },
+        "topics": [
+            {
+                "name": "Values",
+                "url": "/topics/values"
+            },
+            {
+                "name": "Important",
+                "url": "/topics/important"
+            },
+            {
+                "name": "Most",
+                "url": "/topics/most"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/leonardo_del_vecchio_510272",
+        "quote": "I am proof that you can you make money in Italy and be honest.",
+        "author": {
+            "name": "Leonardo Del Vecchio",
+            "url": "/quotes/leonardo_del_vecchio_510272"
+        },
+        "topics": [
+            {
+                "name": "Money",
+                "url": "/topics/money"
+            },
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Honest",
+                "url": "/topics/honest"
+            }
+        ]
+    }
+]

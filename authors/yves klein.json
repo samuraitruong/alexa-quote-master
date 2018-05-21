@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/yves_klein_187620",
+        "quote": "For me, each nuance of a color is in some way an individual, a being who is not only from the same race as the base color, but who definitely possesses a distinct character and personal soul.",
+        "author": {
+            "name": "Yves Klein",
+            "url": "/quotes/yves_klein_187620"
+        },
+        "topics": [
+            {
+                "name": "Color",
+                "url": "/topics/color"
+            },
+            {
+                "name": "Individual",
+                "url": "/topics/individual"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/yves_klein_187619",
+        "quote": "The dominant invades the entire picture, as it were. In this way I seek to individualize the color, because I have come to believe that there is a living world of each color and I express these worlds.",
+        "author": {
+            "name": "Yves Klein",
+            "url": "/quotes/yves_klein_187619"
+        },
+        "topics": [
+            {
+                "name": "Living",
+                "url": "/topics/living"
+            },
+            {
+                "name": "Dominant",
+                "url": "/topics/dominant"
+            },
+            {
+                "name": "Worlds",
+                "url": "/topics/worlds"
+            }
+        ]
+    }
+]

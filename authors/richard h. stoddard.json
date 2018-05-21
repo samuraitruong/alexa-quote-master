@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/richard_h_stoddard_289262",
+        "quote": "We grow like flowers, and bear desire, The odor of the human flowers.",
+        "author": {
+            "name": "Richard H. Stoddard",
+            "url": "/quotes/richard_h_stoddard_289262"
+        },
+        "topics": [
+            {
+                "name": "Flowers",
+                "url": "/topics/flowers"
+            },
+            {
+                "name": "Grow",
+                "url": "/topics/grow"
+            },
+            {
+                "name": "Desire",
+                "url": "/topics/desire"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/richard_h_stoddard_289261",
+        "quote": "We love in others what we lack in ourselves, and would be everything, but what we are.",
+        "author": {
+            "name": "Richard H. Stoddard",
+            "url": "/quotes/richard_h_stoddard_289261"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Everything",
+                "url": "/topics/everything"
+            },
+            {
+                "name": "Would",
+                "url": "/topics/would"
+            }
+        ]
+    }
+]

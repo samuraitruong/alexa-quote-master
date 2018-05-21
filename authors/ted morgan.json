@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/ted_morgan_116193",
+        "quote": "The stammer was a way of telling the world that he was not like others, a way of expressing his singularity.",
+        "author": {
+            "name": "Ted Morgan",
+            "url": "/quotes/ted_morgan_116193"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "His",
+                "url": "/topics/his"
+            },
+            {
+                "name": "Telling",
+                "url": "/topics/telling"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ted_morgan_393160",
+        "quote": "Howard Hughes was able to afford the luxury of madness, like a man who not only thinks he is Napoleon but hires an army to prove it.",
+        "author": {
+            "name": "Ted Morgan",
+            "url": "/quotes/ted_morgan_393160"
+        },
+        "topics": [
+            {
+                "name": "Prove",
+                "url": "/topics/prove"
+            },
+            {
+                "name": "Napoleon",
+                "url": "/topics/napoleon"
+            },
+            {
+                "name": "Hughes",
+                "url": "/topics/hughes"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/alexander_pushkin_527174",
+        "quote": "I am married and happy. My only wish is that nothing will change.",
+        "author": {
+            "name": "Alexander Pushkin",
+            "url": "/quotes/alexander_pushkin_527174"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Wish",
+                "url": "/topics/wish"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alexander_pushkin_527173",
+        "quote": "I do not like Moscow life. You live here not as you want to live, but as old women want you to.",
+        "author": {
+            "name": "Alexander Pushkin",
+            "url": "/quotes/alexander_pushkin_527173"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            },
+            {
+                "name": "Old Women",
+                "url": "/topics/old_women"
+            }
+        ]
+    }
+]

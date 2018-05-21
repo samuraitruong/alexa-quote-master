@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/cheri_huber_183345",
+        "quote": "When you stop comparing what is right here and now with what you wish were, you can begin to enjoy what is.",
+        "author": {
+            "name": "Cheri Huber",
+            "url": "/quotes/cheri_huber_183345"
+        },
+        "topics": [
+            {
+                "name": "Wish",
+                "url": "/topics/wish"
+            },
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            },
+            {
+                "name": "Stop",
+                "url": "/topics/stop"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/cheri_huber_183346",
+        "quote": "All you must do is accept all that is unacceptable to you.",
+        "author": {
+            "name": "Cheri Huber",
+            "url": "/quotes/cheri_huber_183346"
+        },
+        "topics": [
+            {
+                "name": "You",
+                "url": "/topics/you"
+            },
+            {
+                "name": "Unacceptable",
+                "url": "/topics/unacceptable"
+            },
+            {
+                "name": "Must",
+                "url": "/topics/must"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/john_winthrop_387705",
+        "quote": "Love is the bond of perfection.",
+        "author": {
+            "name": "John Winthrop",
+            "url": "/quotes/john_winthrop_387705"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Perfection",
+                "url": "/topics/perfection"
+            },
+            {
+                "name": "Bond",
+                "url": "/topics/bond"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_winthrop_387778",
+        "quote": "The eyes of all people are upon us.",
+        "author": {
+            "name": "John Winthrop",
+            "url": "/quotes/john_winthrop_387778"
+        },
+        "topics": [
+            {
+                "name": "Eyes",
+                "url": "/topics/eyes"
+            },
+            {
+                "name": "People",
+                "url": "/topics/people"
+            },
+            {
+                "name": "Us",
+                "url": "/topics/us"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_winthrop_187371",
+        "quote": "Liberty is the proper end and object of authority, and cannot subsist without it; and it is liberty to that which is good, just, and honest.",
+        "author": {
+            "name": "John Winthrop",
+            "url": "/quotes/john_winthrop_187371"
+        },
+        "topics": [
+            {
+                "name": "Authority",
+                "url": "/topics/authority"
+            },
+            {
+                "name": "Liberty",
+                "url": "/topics/liberty"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    }
+]

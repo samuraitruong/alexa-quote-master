@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/kate_fox_190139",
+        "quote": "Men gossip for just as long and about the same subjects as women, but tend to talk more about themselves.",
+        "author": {
+            "name": "Kate Fox",
+            "url": "/quotes/kate_fox_190139"
+        },
+        "topics": [
+            {
+                "name": "Same",
+                "url": "/topics/same"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Tend",
+                "url": "/topics/tend"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kate_fox_190140",
+        "quote": "Male and female gossip also sounds different, as women use more animated tones, more detail and more feedback.",
+        "author": {
+            "name": "Kate Fox",
+            "url": "/quotes/kate_fox_190140"
+        },
+        "topics": [
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            },
+            {
+                "name": "Also",
+                "url": "/topics/also"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kate_fox_190141",
+        "quote": "Women are more skilled than men at making gossip entertaining.",
+        "author": {
+            "name": "Kate Fox",
+            "url": "/quotes/kate_fox_190141"
+        },
+        "topics": [
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Making",
+                "url": "/topics/making"
+            },
+            {
+                "name": "Entertaining",
+                "url": "/topics/entertaining"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/kate_fox_190142",
+        "quote": "Researchers have found very little difference between men and women in terms of the amount of time spent gossiping.",
+        "author": {
+            "name": "Kate Fox",
+            "url": "/quotes/kate_fox_190142"
+        },
+        "topics": [
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Amount",
+                "url": "/topics/amount"
+            },
+            {
+                "name": "Researchers",
+                "url": "/topics/researchers"
+            }
+        ]
+    }
+]

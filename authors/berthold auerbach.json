@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/berthold_auerbach_106857",
+        "quote": "Music washes away from the soul the dust of everyday life.",
+        "author": {
+            "name": "Berthold Auerbach",
+            "url": "/quotes/berthold_auerbach_106857"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "Soul",
+                "url": "/topics/soul"
+            },
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/berthold_auerbach_391202",
+        "quote": "The little dissatisfaction which every artist feels at the completion of a work forms the germ of a new work.",
+        "author": {
+            "name": "Berthold Auerbach",
+            "url": "/quotes/berthold_auerbach_391202"
+        },
+        "topics": [
+            {
+                "name": "Completion",
+                "url": "/topics/completion"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Feels",
+                "url": "/topics/feels"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/berthold_auerbach_378109",
+        "quote": "Of all afflictions, the worst is self-contempt.",
+        "author": {
+            "name": "Berthold Auerbach",
+            "url": "/quotes/berthold_auerbach_378109"
+        },
+        "topics": [
+            {
+                "name": "Worst",
+                "url": "/topics/worst"
+            },
+            {
+                "name": "Afflictions",
+                "url": "/topics/afflictions"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/berthold_auerbach_391716",
+        "quote": "Judaism lives not in an abstract creed, but in its institutions.",
+        "author": {
+            "name": "Berthold Auerbach",
+            "url": "/quotes/berthold_auerbach_391716"
+        },
+        "topics": [
+            {
+                "name": "Judaism",
+                "url": "/topics/judaism"
+            },
+            {
+                "name": "Institutions",
+                "url": "/topics/institutions"
+            },
+            {
+                "name": "Lives",
+                "url": "/topics/lives"
+            }
+        ]
+    }
+]

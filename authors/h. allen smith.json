@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/h_allen_smith_191331",
+        "quote": "On Monday mornings I am dedicated to the proposition that all men are created jerks.",
+        "author": {
+            "name": "H. Allen Smith",
+            "url": "/quotes/h_allen_smith_191331"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Dedicated",
+                "url": "/topics/dedicated"
+            },
+            {
+                "name": "Mornings",
+                "url": "/topics/mornings"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/h_allen_smith_191332",
+        "quote": "The human animal differs from the lesser primates in his passion for lists.",
+        "author": {
+            "name": "H. Allen Smith",
+            "url": "/quotes/h_allen_smith_191332"
+        },
+        "topics": [
+            {
+                "name": "His",
+                "url": "/topics/his"
+            },
+            {
+                "name": "Human Animal",
+                "url": "/topics/human_animal"
+            },
+            {
+                "name": "Lesser",
+                "url": "/topics/lesser"
+            }
+        ]
+    }
+]

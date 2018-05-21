@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/philip_henry_178072",
+        "quote": "All grace grows as Love to the Word of God grows.",
+        "author": {
+            "name": "Philip Henry",
+            "url": "/quotes/philip_henry_178072"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Grace",
+                "url": "/topics/grace"
+            },
+            {
+                "name": "Grows",
+                "url": "/topics/grows"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/philip_henry_171060",
+        "quote": "Prayers not felt by us are seldom heard by God.",
+        "author": {
+            "name": "Philip Henry",
+            "url": "/quotes/philip_henry_171060"
+        },
+        "topics": [
+            {
+                "name": "Prayers",
+                "url": "/topics/prayers"
+            },
+            {
+                "name": "Seldom",
+                "url": "/topics/seldom"
+            },
+            {
+                "name": "Felt",
+                "url": "/topics/felt"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/jim_horning_171294",
+        "quote": "Good judgement comes from experience. Experience comes from bad judgement.",
+        "author": {
+            "name": "Jim Horning",
+            "url": "/quotes/jim_horning_171294"
+        },
+        "topics": [
+            {
+                "name": "Experience",
+                "url": "/topics/experience"
+            },
+            {
+                "name": "Judgement",
+                "url": "/topics/judgement"
+            },
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jim_horning_178032",
+        "quote": "Nothing is as simple as we hope it will be.",
+        "author": {
+            "name": "Jim Horning",
+            "url": "/quotes/jim_horning_178032"
+        },
+        "topics": [
+            {
+                "name": "Simple",
+                "url": "/topics/simple"
+            },
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            }
+        ]
+    }
+]

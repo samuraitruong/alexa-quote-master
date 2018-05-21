@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/milarepa_404375",
+        "quote": "Hasten slowly and ye shall soon arrive.",
+        "author": {
+            "name": "Milarepa",
+            "url": "/quotes/milarepa_404375"
+        },
+        "topics": [
+            {
+                "name": "Arrive",
+                "url": "/topics/arrive"
+            },
+            {
+                "name": "Hasten",
+                "url": "/topics/hasten"
+            },
+            {
+                "name": "Shall",
+                "url": "/topics/shall"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/milarepa_404342",
+        "quote": "The affairs of the world will go on forever. Do not delay the practice of meditation.",
+        "author": {
+            "name": "Milarepa",
+            "url": "/quotes/milarepa_404342"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Practice",
+                "url": "/topics/practice"
+            },
+            {
+                "name": "Delay",
+                "url": "/topics/delay"
+            }
+        ]
+    }
+]

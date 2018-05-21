@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/tristan_bernard_132812",
+        "quote": "To live happily with other people, ask of them only what they can give.",
+        "author": {
+            "name": "Tristan Bernard",
+            "url": "/quotes/tristan_bernard_132812"
+        },
+        "topics": [
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Happily",
+                "url": "/topics/happily"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tristan_bernard_133750",
+        "quote": "In the theatre the audience wants to be surprised - but by things that they expect.",
+        "author": {
+            "name": "Tristan Bernard",
+            "url": "/quotes/tristan_bernard_133750"
+        },
+        "topics": [
+            {
+                "name": "Theatre",
+                "url": "/topics/theatre"
+            },
+            {
+                "name": "Audience",
+                "url": "/topics/audience"
+            },
+            {
+                "name": "Expect",
+                "url": "/topics/expect"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/james_van_allen_187874",
+        "quote": "Our family was very fond of the University of Iowa. We thought it was a good place to go.",
+        "author": {
+            "name": "James Van Allen",
+            "url": "/quotes/james_van_allen_187874"
+        },
+        "topics": [
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Iowa",
+                "url": "/topics/iowa"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_van_allen_187876",
+        "quote": "These days, it's really been uninteresting except when disasters occur.",
+        "author": {
+            "name": "James Van Allen",
+            "url": "/quotes/james_van_allen_187876"
+        },
+        "topics": [
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Disasters",
+                "url": "/topics/disasters"
+            },
+            {
+                "name": "Occur",
+                "url": "/topics/occur"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/james_van_allen_187872",
+        "quote": "We had an erector set, and I was an avid fan of Popular Mechanics and Popular Science magazines.",
+        "author": {
+            "name": "James Van Allen",
+            "url": "/quotes/james_van_allen_187872"
+        },
+        "topics": [
+            {
+                "name": "Science",
+                "url": "/topics/science"
+            },
+            {
+                "name": "Fan",
+                "url": "/topics/fan"
+            },
+            {
+                "name": "Set",
+                "url": "/topics/set"
+            }
+        ]
+    }
+]

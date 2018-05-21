@@ -1,0 +1,78 @@
+[
+    {
+        "url": "/quotes/ray_knight_176702",
+        "quote": "Concentration is the ability to think about absolutely nothing when it is absolutely necessary.",
+        "author": {
+            "name": "Ray Knight",
+            "url": "/quotes/ray_knight_176702"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Absolutely Nothing",
+                "url": "/topics/absolutely_nothing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ray_knight_441351",
+        "quote": "I'm a gung-ho guy.",
+        "author": {
+            "name": "Ray Knight",
+            "url": "/quotes/ray_knight_441351"
+        },
+        "topics": [
+            {
+                "name": "Guy",
+                "url": "/topics/guy"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ray_knight_441352",
+        "quote": "I've always been a rough kid.",
+        "author": {
+            "name": "Ray Knight",
+            "url": "/quotes/ray_knight_441352"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Rough",
+                "url": "/topics/rough"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ray_knight_441353",
+        "quote": "I don't know how to play easy.",
+        "author": {
+            "name": "Ray Knight",
+            "url": "/quotes/ray_knight_441353"
+        },
+        "topics": [
+            {
+                "name": "Know",
+                "url": "/topics/know"
+            },
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "How",
+                "url": "/topics/how"
+            }
+        ]
+    }
+]

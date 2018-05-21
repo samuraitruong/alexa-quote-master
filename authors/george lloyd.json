@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/george_lloyd_192063",
+        "quote": "The ancient Greeks have a knack of wrapping truths in myths.",
+        "author": {
+            "name": "George Lloyd",
+            "url": "/quotes/george_lloyd_192063"
+        },
+        "topics": [
+            {
+                "name": "Knack",
+                "url": "/topics/knack"
+            },
+            {
+                "name": "Ancient Greeks",
+                "url": "/topics/ancient_greeks"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_lloyd_192067",
+        "quote": "When I'm old I shall give up writing the big stuff and shall wander round the park thinking of songs.",
+        "author": {
+            "name": "George Lloyd",
+            "url": "/quotes/george_lloyd_192067"
+        },
+        "topics": [
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            },
+            {
+                "name": "Big Stuff",
+                "url": "/topics/big_stuff"
+            }
+        ]
+    }
+]

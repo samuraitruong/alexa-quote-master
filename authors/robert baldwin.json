@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/robert_baldwin_193035",
+        "quote": "I have a horror of not rising above mediocrity.",
+        "author": {
+            "name": "Robert Baldwin",
+            "url": "/quotes/robert_baldwin_193035"
+        },
+        "topics": [
+            {
+                "name": "Mediocrity",
+                "url": "/topics/mediocrity"
+            },
+            {
+                "name": "Horror",
+                "url": "/topics/horror"
+            },
+            {
+                "name": "Rising",
+                "url": "/topics/rising"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_baldwin_193038",
+        "quote": "My organs are too powerful... I manufacture blood and fat too rapidly.",
+        "author": {
+            "name": "Robert Baldwin",
+            "url": "/quotes/robert_baldwin_193038"
+        },
+        "topics": [
+            {
+                "name": "Too",
+                "url": "/topics/too"
+            },
+            {
+                "name": "Manufacture",
+                "url": "/topics/manufacture"
+            },
+            {
+                "name": "Organs",
+                "url": "/topics/organs"
+            }
+        ]
+    }
+]

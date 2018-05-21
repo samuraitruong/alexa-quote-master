@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/edward_bellamy_202249",
+        "quote": "If bread is the first necessity of life, recreation is a close second.",
+        "author": {
+            "name": "Edward Bellamy",
+            "url": "/quotes/edward_bellamy_202249"
+        },
+        "topics": [
+            {
+                "name": "Bread",
+                "url": "/topics/bread"
+            },
+            {
+                "name": "Recreation",
+                "url": "/topics/recreation"
+            },
+            {
+                "name": "Close",
+                "url": "/topics/close"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edward_bellamy_202247",
+        "quote": "The primal principle of democracy is the worth and dignity of the individual.",
+        "author": {
+            "name": "Edward Bellamy",
+            "url": "/quotes/edward_bellamy_202247"
+        },
+        "topics": [
+            {
+                "name": "Individual",
+                "url": "/topics/individual"
+            },
+            {
+                "name": "Principle",
+                "url": "/topics/principle"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edward_bellamy_202248",
+        "quote": "I first saw the light in the city of Boston in the year 1857.",
+        "author": {
+            "name": "Edward Bellamy",
+            "url": "/quotes/edward_bellamy_202248"
+        },
+        "topics": [
+            {
+                "name": "Light",
+                "url": "/topics/light"
+            },
+            {
+                "name": "City",
+                "url": "/topics/city"
+            },
+            {
+                "name": "Boston",
+                "url": "/topics/boston"
+            }
+        ]
+    }
+]

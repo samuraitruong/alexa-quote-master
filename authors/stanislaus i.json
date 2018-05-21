@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/stanislaus_i_107167",
+        "quote": "To believe with certainty we must begin with doubting.",
+        "author": {
+            "name": "Stanislaus I",
+            "url": "/quotes/stanislaus_i_107167"
+        },
+        "topics": [
+            {
+                "name": "Believe",
+                "url": "/topics/believe"
+            },
+            {
+                "name": "Certainty",
+                "url": "/topics/certainty"
+            },
+            {
+                "name": "Must",
+                "url": "/topics/must"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/stanislaus_i_103835",
+        "quote": "Have the courage to face a difficulty lest it kick you harder than you bargain for.",
+        "author": {
+            "name": "Stanislaus I",
+            "url": "/quotes/stanislaus_i_103835"
+        },
+        "topics": [
+            {
+                "name": "Face",
+                "url": "/topics/face"
+            },
+            {
+                "name": "Kick",
+                "url": "/topics/kick"
+            },
+            {
+                "name": "Difficulty",
+                "url": "/topics/difficulty"
+            }
+        ]
+    }
+]

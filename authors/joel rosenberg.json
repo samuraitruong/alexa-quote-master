@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/joel_rosenberg_126043",
+        "quote": "Miscellaneous is always the largest category.",
+        "author": {
+            "name": "Joel Rosenberg",
+            "url": "/quotes/joel_rosenberg_126043"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Largest",
+                "url": "/topics/largest"
+            },
+            {
+                "name": "Category",
+                "url": "/topics/category"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joel_rosenberg_126038",
+        "quote": "I'm a simple man. All I want is enough sleep for two normal men, enough whiskey for three, and enough women for four.",
+        "author": {
+            "name": "Joel Rosenberg",
+            "url": "/quotes/joel_rosenberg_126038"
+        },
+        "topics": [
+            {
+                "name": "Simple",
+                "url": "/topics/simple"
+            },
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Normal",
+                "url": "/topics/normal"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/joel_rosenberg_126041",
+        "quote": "Whatever you want too much you can't have, so when you really want something, try to want it a little less.",
+        "author": {
+            "name": "Joel Rosenberg",
+            "url": "/quotes/joel_rosenberg_126041"
+        },
+        "topics": [
+            {
+                "name": "Too Much",
+                "url": "/topics/too_much"
+            },
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Less",
+                "url": "/topics/less"
+            }
+        ]
+    }
+]

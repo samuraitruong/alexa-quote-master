@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/jacques_perrin_682779",
+        "quote": "Nature is full of drama. I know nothing about biology, about birds, about insects, about the details of politics. I just make movies about human interest stories.",
+        "author": {
+            "name": "Jacques Perrin",
+            "url": "/quotes/jacques_perrin_682779"
+        },
+        "topics": [
+            {
+                "name": "Politics",
+                "url": "/topics/politics"
+            },
+            {
+                "name": "Biology",
+                "url": "/topics/biology"
+            },
+            {
+                "name": "Stories",
+                "url": "/topics/stories"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jacques_perrin_682780",
+        "quote": "I always loved Japanese movies. And they had an enormous impact in France - the Nouvelle Vague took so much from them. It taught us how the camera was placed in the centre of the action.",
+        "author": {
+            "name": "Jacques Perrin",
+            "url": "/quotes/jacques_perrin_682780"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Vague",
+                "url": "/topics/vague"
+            },
+            {
+                "name": "Took",
+                "url": "/topics/took"
+            }
+        ]
+    }
+]

@@ -1,0 +1,210 @@
+[
+    {
+        "url": "/quotes/john_ray_119945",
+        "quote": "Beauty is power; a smile is its sword.",
+        "author": {
+            "name": "John Ray",
+            "url": "/quotes/john_ray_119945"
+        },
+        "topics": [
+            {
+                "name": "Beauty",
+                "url": "/topics/beauty"
+            },
+            {
+                "name": "Power",
+                "url": "/topics/power"
+            },
+            {
+                "name": "Sword",
+                "url": "/topics/sword"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_ray_131612",
+        "quote": "Good words cool more than cold water.",
+        "author": {
+            "name": "John Ray",
+            "url": "/quotes/john_ray_131612"
+        },
+        "topics": [
+            {
+                "name": "Cool",
+                "url": "/topics/cool"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Good Words",
+                "url": "/topics/good_words"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_ray_118512",
+        "quote": "Misery loves company.",
+        "author": {
+            "name": "John Ray",
+            "url": "/quotes/john_ray_118512"
+        },
+        "topics": [
+            {
+                "name": "Misery Loves Company",
+                "url": "/topics/misery_loves_company"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_ray_380222",
+        "quote": "Diseases are the tax on pleasures.",
+        "author": {
+            "name": "John Ray",
+            "url": "/quotes/john_ray_380222"
+        },
+        "topics": [
+            {
+                "name": "Tax",
+                "url": "/topics/tax"
+            },
+            {
+                "name": "Diseases",
+                "url": "/topics/diseases"
+            },
+            {
+                "name": "Pleasures",
+                "url": "/topics/pleasures"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_ray_382410",
+        "quote": "Industry is fortune's right hand, and frugality its left.",
+        "author": {
+            "name": "John Ray",
+            "url": "/quotes/john_ray_382410"
+        },
+        "topics": [
+            {
+                "name": "Business",
+                "url": "/topics/business"
+            },
+            {
+                "name": "Fortune",
+                "url": "/topics/fortune"
+            },
+            {
+                "name": "Frugality",
+                "url": "/topics/frugality"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_ray_119946",
+        "quote": "Even if you are on the right track, you will get run over if you just sit there.",
+        "author": {
+            "name": "John Ray",
+            "url": "/quotes/john_ray_119946"
+        },
+        "topics": [
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Right Track",
+                "url": "/topics/right_track"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_ray_378445",
+        "quote": "Nothing is invented and perfected at the same time.",
+        "author": {
+            "name": "John Ray",
+            "url": "/quotes/john_ray_378445"
+        },
+        "topics": [
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            },
+            {
+                "name": "Same",
+                "url": "/topics/same"
+            },
+            {
+                "name": "Same Time",
+                "url": "/topics/same_time"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_ray_118513",
+        "quote": "Algebra is the metaphysics of arithmetic.",
+        "author": {
+            "name": "John Ray",
+            "url": "/quotes/john_ray_118513"
+        },
+        "topics": [
+            {
+                "name": "Arithmetic",
+                "url": "/topics/arithmetic"
+            },
+            {
+                "name": "Algebra",
+                "url": "/topics/algebra"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_ray_380223",
+        "quote": "Never meet trouble half-way.",
+        "author": {
+            "name": "John Ray",
+            "url": "/quotes/john_ray_380223"
+        },
+        "topics": [
+            {
+                "name": "Meet",
+                "url": "/topics/meet"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Half-Way",
+                "url": "/topics/half-way"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_ray_110024",
+        "quote": "In a thousand pounds of law there is not an ounce of love.",
+        "author": {
+            "name": "John Ray",
+            "url": "/quotes/john_ray_110024"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Law",
+                "url": "/topics/law"
+            },
+            {
+                "name": "Pounds",
+                "url": "/topics/pounds"
+            }
+        ]
+    }
+]

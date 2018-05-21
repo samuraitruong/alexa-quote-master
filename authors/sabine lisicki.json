@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/sabine_lisicki_576497",
+        "quote": "My parents did everything possible. My dad has worked from eight in the morning until nine in the evening to make it possible so I can play tennis. We had to cancel tournaments because we couldn't afford to go there.",
+        "author": {
+            "name": "Sabine Lisicki",
+            "url": "/quotes/sabine_lisicki_576497"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Cancel",
+                "url": "/topics/cancel"
+            },
+            {
+                "name": "Nine",
+                "url": "/topics/nine"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sabine_lisicki_576498",
+        "quote": "A final of a grand slam is always a matter of details. Maybe a point here, a point there will make the difference. Maybe someone who is a bit more gutsy than the other player, someone who is having a better day than the others.",
+        "author": {
+            "name": "Sabine Lisicki",
+            "url": "/quotes/sabine_lisicki_576498"
+        },
+        "topics": [
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Grand Slam",
+                "url": "/topics/grand_slam"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sabine_lisicki_576499",
+        "quote": "Tennis is for me joy, nothing less than that.",
+        "author": {
+            "name": "Sabine Lisicki",
+            "url": "/quotes/sabine_lisicki_576499"
+        },
+        "topics": [
+            {
+                "name": "Joy",
+                "url": "/topics/joy"
+            },
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            },
+            {
+                "name": "Than",
+                "url": "/topics/than"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/roy_scheider_205931",
+        "quote": "Freedom is a muscle... you have to exercise it.",
+        "author": {
+            "name": "Roy Scheider",
+            "url": "/quotes/roy_scheider_205931"
+        },
+        "topics": [
+            {
+                "name": "Freedom",
+                "url": "/topics/freedom"
+            },
+            {
+                "name": "Exercise",
+                "url": "/topics/exercise"
+            },
+            {
+                "name": "Muscle",
+                "url": "/topics/muscle"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/roy_scheider_205932",
+        "quote": "The important thing is to do good work, no matter what medium you do it in.",
+        "author": {
+            "name": "Roy Scheider",
+            "url": "/quotes/roy_scheider_205932"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Important",
+                "url": "/topics/important"
+            },
+            {
+                "name": "Good Work",
+                "url": "/topics/good_work"
+            }
+        ]
+    }
+]

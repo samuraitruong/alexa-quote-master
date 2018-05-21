@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/larry_smith_561620",
+        "quote": "Find and use your passion, and you'll have a great career. Don't do it, you won't. It's as simple as that.",
+        "author": {
+            "name": "Larry Smith",
+            "url": "/quotes/larry_smith_561620"
+        },
+        "topics": [
+            {
+                "name": "Career",
+                "url": "/topics/career"
+            },
+            {
+                "name": "Find",
+                "url": "/topics/find"
+            },
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/larry_smith_561621",
+        "quote": "If you've never tasted what it's like to get up in the morning and be pleased to go to work, you don't know what you're missing.",
+        "author": {
+            "name": "Larry Smith",
+            "url": "/quotes/larry_smith_561621"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Go",
+                "url": "/topics/go"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/larry_smith_561622",
+        "quote": "Just because you're passionately interested in something doesn't mean it has to be your career. You might have to look for more than one passion. Some passions may afford a career and some may not.",
+        "author": {
+            "name": "Larry Smith",
+            "url": "/quotes/larry_smith_561622"
+        },
+        "topics": [
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Career",
+                "url": "/topics/career"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/larry_smith_561623",
+        "quote": "We live in a world where people think that finding a passion is so rare that if you find one you're the luckiest person on the planet, and the possibility of finding two is just bizarre. It isn't. We have multiple passions.",
+        "author": {
+            "name": "Larry Smith",
+            "url": "/quotes/larry_smith_561623"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Bizarre",
+                "url": "/topics/bizarre"
+            },
+            {
+                "name": "Planet",
+                "url": "/topics/planet"
+            }
+        ]
+    }
+]

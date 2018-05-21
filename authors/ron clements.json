@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/ron_clements_793009",
+        "quote": "'The Little Mermaid' was a really great experience.",
+        "author": {
+            "name": "Ron Clements",
+            "url": "/quotes/ron_clements_793009"
+        },
+        "topics": [
+            {
+                "name": "Mermaid",
+                "url": "/topics/mermaid"
+            },
+            {
+                "name": "Great Experience",
+                "url": "/topics/great_experience"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ron_clements_793008",
+        "quote": "It was actually after I saw 'Pinocchio' that I thought I might try and work in that industry in some way.",
+        "author": {
+            "name": "Ron Clements",
+            "url": "/quotes/ron_clements_793008"
+        },
+        "topics": [
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Actually",
+                "url": "/topics/actually"
+            },
+            {
+                "name": "Pinocchio",
+                "url": "/topics/pinocchio"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ron_clements_793007",
+        "quote": "When we were kids, I know when I saw 'Pinocchio' it had a huge impact. I was ten years old, and I went home, and I was drawing the characters.",
+        "author": {
+            "name": "Ron Clements",
+            "url": "/quotes/ron_clements_793007"
+        },
+        "topics": [
+            {
+                "name": "Impact",
+                "url": "/topics/impact"
+            },
+            {
+                "name": "Old",
+                "url": "/topics/old"
+            },
+            {
+                "name": "Saw",
+                "url": "/topics/saw"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ron_clements_793010",
+        "quote": "There's a process in the movie industry in both live action and animation called development hell!",
+        "author": {
+            "name": "Ron Clements",
+            "url": "/quotes/ron_clements_793010"
+        },
+        "topics": [
+            {
+                "name": "Process",
+                "url": "/topics/process"
+            },
+            {
+                "name": "Development",
+                "url": "/topics/development"
+            },
+            {
+                "name": "Movie",
+                "url": "/topics/movie"
+            }
+        ]
+    }
+]

@@ -1,0 +1,550 @@
+[
+    {
+        "url": "/quotes/edsger_dijkstra_201168",
+        "quote": "Computer science is no more about computers than astronomy is about telescopes.",
+        "author": {
+            "name": "Edsger Dijkstra",
+            "url": "/quotes/edsger_dijkstra_201168"
+        },
+        "topics": [
+            {
+                "name": "Computers",
+                "url": "/topics/computers"
+            },
+            {
+                "name": "Computer",
+                "url": "/topics/computer"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edsger_dijkstra_204338",
+        "quote": "Elegance is not a dispensable luxury but a factor that decides between success and failure.",
+        "author": {
+            "name": "Edsger Dijkstra",
+            "url": "/quotes/edsger_dijkstra_204338"
+        },
+        "topics": [
+            {
+                "name": "Success",
+                "url": "/topics/success"
+            },
+            {
+                "name": "Failure",
+                "url": "/topics/failure"
+            },
+            {
+                "name": "Elegance",
+                "url": "/topics/elegance"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edsger_dijkstra_204332",
+        "quote": "Simplicity is prerequisite for reliability.",
+        "author": {
+            "name": "Edsger Dijkstra",
+            "url": "/quotes/edsger_dijkstra_204332"
+        },
+        "topics": [
+            {
+                "name": "Reliability",
+                "url": "/topics/reliability"
+            },
+            {
+                "name": "Prerequisite",
+                "url": "/topics/prerequisite"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edsger_dijkstra_204329",
+        "quote": "Object-oriented programming is an exceptionally bad idea which could only have originated in California.",
+        "author": {
+            "name": "Edsger Dijkstra",
+            "url": "/quotes/edsger_dijkstra_204329"
+        },
+        "topics": [
+            {
+                "name": "Bad",
+                "url": "/topics/bad"
+            },
+            {
+                "name": "Bad Idea",
+                "url": "/topics/bad_idea"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edsger_dijkstra_204342",
+        "quote": "Programming is one of the most difficult branches of applied mathematics; the poorer mathematicians had better remain pure mathematicians.",
+        "author": {
+            "name": "Edsger Dijkstra",
+            "url": "/quotes/edsger_dijkstra_204342"
+        },
+        "topics": [
+            {
+                "name": "Mathematics",
+                "url": "/topics/mathematics"
+            },
+            {
+                "name": "Poorer",
+                "url": "/topics/poorer"
+            },
+            {
+                "name": "Applied",
+                "url": "/topics/applied"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edsger_dijkstra_204339",
+        "quote": "Why has elegance found so little following? That is the reality of it. Elegance has the disadvantage, if that's what it is, that hard work is needed to achieve it and a good education to appreciate it.",
+        "author": {
+            "name": "Edsger Dijkstra",
+            "url": "/quotes/edsger_dijkstra_204339"
+        },
+        "topics": [
+            {
+                "name": "Education",
+                "url": "/topics/education"
+            },
+            {
+                "name": "Disadvantage",
+                "url": "/topics/disadvantage"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edsger_dijkstra_204352",
+        "quote": "Perfecting oneself is as much unlearning as it is learning.",
+        "author": {
+            "name": "Edsger Dijkstra",
+            "url": "/quotes/edsger_dijkstra_204352"
+        },
+        "topics": [
+            {
+                "name": "Learning",
+                "url": "/topics/learning"
+            },
+            {
+                "name": "Much",
+                "url": "/topics/much"
+            },
+            {
+                "name": "Perfecting",
+                "url": "/topics/perfecting"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edsger_dijkstra_201166",
+        "quote": "The question of whether a computer can think is no more interesting than the question of whether a submarine can swim.",
+        "author": {
+            "name": "Edsger Dijkstra",
+            "url": "/quotes/edsger_dijkstra_201166"
+        },
+        "topics": [
+            {
+                "name": "Computers",
+                "url": "/topics/computers"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Computer",
+                "url": "/topics/computer"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edsger_dijkstra_201165",
+        "quote": "Program testing can be used to show the presence of bugs, but never to show their absence!",
+        "author": {
+            "name": "Edsger Dijkstra",
+            "url": "/quotes/edsger_dijkstra_201165"
+        },
+        "topics": [
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Absence",
+                "url": "/topics/absence"
+            },
+            {
+                "name": "Bugs",
+                "url": "/topics/bugs"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edsger_dijkstra_204347",
+        "quote": "Mathematicians are like managers - they want improvement without change.",
+        "author": {
+            "name": "Edsger Dijkstra",
+            "url": "/quotes/edsger_dijkstra_204347"
+        },
+        "topics": [
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Mathematicians",
+                "url": "/topics/mathematicians"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edsger_dijkstra_204341",
+        "quote": "Aim for brevity while avoiding jargon.",
+        "author": {
+            "name": "Edsger Dijkstra",
+            "url": "/quotes/edsger_dijkstra_204341"
+        },
+        "topics": [
+            {
+                "name": "Aim",
+                "url": "/topics/aim"
+            },
+            {
+                "name": "Jargon",
+                "url": "/topics/jargon"
+            },
+            {
+                "name": "Brevity",
+                "url": "/topics/brevity"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edsger_dijkstra_204333",
+        "quote": "The lurking suspicion that something could be simplified is the world's richest source of rewarding challenges.",
+        "author": {
+            "name": "Edsger Dijkstra",
+            "url": "/quotes/edsger_dijkstra_204333"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Lurking",
+                "url": "/topics/lurking"
+            },
+            {
+                "name": "Rewarding",
+                "url": "/topics/rewarding"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edsger_dijkstra_204348",
+        "quote": "Teaching to unsuspecting youngsters the effective use of formal methods is one of the joys of life because it is so extremely rewarding.",
+        "author": {
+            "name": "Edsger Dijkstra",
+            "url": "/quotes/edsger_dijkstra_204348"
+        },
+        "topics": [
+            {
+                "name": "Rewarding",
+                "url": "/topics/rewarding"
+            },
+            {
+                "name": "Methods",
+                "url": "/topics/methods"
+            },
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edsger_dijkstra_204346",
+        "quote": "The traditional mathematician recognizes and appreciates mathematical elegance when he sees it. I propose to go one step further, and to consider elegance an essential ingredient of mathematics: if it is clumsy, it is not mathematics.",
+        "author": {
+            "name": "Edsger Dijkstra",
+            "url": "/quotes/edsger_dijkstra_204346"
+        },
+        "topics": [
+            {
+                "name": "Go",
+                "url": "/topics/go"
+            },
+            {
+                "name": "Appreciates",
+                "url": "/topics/appreciates"
+            },
+            {
+                "name": "Ingredient",
+                "url": "/topics/ingredient"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edsger_dijkstra_204343",
+        "quote": "There should be no such thing as boring mathematics.",
+        "author": {
+            "name": "Edsger Dijkstra",
+            "url": "/quotes/edsger_dijkstra_204343"
+        },
+        "topics": [
+            {
+                "name": "Mathematics",
+                "url": "/topics/mathematics"
+            },
+            {
+                "name": "Boring",
+                "url": "/topics/boring"
+            },
+            {
+                "name": "Should",
+                "url": "/topics/should"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edsger_dijkstra_201164",
+        "quote": "It is practically impossible to teach good programming to students that have had a prior exposure to BASIC: as potential programmers they are mentally mutilated beyond hope of regeneration.",
+        "author": {
+            "name": "Edsger Dijkstra",
+            "url": "/quotes/edsger_dijkstra_201164"
+        },
+        "topics": [
+            {
+                "name": "Regeneration",
+                "url": "/topics/regeneration"
+            },
+            {
+                "name": "Practically",
+                "url": "/topics/practically"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edsger_dijkstra_201167",
+        "quote": "The use of COBOL cripples the mind; its teaching should, therefore, be regarded as a criminal offense.",
+        "author": {
+            "name": "Edsger Dijkstra",
+            "url": "/quotes/edsger_dijkstra_201167"
+        },
+        "topics": [
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Offense",
+                "url": "/topics/offense"
+            },
+            {
+                "name": "Regarded",
+                "url": "/topics/regarded"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edsger_dijkstra_204340",
+        "quote": "The competent programmer is fully aware of the limited size of his own skull. He therefore approaches his task with full humility, and avoids clever tricks like the plague.",
+        "author": {
+            "name": "Edsger Dijkstra",
+            "url": "/quotes/edsger_dijkstra_204340"
+        },
+        "topics": [
+            {
+                "name": "Humility",
+                "url": "/topics/humility"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Limited",
+                "url": "/topics/limited"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edsger_dijkstra_204336",
+        "quote": "The ability of discerning high quality unavoidably implies the ability of identifying shortcomings.",
+        "author": {
+            "name": "Edsger Dijkstra",
+            "url": "/quotes/edsger_dijkstra_204336"
+        },
+        "topics": [
+            {
+                "name": "High",
+                "url": "/topics/high"
+            },
+            {
+                "name": "High Quality",
+                "url": "/topics/high_quality"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edsger_dijkstra_204351",
+        "quote": "The students that, like the wild animal being prepared for its tricks in the circus called 'life', expects only training as sketched above, will be severely disappointed: by his standards he will learn next to nothing.",
+        "author": {
+            "name": "Edsger Dijkstra",
+            "url": "/quotes/edsger_dijkstra_204351"
+        },
+        "topics": [
+            {
+                "name": "Students",
+                "url": "/topics/students"
+            },
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            },
+            {
+                "name": "Prepared",
+                "url": "/topics/prepared"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edsger_dijkstra_201169",
+        "quote": "APL is a mistake, carried through to perfection. It is the language of the future for the programming techniques of the past: it creates a new generation of coding bums.",
+        "author": {
+            "name": "Edsger Dijkstra",
+            "url": "/quotes/edsger_dijkstra_201169"
+        },
+        "topics": [
+            {
+                "name": "Mistake",
+                "url": "/topics/mistake"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Carried",
+                "url": "/topics/carried"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edsger_dijkstra_204345",
+        "quote": "Many mathematicians derive part of their self-esteem by feeling themselves the proud heirs of a long tradition of rational thinking; I am afraid they idealize their cultural ancestors.",
+        "author": {
+            "name": "Edsger Dijkstra",
+            "url": "/quotes/edsger_dijkstra_204345"
+        },
+        "topics": [
+            {
+                "name": "Proud",
+                "url": "/topics/proud"
+            },
+            {
+                "name": "Self-Esteem",
+                "url": "/topics/self-esteem"
+            },
+            {
+                "name": "Heirs",
+                "url": "/topics/heirs"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edsger_dijkstra_204334",
+        "quote": "About the use of language: it is impossible to sharpen a pencil with a blunt axe. It is equally vain to try to do it with ten blunt axes instead.",
+        "author": {
+            "name": "Edsger Dijkstra",
+            "url": "/quotes/edsger_dijkstra_204334"
+        },
+        "topics": [
+            {
+                "name": "Blunt",
+                "url": "/topics/blunt"
+            },
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            },
+            {
+                "name": "Sharpen",
+                "url": "/topics/sharpen"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edsger_dijkstra_204337",
+        "quote": "If 10 years from now, when you are doing something quick and dirty, you suddenly visualize that I am looking over your shoulders and say to yourself: 'Dijkstra would not have liked this', well that would be enough immortality for me.",
+        "author": {
+            "name": "Edsger Dijkstra",
+            "url": "/quotes/edsger_dijkstra_204337"
+        },
+        "topics": [
+            {
+                "name": "Immortality",
+                "url": "/topics/immortality"
+            },
+            {
+                "name": "Shoulders",
+                "url": "/topics/shoulders"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edsger_dijkstra_204350",
+        "quote": "Don't compete with me: firstly, I have more experience, and secondly, I have chosen the weapons.",
+        "author": {
+            "name": "Edsger Dijkstra",
+            "url": "/quotes/edsger_dijkstra_204350"
+        },
+        "topics": [
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Compete",
+                "url": "/topics/compete"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edsger_dijkstra_204353",
+        "quote": "I mentioned the non-competitive spirit explicitly, because these days, excellence is a fashionable concept. But excellence is a competitive notion, and that is not what we are heading for: we are heading for perfection.",
+        "author": {
+            "name": "Edsger Dijkstra",
+            "url": "/quotes/edsger_dijkstra_204353"
+        },
+        "topics": [
+            {
+                "name": "Excellence",
+                "url": "/topics/excellence"
+            },
+            {
+                "name": "Explicitly",
+                "url": "/topics/explicitly"
+            }
+        ]
+    }
+]

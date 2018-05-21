@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/lewis_hine_161834",
+        "quote": "If I could tell the story in words, I wouldn't need to lug around a camera.",
+        "author": {
+            "name": "Lewis Hine",
+            "url": "/quotes/lewis_hine_161834"
+        },
+        "topics": [
+            {
+                "name": "Tell",
+                "url": "/topics/tell"
+            },
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            },
+            {
+                "name": "Could",
+                "url": "/topics/could"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/lewis_hine_133433",
+        "quote": "While photographs may not lie, liars may photograph.",
+        "author": {
+            "name": "Lewis Hine",
+            "url": "/quotes/lewis_hine_133433"
+        },
+        "topics": [
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Photograph",
+                "url": "/topics/photograph"
+            },
+            {
+                "name": "Photographs",
+                "url": "/topics/photographs"
+            }
+        ]
+    }
+]

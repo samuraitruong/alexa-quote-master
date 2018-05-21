@@ -1,0 +1,64 @@
+[
+    {
+        "url": "/quotes/william_hedgcock_webster_202829",
+        "quote": "The challenge is high. The stakes are important. I think it's manageable.",
+        "author": {
+            "name": "William Hedgcock Webster",
+            "url": "/quotes/william_hedgcock_webster_202829"
+        },
+        "topics": [
+            {
+                "name": "Important",
+                "url": "/topics/important"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "High",
+                "url": "/topics/high"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_hedgcock_webster_202830",
+        "quote": "We have disciplinary authority and will use it when appropriate.",
+        "author": {
+            "name": "William Hedgcock Webster",
+            "url": "/quotes/william_hedgcock_webster_202830"
+        },
+        "topics": [
+            {
+                "name": "Appropriate",
+                "url": "/topics/appropriate"
+            },
+            {
+                "name": "Disciplinary",
+                "url": "/topics/disciplinary"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_hedgcock_webster_202832",
+        "quote": "The people who work in intelligence work are more conscious, more apt to be attentive.",
+        "author": {
+            "name": "William Hedgcock Webster",
+            "url": "/quotes/william_hedgcock_webster_202832"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Apt",
+                "url": "/topics/apt"
+            }
+        ]
+    }
+]

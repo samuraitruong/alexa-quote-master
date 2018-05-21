@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/george_orwell_159425?src=t_machine-gun",
+        "quote": "We may find in the long run that tinned food is a deadlier weapon than the machine-gun.",
+        "author": {
+            "name": "George Orwell",
+            "url": "/authors/george_orwell"
+        },
+        "topics": [
+            {
+                "name": "Food",
+                "url": "/topics/food"
+            },
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Weapon",
+                "url": "/topics/weapon"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/philip_gibbs_342799?src=t_machine-gun",
+        "quote": "In front of us was not a line but a fortress position, twenty miles deep, entrenched and fortified, defended by masses of machine-gun posts and thousands of guns in a wide arc. No chance for cavalry!",
+        "author": {
+            "name": "Philip Gibbs",
+            "url": "/authors/philip_gibbs"
+        },
+        "topics": [
+            {
+                "name": "Deep",
+                "url": "/topics/deep"
+            },
+            {
+                "name": "Chance",
+                "url": "/topics/chance"
+            },
+            {
+                "name": "Guns",
+                "url": "/topics/guns"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/erich_maria_remarque_320119?src=t_machine-gun",
+        "quote": "On the steps is a machine-gun ready for action. The square is empty; only the streets that lead into it are jammed with people. It would be madness to go farther - the machine-gun is covering the square.",
+        "author": {
+            "name": "Erich Maria Remarque",
+            "url": "/authors/erich_maria_remarque"
+        },
+        "topics": [
+            {
+                "name": "Madness",
+                "url": "/topics/madness"
+            },
+            {
+                "name": "Streets",
+                "url": "/topics/streets"
+            },
+            {
+                "name": "Covering",
+                "url": "/topics/covering"
+            }
+        ]
+    }
+]

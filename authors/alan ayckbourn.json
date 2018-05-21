@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/alan_ayckbourn_166667",
+        "quote": "He really is terribly heavy going. Like running up hill in roller skates.",
+        "author": {
+            "name": "Alan Ayckbourn",
+            "url": "/quotes/alan_ayckbourn_166667"
+        },
+        "topics": [
+            {
+                "name": "Hill",
+                "url": "/topics/hill"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Running",
+                "url": "/topics/running"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alan_ayckbourn_405043",
+        "quote": "Few women care to be laughed at and men not at all, except for large sums of money.",
+        "author": {
+            "name": "Alan Ayckbourn",
+            "url": "/quotes/alan_ayckbourn_405043"
+        },
+        "topics": [
+            {
+                "name": "Money",
+                "url": "/topics/money"
+            },
+            {
+                "name": "Men",
+                "url": "/topics/men"
+            },
+            {
+                "name": "Large",
+                "url": "/topics/large"
+            }
+        ]
+    }
+]

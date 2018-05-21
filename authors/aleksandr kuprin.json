@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/aleksandr_kuprin_267152",
+        "quote": "I am a wanderer passionately in love with life.",
+        "author": {
+            "name": "Aleksandr Kuprin",
+            "url": "/quotes/aleksandr_kuprin_267152"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Wanderer",
+                "url": "/topics/wanderer"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/aleksandr_kuprin_267155",
+        "quote": "I wanted to live the inner life of every man I saw, look at the world through his eyes.",
+        "author": {
+            "name": "Aleksandr Kuprin",
+            "url": "/quotes/aleksandr_kuprin_267155"
+        },
+        "topics": [
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Every Man",
+                "url": "/topics/every_man"
+            },
+            {
+                "name": "Saw",
+                "url": "/topics/saw"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/aleksandr_kuprin_267154",
+        "quote": "It wasn't poverty that drove me on.",
+        "author": {
+            "name": "Aleksandr Kuprin",
+            "url": "/quotes/aleksandr_kuprin_267154"
+        },
+        "topics": [
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Poverty",
+                "url": "/topics/poverty"
+            },
+            {
+                "name": "Drove",
+                "url": "/topics/drove"
+            }
+        ]
+    }
+]

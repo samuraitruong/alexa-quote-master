@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/george_etherege_402498",
+        "quote": "When love grows diseased, the best thing we can do is to put it to a violent death; I cannot endure the torture of a lingering and consumptive passion.",
+        "author": {
+            "name": "George Etherege",
+            "url": "/quotes/george_etherege_402498"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Grows",
+                "url": "/topics/grows"
+            },
+            {
+                "name": "Violent",
+                "url": "/topics/violent"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/george_etherege_311923",
+        "quote": "Next to coming to a good understanding with a new mistress, I love a quarrel with an old one.",
+        "author": {
+            "name": "George Etherege",
+            "url": "/quotes/george_etherege_311923"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            }
+        ]
+    }
+]

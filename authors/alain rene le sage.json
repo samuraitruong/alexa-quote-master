@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/alain_rene_le_sage_180656",
+        "quote": "I am happy and content because I think I am.",
+        "author": {
+            "name": "Alain Rene Le Sage",
+            "url": "/quotes/alain_rene_le_sage_180656"
+        },
+        "topics": [
+            {
+                "name": "I Am Happy",
+                "url": "/topics/i_am_happy"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alain_rene_le_sage_180655",
+        "quote": "Doubt is not below knowledge, but above it.",
+        "author": {
+            "name": "Alain Rene Le Sage",
+            "url": "/quotes/alain_rene_le_sage_180655"
+        },
+        "topics": [
+            {
+                "name": "Doubt",
+                "url": "/topics/doubt"
+            },
+            {
+                "name": "Above",
+                "url": "/topics/above"
+            },
+            {
+                "name": "Below",
+                "url": "/topics/below"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alain_rene_le_sage_180657",
+        "quote": "Justice is such a fine thing that we cannot pay too dearly for it.",
+        "author": {
+            "name": "Alain Rene Le Sage",
+            "url": "/quotes/alain_rene_le_sage_180657"
+        },
+        "topics": [
+            {
+                "name": "Fine",
+                "url": "/topics/fine"
+            },
+            {
+                "name": "Too",
+                "url": "/topics/too"
+            },
+            {
+                "name": "We Cannot",
+                "url": "/topics/we_cannot"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alain_rene_le_sage_180658",
+        "quote": "Pride and conceit were the original sins of man.",
+        "author": {
+            "name": "Alain Rene Le Sage",
+            "url": "/quotes/alain_rene_le_sage_180658"
+        },
+        "topics": [
+            {
+                "name": "Original",
+                "url": "/topics/original"
+            },
+            {
+                "name": "Conceit",
+                "url": "/topics/conceit"
+            },
+            {
+                "name": "Were",
+                "url": "/topics/were"
+            }
+        ]
+    }
+]

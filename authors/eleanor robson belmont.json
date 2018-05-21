@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/eleanor_robson_belmont_398250",
+        "quote": "Never be afraid to meet to the hilt the demand of either work, or friendship - two of life's major assets.",
+        "author": {
+            "name": "Eleanor Robson Belmont",
+            "url": "/quotes/eleanor_robson_belmont_398250"
+        },
+        "topics": [
+            {
+                "name": "Friendship",
+                "url": "/topics/friendship"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Either",
+                "url": "/topics/either"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eleanor_robson_belmont_178028",
+        "quote": "A private railroad car is not an acquired taste. One takes to it immediately.",
+        "author": {
+            "name": "Eleanor Robson Belmont",
+            "url": "/quotes/eleanor_robson_belmont_178028"
+        },
+        "topics": [
+            {
+                "name": "Car",
+                "url": "/topics/car"
+            },
+            {
+                "name": "Railroad",
+                "url": "/topics/railroad"
+            },
+            {
+                "name": "Private",
+                "url": "/topics/private"
+            }
+        ]
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/alfred_sisley_220312",
+        "quote": "Every picture shows a spot with which the artist has fallen in love.",
+        "author": {
+            "name": "Alfred Sisley",
+            "url": "/quotes/alfred_sisley_220312"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alfred_sisley_542739",
+        "quote": "I always start a painting with the sky.",
+        "author": {
+            "name": "Alfred Sisley",
+            "url": "/quotes/alfred_sisley_542739"
+        },
+        "topics": [
+            {
+                "name": "Sky",
+                "url": "/topics/sky"
+            },
+            {
+                "name": "Painting",
+                "url": "/topics/painting"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alfred_sisley_220311",
+        "quote": "Though the artist must remain master of his craft, the surface, at times raised to the highest pitch of loveliness, should transmit to the beholder the sensation which possessed the artist.",
+        "author": {
+            "name": "Alfred Sisley",
+            "url": "/quotes/alfred_sisley_220311"
+        },
+        "topics": [
+            {
+                "name": "Beholder",
+                "url": "/topics/beholder"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Though",
+                "url": "/topics/though"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alfred_sisley_363642",
+        "quote": "I like all those painters who loved and had a strong feeling for nature.",
+        "author": {
+            "name": "Alfred Sisley",
+            "url": "/quotes/alfred_sisley_363642"
+        },
+        "topics": [
+            {
+                "name": "Strong",
+                "url": "/topics/strong"
+            },
+            {
+                "name": "Loved",
+                "url": "/topics/loved"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alfred_sisley_220314",
+        "quote": "The animation of the canvas is one of the hardest problems of painting.",
+        "author": {
+            "name": "Alfred Sisley",
+            "url": "/quotes/alfred_sisley_220314"
+        },
+        "topics": [
+            {
+                "name": "Painting",
+                "url": "/topics/painting"
+            },
+            {
+                "name": "Canvas",
+                "url": "/topics/canvas"
+            },
+            {
+                "name": "Hardest",
+                "url": "/topics/hardest"
+            }
+        ]
+    }
+]

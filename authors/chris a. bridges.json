@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/chris_a_bridges_194759",
+        "quote": "There's nothing more erotic than a clean bill of health, my friend.",
+        "author": {
+            "name": "Chris A. Bridges",
+            "url": "/quotes/chris_a_bridges_194759"
+        },
+        "topics": [
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "My Friend",
+                "url": "/topics/my_friend"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/chris_a_bridges_194763",
+        "quote": "Obviously, you've never seen a woman skydiving in a hoop skirt.",
+        "author": {
+            "name": "Chris A. Bridges",
+            "url": "/quotes/chris_a_bridges_194763"
+        },
+        "topics": [
+            {
+                "name": "Woman",
+                "url": "/topics/woman"
+            },
+            {
+                "name": "Never",
+                "url": "/topics/never"
+            },
+            {
+                "name": "Skydiving",
+                "url": "/topics/skydiving"
+            }
+        ]
+    }
+]

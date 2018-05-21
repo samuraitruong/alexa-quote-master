@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/john_s_tanner_202160",
+        "quote": "Social Security faces financial problems down the road because of demographics.",
+        "author": {
+            "name": "John S. Tanner",
+            "url": "/quotes/john_s_tanner_202160"
+        },
+        "topics": [
+            {
+                "name": "Road",
+                "url": "/topics/road"
+            },
+            {
+                "name": "Security",
+                "url": "/topics/security"
+            },
+            {
+                "name": "Social",
+                "url": "/topics/social"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_s_tanner_202161",
+        "quote": "Most people here agree that the rhetoric got overblown on both sides of the Atlantic before the Iraq war, and it was a disagreement among friends over the timing, not the substance, of the Iraq war.",
+        "author": {
+            "name": "John S. Tanner",
+            "url": "/quotes/john_s_tanner_202161"
+        },
+        "topics": [
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            },
+            {
+                "name": "Both Sides",
+                "url": "/topics/both_sides"
+            }
+        ]
+    }
+]

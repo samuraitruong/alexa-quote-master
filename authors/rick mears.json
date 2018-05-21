@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/rick_mears_441492",
+        "quote": "The American Dream is about freedom.",
+        "author": {
+            "name": "Rick Mears",
+            "url": "/quotes/rick_mears_441492"
+        },
+        "topics": [
+            {
+                "name": "Freedom",
+                "url": "/topics/freedom"
+            },
+            {
+                "name": "Dream",
+                "url": "/topics/dream"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rick_mears_307678",
+        "quote": "To finish first you must first finish.",
+        "author": {
+            "name": "Rick Mears",
+            "url": "/quotes/rick_mears_307678"
+        },
+        "topics": [
+            {
+                "name": "Finish",
+                "url": "/topics/finish"
+            },
+            {
+                "name": "First",
+                "url": "/topics/first"
+            },
+            {
+                "name": "Must",
+                "url": "/topics/must"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rick_mears_441493",
+        "quote": "America allows us to be able to dream, then gives us the ability to achieve those dreams.",
+        "author": {
+            "name": "Rick Mears",
+            "url": "/quotes/rick_mears_441493"
+        },
+        "topics": [
+            {
+                "name": "Dream",
+                "url": "/topics/dream"
+            },
+            {
+                "name": "Achieve",
+                "url": "/topics/achieve"
+            },
+            {
+                "name": "Able",
+                "url": "/topics/able"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rick_mears_441490",
+        "quote": "You hear a lot of drivers say they'll quit when they're not enjoying it. That's pretty much what happened to me. It was a combination of things, but mostly it was losing that enthusiasm I always felt before.",
+        "author": {
+            "name": "Rick Mears",
+            "url": "/quotes/rick_mears_441490"
+        },
+        "topics": [
+            {
+                "name": "Pretty",
+                "url": "/topics/pretty"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Mostly",
+                "url": "/topics/mostly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rick_mears_441491",
+        "quote": "For me, the American Dream was to go racing; for others, it's to pursue whatever their goals may be.",
+        "author": {
+            "name": "Rick Mears",
+            "url": "/quotes/rick_mears_441491"
+        },
+        "topics": [
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Racing",
+                "url": "/topics/racing"
+            },
+            {
+                "name": "Go",
+                "url": "/topics/go"
+            }
+        ]
+    }
+]

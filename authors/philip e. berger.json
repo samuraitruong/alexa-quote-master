@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/philip_e_berger_202552",
+        "quote": "My colleagues have expressed confidence in my ability to articulate our conservative message and to provide new focus to our efforts in the General Assembly.",
+        "author": {
+            "name": "Philip E. Berger",
+            "url": "/quotes/philip_e_berger_202552"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Conservative",
+                "url": "/topics/conservative"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/philip_e_berger_202554",
+        "quote": "The decision violates both the letter and spirit of the law.",
+        "author": {
+            "name": "Philip E. Berger",
+            "url": "/quotes/philip_e_berger_202554"
+        },
+        "topics": [
+            {
+                "name": "Law",
+                "url": "/topics/law"
+            },
+            {
+                "name": "Decision",
+                "url": "/topics/decision"
+            },
+            {
+                "name": "Violates",
+                "url": "/topics/violates"
+            }
+        ]
+    }
+]

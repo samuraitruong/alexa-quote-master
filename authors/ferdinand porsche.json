@@ -1,0 +1,130 @@
+[
+    {
+        "url": "/quotes/ferdinand_porsche_304802",
+        "quote": "I couldn't find the sports car of my dreams, so I built it myself.",
+        "author": {
+            "name": "Ferdinand Porsche",
+            "url": "/quotes/ferdinand_porsche_304802"
+        },
+        "topics": [
+            {
+                "name": "Sports",
+                "url": "/topics/sports"
+            },
+            {
+                "name": "Car",
+                "url": "/topics/car"
+            },
+            {
+                "name": "Built",
+                "url": "/topics/built"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ferdinand_porsche_304803",
+        "quote": "If one does not fail at times, then one has not challenged himself.",
+        "author": {
+            "name": "Ferdinand Porsche",
+            "url": "/quotes/ferdinand_porsche_304803"
+        },
+        "topics": [
+            {
+                "name": "Fail",
+                "url": "/topics/fail"
+            },
+            {
+                "name": "Himself",
+                "url": "/topics/himself"
+            },
+            {
+                "name": "Times",
+                "url": "/topics/times"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ferdinand_porsche_600690",
+        "quote": "Design must be functional, and functionality must be translated into visual aesthetics without any reliance on gimmicks that have to be explained.",
+        "author": {
+            "name": "Ferdinand Porsche",
+            "url": "/quotes/ferdinand_porsche_600690"
+        },
+        "topics": [
+            {
+                "name": "Functional",
+                "url": "/topics/functional"
+            },
+            {
+                "name": "Reliance",
+                "url": "/topics/reliance"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ferdinand_porsche_600691",
+        "quote": "A formally harmonious product needs no decoration; it should be elevated through pure form.",
+        "author": {
+            "name": "Ferdinand Porsche",
+            "url": "/quotes/ferdinand_porsche_600691"
+        },
+        "topics": [
+            {
+                "name": "Product",
+                "url": "/topics/product"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Needs",
+                "url": "/topics/needs"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ferdinand_porsche_600692",
+        "quote": "Good design should be honest.",
+        "author": {
+            "name": "Ferdinand Porsche",
+            "url": "/quotes/ferdinand_porsche_600692"
+        },
+        "topics": [
+            {
+                "name": "Honest",
+                "url": "/topics/honest"
+            },
+            {
+                "name": "Design",
+                "url": "/topics/design"
+            },
+            {
+                "name": "Should",
+                "url": "/topics/should"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ferdinand_porsche_600693",
+        "quote": "I came into the world at the same time as the auto, if you will.",
+        "author": {
+            "name": "Ferdinand Porsche",
+            "url": "/quotes/ferdinand_porsche_600693"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Same",
+                "url": "/topics/same"
+            },
+            {
+                "name": "Auto",
+                "url": "/topics/auto"
+            }
+        ]
+    }
+]

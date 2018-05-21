@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/billy_barty_180976",
+        "quote": "The name of my condition is Cartilage Hair Syndrome Hypoplasia, but you can just call me Billy.",
+        "author": {
+            "name": "Billy Barty",
+            "url": "/quotes/billy_barty_180976"
+        },
+        "topics": [
+            {
+                "name": "Hair",
+                "url": "/topics/hair"
+            },
+            {
+                "name": "Condition",
+                "url": "/topics/condition"
+            },
+            {
+                "name": "Call",
+                "url": "/topics/call"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/billy_barty_180977",
+        "quote": "The general public thinks all little people are in circuses or sideshows. We have doctors, nurses, just about every field covered.",
+        "author": {
+            "name": "Billy Barty",
+            "url": "/quotes/billy_barty_180977"
+        },
+        "topics": [
+            {
+                "name": "People",
+                "url": "/topics/people"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Little People",
+                "url": "/topics/little_people"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/billy_barty_180978",
+        "quote": "We are people with all the hopes, dreams, passions, and faults of everyone else. Eighty percent of us are born into families with no history of dwarfism.",
+        "author": {
+            "name": "Billy Barty",
+            "url": "/quotes/billy_barty_180978"
+        },
+        "topics": [
+            {
+                "name": "Everyone",
+                "url": "/topics/everyone"
+            },
+            {
+                "name": "Everyone Else",
+                "url": "/topics/everyone_else"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/billy_barty_180980",
+        "quote": "Try being my size and going into a public restroom.",
+        "author": {
+            "name": "Billy Barty",
+            "url": "/quotes/billy_barty_180980"
+        },
+        "topics": [
+            {
+                "name": "Size",
+                "url": "/topics/size"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Public",
+                "url": "/topics/public"
+            }
+        ]
+    }
+]

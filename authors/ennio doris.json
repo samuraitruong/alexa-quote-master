@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/ennio_doris_708600",
+        "quote": "Mediobanca is undervalued but less undervalued than other banks.",
+        "author": {
+            "name": "Ennio Doris",
+            "url": "/quotes/ennio_doris_708600"
+        },
+        "topics": [
+            {
+                "name": "Banks",
+                "url": "/topics/banks"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Than",
+                "url": "/topics/than"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ennio_doris_708601",
+        "quote": "The 2012 payout will be the lowest in our history: well below 50 percent.",
+        "author": {
+            "name": "Ennio Doris",
+            "url": "/quotes/ennio_doris_708601"
+        },
+        "topics": [
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Well",
+                "url": "/topics/well"
+            },
+            {
+                "name": "Below",
+                "url": "/topics/below"
+            }
+        ]
+    }
+]

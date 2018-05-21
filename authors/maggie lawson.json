@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/maggie_lawson_529194",
+        "quote": "Rice cakes and peanut butter is my favorite snack in the whole wide world.",
+        "author": {
+            "name": "Maggie Lawson",
+            "url": "/quotes/maggie_lawson_529194"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Butter",
+                "url": "/topics/butter"
+            },
+            {
+                "name": "Wide",
+                "url": "/topics/wide"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/maggie_lawson_584765",
+        "quote": "William Shatner just reeks of cool.",
+        "author": {
+            "name": "Maggie Lawson",
+            "url": "/quotes/maggie_lawson_584765"
+        },
+        "topics": [
+            {
+                "name": "Cool",
+                "url": "/topics/cool"
+            },
+            {
+                "name": "Shatner",
+                "url": "/topics/shatner"
+            },
+            {
+                "name": "William",
+                "url": "/topics/william"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/maggie_lawson_584766",
+        "quote": "I grew up in Kentucky, so we do not have a pro team. My family was split between the Cubs and the Reds. I would say I go Cubs usually. That's sort of where I grew up. My older brother was a huge Reds fan.",
+        "author": {
+            "name": "Maggie Lawson",
+            "url": "/quotes/maggie_lawson_584766"
+        },
+        "topics": [
+            {
+                "name": "Older Brother",
+                "url": "/topics/older_brother"
+            },
+            {
+                "name": "Fan",
+                "url": "/topics/fan"
+            },
+            {
+                "name": "Split",
+                "url": "/topics/split"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/maggie_lawson_584767",
+        "quote": "I played softball for a few years growing up. Both my brothers played baseball.",
+        "author": {
+            "name": "Maggie Lawson",
+            "url": "/quotes/maggie_lawson_584767"
+        },
+        "topics": [
+            {
+                "name": "Growing",
+                "url": "/topics/growing"
+            },
+            {
+                "name": "Brothers",
+                "url": "/topics/brothers"
+            },
+            {
+                "name": "Softball",
+                "url": "/topics/softball"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/maggie_lawson_584768",
+        "quote": "I've always wanted to work with dogs, so in high school, I worked at the Humane Society for a little while. I honestly think, even today, that would be the other career I would go into. Somehow I would be involved with animals.",
+        "author": {
+            "name": "Maggie Lawson",
+            "url": "/quotes/maggie_lawson_584768"
+        },
+        "topics": [
+            {
+                "name": "Career",
+                "url": "/topics/career"
+            },
+            {
+                "name": "Humane",
+                "url": "/topics/humane"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            }
+        ]
+    }
+]

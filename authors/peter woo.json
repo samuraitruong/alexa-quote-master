@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/peter_woo_513325",
+        "quote": "Mentorship is critical for young people. Mentorship by others for my children is very high on my agenda.",
+        "author": {
+            "name": "Peter Woo",
+            "url": "/quotes/peter_woo_513325"
+        },
+        "topics": [
+            {
+                "name": "Young People",
+                "url": "/topics/young_people"
+            },
+            {
+                "name": "High",
+                "url": "/topics/high"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/peter_woo_513326",
+        "quote": "Without constantly pushing my senior colleagues to formulate decisions, I would never be able to learn and know what they are made of.",
+        "author": {
+            "name": "Peter Woo",
+            "url": "/quotes/peter_woo_513326"
+        },
+        "topics": [
+            {
+                "name": "Learn",
+                "url": "/topics/learn"
+            },
+            {
+                "name": "Made",
+                "url": "/topics/made"
+            },
+            {
+                "name": "Formulate",
+                "url": "/topics/formulate"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/peter_woo_513327",
+        "quote": "Judgment is a delicate thing and does not come overnight.",
+        "author": {
+            "name": "Peter Woo",
+            "url": "/quotes/peter_woo_513327"
+        },
+        "topics": [
+            {
+                "name": "Delicate",
+                "url": "/topics/delicate"
+            },
+            {
+                "name": "Overnight",
+                "url": "/topics/overnight"
+            },
+            {
+                "name": "Does",
+                "url": "/topics/does"
+            }
+        ]
+    }
+]

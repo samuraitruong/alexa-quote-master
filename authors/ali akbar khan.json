@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/ali_akbar_khan_207484",
+        "quote": "Real music is not for wealth, not for honours or even the joys of the mind... but as a path for realisation and salvation.",
+        "author": {
+            "name": "Ali Akbar Khan",
+            "url": "/quotes/ali_akbar_khan_207484"
+        },
+        "topics": [
+            {
+                "name": "Path",
+                "url": "/topics/path"
+            },
+            {
+                "name": "Mind",
+                "url": "/topics/mind"
+            },
+            {
+                "name": "Wealth",
+                "url": "/topics/wealth"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ali_akbar_khan_207485",
+        "quote": "Singing instrumental music is most important because, while you play an instrument, you are singing through the instrument... actually, you are singing inside.",
+        "author": {
+            "name": "Ali Akbar Khan",
+            "url": "/quotes/ali_akbar_khan_207485"
+        },
+        "topics": [
+            {
+                "name": "Singing",
+                "url": "/topics/singing"
+            },
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            }
+        ]
+    }
+]

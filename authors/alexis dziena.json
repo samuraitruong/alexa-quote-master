@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/alexis_dziena_629899",
+        "quote": "I love college. I know I sound like a dork.",
+        "author": {
+            "name": "Alexis Dziena",
+            "url": "/quotes/alexis_dziena_629899"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "College",
+                "url": "/topics/college"
+            },
+            {
+                "name": "I Love",
+                "url": "/topics/i_love"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alexis_dziena_629900",
+        "quote": "I used to dance around the house and taught myself the 'Annie' soundtrack. I got into singing and fell in love with it.",
+        "author": {
+            "name": "Alexis Dziena",
+            "url": "/quotes/alexis_dziena_629900"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Singing",
+                "url": "/topics/singing"
+            },
+            {
+                "name": "Soundtrack",
+                "url": "/topics/soundtrack"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/alexis_dziena_629901",
+        "quote": "I read a lot of autobiographical stories, and I write plays and prose. And I play piano and cello. A lot of my downtime is devoted to that.",
+        "author": {
+            "name": "Alexis Dziena",
+            "url": "/quotes/alexis_dziena_629901"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Prose",
+                "url": "/topics/prose"
+            },
+            {
+                "name": "Devoted",
+                "url": "/topics/devoted"
+            }
+        ]
+    }
+]

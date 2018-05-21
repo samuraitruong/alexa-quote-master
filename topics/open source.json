@@ -1,0 +1,1358 @@
+[
+    {
+        "url": "/quotes/olaf_carlsonwee_851384?src=t_open_source",
+        "quote": "For the first time, open source, peer-to-peer protocol developers can monetize their project on a protocol level.",
+        "author": {
+            "name": "Olaf Carlson-Wee",
+            "url": "/authors/olaf_carlsonwee"
+        },
+        "topics": [
+            {
+                "name": "Project",
+                "url": "/topics/project"
+            },
+            {
+                "name": "Developers",
+                "url": "/topics/developers"
+            },
+            {
+                "name": "Level",
+                "url": "/topics/level"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/eric_s_raymond_671665?src=t_open_source",
+        "quote": "People who study primate societies make a distinction between two kinds of cultural interactions, agonic and hedonic. In agonic societies, you gain status by asserting dominance over others. In hedonic societies, you gain status by drawing attention to yourself. Open source is a hedonic culture.",
+        "author": {
+            "name": "Eric S. Raymond",
+            "url": "/authors/eric_s_raymond"
+        },
+        "topics": [
+            {
+                "name": "Study",
+                "url": "/topics/study"
+            },
+            {
+                "name": "Kinds",
+                "url": "/topics/kinds"
+            },
+            {
+                "name": "Distinction",
+                "url": "/topics/distinction"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brian_behlendorf_649722?src=t_open_source",
+        "quote": "Companies have been trying to figure out what it is that makes open source work.",
+        "author": {
+            "name": "Brian Behlendorf",
+            "url": "/authors/brian_behlendorf"
+        },
+        "topics": [
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Companies",
+                "url": "/topics/companies"
+            },
+            {
+                "name": "Figure",
+                "url": "/topics/figure"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brian_behlendorf_649728?src=t_open_source",
+        "quote": "What's kept Java from being used as widely as possible is there hasn't been an Open Source implementation of it that's gotten really widespread use.",
+        "author": {
+            "name": "Brian Behlendorf",
+            "url": "/authors/brian_behlendorf"
+        },
+        "topics": [
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Gotten",
+                "url": "/topics/gotten"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brian_behlendorf_649730?src=t_open_source",
+        "quote": "I won't sit here and say an Open Source project will do things faster than a closed source, but one of the reasons why is that it sits on a whole lot of things that came before it.",
+        "author": {
+            "name": "Brian Behlendorf",
+            "url": "/authors/brian_behlendorf"
+        },
+        "topics": [
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            },
+            {
+                "name": "Reasons",
+                "url": "/topics/reasons"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brian_behlendorf_649732?src=t_open_source",
+        "quote": "I'm not of the opinion that all software will be open source software. There is certain software that fits a niche that is only useful to a particular company or person: for example, the software immediately behind a web site's user interface. But the vast majority of software is actually pretty generic.",
+        "author": {
+            "name": "Brian Behlendorf",
+            "url": "/authors/brian_behlendorf"
+        },
+        "topics": [
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "Behind",
+                "url": "/topics/behind"
+            },
+            {
+                "name": "Source",
+                "url": "/topics/source"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brian_behlendorf_649734?src=t_open_source",
+        "quote": "Success for open source is when the term 'open source' becomes a non-factor in the decision making process, when people hear about Linux and compare it to Windows NT, and they compare it on the feature set and don't have much of an excuse not to use it.",
+        "author": {
+            "name": "Brian Behlendorf",
+            "url": "/authors/brian_behlendorf"
+        },
+        "topics": [
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            },
+            {
+                "name": "Compare",
+                "url": "/topics/compare"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jon_johansen_432346?src=t_open_source",
+        "quote": "Basically, if reverse engineering is banned, then a lot of the open source community is doomed to fail.",
+        "author": {
+            "name": "Jon Johansen",
+            "url": "/authors/jon_johansen"
+        },
+        "topics": [
+            {
+                "name": "Engineering",
+                "url": "/topics/engineering"
+            },
+            {
+                "name": "Source",
+                "url": "/topics/source"
+            },
+            {
+                "name": "Then",
+                "url": "/topics/then"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/anant_agarwal_529937?src=t_open_source",
+        "quote": "EdX will be a creating a platform which will be open source, not for profit, and a portal for a website where universities will offer their courses. For example, MIT courses will be offered as MITx and Harvard courses as HarvardX.",
+        "author": {
+            "name": "Anant Agarwal",
+            "url": "/authors/anant_agarwal"
+        },
+        "topics": [
+            {
+                "name": "Website",
+                "url": "/topics/website"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Courses",
+                "url": "/topics/courses"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bruce_perens_409535?src=t_open_source",
+        "quote": "The strategic marketing paradigm of Open Source is a massively-parallel drunkard's walk filtered by a Darwinistic process.",
+        "author": {
+            "name": "Bruce Perens",
+            "url": "/authors/bruce_perens"
+        },
+        "topics": [
+            {
+                "name": "Marketing",
+                "url": "/topics/marketing"
+            },
+            {
+                "name": "Process",
+                "url": "/topics/process"
+            },
+            {
+                "name": "Filtered",
+                "url": "/topics/filtered"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/linus_torvalds_587384?src=t_open_source",
+        "quote": "In real open source, you have the right to control your own destiny.",
+        "author": {
+            "name": "Linus Torvalds",
+            "url": "/authors/linus_torvalds"
+        },
+        "topics": [
+            {
+                "name": "Destiny",
+                "url": "/topics/destiny"
+            },
+            {
+                "name": "Control",
+                "url": "/topics/control"
+            },
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/linus_torvalds_587377?src=t_open_source",
+        "quote": "In open source, we feel strongly that to really do something well, you have to get a lot of people involved.",
+        "author": {
+            "name": "Linus Torvalds",
+            "url": "/authors/linus_torvalds"
+        },
+        "topics": [
+            {
+                "name": "People",
+                "url": "/topics/people"
+            },
+            {
+                "name": "Feel",
+                "url": "/topics/feel"
+            },
+            {
+                "name": "Source",
+                "url": "/topics/source"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/linus_torvalds_587371?src=t_open_source",
+        "quote": "I often compare open source to science. To where science took this whole notion of developing ideas in the open and improving on other peoples' ideas and making it into what science is today and the incredible advances that we have had. And I compare that to witchcraft and alchemy, where openness was something you didn't do.",
+        "author": {
+            "name": "Linus Torvalds",
+            "url": "/authors/linus_torvalds"
+        },
+        "topics": [
+            {
+                "name": "Developing",
+                "url": "/topics/developing"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Compare",
+                "url": "/topics/compare"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tim_oreilly_219549?src=t_open_source",
+        "quote": "Empowerment of individuals is a key part of what makes open source work, since in the end, innovations tend to come from small groups, not from large, structured efforts.",
+        "author": {
+            "name": "Tim O'Reilly",
+            "url": "/authors/tim_oreilly"
+        },
+        "topics": [
+            {
+                "name": "Work",
+                "url": "/topics/work"
+            },
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Large",
+                "url": "/topics/large"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/linus_torvalds_587370?src=t_open_source",
+        "quote": "There were open source projects and free software before Linux was there. Linux in many ways is one of the more visible and one of the bigger technical projects in this area, and it changed how people looked at it because Linux took both the practical and ideological approach.",
+        "author": {
+            "name": "Linus Torvalds",
+            "url": "/authors/linus_torvalds"
+        },
+        "topics": [
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "Before",
+                "url": "/topics/before"
+            },
+            {
+                "name": "Projects",
+                "url": "/topics/projects"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_friedman_655259?src=t_open_source",
+        "quote": "Al Qaeda is nothing more than a mutant supply chain. They're playing off the same platform as Wal-Mart and Dell. They're just not restrained by it. What is al Qaeda? It's an open source religious political movement that works off the global supply chain.",
+        "author": {
+            "name": "Thomas Friedman",
+            "url": "/authors/thomas_friedman"
+        },
+        "topics": [
+            {
+                "name": "Religious",
+                "url": "/topics/religious"
+            },
+            {
+                "name": "Wal-Mart",
+                "url": "/topics/wal-mart"
+            },
+            {
+                "name": "Works",
+                "url": "/topics/works"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mitchell_baker_672237?src=t_open_source",
+        "quote": "We do care about control and privacy. It's one of the reasons we are so focused on having our systems be open source, so you or someone technically savvy you know can verify what the software is doing.",
+        "author": {
+            "name": "Mitchell Baker",
+            "url": "/authors/mitchell_baker"
+        },
+        "topics": [
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Having",
+                "url": "/topics/having"
+            },
+            {
+                "name": "Reasons",
+                "url": "/topics/reasons"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/rasmus_lerdorf_649672?src=t_open_source",
+        "quote": "If you want to build an open source project, you can't let your ego stand in the way. You can't rewrite everybody's patches, you can't second-guess everybody, and you have to give people equal control.",
+        "author": {
+            "name": "Rasmus Lerdorf",
+            "url": "/authors/rasmus_lerdorf"
+        },
+        "topics": [
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            },
+            {
+                "name": "Everybody",
+                "url": "/topics/everybody"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/tim_bernerslee_373107?src=t_open_source",
+        "quote": "Intellectual property is an important legal and cultural issue. Society as a whole has complex issues to face here: private ownership vs. open source, and so on.",
+        "author": {
+            "name": "Tim Berners-Lee",
+            "url": "/authors/tim_bernerslee"
+        },
+        "topics": [
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            },
+            {
+                "name": "Private",
+                "url": "/topics/private"
+            },
+            {
+                "name": "Issue",
+                "url": "/topics/issue"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bill_gates_626110?src=t_open_source",
+        "quote": "Certainly there's a phenomenon around open source. You know free software will be a vibrant area. There will be a lot of neat things that get done there.",
+        "author": {
+            "name": "Bill Gates",
+            "url": "/authors/bill_gates"
+        },
+        "topics": [
+            {
+                "name": "Vibrant",
+                "url": "/topics/vibrant"
+            },
+            {
+                "name": "Area",
+                "url": "/topics/area"
+            },
+            {
+                "name": "Certainly",
+                "url": "/topics/certainly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/linus_torvalds_587374?src=t_open_source",
+        "quote": "I think, fundamentally, open source does tend to be more stable software. It's the right way to do things.",
+        "author": {
+            "name": "Linus Torvalds",
+            "url": "/authors/linus_torvalds"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_friedman_416673?src=t_open_source",
+        "quote": "Al Qaeda is nothing more than a mutant supply chain. They're playing off the same platform as Wal-Mart and Dell. They're just not restrained by it. What is al Qaeda? It's an open source religious political movement that works off the global supply chain. That's what we're up against in Iraq. We're up against a suicide supply chain.",
+        "author": {
+            "name": "Thomas Friedman",
+            "url": "/authors/thomas_friedman"
+        },
+        "topics": [
+            {
+                "name": "Religious",
+                "url": "/topics/religious"
+            },
+            {
+                "name": "Wal-Mart",
+                "url": "/topics/wal-mart"
+            },
+            {
+                "name": "Works",
+                "url": "/topics/works"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/margaret_heffernan_556958?src=t_open_source",
+        "quote": "Huge open source organizations like Red Hat and Mozilla manage the collaboration of hundreds of people who don't know one another and have spent no time hanging around the water cooler.",
+        "author": {
+            "name": "Margaret Heffernan",
+            "url": "/authors/margaret_heffernan"
+        },
+        "topics": [
+            {
+                "name": "No Time",
+                "url": "/topics/no_time"
+            },
+            {
+                "name": "Source",
+                "url": "/topics/source"
+            },
+            {
+                "name": "Another",
+                "url": "/topics/another"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sundar_pichai_725006?src=t_open_source",
+        "quote": "Android phones in China are more 'Android open source' rather than Android in the way we are all used to here. So a lot of phones don't have Google Play, etc.",
+        "author": {
+            "name": "Sundar Pichai",
+            "url": "/authors/sundar_pichai"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            },
+            {
+                "name": "Rather",
+                "url": "/topics/rather"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/matt_mullenweg_652916?src=t_open_source",
+        "quote": "For me, open source is a moral thing.",
+        "author": {
+            "name": "Matt Mullenweg",
+            "url": "/authors/matt_mullenweg"
+        },
+        "topics": [
+            {
+                "name": "Me",
+                "url": "/topics/me"
+            },
+            {
+                "name": "Source",
+                "url": "/topics/source"
+            },
+            {
+                "name": "Thing",
+                "url": "/topics/thing"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mitch_kapor_690392?src=t_open_source",
+        "quote": "The main languages out of which web applications are built - whether it's Perl or Python or PHP or any of the other languages - those are all open source languages. So the infrastructure of the web is open source... the web as we know it is completely dependent on open source.",
+        "author": {
+            "name": "Mitch Kapor",
+            "url": "/authors/mitch_kapor"
+        },
+        "topics": [
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Source",
+                "url": "/topics/source"
+            },
+            {
+                "name": "Main",
+                "url": "/topics/main"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mitchell_baker_672232?src=t_open_source",
+        "quote": "The question of trademark is pretty unsettled in the open source world. The trademark is important in a consumer product, but there are a few groups who feel it's a restriction they can't live with.",
+        "author": {
+            "name": "Mitchell Baker",
+            "url": "/authors/mitchell_baker"
+        },
+        "topics": [
+            {
+                "name": "Question",
+                "url": "/topics/question"
+            },
+            {
+                "name": "Pretty",
+                "url": "/topics/pretty"
+            },
+            {
+                "name": "Product",
+                "url": "/topics/product"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brian_behlendorf_649733?src=t_open_source",
+        "quote": "In true open source development, there's lots of visibility all the way through the development process.",
+        "author": {
+            "name": "Brian Behlendorf",
+            "url": "/authors/brian_behlendorf"
+        },
+        "topics": [
+            {
+                "name": "Development",
+                "url": "/topics/development"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Lots",
+                "url": "/topics/lots"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/peter_fenton_692342?src=t_open_source",
+        "quote": "In open source, you really have to be near the watershed to have an impact on the source code. Customers want to be near the key contributors to the code, not a level removed.",
+        "author": {
+            "name": "Peter Fenton",
+            "url": "/authors/peter_fenton"
+        },
+        "topics": [
+            {
+                "name": "Level",
+                "url": "/topics/level"
+            },
+            {
+                "name": "Code",
+                "url": "/topics/code"
+            },
+            {
+                "name": "Watershed",
+                "url": "/topics/watershed"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/meltem_demirors_851313?src=t_open_source",
+        "quote": "In the world of digital currencies, the social network around open source projects has become a critical test bed for ideas, products, services, and early users.",
+        "author": {
+            "name": "Meltem Demirors",
+            "url": "/authors/meltem_demirors"
+        },
+        "topics": [
+            {
+                "name": "Digital",
+                "url": "/topics/digital"
+            },
+            {
+                "name": "Bed",
+                "url": "/topics/bed"
+            },
+            {
+                "name": "Projects",
+                "url": "/topics/projects"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/gus_odonnell_476262?src=t_open_source",
+        "quote": "It's amazing what you can get on open source now if you actually use the right search engines to find the material.",
+        "author": {
+            "name": "Gus O'Donnell",
+            "url": "/authors/gus_odonnell"
+        },
+        "topics": [
+            {
+                "name": "Right",
+                "url": "/topics/right"
+            },
+            {
+                "name": "Use",
+                "url": "/topics/use"
+            },
+            {
+                "name": "Source",
+                "url": "/topics/source"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/golan_levin_559499?src=t_open_source",
+        "quote": "The free sharing and teaching of open source is incompatible with the notion of the solitary genius.",
+        "author": {
+            "name": "Golan Levin",
+            "url": "/authors/golan_levin"
+        },
+        "topics": [
+            {
+                "name": "Genius",
+                "url": "/topics/genius"
+            },
+            {
+                "name": "Incompatible",
+                "url": "/topics/incompatible"
+            },
+            {
+                "name": "Notion",
+                "url": "/topics/notion"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/thomas_friedman_473447?src=t_open_source",
+        "quote": "What is al Qaeda? It's an open source religious political movement that works off the global supply chain.",
+        "author": {
+            "name": "Thomas Friedman",
+            "url": "/authors/thomas_friedman"
+        },
+        "topics": [
+            {
+                "name": "Religious",
+                "url": "/topics/religious"
+            },
+            {
+                "name": "Works",
+                "url": "/topics/works"
+            },
+            {
+                "name": "Chain",
+                "url": "/topics/chain"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/douglas_rushkoff_585222?src=t_open_source",
+        "quote": "Open source is a beautiful way of collaborating; but what's happening on the free Internet is more akin to the 'crowdsourcing' of journalists and other content creators by advertisers who no longer have to pay them - only the search engines that parse their articles.",
+        "author": {
+            "name": "Douglas Rushkoff",
+            "url": "/authors/douglas_rushkoff"
+        },
+        "topics": [
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Source",
+                "url": "/topics/source"
+            },
+            {
+                "name": "Creators",
+                "url": "/topics/creators"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_carmack_775984?src=t_open_source",
+        "quote": "I am greatly proud of the fact that 'Doom' is one of those things where everything that has a 32-bit processor has had 'Doom' run on it, and I think that's been one of the great aspects of having it be open source: having everything out there means that people have maintained that and kept it up to date.",
+        "author": {
+            "name": "John Carmack",
+            "url": "/authors/john_carmack"
+        },
+        "topics": [
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Date",
+                "url": "/topics/date"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/safra_a_catz_697589?src=t_open_source",
+        "quote": "If you are in this business long enough, you hear about a thousand things that are going to kill you. Open source? Yeah, we are not dead yet. Cloud? That's not new; it's a new name.",
+        "author": {
+            "name": "Safra A. Catz",
+            "url": "/authors/safra_a_catz"
+        },
+        "topics": [
+            {
+                "name": "Business",
+                "url": "/topics/business"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/howard_rheingold_560056?src=t_open_source",
+        "quote": "Open source production has shown us that world-class software, like Linux and Mozilla, can be created with neither the bureaucratic structure of the firm nor the incentives of the marketplace as we've known them.",
+        "author": {
+            "name": "Howard Rheingold",
+            "url": "/authors/howard_rheingold"
+        },
+        "topics": [
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "World-Class",
+                "url": "/topics/world-class"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/sundar_pichai_672180?src=t_open_source",
+        "quote": "Open platforms historically undergo a lot of scrutiny, but there are a lot of advantages to having an open source platform from a security standpoint.",
+        "author": {
+            "name": "Sundar Pichai",
+            "url": "/authors/sundar_pichai"
+        },
+        "topics": [
+            {
+                "name": "Source",
+                "url": "/topics/source"
+            },
+            {
+                "name": "Having",
+                "url": "/topics/having"
+            },
+            {
+                "name": "Scrutiny",
+                "url": "/topics/scrutiny"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/vint_cerf_605918?src=t_open_source",
+        "quote": "The Internet browser is the most susceptible to viruses. The browser is naive about downloading and executing software. Google is trying to help by releasing the Chrome browser as open source.",
+        "author": {
+            "name": "Vint Cerf",
+            "url": "/authors/vint_cerf"
+        },
+        "topics": [
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Viruses",
+                "url": "/topics/viruses"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/matt_mullenweg_541100?src=t_open_source",
+        "quote": "We're not done yet, but two things WordPress has been able to exemplify is that open source can create great user experiences and that it's possible to have a successful commercial entity and a wider free software community living and working in harmony.",
+        "author": {
+            "name": "Matt Mullenweg",
+            "url": "/authors/matt_mullenweg"
+        },
+        "topics": [
+            {
+                "name": "Harmony",
+                "url": "/topics/harmony"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            },
+            {
+                "name": "Wider",
+                "url": "/topics/wider"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/matt_mullenweg_541096?src=t_open_source",
+        "quote": "When I first got into technology I didn't really understand what open source was. Once I started writing software, I realized how important this would be.",
+        "author": {
+            "name": "Matt Mullenweg",
+            "url": "/authors/matt_mullenweg"
+        },
+        "topics": [
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "Understand",
+                "url": "/topics/understand"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/matt_mullenweg_541098?src=t_open_source",
+        "quote": "WordPress.com is the only service of its kind that not only lets you export your data, but gives you an open source package you can run on pretty much any web host out there to run your own instance of the software. So the freedom is really in your hands.",
+        "author": {
+            "name": "Matt Mullenweg",
+            "url": "/authors/matt_mullenweg"
+        },
+        "topics": [
+            {
+                "name": "Data",
+                "url": "/topics/data"
+            },
+            {
+                "name": "Hands",
+                "url": "/topics/hands"
+            },
+            {
+                "name": "Instance",
+                "url": "/topics/instance"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/matt_mullenweg_541103?src=t_open_source",
+        "quote": "The biggest challenge for open source is that as it enters the consumer market, as projects like WordPress and Firefox have done, you have to create a user experience that is on par or better than the proprietary alternatives.",
+        "author": {
+            "name": "Matt Mullenweg",
+            "url": "/authors/matt_mullenweg"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Par",
+                "url": "/topics/par"
+            },
+            {
+                "name": "Projects",
+                "url": "/topics/projects"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/matt_mullenweg_541113?src=t_open_source",
+        "quote": "One thing about open source is that even the failures contribute to the next thing that comes up. Unlike a company that could spend a million dollars in two years and fail and there's nothing really to show for it, if you spend a million dollars on open source, you probably have something amazing that other people can build on.",
+        "author": {
+            "name": "Matt Mullenweg",
+            "url": "/authors/matt_mullenweg"
+        },
+        "topics": [
+            {
+                "name": "Next",
+                "url": "/topics/next"
+            },
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/matt_mullenweg_541117?src=t_open_source",
+        "quote": "There are two main methodologies of open source development. There's the Apache model, which is design by committee - great for things like web servers. Then you have the benevolent dictator model. That's what Ubuntu is doing, with Mark Shuttleworth.",
+        "author": {
+            "name": "Matt Mullenweg",
+            "url": "/authors/matt_mullenweg"
+        },
+        "topics": [
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Source",
+                "url": "/topics/source"
+            },
+            {
+                "name": "Main",
+                "url": "/topics/main"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/matt_mullenweg_652956?src=t_open_source",
+        "quote": "Philip Greenspun had a huge impact on me. He was the first person I knew of that embraced online communities, created a real business around open source, gave back to the community through education, and inspired me to explore photography.",
+        "author": {
+            "name": "Matt Mullenweg",
+            "url": "/authors/matt_mullenweg"
+        },
+        "topics": [
+            {
+                "name": "Education",
+                "url": "/topics/education"
+            },
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Back",
+                "url": "/topics/back"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/matt_mullenweg_652963?src=t_open_source",
+        "quote": "The more money Automattic makes, the more we invest into Free and Open Source software that belongs to everybody and services to make that software sing.",
+        "author": {
+            "name": "Matt Mullenweg",
+            "url": "/authors/matt_mullenweg"
+        },
+        "topics": [
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Everybody",
+                "url": "/topics/everybody"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/matt_mullenweg_652980?src=t_open_source",
+        "quote": "It seems like the web, particularly software as a service, provides ample opportunities for you to flourish economically, completely aligned with the broader open source community.",
+        "author": {
+            "name": "Matt Mullenweg",
+            "url": "/authors/matt_mullenweg"
+        },
+        "topics": [
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Particularly",
+                "url": "/topics/particularly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/matt_mullenweg_652982?src=t_open_source",
+        "quote": "If you think of the ideas of open source applied to information in an encyclopedia, you get to Wikipedia - lots and lots of small contributions that bubble up to something that's meaningful.",
+        "author": {
+            "name": "Matt Mullenweg",
+            "url": "/authors/matt_mullenweg"
+        },
+        "topics": [
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Lots And Lots",
+                "url": "/topics/lots_and_lots"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mitch_kapor_690391?src=t_open_source",
+        "quote": "The accomplishment of open source is that it is the back end of the web, the invisible part, the part that you don't see as a user.",
+        "author": {
+            "name": "Mitch Kapor",
+            "url": "/authors/mitch_kapor"
+        },
+        "topics": [
+            {
+                "name": "Invisible",
+                "url": "/topics/invisible"
+            },
+            {
+                "name": "Back",
+                "url": "/topics/back"
+            },
+            {
+                "name": "Part",
+                "url": "/topics/part"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mitch_kapor_690433?src=t_open_source",
+        "quote": "Open source can propagate to fill all the nooks and crannies that people want it to fill.",
+        "author": {
+            "name": "Mitch Kapor",
+            "url": "/authors/mitch_kapor"
+        },
+        "topics": [
+            {
+                "name": "Want",
+                "url": "/topics/want"
+            },
+            {
+                "name": "Source",
+                "url": "/topics/source"
+            },
+            {
+                "name": "Fill",
+                "url": "/topics/fill"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/richard_stallman_655289?src=t_open_source",
+        "quote": "Many users of the GNU/Linux system will not have heard the ideas of free software. They will not be aware that we have ideas, that a system exists because of ethical ideals, which were omitted from ideas associated with the term 'open source.'",
+        "author": {
+            "name": "Richard Stallman",
+            "url": "/authors/richard_stallman"
+        },
+        "topics": [
+            {
+                "name": "Software",
+                "url": "/topics/software"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Ideals",
+                "url": "/topics/ideals"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/megan_smith_708527?src=t_open_source",
+        "quote": "I think open source is an evolutionary idea for humanity, this idea of transparency. It played out for us in the technology world, but it also played out with the idea of a truth and reconciliation commission and Wikipedia.",
+        "author": {
+            "name": "Megan Smith",
+            "url": "/authors/megan_smith"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Idea",
+                "url": "/topics/idea"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mitchell_baker_208878?src=t_open_source",
+        "quote": "Many people think that open source projects are sort of chaotic and and anarchistic. They think that developers randomly throw code at the code base and see what sticks.",
+        "author": {
+            "name": "Mitchell Baker",
+            "url": "/authors/mitchell_baker"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Projects",
+                "url": "/topics/projects"
+            },
+            {
+                "name": "Code",
+                "url": "/topics/code"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mitchell_baker_208886?src=t_open_source",
+        "quote": "We have a very active testing community which people don't often think about when you have open source.",
+        "author": {
+            "name": "Mitchell Baker",
+            "url": "/authors/mitchell_baker"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/mitchell_baker_672241?src=t_open_source",
+        "quote": "The name Firefox is not part of the open source licence, and that's why it's important to us.",
+        "author": {
+            "name": "Mitchell Baker",
+            "url": "/authors/mitchell_baker"
+        },
+        "topics": [
+            {
+                "name": "Important",
+                "url": "/topics/important"
+            },
+            {
+                "name": "Licence",
+                "url": "/topics/licence"
+            },
+            {
+                "name": "Part",
+                "url": "/topics/part"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/scott_weiss_687930?src=t_open_source",
+        "quote": "When my co-founder and I first had the idea for IronPort, an email security company, we triangulated a list of the 20 most relevant people in email - former CEOs, open source technologists, investors and thought leaders.",
+        "author": {
+            "name": "Scott Weiss",
+            "url": "/authors/scott_weiss"
+        },
+        "topics": [
+            {
+                "name": "Thought",
+                "url": "/topics/thought"
+            },
+            {
+                "name": "Idea",
+                "url": "/topics/idea"
+            },
+            {
+                "name": "Had",
+                "url": "/topics/had"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/larry_wall_367167?src=t_open_source",
+        "quote": "I think the way IBM has embraced the open source philosophy has been quite astonishing, but gratifying. I hope they'll do very well with it.",
+        "author": {
+            "name": "Larry Wall",
+            "url": "/authors/larry_wall"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/diane_greene_875232?src=t_open_source",
+        "quote": "Google is committed to open source and open APIs, and part of that is creating a partner-friendly place.",
+        "author": {
+            "name": "Diane Greene",
+            "url": "/authors/diane_greene"
+        },
+        "topics": [
+            {
+                "name": "Creating",
+                "url": "/topics/creating"
+            },
+            {
+                "name": "Committed",
+                "url": "/topics/committed"
+            },
+            {
+                "name": "Part",
+                "url": "/topics/part"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/miguel_de_icaza_232376?src=t_open_source",
+        "quote": "All of our code is open source, so it can be used for other projects.",
+        "author": {
+            "name": "Miguel de Icaza",
+            "url": "/authors/miguel_de_icaza"
+        },
+        "topics": [
+            {
+                "name": "Other",
+                "url": "/topics/other"
+            },
+            {
+                "name": "Code",
+                "url": "/topics/code"
+            },
+            {
+                "name": "Projects",
+                "url": "/topics/projects"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/peter_levine_895767?src=t_open_source",
+        "quote": "I have really become a huge believer in the power of open source.",
+        "author": {
+            "name": "Peter Levine",
+            "url": "/authors/peter_levine"
+        },
+        "topics": [
+            {
+                "name": "Power",
+                "url": "/topics/power"
+            },
+            {
+                "name": "Believer",
+                "url": "/topics/believer"
+            },
+            {
+                "name": "Huge",
+                "url": "/topics/huge"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/curt_weldon_291167?src=t_open_source",
+        "quote": "I would never jeopardize classified information to be brought out to the public. This information is all open source. There is no reason to worry about classification. It is simply an attempt by bureaucrats to cover their rear ends.",
+        "author": {
+            "name": "Curt Weldon",
+            "url": "/authors/curt_weldon"
+        },
+        "topics": [
+            {
+                "name": "Reason",
+                "url": "/topics/reason"
+            },
+            {
+                "name": "About",
+                "url": "/topics/about"
+            },
+            {
+                "name": "Brought",
+                "url": "/topics/brought"
+            }
+        ]
+    }
+]

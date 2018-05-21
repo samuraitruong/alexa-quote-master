@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/chet_baker_197273",
+        "quote": "The drummer; he inspired me to play like no one else I have ever met.",
+        "author": {
+            "name": "Chet Baker",
+            "url": "/quotes/chet_baker_197273"
+        },
+        "topics": [
+            {
+                "name": "Play",
+                "url": "/topics/play"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Ever",
+                "url": "/topics/ever"
+            }
+        ]
+    }
+]

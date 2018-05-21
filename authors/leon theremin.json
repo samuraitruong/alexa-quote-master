@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/leon_theremin_185078",
+        "quote": "I conceived of an instrument that would create sound without using any mechanical energy, like the conductor of an orchestra. The orchestra plays mechanically, using mechanical energy; the conductor just moves his hands, and his movements have an effect on the music artistry.",
+        "author": {
+            "name": "Leon Theremin",
+            "url": "/quotes/leon_theremin_185078"
+        },
+        "topics": [
+            {
+                "name": "Hands",
+                "url": "/topics/hands"
+            },
+            {
+                "name": "Using",
+                "url": "/topics/using"
+            },
+            {
+                "name": "Plays",
+                "url": "/topics/plays"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/leon_theremin_185079",
+        "quote": "There was one man who was interested in the color of music, the connection between light and music, and that was Einstein.",
+        "author": {
+            "name": "Leon Theremin",
+            "url": "/quotes/leon_theremin_185079"
+        },
+        "topics": [
+            {
+                "name": "Music",
+                "url": "/topics/music"
+            },
+            {
+                "name": "Light",
+                "url": "/topics/light"
+            },
+            {
+                "name": "Color",
+                "url": "/topics/color"
+            }
+        ]
+    }
+]

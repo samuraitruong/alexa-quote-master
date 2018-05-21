@@ -1,0 +1,112 @@
+[
+    {
+        "url": "/quotes/ted_engstrom_126389",
+        "quote": "The rewards for those who persevere far exceed the pain that must precede the victory.",
+        "author": {
+            "name": "Ted Engstrom",
+            "url": "/quotes/ted_engstrom_126389"
+        },
+        "topics": [
+            {
+                "name": "Pain",
+                "url": "/topics/pain"
+            },
+            {
+                "name": "Persevere",
+                "url": "/topics/persevere"
+            },
+            {
+                "name": "Far",
+                "url": "/topics/far"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ted_engstrom_178288",
+        "quote": "Anything that is wasted effort represents wasted time. The best management of our time thus becomes linked inseparably with the best utilization of our efforts.",
+        "author": {
+            "name": "Ted Engstrom",
+            "url": "/quotes/ted_engstrom_178288"
+        },
+        "topics": [
+            {
+                "name": "Best",
+                "url": "/topics/best"
+            },
+            {
+                "name": "Effort",
+                "url": "/topics/effort"
+            },
+            {
+                "name": "Thus",
+                "url": "/topics/thus"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ted_engstrom_178286",
+        "quote": "Excellence is a process that should occupy all our days.",
+        "author": {
+            "name": "Ted Engstrom",
+            "url": "/quotes/ted_engstrom_178286"
+        },
+        "topics": [
+            {
+                "name": "Excellence",
+                "url": "/topics/excellence"
+            },
+            {
+                "name": "Process",
+                "url": "/topics/process"
+            },
+            {
+                "name": "Occupy",
+                "url": "/topics/occupy"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ted_engstrom_126262",
+        "quote": "We must expect to fail... but fail in a learning posture, determined no to repeat the mistakes, and to maximize the benefits from what is learned in the process.",
+        "author": {
+            "name": "Ted Engstrom",
+            "url": "/quotes/ted_engstrom_126262"
+        },
+        "topics": [
+            {
+                "name": "Process",
+                "url": "/topics/process"
+            },
+            {
+                "name": "Learned",
+                "url": "/topics/learned"
+            },
+            {
+                "name": "Benefits",
+                "url": "/topics/benefits"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ted_engstrom_178289",
+        "quote": "What do you want to get done? In what order of importance? Over what period of time? What is the time available? What is the best strategy for application of time to projects for the most effective results?",
+        "author": {
+            "name": "Ted Engstrom",
+            "url": "/quotes/ted_engstrom_178289"
+        },
+        "topics": [
+            {
+                "name": "Over",
+                "url": "/topics/over"
+            },
+            {
+                "name": "Projects",
+                "url": "/topics/projects"
+            },
+            {
+                "name": "Period",
+                "url": "/topics/period"
+            }
+        ]
+    }
+]

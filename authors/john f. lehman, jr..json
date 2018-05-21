@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/john_f_lehman_jr_117449",
+        "quote": "We are opening up an enormous new era in archaeology. Time capsules in the deep oceans.",
+        "author": {
+            "name": "John F. Lehman, Jr.",
+            "url": "/quotes/john_f_lehman_jr_117449"
+        },
+        "topics": [
+            {
+                "name": "Deep",
+                "url": "/topics/deep"
+            },
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Era",
+                "url": "/topics/era"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/john_f_lehman_jr_142321",
+        "quote": "Power corrupts. Absolute power is kind of neat.",
+        "author": {
+            "name": "John F. Lehman, Jr.",
+            "url": "/quotes/john_f_lehman_jr_142321"
+        },
+        "topics": [
+            {
+                "name": "Kind",
+                "url": "/topics/kind"
+            },
+            {
+                "name": "Neat",
+                "url": "/topics/neat"
+            },
+            {
+                "name": "Absolute",
+                "url": "/topics/absolute"
+            }
+        ]
+    }
+]

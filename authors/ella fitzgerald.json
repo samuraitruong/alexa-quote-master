@@ -1,0 +1,130 @@
+[
+    {
+        "url": "/quotes/ella_fitzgerald_131711",
+        "quote": "The only thing better than singing is more singing.",
+        "author": {
+            "name": "Ella Fitzgerald",
+            "url": "/quotes/ella_fitzgerald_131711"
+        },
+        "topics": [
+            {
+                "name": "Birthday",
+                "url": "/topics/birthday"
+            },
+            {
+                "name": "Singing",
+                "url": "/topics/singing"
+            },
+            {
+                "name": "Better",
+                "url": "/topics/better"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ella_fitzgerald_446080",
+        "quote": "I'm very shy, and I shy away from people. But the moment I hit the stage, it's a different feeling I get nerve from somewhere; maybe it's because it's something I love to do.",
+        "author": {
+            "name": "Ella Fitzgerald",
+            "url": "/quotes/ella_fitzgerald_446080"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Away",
+                "url": "/topics/away"
+            },
+            {
+                "name": "Very",
+                "url": "/topics/very"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ella_fitzgerald_102874",
+        "quote": "Just don't give up trying to do what you really want to do. Where there is love and inspiration, I don't think you can go wrong.",
+        "author": {
+            "name": "Ella Fitzgerald",
+            "url": "/quotes/ella_fitzgerald_102874"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Inspirational",
+                "url": "/topics/inspirational"
+            },
+            {
+                "name": "Give",
+                "url": "/topics/give"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ella_fitzgerald_131712",
+        "quote": "It isn't where you came from, its where you're going that counts.",
+        "author": {
+            "name": "Ella Fitzgerald",
+            "url": "/quotes/ella_fitzgerald_131712"
+        },
+        "topics": [
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Counts",
+                "url": "/topics/counts"
+            },
+            {
+                "name": "Came",
+                "url": "/topics/came"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ella_fitzgerald_100283",
+        "quote": "I stole everything I ever heard, but mostly I stole from the horns.",
+        "author": {
+            "name": "Ella Fitzgerald",
+            "url": "/quotes/ella_fitzgerald_100283"
+        },
+        "topics": [
+            {
+                "name": "Everything",
+                "url": "/topics/everything"
+            },
+            {
+                "name": "Ever",
+                "url": "/topics/ever"
+            },
+            {
+                "name": "Mostly",
+                "url": "/topics/mostly"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/ella_fitzgerald_446079",
+        "quote": "Did I do all right?",
+        "author": {
+            "name": "Ella Fitzgerald",
+            "url": "/quotes/ella_fitzgerald_446079"
+        },
+        "topics": [
+            {
+                "name": "Right",
+                "url": "/topics/right"
+            },
+            {
+                "name": "Did",
+                "url": "/topics/did"
+            }
+        ]
+    }
+]

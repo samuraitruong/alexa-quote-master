@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/titus_192960",
+        "quote": "Alas, I think I am becoming a god.",
+        "author": {
+            "name": "Titus",
+            "url": "/quotes/titus_192960"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            },
+            {
+                "name": "Alas",
+                "url": "/topics/alas"
+            }
+        ]
+    }
+]

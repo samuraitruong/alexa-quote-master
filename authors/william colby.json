@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/william_colby_359157",
+        "quote": "Let's not go through that again. Redirect it, reduce the amount of money spent, but let's not destroy it. Because you don't know 10 years out what you're going to face.",
+        "author": {
+            "name": "William Colby",
+            "url": "/quotes/william_colby_359157"
+        },
+        "topics": [
+            {
+                "name": "Through",
+                "url": "/topics/through"
+            },
+            {
+                "name": "Reduce",
+                "url": "/topics/reduce"
+            },
+            {
+                "name": "Amount",
+                "url": "/topics/amount"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/william_colby_359158",
+        "quote": "South Vietnam faces total defeat, and soon.",
+        "author": {
+            "name": "William Colby",
+            "url": "/quotes/william_colby_359158"
+        },
+        "topics": [
+            {
+                "name": "Defeat",
+                "url": "/topics/defeat"
+            },
+            {
+                "name": "Total",
+                "url": "/topics/total"
+            },
+            {
+                "name": "South",
+                "url": "/topics/south"
+            }
+        ]
+    }
+]

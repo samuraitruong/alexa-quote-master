@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/susan_lim_554141",
+        "quote": "It was clear to me from the start that I would need to combine both a medical degree with a research qualification, to keep at the cutting edge of medical science and technology.",
+        "author": {
+            "name": "Susan Lim",
+            "url": "/quotes/susan_lim_554141"
+        },
+        "topics": [
+            {
+                "name": "Medical",
+                "url": "/topics/medical"
+            },
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            },
+            {
+                "name": "Clear",
+                "url": "/topics/clear"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/susan_lim_554142",
+        "quote": "I divide my time equally between teaching and research.",
+        "author": {
+            "name": "Susan Lim",
+            "url": "/quotes/susan_lim_554142"
+        },
+        "topics": [
+            {
+                "name": "Divide",
+                "url": "/topics/divide"
+            },
+            {
+                "name": "My Time",
+                "url": "/topics/my_time"
+            },
+            {
+                "name": "Equally",
+                "url": "/topics/equally"
+            }
+        ]
+    }
+]

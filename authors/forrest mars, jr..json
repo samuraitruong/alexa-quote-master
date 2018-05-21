@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/forrest_mars_jr_685255",
+        "quote": "I'm a religious man. I pray for Milky Way.",
+        "author": {
+            "name": "Forrest Mars, Jr.",
+            "url": "/quotes/forrest_mars_jr_685255"
+        },
+        "topics": [
+            {
+                "name": "Man",
+                "url": "/topics/man"
+            },
+            {
+                "name": "Religious",
+                "url": "/topics/religious"
+            },
+            {
+                "name": "Pray For",
+                "url": "/topics/pray_for"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/forrest_mars_jr_685256",
+        "quote": "If you make a really good product that people want and are willing to pay for, money will come.",
+        "author": {
+            "name": "Forrest Mars, Jr.",
+            "url": "/quotes/forrest_mars_jr_685256"
+        },
+        "topics": [
+            {
+                "name": "Product",
+                "url": "/topics/product"
+            },
+            {
+                "name": "Will",
+                "url": "/topics/will"
+            },
+            {
+                "name": "Willing",
+                "url": "/topics/willing"
+            }
+        ]
+    }
+]

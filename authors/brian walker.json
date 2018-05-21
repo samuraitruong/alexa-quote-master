@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/brian_walker_194784",
+        "quote": "Remember, I am not trying to orbit the earth. It is a simple elevator ride for 20 minutes.",
+        "author": {
+            "name": "Brian Walker",
+            "url": "/quotes/brian_walker_194784"
+        },
+        "topics": [
+            {
+                "name": "I Am",
+                "url": "/topics/i_am"
+            },
+            {
+                "name": "Remember",
+                "url": "/topics/remember"
+            },
+            {
+                "name": "Elevator",
+                "url": "/topics/elevator"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brian_walker_404956",
+        "quote": "Charlie Brown is almost a tragic figure.",
+        "author": {
+            "name": "Brian Walker",
+            "url": "/quotes/brian_walker_404956"
+        },
+        "topics": [
+            {
+                "name": "Charlie Brown",
+                "url": "/topics/charlie_brown"
+            },
+            {
+                "name": "Figure",
+                "url": "/topics/figure"
+            }
+        ]
+    }
+]

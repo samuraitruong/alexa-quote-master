@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/georges_seurat_404133",
+        "quote": "Originality depends only on the character of the drawing and the vision peculiar to each artist.",
+        "author": {
+            "name": "Georges Seurat",
+            "url": "/quotes/georges_seurat_404133"
+        },
+        "topics": [
+            {
+                "name": "Character",
+                "url": "/topics/character"
+            },
+            {
+                "name": "Vision",
+                "url": "/topics/vision"
+            },
+            {
+                "name": "Depends",
+                "url": "/topics/depends"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/georges_seurat_404191",
+        "quote": "Some say they see poetry in my paintings; I see only science.",
+        "author": {
+            "name": "Georges Seurat",
+            "url": "/quotes/georges_seurat_404191"
+        },
+        "topics": [
+            {
+                "name": "See",
+                "url": "/topics/see"
+            },
+            {
+                "name": "Some",
+                "url": "/topics/some"
+            },
+            {
+                "name": "Paintings",
+                "url": "/topics/paintings"
+            }
+        ]
+    }
+]

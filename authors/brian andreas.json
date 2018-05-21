@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/brian_andreas_522252",
+        "quote": "There really is only one story that you need to tell as a scientist or a technologist. It's Prometheus stealing fire. That's it. That's what we do as scientists or technologists.",
+        "author": {
+            "name": "Brian Andreas",
+            "url": "/quotes/brian_andreas_522252"
+        },
+        "topics": [
+            {
+                "name": "Tell",
+                "url": "/topics/tell"
+            },
+            {
+                "name": "Need",
+                "url": "/topics/need"
+            },
+            {
+                "name": "Scientist",
+                "url": "/topics/scientist"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/brian_andreas_537879",
+        "quote": "If you're talking to a child, you're going, 'This is the wonder of science and here's why I'm so fascinated by it.'",
+        "author": {
+            "name": "Brian Andreas",
+            "url": "/quotes/brian_andreas_537879"
+        },
+        "topics": [
+            {
+                "name": "Why",
+                "url": "/topics/why"
+            },
+            {
+                "name": "Going",
+                "url": "/topics/going"
+            },
+            {
+                "name": "Here",
+                "url": "/topics/here"
+            }
+        ]
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/sam_altman_714756?src=t_internet_startup",
+        "quote": "If you wanted to build an Internet startup in 2005, you had to buy your own servers and hire someone to manage it. Now, that's unheard of.",
+        "author": {
+            "name": "Sam Altman",
+            "url": "/authors/sam_altman"
+        },
+        "topics": [
+            {
+                "name": "Own",
+                "url": "/topics/own"
+            },
+            {
+                "name": "Hire",
+                "url": "/topics/hire"
+            },
+            {
+                "name": "Buy",
+                "url": "/topics/buy"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/jean_marais_338743",
+        "quote": "Life is unfair. I got nothing but the best.",
+        "author": {
+            "name": "Jean Marais",
+            "url": "/quotes/jean_marais_338743"
+        },
+        "topics": [
+            {
+                "name": "Best",
+                "url": "/topics/best"
+            },
+            {
+                "name": "Nothing",
+                "url": "/topics/nothing"
+            },
+            {
+                "name": "Unfair",
+                "url": "/topics/unfair"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/jean_marais_682803",
+        "quote": "What has always attracted me in life is poetry. Any genre can have poetry. For me, poetry contains truth.",
+        "author": {
+            "name": "Jean Marais",
+            "url": "/quotes/jean_marais_682803"
+        },
+        "topics": [
+            {
+                "name": "Truth",
+                "url": "/topics/truth"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Contains",
+                "url": "/topics/contains"
+            }
+        ]
+    }
+]

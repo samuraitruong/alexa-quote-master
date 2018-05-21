@@ -1,0 +1,42 @@
+[
+    {
+        "url": "/quotes/antoni_tapies_622012",
+        "quote": "If I can't change the world, at least I want to change the way people look at it.",
+        "author": {
+            "name": "Antoni Tapies",
+            "url": "/quotes/antoni_tapies_622012"
+        },
+        "topics": [
+            {
+                "name": "Change The World",
+                "url": "/topics/change_the_world"
+            },
+            {
+                "name": "World",
+                "url": "/topics/world"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/antoni_tapies_622011",
+        "quote": "In our world, in which religious images are losing their meaning, in which our customs are getting more and more secular, we are losing our sense of the eternal. I think it's a loss that has done a great deal of damage to modern art. Painting is a return to origins.",
+        "author": {
+            "name": "Antoni Tapies",
+            "url": "/quotes/antoni_tapies_622011"
+        },
+        "topics": [
+            {
+                "name": "Deal",
+                "url": "/topics/deal"
+            },
+            {
+                "name": "Religious",
+                "url": "/topics/religious"
+            },
+            {
+                "name": "Damage",
+                "url": "/topics/damage"
+            }
+        ]
+    }
+]

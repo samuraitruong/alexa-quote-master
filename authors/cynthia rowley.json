@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/cynthia_rowley_452904",
+        "quote": "Everything looks cute when it's small.",
+        "author": {
+            "name": "Cynthia Rowley",
+            "url": "/quotes/cynthia_rowley_452904"
+        },
+        "topics": [
+            {
+                "name": "Small",
+                "url": "/topics/small"
+            },
+            {
+                "name": "Looks",
+                "url": "/topics/looks"
+            },
+            {
+                "name": "Everything",
+                "url": "/topics/everything"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/cynthia_rowley_452902",
+        "quote": "I try to look at design from a more conceptual standpoint.",
+        "author": {
+            "name": "Cynthia Rowley",
+            "url": "/quotes/cynthia_rowley_452902"
+        },
+        "topics": [
+            {
+                "name": "Design",
+                "url": "/topics/design"
+            },
+            {
+                "name": "More",
+                "url": "/topics/more"
+            },
+            {
+                "name": "Standpoint",
+                "url": "/topics/standpoint"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/cynthia_rowley_452903",
+        "quote": "Art has definitely influenced how I think of design, both as individual items and as a body of work.",
+        "author": {
+            "name": "Cynthia Rowley",
+            "url": "/quotes/cynthia_rowley_452903"
+        },
+        "topics": [
+            {
+                "name": "Art",
+                "url": "/topics/art"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "I Think",
+                "url": "/topics/i_think"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/cynthia_rowley_452905",
+        "quote": "I think for love to work you have to be with someone who you want to talk to before going to bed at night.",
+        "author": {
+            "name": "Cynthia Rowley",
+            "url": "/quotes/cynthia_rowley_452905"
+        },
+        "topics": [
+            {
+                "name": "Love",
+                "url": "/topics/love"
+            },
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Bed",
+                "url": "/topics/bed"
+            }
+        ]
+    }
+]

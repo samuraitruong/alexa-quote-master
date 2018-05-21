@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/andy_whitfield_493573",
+        "quote": "So when I look in the mirror I'm driven by both vanity and fear.",
+        "author": {
+            "name": "Andy Whitfield",
+            "url": "/quotes/andy_whitfield_493573"
+        },
+        "topics": [
+            {
+                "name": "Mirror",
+                "url": "/topics/mirror"
+            },
+            {
+                "name": "Look",
+                "url": "/topics/look"
+            },
+            {
+                "name": "Driven",
+                "url": "/topics/driven"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/andy_whitfield_493574",
+        "quote": "For 'Spartacus,' we've committed 100 percent of our production time to creating great scenes. So all the training I do is on my own time. And that's pretty limited.",
+        "author": {
+            "name": "Andy Whitfield",
+            "url": "/quotes/andy_whitfield_493574"
+        },
+        "topics": [
+            {
+                "name": "Pretty",
+                "url": "/topics/pretty"
+            },
+            {
+                "name": "Committed",
+                "url": "/topics/committed"
+            },
+            {
+                "name": "Limited",
+                "url": "/topics/limited"
+            }
+        ]
+    }
+]

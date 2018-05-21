@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/paige_ohara_538613",
+        "quote": "I'm older and wiser, but I still dream of doing new things and creating new things.",
+        "author": {
+            "name": "Paige O'Hara",
+            "url": "/quotes/paige_ohara_538613"
+        },
+        "topics": [
+            {
+                "name": "New",
+                "url": "/topics/new"
+            },
+            {
+                "name": "Wiser",
+                "url": "/topics/wiser"
+            },
+            {
+                "name": "Still",
+                "url": "/topics/still"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/paige_ohara_538612",
+        "quote": "I've been working with Disney all these years doing voice work, and now I'm signed with Disney Fine Arts, doing 'Beauty and the Beast' oil paintings. So it's been an ongoing wonderful job.",
+        "author": {
+            "name": "Paige O'Hara",
+            "url": "/quotes/paige_ohara_538612"
+        },
+        "topics": [
+            {
+                "name": "Voice",
+                "url": "/topics/voice"
+            },
+            {
+                "name": "Doing",
+                "url": "/topics/doing"
+            },
+            {
+                "name": "Been",
+                "url": "/topics/been"
+            }
+        ]
+    }
+]

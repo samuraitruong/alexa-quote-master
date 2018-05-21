@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/martha_scott_193969",
+        "quote": "Do not make the mistake of treating your dogs like humans or they will treat you like dogs.",
+        "author": {
+            "name": "Martha Scott",
+            "url": "/quotes/martha_scott_193969"
+        },
+        "topics": [
+            {
+                "name": "Pet",
+                "url": "/topics/pet"
+            },
+            {
+                "name": "Mistake",
+                "url": "/topics/mistake"
+            },
+            {
+                "name": "Treat",
+                "url": "/topics/treat"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/david_janssen_589773",
+        "quote": "I was always the leading man's best friend's best friend.",
+        "author": {
+            "name": "David Janssen",
+            "url": "/quotes/david_janssen_589773"
+        },
+        "topics": [
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Friend",
+                "url": "/topics/friend"
+            },
+            {
+                "name": "Leading",
+                "url": "/topics/leading"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/david_janssen_589772",
+        "quote": "TV is my sleeping pill.",
+        "author": {
+            "name": "David Janssen",
+            "url": "/quotes/david_janssen_589772"
+        },
+        "topics": [
+            {
+                "name": "Sleeping",
+                "url": "/topics/sleeping"
+            },
+            {
+                "name": "Pill",
+                "url": "/topics/pill"
+            },
+            {
+                "name": "TV",
+                "url": "/topics/tv"
+            }
+        ]
+    }
+]

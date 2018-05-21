@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/barton_booth_228332",
+        "quote": "True as the needle to the pole, Or as the dial to the sun.",
+        "author": {
+            "name": "Barton Booth",
+            "url": "/quotes/barton_booth_228332"
+        },
+        "topics": [
+            {
+                "name": "True",
+                "url": "/topics/true"
+            },
+            {
+                "name": "Needle",
+                "url": "/topics/needle"
+            },
+            {
+                "name": "Pole",
+                "url": "/topics/pole"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/barton_booth_228334",
+        "quote": "Touch'd either the Passions of Rage or Grief to a Miracle.",
+        "author": {
+            "name": "Barton Booth",
+            "url": "/quotes/barton_booth_228334"
+        },
+        "topics": [
+            {
+                "name": "Miracle",
+                "url": "/topics/miracle"
+            },
+            {
+                "name": "Rage",
+                "url": "/topics/rage"
+            },
+            {
+                "name": "Either",
+                "url": "/topics/either"
+            }
+        ]
+    }
+]

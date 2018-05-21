@@ -1,0 +1,68 @@
+[
+    {
+        "url": "/quotes/juan_benet_851495?src=t_filecoin",
+        "quote": "Filecoin is a decentralized storage market - think of it like Airbnb for cloud storage - where anybody with extra hard drive space can sell it on the network.",
+        "author": {
+            "name": "Juan Benet",
+            "url": "/authors/juan_benet"
+        },
+        "topics": [
+            {
+                "name": "Think",
+                "url": "/topics/think"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Anybody",
+                "url": "/topics/anybody"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/juan_benet_851493?src=t_filecoin",
+        "quote": "The purpose of the Filecoin currency is to create a fungible token that can be spent to hire the miner network to store files. The first and foremost use of the currency is precisely this: locking it up as a reward to miners who successfully store data on the network.",
+        "author": {
+            "name": "Juan Benet",
+            "url": "/authors/juan_benet"
+        },
+        "topics": [
+            {
+                "name": "Reward",
+                "url": "/topics/reward"
+            },
+            {
+                "name": "Hire",
+                "url": "/topics/hire"
+            },
+            {
+                "name": "Successfully",
+                "url": "/topics/successfully"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/juan_benet_851496?src=t_filecoin",
+        "quote": "Filecoin is a token with fundamental value. Filecoin is like Bitcoin, but miners amass hard drives instead of hashing computers.",
+        "author": {
+            "name": "Juan Benet",
+            "url": "/authors/juan_benet"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Fundamental",
+                "url": "/topics/fundamental"
+            },
+            {
+                "name": "Instead",
+                "url": "/topics/instead"
+            }
+        ]
+    }
+]

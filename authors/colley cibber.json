@@ -1,0 +1,90 @@
+[
+    {
+        "url": "/quotes/colley_cibber_158970",
+        "quote": "Thou strange piece of wild nature!",
+        "author": {
+            "name": "Colley Cibber",
+            "url": "/quotes/colley_cibber_158970"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "Thou",
+                "url": "/topics/thou"
+            },
+            {
+                "name": "Piece",
+                "url": "/topics/piece"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/colley_cibber_119272",
+        "quote": "It takes time for the absent to assume their true shape in our thoughts. After death they take on a firmer outline and then cease to change.",
+        "author": {
+            "name": "Colley Cibber",
+            "url": "/quotes/colley_cibber_119272"
+        },
+        "topics": [
+            {
+                "name": "Death",
+                "url": "/topics/death"
+            },
+            {
+                "name": "Thoughts",
+                "url": "/topics/thoughts"
+            },
+            {
+                "name": "Shape",
+                "url": "/topics/shape"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/colley_cibber_158971",
+        "quote": "You know, one had as good be out of the world, as out of the fashion.",
+        "author": {
+            "name": "Colley Cibber",
+            "url": "/quotes/colley_cibber_158971"
+        },
+        "topics": [
+            {
+                "name": "World",
+                "url": "/topics/world"
+            },
+            {
+                "name": "Know",
+                "url": "/topics/know"
+            },
+            {
+                "name": "Had",
+                "url": "/topics/had"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/colley_cibber_158972",
+        "quote": "Prithee don't screw your wit beyond the compass of good manners.",
+        "author": {
+            "name": "Colley Cibber",
+            "url": "/quotes/colley_cibber_158972"
+        },
+        "topics": [
+            {
+                "name": "Compass",
+                "url": "/topics/compass"
+            },
+            {
+                "name": "Good Manners",
+                "url": "/topics/good_manners"
+            },
+            {
+                "name": "Wit",
+                "url": "/topics/wit"
+            }
+        ]
+    }
+]

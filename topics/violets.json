@@ -1,0 +1,134 @@
+[
+    {
+        "url": "/quotes/tennessee_williams_105203?src=t_violets",
+        "quote": "The violets in the mountains have broken the rocks.",
+        "author": {
+            "name": "Tennessee Williams",
+            "url": "/authors/tennessee_williams"
+        },
+        "topics": [
+            {
+                "name": "Nature",
+                "url": "/topics/nature"
+            },
+            {
+                "name": "Mountains",
+                "url": "/topics/mountains"
+            },
+            {
+                "name": "Broken",
+                "url": "/topics/broken"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/oscar_levant_153325?src=t_violets",
+        "quote": "Roses are red, violets are blue, I'm schizophrenic, and so am I.",
+        "author": {
+            "name": "Oscar Levant",
+            "url": "/authors/oscar_levant"
+        },
+        "topics": [
+            {
+                "name": "Funny",
+                "url": "/topics/funny"
+            },
+            {
+                "name": "Red",
+                "url": "/topics/red"
+            },
+            {
+                "name": "Blue",
+                "url": "/topics/blue"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/bernard_williams_121008?src=t_violets",
+        "quote": "We may pass violets looking for roses. We may pass contentment looking for victory.",
+        "author": {
+            "name": "Bernard Williams",
+            "url": "/authors/bernard_williams"
+        },
+        "topics": [
+            {
+                "name": "May",
+                "url": "/topics/may"
+            },
+            {
+                "name": "Brainy",
+                "url": "/topics/brainy"
+            },
+            {
+                "name": "Pass",
+                "url": "/topics/pass"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/edna_ferber_131954?src=t_violets",
+        "quote": "Big doesn't necessarily mean better. Sunflowers aren't better than violets.",
+        "author": {
+            "name": "Edna Ferber",
+            "url": "/authors/edna_ferber"
+        },
+        "topics": [
+            {
+                "name": "Better",
+                "url": "/topics/better"
+            },
+            {
+                "name": "Mean",
+                "url": "/topics/mean"
+            },
+            {
+                "name": "Big",
+                "url": "/topics/big"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/robert_burns_182942?src=t_violets",
+        "quote": "The snowdrop and primrose our woodlands adorn, and violets bathe in the wet o' the morn.",
+        "author": {
+            "name": "Robert Burns",
+            "url": "/authors/robert_burns"
+        },
+        "topics": [
+            {
+                "name": "Wet",
+                "url": "/topics/wet"
+            },
+            {
+                "name": "Bathe",
+                "url": "/topics/bathe"
+            },
+            {
+                "name": "Our",
+                "url": "/topics/our"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/janos_bolyai_184857?src=t_violets",
+        "quote": "Mathematical discoveries, like springtime violets in the woods, have their season which no man can hasten or retard.",
+        "author": {
+            "name": "Janos Bolyai",
+            "url": "/authors/janos_bolyai"
+        },
+        "topics": [
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Springtime",
+                "url": "/topics/springtime"
+            }
+        ]
+    }
+]

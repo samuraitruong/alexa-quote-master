@@ -1,0 +1,46 @@
+[
+    {
+        "url": "/quotes/stephen_paulus_719412",
+        "quote": "Any opera is interesting if the characters are worth seeing.",
+        "author": {
+            "name": "Stephen Paulus",
+            "url": "/quotes/stephen_paulus_719412"
+        },
+        "topics": [
+            {
+                "name": "Opera",
+                "url": "/topics/opera"
+            },
+            {
+                "name": "Seeing",
+                "url": "/topics/seeing"
+            },
+            {
+                "name": "Characters",
+                "url": "/topics/characters"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/stephen_paulus_719411",
+        "quote": "My music is tonally based. There is plenty of dissonance, but it's used as a contrast. There is polytonality at times and a lot of rhythmic interplay.",
+        "author": {
+            "name": "Stephen Paulus",
+            "url": "/quotes/stephen_paulus_719411"
+        },
+        "topics": [
+            {
+                "name": "Used",
+                "url": "/topics/used"
+            },
+            {
+                "name": "Based",
+                "url": "/topics/based"
+            },
+            {
+                "name": "Plenty",
+                "url": "/topics/plenty"
+            }
+        ]
+    }
+]

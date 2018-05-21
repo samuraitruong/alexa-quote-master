@@ -1,0 +1,24 @@
+[
+    {
+        "url": "/quotes/jill_st_john_229140",
+        "quote": "Diamonds are forever, my youth is not.",
+        "author": {
+            "name": "Jill St. John",
+            "url": "/quotes/jill_st_john_229140"
+        },
+        "topics": [
+            {
+                "name": "Youth",
+                "url": "/topics/youth"
+            },
+            {
+                "name": "Diamonds",
+                "url": "/topics/diamonds"
+            },
+            {
+                "name": "Forever",
+                "url": "/topics/forever"
+            }
+        ]
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "url": "/quotes/johannes_heesters_712624",
+        "quote": "My secret to a long, healthy life is to always keep working. It keeps me busy and happy and gives me a reason to stay alive.",
+        "author": {
+            "name": "Johannes Heesters",
+            "url": "/quotes/johannes_heesters_712624"
+        },
+        "topics": [
+            {
+                "name": "Alive",
+                "url": "/topics/alive"
+            },
+            {
+                "name": "Always",
+                "url": "/topics/always"
+            },
+            {
+                "name": "Reason",
+                "url": "/topics/reason"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/johannes_heesters_712625",
+        "quote": "Sure, I acted in films in the Third Reich, entertainment films, which distracted countless people inside and outside Germany from daily life during war.",
+        "author": {
+            "name": "Johannes Heesters",
+            "url": "/quotes/johannes_heesters_712625"
+        },
+        "topics": [
+            {
+                "name": "Daily Life",
+                "url": "/topics/daily_life"
+            },
+            {
+                "name": "Which",
+                "url": "/topics/which"
+            },
+            {
+                "name": "Films",
+                "url": "/topics/films"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/johannes_heesters_712626",
+        "quote": "To have nothing to do, to sit there waiting for little aches and pains, is fundamentally wrong. Life has to be lived.",
+        "author": {
+            "name": "Johannes Heesters",
+            "url": "/quotes/johannes_heesters_712626"
+        },
+        "topics": [
+            {
+                "name": "Aches",
+                "url": "/topics/aches"
+            },
+            {
+                "name": "Fundamentally",
+                "url": "/topics/fundamentally"
+            }
+        ]
+    },
+    {
+        "url": "/quotes/johannes_heesters_712627",
+        "quote": "Politics is dirty, and I don't like to talk about dirty things... My conscience is clear.",
+        "author": {
+            "name": "Johannes Heesters",
+            "url": "/quotes/johannes_heesters_712627"
+        },
+        "topics": [
+            {
+                "name": "Politics",
+                "url": "/topics/politics"
+            },
+            {
+                "name": "Dirty",
+                "url": "/topics/dirty"
+            },
+            {
+                "name": "Like",
+                "url": "/topics/like"
+            }
+        ]
+    }
+]
